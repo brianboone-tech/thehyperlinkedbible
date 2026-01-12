@@ -1,0 +1,18 @@
+### [[Readable Bible/02 - Exodus/Exodus 19#Exodus 19 . 16|Exodus 19:16-19]]
+
+**Hebrew Key Terms**:
+- [[Lexicon/H6901-7000#H6963|קֹל שֹׁפָר]] (*qōl šōpār*) - "sound of trumpet"
+- [[Lexicon/H2501-2600#H2389|חָזָק מְאֹד]] (*ḥāzāq məʾōd*) - "very loud, exceedingly strong"
+- [[Lexicon/H2601-2700#H2729|וַיֶּחֱרַד]] (*wayyeḥĕrad*) - "and they trembled"
+- [[Lexicon/H3301-3400#H3381|יָרַד]] (*yārad*) - "descended, came down"
+- [[Lexicon/H1901-2000#H1980|הוֹלֵךְ וְחָזֵק]] (*hôlēk wəḥāzēq*) - "going and growing stronger"
+
+**Context**: God descends on Mount Sinai in theophanic glory—thunder, lightning, thick cloud, and trumpet blast so loud that all Israel trembles. The trumpet announces God's awesome presence as He comes to give the law. Uniquely, this trumpet sound grows progressively louder, increasing in intensity as Moses speaks with God, manifesting divine majesty that both attracts and terrifies.
+
+**Connections**:
+- **TO**: [[Readable Bible/02 - Exodus/Exodus 20#Exodus 20 . 18|Exodus 20:18-21]] (people fear and stand far off), [[Readable Bible/05 - Deuteronomy/Deuteronomy 4#Deuteronomy 4 . 11|Deuteronomy 4:11-12]] (mountain burned with fire, voice from darkness)
+- **FROM NT**: [[Readable Bible/58 - Hebrews/Hebrews 12#Hebrews 12 . 18|Hebrews 12:18-21]] (you have not come to what may be touched), [[Readable Bible/66 - Revelation/Revelation 4#Revelation 4 . 5|Revelation 4:5]] (flashes of lightning, rumblings, peals of thunder), [[Readable Bible/66 - Revelation/Revelation 8#Revelation 8 . 5|Revelation 8:5]] (trumpet judgments)
+
+**Christological Connection**: Exodus 19's Sinai trumpet prefigures Christ's return announced by divine trumpet. At Sinai, trumpet heralded law-giving; at Christ's return, trumpet heralds law's fulfillment and final judgment. The terror that gripped Israel will characterize those who rejected Christ: "The sky vanished like a scroll... and they said to the mountains and rocks, 'Fall on us and hide us from the face of him who is seated on the throne'" ([[Readable Bible/66 - Revelation/Revelation 6#Revelation 6 . 14|Revelation 6:14-16]]). Yet for believers, the trumpet brings joy, not terror—"the trumpet will sound, and the dead will be raised" ([[Readable Bible/46 - 1 Corinthians/1 Corinthians 15#1 Corinthians 15 . 52|1 Corinthians 15:52]]). Hebrews contrasts covenants through trumpet imagery: Sinai's trumpet brought unbearable law ([[Readable Bible/58 - Hebrews/Hebrews 12#Hebrews 12 . 18|Hebrews 12:18-19]]), but believers approach God confidently through Christ's mediation. The trumpet "growing louder and louder" prefigures intensifying eschatological events—tribulation worsens until Christ's triumphant return. Revelation's trumpet judgments (chapters 8-11) escalate in severity, climaxing with the seventh trumpet announcing Christ's kingdom. Moses mediated between trumpet-announced God and terrified Israel; Christ mediates between God and believers, transforming trumpet's terror into triumph. The supernatural trumpet (no human sounded it) points to Christ's return announced by "the trumpet of God" ([[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 4#1 Thessalonians 4 . 16|1 Thessalonians 4:16]])—divine, not human instrument. Sinai's theophany was localized (one mountain); Christ's return will be universal: "As the lightning comes from the east and shines as far as the west, so will be the coming of the Son of Man" ([[Readable Bible/40 - Matthew/Matthew 24#Matthew 24 . 27|Matthew 24:27]]). The escalating trumpet sound foreshadows the final trumpet's unmistakable, irresistible summons that raises the dead and transforms the living in an instant.
+
+**Trajectory Table**: [[Trajectory Tables/058 - Feast of Trumpets (The Final Call)]]

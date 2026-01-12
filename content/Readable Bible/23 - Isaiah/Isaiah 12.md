@@ -1,0 +1,32 @@
+---
+Chapter: "12"
+Book: Isaiah
+Folder: Readable Bible
+cssClasses: lexicon
+---
+
+# Isaiah-R 12
+
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 11#Isaiah-R 11| Isaiah 11]] - [[Readable Bible/23 - Isaiah/Isaiah 13#Isaiah-R 13| Isaiah 13]]
+
+---
+
+##### Isaiah 12 . 1
+[[Reference Bible/23 - Isaiah/Isaiah 12#Isaiah 12 - 1|1]] In that day you will say: “O LORD, I will praise You. Although You were angry with me, Your anger has turned away, and You have comforted me.  | [[Chiasm/Chiasm - 23 - Isaiah 12 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 12 - TOSK#Verse 1|TOSK]] |
+
+##### Isaiah 12 . 2
+[[Reference Bible/23 - Isaiah/Isaiah 12#Isaiah 12 - 2|2]] Surely God is my salvation; I will trust and not be afraid. For the LORD GOD is my strength and my song, and He also has become my salvation.”  Isaiah 12:2  | [[Chiasm/Chiasm - 23 - Isaiah 12 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 12 - TOSK#Verse 2|TOSK]] |
+
+##### Isaiah 12 . 3
+[[Reference Bible/23 - Isaiah/Isaiah 12#Isaiah 12 - 3|3]] With joy you will draw water from the springs of salvation,  | [[Chiasm/Chiasm - 23 - Isaiah 12 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 12 - TOSK#Verse 3|TOSK]] |
+
+##### Isaiah 12 . 4
+[[Reference Bible/23 - Isaiah/Isaiah 12#Isaiah 12 - 4|4]] and on that day you will say: “Give praise to the LORD; proclaim His name! Make His works known among the peoples; declare that His name is exalted.  | [[Chiasm/Chiasm - 23 - Isaiah 12 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 12 - TOSK#Verse 4|TOSK]] |
+
+##### Isaiah 12 . 5
+[[Reference Bible/23 - Isaiah/Isaiah 12#Isaiah 12 - 5|5]] Sing to the LORD, for He has done glorious things. Let this be known in all the earth.  | [[Chiasm/Chiasm - 23 - Isaiah 12 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 12 - TOSK#Verse 5|TOSK]] |
+
+##### Isaiah 12 . 6
+[[Reference Bible/23 - Isaiah/Isaiah 12#Isaiah 12 - 6|6]] Cry out and sing, O citizen of Zion, for great among you is the Holy One of Israel.”  | [[Chiasm/Chiasm - 23 - Isaiah 12 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 12 - TOSK#Verse 6|TOSK]] |

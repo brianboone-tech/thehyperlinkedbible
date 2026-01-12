@@ -1,0 +1,78 @@
+---
+Folder: Reference Bible
+cssClasses: lexicon
+Testament: Old
+Book: 2 Chronicles
+---
+
+# 2 Chronicles 7
+
+[[2 Chronicles 6|←]] • [[2 Chronicles 8|→]]
+
+---
+
+##### 2 Chronicles 7 - 1
+[[Lexicon/H8001-8100#H8010|When Solomon]] [[Lexicon/H3601-3700#H3615|had finished]] [[Lexicon/H6401-6500#H6419|praying ,]] [[Lexicon/H701-800#H784|fire]] [[Lexicon/H3301-3400#H3381|came down]] [[Lexicon/H8001-8100#H8064|from heaven]] [[Lexicon/H301-400#H398|and consumed]] [[Lexicon/H5901-6000#H5930|the burnt offering]] [[Lexicon/H2001-2100#H2077|and the sacrifices ,]] [[Lexicon/H3501-3600#H3519|and the glory]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H4301-4400#H4390|filled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1001-1100#H1004|the temple.]]
+
+##### 2 Chronicles 7 - 2
+[[Lexicon/H3501-3600#H3548|The priests]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H3201-3300#H3201|were unable]] [[Lexicon/H901-1000#H935|to enter]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3501-3600#H3519|the glory]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4301-4400#H4390|had filled]] [[Lexicon/H1001-1100#H1004|[it]]] [[Lexicon/H3001-3100#H3068|....]]
+
+##### 2 Chronicles 7 - 3
+[[Lexicon/H3601-3700#H3605|When all]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H701-800#H784|the fire]] [[Lexicon/H3301-3400#H3381|coming down]] [[Lexicon/H3501-3600#H3519|and the glory]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H5901-6000#H5921|above]] [[Lexicon/H1001-1100#H1004|the temple ,]] [[Lexicon/H3701-3800#H3766|they bowed down]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H7501-7600#H7531|the pavement]] [[Lexicon/H601-700#H639|with their faces]] [[Lexicon/H701-800#H776|to the ground ,]] [[Lexicon/H7801-7900#H7812|and they worshiped]] [[Lexicon/H3001-3100#H3034|and gave thanks]] [[Lexicon/H3001-3100#H3068|to the LORD :]] [[Lexicon/H3501-3600#H3588|“ For]] [[Lexicon/H2801-2900#H2896|He is good ;]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H2601-2700#H2617|His loving devotion]] [[Lexicon/H5701-5800#H5769|endures forever. ”]]
+
+##### 2 Chronicles 7 - 4
+[[Lexicon/H4401-4500#H4428|Then the king]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H2001-2100#H2076|offered]] [[Lexicon/H2001-2100#H2077|sacrifices]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD.]]
+
+##### 2 Chronicles 7 - 5
+[[Lexicon/H4401-4500#H4428|And King]] [[Lexicon/H8001-8100#H8010|Solomon]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2076|offered]] [[Lexicon/H2001-2100#H2077|a sacrifice]] [[Lexicon/H6201-6300#H6242|of 22,000]] [[Lexicon/H8101-8200#H8147|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H1201-1300#H1241|oxen]] [[Lexicon/H3901-4000#H3967|and 120,000]] [[Lexicon/H6201-6300#H6242|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H6601-6700#H6629|sheep.]] [[Lexicon/H4401-4500#H4428|So the king]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H2501-2600#H2596|dedicated]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H401-500#H430|of God.]]
+
+##### 2 Chronicles 7 - 6
+[[Lexicon/H3501-3600#H3548|The priests]] [[Lexicon/H5901-6000#H5975|stood]] [[Lexicon/H5901-6000#H5921|at]] [[Lexicon/H4901-5000#H4931|their posts ,]] [[Lexicon/H3801-3900#H3881|as did the Levites]] [[Lexicon/H7801-7900#H7892|with the musical]] [[Lexicon/H3601-3700#H3627|instruments]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H4401-4500#H4428|King]] [[Lexicon/H1701-1800#H1732|David]] [[Lexicon/H6201-6300#H6213|had made]] [[Lexicon/H3001-3100#H3034|for giving thanks]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H1701-1800#H1732|and with which David]] [[Lexicon/H1901-2000#H1984|had offered praise, saying ,]] [[Lexicon/H3501-3600#H3588|“ For]] [[Lexicon/H2601-2700#H2617|His loving devotion]] [[Lexicon/H5701-5800#H5769|endures forever. ”]] [[Lexicon/H3001-3100#H3027|-]] [[Lexicon/H5001-5100#H5048|Across from the Levites ,]] [[Lexicon/H3501-3600#H3548|the priests]] [[Lexicon/H2601-2700#H2690|sounded trumpets ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3401-3500#H3478|the Israelites]] [[Lexicon/H5901-6000#H5975|were standing.]]
+
+##### 2 Chronicles 7 - 7
+[[Lexicon/H8001-8100#H8010|Then Solomon]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6942|consecrated]] [[Lexicon/H8401-8500#H8432|the middle]] [[Lexicon/H2601-2700#H2691|of the courtyard]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6401-6500#H6440|in front]] [[Lexicon/H1001-1100#H1004|of the house]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H3501-3600#H3588|and]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H6201-6300#H6213|he offered]] [[Lexicon/H5901-6000#H5930|the burnt offerings]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2459|and the fat]] [[Lexicon/H8001-8100#H8002|of the peace offerings ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H5101-5200#H5178|the bronze]] [[Lexicon/H4101-4200#H4196|altar]] [[Lexicon/H8001-8100#H8010|[he]]] [[Lexicon/H6201-6300#H6213|had made]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3201-3300#H3201|could]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H3501-3600#H3557|contain]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4501-4600#H4503|[all these offerings]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5930|-]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2459|-.]]
+
+##### 2 Chronicles 7 - 8
+[[Lexicon/H1901-2000#H1931|So at that]] [[Lexicon/H6201-6300#H6256|time]] [[Lexicon/H8001-8100#H8010|Solomon]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H5901-6000#H5973|with him —]] [[Lexicon/H3901-4000#H3966|a very]] [[Lexicon/H1401-1500#H1419|great]] [[Lexicon/H6901-7000#H6951|assembly of people]] [[Lexicon/H901-1000#H935|vvv]] [[Lexicon/H2501-2600#H2574|from Lebo-hamath]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H5101-5200#H5158|the Brook]] [[Lexicon/H4701-4800#H4714|of Egypt —]] [[Lexicon/H6201-6300#H6213|kept]] [[Lexicon/H2201-2300#H2282|the feast]] [[Lexicon/H7601-7700#H7651|for seven]] [[Lexicon/H3101-3200#H3117|days.]]
+
+##### 2 Chronicles 7 - 9
+[[Lexicon/H8001-8100#H8066|On the eighth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6201-6300#H6213|they held]] [[Lexicon/H6101-6200#H6116|a solemn assembly ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H2501-2600#H2598|the dedication]] [[Lexicon/H4101-4200#H4196|of the altar]] [[Lexicon/H6201-6300#H6213|...]] [[Lexicon/H7601-7700#H7651|had lasted seven]] [[Lexicon/H3101-3200#H3117|days ,]] [[Lexicon/H2201-2300#H2282|and the feast]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H3101-3200#H3117|days more.]]
+
+##### 2 Chronicles 7 - 10
+[[Lexicon/H6201-6300#H6242|On the twenty-third]] [[Lexicon/H7901-8000#H7969|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7637|of the seventh]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H5901-6000#H5971|[Solomon] sent the people]] [[Lexicon/H7901-8000#H7971|away]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H168|to their homes ,]] [[Lexicon/H8001-8100#H8056|joyful]] [[Lexicon/H2801-2900#H2896|and glad]] [[Lexicon/H3801-3900#H3820|of heart]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H2801-2900#H2896|the good things]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6201-6300#H6213|had done]] [[Lexicon/H1701-1800#H1732|for David ,]] [[Lexicon/H8001-8100#H8010|for Solomon ,]] [[Lexicon/H5901-6000#H5971|and for His people]] [[Lexicon/H3401-3500#H3478|Israel.]]
+
+##### 2 Chronicles 7 - 11
+[[Lexicon/H8001-8100#H8010|When Solomon]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3615|had finished]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H4401-4500#H4428|the royal]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1001-1100#H1004|palace ,]] [[Lexicon/H6701-6800#H6743|successfully]] [[Lexicon/H901-1000#H935|carrying out]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5901-6000#H5921|that was in]] [[Lexicon/H8001-8100#H8010|[his]]] [[Lexicon/H3801-3900#H3820|heart]] [[Lexicon/H6201-6300#H6213|to do]] [[Lexicon/H1001-1100#H1004|for the house]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1001-1100#H1004|and for his own palace ,]]
+
+##### 2 Chronicles 7 - 12
+[[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H7101-7200#H7200|appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H8001-8100#H8010|[him]]] [[Lexicon/H3901-4000#H3915|at night]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H8001-8100#H8085|“ I have heard]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8601-8674#H8605|your prayer]] [[Lexicon/H901-1000#H977|and have chosen]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H4701-4800#H4725|place]] [[Lexicon/H1001-1100#H1004|as a house]] [[Lexicon/H2001-2100#H2077|of sacrifice.]]
+
+##### 2 Chronicles 7 - 13
+[[Lexicon/H2001-2100#H2005|If]] [[Lexicon/H6101-6200#H6113|I close]] [[Lexicon/H8001-8100#H8064|the sky]] [[Lexicon/H1901-2000#H1961|so there is]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H4301-4400#H4306|rain ,]] [[Lexicon/H2001-2100#H2005|or if]] [[Lexicon/H6601-6700#H6680|I command]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H2201-2300#H2284|the locust]] [[Lexicon/H301-400#H398|to devour]] [[Lexicon/H701-800#H776|the land ,]] [[Lexicon/H501-600#H518|or if]] [[Lexicon/H7901-8000#H7971|I send]] [[Lexicon/H1601-1700#H1698|a plague]] [[Lexicon/H5901-6000#H5971|among My people ,]]
+
+##### 2 Chronicles 7 - 14
+[[Lexicon/H5901-6000#H5971|and if My people]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H7101-7200#H7121|are called]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H8001-8100#H8034|My name]] [[Lexicon/H3601-3700#H3665|humble themselves]] [[Lexicon/H6401-6500#H6419|and pray]] [[Lexicon/H1201-1300#H1245|and seek]] [[Lexicon/H6401-6500#H6440|My face]] [[Lexicon/H7701-7800#H7725|and turn]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H7401-7500#H7451|their wicked]] [[Lexicon/H1801-1900#H1870|ways ,]] [[Lexicon/H501-600#H589|then I]] [[Lexicon/H8001-8100#H8085|will hear]] [[Lexicon/H8001-8100#H8064|from heaven ,]] [[Lexicon/H5501-5600#H5545|forgive]] [[Lexicon/H2401-2500#H2403|their sin ,]] [[Lexicon/H7401-7500#H7495|and heal]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|their land.]]
+
+##### 2 Chronicles 7 - 15
+[[Lexicon/H6201-6300#H6258|Now]] [[Lexicon/H5801-5900#H5869|My eyes]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H6601-6700#H6605|open]] [[Lexicon/H201-300#H241|and My ears]] [[Lexicon/H7101-7200#H7183|attentive]] [[Lexicon/H8601-8674#H8605|to the prayers offered]] [[Lexicon/H2001-2100#H2088|in this]] [[Lexicon/H4701-4800#H4725|place.]]
+
+##### 2 Chronicles 7 - 16
+[[Lexicon/H6201-6300#H6258|vvv]] [[Lexicon/H901-1000#H977|For I have now chosen]] [[Lexicon/H6901-7000#H6942|and consecrated]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H1001-1100#H1004|temple]] [[Lexicon/H8001-8100#H8034|so that My Name]] [[Lexicon/H1901-2000#H1961|may be]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H5701-5800#H5704|forever]] [[Lexicon/H5701-5800#H5769|....]] [[Lexicon/H5801-5900#H5869|My eyes]] [[Lexicon/H3801-3900#H3820|and My heart]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H3601-3700#H3605|for all time]] [[Lexicon/H3101-3200#H3117|....]]
+
+##### 2 Chronicles 7 - 17
+[[Lexicon/H801-900#H859|And as for you ,]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H1901-2000#H1980|you walk]] [[Lexicon/H6401-6500#H6440|before Me]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H1-100#H1|your father]] [[Lexicon/H1701-1800#H1732|David]] [[Lexicon/H1901-2000#H1980|walked ,]] [[Lexicon/H6201-6300#H6213|doing]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6601-6700#H6680|I have commanded you ,]] [[Lexicon/H8101-8200#H8104|and if you keep]] [[Lexicon/H2701-2800#H2706|My statutes]] [[Lexicon/H4901-5000#H4941|and ordinances ,]]
+
+##### 2 Chronicles 7 - 18
+[[Lexicon/H6901-7000#H6965|then I will establish]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4401-4500#H4438|your royal]] [[Lexicon/H3601-3700#H3678|throne ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H3701-3800#H3772|I covenanted]] [[Lexicon/H1-100#H1|with your father]] [[Lexicon/H1701-1800#H1732|David]] [[Lexicon/H501-600#H559|when I said ,]] [[Lexicon/H3801-3900#H3808|‘ You will never]] [[Lexicon/H3701-3800#H3772|fail]] [[Lexicon/H301-400#H376|to have a man]] [[Lexicon/H4901-5000#H4910|to rule]] [[Lexicon/H3401-3500#H3478|over Israel. ’]]
+
+##### 2 Chronicles 7 - 19
+[[Lexicon/H501-600#H518|But if]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H7701-7800#H7725|turn away]] [[Lexicon/H5701-5800#H5800|and forsake]] [[Lexicon/H2701-2800#H2708|the statutes]] [[Lexicon/H4601-4700#H4687|and commandments]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|I have set]] [[Lexicon/H6401-6500#H6440|before you ,]] [[Lexicon/H1901-2000#H1980|and if you go off]] [[Lexicon/H5601-5700#H5647|to serve]] [[Lexicon/H7801-7900#H7812|and worship]] [[Lexicon/H301-400#H312|other]] [[Lexicon/H401-500#H430|gods ,]]
+
+##### 2 Chronicles 7 - 20
+[[Lexicon/H5401-5500#H5428|then I will uproot Israel]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H101-200#H127|the soil]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|I have given]] [[Lexicon/H7901-8000#H7993|and I will banish]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H6401-6500#H6440|My presence]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H1001-1100#H1004|temple]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6901-7000#H6942|I have sanctified]] [[Lexicon/H8001-8100#H8034|for My Name.]] [[Lexicon/H5401-5500#H5414|I will make it]] [[Lexicon/H4901-5000#H4912|an object of scorn]] [[Lexicon/H8101-8200#H8148|and ridicule]] [[Lexicon/H3601-3700#H3605|among all]] [[Lexicon/H5901-6000#H5971|the peoples.]]
+
+##### 2 Chronicles 7 - 21
+[[Lexicon/H2001-2100#H2088|And [when] this]] [[Lexicon/H1001-1100#H1004|temple]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1961|has become]] [[Lexicon/H5901-6000#H5945|a heap of rubble ,]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5601-5700#H5674|who pass]] [[Lexicon/H5901-6000#H5921|by it]] [[Lexicon/H8001-8100#H8074|will be appalled]] [[Lexicon/H501-600#H559|and say ,]] [[Lexicon/H4001-4100#H4100|‘ Why]] [[Lexicon/H3001-3100#H3068|has the LORD]] [[Lexicon/H6201-6300#H6213|done]] [[Lexicon/H3601-3700#H3602|such a thing]] [[Lexicon/H2001-2100#H2063|to this]] [[Lexicon/H701-800#H776|land]] [[Lexicon/H2001-2100#H2088|and to this]] [[Lexicon/H1001-1100#H1004|temple ? ’]]
+
+##### 2 Chronicles 7 - 22
+[[Lexicon/H501-600#H559|And [others] will answer ,]] [[Lexicon/H5901-6000#H5921|‘ Because]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5701-5800#H5800|they have forsaken]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H1-100#H1|of their fathers ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3301-3400#H3318|brought them]] [[Lexicon/H701-800#H776|out of the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H2301-2400#H2388|and have embraced]] [[Lexicon/H301-400#H312|other]] [[Lexicon/H401-500#H430|gods ,]] [[Lexicon/H7801-7900#H7812|worshiping]] [[Lexicon/H5601-5700#H5647|and serving them —]] [[Lexicon/H5901-6000#H5921|because of]] [[Lexicon/H3601-3700#H3651|this ,]] [[Lexicon/H901-1000#H935|He has brought]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H7401-7500#H7451|disaster]] [[Lexicon/H5901-6000#H5921|upon them. ’”]] [[Lexicon/H801-900#H853|-]]

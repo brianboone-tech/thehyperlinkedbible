@@ -1,0 +1,19 @@
+### [[Readable Bible/03 - Leviticus/Leviticus 23#Leviticus 23 . 23|Leviticus 23:23-25]]
+
+**Hebrew Key Terms**:
+- [[Lexicon/H2301-2400#H2320|בַּחֹדֶשׁ הַשְּׁבִיעִי]] (*baḥōdeš haššəbîʿî*) - "in the seventh month"
+- [[Lexicon/H7601-7700#H7677|שַׁבָּתוֹן]] (*šabbātôn*) - "solemn rest, sabbath observance"
+- [[Lexicon/H2101-2200#H2146|זִכְרוֹן]] (*zikrôn*) - "memorial, remembrance"
+- [[Lexicon/H8601-8700#H8643|תְּרוּעָה]] (*tərûʿāh*) - "blast, shout, alarm"
+- [[Lexicon/H4701-4800#H4744|מִקְרָא־קֹדֶשׁ]] (*miqrāʾ-qōdeš*) - "holy convocation, sacred assembly"
+
+**Context**: God commands Israel to observe the first day of the seventh month as a sabbath rest, marked by trumpet blasts and holy convocation. This feast inaugurates the most sacred month of Israel's calendar, containing the Day of Atonement (10th day) and Feast of Tabernacles (15th day). The trumpets call the people to gather, commemorate God's faithfulness, and prepare for the solemn days ahead.
+
+**Connections**:
+- **TO**: [[Readable Bible/04 - Numbers/Numbers 10#Numbers 10 . 10|Numbers 10:10]] (trumpets at appointed feasts), [[Readable Bible/04 - Numbers/Numbers 29#Numbers 29 . 1|Numbers 29:1-6]] (detailed Feast of Trumpets offerings)
+- **FROM OT**: [[Readable Bible/16 - Nehemiah/Nehemiah 8#Nehemiah 8 . 2|Nehemiah 8:2-3]] (Ezra reads law on first day of seventh month), [[Readable Bible/19 - Psalms/Psalm 81#Psalm 81 . 3|Psalm 81:3]] (blow trumpet at new moon)
+- **FROM NT**: [[Readable Bible/46 - 1 Corinthians/1 Corinthians 15#1 Corinthians 15 . 52|1 Corinthians 15:52]] (last trumpet), [[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 4#1 Thessalonians 4 . 16|1 Thessalonians 4:16]] (trumpet of God), [[Readable Bible/66 - Revelation/Revelation 11#Revelation 11 . 15|Revelation 11:15]] (seventh trumpet)
+
+**Christological Connection**: [[Readable Bible/03 - Leviticus/Leviticus 23#Leviticus 23 . 23|Leviticus 23:23-25]]'s Feast of Trumpets finds ultimate fulfillment in Christ's return announced by trumpet blast. The feast's cryptic "memorial" becomes clear through NT revelation—it commemorates not past deliverance only but anticipates future resurrection. Paul declares: "The trumpet will sound, and the dead will be raised imperishable, and we shall be changed" ([[Readable Bible/46 - 1 Corinthians/1 Corinthians 15#1 Corinthians 15 . 52|1 Corinthians 15:52]]). The trumpets that gathered Israel to sacred assembly will gather Christ's elect "from the four winds" ([[Readable Bible/40 - Matthew/Matthew 24#Matthew 24 . 31|Matthew 24:31]]). The seventh month's sacred character points to eschatological completion—the seventh trumpet in Revelation announces: "The kingdom of the world has become the kingdom of our Lord and of his Christ" ([[Readable Bible/66 - Revelation/Revelation 11#Revelation 11 . 15|Revelation 11:15]]). The feast's preparation for Day of Atonement ten days later typologically points to Christ's atonement, while the trumpets announce His return to consummate that atonement's benefits. The "solemn rest" (šabbātôn) foreshadows eternal rest when believers cease from labor and enter God's presence. The wake-up call applies presently: "Awake, O sleeper, and arise from the dead, and Christ will shine on you" ([[Readable Bible/49 - Ephesians/Ephesians 5#Ephesians 5 . 14|Ephesians 5:14]]). What Israel observed annually at Tishri's beginning, believers anticipate as once-for-all event at history's consummation. The memorial of trumpet blasts becomes the reality of resurrection triumph when Christ descends "with the sound of the trumpet of God" ([[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 4#1 Thessalonians 4 . 16|1 Thessalonians 4:16]]), summoning the redeemed to eternal holy convocation in His presence.
+
+**Trajectory Table**: [[Trajectory Tables/058 - Feast of Trumpets (The Final Call)]]

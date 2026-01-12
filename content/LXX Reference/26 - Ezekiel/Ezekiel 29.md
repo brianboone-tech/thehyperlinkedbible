@@ -1,0 +1,75 @@
+---
+cssClasses: lxx
+Book: Ezekiel
+Chapter: "29"
+Testament: Old
+---
+
+# Ezekiel 29
+
+[[LXX Reference/26 - Ezekiel/Ezekiel 28|←]] • [[LXX Reference/26 - Ezekiel/Ezekiel 30|→]]
+
+---
+
+#### Ezekiel 29 - 1
+[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2094|year]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1101-1200#G1181|tenth]] [[Lexicon/G3301-3400#G3376|month,]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3301-3400#G3376|month,]] [[Lexicon/G1001-1100#G1096|came]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G3001-3100#G3004|saying,]]
+
+#### Ezekiel 29 - 2
+[[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G4701-4800#G4741|firmly fix]] [[Lexicon/G4301-4400#G4383|your face]] [[Lexicon/G1901-2000#G1909|against]] Pharaoh [[Lexicon/G901-1000#G0935|king]] of Egypt, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4395|prophesy]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G3601-3700#G3650|entire Egypt!]]
+
+#### Ezekiel 29 - 3
+[[Lexicon/G2901-3000#G2980|Speak]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|say!]] [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] Adonai [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|you,]] O Pharaoh [[Lexicon/G901-1000#G0935|king]] of Egypt, [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1404|dragon]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G1401-1500#G1455|lying in wait]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4201-4300#G4215|of his rivers.]] [[Lexicon/G3501-3600#G3588|The one]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G1601-1700#G1699|are mine]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G4101-4200#G4160|made]] [[Lexicon/G1401-1500#G1473|them.]]
+
+#### Ezekiel 29 - 4
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1301-1400#G1325|will put]] [[Lexicon/G3801-3900#G3803|snares]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G4501-4600#G4600|your jaws,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4347|I will cleave]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2401-2500#G2486|fishes]] [[Lexicon/G4201-4300#G4215|of your river]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G4401-4500#G4420|your wings.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G301-400#G0321|I will lead]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G4201-4300#G4215|of your river,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2401-2500#G2486|fishes]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4201-4300#G4215|river]] [[Lexicon/G3501-3600#G3588| to]]
+
+#### Ezekiel 29 - 5
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2501-2600#G2598|I will throw you down]] [[Lexicon/G5001-5100#G5034|quickly,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2401-2500#G2486|fishes]] [[Lexicon/G4201-4300#G4215|of your river.]] [[Lexicon/G1901-2000#G1909|Upon]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3901-4000#G3977|plain]] [[Lexicon/G4001-4100#G4098|you shall fall,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3766|no way]] [[Lexicon/G4801-4900#G4863|shall you be brought together;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3766|no way]] [[Lexicon/G4001-4100#G4057|shall you be screened .]] [[Lexicon/G3501-3600#G3588|To the]] [[Lexicon/G2301-2400#G2342|wild beasts]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G4001-4100#G4071|winged creatures]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3772|heaven]] [[Lexicon/G1301-1400#G1325|I have given]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2601-2700#G2603|a thing to be devoured.]]
+
+#### Ezekiel 29 - 6
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1097|shall know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1501-1600#G1510|am]] [[Lexicon/G401-500#G0446|because]] [[Lexicon/G1001-1100#G1096|you became]] [[Lexicon/G4401-4500#G4464|a rod]] [[Lexicon/G2501-2600#G2562|of reed]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3601-3700#G3624|house]] of Israel.
+
+#### Ezekiel 29 - 7
+[[Lexicon/G3701-3800#G3753|When]] [[Lexicon/G1901-2000#G1949|they took hold of]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5401-5500#G5495|their hand,]] [[Lexicon/G2501-2600#G2532|then]] [[Lexicon/G2301-2400#G2345|you were fractured;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3753|when]] [[Lexicon/G1901-2000#G1947|prevailed]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3753|when]] [[Lexicon/G1801-1900#G1879|they rested]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G4901-5000#G4937|you were broken,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4701-4800#G4787|you broke]] [[Lexicon/G1401-1500#G1473|of them]]
+
+#### Ezekiel 29 - 8
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G3501-3600#G3592|thus]] [[Lexicon/G3001-3100#G3004|says]] Adonai [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1801-1900#G1863|bring]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0622|I will destroy]] [[Lexicon/G401-500#G0444|men]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2934|beasts.]]
+
+#### Ezekiel 29 - 9
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2048|desolation.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1097|they shall know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1501-1600#G1510|am]] [[Lexicon/G401-500#G0473|because of]] [[Lexicon/G3001-3100#G3004|your saying,]] [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G4201-4300#G4215|rivers]] [[Lexicon/G1601-1700#G1699|are mine]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G4101-4200#G4160|made]] [[Lexicon/G1401-1500#G1473|them.]]
+
+#### Ezekiel 29 - 10
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4201-4300#G4215|your rivers.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1301-1400#G1325|I will give]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Egypt [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G2001-2100#G2048|desolation,]] [[Lexicon/G4501-4600#G4501|broadsword,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0684|destruction,]] [[Lexicon/G501-600#G0575|from]] Migdol [[Lexicon/G2501-2600#G2532|and]] Syene [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G2101-2200#G2193|unto]] of the Ethiopians.
+
+#### Ezekiel 29 - 11
+[[Lexicon/G3701-3800#G3766|In no way]] [[Lexicon/G1301-1400#G1330|shall there go through]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G401-500#G0444|of a man;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2934|of a beast]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G1301-1400#G1330|shall go through]] [[Lexicon/G1401-1500#G1473|it,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|it shall not]] [[Lexicon/G2701-2800#G2730|be inhabited]] [[Lexicon/G5001-5100#G5062|forty]] [[Lexicon/G2001-2100#G2094|years.]]
+
+#### Ezekiel 29 - 12
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1301-1400#G1325|I will appoint]] [[Lexicon/G1001-1100#G1093|her land]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G601-700#G0684|destruction]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1093|of a land]] [[Lexicon/G2001-2100#G2049|being made desolated,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4172|her cities]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G801-900#G0854|for extinction]] [[Lexicon/G5001-5100#G5062|forty]] [[Lexicon/G2001-2100#G2094|years.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1201-1300#G1289|I will scatter]] Egypt [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3039|I will winnow]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5501-5600#G5561|places.]]
+
+#### Ezekiel 29 - 13
+[[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] Adonai [[Lexicon/G3301-3400#G3326|After]] [[Lexicon/G5001-5100#G5062|forty]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G4801-4900#G4863|I will gather]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G1201-1300#G1287|they were dispersed]] [[Lexicon/G1501-1600#G1563|there.]]
+
+#### Ezekiel 29 - 14
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G601-700#G0654|I will return]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0161|captivity]] [[Lexicon/G3501-3600#G3588|of the]] Egyptians, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2733|I will settle]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|in]] of Phathros, [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] [[Lexicon/G3601-3700#G3606|from where]] [[Lexicon/G2901-3000#G2983|they were taken;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1510|it will be]] [[Lexicon/G701-800#G0746|rule]] [[Lexicon/G1501-1600#G1563|there,]]
+
+#### Ezekiel 29 - 15
+[[Lexicon/G3801-3900#G3844|more than]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0746|rules,]] [[Lexicon/G1501-1600#G1510|it shall be]] [[Lexicon/G5001-5100#G5011|least]] [[Lexicon/G3301-3400#G3361|to not be raised up high]] [[Lexicon/G2001-2100#G2089|any more]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3601-3700#G3641|very few]] [[Lexicon/G3301-3400#G3361|to not be]] [[Lexicon/G4101-4200#G4183|many]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations.]]
+
+#### Ezekiel 29 - 16
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3765|no longer]] [[Lexicon/G1501-1600#G1510|will they be]] [[Lexicon/G2001-2100#G2089|any more]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G301-400#G0363|calling to mind]] [[Lexicon/G401-500#G0458|lawlessness]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G101-200#G0190|their following]] [[Lexicon/G3601-3700#G3694|after]] [[Lexicon/G1401-1500#G1473|them.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1097|they shall know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1501-1600#G1510|am]] Adonai
+
+#### Ezekiel 29 - 17
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1442|seventh]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1501|twentieth]] [[Lexicon/G2001-2100#G2094|year,]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3301-3400#G3376|month]] [[Lexicon/G1001-1100#G1096|came]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G3001-3100#G3004|saying,]]
+
+#### Ezekiel 29 - 18
+[[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] Nebuchadnezzar [[Lexicon/G901-1000#G0935|king]] of Babylon [[Lexicon/G2601-2700#G2615|reduced to slavery]] [[Lexicon/G1401-1500#G1411|his force]] [[Lexicon/G1301-1400#G1397|service]] [[Lexicon/G1901-2000#G1909|against]] Tyre. [[Lexicon/G3901-4000#G3956|Every]] [[Lexicon/G2701-2800#G2776|head]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G5601-5700#G5606|shoulder]] [[Lexicon/G3001-3100#G3097|loose of hair.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3401-3500#G3408|a wage]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G1001-1100#G1096|exist]] [[Lexicon/G1401-1500#G1473|to him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1411|his force]] Tyre, [[Lexicon/G1201-1300#G1223|for]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1301-1400#G1397|service]] [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G1301-1400#G1398|they served]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|it.]]
+
+#### Ezekiel 29 - 19
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G3501-3600#G3592|thus]] [[Lexicon/G3001-3100#G3004|says]] Adonai [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1301-1400#G1325|I give]] Nebuchadnezzar [[Lexicon/G901-1000#G0935|king]] of Babylon [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Egypt; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4659|he shall despoil]] [[Lexicon/G4601-4700#G4661|her spoils,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4307|he shall plunder]] [[Lexicon/G4301-4400#G4307|her plunder;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1510|it will be]] [[Lexicon/G1401-1500#G1411|for his force.]]
+
+#### Ezekiel 29 - 20
+[[Lexicon/G401-500#G0473|In return]] [[Lexicon/G3001-3100#G3009|for his ministration]] [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G1301-1400#G1398|he served]] [[Lexicon/G1901-2000#G1909|against]] Tyre, [[Lexicon/G1301-1400#G1325|I have given]] [[Lexicon/G1401-1500#G1473|to him]] of Egypt, [[Lexicon/G401-500#G0446|because of]] [[Lexicon/G3701-3800#G3745|as much as]] [[Lexicon/G2001-2100#G2038|he worked]] [[Lexicon/G1401-1500#G1473|to me,]] [[Lexicon/G3001-3100#G3004|says]] Adonai
+
+#### Ezekiel 29 - 21
+[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G2201-2300#G2250|that day]] [[Lexicon/G301-400#G0393|there shall rise up]] [[Lexicon/G2701-2800#G2768|a horn]] [[Lexicon/G3901-4000#G3956|to all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] of Israel, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|I will give]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G4701-4800#G4750|a mouth]] [[Lexicon/G401-500#G0455|being opened]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|of them;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1097|they shall know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1501-1600#G1510|am]]

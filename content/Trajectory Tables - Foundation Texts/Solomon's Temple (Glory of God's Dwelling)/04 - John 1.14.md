@@ -1,0 +1,23 @@
+### [[Readable Bible/43 - John/John 1#John 1 . 14|John 1:14]]
+
+**Greek Key Terms**:
+- [[Lexicon/G3001-3100#G3056|Λόγος]] (*Logos*) - "Word"
+- [[Lexicon/G4401-4500#G4561|σὰρξ]] (*sarx*) - "flesh"
+- [[Lexicon/G1001-1100#G1096|ἐγένετο]] (*egeneto*) - "became, was made"
+- [[Lexicon/G4401-4500#G4637|ἐσκήνωσεν]] (*eskēnōsen*) - "dwelt, tabernacled, pitched tent"
+- [[Lexicon/G1301-1400#G1391|δόξα]] (*doxa*) - "glory"
+- [[Lexicon/G2201-2300#G2300|θεάομαι]] (*theaomai*) - "beheld, gazed upon"
+- [[Lexicon/G3301-3400#G3439|μονογενής]] (*monogenēs*) - "only begotten, unique"
+- [[Lexicon/G5401-5500#G5485|χάρις]] (*charis*) - "grace"
+- [[Lexicon/G0001-0100#G0225|ἀλήθεια]] (*alētheia*) - "truth"
+
+**Context**: John's prologue climaxes with the incarnation—the eternal Word becomes flesh and dwells among humanity. The verb "dwelt" (ἐσκήνωσεν) literally means "tabernacled," deliberately evoking the OT tabernacle and temple where God's glory dwelt. This verse announces that what Solomon's temple represented—God's presence among His people—has now become reality in Jesus Christ.
+
+**Connections**:
+- **TO**: [[Readable Bible/43 - John/John 1#John 1 . 1|John 1:1-3]] (Word with God, Word was God)
+- **FROM OT**: [[Readable Bible/02 - Exodus/Exodus 25#Exodus 25 . 8|Exodus 25:8]] (God dwells among them), [[Readable Bible/02 - Exodus/Exodus 40#Exodus 40 . 34|Exodus 40:34-35]] (glory fills tabernacle), [[Readable Bible/11 - 1 Kings/1 Kings 8#1 Kings 8 . 10|1 Kings 8:10-11]] (glory fills temple)
+- **FROM NT**: [[Readable Bible/43 - John/John 2#John 2 . 19|John 2:19-21]] (temple of his body), [[Readable Bible/51 - Colossians/Colossians 1#Colossians 1 . 19|Colossians 1:19]] (fullness of God dwells in him), [[Readable Bible/51 - Colossians/Colossians 2#Colossians 2 . 9|Colossians 2:9]] (fullness of deity bodily), [[Readable Bible/58 - Hebrews/Hebrews 1#Hebrews 1 . 3|Hebrews 1:3]] (radiance of God's glory)
+
+**Christological Connection**: [[Readable Bible/43 - John/John 1#John 1 . 14|John 1:14]] is the NT's most direct statement of tabernacle typology fulfilled in Christ. Where Solomon's temple took seven years to build ([[Readable Bible/11 - 1 Kings/1 Kings 6#1 Kings 6 . 38|1 Kings 6:38]]), the incarnation took generations of preparation from Abraham forward. Where the cloud filled Solomon's temple so priests couldn't minister ([[Readable Bible/11 - 1 Kings/1 Kings 8#1 Kings 8 . 10|1 Kings 8:10-11]]), the Word fills human flesh and becomes our permanent high priest. Where Moses saw God's glory passing by ([[Readable Bible/02 - Exodus/Exodus 33#Exodus 33 . 22|Exodus 33:22-23]]), John and the apostles "dwelt" with glory incarnate—"that which we have seen with our eyes, which we looked upon and have touched with our hands" ([[Readable Bible/62 - 1 John/1 John 1#1 John 1 . 1|1 John 1:1]]). The tabernacle's purpose—"that I may dwell among them" ([[Readable Bible/02 - Exodus/Exodus 25#Exodus 25 . 8|Exodus 25:8]])—finds ultimate fulfillment in Emmanuel, "God with us" ([[Readable Bible/40 - Matthew/Matthew 1#Matthew 1 . 23|Matthew 1:23]]). When Jesus declares "destroy this temple, and in three days I will raise it up" ([[Readable Bible/43 - John/John 2#John 2 . 19|John 2:19]]), John explains: "he was speaking about the temple of his body" (v. 21). Christ IS the temple where God and humanity meet. Paul declares "in him the whole fullness of deity dwells bodily" ([[Readable Bible/51 - Colossians/Colossians 2#Colossians 2 . 9|Colossians 2:9]])—not symbolically as in temple rituals, but actually, permanently, fully. Hebrews calls Christ "the radiance of the glory of God and the exact imprint of his nature" ([[Readable Bible/58 - Hebrews/Hebrews 1#Hebrews 1 . 3|Hebrews 1:3]])—what filled the temple was shadow; Christ is the substance. The trajectory moves: tabernacle (Exodus 40) → temple (1 Kings 8) → incarnate Word ([[Readable Bible/43 - John/John 1#John 1 . 14|John 1:14]]) → church ([[Readable Bible/49 - Ephesians/Ephesians 2#Ephesians 2 . 21|Ephesians 2:21-22]]) → new creation ([[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 3|Revelation 21:3]]). At each stage, God's presence becomes more intimate, more permanent, more accessible, until finally "the dwelling place of God is with man... and God himself will be with them as their God" ([[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 3|Revelation 21:3]]). [[Readable Bible/43 - John/John 1#John 1 . 14|John 1:14]] announces the pivot point—God has tabernacled in flesh, and we have seen His glory.
+
+**Trajectory Table**: [[Trajectory Tables/149 - Solomon's Temple (Glory of God's Dwelling)]]

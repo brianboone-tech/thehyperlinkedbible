@@ -1,0 +1,25 @@
+### [[Readable Bible/45 - Romans/Romans 12#Romans 12 . 1|Romans 12:1-2]]
+
+**Greek Key Terms**:
+- [[Lexicon/G3801-3900#G3870|παρακαλῶ]] (*parakalō*) - "I exhort, urge" (present active)
+- [[Lexicon/G3601-3700#G3628|οἰκτιρμῶν]] (*oiktirmōn*) - "mercies, compassions" (genitive plural)
+- [[Lexicon/G3801-3900#G3936|παραστῆσαι]] (*parastēsai*) - "to present" (aorist infinitive)
+- [[Lexicon/G4701-4800#G4983|σώματα]] (*sōmata*) - "bodies" (accusative plural)
+- [[Lexicon/G2301-2400#G2378|θυσίαν]] (*thysian*) - "sacrifice"
+- [[Lexicon/G2201-2300#G2198|ζῶσαν]] (*zōsan*) - "living" (present participle)
+- [[Lexicon/G0001-0100#G0040|ἁγίαν]] (*hagian*) - "holy"
+- [[Lexicon/G2101-2200#G2101|εὐάρεστον]] (*euareston*) - "well-pleasing, acceptable"
+- [[Lexicon/G3001-3100#G3050|λογικὴν]] (*logikēn*) - "reasonable, rational, spiritual"
+- [[Lexicon/G3001-3100#G3339|μεταμορφοῦσθε]] (*metamorphousthe*) - "be transformed" (present passive imperative)
+- [[Lexicon/G0301-0400#G0342|ἀνακαινώσει]] (*anakainōsei*) - "renewing" (dative)
+- [[Lexicon/G3401-3500#G3563|νοός]] (*noos*) - "mind" (genitive)
+
+**Context**: Paul transitions from doctrinal exposition (Romans 1-11) to practical application (Romans 12-16) with urgent appeal: "present your bodies a living sacrifice, holy, acceptable to God, which is your reasonable service." The burnt offering imagery transforms—no longer dead animals on literal altar, but living persons as spiritual offering. Because Christ offered Himself as perfect burnt offering, believers now offer themselves as continuous consecration. The "mercies of God" (chapters 1-11's content) ground the imperative—gratitude for Christ's burnt offering motivates our living sacrifice.
+
+**Connections**:
+- **TO**: [[Readable Bible/03 - Leviticus/Leviticus 1#Leviticus 1 . 3|Leviticus 1:3]] (bring burnt offering without blemish), [[Readable Bible/19 - Psalms/Psalm 51#Psalm 51 . 17|Psalm 51:17]] (sacrifices of God are broken spirit)
+- **FROM NT**: [[Readable Bible/60 - 1 Peter/1 Peter 2#1 Peter 2 . 5|1 Peter 2:5]] (holy priesthood, offer spiritual sacrifices), [[Readable Bible/58 - Hebrews/Hebrews 13#Hebrews 13 . 15|Hebrews 13:15-16]] (sacrifice of praise, doing good and sharing), [[Readable Bible/50 - Philippians/Philippians 1#Philippians 1 . 20|Philippians 1:20]] (Christ magnified in my body), [[Readable Bible/46 - 1 Corinthians/1 Corinthians 6#1 Corinthians 6 . 20|1 Corinthians 6:20]] (glorify God in your body)
+
+**Christological Connection**: [[Readable Bible/45 - Romans/Romans 12#Romans 12 . 1|Romans 12:1-2]] applies the burnt offering typology to Christian living, showing how Christ's perfect burnt offering enables and requires believers' living sacrifice. The connection is explicit: "I beseech you therefore, by the mercies of God"—the "therefore" references Romans 1-11's exposition of salvation in Christ, the "mercies of God" encompass Christ's justifying death and sanctifying work. Because Christ offered Himself as the true burnt offering ([[Readable Bible/49 - Ephesians/Ephesians 5#Ephesians 5 . 2|Ephesians 5:2]]), unreservedly consecrated to the Father's will ([[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 7|Hebrews 10:7]]), believers now "present your bodies a living sacrifice, holy, acceptable to God." The transformation from Levitical burnt offerings to Christian living sacrifice is comprehensive. The Levitical offering was dead (slaughtered animal); the Christian offering is living (ongoing consecration). The Levitical offering was consumed once; the Christian offering continues perpetually. The Levitical offering required unblemished animal; the Christian offering requires holiness enabled by Christ's sanctifying work. The Levitical offering was "sweet savor to the LORD"; the Christian offering is "acceptable to God" through union with Christ. The imperative "present" (parastēsai) echoes [[Readable Bible/03 - Leviticus/Leviticus 1#Leviticus 1 . 3|Leviticus 1:3]]'s requirement to "bring" the offering to the tabernacle door—decisive presentation followed by complete consecration. But Paul's offering doesn't end in death; it's "living sacrifice"—the paradox of dying to self ([[Readable Bible/48 - Galatians/Galatians 2#Galatians 2 . 20|Galatians 2:20]]) while living for God. This becomes possible only because Christ's burnt offering accomplished what ours symbolizes. His total consecration (life and death) enables our total consecration (ongoing obedience). His sweet savor to the Father makes our lives acceptable. His once-for-all sacrifice establishes basis for our daily sacrifice. The burnt offering trajectory completes: Genesis 8 (Noah's offering) → Leviticus 1 (institutionalized burnt offerings) → [[Readable Bible/49 - Ephesians/Ephesians 5#Ephesians 5 . 2|Ephesians 5:2]] (Christ's fulfillment) → [[Readable Bible/45 - Romans/Romans 12#Romans 12 . 1|Romans 12:1]] (believers' application). What the daily morning and evening burnt offerings symbolized—life framed by devotion to God—becomes Christian reality through Christ's enabling sacrifice.
+
+**Trajectory Table**: [[Trajectory Tables/023 - Burnt Offering (Christ's Total Consecration)]]

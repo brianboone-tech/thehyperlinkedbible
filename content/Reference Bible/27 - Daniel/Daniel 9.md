@@ -1,0 +1,92 @@
+---
+Folder: Reference Bible
+cssClasses: lexicon
+---
+
+# Daniel 9
+
+[[Daniel 8|←]] • [[Daniel 10|→]]
+
+---
+
+##### Daniel 9 - 1
+[[Lexicon/H201-300#H259|In the first]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H1801-1900#H1867|of Darius]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H301-400#H325|of Xerxes ,]] [[Lexicon/H4001-4100#H4074|a Mede]] [[Lexicon/H2201-2300#H2233|by descent ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4401-4500#H4427|was made ruler]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H4401-4500#H4438|the kingdom]] [[Lexicon/H3701-3800#H3778|of the Chaldeans —]]
+
+##### Daniel 9 - 2
+[[Lexicon/H201-300#H259|in the first]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H4401-4500#H4427|of his reign ,]] [[Lexicon/H501-600#H589|I ,]] [[Lexicon/H1801-1900#H1841|Daniel - ,]] [[Lexicon/H901-1000#H995|understood]] [[Lexicon/H5601-5700#H5612|from the sacred books]] [[Lexicon/H4501-4600#H4557|-]] [[Lexicon/H8101-8200#H8141|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1961|- ,]] [[Lexicon/H1601-1700#H1697|according to the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3401-3500#H3414|Jeremiah -]] [[Lexicon/H5001-5100#H5030|the prophet ,]] [[Lexicon/H2701-2800#H2723|that the desolation]] [[Lexicon/H3301-3400#H3389|of Jerusalem]] [[Lexicon/H4301-4400#H4390|would last]] [[Lexicon/H7601-7700#H7657|seventy]] [[Lexicon/H8101-8200#H8141|years.]]
+
+##### Daniel 9 - 3
+[[Lexicon/H5401-5500#H5414|So I turned my attention]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6440|-]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H1201-1300#H1245|to seek Him]] [[Lexicon/H8601-8674#H8605|by prayer]] [[Lexicon/H8401-8500#H8469|and petition ,]] [[Lexicon/H6601-6700#H6685|with fasting ,]] [[Lexicon/H8201-8300#H8242|sackcloth ,]] [[Lexicon/H601-700#H665|and ashes.]]
+
+##### Daniel 9 - 4
+[[Lexicon/H6401-6500#H6419|And I prayed]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H401-500#H430|my God]] [[Lexicon/H3001-3100#H3034|and confessed]] [[Lexicon/H501-600#H559|... ,]] [[Lexicon/H501-600#H577|“ O ,]] [[Lexicon/H101-200#H136|Lord ,]] [[Lexicon/H1401-1500#H1419|the great]] [[Lexicon/H3301-3400#H3372|and awesome]] [[Lexicon/H401-500#H410|God ,]] [[Lexicon/H8101-8200#H8104|who keeps]] [[Lexicon/H1201-1300#H1285|His covenant]] [[Lexicon/H2601-2700#H2617|of loving devotion]] [[Lexicon/H101-200#H157|to those who love Him]] [[Lexicon/H8101-8200#H8104|and keep]] [[Lexicon/H4601-4700#H4687|His commandments ,]]
+
+##### Daniel 9 - 5
+[[Lexicon/H2301-2400#H2398|we have sinned]] [[Lexicon/H5701-5800#H5753|and done wrong.]] [[Lexicon/H7501-7600#H7561|We have acted wickedly]] [[Lexicon/H4701-4800#H4775|and rebelled.]] [[Lexicon/H5401-5500#H5493|We have turned away]] [[Lexicon/H4601-4700#H4687|from Your commandments]] [[Lexicon/H4901-5000#H4941|and ordinances.]]
+
+##### Daniel 9 - 6
+[[Lexicon/H3801-3900#H3808|We have not]] [[Lexicon/H8001-8100#H8085|listened]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5601-5700#H5650|Your servants]] [[Lexicon/H5001-5100#H5030|the prophets ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H1601-1700#H1696|spoke]] [[Lexicon/H8001-8100#H8034|in Your name]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4401-4500#H4428|our kings ,]] [[Lexicon/H8201-8300#H8269|leaders ,]] [[Lexicon/H1-100#H1|and fathers ,]] [[Lexicon/H401-500#H413|and]] [[Lexicon/H3601-3700#H3605|to all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H701-800#H776|of the land.]]
+
+##### Daniel 9 - 7
+[[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H6601-6700#H6666|[belongs] righteousness]] [[Lexicon/H2001-2100#H2088|but this]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6401-6500#H6440|we are covered]] [[Lexicon/H1301-1400#H1322|with shame —]] [[Lexicon/H301-400#H376|the men]] [[Lexicon/H3001-3100#H3063|of Judah ,]] [[Lexicon/H3401-3500#H3427|the people]] [[Lexicon/H3301-3400#H3389|of Jerusalem ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H7101-7200#H7138|near]] [[Lexicon/H7301-7400#H7350|and far ,]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H701-800#H776|the countries]] [[Lexicon/H801-900#H834|to which]] [[Lexicon/H5001-5100#H5080|You have driven us]] [[Lexicon/H8001-8100#H8033|...]] [[Lexicon/H4601-4700#H4604|because of our unfaithfulness]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H4601-4700#H4603|]]
+
+##### Daniel 9 - 8
+[[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H6401-6500#H6440|are covered]] [[Lexicon/H1301-1400#H1322|with shame —]] [[Lexicon/H4401-4500#H4428|our kings ,]] [[Lexicon/H8201-8300#H8269|our leaders ,]] [[Lexicon/H1-100#H1|and our fathers —]] [[Lexicon/H801-900#H834|because]] [[Lexicon/H2301-2400#H2398|we have sinned]]
+
+##### Daniel 9 - 9
+[[Lexicon/H101-200#H136|To the Lord]] [[Lexicon/H401-500#H430|our God]] [[Lexicon/H7301-7400#H7356|[belong] compassion]] [[Lexicon/H5501-5600#H5547|and forgiveness ,]] [[Lexicon/H3501-3600#H3588|even though]] [[Lexicon/H4701-4800#H4775|we have rebelled]]
+
+##### Daniel 9 - 10
+[[Lexicon/H3801-3900#H3808|and have not]] [[Lexicon/H8001-8100#H8085|obeyed]] [[Lexicon/H6901-7000#H6963|the voice]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H430|our God]] [[Lexicon/H1901-2000#H1980|to walk]] [[Lexicon/H8401-8500#H8451|in His laws ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H5401-5500#H5414|He set]] [[Lexicon/H6401-6500#H6440|before us]] [[Lexicon/H3001-3100#H3027|through]] [[Lexicon/H5601-5700#H5650|His servants]] [[Lexicon/H5001-5100#H5030|the prophets.]]
+
+##### Daniel 9 - 11
+[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H5601-5700#H5674|has transgressed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8401-8500#H8451|Your law]] [[Lexicon/H5401-5500#H5493|and turned away ,]] [[Lexicon/H1101-1200#H1115|refusing]] [[Lexicon/H8001-8100#H8085|to obey]] [[Lexicon/H6901-7000#H6963|Your voice ;]] [[Lexicon/H401-500#H423|so the oath]] [[Lexicon/H7601-7700#H7621|and the curse]] [[Lexicon/H801-900#H834|]] [[Lexicon/H3701-3800#H3789|written]] [[Lexicon/H8401-8500#H8451|in the Law]] [[Lexicon/H4801-4900#H4872|of Moses]] [[Lexicon/H5601-5700#H5650|the servant]] [[Lexicon/H401-500#H430|of God]] [[Lexicon/H5401-5500#H5413|has been poured out]] [[Lexicon/H5901-6000#H5921|on us ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H2301-2400#H2398|we have sinned]]
+
+##### Daniel 9 - 12
+[[Lexicon/H6901-7000#H6965|You have carried out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1697|the words]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1601-1700#H1696|spoken]] [[Lexicon/H5901-6000#H5921|against us]] [[Lexicon/H5901-6000#H5921|and against]] [[Lexicon/H8101-8200#H8199|our rulers]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8101-8200#H8199|-]] [[Lexicon/H901-1000#H935|by bringing]] [[Lexicon/H5901-6000#H5921|upon us]] [[Lexicon/H1401-1500#H1419|a great]] [[Lexicon/H7401-7500#H7451|disaster.]] [[Lexicon/H8401-8500#H8478|For under]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H8001-8100#H8064|of heaven ,]] [[Lexicon/H801-900#H834|]] [[Lexicon/H3801-3900#H3808|nothing]] [[Lexicon/H6201-6300#H6213|has ever been done]] [[Lexicon/H801-900#H834|like what]] [[Lexicon/H6201-6300#H6213|has been done]] [[Lexicon/H3301-3400#H3389|to Jerusalem.]]
+
+##### Daniel 9 - 13
+[[Lexicon/H801-900#H834|Just as]] [[Lexicon/H3701-3800#H3789|it is written]] [[Lexicon/H8401-8500#H8451|in the Law]] [[Lexicon/H4801-4900#H4872|of Moses ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H7401-7500#H7451|disaster]] [[Lexicon/H901-1000#H935|has come]] [[Lexicon/H5901-6000#H5921|upon us ,]] [[Lexicon/H3801-3900#H3808|yet we have not]] [[Lexicon/H2401-2500#H2470|sought the favor]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H430|our God]] [[Lexicon/H7701-7800#H7725|by turning]] [[Lexicon/H5701-5800#H5771|from our iniquities]] [[Lexicon/H7901-8000#H7919|and giving attention]] [[Lexicon/H501-600#H571|to Your tRuth -.]]
+
+##### Daniel 9 - 14
+[[Lexicon/H3001-3100#H3068|Therefore the LORD]] [[Lexicon/H7401-7500#H7451|has kept the calamity]] [[Lexicon/H5901-6000#H5921|]] [[Lexicon/H8201-8300#H8245|in store]] [[Lexicon/H901-1000#H935|and brought it]] [[Lexicon/H5901-6000#H5921|upon us.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|our God]] [[Lexicon/H6601-6700#H6662|is righteous]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4601-4700#H4639|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6201-6300#H6213|He does ;]] [[Lexicon/H3801-3900#H3808|yet we have not]] [[Lexicon/H8001-8100#H8085|obeyed]] [[Lexicon/H6901-7000#H6963|His voice.]]
+
+##### Daniel 9 - 15
+[[Lexicon/H6201-6300#H6258|Now ,]] [[Lexicon/H101-200#H136|O Lord]] [[Lexicon/H401-500#H430|our God ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3301-3400#H3318|brought]] [[Lexicon/H5901-6000#H5971|Your people]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|out of the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H2301-2400#H2389|with a mighty]] [[Lexicon/H3001-3100#H3027|hand ,]] [[Lexicon/H6201-6300#H6213|and who made]] [[Lexicon/H8001-8100#H8034|a name]] [[Lexicon/H2001-2100#H2088|renowned to this]] [[Lexicon/H3101-3200#H3117|day ,]] [[Lexicon/H2301-2400#H2398|we have sinned ;]] [[Lexicon/H7501-7600#H7561|we have acted wickedly.]]
+
+##### Daniel 9 - 16
+[[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H3601-3700#H3605|in keeping with all]] [[Lexicon/H6601-6700#H6666|Your righteous Acts - ,]] [[Lexicon/H4901-5000#H4994|I pray]] [[Lexicon/H601-700#H639|that Your anger]] [[Lexicon/H2501-2600#H2534|and wrath]] [[Lexicon/H7701-7800#H7725|may turn away]] [[Lexicon/H5801-5900#H5892|from Your city]] [[Lexicon/H3301-3400#H3389|Jerusalem ,]] [[Lexicon/H6901-7000#H6944|Your holy]] [[Lexicon/H2001-2100#H2022|mountain ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H2301-2400#H2399|because of our sins]] [[Lexicon/H5701-5800#H5771|and the iniquities]] [[Lexicon/H1-100#H1|of our fathers ,]] [[Lexicon/H3301-3400#H3389|Jerusalem]] [[Lexicon/H5901-6000#H5971|and Your people]] [[Lexicon/H2701-2800#H2781|[are] a reproach]] [[Lexicon/H3601-3700#H3605|to all]] [[Lexicon/H5401-5500#H5439|around us.]]
+
+##### Daniel 9 - 17
+[[Lexicon/H6201-6300#H6258|So now ,]] [[Lexicon/H401-500#H430|our God ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H8001-8100#H8085|hear]] [[Lexicon/H8601-8674#H8605|the prayers]] [[Lexicon/H401-500#H413|and]] [[Lexicon/H8401-8500#H8469|petitions]] [[Lexicon/H5601-5700#H5650|of Your servant.]] [[Lexicon/H4601-4700#H4616|For Your sake ,]] [[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H6401-6500#H6440|cause Your face]] [[Lexicon/H201-300#H215|to shine]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H8001-8100#H8076|Your desolate]] [[Lexicon/H4701-4800#H4720|sanctuary.]]
+
+##### Daniel 9 - 18
+[[Lexicon/H5101-5200#H5186|Incline]] [[Lexicon/H201-300#H241|Your ear ,]] [[Lexicon/H401-500#H430|O my God ,]] [[Lexicon/H8001-8100#H8085|and hear ;]] [[Lexicon/H6401-6500#H6491|open]] [[Lexicon/H5801-5900#H5869|Your eyes]] [[Lexicon/H7101-7200#H7200|and see]] [[Lexicon/H8001-8100#H8074|the desolation]] [[Lexicon/H5801-5900#H5892|of the city]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7121|that bears]] [[Lexicon/H8001-8100#H8034|Your name]] [[Lexicon/H5901-6000#H5921|.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H587|we]] [[Lexicon/H3801-3900#H3808|are not]] [[Lexicon/H5301-5400#H5307|presenting]] [[Lexicon/H8401-8500#H8469|our petitions]] [[Lexicon/H6401-6500#H6440|before You]] [[Lexicon/H5901-6000#H5921|because of]] [[Lexicon/H6601-6700#H6666|our righteous Acts - ,]] [[Lexicon/H3501-3600#H3588|but]] [[Lexicon/H5901-6000#H5921|because of]] [[Lexicon/H7201-7300#H7227|Your great]] [[Lexicon/H7301-7400#H7356|compassion.]]
+
+##### Daniel 9 - 19
+[[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H8001-8100#H8085|listen !]] [[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H5501-5600#H5545|forgive !]] [[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H7101-7200#H7181|hear]] [[Lexicon/H6201-6300#H6213|and act !]] [[Lexicon/H4601-4700#H4616|For Your sake ,]] [[Lexicon/H401-500#H430|O my God ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H301-400#H309|delay ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H5801-5900#H5892|Your city]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5901-6000#H5971|and Your people]] [[Lexicon/H7101-7200#H7121|bear]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H8001-8100#H8034|Your name. ”]]
+
+##### Daniel 9 - 20
+[[Lexicon/H5701-5800#H5750|While]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H1601-1700#H1696|was speaking ,]] [[Lexicon/H6401-6500#H6419|praying ,]] [[Lexicon/H3001-3100#H3034|confessing]] [[Lexicon/H2401-2500#H2403|my sin]] [[Lexicon/H2401-2500#H2403|and [that]]] [[Lexicon/H5901-6000#H5971|of my people]] [[Lexicon/H3401-3500#H3478|Israel ,]] [[Lexicon/H5301-5400#H5307|and presenting]] [[Lexicon/H8401-8500#H8467|my petition]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|my God]] [[Lexicon/H5901-6000#H5921|concerning]] [[Lexicon/H401-500#H430|[His]]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H2001-2100#H2022|mountain —]]
+
+##### Daniel 9 - 21
+[[Lexicon/H5701-5800#H5750|while]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H1601-1700#H1696|was still praying]] [[Lexicon/H8601-8674#H8605|... ,]] [[Lexicon/H1401-1500#H1403|Gabriel ,]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H301-400#H376|the man]] [[Lexicon/H7101-7200#H7200|I had seen]] [[Lexicon/H8401-8500#H8462|in the earlier]] [[Lexicon/H3201-3300#H3286|...]] [[Lexicon/H2301-2400#H2377|vision ,]] [[Lexicon/H5001-5100#H5060|came]] [[Lexicon/H401-500#H413|to me]] [[Lexicon/H3201-3300#H3288|in swift flight]] [[Lexicon/H6201-6300#H6256|about the time]] [[Lexicon/H6101-6200#H6153|of the evening]] [[Lexicon/H4501-4600#H4503|sacrifice.]]
+
+##### Daniel 9 - 22
+[[Lexicon/H901-1000#H995|He instructed [me]]] [[Lexicon/H1601-1700#H1696|and spoke]] [[Lexicon/H5901-6000#H5973|with me ,]] [[Lexicon/H501-600#H559|saying :]] [[Lexicon/H1801-1900#H1841|“ O Daniel - ,]] [[Lexicon/H3301-3400#H3318|I have come]] [[Lexicon/H6201-6300#H6258|now]] [[Lexicon/H7901-8000#H7919|to give you insight]] [[Lexicon/H901-1000#H998|and understanding.]]
+
+##### Daniel 9 - 23
+[[Lexicon/H8401-8500#H8462|At the beginning]] [[Lexicon/H8401-8500#H8469|of your petitions ,]] [[Lexicon/H1601-1700#H1697|an answer]] [[Lexicon/H3301-3400#H3318|went out ,]] [[Lexicon/H501-600#H589|and I]] [[Lexicon/H901-1000#H935|have come]] [[Lexicon/H5001-5100#H5046|to tell [you] ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H801-900#H859|you [are]]] [[Lexicon/H2501-2600#H2530|highly precious.]] [[Lexicon/H901-1000#H995|So consider]] [[Lexicon/H1601-1700#H1697|the message]] [[Lexicon/H901-1000#H995|and understand]] [[Lexicon/H4701-4800#H4758|the vision :]]
+
+##### Daniel 9 - 24
+[[Lexicon/H7601-7700#H7657|Seventy]] [[Lexicon/H7601-7700#H7620|weeks]] [[Lexicon/H2801-2900#H2852|are decreed]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H5901-6000#H5971|your people]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6901-7000#H6944|and your holy]] [[Lexicon/H5801-5900#H5892|city]] [[Lexicon/H3601-3700#H3615|to stop]] [[Lexicon/H6501-6600#H6588|their transgression ,]] [[Lexicon/H2801-2900#H2856|to put an end]] [[Lexicon/H2401-2500#H2403|to sin ,]] [[Lexicon/H3701-3800#H3722|to make atonement]] [[Lexicon/H5701-5800#H5771|for iniquity ,]] [[Lexicon/H901-1000#H935|to bring in]] [[Lexicon/H5701-5800#H5769|everlasting]] [[Lexicon/H6601-6700#H6664|righteousness ,]] [[Lexicon/H2801-2900#H2856|to seal up]] [[Lexicon/H2301-2400#H2377|vision]] [[Lexicon/H5001-5100#H5030|and prophecy ,]] [[Lexicon/H4801-4900#H4886|and to anoint]] [[Lexicon/H6901-7000#H6944|the Most Holy [Place]]] [[Lexicon/H6901-7000#H6944|....]]
+
+##### Daniel 9 - 25
+[[Lexicon/H3001-3100#H3045|Know]] [[Lexicon/H7901-8000#H7919|and understand this :]] [[Lexicon/H4401-4500#H4480|From]] [[Lexicon/H4101-4200#H4161|the issuance]] [[Lexicon/H1601-1700#H1697|of the decree]] [[Lexicon/H7701-7800#H7725|to restore]] [[Lexicon/H1101-1200#H1129|and rebuild]] [[Lexicon/H3301-3400#H3389|Jerusalem ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H4801-4900#H4899|the Messiah ,]] [[Lexicon/H5001-5100#H5057|the Prince ,]] [[Lexicon/H7601-7700#H7651|there will be seven]] [[Lexicon/H7601-7700#H7620|weeks]] [[Lexicon/H8301-8400#H8346|and sixty-two]] [[Lexicon/H8101-8200#H8147|...]] [[Lexicon/H7601-7700#H7620|weeks.]] [[Lexicon/H7701-7800#H7725|It will be rebuilt]] [[Lexicon/H1101-1200#H1129|...]] [[Lexicon/H7301-7400#H7339|with streets]] [[Lexicon/H2701-2800#H2742|and a trench ,]] [[Lexicon/H6201-6300#H6256|but in times]] [[Lexicon/H6601-6700#H6695|of distress.]]
+
+##### Daniel 9 - 26
+[[Lexicon/H301-400#H310|Then after]] [[Lexicon/H8301-8400#H8346|the sixty-two]] [[Lexicon/H8101-8200#H8147|...]] [[Lexicon/H7601-7700#H7620|weeks]] [[Lexicon/H4801-4900#H4899|the Messiah]] [[Lexicon/H3701-3800#H3772|will be cut off]] [[Lexicon/H301-400#H369|and will have nothing]] [[Lexicon/H5901-6000#H5971|Then the people]] [[Lexicon/H5001-5100#H5057|of the prince]] [[Lexicon/H901-1000#H935|who is to come]] [[Lexicon/H7801-7900#H7843|will destroy]] [[Lexicon/H5801-5900#H5892|the city]] [[Lexicon/H6901-7000#H6944|and the sanctuary.]] [[Lexicon/H7001-7100#H7093|The end]] [[Lexicon/H7801-7900#H7858|will come like a flood ,]] [[Lexicon/H5701-5800#H5704|and until]] [[Lexicon/H7001-7100#H7093|the end]] [[Lexicon/H4401-4500#H4421|there will be war ;]] [[Lexicon/H8001-8100#H8074|desolations]] [[Lexicon/H2701-2800#H2782|have been decreed.]]
+
+##### Daniel 9 - 27
+[[Lexicon/H1301-1400#H1396|And he will confirm]] [[Lexicon/H1201-1300#H1285|a covenant]] [[Lexicon/H7201-7300#H7227|with many]] [[Lexicon/H201-300#H259|for one]] [[Lexicon/H7601-7700#H7620|week ,]] [[Lexicon/H2601-2700#H2677|but in the middle]] [[Lexicon/H7601-7700#H7620|of the week]] [[Lexicon/H7601-7700#H7673|he will put an end]] [[Lexicon/H2001-2100#H2077|to sacrifice]] [[Lexicon/H4501-4600#H4503|and offering.]] [[Lexicon/H5901-6000#H5921|And on]] [[Lexicon/H3601-3700#H3671|the wing [of the temple]]] [[Lexicon/H8201-8300#H8251|[will come] the abomination]] [[Lexicon/H8001-8100#H8074|that causes desolation ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H2701-2800#H2782|the decreed]] [[Lexicon/H3601-3700#H3617|destruction]] [[Lexicon/H5401-5500#H5413|is poured out]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H8001-8100#H8074|[him]. ”]]
+

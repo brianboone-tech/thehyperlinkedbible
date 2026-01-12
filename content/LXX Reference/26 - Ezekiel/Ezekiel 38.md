@@ -1,0 +1,81 @@
+---
+cssClasses: lxx
+Book: Ezekiel
+Chapter: "38"
+Testament: Old
+---
+
+# Ezekiel 38
+
+[[LXX Reference/26 - Ezekiel/Ezekiel 37|←]] • [[LXX Reference/26 - Ezekiel/Ezekiel 39|→]]
+
+---
+
+#### Ezekiel 38 - 1
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|came]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G3001-3100#G3004|saying,]]
+
+#### Ezekiel 38 - 2
+[[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G4701-4800#G4741|firmly fix]] [[Lexicon/G4301-4400#G4383|your face]] [[Lexicon/G1901-2000#G1909|against]] Gog, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Magog, [[Lexicon/G701-800#G0758|ruler]] of Rosh, Meshech, [[Lexicon/G2501-2600#G2532|and]] Tubal, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4395|prophesy]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|him!]]
+
+#### Ezekiel 38 - 3
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|say!]] [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G701-800#G0758|ruler]] of Rosh, Meshech, [[Lexicon/G2501-2600#G2532|and]] Tubal.
+
+#### Ezekiel 38 - 4
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4001-4100#G4013|I will lead you about,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5087|I will put]] [[Lexicon/G5401-5500#G5469|a bridle]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G4501-4600#G4600|your jaws.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4801-4900#G4863|I will gather]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1401-1500#G1411|your force ]] [[Lexicon/G2401-2500#G2462|horses]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2401-2500#G2460|horsemen,]] [[Lexicon/G1701-1800#G1746|putting on]] [[Lexicon/G4801-4900#G4864|gathering]] [[Lexicon/G3901-4000#G3990|small shields]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4001-4100#G4030|helmets]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3101-3200#G3162|swords;]]
+
+#### Ezekiel 38 - 5
+Persians, [[Lexicon/G2501-2600#G2532|and]] Ethiopians, [[Lexicon/G2501-2600#G2532|and]] Libyans; [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4001-4100#G4030|with helmets]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3990|small shields.]]
+
+#### Ezekiel 38 - 6
+Gomer [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G4001-4100#G4012|around]] [[Lexicon/G1401-1500#G1473|him;]] of Togarmah [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1001-1100#G1005|north,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G4001-4100#G4012|around]] [[Lexicon/G1401-1500#G1473|him;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|you.]]
+
+#### Ezekiel 38 - 7
+[[Lexicon/G2001-2100#G2090|Be prepared!]] [[Lexicon/G2001-2100#G2090|Prepare]] [[Lexicon/G4501-4600#G4572|yourself!]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4801-4900#G4864|your gathering]] [[Lexicon/G4801-4900#G4863|being brought together]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|you.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|you will be]] [[Lexicon/G1401-1500#G1473|to me]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G4301-4400#G4399|an advance guard.]]
+
+#### Ezekiel 38 - 8
+[[Lexicon/G501-600#G0575|After]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G2001-2100#G2090|he shall be prepared,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2001-2100#G2094|of years]] [[Lexicon/G2001-2100#G2064|he shall come]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] [[Lexicon/G601-700#G0654|returning]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3101-3200#G3162|swords]] [[Lexicon/G4801-4900#G4863|being gathered]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1484|many nations]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Israel, [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1001-1100#G1096|was]] [[Lexicon/G2001-2100#G2048|desolate]] [[Lexicon/G1301-1400#G1353|wholly.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3778|this one]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2730|they shall dwell]] [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G1501-1600#G1515|peace]] [[Lexicon/G501-600#G0537|all together.]]
+
+#### Ezekiel 38 - 9
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G301-400#G0305|you shall ascend]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5201-5300#G5205|rain,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2201-2300#G2240|shall come]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3507|a cloud]] [[Lexicon/G2601-2700#G2619|to cover up]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1510|you shall be,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G4001-4100#G4012|around]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|you.]]
+
+#### Ezekiel 38 - 10
+[[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|it will be]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|that day]] [[Lexicon/G301-400#G0305|will ascend]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2588|your heart,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3049|you shall consider]] [[Lexicon/G3001-3100#G3053|devices]]
+
+#### Ezekiel 38 - 11
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2046|you shall say,]] [[Lexicon/G301-400#G0305|I will ascend]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G601-700#G0641|having been thrown away;]] [[Lexicon/G2201-2300#G2240|I will come]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2201-2300#G2270|ones being still]] [[Lexicon/G1701-1800#G1722|at]] [[Lexicon/G2201-2300#G2271|rest,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3611|living]] [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G1501-1600#G1515|peace,]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G2701-2800#G2730|dwelling in]] [[Lexicon/G1001-1100#G1093|a land]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3701-3800#G3756|no]] [[Lexicon/G5201-5300#G5224|exists]] [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G3401-3500#G3449|bars,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2374|doors]] [[Lexicon/G1401-1500#G1473|among them;]]
+
+#### Ezekiel 38 - 12
+[[Lexicon/G4301-4400#G4307|to plunder]] [[Lexicon/G4301-4400#G4307|plunder,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4659|to despoil]] [[Lexicon/G4601-4700#G4661|spoils,]] [[Lexicon/G1901-2000#G1994|to turn]] [[Lexicon/G5401-5500#G5495|my hand]] [[Lexicon/G1501-1600#G1519|against]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G2701-2800#G2733|was settled,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1484|a nation]] [[Lexicon/G4801-4900#G4863|being gathered]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1484|many nations,]] [[Lexicon/G4101-4200#G4160|having produced]] [[Lexicon/G2901-3000#G2934|possessions,]] [[Lexicon/G2701-2800#G2730|dwelling]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3675|navel]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|earth.]]
+
+#### Ezekiel 38 - 13
+Sheba, [[Lexicon/G2501-2600#G2532|and]] Dedan, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1713|merchants]] of Carthage, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G2901-3000#G2968|their towns]] [[Lexicon/G2001-2100#G2046|shall say]] [[Lexicon/G1401-1500#G1473|to you,]] [[Lexicon/G1501-1600#G1519|For]] [[Lexicon/G4301-4400#G4307|plunder]] [[Lexicon/G4301-4400#G4307|to plunder]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4659|to despoil]] [[Lexicon/G4601-4700#G4661|spoils.]] [[Lexicon/G4801-4900#G4863|You gathered together]] [[Lexicon/G4801-4900#G4864|your gathering]] [[Lexicon/G2901-3000#G2983|to take]] [[Lexicon/G601-700#G0694|silver]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5553|gold,]] [[Lexicon/G601-700#G0667|to carry away]] [[Lexicon/G2901-3000#G2934|property,]] [[Lexicon/G4601-4700#G4659|to despoil]] [[Lexicon/G4601-4700#G4661|spoils]]
+
+#### Ezekiel 38 - 14
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G4301-4400#G4395|prophesy]] [[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|say]] to Gog! [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|that day,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2733|settling]] [[Lexicon/G2901-3000#G2992|of my people]] Israel [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G1501-1600#G1515|peace,]] [[Lexicon/G1401-1500#G1453|arise?]]
+
+#### Ezekiel 38 - 15
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2201-2300#G2240|you shall come]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G5101-5200#G5117|your place,]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1005|north,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G301-400#G0306|riders]] [[Lexicon/G4801-4900#G4864|gathering]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1411|a great force.]]
+
+#### Ezekiel 38 - 16
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G301-400#G0305|you shall ascend]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G2901-3000#G2992|my people]] Israel [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3507|a cloud]] [[Lexicon/G2501-2600#G2572|to cover]] [[Lexicon/G1901-2000#G1909|At]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G1501-1600#G1510|it will be.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G301-400#G0321|I will lead]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1001-1100#G1093|my land,]] [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G1001-1100#G1097|shall know]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1-100#G0037|my being sanctified]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G1401-1500#G1473|them.]]
+
+#### Ezekiel 38 - 17
+[[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G5501-5600#G5599|O]] Gog, [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G4001-4100#G4012|concerning]] [[Lexicon/G3701-3800#G3739|of whom]] [[Lexicon/G2901-3000#G2980|I spoke]] [[Lexicon/G4201-4300#G4253|about]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G1201-1300#G1223|by]] [[Lexicon/G1401-1500#G1401|of my servants]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4396|prophets]] of Israel, [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G4301-4400#G4395|prophesying]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|those days]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2094|years,]] [[Lexicon/G301-400#G0321|to lead]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G1401-1500#G1473|them.]]
+
+#### Ezekiel 38 - 18
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|it will be]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|that day,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2001-2100#G2064|should come]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Israel, [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G301-400#G0305|shall ascend]]
+
+#### Ezekiel 38 - 19
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2201-2300#G2205|my zeal]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G3701-3800#G3709|of my anger]] [[Lexicon/G2901-3000#G2980|I spoke.]] [[Lexicon/G2201-2300#G2229|Assuredly,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|that day]] [[Lexicon/G1501-1600#G1510|there will be]] [[Lexicon/G4501-4600#G4578|quake]] [[Lexicon/G1901-2000#G1909|upon]] of Israel.
+
+#### Ezekiel 38 - 20
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4501-4600#G4579|shall shake]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4001-4100#G4071|birds]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3772|heaven,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2342|wild beasts]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3901-4000#G3977|plain,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2062|reptiles]] [[Lexicon/G2001-2100#G2062|crawling]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0444|men]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|earth.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4401-4500#G4486|shall tear]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4001-4100#G4098|shall fall]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G5001-5100#G5038|wall]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] [[Lexicon/G4001-4100#G4098|shall fall.]]
+
+#### Ezekiel 38 - 21
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2501-2600#G2564|I will call]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G5401-5500#G5401|fear,]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G401-500#G0444|of a man]] [[Lexicon/G1901-2000#G1909|against]]
+
+#### Ezekiel 38 - 22
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2919|I will judge]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G2201-2300#G2288|by plague,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0129|blood,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5205|rain]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3037|stones]] [[Lexicon/G5401-5500#G5464|of hail;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2303|sulphur]] [[Lexicon/G1001-1100#G1026|I will rain]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|him.]]
+
+#### Ezekiel 38 - 23
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3101-3200#G3170|I will be magnified,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0037|I will be sanctified,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1740|I will be glorified,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1097|I shall be known]] [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G4101-4200#G4183|many]] [[Lexicon/G1401-1500#G1484|nations,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1097|they shall know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1401-1500#G1473|I]]

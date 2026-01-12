@@ -1,0 +1,83 @@
+---
+Chapter: "7"
+Book: 2 Chronicles
+Folder: Readable Bible
+cssClasses: lexicon
+---
+
+# 2 Chronicles-R 7
+
+**[[Home/Scripture/14 - 2 Chronicles|2 Chronicles]]**
+
+[[Readable Bible/14 - 2 Chronicles/2 Chronicles 6#2 Chronicles-R 6| 2 Chronicles 6]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 8#2 Chronicles-R 8| 2 Chronicles 8]]
+
+---
+
+##### 2 Chronicles 7 . 1
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 1|1]]  When Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.1-3 to 1 Kings 8.54|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/065 - Glory-Cloud (Divine Presence)|TT²]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT³]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT⁴]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT⁵]] | [[Trajectory Tables/158 - Temple Ecclesiology (Church as God's Dwelling)|TT⁶]] | [[Trajectory Tables/059 - Fire from Heaven (Divine Acceptance and Judgment)|TT⁶]] | [[Trajectory Tables/065 - Glory-Cloud (Divine Presence)|TT⁷]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT⁸]] |
+
+##### 2 Chronicles 7 . 2
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 2|2]]  The priests were unable to enter the house of the LORD, because the glory of the LORD had filled it.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.1-3 to 1 Kings 8.54|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/065 - Glory-Cloud (Divine Presence)|TT²]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT³]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT⁴]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT⁵]] | [[Trajectory Tables/158 - Temple Ecclesiology (Church as God's Dwelling)|TT⁶]] |
+
+##### 2 Chronicles 7 . 3
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 3|3]]  When all the Israelites saw the fire coming down and the glory of the LORD above the temple, they bowed down on the pavement with their faces to the ground, and they worshiped and gave thanks to the LORD: "For He is good; His loving devotion endures forever."  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.1-3 to 1 Kings 8.54|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 3|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/065 - Glory-Cloud (Divine Presence)|TT²]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT³]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT⁴]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT⁵]] | [[Trajectory Tables/158 - Temple Ecclesiology (Church as God's Dwelling)|TT⁶]] |
+
+##### 2 Chronicles 7 . 4
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 4|4]]  Then the king and all the people offered sacrifices before the LORD.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.4-10 to 1 Kings 8.62-66|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 4|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT²]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT³]] |
+
+##### 2 Chronicles 7 . 5
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 5|5]]  And King Solomon offered a sacrifice of 22,000 oxen and 120,000 sheep. So the king and all the people dedicated the house of God.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.4-10 to 1 Kings 8.62-66|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 5|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT²]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT³]] |
+
+##### 2 Chronicles 7 . 6
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 6|6]]  The priests stood at their posts, as did the Levites with the musical instruments of the LORD, which King David had made for giving thanks to the LORD and with which David had offered praise, saying, “For His loving devotion endures forever.” Across from the Levites, the priests sounded trumpets, and all the Israelites were standing.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.4-10 to 1 Kings 8.62-66|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 6|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT²]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT³]] |
+
+##### 2 Chronicles 7 . 7
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 7|7]]  Then Solomon consecrated the middle of the courtyard in front of the house of the LORD, and there he offered the burnt offerings and the fat of the peace offerings, since the bronze altar he had made could not contain all these offerings.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.4-10 to 1 Kings 8.62-66|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 7|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT²]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT³]] |
+
+##### 2 Chronicles 7 . 8
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 8|8]]  So at that time Solomon and all Israel with him—a very great assembly of people from Lebo-hamath to the Brook of Egypt—kept the feast for seven days.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.4-10 to 1 Kings 8.62-66|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 8|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT²]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT³]] |
+
+##### 2 Chronicles 7 . 9
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 9|9]]  On the eighth day they held a solemn assembly, for the dedication of the altar had lasted seven days, and the feast seven days more.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.4-10 to 1 Kings 8.62-66|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 9|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT²]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT³]] |
+
+##### 2 Chronicles 7 . 10
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 10|10]]  On the twenty-third day of the seventh month, Solomon sent the people away to their homes, joyful and glad of heart for the good things that the LORD had done for David, for Solomon, and for His people Israel.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.4-10 to 1 Kings 8.62-66|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 10|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT²]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT³]] |
+
+##### 2 Chronicles 7 . 11
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 11|11]]  When Solomon had finished the house of the LORD and the royal palace, successfully carrying out all that was in his heart to do for the house of the LORD and for his own palace,  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 11|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 12
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 12|12]]  the LORD appeared to him at night and said to him: "I have heard your prayer and have chosen this place for Myself as a house of sacrifice.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP¹]] | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.12 to Deuteronomy 12.11|IP²]] | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.12 to Deuteronomy 12.5|IP³]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 12|TOSK]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT¹]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT²]] |
+
+##### 2 Chronicles 7 . 13
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 13|13]]  If I close the sky so there is no rain, or if I command the locust to devour the land, or if I send a plague among My people,  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 13|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 14
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 14|14]]  and if My people who are called by My name humble themselves and pray and seek My face and turn from their wicked ways, then I will hear from heaven, forgive their sin, and heal their land.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 14|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 15
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 15|15]]  Now My eyes will be open and My ears attentive to the prayers offered in this place.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 15|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 16
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 16|16]]  For I have now chosen and consecrated this temple so that My Name may be there forever. My eyes and My heart will be there for all time.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 16|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 17
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 17|17]]  And as for you, if you walk before Me as your father David walked, doing all I have commanded you, and if you keep My statutes and ordinances,  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 17|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 18
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 18|18]]  then I will establish your royal throne, as I covenanted with your father David when I said, ‘You will never fail to have a man to rule over Israel.’  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 18|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 19
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 19|19]]  But if you turn away and forsake the statutes and commandments I have set before you, and if you go off to serve and worship other gods,  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP¹]] | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.19-22 to Deuteronomy 28.37|IP²]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 19|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 20
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 20|20]]  then I will uproot Israel from the soil I have given them, and I will banish from My presence this temple I have sanctified for My Name. I will make it an object of scorn and ridicule among all the peoples.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP¹]] | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.19-22 to Deuteronomy 28.37|IP²]] | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.20 to Deuteronomy 28.37|IP³]] | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.20 to Jeremiah 24.9|IP⁴]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 20|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 21
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 21|21]]  And when this temple has become a heap of rubble, all who pass by it will be appalled and say, 'Why has the LORD done such a thing to this land and to this temple?'  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP¹]] | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.19-22 to Deuteronomy 28.37|IP²]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 21|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 22
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 22|22]]  And others will answer, 'Because they have forsaken the LORD, the God of their fathers, who brought them out of the land of Egypt, and have embraced other gods, worshiping and serving them—because of this, He has brought all this disaster upon them.'"  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP¹]] | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.19-22 to Deuteronomy 28.37|IP²]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 22|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |
+
+##### 2 Chronicles 7 . 22
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 - 22|22]]  And others will answer, 'Because they have forsaken the LORD, the God of their fathers, who brought them out of the land of Egypt, and have embraced other gods, worshiping and serving them—because of this, He has brought all this disaster upon them.'"  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.11-22 to 1 Kings 9.1-9|IP¹]] | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.19-22 to Deuteronomy 28.37|IP²]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 7 - TOSK#Verse 22|TOSK]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT]] |

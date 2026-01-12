@@ -1,0 +1,21 @@
+### [[Readable Bible/49 - Ephesians/Ephesians 4#Ephesians 4 . 23|Ephesians 4:23-24]]
+
+**Greek Key Terms**:
+- [[Lexicon/G0301-0400#G0341|ἀνανεοῦσθαι]] (*ananeousthai*) - "to be renewed" (present passive infinitive)
+- [[Lexicon/G4001-4100#G4151|τῷ πνεύματι τοῦ νοὸς]] (*tō pneumati tou noos*) - "in the spirit of your mind"
+- [[Lexicon/G1701-1800#G1746|ἐνδύσασθαι]] (*endysasthai*) - "to put on, clothe oneself" (aorist middle infinitive)
+- [[Lexicon/G2501-2600#G2537|τὸν καινὸν ἄνθρωπον]] (*ton kainon anthrōpon*) - "the new self/man"
+- [[Lexicon/G2701-2800#G2596|κατὰ θεὸν]] (*kata theon*) - "according to God, after God's likeness"
+- [[Lexicon/G2901-3000#G2936|κτισθέντα]] (*ktisthenta*) - "having been created" (aorist passive participle)
+- [[Lexicon/G1301-1400#G1343|δικαιοσύνῃ καὶ ὁσιότητι]] (*dikaiosynē kai hosiotēti*) - "in righteousness and holiness"
+- [[Lexicon/G0001-0100#G0225|ἀληθείας]] (*alētheias*) - "of truth, genuine"
+
+**Context**: Paul commands believers to be renewed in their mind's spirit and to put on the new self created according to God's likeness in true righteousness and holiness. This involves both passive transformation (being renewed) and active participation (putting on new self), showing sanctification's cooperative nature where God's work requires human response.
+
+**Connections**:
+- **TO**: [[Readable Bible/01 - Genesis/Genesis 1#Genesis 1 . 26|Genesis 1:26-27]] (image of God), [[Readable Bible/26 - Ezekiel/Ezekiel 36#Ezekiel 36 . 26|Ezekiel 36:26]] (new heart and spirit)
+- **FROM NT**: [[Readable Bible/51 - Colossians/Colossians 3#Colossians 3 . 9|Colossians 3:9-10]] (put off old, put on new), [[Readable Bible/45 - Romans/Romans 12#Romans 12 . 2|Romans 12:2]] (transformed by renewal), [[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians 5 . 17|2 Corinthians 5:17]] (new creation), [[Readable Bible/47 - 2 Corinthians/2 Corinthians 3#2 Corinthians 3 . 18|2 Corinthians 3:18]] (transformed into same image)
+
+**Christological Connection**: [[Readable Bible/49 - Ephesians/Ephesians 4#Ephesians 4 . 23|Ephesians 4:23-24]]'s new self fulfills what new moons symbolized—complete identity renewal. The monthly new moon marked fresh start; union with Christ creates entirely new person. The "new self" (kainos anthrōpos) is Christ Himself—believers are "in Christ" and Christ is "in you" ([[Readable Bible/51 - Colossians/Colossians 1#Colossians 1 . 27|Colossians 1:27]]). Paul declares: "It is no longer I who live, but Christ who lives in me" ([[Readable Bible/48 - Galatians/Galatians 2#Galatians 2 . 20|Galatians 2:20]]). The new self "created according to God" restores imago Dei marred by sin. Christ is the perfect image of God ([[Readable Bible/51 - Colossians/Colossians 1#Colossians 1 . 15|Colossians 1:15]]: "image of the invisible God"), and believers are "predestined to be conformed to the image of his Son" ([[Readable Bible/45 - Romans/Romans 8#Romans 8 . 29|Romans 8:29]]). The "true righteousness and holiness" aren't self-generated but Christ's righteousness imputed ([[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians 5 . 21|2 Corinthians 5:21]]: "we might become the righteousness of God") and imparted (progressive sanctification). The command to "put on the new self" parallels "put on the Lord Jesus Christ" ([[Readable Bible/45 - Romans/Romans 13#Romans 13 . 14|Romans 13:14]])—they're synonymous. The mind's renewal comes through Scripture ([[Readable Bible/45 - Romans/Romans 15#Romans 15 . 4|Romans 15:4]]), Spirit ([[Readable Bible/56 - Titus/Titus 3#Titus 3 . 5|Titus 3:5]]), and Christ's indwelling presence. The transformation Paul describes is continuous: "We all... are being transformed into the same image from one degree of glory to another" ([[Readable Bible/47 - 2 Corinthians/2 Corinthians 3#2 Corinthians 3 . 18|2 Corinthians 3:18]]). What new moons provided monthly (renewed commitment), Christ provides perpetually (renewed identity). The ultimate renewal occurs at resurrection when believers receive glorified bodies perfectly reflecting Christ: "We shall be like him, because we shall see him as he is" ([[Readable Bible/62 - 1 John/1 John 3#1 John 3 . 2|1 John 3:2]]). New moons marked temporal renewal; Christ creates eternal newness.
+
+**Trajectory Table**: [[Trajectory Tables/110 - New Moons (Renewal and Rest)]]

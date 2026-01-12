@@ -1,0 +1,14 @@
+# 1 Chronicles 15:3 to Deuteronomy 12:21
+
+**Text**: [[Readable Bible/13 - 1 Chronicles/1 Chronicles 15#1 Chronicles 15 . 3|1 Chronicles 15:3]]
+
+**OT Text Referred to**: [[Readable Bible/05 - Deuteronomy/Deuteronomy 12#Deuteronomy 12 . 21|Deuteronomy 12:21]]
+
+**Subject**: Place for the ark (C) (* see place network)
+
+**Source**: Unknown
+
+**Significance**: The temple theme connects 1 Chronicles 15 to Deuteronomy 12, revealing Israel's understanding of sacred space where God dwells with his people. This anticipates Christ, who is the true temple (John 2:19-21) where God and humanity meet, and whose body, the church, becomes the dwelling place of God by the Spirit (Eph 2:19-22).
+
+---
+

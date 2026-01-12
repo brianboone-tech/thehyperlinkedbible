@@ -1,0 +1,21 @@
+### [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 26|Hebrews 7:26-27]]
+
+**Greek Key Terms**:
+- [[Lexicon/G4001-4100#G4241|πρέπει]] (*prepei*) - "fitting, proper, suitable"
+- [[Lexicon/G0001-0100#G0040|ὅσιος]] (*hosios*) - "holy, devout, pious"
+- [[Lexicon/G0101-0200#G0172|ἄκακος]] (*akakos*) - "innocent, without evil"
+- [[Lexicon/G0201-0300#G0283|ἀμίαντος]] (*amiantos*) - "undefiled, unstained"
+- [[Lexicon/G5501-5600#G5563|κεχωρισμένος]] (*kechōrismenos*) - "separated, set apart" (perfect passive participle)
+- [[Lexicon/G5301-5400#G5308|ὑψηλότερος τῶν οὐρανῶν]] (*hypsēloteros tōn ouranōn*) - "higher than the heavens"
+- [[Lexicon/G2501-2600#G2596|καθ᾽ ἡμέραν]] (*kath' hēmeran*) - "daily"
+- [[Lexicon/G1901-2000#G1966|ἐφάπαξ]] (*ephapax*) - "once for all"
+
+**Context**: Hebrews declares Christ as the perfect High Priest suited to believers' needs. His moral perfection (holy, innocent, unstained), separation from sinners, and exaltation above heavens qualify Him uniquely. Unlike Levitical high priests who offered sacrifices daily—first for their own sins, then for the people—Christ offered Himself once for all, accomplishing what repeated sacrifices never could.
+
+**Connections**:
+- **TO**: [[Readable Bible/03 - Leviticus/Leviticus 16#Leviticus 16 . 6|Leviticus 16:6]] (high priest offers for himself first), [[Readable Bible/03 - Leviticus/Leviticus 4#Leviticus 4 . 3|Leviticus 4:3]] (anointed priest's sin offering)
+- **FROM NT**: [[Readable Bible/58 - Hebrews/Hebrews 4#Hebrews 4 . 15|Hebrews 4:15]] (tempted yet without sin), [[Readable Bible/58 - Hebrews/Hebrews 9#Hebrews 9 . 12|Hebrews 9:12]] (entered once for all by his own blood), [[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians 5 . 21|2 Corinthians 5:21]] (knew no sin), [[Readable Bible/60 - 1 Peter/1 Peter 2#1 Peter 2 . 22|1 Peter 2:22]] (committed no sin)
+
+**Christological Connection**: [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 26|Hebrews 7:26-27]] presents Christ as the perfect High Priest who fulfills what Levitical priesthood prefigured but couldn't accomplish. His sinlessness is foundational—"holy, innocent, unstained, separated from sinners." Where every Aaronic priest began service by offering for his own sins ([[Readable Bible/03 - Leviticus/Leviticus 16#Leviticus 16 . 6|Leviticus 16:6]]), Christ "knew no sin" ([[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians 5 . 21|2 Corinthians 5:21]]) and "committed no sin" ([[Readable Bible/60 - 1 Peter/1 Peter 2#1 Peter 2 . 22|1 Peter 2:22]]). Though "tempted in every respect as we are," He was "without sin" ([[Readable Bible/58 - Hebrews/Hebrews 4#Hebrews 4 . 15|Hebrews 4:15]]). This perfection enables Christ to offer sacrifice from position of complete righteousness rather than compromised by personal guilt. The contrast with Levitical priests is stark: they offered "daily" (kath' hēmeran), indicating perpetual inadequacy; Christ offered "once for all" (ephapax), indicating complete sufficiency. Their sacrifices were animal blood that merely covered sin; His sacrifice was His own blood that cleanses from all sin ([[Readable Bible/62 - 1 John/1 John 1#1 John 1 . 7|1 John 1:7]]). They stood at earthly altar repeating ineffective offerings; He sat down at God's right hand, work finished ([[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 12|Hebrews 10:12]]). The progression "first for his own sins and then for those of the people" burdened every Levitical high priest; Christ "has no need" for personal atonement, offering exclusively for others. His exaltation "higher than the heavens" indicates His current high priestly ministry in the true sanctuary ([[Readable Bible/58 - Hebrews/Hebrews 8#Hebrews 8 . 1|Hebrews 8:1-2]]), superior to earthly copies. Believers approach God through a High Priest who is "fitting"—perfectly suited to their needs. His holiness doesn't distance but qualifies; His innocence doesn't condemn but advocates; His separation from sinners doesn't alienate but mediates. The once-for-all sacrifice means redemption is complete, finished, accomplished eternally. Where Levitical priests' daily offerings testified to ongoing inadequacy, Christ's single offering testifies to absolute efficacy.
+
+**Trajectory Table**: [[Trajectory Tables/094 - Legal Priesthood (Mediators and Ministers)]]

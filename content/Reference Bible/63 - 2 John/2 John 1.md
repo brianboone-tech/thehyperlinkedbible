@@ -1,0 +1,49 @@
+---
+Folder: Reference Bible
+cssClasses: lexicon
+---
+
+# 2 John 1
+
+[[1 John 5|←]] • [[3 John 1|→]]
+
+---
+
+##### 2 John 1 - 1
+[[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G4201-4300#G4245|elder ,]] [[Lexicon/G1501-1600#G1588|To [the] chosen]] [[Lexicon/G2901-3000#G2959|lady]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G846|her]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5001-5100#G5043|children ,]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1-100#G25|love]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G201-300#G225|[the] tRuth - —]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G3401-3500#G3441|alone ,]] [[Lexicon/G201-300#G235|but]] [[Lexicon/G2501-2600#G2532|also]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|who]] [[Lexicon/G1001-1100#G1097|know]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G225|tRuth - —]]
+
+##### 2 John 1 - 2
+[[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G225|tRuth -]] [[Lexicon/G3501-3600#G3588|that]] [[Lexicon/G3301-3400#G3306|abides]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G1501-1600#G1519|vvv]] [[Lexicon/G3501-3600#G3588|vvv]] [[Lexicon/G101-200#G165|forever :]]
+
+##### 2 John 1 - 3
+[[Lexicon/G5401-5500#G5485|Grace ,]] [[Lexicon/G1601-1700#G1656|mercy ,]] [[Lexicon/G1501-1600#G1515|[and] peace]] [[Lexicon/G3801-3900#G3844|from]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G3901-4000#G3962|[the] Father]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3801-3900#G3844|from]] [[Lexicon/G2401-2500#G2424|Jesus]] [[Lexicon/G5501-5600#G5547|Christ ,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|Son]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3901-4000#G3962|Father ,]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G201-300#G225|tRuth -]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G26|love.]]
+
+##### 2 John 1 - 4
+[[Lexicon/G5401-5500#G5463|I was overjoyed]] [[Lexicon/G3001-3100#G3029|...]] [[Lexicon/G3701-3800#G3754|to]] [[Lexicon/G2101-2200#G2147|find]] [[Lexicon/G1501-1600#G1537|[some] of]] [[Lexicon/G4701-4800#G4771|your]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5001-5100#G5043|children]] [[Lexicon/G4001-4100#G4043|walking]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G201-300#G225|[the] tRuth - ,]] [[Lexicon/G2501-2600#G2531|just as]] [[Lexicon/G3801-3900#G3844|-]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3962|Father]] [[Lexicon/G1701-1800#G1785|has commanded]] [[Lexicon/G2901-3000#G2983|[us].]]
+
+##### 2 John 1 - 5
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3568|now]] [[Lexicon/G2001-2100#G2065|I urge]] [[Lexicon/G4701-4800#G4771|you ,]] [[Lexicon/G2901-3000#G2959|[dear] lady —]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2537|a new]] [[Lexicon/G1701-1800#G1785|commandment]] [[Lexicon/G1101-1200#G1125|-]] [[Lexicon/G4701-4800#G4771|to you ,]] [[Lexicon/G201-300#G235|but]] [[Lexicon/G3701-3800#G3739|[one]]] [[Lexicon/G2101-2200#G2192|we have had]] [[Lexicon/G501-600#G575|from]] [[Lexicon/G701-800#G746|[the] beginning —]] [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G1-100#G25|we love]] [[Lexicon/G201-300#G240|one another.]]
+
+##### 2 John 1 - 6
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G1501-1600#G1510|is]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G1-100#G26|love ,]] [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G4001-4100#G4043|we walk]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G801-900#G846|His]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G1701-1800#G1785|commandments.]] [[Lexicon/G3701-3800#G3778|This]] [[Lexicon/G1501-1600#G1510|is]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2531|very]] [[Lexicon/G1701-1800#G1785|commandment]] [[Lexicon/G101-200#G191|you have heard]] [[Lexicon/G501-600#G575|from]] [[Lexicon/G701-800#G746|[the] beginning ,]] [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G4001-4100#G4043|you must walk]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G801-900#G846|[love].]]
+
+##### 2 John 1 - 7
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4101-4200#G4183|many]] [[Lexicon/G4101-4200#G4108|deceivers]] [[Lexicon/G1801-1900#G1831|have gone out]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2801-2900#G2889|world ,]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G3301-3400#G3361|refusing]] [[Lexicon/G3601-3700#G3670|to confess]] [[Lexicon/G2001-2100#G2064|the coming of]] [[Lexicon/G2401-2500#G2424|Jesus]] [[Lexicon/G5501-5600#G5547|Christ]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4501-4600#G4561|[the] flesh.]] [[Lexicon/G3701-3800#G3778|Any such [ person ]]] [[Lexicon/G1501-1600#G1510|is]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4108|deceiver]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G500|antichrist.]]
+
+##### 2 John 1 - 8
+[[Lexicon/G901-1000#G991|Watch]] [[Lexicon/G1401-1500#G1438|yourselves ,]] [[Lexicon/G2401-2500#G2443|so that]] [[Lexicon/G3301-3400#G3361|vvv]] [[Lexicon/G601-700#G622|you do not lose]] [[Lexicon/G3701-3800#G3739|what]] [[Lexicon/G2001-2100#G2038|we have worked for ,]] [[Lexicon/G201-300#G235|but [that]]] [[Lexicon/G601-700#G618|you may be fully rewarded]] [[Lexicon/G4101-4200#G4134|...]] [[Lexicon/G3401-3500#G3408|....]]
+
+##### 2 John 1 - 9
+[[Lexicon/G3901-4000#G3956|Anyone]] [[Lexicon/G3501-3600#G3588|who]] [[Lexicon/G4201-4300#G4254|runs ahead]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G3301-3400#G3361|without]] [[Lexicon/G3301-3400#G3306|remaining]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1301-1400#G1322|teaching]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5501-5600#G5547|of Christ]] [[Lexicon/G3701-3800#G3756|vvv]] [[Lexicon/G2101-2200#G2192|does not have]] [[Lexicon/G2301-2400#G2316|God.]] [[Lexicon/G3501-3600#G3588|Whoever]] [[Lexicon/G3301-3400#G3306|remains]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|[His]]] [[Lexicon/G1301-1400#G1322|teaching]] [[Lexicon/G3701-3800#G3778|-]] [[Lexicon/G2101-2200#G2192|has]] [[Lexicon/G2501-2600#G2532|both]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3962|Father]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|Son.]]
+
+##### 2 John 1 - 10
+[[Lexicon/G1401-1500#G1487|If]] [[Lexicon/G5001-5100#G5100|anyone]] [[Lexicon/G2001-2100#G2064|comes]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G4701-4800#G4771|you]] [[Lexicon/G2501-2600#G2532|[but]]] [[Lexicon/G3701-3800#G3756|vvv]] [[Lexicon/G5301-5400#G5342|does not bring]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G1301-1400#G1322|teaching ,]] [[Lexicon/G3301-3400#G3361|{do} not]] [[Lexicon/G2901-3000#G2983|receive]] [[Lexicon/G801-900#G846|him]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3601-3700#G3614|[your] home]] [[Lexicon/G3301-3400#G3361|[or]]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G3001-3100#G3004|greet]] [[Lexicon/G5401-5500#G5463|...]] [[Lexicon/G801-900#G846|him.]]
+
+##### 2 John 1 - 11
+[[Lexicon/G1001-1100#G1063|-]] [[Lexicon/G3501-3600#G3588|Whoever]] [[Lexicon/G3001-3100#G3004|greets]] [[Lexicon/G5401-5500#G5463|...]] [[Lexicon/G801-900#G846|[such a person]]] [[Lexicon/G2801-2900#G2841|shares]] [[Lexicon/G3501-3600#G3588|in]] [[Lexicon/G801-900#G846|his]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4101-4200#G4190|evil]] [[Lexicon/G2001-2100#G2041|deeds.]]
+
+##### 2 John 1 - 12
+[[Lexicon/G2101-2200#G2192|I have]] [[Lexicon/G4101-4200#G4183|many things]] [[Lexicon/G1101-1200#G1125|to write]] [[Lexicon/G4701-4800#G4771|to you ,]] [[Lexicon/G1001-1100#G1014|[but] I would prefer]] [[Lexicon/G3701-3800#G3756|not [to do so]]] [[Lexicon/G1201-1300#G1223|with]] [[Lexicon/G5401-5500#G5489|paper]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3101-3200#G3188|ink.]] [[Lexicon/G201-300#G235|Instead ,]] [[Lexicon/G1601-1700#G1679|I hope]] [[Lexicon/G1001-1100#G1096|to come]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2980|speak]] [[Lexicon/G4301-4400#G4314|with]] [[Lexicon/G4701-4800#G4771|you]] [[Lexicon/G4701-4800#G4750|[face]]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G4701-4800#G4750|[face] ,]] [[Lexicon/G2401-2500#G2443|so that]] [[Lexicon/G1401-1500#G1473|our]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5401-5500#G5479|joy]] [[Lexicon/G1501-1600#G1510|may be]] [[Lexicon/G4101-4200#G4137|complete.]]
+
+##### 2 John 1 - 13
+[[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G5001-5100#G5043|children]] [[Lexicon/G4701-4800#G4771|of your]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G1501-1600#G1588|elect]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G1-100#G79|sister]] [[Lexicon/G701-800#G782|send you greetings]] [[Lexicon/G4701-4800#G4771|....]]

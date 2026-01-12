@@ -1,0 +1,81 @@
+---
+cssClasses: lxx
+Book: 1 Samuel
+Chapter: "13"
+Testament: Old
+---
+
+# 1 Samuel 13
+
+[[LXX Reference/9 - 1 Samuel/1 Samuel 12|←]] • [[LXX Reference/9 - 1 Samuel/1 Samuel 14|→]]
+
+---
+
+#### 1 Samuel 13 - 1
+[[Lexicon/G5201-5300#G5207| was a son]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G901-1000#G0936|his taking reign,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1417|two]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G901-1000#G0936|he reigned]] [[Lexicon/G1701-1800#G1722|in]] Israel.
+
+#### 1 Samuel 13 - 2
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1586|chose]] [[Lexicon/G5101-5200#G5140|three]] [[Lexicon/G5501-5600#G5505|thousand]] [[Lexicon/G401-500#G0435|men]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0435|men]] of Israel. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|there were]] [[Lexicon/G3301-3400#G3326|with]] Saul [[Lexicon/G1301-1400#G1367|two thousand]] [[Lexicon/G1701-1800#G1722|in]] Michmash, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3735|mountain]] of Beth-el, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5507|a thousand]] [[Lexicon/G1501-1600#G1510|were]] [[Lexicon/G3301-3400#G3326|with]] Jonathan [[Lexicon/G1701-1800#G1722|in]] Gibeah of Benjamin. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2601-2700#G2645|rest]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2901-3000#G2992|people]] [[Lexicon/G1801-1900#G1821|he sent out,]] [[Lexicon/G1501-1600#G1538|each man]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G4601-4700#G4638|his tent.]]
+
+#### 1 Samuel 13 - 3
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3960|Jonathan struck]] [[Lexicon/G3501-3600#G3588|the]] Nasib [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G201-300#G0246|Philistines,]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1015|hill.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G101-200#G0191|heard]] [[Lexicon/G2501-2600#G2532|and]] Saul [[Lexicon/G4501-4600#G4537|trumped]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land,]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G101-200#G0114|disregard us]]
+
+#### 1 Samuel 13 - 4
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3956|all]] Israel [[Lexicon/G101-200#G0191|heard,]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G3801-3900#G3817|Saul has smitten]] [[Lexicon/G3501-3600#G3588|the]] Nasib [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G201-300#G0246|Philistines;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0153|Israel was put to shame]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0246|Philistines.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G301-400#G0305|ascended up]] [[Lexicon/G3601-3700#G3694|after]] Saul [[Lexicon/G1701-1800#G1722|in]] Gilgal.
+
+#### 1 Samuel 13 - 5
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0246|Philistines]] [[Lexicon/G4801-4900#G4863|gather together]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G4101-4200#G4171|war]] [[Lexicon/G4301-4400#G4314|against]] Israel. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G301-400#G0305|they ascend]] [[Lexicon/G1901-2000#G1909|upon]] Israel [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G4101-4200#G4171|war ]] [[Lexicon/G5101-5200#G5144|thirty]] [[Lexicon/G5501-5600#G5505|thousand]] [[Lexicon/G701-800#G0716|chariots,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1803|six]] [[Lexicon/G5501-5600#G5505|thousand]] [[Lexicon/G2401-2500#G2460|horsemen,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2992|people]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0285|sand]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5491|edge]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2201-2300#G2281|sea]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G4101-4200#G4128|multitude.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G301-400#G0305|they ascend]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3924|camp]] [[Lexicon/G1701-1800#G1722|in]] Michmash [[Lexicon/G1801-1900#G1828|opposite]] [[Lexicon/G2501-2600#G2596|according to]] of Beth-aven.
+
+#### 1 Samuel 13 - 6
+[[Lexicon/G2501-2600#G2532|And]] of Israel [[Lexicon/G1401-1500#G1492|beheld]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G4701-4800#G4730|they were in a strait]] [[Lexicon/G3301-3400#G3361|to not lead forward]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2928|hid]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4693|caves,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3101-3200#G3128|lairs,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4001-4100#G4073|rocks,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0998|excavations,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2978|pits.]]
+
+#### 1 Samuel 13 - 7
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G1201-1300#G1224|passing over,]] [[Lexicon/G1201-1300#G1224|passed over]] [[Lexicon/G3501-3600#G3588|the]] Jordan [[Lexicon/G1501-1600#G1519|into]] of Gad [[Lexicon/G2501-2600#G2532|and]] Gilead. [[Lexicon/G2501-2600#G2532|And]] Saul [[Lexicon/G2001-2100#G2089|still]] [[Lexicon/G1501-1600#G1510|was]] [[Lexicon/G1701-1800#G1722|in]] Gilgal, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2992|people]] [[Lexicon/G1801-1900#G1839|were receded]] [[Lexicon/G3601-3700#G3694|after]] [[Lexicon/G1401-1500#G1473|him.]]
+
+#### 1 Samuel 13 - 8
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1201-1300#G1257|he stopped]] [[Lexicon/G2001-2100#G2033|seven]] [[Lexicon/G2201-2300#G2250|days,]] [[Lexicon/G3101-3200#G3142|testimony]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2001-2100#G2036|Samuel said.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G1501-1600#G1519|unto]] Gilgal, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1289|scattered]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|him.]]
+
+#### 1 Samuel 13 - 9
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|Saul said,]] [[Lexicon/G4301-4400#G4317|Lead forward animals]] [[Lexicon/G3701-3800#G3704|so that]] [[Lexicon/G4101-4200#G4160|I should offer]] [[Lexicon/G3601-3700#G3646|a whole burnt-offering,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1516|peace offerings;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0399|he offered]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3646|whole burnt-offering.]]
+
+#### 1 Samuel 13 - 10
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4901-5000#G4931|he completed]] [[Lexicon/G301-400#G0399|offering]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3646|whole burnt-offering,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G2301-2400#G2400|behold,]] Samuel [[Lexicon/G3801-3900#G3854|arrived.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1831|Saul came forth]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G501-600#G0529|meet]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2101-2200#G2127|to bless]] [[Lexicon/G1401-1500#G1473|him.]]
+
+#### 1 Samuel 13 - 11
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|Samuel said,]] [[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G4101-4200#G4160|have you done?]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|Saul said,]] [[Lexicon/G1301-1400#G1360|Because]] [[Lexicon/G1401-1500#G1492|I saw]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1201-1300#G1289|scattered]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G3701-3800#G3756|did not come]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3101-3200#G3142|testimony]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1201-1300#G1299|you set in order,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0246|Philistines]] [[Lexicon/G4801-4900#G4863|were gathered together]] [[Lexicon/G1501-1600#G1519|in]] Michmash,
+
+#### 1 Samuel 13 - 12
+[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|I said,]] [[Lexicon/G3501-3600#G3568|Now]] [[Lexicon/G2501-2600#G2597|shall come down]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1519|in]] Gilgal, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4383|face]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3756|I beseeched not;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1467|I took control myself]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0399|offered]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3646|whole burnt-offering.]]
+
+#### 1 Samuel 13 - 13
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|Samuel said]] [[Lexicon/G4301-4400#G4314|to]] Saul, [[Lexicon/G3101-3200#G3154|It is folly]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G3701-3800#G3756|you kept not]] [[Lexicon/G1701-1800#G1785|my commandment]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1701-1800#G1781|gave charge]] [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G901-1000#G0932|your kingdom]] [[Lexicon/G1901-2000#G1909|over]] Israel [[Lexicon/G2101-2200#G2193|unto]]
+
+#### 1 Samuel 13 - 14
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3568|now]] [[Lexicon/G901-1000#G0932|your kingdom]] [[Lexicon/G3701-3800#G3756|shall not]] [[Lexicon/G2401-2500#G2476|stand]] [[Lexicon/G1401-1500#G1473|with you.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1438|for himself]] [[Lexicon/G401-500#G0444|a man]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G2501-2600#G2588|his heart.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|to him]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G701-800#G0758|ruler]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G2901-3000#G2992|his people,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G3701-3800#G3756|you did not]] [[Lexicon/G5401-5500#G5442|keep]] [[Lexicon/G3701-3800#G3745|as many things as]] [[Lexicon/G1701-1800#G1781|gave charge]]
+
+#### 1 Samuel 13 - 15
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G401-500#G0450|Samuel rose up]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0565|went forth]] [[Lexicon/G1501-1600#G1537|from out of]] Gilgal [[Lexicon/G1501-1600#G1519|unto]] of Benjamin. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1901-2000#G1980|Saul numbered]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2992|people]] [[Lexicon/G2101-2200#G2147|being found]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G5601-5700#G5613|about]] [[Lexicon/G1801-1900#G1812|six hundred]] [[Lexicon/G401-500#G0435|men.]]
+
+#### 1 Samuel 13 - 16
+[[Lexicon/G2501-2600#G2532|And]] Saul [[Lexicon/G2501-2600#G2532|and]] Jonathan [[Lexicon/G5201-5300#G5207|his son,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2992|people]] [[Lexicon/G2101-2200#G2147|being found]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2523|stayed]] [[Lexicon/G1701-1800#G1722|in]] Gibeah of Benjamin. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0246|Philistines]] [[Lexicon/G3901-4000#G3924|camped]] [[Lexicon/G1701-1800#G1722|in]] Michmash.
+
+#### 1 Samuel 13 - 17
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1301-1400#G1311|to destroy]] [[Lexicon/G1501-1600#G1537|out of]] [[Lexicon/G201-300#G0246|of the Philistines]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5101-5200#G5140|three]] [[Lexicon/G701-800#G0746|companies.]] [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G701-800#G0746|company]] [[Lexicon/G1901-2000#G1914|looking upon]] of Ophrah, [[Lexicon/G1901-2000#G1909|towards]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Shual.
+
+#### 1 Samuel 13 - 18
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G701-800#G0746|company]] [[Lexicon/G1901-2000#G1914|looking upon]] of Beth-horon. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G701-800#G0746|company]] [[Lexicon/G1901-2000#G1914|looking upon]] of Gibeah, [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G1501-1600#G1582|looking]] [[Lexicon/G1901-2000#G1909|towards]] Gai, [[Lexicon/G3501-3600#G3588|the]] Zeboim [[Lexicon/G2001-2100#G2048|wilderness.]]
+
+#### 1 Samuel 13 - 19
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5001-5100#G5045|a fabricator]] [[Lexicon/G4601-4700#G4604|of iron]] [[Lexicon/G3701-3800#G3756|was not]] [[Lexicon/G2101-2200#G2147|found]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Israel, [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G3301-3400#G3379|Perhaps]] [[Lexicon/G4101-4200#G4160|will make]] [[Lexicon/G4501-4600#G4501|a broadsword]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1393|spear.]]
+
+#### 1 Samuel 13 - 20
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2501-2600#G2597|went down]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G201-300#G0246|of the Philistines,]] [[Lexicon/G5401-5500#G5471|to forge]] [[Lexicon/G2301-2400#G2327|his own reaping hook,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4632|his utensil,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1538|each]] [[Lexicon/G501-600#G0513|his axe,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1407|his sickle.]]
+
+#### 1 Samuel 13 - 21
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|was]] [[Lexicon/G2001-2100#G2092|prepared]] [[Lexicon/G2301-2400#G2325|to harvest.]] [[Lexicon/G1501-1600#G1519|But for]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4632|items]] [[Lexicon/G1501-1600#G1510|there was a charge of]] [[Lexicon/G5101-5200#G5140|three]] [[Lexicon/G4601-4700#G4608|shekels]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3599|tooth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G501-600#G0513|axe,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1401-1500#G1407|sickle;]] [[Lexicon/G1501-1600#G1510|was]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1473|same.]]
+
+#### 1 Samuel 13 - 22
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4101-4200#G4171|war,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G3701-3800#G3756|there was not]] [[Lexicon/G2101-2200#G2147|found]] [[Lexicon/G4501-4600#G4501|broadsword]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1393|spear]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2992|people,]] [[Lexicon/G3501-3600#G3588|of the one]] [[Lexicon/G3301-3400#G3326|with]] Saul [[Lexicon/G2501-2600#G2532|and]] Jonathan. [[Lexicon/G2501-2600#G2532|But]] [[Lexicon/G2101-2200#G2147|it was found]] Saul [[Lexicon/G2501-2600#G2532|and]] Jonathan [[Lexicon/G5201-5300#G5207|his son.]]
+
+#### 1 Samuel 13 - 23
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1831|went forth]] [[Lexicon/G3501-3600#G3588|the place]] [[Lexicon/G1701-1800#G1722|on]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4001-4100#G4008|other side]] of Michmash.

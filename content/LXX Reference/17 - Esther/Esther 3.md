@@ -1,0 +1,55 @@
+---
+cssClasses: lxx
+Book: Esther
+Chapter: "3"
+Testament: Old
+---
+
+# Esther 3
+
+[[LXX Reference/17 - Esther/Esther 2|←]] • [[LXX Reference/17 - Esther/Esther 4|→]]
+
+#### Esther 3 - 1
+[[Lexicon/G3301-3400#G3326|After]] [[Lexicon/G3701-3800#G3778|these things]] [[Lexicon/G1301-1400#G1392|extolled]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0935|king]] Artaxerxes Haman [[Lexicon/G3501-3600#G3588|the]] Hammedatha the Agagite, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5312|exalted]] [[Lexicon/G1401-1500#G1473|him]], [[Lexicon/G2501-2600#G2532|and]] [[G4409.1|seated him first]] [[Lexicon/G3901-4000#G3956|above all]] [[Lexicon/G3501-3600#G3588|his]] [[Lexicon/G5301-5400#G5384|friends]].
+
+#### Esther 3 - 2
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G801-900#G0833|courtyard]] [[Lexicon/G4301-4400#G4352|did obeisance to]] [[Lexicon/G1401-1500#G1473|him]], [[Lexicon/G3701-3800#G3779|for so]] [[Lexicon/G4301-4400#G4367|assigned it]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G4101-4200#G4160|to do]]. [[Lexicon/G1101-1200#G1161|But]] Mordecai [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G4301-4400#G4352|do obeisance to]] [[Lexicon/G1401-1500#G1473|him]].
+
+#### Esther 3 - 3
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2980|said]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G801-900#G0833|courtyard]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|king]] to Mordecai, O Mordecai, [[Lexicon/G5001-5100#G5100|why]] [[Lexicon/G3801-3900#G3878|do you disregard]] [[Lexicon/G3501-3600#G3588|the things]] [[Lexicon/G5201-5300#G5259|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G3001-3100#G3004|being said]]?
+
+#### Esther 3 - 4
+[[Lexicon/G2501-2600#G2596|Accordingly]] [[Lexicon/G1501-1600#G1538|each]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G2901-3000#G2980|they spoke]] [[Lexicon/G1401-1500#G1473|to him]], [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|he did not]] [[Lexicon/G5201-5300#G5219|hearken]] [[Lexicon/G1401-1500#G1473|to them]]; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5263|they indicated]] [[Lexicon/G3501-3600#G3588|to]] Haman that Mordecai [[Lexicon/G3001-3100#G3056|the words]] [[Lexicon/G401-500#G0498|was rebelling]] [[Lexicon/G3501-3600#G3588|against the]] [[Lexicon/G901-1000#G0935|king]]; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5263|indicated]] [[Lexicon/G1401-1500#G1473|to them]] Mordecai [[Lexicon/G3701-3800#G3754|that]] [[G1510.2.3|he is]] a Jew.
+
+#### Esther 3 - 5
+[[Lexicon/G2501-2600#G2532|And]] Haman, realizing [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G4301-4400#G4352|do obeisance to]] [[Lexicon/G1401-1500#G1473|him]] Mordecai, [[Lexicon/G2301-2400#G2373|was enraged]] [[Lexicon/G4901-5000#G4970|exceedingly]].
+
+#### Esther 3 - 6
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1011|he took counsel]] [[Lexicon/G801-900#G0853|to remove]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5259|under]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0932|kingdom]] of Artaxerxes [[Lexicon/G3501-3600#G3588|the]] Jews.
+
+#### Esther 3 - 7
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4160|he made]] [[G5585.1|a referendum]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2001-2100#G2094|year]] [[Lexicon/G1401-1500#G1428|the twelfth]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0932|kingdom]] of Artaxerxes. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G901-1000#G0906|he cast]] [[Lexicon/G2801-2900#G2819|lots]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G1501-1600#G1537|by]] [[Lexicon/G2201-2300#G2250|day]], [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3376|month]] [[Lexicon/G1501-1600#G1537|by]] [[Lexicon/G3301-3400#G3376|month]], [[Lexicon/G5601-5700#G5620|so as]] [[Lexicon/G601-700#G0622|to destroy]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1501-1600#G1520|one]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1085|race]] of Mordecai. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4001-4100#G4098|fell]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2801-2900#G2819|lot]] [[Lexicon/G1501-1600#G1519|on]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5001-5100#G5065|fourteenth]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3301-3400#G3376|month]], [[Lexicon/G3701-3800#G3739|which]] [[G1510.2.3|is]] Adar.
+
+#### Esther 3 - 8
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2980|he spoke]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0935|king]] Artaxerxes, [[Lexicon/G3001-3100#G3004|saying]], [[Lexicon/G5201-5300#G5224|There exists]] [[Lexicon/G1401-1500#G1484|a nation]] [[Lexicon/G1201-1300#G1289|having been disseminated]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|your]] [[Lexicon/G901-1000#G0932|kingdom]], [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G3501-3600#G3551|their laws]] [[G1814.1|are special]] [[Lexicon/G3801-3900#G3844|from]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]]; [[Lexicon/G3501-3600#G3551|and of the]] [[Lexicon/G901-1000#G0935|king's]] [[Lexicon/G3801-3900#G3878|laws]] [[Lexicon/G2501-2600#G2532|they disregard]], [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|it is not]] [[Lexicon/G4801-4900#G4851|advantageous]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G1401-1500#G1439|to allow]] [[Lexicon/G1401-1500#G1473|them]].
+
+#### Esther 3 - 9
+[[Lexicon/G1401-1500#G1487|If]] [[Lexicon/G1301-1400#G1380|it seems good]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G901-1000#G0935|king]], [[Lexicon/G1301-1400#G1379|let him decree]] [[Lexicon/G601-700#G0622|to destroy]] [[Lexicon/G1401-1500#G1473|them]], [[Lexicon/G2501-2600#G2504|and I]] [[G1234.2|will circumscribe]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1049|treasury]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G601-700#G0694|of silver]] [[Lexicon/G5001-5100#G5007|ten thousand]] [[Lexicon/G3401-3500#G3463|talents]].
+
+#### Esther 3 - 10
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4001-4100#G4014|removing]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G1101-1200#G1146|ring]], [[Lexicon/G1301-1400#G1325|gave it]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G5401-5500#G5495|the hands]] [[Lexicon/G3501-3600#G3588|of]] Haman, [[Lexicon/G4901-5000#G4972|to set a seal]] [[Lexicon/G2501-2600#G2596|on]] [[Lexicon/G3501-3600#G3588|the things]] [[Lexicon/G1101-1200#G1125|being written]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G3501-3600#G3588|the]] Jews.
+
+#### Esther 3 - 11
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G3501-3600#G3588|to]] Haman, [[Lexicon/G3501-3600#G3588|As for the]] [[Lexicon/G601-700#G0694|silver]], [[Lexicon/G2101-2200#G2192|you have it!]] [[Lexicon/G1101-1200#G1161|and for the]] [[Lexicon/G1401-1500#G1484|nation]], [[Lexicon/G5501-5600#G5530|you treat it]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2301-2400#G2309|you want!]]
+
+#### Esther 3 - 12
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2501-2600#G2564|were called]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1101-1200#G1122|scribes]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G3301-3400#G3376|in month]] [[Lexicon/G4401-4500#G4413|the first]], [[Lexicon/G3501-3600#G3588|the]] [[G5151.2|thirteenth day]], [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1101-1200#G1125|they wrote]] [[Lexicon/G5601-5700#G5613|as]] Haman gave orders [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G4701-4800#G4755|commandants]], [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G701-800#G0758|rulers]] [[Lexicon/G2501-2600#G2596|in]] [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G5501-5600#G5561|place]], [[Lexicon/G501-600#G0575|from]] India [[Lexicon/G2101-2200#G2193|unto]] Ethiopia, [[Lexicon/G3501-3600#G3588|to a hundred]] [[Lexicon/G1501-1600#G1540|twenty-seven]] [[Lexicon/G5501-5600#G5561|places]], [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G701-800#G0758|rulers]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G1401-1500#G1473|their]] [[G3012.1|form of speech]], [[Lexicon/G1201-1300#G1223|through]] Artaxerxes [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0935|king]].
+
+#### Esther 3 - 13
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G601-700#G0649|it was sent]] [[Lexicon/G1201-1300#G1223|by]] [[G975.1|couriers]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G3501-3600#G3588|the]] kingdom of Artaxerxes, [[Lexicon/G801-900#G0853|to remove]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1085|race]] [[Lexicon/G3501-3600#G3588|of the]] Jews [[Lexicon/G1701-1800#G1722|on]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G1501-1600#G1520|one]] [[Lexicon/G3301-3400#G3376|of month]] [[Lexicon/G1401-1500#G1428|the twelfth]], [[Lexicon/G3701-3800#G3739|which]] [[G1510.2.3|is]] Adar, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1283|to plunder]] [[Lexicon/G3501-3600#G3588|their]] [[Lexicon/G5201-5300#G5224|possessions]].
+
+#### Esther 3 - 14
+[[Lexicon/G3501-3600#G3588|And the]] [[G474.1|copies]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1901-2000#G1992|letters]] [[Lexicon/G1601-1700#G1620|were displayed]] [[Lexicon/G2501-2600#G2596|in each]] [[Lexicon/G5501-5600#G5561|place]]. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4367|it was assigned]] [[Lexicon/G3901-4000#G3956|to all]] [[Lexicon/G2001-2100#G2092|to be prepared]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3501-3600#G3588|that]] [[Lexicon/G2201-2300#G2250|day]].
+
+#### Esther 3 - 15
+[[Lexicon/G4601-4700#G4692|was hastened]] [[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4201-4300#G4229|thing]], [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G1501-1600#G1519|in]] Shushan. [[Lexicon/G1101-1200#G1161|And the]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G2501-2600#G2532|and]] Haman [[G2965.3|toasted]], [[Lexicon/G5001-5100#G5015|was disturbed]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4172|city]].

@@ -1,0 +1,87 @@
+---
+cssClasses: lxx
+Book: 2 Chronicles
+Chapter: "33"
+Testament: Old
+---
+
+# 2 Chronicles 33
+
+[[LXX Reference/14 - 2 Chronicles/2 Chronicles 32|←]] • [[LXX Reference/14 - 2 Chronicles/2 Chronicles 34|→]]
+
+---
+
+#### 2 Chronicles 33 - 1
+[[Lexicon/G5201-5300#G5207| was a son]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G901-1000#G0936|his taking reign,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4001-4100#G4004|fifty-five]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G901-1000#G0936|he reigned]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem.
+
+#### 2 Chronicles 33 - 2
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4160|he acted]] [[Lexicon/G4101-4200#G4190|wickedly]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0946|abominations]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4301-4400#G4383|in front]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel.
+
+#### 2 Chronicles 33 - 3
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1901-2000#G1994|he returned]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3618|built]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5301-5400#G5308|high places]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G2601-2700#G2686|tore down]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2401-2500#G2476|he set up]] [[Lexicon/G2301-2400#G2379|altars]] [[Lexicon/G3501-3600#G3588|to the]] Baals, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|he made]] [[Lexicon/G201-300#G0251|sacred groves,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4352|he did obeisance]] [[Lexicon/G3901-4000#G3956|to all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4701-4800#G4756|military]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3772|heaven,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1398|he served]] [[Lexicon/G1401-1500#G1473|to them.]]
+
+#### 2 Chronicles 33 - 4
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3601-3700#G3618|he built]] [[Lexicon/G2301-2400#G2379|altars]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon.]]
+
+#### 2 Chronicles 33 - 5
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3601-3700#G3618|he built]] [[Lexicon/G2301-2400#G2379|altars]] [[Lexicon/G3901-4000#G3956|to all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4701-4800#G4756|military]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3772|heaven]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1417|two]] [[Lexicon/G801-900#G0833|courtyards]] [[Lexicon/G3601-3700#G3624|of the house]] [[Lexicon/G2901-3000#G2962|of the lord.]]
+
+#### 2 Chronicles 33 - 6
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|he]] [[Lexicon/G1201-1300#G1236|led]] [[Lexicon/G5001-5100#G5043|his children]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G1701-1800#G1722|in]] of the Son of Hinnom. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2801-2900#G2813|he prognosticated,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3634|foretold,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5332|administered potions,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|established]] [[Lexicon/G1401-1500#G1447|ones who deliver oracles,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1883|enchanters.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4129|he multiplied]] [[Lexicon/G4101-4200#G4160|to act]] [[Lexicon/G4101-4200#G4190|wickedly]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G3901-4000#G3949|to provoke him to anger.]]
+
+#### 2 Chronicles 33 - 7
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5001-5100#G5087|he put]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1099|carved]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5501-5600#G5560|molten]] [[Lexicon/G1501-1600#G1504|image,]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4101-4200#G4160|he made,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] [[Lexicon/G2301-2400#G2316|of God,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G2001-2100#G2036|God said]] [[Lexicon/G4301-4400#G4314|to]] David [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4314|to]] Solomon [[Lexicon/G5201-5300#G5207|his son,]] [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3601-3700#G3624|this house,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem, [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1501-1600#G1586|I chose]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G3901-4000#G3956|all]] of Israel, [[Lexicon/G5001-5100#G5087|I will put]] [[Lexicon/G3601-3700#G3686|my name]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon;]]
+
+#### 2 Chronicles 33 - 8
+[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|I shall not proceed]] [[Lexicon/G4501-4600#G4531|to shake]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4201-4300#G4228|foot]] of Israel [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G1301-1400#G1325|I gave]] [[Lexicon/G3901-4000#G3962|their fathers,]] [[Lexicon/G4101-4200#G4133|if only]] [[Lexicon/G5401-5500#G5442|they guard]] [[Lexicon/G4101-4200#G4160|to do]] [[Lexicon/G3901-4000#G3956|all things]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1701-1800#G1781|I gave charge]] [[Lexicon/G1401-1500#G1473|to them,]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3551|law,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4366|orders,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2917|judgments]] of Moses.
+
+#### 2 Chronicles 33 - 9
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4105|Manasseh misled]] Judah [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2730|ones dwelling]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem, [[Lexicon/G4101-4200#G4160|to act]] [[Lexicon/G4101-4200#G4190|wickedly]] [[Lexicon/G5201-5300#G5228|above]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4301-4400#G4383|in front]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel.
+
+#### 2 Chronicles 33 - 10
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3301-3400#G3326|with]] Manasseh, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G2901-3000#G2992|his people,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|they did not]] [[Lexicon/G101-200#G0191|listen.]]
+
+#### 2 Chronicles 33 - 11
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0758|rulers]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1411|force]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|king]] of Assyria. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2601-2700#G2638|they overtook]] Manasseh [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1101-1200#G1199|bonds,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1210|they tied]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3976|shackles,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0071|they led]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1501-1600#G1519|into]] Babylon.
+
+#### 2 Chronicles 33 - 12
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2301-2400#G2346|he was afflicted,]] [[Lexicon/G2201-2300#G2212|he sought]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4383|face]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G2301-2400#G2316|his God,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5013|was humbled]] [[Lexicon/G4901-5000#G4970|exceedingly]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4301-4400#G4383|in front]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G3901-4000#G3962|of his fathers.]]
+
+#### 2 Chronicles 33 - 13
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4336|he prayed]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1873|he heeded]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1873|he heeded]] [[Lexicon/G901-1000#G0995|his yelling,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1994|he returned]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1501-1600#G1519|unto]] Jerusalem [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G901-1000#G0932|his kingdom.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1097|Manasseh knew]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1401-1500#G1473|he]] [[Lexicon/G1501-1600#G1510|is]] [[Lexicon/G2301-2400#G2316|God.]]
+
+#### 2 Chronicles 33 - 14
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3301-3400#G3326|after]] [[Lexicon/G3701-3800#G3778|these things,]] [[Lexicon/G3601-3700#G3618|he built]] [[Lexicon/G5001-5100#G5038|a wall]] [[Lexicon/G1801-1900#G1854|outside]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4172|city]] of David, [[Lexicon/G501-600#G0575|from]] of Gihon, [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5493|rushing stream]] [[Lexicon/G1601-1700#G1607|going forth]] [[Lexicon/G3501-3600#G3588|by the]] [[Lexicon/G4401-4500#G4439|gate]] [[Lexicon/G2901-3000#G2945|a circuit]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G3501-3600#G3588|the]] Ophel, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5312|he raised it high]] [[Lexicon/G4901-5000#G4970|exceedingly.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2501-2600#G2525|he placed]] [[Lexicon/G701-800#G0758|rulers]] [[Lexicon/G1401-1500#G1411|of the force]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4172|cities]] [[Lexicon/G1701-1800#G1722|in]] Judah.
+
+#### 2 Chronicles 33 - 15
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4001-4100#G4014|he removed]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2316|gods]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G201-300#G0245|aliens,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1099|carved image]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2379|altars]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3601-3700#G3618|he built]] [[Lexicon/G1701-1800#G1722|on]] [[Lexicon/G3601-3700#G3624|of the house]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1544|he cast them]] [[Lexicon/G1801-1900#G1854|outside]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4172|city.]]
+
+#### 2 Chronicles 33 - 16
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2701-2800#G2734|he set up]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2379|altar]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2378|he sacrificed]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G2301-2400#G2378|a sacrifice]] [[Lexicon/G4901-5000#G4992|of deliverance offering]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0133|a praise offering,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|he told]] Judah [[Lexicon/G1301-1400#G1398|to serve]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2301-2400#G2316|God]] of Israel.
+
+#### 2 Chronicles 33 - 17
+[[Lexicon/G4101-4200#G4133|Only]] [[Lexicon/G2001-2100#G2089|still]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2992|people]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G4101-4200#G4133|except]] [[Lexicon/G2301-2400#G2316|their God.]]
+
+#### 2 Chronicles 33 - 18
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3062|rest]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3001-3100#G3056|words]] of Manasseh, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4335|his prayer]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3708|seers,]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2901-3000#G2980|ones speaking]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G2301-2400#G2316|God]] of Israel, [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G901-1000#G0935|of the kings]] of Israel.
+
+#### 2 Chronicles 33 - 19
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4335|his prayer,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G201-300#G0266|his sins,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0647|his defections,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5101-5200#G5117|places]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3601-3700#G3618|he built]] [[Lexicon/G1701-1800#G1722|on]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5301-5400#G5308|high places,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2401-2500#G2476|established]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G201-300#G0251|sacred groves,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1099|carved images,]] [[Lexicon/G4201-4300#G4253|before]] [[Lexicon/G1901-2000#G1994|he returned,]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G1101-1200#G1125|they are written]] [[Lexicon/G1901-2000#G1909|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3056|words]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3708|seers.]]
+
+#### 2 Chronicles 33 - 20
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2801-2900#G2837|Manasseh slept]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3901-4000#G3962|his fathers,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2201-2300#G2290|they entombed]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3601-3700#G3624|of his house.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G901-1000#G0936|reigned]] [[Lexicon/G401-500#G0473|instead of]] [[Lexicon/G1401-1500#G1473|him.]]
+
+#### 2 Chronicles 33 - 21
+[[Lexicon/G5201-5300#G5207| was a son]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G901-1000#G0936|his taking reign,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1417|two]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G901-1000#G0936|he reigned]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem.
+
+#### 2 Chronicles 33 - 22
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4160|he did]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4190|wicked thing]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G2501-2600#G2531|as]] [[Lexicon/G4101-4200#G4160|did]] Manasseh [[Lexicon/G3901-4000#G3962|his father.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3956|to all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1497|idols]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4101-4200#G4160|made]] [[Lexicon/G2301-2400#G2380|Amon sacrificed]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1398|served]] [[Lexicon/G1401-1500#G1473|to them.]]
+
+#### 2 Chronicles 33 - 23
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|he was not]] [[Lexicon/G5001-5100#G5013|humbled]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5001-5100#G5013|was humbled]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G5201-5300#G5207|his son]] Amon [[Lexicon/G4101-4200#G4129|multiplied]] [[Lexicon/G4101-4200#G4131|in trespassing.]]
+
+#### 2 Chronicles 33 - 24
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2007|attacked]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3960|struck]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3601-3700#G3624|his house.]]
+
+#### 2 Chronicles 33 - 25
+[[Lexicon/G2501-2600#G2532|But]] [[Lexicon/G3901-4000#G3960|struck]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2001-2100#G2007|attacking]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G901-1000#G0935|king]] Amon. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G901-1000#G0936|gave reign to]] Josiah [[Lexicon/G5201-5300#G5207|his son]] [[Lexicon/G401-500#G0473|instead of]] [[Lexicon/G1401-1500#G1473|him.]]

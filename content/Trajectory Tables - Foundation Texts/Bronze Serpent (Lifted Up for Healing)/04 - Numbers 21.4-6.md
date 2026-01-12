@@ -1,0 +1,22 @@
+### [[Readable Bible/04 - Numbers/Numbers 21#Numbers 21 . 4|Numbers 21:4-6]]
+
+**Hebrew Key Terms**:
+- [[Lexicon/H7101-7200#H7114|וַיִּקְצַר]] (*wayyiqṣar*) - "and it became short" (they became impatient)
+- [[Lexicon/H5301-5400#H5315|נֶפֶשׁ]] (*nepeš*) - "soul" (here: patience, spirit)
+- [[Lexicon/H1701-1800#H1696|וַיְדַבֵּר]] (*wayədabbēr*) - "and they spoke"
+- [[Lexicon/H7401-7500#H7971|וַיְשַׁלַּח]] (*wayəšallaḥ*) - "and he sent"
+- [[Lexicon/H5301-5400#H5175|הַנְּחָשִׁים הַשְּׂרָפִים]] (*hannəḥāšîm haśśərāpîm*) - "the fiery serpents"
+- [[Lexicon/H5301-5400#H5391|וַיְנַשְּׁכוּ]] (*wayənaššəkû*) - "and they bit"
+- [[Lexicon/H4101-4200#H4191|וַיָּמָת]] (*wayyāmot*) - "and they died"
+- [[Lexicon/H7401-7500#H7227|עַם־רָב]] (*ʿam-rāb*) - "many people"
+
+**Context**: Israel speaks against God and Moses in the wilderness, complaining about the lack of bread and water. As judgment, "the LORD sent fiery serpents among the people, and they bit the people, so that many people of Israel died" (v. 6). The serpents' poison brought death—a picture of sin's deadly consequences.
+
+**Connections**:
+- **TO**: [[Readable Bible/01 - Genesis/Genesis 3#Genesis 3 . 1|Genesis 3:1-15]] (serpent brings curse and death), [[Readable Bible/02 - Exodus/Exodus 16#Exodus 16 . 3|Exodus 16:3]] (previous wilderness complaints), [[Readable Bible/04 - Numbers/Numbers 11#Numbers 11 . 1|Numbers 11:1-6]] (complaining brings judgment)
+- **FROM OT**: [[Readable Bible/04 - Numbers/Numbers 21#Numbers 21 . 7|Numbers 21:7-9]] (bronze serpent remedy), [[Readable Bible/05 - Deuteronomy/Deuteronomy 8#Deuteronomy 8 . 15|Deuteronomy 8:15]] (fiery serpents in wilderness)
+- **FROM NT**: [[Readable Bible/43 - John/John 3#John 3 . 14|John 3:14-15]] (Son of Man lifted up like serpent), [[Readable Bible/46 - 1 Corinthians/1 Corinthians 10#1 Corinthians 10 . 9|1 Corinthians 10:9-10]] (don't test Christ as they tested God), [[Readable Bible/66 - Revelation/Revelation 12#Revelation 12 . 9|Revelation 12:9]] (ancient serpent, the devil)
+
+**Christological Connection**: [[Readable Bible/04 - Numbers/Numbers 21#Numbers 21 . 4|Numbers 21:4-6]]'s fiery serpents represent sin's deadly consequences, pointing forward to Christ's work on the cross where He bore sin's judgment. The serpent in Eden brought the curse of death ([[Readable Bible/01 - Genesis/Genesis 3#Genesis 3 . 14|Genesis 3:14-19]]); the serpents in the wilderness executed that curse on rebellious Israel. This establishes the problem that Christ came to solve. Paul declares "the wages of sin is death" ([[Readable Bible/45 - Romans/Romans 6#Romans 6 . 23|Romans 6:23]])—the fiery serpents illustrated this principle vividly. Their venom poisoned and killed, just as sin poisons and destroys humanity. The connection to Christ appears in [[Readable Bible/43 - John/John 3#John 3 . 14|John 3:14-15]] where Jesus says, "As Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up." This comparison requires understanding what the serpents represented: they were instruments of divine judgment against sin. Christ's crucifixion confronts the same reality—"God made him who knew no sin to be sin for us" ([[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians 5 . 21|2 Corinthians 5:21]]). The fiery serpents brought death to sinners; Christ on the cross bore the death that sinners deserved. First Corinthians 10:9 applies the incident as warning: "We must not put Christ to the test, as some of them did and were destroyed by serpents," showing that testing God/Christ brings the same judgment the serpents inflicted. The bronze serpent remedy (next passage) reveals God's grace, but first the serpents must reveal sin's deadliness. Without understanding the poison's lethality, the cure seems unnecessary. The trajectory moves from Eden's serpent (brought spiritual death), to wilderness serpents (brought physical death), to Christ who "became a curse for us" ([[Readable Bible/48 - Galatians/Galatians 3#Galatians 3 . 13|Galatians 3:13]]) to deliver from both. Revelation completes the arc: Christ defeats "that ancient serpent, who is the devil and Satan" ([[Readable Bible/66 - Revelation/Revelation 20#Revelation 20 . 2|Revelation 20:2]]), abolishing death forever ([[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 4|Revelation 21:4]]). What the fiery serpents inflicted temporarily on rebels, Christ endured finally for redeemed sinners.
+
+**Trajectory Table**: [[Trajectory Tables/021 - Bronze Serpent (Lifted Up for Healing)]]

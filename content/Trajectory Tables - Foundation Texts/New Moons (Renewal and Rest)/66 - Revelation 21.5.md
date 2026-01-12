@@ -1,0 +1,21 @@
+### [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 5|Revelation 21:5]]
+
+**Greek Key Terms**:
+- [[Lexicon/G2501-2600#G2521|καθήμενος]] (*kathēmenos*) - "the one sitting" (on the throne)
+- [[Lexicon/G2301-2400#G2362|ἐπὶ τῷ θρόνῳ]] (*epi tō thronō*) - "on the throne"
+- [[Lexicon/G2400|ἰδοὺ]] (*idou*) - "behold!" (draw attention)
+- [[Lexicon/G2501-2600#G2537|καινὰ]] (*kaina*) - "new" (qualitatively new)
+- [[Lexicon/G4001-4100#G4160|ποιῶ]] (*poiō*) - "I am making, doing" (present active)
+- [[Lexicon/G3801-3900#G3956|πάντα]] (*panta*) - "all things"
+- [[Lexicon/G1101-1200#G1125|γράψον]] (*grapson*) - "write!" (aorist imperative)
+- [[Lexicon/G4001-4100#G4103|πιστοὶ καὶ ἀληθινοί]] (*pistoi kai alēthinoi*) - "faithful and true"
+
+**Context**: God, enthroned in glory, declares: "Behold, I am making all things new!" He commands John to write because these words are faithful and true. This announcement consummates redemptive history—comprehensive renewal of all creation. Not renovation but new creation where former things pass away and God's presence renews everything perpetually.
+
+**Connections**:
+- **TO**: [[Readable Bible/01 - Genesis/Genesis 1#Genesis 1 . 1|Genesis 1:1]] (God created), [[Readable Bible/23 - Isaiah/Isaiah 43#Isaiah 43 . 19|Isaiah 43:19]] (I am doing a new thing), [[Readable Bible/23 - Isaiah/Isaiah 65#Isaiah 65 . 17|Isaiah 65:17]] (I create new heavens and new earth)
+- **FROM NT**: [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 1|Revelation 21:1]] (new heaven and new earth), [[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians 5 . 17|2 Corinthians 5:17]] (new creation in Christ), [[Readable Bible/61 - 2 Peter/2 Peter 3#2 Peter 3 . 13|2 Peter 3:13]] (waiting for new heavens and earth)
+
+**Christological Connection**: [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 5|Revelation 21:5]]'s "I am making all things new" fulfills what new moons symbolized—complete renewal. The monthly new moon marked temporal fresh start; God's declaration announces eternal newness. Christ is the agent: "All things were created through him and for him" ([[Readable Bible/51 - Colossians/Colossians 1#Colossians 1 . 16|Colossians 1:16]]), and "through him to reconcile to himself all things" ([[Readable Bible/51 - Colossians/Colossians 1#Colossians 1 . 20|Colossians 1:20]]). What He created, He renews. The "new heavens and new earth" ([[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 1|Revelation 21:1]]) replace the first, completing God's redemptive plan. The Lamb (Christ) is central to new creation: "The throne of God and of the Lamb will be in it" ([[Readable Bible/66 - Revelation/Revelation 22#Revelation 22 . 3|Revelation 22:3]]). Believers already participate: "If anyone is in Christ, he is a new creation" ([[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians 5 . 17|2 Corinthians 5:17]])—individual new creation now, cosmic new creation later. The transformation is comprehensive: no more death, mourning, crying, or pain ([[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 4|Revelation 21:4]])—all curse-results eliminated. The new city has no temple because "the Lord God the Almighty and the Lamb are its temple" ([[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 22|Revelation 21:22]])—direct access replaces mediated worship. No sun or moon needed because "the glory of God gives it light, and its lamp is the Lamb" ([[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 23|Revelation 21:23]])—created lights give way to uncreated Light. The new moons' monthly renewal pointed to this perpetual newness where nothing ages, decays, or needs refreshing. What was cyclical (monthly, daily) becomes constant—eternal freshness in God's presence. The command "write!" ensures believers know this hope is certain, motivating present faithfulness: "Since all these things are thus to be dissolved, what sort of people ought you to be in lives of holiness and godliness!" ([[Readable Bible/61 - 2 Peter/2 Peter 3#2 Peter 3 . 11|2 Peter 3:11]]). New moons marked temporal renewal; Christ makes all things eternally new.
+
+**Trajectory Table**: [[Trajectory Tables/110 - New Moons (Renewal and Rest)]]

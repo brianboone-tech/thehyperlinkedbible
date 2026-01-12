@@ -1,0 +1,26 @@
+### [[Readable Bible/66 - Revelation/Revelation 7#Revelation 7 . 14|Revelation 7:14]]
+
+**Greek Key Terms**:
+- [[Lexicon/G4001-4100#G4130|G4130]] πλύνω (*plynō*) - "to wash"
+- [[Lexicon/G4701-4800#G4749|G4749]] στολή (*stolē*) - "robe, long garment"
+- [[Lexicon/G3001-3100#G3021|G3021]] λευκαίνω (*leukainō*) - "to make white, whiten"
+- [[Lexicon/G129|G129]] αἷμα (*haima*) - "blood"
+- [[Lexicon/G701-800#G721|G721]] ἀρνίον (*arnion*) - "lamb, little lamb"
+
+**Context**: Revelation 7 presents two groups: 144,000 sealed from Israel's tribes (vv. 1-8) and a countless multitude from every nation standing before the Lamb (vv. 9-17). When John asks who they are, the elder answers: "These are the ones coming out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb" (v. 14). The paradox is striking: washing in blood produces whiteness. This imagery culminates the biblical trajectory of blood-cleansing through hyssop, fulfilling David's prayer and revealing the redeemed's eternal state.
+
+**OT-to-OT Development**:
+- **[[Readable Bible/02 - Exodus/Exodus 12#Exodus 12 . 22|Exodus 12:22]]** - Hyssop applied lamb's blood to doorposts, protecting from death's angel. Now robes are washed in the Lamb's blood, securing eternal life.
+- **[[Readable Bible/03 - Leviticus/Leviticus 14#Leviticus 14 . 6|Leviticus 14:6-7]]** - Hyssop dipped in blood with water cleansed lepers. The vision shows comprehensive cleansing—robes (external testimony) washed white (complete purity).
+- **[[Readable Bible/19 - Psalms/Psalm 51#Psalm 51 . 7|Psalm 51:7]]** - David prayed: "Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow." [[Readable Bible/66 - Revelation/Revelation 7#Revelation 7 . 14|Revelation 7:14]] answers this prayer: robes washed white in the Lamb's blood, achieving snow-like purity.
+- **[[Readable Bible/23 - Isaiah/Isaiah 1#Isaiah 1 . 18|Isaiah 1:18]]** - God promised: "Though your sins are like scarlet, they shall be as white as snow; though they are red like crimson, they shall become like wool." The fulfillment appears: scarlet sins washed white through crimson blood—the ultimate paradox.
+
+**Connections**:
+- **TO**: [[Readable Bible/02 - Exodus/Exodus 12#Exodus 12 . 22|Exodus 12:22]] (Passover lamb's blood protecting from death), [[Readable Bible/03 - Leviticus/Leviticus 14#Leviticus 14 . 7|Leviticus 14:7]] (hyssop-cleansing producing purity), [[Readable Bible/19 - Psalms/Psalm 51#Psalm 51 . 7|Psalm 51:7]] (prayer for hyssop-cleansing and snow-whiteness), [[Readable Bible/23 - Isaiah/Isaiah 1#Isaiah 1 . 18|Isaiah 1:18]] (scarlet sins made white as snow), [[Readable Bible/38 - Zechariah/Zechariah 3#Zechariah 3 . 3|Zechariah 3:3-5]] (Joshua's filthy garments replaced with clean robes)
+- **FROM NT**: [[Readable Bible/66 - Revelation/Revelation 22#Revelation 22 . 14|Revelation 22:14]] (blessed are those who wash their robes), [[Readable Bible/66 - Revelation/Revelation 3#Revelation 3 . 5|Revelation 3:5]] (overcome clothed in white garments), [[Readable Bible/66 - Revelation/Revelation 19#Revelation 19 . 8|Revelation 19:8]] (fine linen, bright and clean, is the righteous deeds of the saints)
+
+**Type Classification**: **Direct Type** (Passover and purification rituals were divinely commanded) and **Consummated** (Revelation presents eschatological fulfillment of what types foreshadowed)
+
+**Christological Connection**: Hyssop applied lamb's blood at Passover, protecting from death; hyssop applied blood in purification rituals, cleansing from defilement. Revelation reveals the ultimate reality: the Lamb's blood washes robes white, accomplishing complete, eternal purification. David prayed "Purge me with hyssop, and I shall be clean; wash me, and I shall be whiter than snow" ([[Readable Bible/19 - Psalms/Psalm 51#Psalm 51 . 7|Psalm 51:7]])—[[Readable Bible/66 - Revelation/Revelation 7#Revelation 7 . 14|Revelation 7:14]] shows this prayer answered beyond David's comprehension: not ceremonial hyssop-sprinkling but the Lamb's blood washing robes white forever. Isaiah promised "Though your sins are like scarlet, they shall be as white as snow" ([[Readable Bible/23 - Isaiah/Isaiah 1#Isaiah 1 . 18|Isaiah 1:18]])—the multitude clothed in white robes demonstrates fulfillment. The humble hyssop plant used throughout Israel's history to apply cleansing blood pointed to this: comprehensive, permanent, perfect cleansing through the Lamb slain. No more ceremonies, no more repeated washings, no more temporary purification—the blood cleanses once for all, forever. The innumerable multitude standing before the throne, robes white, voices raised in worship, testifies to cleansing's completion. What hyssop symbolized, Christ accomplished. What ceremonies prefigured, the Lamb fulfilled. What prophets promised, Revelation reveals: robes washed white in the Lamb's blood, saints serving in God's temple, hunger and thirst and tears abolished forever. The trajectory from Exodus to Revelation, from hyssop to the Lamb, from ceremony to consummation, reaches glorious fulfillment. Cleansing is complete. The redeemed are home.
+
+**Trajectory Table**: [[Trajectory Tables/075 - Hyssop (Instrument of Blood Application)]]

@@ -1,0 +1,22 @@
+### [[Readable Bible/45 - Romans/Romans 2#Romans 2 . 28|Romans 2:28-29]]
+
+**Greek Key Terms**:
+- [[Lexicon/G2401-2500#G2453|Ἰουδαῖος]] (*Ioudaios*) - "Jew, Jewish"
+- [[Lexicon/G5301-5400#G5318|φανερῷ]] (*phanerō*) - "outwardly, manifest, visible"
+- [[Lexicon/G4001-4100#G4061|περιτομή]] (*peritomē*) - "circumcision"
+- [[Lexicon/G4501-4600#G4561|σαρκί]] (*sarki*) - "in flesh" (dative)
+- [[Lexicon/G2901-3000#G2927|κρυπτῷ]] (*kryptō*) - "hidden, secret, inward"
+- [[Lexicon/G2501-2600#G2588|καρδίας]] (*kardias*) - "of heart" (genitive)
+- [[Lexicon/G4101-4200#G4151|πνεύματι]] (*pneumati*) - "in/by Spirit" (dative)
+- [[Lexicon/G1101-1200#G1121|γράμματι]] (*grammati*) - "letter" (dative)
+- [[Lexicon/G1801-1900#G1868|ἔπαινος]] (*epainos*) - "praise, commendation"
+
+**Context**: Paul redefines Jewish identity: "For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter. His praise is not from man but from God." This revolutionary statement shifts covenant membership from ethnic descent and physical ritual to internal spiritual transformation. True circumcision occurs in the heart through the Spirit's work, fulfilling the prophetic promise of Deuteronomy 30:6.
+
+**Connections**:
+- **TO**: [[Readable Bible/05 - Deuteronomy/Deuteronomy 30#Deuteronomy 30 . 6|Deuteronomy 30:6]] (the LORD will circumcise your heart), [[Readable Bible/05 - Deuteronomy/Deuteronomy 10#Deuteronomy 10 . 16|Deuteronomy 10:16]] (circumcise the foreskin of your heart), [[Readable Bible/24 - Jeremiah/Jeremiah 9#Jeremiah 9 . 25|Jeremiah 9:25-26]] (all nations are uncircumcised, and Israel is uncircumcised in heart)
+- **FROM NT**: [[Readable Bible/48 - Galatians/Galatians 3#Galatians 3 . 7|Galatians 3:7]] (those of faith are sons of Abraham), [[Readable Bible/50 - Philippians/Philippians 3#Philippians 3 . 3|Philippians 3:3]] (we are the circumcision), [[Readable Bible/51 - Colossians/Colossians 2#Colossians 2 . 11|Colossians 2:11]] (circumcision made without hands)
+
+**Christological Connection**: [[Readable Bible/45 - Romans/Romans 2#Romans 2 . 28|Romans 2:28-29]] declares "circumcision is a matter of the heart, by the Spirit, not by the letter," fulfilling [[Readable Bible/05 - Deuteronomy/Deuteronomy 30#Deuteronomy 30 . 6|Deuteronomy 30:6]]'s promise that "the LORD your God will circumcise your heart." What Moses commanded as human obligation ([[Readable Bible/05 - Deuteronomy/Deuteronomy 10#Deuteronomy 10 . 16|Deuteronomy 10:16]], "circumcise the foreskin of your heart"), God accomplishes as divine gift through the Spirit. Genesis 17 established physical circumcision as covenant sign for Abraham's physical descendants. [[Readable Bible/24 - Jeremiah/Jeremiah 9#Jeremiah 9 . 25|Jeremiah 9:25-26]] condemned Israel as "uncircumcised in heart"—possessing the sign without the reality. Christ's death inaugurated the new covenant, pouring out the Spirit ([[Readable Bible/29 - Joel/Joel 2#Joel 2 . 28|Joel 2:28-29]]; Acts 2) to accomplish heart transformation. [[Readable Bible/26 - Ezekiel/Ezekiel 36#Ezekiel 36 . 26|Ezekiel 36:26-27]] prophesied: "I will give you a new heart and put a new spirit within you... I will put my Spirit within you." [[Readable Bible/45 - Romans/Romans 2#Romans 2 . 29|Romans 2:29]] announces this fulfillment—the Spirit circumcises hearts, enabling covenant love and obedience. The trajectory shows progression: physical circumcision (Abraham's descendants) → prophetic promise (God will circumcise hearts) → Christ's accomplishment (new covenant through His blood) → Spirit's application (circumcising hearts of all believers). [[Readable Bible/48 - Galatians/Galatians 3#Galatians 3 . 7|Galatians 3:7]] declares "those of faith are the sons of Abraham"—covenant membership redefined not by physical descent but by faith in Christ and Spirit-worked transformation. [[Readable Bible/50 - Philippians/Philippians 3#Philippians 3 . 3|Philippians 3:3]] identifies believers as "the circumcision, who worship by the Spirit of God and glory in Christ Jesus and put no confidence in the flesh." What began as ethnic marker becomes spiritual reality; what was commanded finds fulfillment; what law demanded, the Spirit accomplishes through union with Christ, creating one new people from Jew and Gentile united by faith.
+
+**Trajectory Table**: [[Trajectory Tables/030 - Circumcision (Circumcision of the Heart)]]

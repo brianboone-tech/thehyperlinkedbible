@@ -1,0 +1,21 @@
+### [[Readable Bible/47 - 2 Corinthians/2 Corinthians 6#2 Corinthians 6 . 17|2 Corinthians 6:17-18]]
+
+**Greek Key Terms**:
+- [[Lexicon/G1801-1900#G1831|ἐξέλθατε]] (*exelthate*) - "come out" (aorist imperative)
+- [[Lexicon/G3401-3500#G3319|μέσου]] (*mesou*) - "midst" (genitive)
+- [[Lexicon/G0801-0900#G0873|ἀφορίσθητε]] (*aphoristhēte*) - "be separate" (aorist passive imperative)
+- [[Lexicon/G0001-0100#G0169|ἀκαθάρτου]] (*akathartou*) - "unclean" (genitive)
+- [[Lexicon/G0601-0700#G0680|ἅπτεσθε]] (*haptesthe*) - "touch" (present middle imperative)
+- [[Lexicon/G1501-1600#G1523|εἰσδέξομαι]] (*eisdexomai*) - "I will welcome, receive" (future middle)
+- [[Lexicon/G3901-4000#G3962|πατήρ]] (*patēr*) - "father"
+- [[Lexicon/G5201-5300#G5207|υἱοὺς καὶ θυγατέρας]] (*hyious kai thygateras*) - "sons and daughters"
+
+**Context**: Paul commands separation from defilement: "Come out from their midst and be separate, says the Lord. And touch no unclean thing; then I will welcome you, and I will be a father to you, and you shall be sons and daughters to me." This applies Israel's ceremonial separation laws (avoiding unclean things) to spiritual and moral separation from worldly corruption. What Leviticus enforced through external regulations (unclean foods, corpses, diseased persons), new covenant requires through spiritual separation from sin's corrupting influence.
+
+**Connections**:
+- **TO**: [[Readable Bible/03 - Leviticus/Leviticus 11#Leviticus 11 . 44|Leviticus 11:44-45]] (be holy for I am holy), [[Readable Bible/23 - Isaiah/Isaiah 52#Isaiah 52 . 11|Isaiah 52:11]] (depart, go out, touch no unclean thing), [[Readable Bible/24 - Jeremiah/Jeremiah 51#Jeremiah 51 . 45|Jeremiah 51:45]] (go out of midst, deliver every one his life)
+- **FROM NT**: [[Readable Bible/59 - James/James 4#James 4 . 4|James 4:4]] (friendship with world is enmity with God), [[Readable Bible/62 - 1 John/1 John 2#1 John 2 . 15|1 John 2:15]] (do not love the world), [[Readable Bible/66 - Revelation/Revelation 18#Revelation 18 . 4|Revelation 18:4]] (come out of her, my people)
+
+**Christological Connection**: [[Readable Bible/47 - 2 Corinthians/2 Corinthians 6#2 Corinthians 6 . 17|2 Corinthians 6:17-18]] applies ceremonial uncleanness principles to Christian holiness, showing separation from spiritual defilement. Leviticus 11-15 prohibited touching unclean animals, corpses, and diseased persons—contact transmitted ceremonial defilement requiring ritual purification. The laws created practical boundaries maintaining Israel's distinctiveness and teaching holiness awareness. Paul commands spiritual application: "come out from their midst and be separate... touch no unclean thing." The "unclean thing" (akatharton) is no longer ceremonial defilement but moral corruption—idolatry, immorality, greed (v. 14-16 context). Christ fulfilled the ceremonial laws, declaring "all foods clean" ([[Readable Bible/41 - Mark/Mark 7#Mark 7 . 19|Mark 7:19]]) and removing external regulations ([[Readable Bible/58 - Hebrews/Hebrews 9#Hebrews 9 . 10|Hebrews 9:10]]). But the principle—holiness requires separation from corruption—continues with transformed application. Where Israel avoided physical contact with unclean things, believers avoid spiritual entanglement with sinful practices. Where ceremonial defilement was passive (accidental touch), spiritual defilement involves active participation ("yoked together with unbelievers," v. 14). The motivation differs too: Israel separated to maintain ceremonial status for worship; believers separate to maintain relational intimacy with Father. The promise "I will be a father to you, and you shall be sons and daughters to me" echoes [[Readable Bible/10 - 2 Samuel/2 Samuel 7#2 Samuel 7 . 14|2 Samuel 7:14]]'s Davidic covenant but expands to all believers. The trajectory shows transformation: external regulations → internal reality; ceremonial boundaries → moral distinctiveness; avoiding unclean animals/corpses → avoiding sinful practices/values; temple access → Father-child intimacy. What Leviticus enforced through physical separation, the gospel requires through spiritual holiness—being in the world but not of it, distinct from surrounding corruption while engaging for gospel witness.
+
+**Trajectory Table**: [[Trajectory Tables/027 - Ceremonial Uncleanness (Spiritual Defilement)]]
