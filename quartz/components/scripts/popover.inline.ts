@@ -28,15 +28,7 @@ async function mouseEnterHandler(
     clearActivePopover()
     popoverElement.classList.add("active-popover")
     setPosition(popoverElement as HTMLElement)
-
-    if (hash !== "") {
-      const targetAnchor = `#popover-internal-${hash.slice(1)}`
-      const heading = popoverInner.querySelector(targetAnchor) as HTMLElement | null
-      if (heading) {
-        // leave ~12px of buffer when scrolling to a heading
-        popoverInner.scroll({ top: heading.offsetTop - 12, behavior: "instant" })
-      }
-    }
+    // No need to scroll - we now show only the linked section
   }
 
   const targetUrl = new URL(link.href)
@@ -99,7 +91,57 @@ async function mouseEnterHandler(
       const elts = [...html.getElementsByClassName("popover-hint")]
       if (elts.length === 0) return
 
-      elts.forEach((elt) => popoverInner.appendChild(elt))
+      // If linking to a specific header, show only that section
+      if (hash !== "") {
+        const targetAnchor = `popover-internal-${hash.slice(1)}`
+        let foundHeader: Element | null = null
+        let headerLevel = 0
+
+        // Find the target header in the content
+        for (const elt of elts) {
+          foundHeader = elt.querySelector(`#${CSS.escape(targetAnchor)}`)
+          if (foundHeader) {
+            // Determine header level (h1=1, h2=2, etc.)
+            const tagName = foundHeader.tagName.toLowerCase()
+            if (tagName.match(/^h[1-6]$/)) {
+              headerLevel = parseInt(tagName.charAt(1))
+            }
+            break
+          }
+        }
+
+        if (foundHeader && headerLevel > 0) {
+          // Create a container for just this section
+          const sectionContainer = document.createElement("div")
+          sectionContainer.classList.add("popover-hint")
+
+          // Clone the header
+          sectionContainer.appendChild(foundHeader.cloneNode(true))
+
+          // Collect content until next header of same or higher level
+          let sibling = foundHeader.nextElementSibling
+          while (sibling) {
+            const siblingTag = sibling.tagName.toLowerCase()
+            // Stop if we hit another header of same or higher level
+            if (siblingTag.match(/^h[1-6]$/)) {
+              const siblingLevel = parseInt(siblingTag.charAt(1))
+              if (siblingLevel <= headerLevel) {
+                break
+              }
+            }
+            sectionContainer.appendChild(sibling.cloneNode(true))
+            sibling = sibling.nextElementSibling
+          }
+
+          popoverInner.appendChild(sectionContainer)
+        } else {
+          // Fallback: show all content if header not found
+          elts.forEach((elt) => popoverInner.appendChild(elt))
+        }
+      } else {
+        // No hash - show full page content
+        elts.forEach((elt) => popoverInner.appendChild(elt))
+      }
   }
 
   if (!!document.getElementById(popoverId)) {
@@ -109,6 +151,13 @@ async function mouseEnterHandler(
   document.body.appendChild(popoverElement)
   if (activeAnchor !== this) {
     return
+  }
+
+  // Attach popover listeners to links inside the popover (enables nested popovers)
+  const popoverLinks = popoverElement.querySelectorAll("a.internal") as NodeListOf<HTMLAnchorElement>
+  for (const popoverLink of popoverLinks) {
+    popoverLink.addEventListener("mouseenter", mouseEnterHandler)
+    popoverLink.addEventListener("mouseleave", clearActivePopover)
   }
 
   showPopover(popoverElement)

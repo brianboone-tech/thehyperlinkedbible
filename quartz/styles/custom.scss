@@ -39,23 +39,25 @@ h6 {
 }
 
 // ============================================
+// LINK STYLING - Remove background highlight
+// ============================================
+
+// Remove the default background highlight from internal links
+a.internal {
+  background-color: transparent !important;
+  padding: 0;
+
+  &:hover {
+    background-color: transparent !important;
+  }
+}
+
+// ============================================
 // LEXICON PAGE STYLING
 // ============================================
 
 // Style for pages with cssClasses: lexicon
 .lexicon {
-  // Internal links get a subtle teal background
-  a.internal {
-    background-color: rgba(26, 125, 164, 0.15);
-    padding: 0.05rem 0.2rem;
-    border-radius: 3px;
-    transition: background-color 0.2s ease;
-
-    &:hover {
-      background-color: rgba(26, 125, 164, 0.25);
-    }
-  }
-
   // Verse headings (h5)
   h5 {
     color: var(--secondary);
@@ -63,16 +65,6 @@ h6 {
     margin-top: 1.5rem;
     margin-bottom: 0.5rem;
     font-size: 1.1em;
-  }
-}
-
-:root[saved-theme="dark"] .lexicon {
-  a.internal {
-    background-color: rgba(17, 183, 197, 0.15);
-
-    &:hover {
-      background-color: rgba(17, 183, 197, 0.25);
-    }
   }
 }
 
@@ -91,4 +83,148 @@ blockquote {
   background-color: var(--highlight);
   padding: 0.5rem 1rem;
   border-radius: 0 5px 5px 0;
+}
+
+// ============================================
+// EXPLORER RAINBOW FOLDERS
+// ============================================
+
+// Rainbow color palette (Catppuccin-inspired)
+$folder-colors: (
+  #7c9a92,  // 1. Teal-gray
+  #6e9a8d,  // 2. Sage teal
+  #d08770,  // 3. Coral/Peach
+  #e0a370,  // 4. Orange/Peach
+  #d4a946,  // 5. Gold
+  #8a9a9a,  // 6. Blue-gray
+  #7ba08a,  // 7. Green-teal
+  #9a7aa0,  // 8. Mauve
+  #a8a0c0,  // 9. Lavender
+  #9a8090,  // 10. Dusty rose
+  #8878a0,  // 11. Purple
+  #6a9a9a,  // 12. Teal
+  #a08090,  // 13. Mauve-rose
+  #7090a0,  // 14. Steel blue
+  #90a070,  // 15. Olive
+);
+
+// Style top-level folders in Explorer (with inherited colors for children)
+.explorer {
+  // Target top-level folders and their children
+  & > #explorer-content > ul > li {
+    @for $i from 1 through length($folder-colors) {
+      &:nth-child(#{$i}) {
+        // Top-level folder button
+        & > .folder-container > .folder-button {
+          background-color: nth($folder-colors, $i);
+          color: white;
+          border-radius: 6px;
+          padding: 0.4rem 0.6rem;
+          margin: 2px 0;
+          font-weight: 500;
+
+          & > svg {
+            color: white;
+            opacity: 0.9;
+          }
+
+          & > span {
+            color: white;
+          }
+
+          &:hover {
+            filter: brightness(1.1);
+          }
+        }
+
+        // Nested subfolders - inherit parent color with lighter shade
+        .folder-container > .folder-button {
+          background-color: color-mix(in srgb, nth($folder-colors, $i) 70%, white 30%);
+          color: var(--darkgray);
+          border-radius: 5px;
+          padding: 0.3rem 0.5rem;
+          margin: 2px 0;
+
+          & > svg {
+            color: var(--darkgray);
+            opacity: 0.8;
+          }
+
+          & > span {
+            color: var(--darkgray);
+          }
+
+          &:hover {
+            filter: brightness(0.95);
+          }
+        }
+
+        // Re-apply top-level style (override nested rule for first level)
+        & > .folder-container > .folder-button {
+          background-color: nth($folder-colors, $i);
+          color: white;
+
+          & > svg, & > span {
+            color: white;
+          }
+        }
+
+        // File links inside folders - subtle tinted background
+        .folder-outer > ul > li > a {
+          background-color: color-mix(in srgb, nth($folder-colors, $i) 15%, transparent 85%);
+          border-radius: 4px;
+          padding: 0.2rem 0.4rem;
+          margin: 1px 0;
+          display: block;
+
+          &:hover {
+            background-color: color-mix(in srgb, nth($folder-colors, $i) 25%, transparent 75%);
+          }
+        }
+      }
+    }
+  }
+}
+
+// Dark mode adjustments
+:root[saved-theme="dark"] .explorer {
+  & > #explorer-content > ul > li {
+    @for $i from 1 through length($folder-colors) {
+      &:nth-child(#{$i}) {
+        // Top-level folder - brighter in dark mode
+        & > .folder-container > .folder-button {
+          background-color: color-mix(in srgb, nth($folder-colors, $i) 85%, white 15%);
+        }
+
+        // Nested subfolders in dark mode
+        .folder-container > .folder-button {
+          background-color: color-mix(in srgb, nth($folder-colors, $i) 40%, var(--light) 60%);
+          color: var(--darkgray);
+
+          & > svg, & > span {
+            color: var(--darkgray);
+          }
+        }
+
+        // Re-apply top-level for dark mode
+        & > .folder-container > .folder-button {
+          background-color: color-mix(in srgb, nth($folder-colors, $i) 85%, white 15%);
+          color: white;
+
+          & > svg, & > span {
+            color: white;
+          }
+        }
+
+        // File links in dark mode
+        .folder-outer > ul > li > a {
+          background-color: color-mix(in srgb, nth($folder-colors, $i) 20%, transparent 80%);
+
+          &:hover {
+            background-color: color-mix(in srgb, nth($folder-colors, $i) 30%, transparent 70%);
+          }
+        }
+      }
+    }
+  }
 }

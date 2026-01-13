@@ -21,8 +21,8 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
-    Component.ContentMeta(),
+    // Component.ArticleTitle(),  // Disabled - pages have their own # Title
+    // Component.ContentMeta(),   // Disabled - removes date/time display
     Component.TagList(),
   ],
   left: [
