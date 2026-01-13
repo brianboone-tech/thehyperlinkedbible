@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Job 7 - 1
-[[Lexicon/H3801-3900#H3808|[“] Is not]] [[Lexicon/H501-600#H582|man]] [[Lexicon/H6601-6700#H6635|consigned to labor]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H776|earth ?]] [[Lexicon/H3101-3200#H3117|Are not his days]] [[Lexicon/H3101-3200#H3117|like those]] [[Lexicon/H7901-8000#H7916|of a hired hand ?]]
+[[Lexicon/H3801-3900#H3808|(“) Is not]] [[Lexicon/H501-600#H582|man]] [[Lexicon/H6601-6700#H6635|consigned to labor]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H776|earth ?]] [[Lexicon/H3101-3200#H3117|Are not his days]] [[Lexicon/H3101-3200#H3117|like those]] [[Lexicon/H7901-8000#H7916|of a hired hand ?]]
 
 ##### Job 7 - 2
 [[Lexicon/H5601-5700#H5650|Like a slave]] [[Lexicon/H7601-7700#H7602|he longs for]] [[Lexicon/H6701-6800#H6738|shade ;]] [[Lexicon/H7901-8000#H7916|like a hireling]] [[Lexicon/H6901-7000#H6960|he waits for]] [[Lexicon/H6401-6500#H6467|his wages.]]
@@ -55,13 +55,13 @@ cssClasses: lexicon
 [[Lexicon/H5301-5400#H5315|so that I]] [[Lexicon/H901-1000#H977|would prefer]] [[Lexicon/H4201-4300#H4267|strangling]] [[Lexicon/H4101-4200#H4194|and death]] [[Lexicon/H6101-6200#H6106|over my life in this body.]]
 
 ##### Job 7 - 16
-[[Lexicon/H3901-4000#H3988|I loathe [my life] !]] [[Lexicon/H3801-3900#H3808|I would not]] [[Lexicon/H2401-2500#H2421|live]] [[Lexicon/H5701-5800#H5769|forever.]] [[Lexicon/H2301-2400#H2308|Leave me alone]] [[Lexicon/H4401-4500#H4480|... ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3101-3200#H3117|my days [are]]] [[Lexicon/H1801-1900#H1892|[but] a breath.]]
+[[Lexicon/H3901-4000#H3988|I loathe (my life) !]] [[Lexicon/H3801-3900#H3808|I would not]] [[Lexicon/H2401-2500#H2421|live]] [[Lexicon/H5701-5800#H5769|forever.]] [[Lexicon/H2301-2400#H2308|Leave me alone]] [[Lexicon/H4401-4500#H4480|... ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3101-3200#H3117|my days (are)]] [[Lexicon/H1801-1900#H1892|(but) a breath.]]
 
 ##### Job 7 - 17
 [[Lexicon/H4001-4100#H4100|What]] [[Lexicon/H501-600#H582|is man]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H1401-1500#H1431|You should exalt him ,]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H7801-7900#H7896|You should set]] [[Lexicon/H3801-3900#H3820|Your heart]] [[Lexicon/H401-500#H413|upon him ,]]
 
 ##### Job 7 - 18
-[[Lexicon/H6401-6500#H6485|that You attend to him]] [[Lexicon/H1201-1300#H1242|every morning ,]] [[Lexicon/H901-1000#H974|[and] test him]] [[Lexicon/H7201-7300#H7281|every moment ?]]
+[[Lexicon/H6401-6500#H6485|that You attend to him]] [[Lexicon/H1201-1300#H1242|every morning ,]] [[Lexicon/H901-1000#H974|(and) test him]] [[Lexicon/H7201-7300#H7281|every moment ?]]
 
 ##### Job 7 - 19
 [[Lexicon/H4001-4100#H4100|Will You never]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H8101-8200#H8159|look away]] [[Lexicon/H4401-4500#H4480|from me ,]] [[Lexicon/H3801-3900#H3808|or]] [[Lexicon/H7501-7600#H7503|leave me alone]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H1101-1200#H1104|swallow]] [[Lexicon/H7501-7600#H7536|my spittle ?]]

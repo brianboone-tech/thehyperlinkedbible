@@ -25,7 +25,7 @@ cssClasses: lexicon
 [[Lexicon/H3001-3100#H3045|I would learn]] [[Lexicon/H4401-4500#H4405|how]] [[Lexicon/H6001-6100#H6030|He would answer ,]] [[Lexicon/H901-1000#H995|and consider]] [[Lexicon/H4001-4100#H4100|what]] [[Lexicon/H501-600#H559|He would say.]]
 
 ##### Job 23 - 6
-[[Lexicon/H7301-7400#H7378|Would He contend]] [[Lexicon/H5901-6000#H5978|with me]] [[Lexicon/H7201-7300#H7230|in His great]] [[Lexicon/H3501-3600#H3581|power ?]] [[Lexicon/H3801-3900#H3808|No ,]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H301-400#H389|would certainly]] [[Lexicon/H7701-7800#H7760|take [note]]]
+[[Lexicon/H7301-7400#H7378|Would He contend]] [[Lexicon/H5901-6000#H5978|with me]] [[Lexicon/H7201-7300#H7230|in His great]] [[Lexicon/H3501-3600#H3581|power ?]] [[Lexicon/H3801-3900#H3808|No ,]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H301-400#H389|would certainly]] [[Lexicon/H7701-7800#H7760|take (note)]]
 
 ##### Job 23 - 7
 [[Lexicon/H8001-8100#H8033|Then]] [[Lexicon/H3401-3500#H3477|an upright man]] [[Lexicon/H3101-3200#H3198|could reason]] [[Lexicon/H5901-6000#H5973|with Him ,]] [[Lexicon/H6401-6500#H6403|and I would be delivered]] [[Lexicon/H5301-5400#H5331|forever]] [[Lexicon/H8101-8200#H8199|from my Judge.]]
@@ -34,7 +34,7 @@ cssClasses: lexicon
 [[Lexicon/H2001-2100#H2005|If]] [[Lexicon/H1901-2000#H1980|I go]] [[Lexicon/H6901-7000#H6924|east ,]] [[Lexicon/H301-400#H369|He is not there ,]] [[Lexicon/H201-300#H268|and if I go west ,]] [[Lexicon/H3801-3900#H3808|I cannot]] [[Lexicon/H901-1000#H995|find]]
 
 ##### Job 23 - 9
-[[Lexicon/H6201-6300#H6213|When He is at work]] [[Lexicon/H8001-8100#H8040|in the north ,]] [[Lexicon/H3801-3900#H3808|I cannot]] [[Lexicon/H2301-2400#H2372|behold [Him] ;]] [[Lexicon/H5801-5900#H5848|when He turns]] [[Lexicon/H3201-3300#H3225|to the south ,]] [[Lexicon/H3801-3900#H3808|I cannot]] [[Lexicon/H7101-7200#H7200|see [Him].]]
+[[Lexicon/H6201-6300#H6213|When He is at work]] [[Lexicon/H8001-8100#H8040|in the north ,]] [[Lexicon/H3801-3900#H3808|I cannot]] [[Lexicon/H2301-2400#H2372|behold (Him) ;]] [[Lexicon/H5801-5900#H5848|when He turns]] [[Lexicon/H3201-3300#H3225|to the south ,]] [[Lexicon/H3801-3900#H3808|I cannot]] [[Lexicon/H7101-7200#H7200|see (Him).]]
 
 ##### Job 23 - 10
 [[Lexicon/H3501-3600#H3588|Yet]] [[Lexicon/H3001-3100#H3045|He knows]] [[Lexicon/H1801-1900#H1870|the way I have taken]] [[Lexicon/H5901-6000#H5978|... ;]] [[Lexicon/H901-1000#H974|when He has tested me ,]] [[Lexicon/H3301-3400#H3318|I will come forth]] [[Lexicon/H2001-2100#H2091|as gold.]]
@@ -58,4 +58,4 @@ cssClasses: lexicon
 [[Lexicon/H401-500#H410|God]] [[Lexicon/H3801-3900#H3820|has made my heart]] [[Lexicon/H7401-7500#H7401|faint ;]] [[Lexicon/H7701-7800#H7706|the Almighty]] [[Lexicon/H901-1000#H926|has terrified me.]]
 
 ##### Job 23 - 17
-[[Lexicon/H3501-3600#H3588|Yet]] [[Lexicon/H3801-3900#H3808|I am not]] [[Lexicon/H6701-6800#H6789|silenced]] [[Lexicon/H6401-6500#H6440|by]] [[Lexicon/H2801-2900#H2822|the darkness ,]] [[Lexicon/H601-700#H652|by the thick darkness]] [[Lexicon/H3601-3700#H3680|that covers]] [[Lexicon/H6401-6500#H6440|my face. [’’]]]
+[[Lexicon/H3501-3600#H3588|Yet]] [[Lexicon/H3801-3900#H3808|I am not]] [[Lexicon/H6701-6800#H6789|silenced]] [[Lexicon/H6401-6500#H6440|by]] [[Lexicon/H2801-2900#H2822|the darkness ,]] [[Lexicon/H601-700#H652|by the thick darkness]] [[Lexicon/H3601-3700#H3680|that covers]] [[Lexicon/H6401-6500#H6440|my face. (’’)]]

@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Job 10 - 1
-[[Lexicon/H5301-5400#H5354|[“] I loathe]] [[Lexicon/H5301-5400#H5315|my own]] [[Lexicon/H2401-2500#H2416|life ;]] [[Lexicon/H5701-5800#H5800|I will express]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7801-7900#H7879|my complaint]] [[Lexicon/H1601-1700#H1696|and speak]] [[Lexicon/H4701-4800#H4751|in the bitterness]] [[Lexicon/H5301-5400#H5315|of my soul.]]
+[[Lexicon/H5301-5400#H5354|(“) I loathe]] [[Lexicon/H5301-5400#H5315|my own]] [[Lexicon/H2401-2500#H2416|life ;]] [[Lexicon/H5701-5800#H5800|I will express]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7801-7900#H7879|my complaint]] [[Lexicon/H1601-1700#H1696|and speak]] [[Lexicon/H4701-4800#H4751|in the bitterness]] [[Lexicon/H5301-5400#H5315|of my soul.]]
 
 ##### Job 10 - 2
 [[Lexicon/H501-600#H559|I will say]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H401-500#H433|God :]] [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H7501-7600#H7561|condemn me !]] [[Lexicon/H3001-3100#H3045|Let me know]] [[Lexicon/H5901-6000#H5921|why]] [[Lexicon/H4001-4100#H4100|...]] [[Lexicon/H7301-7400#H7378|You prosecute me.]]
@@ -22,7 +22,7 @@ cssClasses: lexicon
 [[Lexicon/H5801-5900#H5869|Do You have eyes]] [[Lexicon/H1301-1400#H1320|of flesh]] [[Lexicon/H501-600#H518|-]] [[Lexicon/H7101-7200#H7200|Do You see]] [[Lexicon/H501-600#H582|as man]] [[Lexicon/H7101-7200#H7200|sees ?]]
 
 ##### Job 10 - 5
-[[Lexicon/H3101-3200#H3117|Are Your days]] [[Lexicon/H3101-3200#H3117|like those]] [[Lexicon/H501-600#H582|of a [mortal] ,]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H8101-8200#H8141|Your years]] [[Lexicon/H3101-3200#H3117|like those]] [[Lexicon/H1301-1400#H1397|of a man ,]]
+[[Lexicon/H3101-3200#H3117|Are Your days]] [[Lexicon/H3101-3200#H3117|like those]] [[Lexicon/H501-600#H582|of a (mortal) ,]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H8101-8200#H8141|Your years]] [[Lexicon/H3101-3200#H3117|like those]] [[Lexicon/H1301-1400#H1397|of a man ,]]
 
 ##### Job 10 - 6
 [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H1201-1300#H1245|You should seek]] [[Lexicon/H5701-5800#H5771|my iniquity]] [[Lexicon/H1801-1900#H1875|and search out]] [[Lexicon/H2401-2500#H2403|my sin —]]
@@ -46,13 +46,13 @@ cssClasses: lexicon
 [[Lexicon/H6201-6300#H6213|You have granted]] [[Lexicon/H5901-6000#H5978|me]] [[Lexicon/H2401-2500#H2416|life]] [[Lexicon/H2601-2700#H2617|and loving devotion ,]] [[Lexicon/H6401-6500#H6486|and Your care]] [[Lexicon/H8101-8200#H8104|has preserved]] [[Lexicon/H7301-7400#H7307|my spirit.]]
 
 ##### Job 10 - 13
-[[Lexicon/H6801-6900#H6845|Yet You concealed]] [[Lexicon/H401-500#H428|these [things]]] [[Lexicon/H3801-3900#H3824|in Your heart ,]] [[Lexicon/H3001-3100#H3045|and I know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2001-2100#H2063|this [was]]] [[Lexicon/H5901-6000#H5973|in Your [mind] :]]
+[[Lexicon/H6801-6900#H6845|Yet You concealed]] [[Lexicon/H401-500#H428|these (things)]] [[Lexicon/H3801-3900#H3824|in Your heart ,]] [[Lexicon/H3001-3100#H3045|and I know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2001-2100#H2063|this (was)]] [[Lexicon/H5901-6000#H5973|in Your (mind) :]]
 
 ##### Job 10 - 14
 [[Lexicon/H501-600#H518|If]] [[Lexicon/H2301-2400#H2398|I sinned ,]] [[Lexicon/H8101-8200#H8104|You would take note ,]] [[Lexicon/H3801-3900#H3808|and would not]] [[Lexicon/H5301-5400#H5352|acquit me]] [[Lexicon/H5701-5800#H5771|of my iniquity.]]
 
 ##### Job 10 - 15
-[[Lexicon/H501-600#H518|If]] [[Lexicon/H7501-7600#H7561|I am guilty ,]] [[Lexicon/H401-500#H480|woe]] [[Lexicon/H6601-6700#H6663|And even if I am righteous ,]] [[Lexicon/H3801-3900#H3808|I cannot]] [[Lexicon/H5301-5400#H5375|lift]] [[Lexicon/H7201-7300#H7218|my head.]] [[Lexicon/H7601-7700#H7649|[I am] full]] [[Lexicon/H7001-7100#H7036|of shame]] [[Lexicon/H7201-7300#H7202|and aware of]] [[Lexicon/H6001-6100#H6040|my affliction.]]
+[[Lexicon/H501-600#H518|If]] [[Lexicon/H7501-7600#H7561|I am guilty ,]] [[Lexicon/H401-500#H480|woe]] [[Lexicon/H6601-6700#H6663|And even if I am righteous ,]] [[Lexicon/H3801-3900#H3808|I cannot]] [[Lexicon/H5301-5400#H5375|lift]] [[Lexicon/H7201-7300#H7218|my head.]] [[Lexicon/H7601-7700#H7649|(I am) full]] [[Lexicon/H7001-7100#H7036|of shame]] [[Lexicon/H7201-7300#H7202|and aware of]] [[Lexicon/H6001-6100#H6040|my affliction.]]
 
 ##### Job 10 - 16
 [[Lexicon/H1301-1400#H1342|Should I hold my head high ,]] [[Lexicon/H6601-6700#H6679|You would hunt me]] [[Lexicon/H7801-7900#H7826|like a lion ,]] [[Lexicon/H7701-7800#H7725|and again]] [[Lexicon/H6301-6400#H6381|display Your power]]

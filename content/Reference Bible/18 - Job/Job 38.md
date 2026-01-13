@@ -19,7 +19,7 @@ cssClasses: lexicon
 [[Lexicon/H4901-5000#H4994|Now]] [[Lexicon/H201-300#H247|brace]] [[Lexicon/H2501-2600#H2504|yourself]] [[Lexicon/H1301-1400#H1397|like a man ;]] [[Lexicon/H7501-7600#H7592|I will question you ,]] [[Lexicon/H3001-3100#H3045|and you shall inform Me.]]
 
 ##### Job 38 - 4
-[[Lexicon/H301-400#H375|Where]] [[Lexicon/H1901-2000#H1961|were you]] [[Lexicon/H3201-3300#H3245|when I laid the foundations]] [[Lexicon/H701-800#H776|of the earth ?]] [[Lexicon/H5001-5100#H5046|Tell [Me] ,]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H3001-3100#H3045|you have understanding]] [[Lexicon/H901-1000#H998|....]]
+[[Lexicon/H301-400#H375|Where]] [[Lexicon/H1901-2000#H1961|were you]] [[Lexicon/H3201-3300#H3245|when I laid the foundations]] [[Lexicon/H701-800#H776|of the earth ?]] [[Lexicon/H5001-5100#H5046|Tell (Me) ,]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H3001-3100#H3045|you have understanding]] [[Lexicon/H901-1000#H998|....]]
 
 ##### Job 38 - 5
 [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H7701-7800#H7760|fixed]] [[Lexicon/H4401-4500#H4461|its measurements ?]] [[Lexicon/H3501-3600#H3588|Surely]] [[Lexicon/H3001-3100#H3045|you know !]] [[Lexicon/H101-200#H176|Or]] [[Lexicon/H4301-4400#H4310|who]] [[Lexicon/H5101-5200#H5186|stretched]] [[Lexicon/H6901-7000#H6957|a measuring line]] [[Lexicon/H5901-6000#H5921|across it ?]]
@@ -49,7 +49,7 @@ cssClasses: lexicon
 [[Lexicon/H201-300#H270|that it might spread]] [[Lexicon/H3601-3700#H3671|to the ends]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H5201-5300#H5287|and shake]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H4401-4500#H4480|out of it ?]]
 
 ##### Job 38 - 14
-[[Lexicon/H2001-2100#H2015|The earth takes shape]] [[Lexicon/H2501-2600#H2563|like clay]] [[Lexicon/H2301-2400#H2368|[under] a seal ;]] [[Lexicon/H3301-3400#H3320|its hills stand out]] [[Lexicon/H3601-3700#H3644|like]] [[Lexicon/H3801-3900#H3830|the folds of a garment.]]
+[[Lexicon/H2001-2100#H2015|The earth takes shape]] [[Lexicon/H2501-2600#H2563|like clay]] [[Lexicon/H2301-2400#H2368|(under) a seal ;]] [[Lexicon/H3301-3400#H3320|its hills stand out]] [[Lexicon/H3601-3700#H3644|like]] [[Lexicon/H3801-3900#H3830|the folds of a garment.]]
 
 ##### Job 38 - 15
 [[Lexicon/H201-300#H216|Light]] [[Lexicon/H4501-4600#H4513|is withheld]] [[Lexicon/H7501-7600#H7563|from the wicked ,]] [[Lexicon/H7301-7400#H7311|and their upraised]] [[Lexicon/H2201-2300#H2220|arm]] [[Lexicon/H7601-7700#H7665|is broken.]]
@@ -61,7 +61,7 @@ cssClasses: lexicon
 [[Lexicon/H8101-8200#H8179|Have the gates]] [[Lexicon/H4101-4200#H4194|of death]] [[Lexicon/H1501-1600#H1540|been revealed]] [[Lexicon/H7101-7200#H7200|Have you seen]] [[Lexicon/H8101-8200#H8179|the gates]] [[Lexicon/H6701-6800#H6757|of the shadow of death ?]]
 
 ##### Job 38 - 18
-[[Lexicon/H901-1000#H995|Have you surveyed]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H7301-7400#H7338|the extent]] [[Lexicon/H701-800#H776|of the earth ?]] [[Lexicon/H5001-5100#H5046|Tell [Me] ,]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H3001-3100#H3045|you know]] [[Lexicon/H3601-3700#H3605|all this.]]
+[[Lexicon/H901-1000#H995|Have you surveyed]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H7301-7400#H7338|the extent]] [[Lexicon/H701-800#H776|of the earth ?]] [[Lexicon/H5001-5100#H5046|Tell (Me) ,]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H3001-3100#H3045|you know]] [[Lexicon/H3601-3700#H3605|all this.]]
 
 ##### Job 38 - 19
 [[Lexicon/H301-400#H335|Where]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H1801-1900#H1870|is the way]] [[Lexicon/H7901-8000#H7931|to the home]] [[Lexicon/H201-300#H216|of light ?]] [[Lexicon/H301-400#H335|Do you know where]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H2801-2900#H2822|darkness]] [[Lexicon/H4701-4800#H4725|resides ,]]
@@ -85,7 +85,7 @@ cssClasses: lexicon
 [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H6301-6400#H6385|cuts]] [[Lexicon/H8501-8600#H8585|a channel]] [[Lexicon/H7801-7900#H7858|for the flood]] [[Lexicon/H1801-1900#H1870|or clears a path]] [[Lexicon/H2301-2400#H2385|for]] [[Lexicon/H6901-7000#H6963|the thunderbolt ,]]
 
 ##### Job 38 - 26
-[[Lexicon/H4301-4400#H4305|to bring rain]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H3801-3900#H3808|a barren]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H701-800#H776|land ,]] [[Lexicon/H4001-4100#H4057|on a desert]] [[Lexicon/H3801-3900#H3808|where no]] [[Lexicon/H101-200#H120|man [lives]]]
+[[Lexicon/H4301-4400#H4305|to bring rain]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H3801-3900#H3808|a barren]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H701-800#H776|land ,]] [[Lexicon/H4001-4100#H4057|on a desert]] [[Lexicon/H3801-3900#H3808|where no]] [[Lexicon/H101-200#H120|man (lives)]]
 
 ##### Job 38 - 27
 [[Lexicon/H7601-7700#H7646|to satisfy]] [[Lexicon/H7701-7800#H7722|the parched]] [[Lexicon/H4801-4900#H4875|wasteland]] [[Lexicon/H6701-6800#H6779|and make it sprout]] [[Lexicon/H4101-4200#H4161|...]] [[Lexicon/H1801-1900#H1877|with tender grass ?]]
@@ -130,4 +130,4 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H7801-7900#H7817|they crouch]] [[Lexicon/H4501-4600#H4585|in their dens]] [[Lexicon/H3401-3500#H3427|and lie]] [[Lexicon/H3901-4000#H3926|in]] [[Lexicon/H601-700#H695|wait]] [[Lexicon/H5501-5600#H5521|in the thicket ?]]
 
 ##### Job 38 - 41
-[[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H3501-3600#H3559|provides]] [[Lexicon/H6701-6800#H6718|food]] [[Lexicon/H6101-6200#H6158|for the raven]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H3201-3300#H3206|its young]] [[Lexicon/H7701-7800#H7768|cry out]] [[Lexicon/H401-500#H410|to]] [[Lexicon/H401-500#H413|God]] [[Lexicon/H8501-8600#H8582|as they wander about]] [[Lexicon/H1001-1100#H1097|for lack of]] [[Lexicon/H301-400#H400|food ? [’’]]]
+[[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H3501-3600#H3559|provides]] [[Lexicon/H6701-6800#H6718|food]] [[Lexicon/H6101-6200#H6158|for the raven]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H3201-3300#H3206|its young]] [[Lexicon/H7701-7800#H7768|cry out]] [[Lexicon/H401-500#H410|to]] [[Lexicon/H401-500#H413|God]] [[Lexicon/H8501-8600#H8582|as they wander about]] [[Lexicon/H1001-1100#H1097|for lack of]] [[Lexicon/H301-400#H400|food ? (’’)]]

@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 119 - 1
-[[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H1801-1900#H1870|[are] those whose way]] [[Lexicon/H8501-8600#H8549|is blameless ,]] [[Lexicon/H1901-2000#H1980|who walk]] [[Lexicon/H8401-8500#H8451|in the Law]] [[Lexicon/H3001-3100#H3068|of the LORD.]]
+[[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H1801-1900#H1870|(are) those whose way]] [[Lexicon/H8501-8600#H8549|is blameless ,]] [[Lexicon/H1901-2000#H1980|who walk]] [[Lexicon/H8401-8500#H8451|in the Law]] [[Lexicon/H3001-3100#H3068|of the LORD.]]
 
 ##### Psalm 119 - 2
 [[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H5301-5400#H5341|are those who keep]] [[Lexicon/H5701-5800#H5713|His testimonies]] [[Lexicon/H1801-1900#H1875|and seek Him]] [[Lexicon/H3601-3700#H3605|with all]] [[Lexicon/H3801-3900#H3820|their heart.]]
@@ -79,7 +79,7 @@ cssClasses: lexicon
 [[Lexicon/H1501-1600#H1571|Though]] [[Lexicon/H8201-8300#H8269|rulers]] [[Lexicon/H3401-3500#H3427|sit]] [[Lexicon/H1601-1700#H1696|and slander]] [[Lexicon/H5601-5700#H5650|Your servant]] [[Lexicon/H7801-7900#H7878|meditates]] [[Lexicon/H2701-2800#H2706|on Your statutes.]]
 
 ##### Psalm 119 - 24
-[[Lexicon/H5701-5800#H5713|Your testimonies]] [[Lexicon/H1501-1600#H1571|are indeed]] [[Lexicon/H8101-8200#H8191|my delight ;]] [[Lexicon/H6001-6100#H6098|[they are] my]] [[Lexicon/H501-600#H582|counselors.]]
+[[Lexicon/H5701-5800#H5713|Your testimonies]] [[Lexicon/H1501-1600#H1571|are indeed]] [[Lexicon/H8101-8200#H8191|my delight ;]] [[Lexicon/H6001-6100#H6098|(they are) my]] [[Lexicon/H501-600#H582|counselors.]]
 
 ##### Psalm 119 - 25
 [[Lexicon/H5301-5400#H5315|My soul]] [[Lexicon/H1601-1700#H1692|cleaves]] [[Lexicon/H6001-6100#H6083|to the dust ;]] [[Lexicon/H2401-2500#H2421|revive me]] [[Lexicon/H1601-1700#H1697|according to Your word.]]
@@ -106,7 +106,7 @@ cssClasses: lexicon
 [[Lexicon/H7301-7400#H7323|I run]] [[Lexicon/H1801-1900#H1870|in the path]] [[Lexicon/H4601-4700#H4687|of Your commandments ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H7301-7400#H7337|You will enlarge]] [[Lexicon/H3801-3900#H3820|my heart.]]
 
 ##### Psalm 119 - 33
-[[Lexicon/H3301-3400#H3384|Teach me ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H1801-1900#H1870|the way]] [[Lexicon/H2701-2800#H2706|of Your statutes ,]] [[Lexicon/H5301-5400#H5341|and I will keep [them]]] [[Lexicon/H6101-6200#H6118|to the end.]]
+[[Lexicon/H3301-3400#H3384|Teach me ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H1801-1900#H1870|the way]] [[Lexicon/H2701-2800#H2706|of Your statutes ,]] [[Lexicon/H5301-5400#H5341|and I will keep (them)]] [[Lexicon/H6101-6200#H6118|to the end.]]
 
 ##### Psalm 119 - 34
 [[Lexicon/H901-1000#H995|Give me understanding]] [[Lexicon/H5301-5400#H5341|that I may obey]] [[Lexicon/H8401-8500#H8451|Your law ,]] [[Lexicon/H8101-8200#H8104|and follow it]] [[Lexicon/H3601-3700#H3605|with all]] [[Lexicon/H3801-3900#H3820|my heart.]]
@@ -118,7 +118,7 @@ cssClasses: lexicon
 [[Lexicon/H5101-5200#H5186|Turn]] [[Lexicon/H3801-3900#H3820|my heart]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5701-5800#H5715|Your testimonies]] [[Lexicon/H401-500#H408|and not]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1201-1300#H1215|covetous gain.]]
 
 ##### Psalm 119 - 37
-[[Lexicon/H5601-5700#H5674|Turn]] [[Lexicon/H5801-5900#H5869|my eyes]] [[Lexicon/H7101-7200#H7200|[away]]] [[Lexicon/H7701-7800#H7723|from worthless things ;]] [[Lexicon/H2401-2500#H2421|revive me]] [[Lexicon/H1801-1900#H1870|with Your word.]]
+[[Lexicon/H5601-5700#H5674|Turn]] [[Lexicon/H5801-5900#H5869|my eyes]] [[Lexicon/H7101-7200#H7200|(away)]] [[Lexicon/H7701-7800#H7723|from worthless things ;]] [[Lexicon/H2401-2500#H2421|revive me]] [[Lexicon/H1801-1900#H1870|with Your word.]]
 
 ##### Psalm 119 - 38
 [[Lexicon/H6901-7000#H6965|Establish]] [[Lexicon/H501-600#H565|Your word]] [[Lexicon/H5601-5700#H5650|to Your servant ,]] [[Lexicon/H801-900#H834|to produce]] [[Lexicon/H3301-3400#H3374|reverence for You.]]
@@ -223,7 +223,7 @@ cssClasses: lexicon
 [[Lexicon/H2801-2900#H2895|It was good]] [[Lexicon/H3501-3600#H3588|to]] [[Lexicon/H6001-6100#H6031|be afflicted ,]] [[Lexicon/H4601-4700#H4616|that]] [[Lexicon/H3901-4000#H3925|I might learn]] [[Lexicon/H2701-2800#H2706|Your statutes.]]
 
 ##### Psalm 119 - 72
-[[Lexicon/H8401-8500#H8451|The law]] [[Lexicon/H6301-6400#H6310|from Your mouth]] [[Lexicon/H2801-2900#H2896|is more precious]] [[Lexicon/H501-600#H505|than thousands [of pieces]]] [[Lexicon/H2001-2100#H2091|of gold]] [[Lexicon/H3701-3800#H3701|and silver.]]
+[[Lexicon/H8401-8500#H8451|The law]] [[Lexicon/H6301-6400#H6310|from Your mouth]] [[Lexicon/H2801-2900#H2896|is more precious]] [[Lexicon/H501-600#H505|than thousands (of pieces)]] [[Lexicon/H2001-2100#H2091|of gold]] [[Lexicon/H3701-3800#H3701|and silver.]]
 
 ##### Psalm 119 - 73
 [[Lexicon/H3001-3100#H3027|Your hands]] [[Lexicon/H6201-6300#H6213|have made me]] [[Lexicon/H3501-3600#H3559|and fashioned me ;]] [[Lexicon/H901-1000#H995|give me understanding]] [[Lexicon/H3901-4000#H3925|to learn]] [[Lexicon/H4601-4700#H4687|Your commandments.]]
@@ -238,7 +238,7 @@ cssClasses: lexicon
 [[Lexicon/H1901-2000#H1961|May]] [[Lexicon/H2601-2700#H2617|Your loving devotion]] [[Lexicon/H5101-5200#H5162|comfort me ,]] [[Lexicon/H4901-5000#H4994|I pray ,]] [[Lexicon/H501-600#H565|according to Your promise]] [[Lexicon/H5601-5700#H5650|to Your servant.]]
 
 ##### Psalm 119 - 77
-[[Lexicon/H7301-7400#H7356|May Your compassion]] [[Lexicon/H901-1000#H935|come to me ,]] [[Lexicon/H2401-2500#H2421|that I may live ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H8401-8500#H8451|Your law]] [[Lexicon/H8101-8200#H8191|[is] my delight.]]
+[[Lexicon/H7301-7400#H7356|May Your compassion]] [[Lexicon/H901-1000#H935|come to me ,]] [[Lexicon/H2401-2500#H2421|that I may live ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H8401-8500#H8451|Your law]] [[Lexicon/H8101-8200#H8191|(is) my delight.]]
 
 ##### Psalm 119 - 78
 [[Lexicon/H2001-2100#H2086|May the arrogant]] [[Lexicon/H901-1000#H954|be put to shame]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H5701-5800#H5791|subverting me]] [[Lexicon/H8201-8300#H8267|with a lie ;]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H7801-7900#H7878|will meditate]] [[Lexicon/H6401-6500#H6490|on Your precepts.]]
@@ -265,7 +265,7 @@ cssClasses: lexicon
 [[Lexicon/H2001-2100#H2086|The arrogant]] [[Lexicon/H3701-3800#H3738|have dug]] [[Lexicon/H7801-7900#H7882|pits]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3801-3900#H3808|in violation of]] [[Lexicon/H8401-8500#H8451|Your law.]]
 
 ##### Psalm 119 - 86
-[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H4601-4700#H4687|Your commandments]] [[Lexicon/H501-600#H530|[are] faithful ;]] [[Lexicon/H7201-7300#H7291|I am persecuted]] [[Lexicon/H8201-8300#H8267|without cause —]] [[Lexicon/H5801-5900#H5826|help me !]]
+[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H4601-4700#H4687|Your commandments]] [[Lexicon/H501-600#H530|(are) faithful ;]] [[Lexicon/H7201-7300#H7291|I am persecuted]] [[Lexicon/H8201-8300#H8267|without cause —]] [[Lexicon/H5801-5900#H5826|help me !]]
 
 ##### Psalm 119 - 87
 [[Lexicon/H4501-4600#H4592|They almost]] [[Lexicon/H3601-3700#H3615|wiped me]] [[Lexicon/H701-800#H776|from the earth ,]] [[Lexicon/H501-600#H589|but I]] [[Lexicon/H3801-3900#H3808|have not]] [[Lexicon/H5701-5800#H5800|forsaken]] [[Lexicon/H6401-6500#H6490|Your precepts.]]
@@ -274,10 +274,10 @@ cssClasses: lexicon
 [[Lexicon/H2401-2500#H2421|Revive me]] [[Lexicon/H2601-2700#H2617|according to Your loving devotion ,]] [[Lexicon/H8101-8200#H8104|that I may obey]] [[Lexicon/H5701-5800#H5715|the testimony]] [[Lexicon/H6301-6400#H6310|of Your mouth.]]
 
 ##### Psalm 119 - 89
-[[Lexicon/H1601-1700#H1697|Your word ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H5701-5800#H5769|[is] everlasting ;]] [[Lexicon/H5301-5400#H5324|it is firmly fixed]] [[Lexicon/H8001-8100#H8064|in the heavens.]]
+[[Lexicon/H1601-1700#H1697|Your word ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H5701-5800#H5769|(is) everlasting ;]] [[Lexicon/H5301-5400#H5324|it is firmly fixed]] [[Lexicon/H8001-8100#H8064|in the heavens.]]
 
 ##### Psalm 119 - 90
-[[Lexicon/H501-600#H530|Your faithfulness]] [[Lexicon/H1701-1800#H1755|[continues] through all]] [[Lexicon/H1701-1800#H1755|generations ;]] [[Lexicon/H3501-3600#H3559|You established]] [[Lexicon/H701-800#H776|the earth ,]] [[Lexicon/H5901-6000#H5975|and it endures.]]
+[[Lexicon/H501-600#H530|Your faithfulness]] [[Lexicon/H1701-1800#H1755|(continues) through all]] [[Lexicon/H1701-1800#H1755|generations ;]] [[Lexicon/H3501-3600#H3559|You established]] [[Lexicon/H701-800#H776|the earth ,]] [[Lexicon/H5901-6000#H5975|and it endures.]]
 
 ##### Psalm 119 - 91
 [[Lexicon/H4901-5000#H4941|Your ordinances]] [[Lexicon/H5901-6000#H5975|stand]] [[Lexicon/H3101-3200#H3117|to this day ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3601-3700#H3605|all things]] [[Lexicon/H5601-5700#H5650|are servants to You.]]
@@ -316,7 +316,7 @@ cssClasses: lexicon
 [[Lexicon/H3801-3900#H3808|I have not]] [[Lexicon/H5401-5500#H5493|departed]] [[Lexicon/H4901-5000#H4941|from Your ordinances ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H801-900#H859|You Yourself]] [[Lexicon/H3301-3400#H3384|have taught me.]]
 
 ##### Psalm 119 - 103
-[[Lexicon/H4001-4100#H4100|How]] [[Lexicon/H4401-4500#H4452|sweet]] [[Lexicon/H501-600#H565|are Your words]] [[Lexicon/H2401-2500#H2441|to my taste —]] [[Lexicon/H1701-1800#H1706|[sweeter than] honey]] [[Lexicon/H6301-6400#H6310|in my mouth !]]
+[[Lexicon/H4001-4100#H4100|How]] [[Lexicon/H4401-4500#H4452|sweet]] [[Lexicon/H501-600#H565|are Your words]] [[Lexicon/H2401-2500#H2441|to my taste —]] [[Lexicon/H1701-1800#H1706|(sweeter than) honey]] [[Lexicon/H6301-6400#H6310|in my mouth !]]
 
 ##### Psalm 119 - 104
 [[Lexicon/H901-1000#H995|I gain understanding]] [[Lexicon/H6401-6500#H6490|from Your precepts ;]] [[Lexicon/H5901-6000#H5921|therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H8101-8200#H8130|I hate]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H8201-8300#H8267|false]] [[Lexicon/H701-800#H734|way.]]
@@ -334,7 +334,7 @@ cssClasses: lexicon
 [[Lexicon/H7501-7600#H7521|Accept]] [[Lexicon/H5001-5100#H5071|the freewill offerings]] [[Lexicon/H6301-6400#H6310|of my mouth ,]] [[Lexicon/H4901-5000#H4994|O]] [[Lexicon/H3001-3100#H3068|LORD ,]] [[Lexicon/H3901-4000#H3925|and teach me]] [[Lexicon/H4901-5000#H4941|Your judgments.]]
 
 ##### Psalm 119 - 109
-[[Lexicon/H8501-8600#H8548|I constantly [take]]] [[Lexicon/H5301-5400#H5315|my life]] [[Lexicon/H3701-3800#H3709|in my hands ,]] [[Lexicon/H3801-3900#H3808|yet I do not]] [[Lexicon/H7901-8000#H7911|forget]] [[Lexicon/H8401-8500#H8451|Your law.]]
+[[Lexicon/H8501-8600#H8548|I constantly (take)]] [[Lexicon/H5301-5400#H5315|my life]] [[Lexicon/H3701-3800#H3709|in my hands ,]] [[Lexicon/H3801-3900#H3808|yet I do not]] [[Lexicon/H7901-8000#H7911|forget]] [[Lexicon/H8401-8500#H8451|Your law.]]
 
 ##### Psalm 119 - 110
 [[Lexicon/H7501-7600#H7563|The wicked]] [[Lexicon/H5401-5500#H5414|have set]] [[Lexicon/H6301-6400#H6341|a snare]] [[Lexicon/H3801-3900#H3808|but I have not]] [[Lexicon/H8501-8600#H8582|strayed]] [[Lexicon/H6401-6500#H6490|from Your precepts.]]
@@ -349,7 +349,7 @@ cssClasses: lexicon
 [[Lexicon/H5501-5600#H5588|The double-minded]] [[Lexicon/H8101-8200#H8130|I despise ,]] [[Lexicon/H8401-8500#H8451|but Your law]] [[Lexicon/H101-200#H157|I love.]]
 
 ##### Psalm 119 - 114
-[[Lexicon/H801-900#H859|You]] [[Lexicon/H5601-5700#H5643|[are] my hiding place]] [[Lexicon/H4001-4100#H4043|and my shield ;]] [[Lexicon/H3101-3200#H3176|I put my hope]] [[Lexicon/H1601-1700#H1697|in Your word.]]
+[[Lexicon/H801-900#H859|You]] [[Lexicon/H5601-5700#H5643|(are) my hiding place]] [[Lexicon/H4001-4100#H4043|and my shield ;]] [[Lexicon/H3101-3200#H3176|I put my hope]] [[Lexicon/H1601-1700#H1697|in Your word.]]
 
 ##### Psalm 119 - 115
 [[Lexicon/H5401-5500#H5493|Depart]] [[Lexicon/H4401-4500#H4480|from me ,]] [[Lexicon/H7401-7500#H7489|you evildoers ,]] [[Lexicon/H5301-5400#H5341|that I may obey]] [[Lexicon/H4601-4700#H4687|the commandments]] [[Lexicon/H401-500#H430|of my God.]]
@@ -376,7 +376,7 @@ cssClasses: lexicon
 [[Lexicon/H6101-6200#H6148|Ensure]] [[Lexicon/H5601-5700#H5650|Your servant’s]] [[Lexicon/H2801-2900#H2896|well-being ;]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H2001-2100#H2086|let the arrogant]] [[Lexicon/H6201-6300#H6231|oppress me.]]
 
 ##### Psalm 119 - 123
-[[Lexicon/H5801-5900#H5869|My eyes]] [[Lexicon/H3601-3700#H3615|fail ,]] [[Lexicon/H3401-3500#H3444|looking for Your salvation ,]] [[Lexicon/H6601-6700#H6664|[and] for Your righteous]] [[Lexicon/H501-600#H565|promise.]]
+[[Lexicon/H5801-5900#H5869|My eyes]] [[Lexicon/H3601-3700#H3615|fail ,]] [[Lexicon/H3401-3500#H3444|looking for Your salvation ,]] [[Lexicon/H6601-6700#H6664|(and) for Your righteous]] [[Lexicon/H501-600#H565|promise.]]
 
 ##### Psalm 119 - 124
 [[Lexicon/H6201-6300#H6213|Deal]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H5601-5700#H5650|Your servant]] [[Lexicon/H2601-2700#H2617|according to Your loving devotion ,]] [[Lexicon/H3901-4000#H3925|and teach me]] [[Lexicon/H2701-2800#H2706|Your statutes.]]
@@ -385,7 +385,7 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H589|I]] [[Lexicon/H5601-5700#H5650|am Your servant ;]] [[Lexicon/H901-1000#H995|give me understanding ,]] [[Lexicon/H3001-3100#H3045|that I may know]] [[Lexicon/H5701-5800#H5713|Your testimonies.]]
 
 ##### Psalm 119 - 126
-[[Lexicon/H6201-6300#H6256|It is time]] [[Lexicon/H3001-3100#H3068|for the LORD]] [[Lexicon/H6201-6300#H6213|to act ,]] [[Lexicon/H6501-6600#H6565|[for] they have broken]] [[Lexicon/H8401-8500#H8451|Your law.]]
+[[Lexicon/H6201-6300#H6256|It is time]] [[Lexicon/H3001-3100#H3068|for the LORD]] [[Lexicon/H6201-6300#H6213|to act ,]] [[Lexicon/H6501-6600#H6565|(for) they have broken]] [[Lexicon/H8401-8500#H8451|Your law.]]
 
 ##### Psalm 119 - 127
 [[Lexicon/H5901-6000#H5921|Therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H101-200#H157|I love]] [[Lexicon/H4601-4700#H4687|Your commandments]] [[Lexicon/H2001-2100#H2091|more than gold ,]] [[Lexicon/H6301-6400#H6337|even the purest gold.]]
@@ -478,7 +478,7 @@ cssClasses: lexicon
 [[Lexicon/H7201-7300#H7227|Great]] [[Lexicon/H7301-7400#H7356|are Your mercies ,]] [[Lexicon/H3001-3100#H3068|O LORD ;]] [[Lexicon/H2401-2500#H2421|revive me]] [[Lexicon/H4901-5000#H4941|according to Your ordinances.]]
 
 ##### Psalm 119 - 157
-[[Lexicon/H7201-7300#H7291|[Though] my persecutors]] [[Lexicon/H6801-6900#H6862|and foes]] [[Lexicon/H7201-7300#H7227|are many ,]] [[Lexicon/H3801-3900#H3808|I have not]] [[Lexicon/H5101-5200#H5186|turned]] [[Lexicon/H5701-5800#H5715|from Your testimonies.]]
+[[Lexicon/H7201-7300#H7291|(Though) my persecutors]] [[Lexicon/H6801-6900#H6862|and foes]] [[Lexicon/H7201-7300#H7227|are many ,]] [[Lexicon/H3801-3900#H3808|I have not]] [[Lexicon/H5101-5200#H5186|turned]] [[Lexicon/H5701-5800#H5715|from Your testimonies.]]
 
 ##### Psalm 119 - 158
 [[Lexicon/H7101-7200#H7200|I look on]] [[Lexicon/H801-900#H898|the faithless]] [[Lexicon/H6901-7000#H6962|with loathing]] [[Lexicon/H801-900#H834|because]] [[Lexicon/H3801-3900#H3808|they do not]] [[Lexicon/H8101-8200#H8104|keep]] [[Lexicon/H501-600#H565|Your word.]]
@@ -487,7 +487,7 @@ cssClasses: lexicon
 [[Lexicon/H7101-7200#H7200|Consider]] [[Lexicon/H3501-3600#H3588|how]] [[Lexicon/H101-200#H157|I love]] [[Lexicon/H6401-6500#H6490|Your precepts ,]] [[Lexicon/H3001-3100#H3068|O LORD ;]] [[Lexicon/H2401-2500#H2421|give me life]] [[Lexicon/H2601-2700#H2617|according to Your loving devotion.]]
 
 ##### Psalm 119 - 160
-[[Lexicon/H7201-7300#H7218|The entirety]] [[Lexicon/H1601-1700#H1697|of Your word]] [[Lexicon/H501-600#H571|[is] tRuth - ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H6601-6700#H6664|Your righteous]] [[Lexicon/H4901-5000#H4941|judgments]] [[Lexicon/H5701-5800#H5769|endure forever.]]
+[[Lexicon/H7201-7300#H7218|The entirety]] [[Lexicon/H1601-1700#H1697|of Your word]] [[Lexicon/H501-600#H571|(is) tRuth - ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H6601-6700#H6664|Your righteous]] [[Lexicon/H4901-5000#H4941|judgments]] [[Lexicon/H5701-5800#H5769|endure forever.]]
 
 ##### Psalm 119 - 161
 [[Lexicon/H8201-8300#H8269|Rulers]] [[Lexicon/H7201-7300#H7291|persecute me]] [[Lexicon/H2501-2600#H2600|without cause ,]] [[Lexicon/H3801-3900#H3820|but my heart]] [[Lexicon/H6301-6400#H6342|fears only]] [[Lexicon/H1601-1700#H1697|Your word.]]
@@ -496,7 +496,7 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H595|I]] [[Lexicon/H7701-7800#H7797|rejoice]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H501-600#H565|Your promise]] [[Lexicon/H4601-4700#H4672|like one who finds]] [[Lexicon/H7201-7300#H7227|great]] [[Lexicon/H7901-8000#H7998|spoil.]]
 
 ##### Psalm 119 - 163
-[[Lexicon/H8101-8200#H8130|I hate]] [[Lexicon/H8501-8600#H8581|and abhor]] [[Lexicon/H8201-8300#H8267|falsehood ,]] [[Lexicon/H8401-8500#H8451|[but] Your law]] [[Lexicon/H101-200#H157|I love.]]
+[[Lexicon/H8101-8200#H8130|I hate]] [[Lexicon/H8501-8600#H8581|and abhor]] [[Lexicon/H8201-8300#H8267|falsehood ,]] [[Lexicon/H8401-8500#H8451|(but) Your law]] [[Lexicon/H101-200#H157|I love.]]
 
 ##### Psalm 119 - 164
 [[Lexicon/H7601-7700#H7651|Seven times]] [[Lexicon/H3101-3200#H3117|a day]] [[Lexicon/H1901-2000#H1984|I praise You]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H6601-6700#H6664|Your righteous]] [[Lexicon/H4901-5000#H4941|judgments.]]

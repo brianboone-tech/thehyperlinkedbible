@@ -28,10 +28,10 @@ cssClasses: lexicon
 [[Lexicon/H6201-6300#H6213|the Maker]] [[Lexicon/H8001-8100#H8064|of heaven]] [[Lexicon/H701-800#H776|and earth ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3220|the sea ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and everything]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8101-8200#H8104|He remains]] [[Lexicon/H501-600#H571|faithful]] [[Lexicon/H5701-5800#H5769|forever.]]
 
 ##### Psalm 146 - 7
-[[Lexicon/H6201-6300#H6213|He executes]] [[Lexicon/H4901-5000#H4941|justice]] [[Lexicon/H6201-6300#H6231|for the oppressed]] [[Lexicon/H5401-5500#H5414|[and] gives]] [[Lexicon/H3801-3900#H3899|food]] [[Lexicon/H7401-7500#H7457|to the hungry.]] [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H5401-5500#H5425|sets]] [[Lexicon/H601-700#H631|the prisoners {free} ,]]
+[[Lexicon/H6201-6300#H6213|He executes]] [[Lexicon/H4901-5000#H4941|justice]] [[Lexicon/H6201-6300#H6231|for the oppressed]] [[Lexicon/H5401-5500#H5414|(and) gives]] [[Lexicon/H3801-3900#H3899|food]] [[Lexicon/H7401-7500#H7457|to the hungry.]] [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H5401-5500#H5425|sets]] [[Lexicon/H601-700#H631|the prisoners {free} ,]]
 
 ##### Psalm 146 - 8
-[[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6401-6500#H6491|opens [the eyes of]]] [[Lexicon/H5701-5800#H5787|the blind ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H2201-2300#H2210|lifts]] [[Lexicon/H3701-3800#H3721|those who are weighed down ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H101-200#H157|loves]] [[Lexicon/H6601-6700#H6662|the righteous.]]
+[[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6401-6500#H6491|opens (the eyes of)]] [[Lexicon/H5701-5800#H5787|the blind ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H2201-2300#H2210|lifts]] [[Lexicon/H3701-3800#H3721|those who are weighed down ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H101-200#H157|loves]] [[Lexicon/H6601-6700#H6662|the righteous.]]
 
 ##### Psalm 146 - 9
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H8101-8200#H8104|protects]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1616|foreigners ;]] [[Lexicon/H5701-5800#H5749|He sustains]] [[Lexicon/H3401-3500#H3490|the fatherless]] [[Lexicon/H401-500#H490|and the widow ,]] [[Lexicon/H1801-1900#H1870|but the ways]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H5701-5800#H5791|He frustrates.]]

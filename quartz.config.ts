@@ -28,27 +28,29 @@ const config: QuartzConfig = {
         code: "IBM Plex Mono",
       },
       colors: {
+        // Rosé Pine Dawn (Light) - matching AnuPpuccin rosepine-light
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#faf4ed",        // Base
+          lightgray: "#f2e9e1",    // Overlay
+          gray: "#9893a5",         // Muted
+          darkgray: "#575279",     // Text
+          dark: "#286983",         // Pine
+          secondary: "#1A7DA4",    // Custom teal accent
+          tertiary: "#56949f",     // Foam
+          highlight: "rgba(26, 125, 164, 0.12)",
+          textHighlight: "#ea9d3488", // Gold
         },
+        // Catppuccin Frappé (Dark) - matching AnuPpuccin ctp-frappe
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#303446",        // Base
+          lightgray: "#414559",    // Surface0
+          gray: "#737994",         // Overlay0
+          darkgray: "#c6d0f5",     // Text
+          dark: "#f2d5cf",         // Rosewater
+          secondary: "#11B7C5",    // Custom teal accent
+          tertiary: "#81c8be",     // Teal
+          highlight: "rgba(17, 183, 197, 0.12)",
+          textHighlight: "#e5c89088", // Yellow
         },
       },
     },

@@ -64,7 +64,7 @@ cssClasses: lexicon
 [[Lexicon/H1901-2000#H1931|But it was He]] [[Lexicon/H4301-4400#H4390|who filled]] [[Lexicon/H1001-1100#H1004|their houses]] [[Lexicon/H2801-2900#H2896|with good things ;]] [[Lexicon/H7301-7400#H7368|so I stay far]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H6001-6100#H6098|from the counsel]] [[Lexicon/H7501-7600#H7563|of the wicked.]]
 
 ##### Job 22 - 19
-[[Lexicon/H6601-6700#H6662|The righteous]] [[Lexicon/H7101-7200#H7200|see [it]]] [[Lexicon/H8001-8100#H8055|and are glad ;]] [[Lexicon/H5301-5400#H5355|the innocent]] [[Lexicon/H3901-4000#H3932|mock]]
+[[Lexicon/H6601-6700#H6662|The righteous]] [[Lexicon/H7101-7200#H7200|see (it)]] [[Lexicon/H8001-8100#H8055|and are glad ;]] [[Lexicon/H5301-5400#H5355|the innocent]] [[Lexicon/H3901-4000#H3932|mock]]
 
 ##### Job 22 - 20
 [[Lexicon/H501-600#H518|‘ Surely]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H7001-7100#H7009|our foes]] [[Lexicon/H3501-3600#H3582|are destroyed ,]] [[Lexicon/H701-800#H784|and fire]] [[Lexicon/H301-400#H398|has consumed]] [[Lexicon/H3401-3500#H3499|their excess. ’]]
@@ -97,4 +97,4 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H8201-8300#H8213|men are brought low]] [[Lexicon/H501-600#H559|and you say ,]] [[Lexicon/H1401-1500#H1466|‘ Lift them up ! ’]] [[Lexicon/H3401-3500#H3467|then He will save]] [[Lexicon/H7801-7900#H7807|the lowly]] [[Lexicon/H5801-5900#H5869|....]]
 
 ##### Job 22 - 30
-[[Lexicon/H4401-4500#H4422|He will deliver [even]]] [[Lexicon/H301-400#H336|[one who is] not]] [[Lexicon/H5301-5400#H5355|innocent ,]] [[Lexicon/H4401-4500#H4422|rescuing him]] [[Lexicon/H1201-1300#H1252|through the cleanness]] [[Lexicon/H3701-3800#H3709|of your hands. ”]]
+[[Lexicon/H4401-4500#H4422|He will deliver (even)]] [[Lexicon/H301-400#H336|(one who is) not]] [[Lexicon/H5301-5400#H5355|innocent ,]] [[Lexicon/H4401-4500#H4422|rescuing him]] [[Lexicon/H1201-1300#H1252|through the cleanness]] [[Lexicon/H3701-3800#H3709|of your hands. ”]]

@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Isaiah 29 - 1
-[[Lexicon/H1901-2000#H1945|Woe to you ,]] [[Lexicon/H701-800#H740|O Ariel ,]] [[Lexicon/H7101-7200#H7151|the city]] [[Lexicon/H701-800#H740|[of] Ariel]] [[Lexicon/H1701-1800#H1732|where David]] [[Lexicon/H3201-3300#H3254|...]] [[Lexicon/H2501-2600#H2583|camped !]] [[Lexicon/H8101-8200#H8141|Year]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H2201-2300#H2282|let your festivals]] [[Lexicon/H5301-5400#H5362|recur.]]
+[[Lexicon/H1901-2000#H1945|Woe to you ,]] [[Lexicon/H701-800#H740|O Ariel ,]] [[Lexicon/H7101-7200#H7151|the city]] [[Lexicon/H701-800#H740|(of) Ariel]] [[Lexicon/H1701-1800#H1732|where David]] [[Lexicon/H3201-3300#H3254|...]] [[Lexicon/H2501-2600#H2583|camped !]] [[Lexicon/H8101-8200#H8141|Year]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H2201-2300#H2282|let your festivals]] [[Lexicon/H5301-5400#H5362|recur.]]
 
 ##### Isaiah 29 - 2
 [[Lexicon/H6601-6700#H6693|And I will constrain]] [[Lexicon/H701-800#H740|Ariel ,]] [[Lexicon/H1901-2000#H1961|and there will be]] [[Lexicon/H8301-8400#H8386|mourning]] [[Lexicon/H501-600#H592|and lamentation ;]] [[Lexicon/H1901-2000#H1961|she will be]] [[Lexicon/H701-800#H740|like an altar hearth]]
@@ -58,13 +58,13 @@ cssClasses: lexicon
 [[Lexicon/H2001-2100#H2017|You have turned things upside down ,]] [[Lexicon/H501-600#H518|as if]] [[Lexicon/H3301-3400#H3335|the potter]] [[Lexicon/H2801-2900#H2803|were regarded]] [[Lexicon/H2501-2600#H2563|as clay.]] [[Lexicon/H3501-3600#H3588|Shall]] [[Lexicon/H4601-4700#H4639|what is formed]] [[Lexicon/H501-600#H559|say]] [[Lexicon/H6201-6300#H6213|to him who formed it ,]] [[Lexicon/H3801-3900#H3808|“ He did not]] [[Lexicon/H6201-6300#H6213|make me ”?]] [[Lexicon/H3301-3400#H3336|Can the pottery]] [[Lexicon/H501-600#H559|say]] [[Lexicon/H3301-3400#H3335|of the potter ,]] [[Lexicon/H3801-3900#H3808|“ He has no]] [[Lexicon/H901-1000#H995|understanding ”?]]
 
 ##### Isaiah 29 - 17
-[[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H5701-5800#H5750|In a very]] [[Lexicon/H4501-4600#H4592|short]] [[Lexicon/H4201-4300#H4213|time ,]] [[Lexicon/H3801-3900#H3844|[will not] Lebanon]] [[Lexicon/H7701-7800#H7725|become]] [[Lexicon/H3701-3800#H3759|an orchard ,]] [[Lexicon/H3701-3800#H3759|and the orchard]] [[Lexicon/H2801-2900#H2803|seem]] [[Lexicon/H3201-3300#H3293|like a forest ?]]
+[[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H5701-5800#H5750|In a very]] [[Lexicon/H4501-4600#H4592|short]] [[Lexicon/H4201-4300#H4213|time ,]] [[Lexicon/H3801-3900#H3844|(will not) Lebanon]] [[Lexicon/H7701-7800#H7725|become]] [[Lexicon/H3701-3800#H3759|an orchard ,]] [[Lexicon/H3701-3800#H3759|and the orchard]] [[Lexicon/H2801-2900#H2803|seem]] [[Lexicon/H3201-3300#H3293|like a forest ?]]
 
 ##### Isaiah 29 - 18
 [[Lexicon/H1901-2000#H1931|On that]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2701-2800#H2795|the deaf]] [[Lexicon/H8001-8100#H8085|will hear]] [[Lexicon/H1601-1700#H1697|the words]] [[Lexicon/H5601-5700#H5612|of the scroll ,]] [[Lexicon/H601-700#H652|and out of]] [[Lexicon/H2801-2900#H2822|the deep darkness]] [[Lexicon/H5801-5900#H5869|the eyes]] [[Lexicon/H5701-5800#H5787|of the blind]] [[Lexicon/H7101-7200#H7200|will see.]]
 
 ##### Isaiah 29 - 19
-[[Lexicon/H6001-6100#H6035|The humble]] [[Lexicon/H3201-3300#H3254|will increase]] [[Lexicon/H8001-8100#H8057|[their] joy]] [[Lexicon/H3001-3100#H3068|in the LORD ,]] [[Lexicon/H1-100#H34|and the poor]] [[Lexicon/H101-200#H120|among men]] [[Lexicon/H1501-1600#H1523|will rejoice]] [[Lexicon/H6901-7000#H6918|in the Holy One]] [[Lexicon/H3401-3500#H3478|of Israel.]]
+[[Lexicon/H6001-6100#H6035|The humble]] [[Lexicon/H3201-3300#H3254|will increase]] [[Lexicon/H8001-8100#H8057|(their) joy]] [[Lexicon/H3001-3100#H3068|in the LORD ,]] [[Lexicon/H1-100#H34|and the poor]] [[Lexicon/H101-200#H120|among men]] [[Lexicon/H1501-1600#H1523|will rejoice]] [[Lexicon/H6901-7000#H6918|in the Holy One]] [[Lexicon/H3401-3500#H3478|of Israel.]]
 
 ##### Isaiah 29 - 20
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H6101-6200#H6184|the Ruth -less]] [[Lexicon/H601-700#H656|will vanish ,]] [[Lexicon/H3801-3900#H3887|the mockers]] [[Lexicon/H3601-3700#H3615|will disappear ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H8201-8300#H8245|who look]] [[Lexicon/H201-300#H205|for evil]] [[Lexicon/H3701-3800#H3772|will be cut down —]]

@@ -22,7 +22,7 @@ cssClasses: lexicon
 [[Lexicon/H4401-4500#H4405|Your words]] [[Lexicon/H6901-7000#H6965|have steadied]] [[Lexicon/H3701-3800#H3782|those who stumbled ;]] [[Lexicon/H501-600#H553|you have braced]] [[Lexicon/H1201-1300#H1290|the knees]] [[Lexicon/H3701-3800#H3766|that were buckling.]]
 
 ##### Job 4 - 5
-[[Lexicon/H3501-3600#H3588|But]] [[Lexicon/H6201-6300#H6258|now]] [[Lexicon/H901-1000#H935|[trouble] has come]] [[Lexicon/H401-500#H413|upon you ,]] [[Lexicon/H3801-3900#H3811|and you are weary.]] [[Lexicon/H5001-5100#H5060|It strikes you ,]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H901-1000#H926|and you are dismayed.]]
+[[Lexicon/H3501-3600#H3588|But]] [[Lexicon/H6201-6300#H6258|now]] [[Lexicon/H901-1000#H935|(trouble) has come]] [[Lexicon/H401-500#H413|upon you ,]] [[Lexicon/H3801-3900#H3811|and you are weary.]] [[Lexicon/H5001-5100#H5060|It strikes you ,]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H901-1000#H926|and you are dismayed.]]
 
 ##### Job 4 - 6
 [[Lexicon/H3301-3400#H3374|Is your reverence]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H3601-3700#H3690|your confidence ,]] [[Lexicon/H8501-8600#H8537|and the uprightness]] [[Lexicon/H1801-1900#H1870|of your ways]] [[Lexicon/H8601-8674#H8615|your hope ?]]
@@ -52,7 +52,7 @@ cssClasses: lexicon
 [[Lexicon/H6301-6400#H6343|fear]] [[Lexicon/H7401-7500#H7461|and trembling]] [[Lexicon/H7101-7200#H7122|came over me]] [[Lexicon/H7201-7300#H7230|and made all]] [[Lexicon/H6101-6200#H6106|my bones]] [[Lexicon/H6301-6400#H6342|shudder.]]
 
 ##### Job 4 - 15
-[[Lexicon/H7301-7400#H7307|Then a spirit]] [[Lexicon/H2401-2500#H2498|glided]] [[Lexicon/H5901-6000#H5921|past]] [[Lexicon/H6401-6500#H6440|my face ,]] [[Lexicon/H8101-8200#H8185|[and] the hair]] [[Lexicon/H1301-1400#H1320|on my body]] [[Lexicon/H5501-5600#H5568|bristled.]]
+[[Lexicon/H7301-7400#H7307|Then a spirit]] [[Lexicon/H2401-2500#H2498|glided]] [[Lexicon/H5901-6000#H5921|past]] [[Lexicon/H6401-6500#H6440|my face ,]] [[Lexicon/H8101-8200#H8185|(and) the hair]] [[Lexicon/H1301-1400#H1320|on my body]] [[Lexicon/H5501-5600#H5568|bristled.]]
 
 ##### Job 4 - 16
 [[Lexicon/H5901-6000#H5975|It stood still ,]] [[Lexicon/H3801-3900#H3808|but I could not]] [[Lexicon/H5201-5300#H5234|discern]] [[Lexicon/H4701-4800#H4758|its appearance ;]] [[Lexicon/H8501-8600#H8544|a form]] [[Lexicon/H5001-5100#H5048|loomed before]] [[Lexicon/H5801-5900#H5869|my eyes ,]] [[Lexicon/H8001-8100#H8085|and I heard]] [[Lexicon/H1801-1900#H1827|a whispering]] [[Lexicon/H6901-7000#H6963|voice :]]
@@ -70,4 +70,4 @@ cssClasses: lexicon
 [[Lexicon/H3801-3900#H3807|They are smashed to pieces]] [[Lexicon/H1201-1300#H1242|from dawn]] [[Lexicon/H6101-6200#H6153|to dusk ;]] [[Lexicon/H1001-1100#H1097|unnoticed]] [[Lexicon/H7701-7800#H7760|... ,]] [[Lexicon/H1-100#H6|they perish]] [[Lexicon/H5301-5400#H5331|forever.]]
 
 ##### Job 4 - 21
-[[Lexicon/H3401-3500#H3499|Are not their tent cords]] [[Lexicon/H3801-3900#H3808|-]] [[Lexicon/H5201-5300#H5265|pulled up ,]] [[Lexicon/H4101-4200#H4191|so that they die]] [[Lexicon/H3801-3900#H3808|without]] [[Lexicon/H2401-2500#H2451|wisdom ? ’ [’’]]]
+[[Lexicon/H3401-3500#H3499|Are not their tent cords]] [[Lexicon/H3801-3900#H3808|-]] [[Lexicon/H5201-5300#H5265|pulled up ,]] [[Lexicon/H4101-4200#H4191|so that they die]] [[Lexicon/H3801-3900#H3808|without]] [[Lexicon/H2401-2500#H2451|wisdom ? ’ (’’)]]

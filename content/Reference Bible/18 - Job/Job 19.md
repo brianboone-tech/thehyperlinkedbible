@@ -13,7 +13,7 @@ cssClasses: lexicon
 [[Lexicon/H301-400#H347|Then Job -]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H6001-6100#H6030|answered :]]
 
 ##### Job 19 - 2
-[[Lexicon/H5701-5800#H5704|“ How long]] [[Lexicon/H501-600#H575|...]] [[Lexicon/H3001-3100#H3013|will you torment]] [[Lexicon/H5301-5400#H5315|me]] [[Lexicon/H1701-1800#H1792|and crush me]] [[Lexicon/H4401-4500#H4405|with [your] words ?]]
+[[Lexicon/H5701-5800#H5704|“ How long]] [[Lexicon/H501-600#H575|...]] [[Lexicon/H3001-3100#H3013|will you torment]] [[Lexicon/H5301-5400#H5315|me]] [[Lexicon/H1701-1800#H1792|and crush me]] [[Lexicon/H4401-4500#H4405|with (your) words ?]]
 
 ##### Job 19 - 3
 [[Lexicon/H6201-6300#H6235|Ten]] [[Lexicon/H6401-6500#H6471|times]] [[Lexicon/H2001-2100#H2088|now]] [[Lexicon/H3601-3700#H3637|you have reproached me ;]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H901-1000#H954|you shamelessly]] [[Lexicon/H1901-2000#H1970|mistreat]]
@@ -22,7 +22,7 @@ cssClasses: lexicon
 [[Lexicon/H601-700#H637|Even if]] [[Lexicon/H501-600#H551|vvv]] [[Lexicon/H7601-7700#H7686|I have truly gone astray ,]] [[Lexicon/H4801-4900#H4879|my error]] [[Lexicon/H3801-3900#H3885|concerns me]] [[Lexicon/H801-900#H854|alone.]]
 
 ##### Job 19 - 5
-[[Lexicon/H501-600#H518|If]] [[Lexicon/H501-600#H551|indeed]] [[Lexicon/H1401-1500#H1431|you would exalt [yourselves]]] [[Lexicon/H5901-6000#H5921|above me]] [[Lexicon/H2701-2800#H2781|and use my disgrace]] [[Lexicon/H3101-3200#H3198|...]] [[Lexicon/H5901-6000#H5921|against me ,]]
+[[Lexicon/H501-600#H518|If]] [[Lexicon/H501-600#H551|indeed]] [[Lexicon/H1401-1500#H1431|you would exalt (yourselves)]] [[Lexicon/H5901-6000#H5921|above me]] [[Lexicon/H2701-2800#H2781|and use my disgrace]] [[Lexicon/H3101-3200#H3198|...]] [[Lexicon/H5901-6000#H5921|against me ,]]
 
 ##### Job 19 - 6
 [[Lexicon/H601-700#H645|then]] [[Lexicon/H3001-3100#H3045|understand]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H401-500#H433|it is God]] [[Lexicon/H5701-5800#H5791|who has wronged me]] [[Lexicon/H4601-4700#H4685|and drawn His net]] [[Lexicon/H5301-5400#H5362|around]] [[Lexicon/H5901-6000#H5921|me.]]
@@ -91,7 +91,7 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H589|I]] [[Lexicon/H2301-2400#H2372|will see]] [[Lexicon/H801-900#H834|Him]] [[Lexicon/H5801-5900#H5869|my eyes]] [[Lexicon/H7101-7200#H7200|will behold Him ,]] [[Lexicon/H3801-3900#H3808|and not]] [[Lexicon/H2101-2200#H2114|as a stranger.]] [[Lexicon/H3601-3700#H3629|How my heart]] [[Lexicon/H3601-3700#H3615|yearns]] [[Lexicon/H2401-2500#H2436|within me !]]
 
 ##### Job 19 - 28
-[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H501-600#H559|you say ,]] [[Lexicon/H4001-4100#H4100|‘ [Let us]]] [[Lexicon/H7201-7300#H7291|persecute]] [[Lexicon/H8301-8400#H8328|since the root]] [[Lexicon/H1601-1700#H1697|of the matter]] [[Lexicon/H4601-4700#H4672|lies]]
+[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H501-600#H559|you say ,]] [[Lexicon/H4001-4100#H4100|‘ (Let us)]] [[Lexicon/H7201-7300#H7291|persecute]] [[Lexicon/H8301-8400#H8328|since the root]] [[Lexicon/H1601-1700#H1697|of the matter]] [[Lexicon/H4601-4700#H4672|lies]]
 
 ##### Job 19 - 29
-[[Lexicon/H1401-1500#H1481|[then] you should fear]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H2701-2800#H2719|the sword]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H2501-2600#H2534|wrath]] [[Lexicon/H5701-5800#H5771|brings punishment]] [[Lexicon/H2701-2800#H2719|by the sword ,]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H3001-3100#H3045|you may know]] [[Lexicon/H1701-1800#H1779|[there is] a judgment. ”]]
+[[Lexicon/H1401-1500#H1481|(then) you should fear]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H2701-2800#H2719|the sword]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H2501-2600#H2534|wrath]] [[Lexicon/H5701-5800#H5771|brings punishment]] [[Lexicon/H2701-2800#H2719|by the sword ,]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H3001-3100#H3045|you may know]] [[Lexicon/H1701-1800#H1779|(there is) a judgment. ”]]

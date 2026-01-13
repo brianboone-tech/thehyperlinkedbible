@@ -55,7 +55,7 @@ cssClasses: lexicon
 [[Lexicon/H6001-6100#H6091|The idols]] [[Lexicon/H1401-1500#H1471|of the nations]] [[Lexicon/H3701-3800#H3701|are silver]] [[Lexicon/H2001-2100#H2091|and gold ,]] [[Lexicon/H4601-4700#H4639|made]] [[Lexicon/H3001-3100#H3027|by the hands]] [[Lexicon/H101-200#H120|of men.]]
 
 ##### Psalm 135 - 16
-[[Lexicon/H6301-6400#H6310|They have mouths]] [[Lexicon/H3801-3900#H3808|but cannot]] [[Lexicon/H1601-1700#H1696|speak ;]] [[Lexicon/H5801-5900#H5869|[they have] eyes]] [[Lexicon/H3801-3900#H3808|but cannot]] [[Lexicon/H7101-7200#H7200|see ;]]
+[[Lexicon/H6301-6400#H6310|They have mouths]] [[Lexicon/H3801-3900#H3808|but cannot]] [[Lexicon/H1601-1700#H1696|speak ;]] [[Lexicon/H5801-5900#H5869|(they have) eyes]] [[Lexicon/H3801-3900#H3808|but cannot]] [[Lexicon/H7101-7200#H7200|see ;]]
 
 ##### Psalm 135 - 17
 [[Lexicon/H201-300#H241|they have ears]] [[Lexicon/H3801-3900#H3808|but cannot]] [[Lexicon/H201-300#H238|hear ;]] [[Lexicon/H601-700#H637|-]] [[Lexicon/H301-400#H369|nor]] [[Lexicon/H3401-3500#H3426|is there]] [[Lexicon/H7301-7400#H7307|breath]] [[Lexicon/H6301-6400#H6310|in their mouths.]]

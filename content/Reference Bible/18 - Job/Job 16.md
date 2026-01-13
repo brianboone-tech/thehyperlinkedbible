@@ -31,7 +31,7 @@ cssClasses: lexicon
 [[Lexicon/H301-400#H389|Surely]] [[Lexicon/H6201-6300#H6258|He has now]] [[Lexicon/H3801-3900#H3811|exhausted me ;]] [[Lexicon/H8001-8100#H8074|You have devastated]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5701-5800#H5712|my family.]]
 
 ##### Job 16 - 8
-[[Lexicon/H7001-7100#H7059|You have bound me ,]] [[Lexicon/H1901-2000#H1961|[and] it has become]] [[Lexicon/H5701-5800#H5707|a witness ;]] [[Lexicon/H3501-3600#H3585|my frailty]] [[Lexicon/H6901-7000#H6965|rises up]] [[Lexicon/H6001-6100#H6030|and testifies]] [[Lexicon/H6401-6500#H6440|against me.]]
+[[Lexicon/H7001-7100#H7059|You have bound me ,]] [[Lexicon/H1901-2000#H1961|(and) it has become]] [[Lexicon/H5701-5800#H5707|a witness ;]] [[Lexicon/H3501-3600#H3585|my frailty]] [[Lexicon/H6901-7000#H6965|rises up]] [[Lexicon/H6001-6100#H6030|and testifies]] [[Lexicon/H6401-6500#H6440|against me.]]
 
 ##### Job 16 - 9
 [[Lexicon/H601-700#H639|His anger]] [[Lexicon/H2901-3000#H2963|has torn me]] [[Lexicon/H7801-7900#H7852|and opposed me ;]] [[Lexicon/H2701-2800#H2786|He gnashes]] [[Lexicon/H8101-8200#H8127|His teeth]] [[Lexicon/H5901-6000#H5921|at me.]] [[Lexicon/H6801-6900#H6862|My adversary]] [[Lexicon/H3901-4000#H3913|pierces]] [[Lexicon/H5801-5900#H5869|with His eyes.]]
@@ -67,10 +67,10 @@ cssClasses: lexicon
 [[Lexicon/H1501-1600#H1571|Even]] [[Lexicon/H6201-6300#H6258|now]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H5701-5800#H5707|my witness]] [[Lexicon/H8001-8100#H8064|is in heaven ,]] [[Lexicon/H7701-7800#H7717|and my advocate]] [[Lexicon/H4701-4800#H4791|is on high.]]
 
 ##### Job 16 - 20
-[[Lexicon/H7401-7500#H7453|My friends]] [[Lexicon/H3801-3900#H3887|are my scoffers]] [[Lexicon/H5801-5900#H5869|as my eyes]] [[Lexicon/H1801-1900#H1811|pour out [tears]]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H401-500#H433|God.]]
+[[Lexicon/H7401-7500#H7453|My friends]] [[Lexicon/H3801-3900#H3887|are my scoffers]] [[Lexicon/H5801-5900#H5869|as my eyes]] [[Lexicon/H1801-1900#H1811|pour out (tears)]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H401-500#H433|God.]]
 
 ##### Job 16 - 21
-[[Lexicon/H1301-1400#H1397|Oh, that a man]] [[Lexicon/H3101-3200#H3198|might plead]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H401-500#H433|God]] [[Lexicon/H1101-1200#H1121|as [he] [pleads]]] [[Lexicon/H101-200#H120|...]] [[Lexicon/H7401-7500#H7453|with his neighbor !]]
+[[Lexicon/H1301-1400#H1397|Oh, that a man]] [[Lexicon/H3101-3200#H3198|might plead]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H401-500#H433|God]] [[Lexicon/H1101-1200#H1121|as (he) (pleads)]] [[Lexicon/H101-200#H120|...]] [[Lexicon/H7401-7500#H7453|with his neighbor !]]
 
 ##### Job 16 - 22
-[[Lexicon/H3501-3600#H3588|For when]] [[Lexicon/H4501-4600#H4557|only a few]] [[Lexicon/H8101-8200#H8141|years]] [[Lexicon/H801-900#H857|are past]] [[Lexicon/H1901-2000#H1980|I will go]] [[Lexicon/H701-800#H734|the way]] [[Lexicon/H3801-3900#H3808|of no]] [[Lexicon/H7701-7800#H7725|return. [’’]]]
+[[Lexicon/H3501-3600#H3588|For when]] [[Lexicon/H4501-4600#H4557|only a few]] [[Lexicon/H8101-8200#H8141|years]] [[Lexicon/H801-900#H857|are past]] [[Lexicon/H1901-2000#H1980|I will go]] [[Lexicon/H701-800#H734|the way]] [[Lexicon/H3801-3900#H3808|of no]] [[Lexicon/H7701-7800#H7725|return. (’’)]]

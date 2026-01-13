@@ -49,13 +49,13 @@ cssClasses: lexicon
 [[Lexicon/H3601-3700#H3684|A foolish]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1-100#H1|is his father’s]] [[Lexicon/H1901-2000#H1942|ruin ,]] [[Lexicon/H4001-4100#H4079|and a quarrelsome]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H2901-3000#H2956|is like a constant]] [[Lexicon/H1801-1900#H1812|dripping.]]
 
 ##### Proverbs 19 - 14
-[[Lexicon/H1001-1100#H1004|Houses]] [[Lexicon/H1901-2000#H1952|and wealth]] [[Lexicon/H5101-5200#H5159|are inherited]] [[Lexicon/H1-100#H1|from fathers ,]] [[Lexicon/H7901-8000#H7919|but a prudent]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H3001-3100#H3068|[is] from the LORD.]]
+[[Lexicon/H1001-1100#H1004|Houses]] [[Lexicon/H1901-2000#H1952|and wealth]] [[Lexicon/H5101-5200#H5159|are inherited]] [[Lexicon/H1-100#H1|from fathers ,]] [[Lexicon/H7901-8000#H7919|but a prudent]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H3001-3100#H3068|(is) from the LORD.]]
 
 ##### Proverbs 19 - 15
 [[Lexicon/H6101-6200#H6103|Laziness]] [[Lexicon/H5301-5400#H5307|brings on]] [[Lexicon/H8601-8674#H8639|deep sleep ,]] [[Lexicon/H7401-7500#H7423|and an idle]] [[Lexicon/H5301-5400#H5315|soul]] [[Lexicon/H7401-7500#H7456|will suffer hunger.]]
 
 ##### Proverbs 19 - 16
-[[Lexicon/H8101-8200#H8104|He who keeps]] [[Lexicon/H4601-4700#H4687|a commandment]] [[Lexicon/H8101-8200#H8104|preserves]] [[Lexicon/H5301-5400#H5315|his soul ,]] [[Lexicon/H901-1000#H959|[but] he who is careless]] [[Lexicon/H1801-1900#H1870|in his ways]] [[Lexicon/H4101-4200#H4191|will die.]]
+[[Lexicon/H8101-8200#H8104|He who keeps]] [[Lexicon/H4601-4700#H4687|a commandment]] [[Lexicon/H8101-8200#H8104|preserves]] [[Lexicon/H5301-5400#H5315|his soul ,]] [[Lexicon/H901-1000#H959|(but) he who is careless]] [[Lexicon/H1801-1900#H1870|in his ways]] [[Lexicon/H4101-4200#H4191|will die.]]
 
 ##### Proverbs 19 - 17
 [[Lexicon/H2601-2700#H2603|Kindness]] [[Lexicon/H1701-1800#H1800|to the poor]] [[Lexicon/H1501-1600#H1576|...]] [[Lexicon/H3801-3900#H3867|is a loan]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7901-8000#H7999|and He will repay]]
@@ -64,7 +64,7 @@ cssClasses: lexicon
 [[Lexicon/H3201-3300#H3256|Discipline]] [[Lexicon/H1101-1200#H1121|your son ,]] [[Lexicon/H3501-3600#H3588|for in that]] [[Lexicon/H3401-3500#H3426|there is]] [[Lexicon/H8601-8674#H8615|hope ;]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H5301-5400#H5375|be party]] [[Lexicon/H5301-5400#H5315|...]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4101-4200#H4191|his death.]]
 
 ##### Proverbs 19 - 19
-[[Lexicon/H1601-1700#H1632|A man of great anger]] [[Lexicon/H2501-2600#H2534|...]] [[Lexicon/H5301-5400#H5375|must pay]] [[Lexicon/H6001-6100#H6066|the penalty ;]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H5301-5400#H5337|you rescue [him] ,]] [[Lexicon/H5701-5800#H5750|vvv]] [[Lexicon/H3201-3300#H3254|you will have to do so again.]]
+[[Lexicon/H1601-1700#H1632|A man of great anger]] [[Lexicon/H2501-2600#H2534|...]] [[Lexicon/H5301-5400#H5375|must pay]] [[Lexicon/H6001-6100#H6066|the penalty ;]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H5301-5400#H5337|you rescue (him) ,]] [[Lexicon/H5701-5800#H5750|vvv]] [[Lexicon/H3201-3300#H3254|you will have to do so again.]]
 
 ##### Proverbs 19 - 20
 [[Lexicon/H8001-8100#H8085|Listen]] [[Lexicon/H6001-6100#H6098|to counsel]] [[Lexicon/H6901-7000#H6901|and accept]] [[Lexicon/H4101-4200#H4148|discipline ,]] [[Lexicon/H4601-4700#H4616|that]] [[Lexicon/H2401-2500#H2449|you may be wise]] [[Lexicon/H301-400#H319|the rest of your days.]]
@@ -82,7 +82,7 @@ cssClasses: lexicon
 [[Lexicon/H6101-6200#H6102|The slacker]] [[Lexicon/H2901-3000#H2934|buries]] [[Lexicon/H3001-3100#H3027|his hand]] [[Lexicon/H6701-6800#H6747|in the dish ;]] [[Lexicon/H3801-3900#H3808|he will not]] [[Lexicon/H1501-1600#H1571|even]] [[Lexicon/H7701-7800#H7725|bring it back]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6301-6400#H6310|his mouth.]]
 
 ##### Proverbs 19 - 25
-[[Lexicon/H5201-5300#H5221|Strike]] [[Lexicon/H3801-3900#H3887|a mocker ,]] [[Lexicon/H6601-6700#H6612|and the simple]] [[Lexicon/H6101-6200#H6191|will beware ;]] [[Lexicon/H3101-3200#H3198|rebuke]] [[Lexicon/H901-1000#H995|the discerning [man] ,]] [[Lexicon/H901-1000#H995|and he will gain]] [[Lexicon/H1801-1900#H1847|knowledge.]]
+[[Lexicon/H5201-5300#H5221|Strike]] [[Lexicon/H3801-3900#H3887|a mocker ,]] [[Lexicon/H6601-6700#H6612|and the simple]] [[Lexicon/H6101-6200#H6191|will beware ;]] [[Lexicon/H3101-3200#H3198|rebuke]] [[Lexicon/H901-1000#H995|the discerning (man) ,]] [[Lexicon/H901-1000#H995|and he will gain]] [[Lexicon/H1801-1900#H1847|knowledge.]]
 
 ##### Proverbs 19 - 26
 [[Lexicon/H7701-7800#H7703|He who assaults]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H1201-1300#H1272|or evicts]] [[Lexicon/H501-600#H517|his mother]] [[Lexicon/H1101-1200#H1121|is a son]] [[Lexicon/H901-1000#H954|who brings shame]] [[Lexicon/H2601-2700#H2659|and disgrace.]]

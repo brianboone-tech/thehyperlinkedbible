@@ -13,10 +13,10 @@ cssClasses: lexicon
 [[Lexicon/H301-400#H347|Then Job -]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H6001-6100#H6030|answered :]]
 
 ##### Job 12 - 2
-[[Lexicon/H501-600#H551|“ Truly]] [[Lexicon/H3501-3600#H3588|then]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H5901-6000#H5971|are the people]] [[Lexicon/H5901-6000#H5973|with [whom]]] [[Lexicon/H2401-2500#H2451|wisdom [itself]]] [[Lexicon/H4101-4200#H4191|will die !]]
+[[Lexicon/H501-600#H551|“ Truly]] [[Lexicon/H3501-3600#H3588|then]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H5901-6000#H5971|are the people]] [[Lexicon/H5901-6000#H5973|with (whom)]] [[Lexicon/H2401-2500#H2451|wisdom (itself)]] [[Lexicon/H4101-4200#H4191|will die !]]
 
 ##### Job 12 - 3
-[[Lexicon/H1501-1600#H1571|But I also]] [[Lexicon/H3801-3900#H3824|a mind ;]] [[Lexicon/H3601-3700#H3644|...]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H3801-3900#H3808|am not]] [[Lexicon/H5301-5400#H5307|inferior]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H301-400#H369|does not [know]]] [[Lexicon/H3601-3700#H3644|such things]] [[Lexicon/H401-500#H428|as these ?]]
+[[Lexicon/H1501-1600#H1571|But I also]] [[Lexicon/H3801-3900#H3824|a mind ;]] [[Lexicon/H3601-3700#H3644|...]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H3801-3900#H3808|am not]] [[Lexicon/H5301-5400#H5307|inferior]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H301-400#H369|does not (know)]] [[Lexicon/H3601-3700#H3644|such things]] [[Lexicon/H401-500#H428|as these ?]]
 
 ##### Job 12 - 4
 [[Lexicon/H1901-2000#H1961|I am]] [[Lexicon/H7801-7900#H7814|a laughingstock]] [[Lexicon/H7401-7500#H7453|to my friends ,]] [[Lexicon/H7101-7200#H7121|though I called]] [[Lexicon/H401-500#H433|on God ,]] [[Lexicon/H6001-6100#H6030|and He answered.]] [[Lexicon/H6601-6700#H6662|The righteous]] [[Lexicon/H8501-8600#H8549|and upright man]] [[Lexicon/H7801-7900#H7814|is a laughingstock.]]
@@ -55,7 +55,7 @@ cssClasses: lexicon
 [[Lexicon/H2001-2100#H2005|If]] [[Lexicon/H6101-6200#H6113|He holds back]] [[Lexicon/H4301-4400#H4325|the waters ,]] [[Lexicon/H3001-3100#H3001|they dry up ,]] [[Lexicon/H7901-8000#H7971|and if He releases them ,]] [[Lexicon/H2001-2100#H2015|they overwhelm]] [[Lexicon/H701-800#H776|the land.]]
 
 ##### Job 12 - 16
-[[Lexicon/H8401-8500#H8454|True wisdom]] [[Lexicon/H5701-5800#H5797|and power]] [[Lexicon/H5901-6000#H5973|belong to Him.]] [[Lexicon/H7601-7700#H7683|The deceived]] [[Lexicon/H7601-7700#H7686|and the deceiver [are His].]]
+[[Lexicon/H8401-8500#H8454|True wisdom]] [[Lexicon/H5701-5800#H5797|and power]] [[Lexicon/H5901-6000#H5973|belong to Him.]] [[Lexicon/H7601-7700#H7683|The deceived]] [[Lexicon/H7601-7700#H7686|and the deceiver (are His).]]
 
 ##### Job 12 - 17
 [[Lexicon/H3201-3300#H3289|He leads counselors]] [[Lexicon/H1901-2000#H1980|away]] [[Lexicon/H7701-7800#H7758|barefoot]] [[Lexicon/H1901-2000#H1984|and makes fools]] [[Lexicon/H8101-8200#H8199|of Judges -.]]
@@ -82,5 +82,5 @@ cssClasses: lexicon
 [[Lexicon/H5401-5500#H5493|He deprives]] [[Lexicon/H701-800#H776|the earth’s]] [[Lexicon/H7201-7300#H7218|leaders]] [[Lexicon/H5901-6000#H5971|]] [[Lexicon/H3801-3900#H3820|of reason]] [[Lexicon/H8501-8600#H8582|and makes them wander]] [[Lexicon/H3801-3900#H3808|in a trackless]] [[Lexicon/H1801-1900#H1870|...]] [[Lexicon/H8401-8500#H8414|wasteland.]]
 
 ##### Job 12 - 25
-[[Lexicon/H4901-5000#H4959|They grope]] [[Lexicon/H2801-2900#H2822|in the darkness]] [[Lexicon/H3801-3900#H3808|without]] [[Lexicon/H201-300#H216|light ;]] [[Lexicon/H8501-8600#H8582|He makes them stagger]] [[Lexicon/H7901-8000#H7910|like drunkards. [’’]]]
+[[Lexicon/H4901-5000#H4959|They grope]] [[Lexicon/H2801-2900#H2822|in the darkness]] [[Lexicon/H3801-3900#H3808|without]] [[Lexicon/H201-300#H216|light ;]] [[Lexicon/H8501-8600#H8582|He makes them stagger]] [[Lexicon/H7901-8000#H7910|like drunkards. (’’)]]
 

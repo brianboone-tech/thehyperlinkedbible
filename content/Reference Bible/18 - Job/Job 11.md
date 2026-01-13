@@ -19,13 +19,13 @@ cssClasses: lexicon
 [[Lexicon/H901-1000#H907|Should your babbling]] [[Lexicon/H4901-5000#H4962|put others]] [[Lexicon/H2701-2800#H2790|to silence ?]] [[Lexicon/H3901-4000#H3932|Will you scoff]] [[Lexicon/H301-400#H369|without]] [[Lexicon/H3601-3700#H3637|rebuke ?]]
 
 ##### Job 11 - 4
-[[Lexicon/H501-600#H559|You have said ,]] [[Lexicon/H3901-4000#H3948|‘ My doctrine [is]]] [[Lexicon/H2101-2200#H2134|sound ,]] [[Lexicon/H1901-2000#H1961|and I am]] [[Lexicon/H1201-1300#H1249|pure]] [[Lexicon/H5801-5900#H5869|in Your sight. ’]]
+[[Lexicon/H501-600#H559|You have said ,]] [[Lexicon/H3901-4000#H3948|‘ My doctrine (is)]] [[Lexicon/H2101-2200#H2134|sound ,]] [[Lexicon/H1901-2000#H1961|and I am]] [[Lexicon/H1201-1300#H1249|pure]] [[Lexicon/H5801-5900#H5869|in Your sight. ’]]
 
 ##### Job 11 - 5
 [[Lexicon/H101-200#H199|But]] [[Lexicon/H4301-4400#H4310|if only]] [[Lexicon/H5401-5500#H5414|...]] [[Lexicon/H401-500#H433|God]] [[Lexicon/H1601-1700#H1696|would speak]] [[Lexicon/H6601-6700#H6605|and open]] [[Lexicon/H8101-8200#H8193|His lips]] [[Lexicon/H5901-6000#H5973|against you ,]]
 
 ##### Job 11 - 6
-[[Lexicon/H5001-5100#H5046|and disclose]] [[Lexicon/H8501-8600#H8587|the secrets]] [[Lexicon/H2401-2500#H2451|of wisdom ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H8401-8500#H8454|true wisdom]] [[Lexicon/H3701-3800#H3718|has two sides.]] [[Lexicon/H3001-3100#H3045|Know]] [[Lexicon/H3501-3600#H3588|then that]] [[Lexicon/H401-500#H433|God]] [[Lexicon/H5301-5400#H5382|exActs -]] [[Lexicon/H5701-5800#H5771|[less] than your iniquity [deserves].]]
+[[Lexicon/H5001-5100#H5046|and disclose]] [[Lexicon/H8501-8600#H8587|the secrets]] [[Lexicon/H2401-2500#H2451|of wisdom ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H8401-8500#H8454|true wisdom]] [[Lexicon/H3701-3800#H3718|has two sides.]] [[Lexicon/H3001-3100#H3045|Know]] [[Lexicon/H3501-3600#H3588|then that]] [[Lexicon/H401-500#H433|God]] [[Lexicon/H5301-5400#H5382|exActs -]] [[Lexicon/H5701-5800#H5771|(less) than your iniquity (deserves).]]
 
 ##### Job 11 - 7
 [[Lexicon/H4601-4700#H4672|Can you fathom]] [[Lexicon/H2701-2800#H2714|the deep things]] [[Lexicon/H401-500#H433|of God]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H4601-4700#H4672|discover]] [[Lexicon/H8501-8600#H8503|the limits]] [[Lexicon/H7701-7800#H7706|of the Almighty ?]]
@@ -55,7 +55,7 @@ cssClasses: lexicon
 [[Lexicon/H201-300#H227|then]] [[Lexicon/H3501-3600#H3588|indeed]] [[Lexicon/H5301-5400#H5375|you will lift up]] [[Lexicon/H6401-6500#H6440|your face]] [[Lexicon/H3901-4000#H3971|without shame ;]] [[Lexicon/H1901-2000#H1961|you will]] [[Lexicon/H3301-3400#H3332|stand firm]] [[Lexicon/H3801-3900#H3808|and unafraid]] [[Lexicon/H3301-3400#H3372|....]]
 
 ##### Job 11 - 16
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H7901-8000#H7911|will forget]] [[Lexicon/H5901-6000#H5999|[your] misery ,]] [[Lexicon/H2101-2200#H2142|recalling]] [[Lexicon/H4301-4400#H4325|it only as waters]] [[Lexicon/H5601-5700#H5674|gone by.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H7901-8000#H7911|will forget]] [[Lexicon/H5901-6000#H5999|(your) misery ,]] [[Lexicon/H2101-2200#H2142|recalling]] [[Lexicon/H4301-4400#H4325|it only as waters]] [[Lexicon/H5601-5700#H5674|gone by.]]
 
 ##### Job 11 - 17
 [[Lexicon/H2401-2500#H2465|Your life]] [[Lexicon/H6901-7000#H6965|will be brighter]] [[Lexicon/H6601-6700#H6672|than noonday ;]] [[Lexicon/H5701-5800#H5774|its darkness]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H1201-1300#H1242|like the morning.]]

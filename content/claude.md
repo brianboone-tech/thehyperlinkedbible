@@ -56,4 +56,12 @@ This document tracks the work done with Claude Code on The Hyperlinked Bible pro
 - Reviewed project structure and confirmed understanding of the Quartz + Obsidian + GitHub Pages workflow
 - **Identified bracket rendering bug** - Wiki links with `[text]` in display text (e.g., `[[path|[the] will]]`) were not rendering as links on the website
 - **Fixed Colossians 1.md** as a test - Replaced square brackets `[text]` with parentheses `(text)` in wiki link display text (27 instances fixed)
-- **Pending**: If test succeeds, apply same fix to all Reference Bible files
+- **Test confirmed working** - User verified links now render correctly on the website
+- **Applied fix to all Reference Bible files** - Fixed 1,168 files (Genesis through Revelation)
+- **Updated Quartz color scheme** to match AnuPpuccin theme:
+  - Light mode: Rosé Pine Dawn palette with custom teal accent (#1A7DA4)
+  - Dark mode: Catppuccin Frappé palette with custom teal accent (#11B7C5)
+- **Added custom CSS** (`quartz/styles/custom.scss`):
+  - Header styling matching AnuPpuccin settings (H1 with divider, H3 green, weights)
+  - Lexicon page styling with teal-highlighted links
+  - Smooth color transitions and improved blockquotes

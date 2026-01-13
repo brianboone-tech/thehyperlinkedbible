@@ -1,3 +1,94 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Custom styles for The Hyperlinked Bible
+// Matching AnuPpuccin theme (Rosé Pine Light / Catppuccin Frappé)
+
+// ============================================
+// HEADER STYLING (matching AnuPpuccin settings)
+// ============================================
+
+h1 {
+  font-weight: 900;
+  line-height: 1.2;
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  font-weight: 100;
+  font-size: 1.9em;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 1.6em;
+  color: #40a02b; // Green accent for H3 (Catppuccin green)
+}
+
+:root[saved-theme="dark"] h3 {
+  color: #a6d189; // Frappé green for dark mode
+}
+
+h4, h5, h6 {
+  font-weight: 700;
+}
+
+h6 {
+  font-size: 1.1em;
+}
+
+// ============================================
+// LEXICON PAGE STYLING
+// ============================================
+
+// Style for pages with cssClasses: lexicon
+.lexicon {
+  // Internal links get a subtle teal background
+  a.internal {
+    background-color: rgba(26, 125, 164, 0.15);
+    padding: 0.05rem 0.2rem;
+    border-radius: 3px;
+    transition: background-color 0.2s ease;
+
+    &:hover {
+      background-color: rgba(26, 125, 164, 0.25);
+    }
+  }
+
+  // Verse headings (h5)
+  h5 {
+    color: var(--secondary);
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    font-size: 1.1em;
+  }
+}
+
+:root[saved-theme="dark"] .lexicon {
+  a.internal {
+    background-color: rgba(17, 183, 197, 0.15);
+
+    &:hover {
+      background-color: rgba(17, 183, 197, 0.25);
+    }
+  }
+}
+
+// ============================================
+// GENERAL ENHANCEMENTS
+// ============================================
+
+// Smoother color transitions
+a, button, .clickable-icon {
+  transition: color 0.2s ease, background-color 0.2s ease;
+}
+
+// Better blockquote styling
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background-color: var(--highlight);
+  padding: 0.5rem 1rem;
+  border-radius: 0 5px 5px 0;
+}

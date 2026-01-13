@@ -22,22 +22,22 @@ cssClasses: lexicon
 [[Lexicon/H3701-3800#H3701|We must buy]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H8301-8400#H8354|we drink ;]] [[Lexicon/H6001-6100#H6086|our wood]] [[Lexicon/H901-1000#H935|comes]] [[Lexicon/H4201-4300#H4242|at a price.]]
 
 ##### Lamentations 5 - 5
-[[Lexicon/H5901-6000#H5921|We are closely]] [[Lexicon/H6601-6700#H6677|...]] [[Lexicon/H7201-7300#H7291|pursued ;]] [[Lexicon/H3001-3100#H3021|we are weary]] [[Lexicon/H3801-3900#H3808|[and find] no]] [[Lexicon/H5101-5200#H5117|rest.]]
+[[Lexicon/H5901-6000#H5921|We are closely]] [[Lexicon/H6601-6700#H6677|...]] [[Lexicon/H7201-7300#H7291|pursued ;]] [[Lexicon/H3001-3100#H3021|we are weary]] [[Lexicon/H3801-3900#H3808|(and find) no]] [[Lexicon/H5101-5200#H5117|rest.]]
 
 ##### Lamentations 5 - 6
-[[Lexicon/H5401-5500#H5414|We submitted]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H4701-4800#H4714|to Egypt]] [[Lexicon/H801-900#H804|[and] Assyria]] [[Lexicon/H7601-7700#H7646|to get enough]] [[Lexicon/H3801-3900#H3899|bread.]]
+[[Lexicon/H5401-5500#H5414|We submitted]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H4701-4800#H4714|to Egypt]] [[Lexicon/H801-900#H804|(and) Assyria]] [[Lexicon/H7601-7700#H7646|to get enough]] [[Lexicon/H3801-3900#H3899|bread.]]
 
 ##### Lamentations 5 - 7
-[[Lexicon/H1-100#H1|Our fathers]] [[Lexicon/H2301-2400#H2398|sinned]] [[Lexicon/H301-400#H369|[and are] no more ,]] [[Lexicon/H501-600#H587|but we]] [[Lexicon/H5401-5500#H5445|bear]] [[Lexicon/H5701-5800#H5771|their punishment.]]
+[[Lexicon/H1-100#H1|Our fathers]] [[Lexicon/H2301-2400#H2398|sinned]] [[Lexicon/H301-400#H369|(and are) no more ,]] [[Lexicon/H501-600#H587|but we]] [[Lexicon/H5401-5500#H5445|bear]] [[Lexicon/H5701-5800#H5771|their punishment.]]
 
 ##### Lamentations 5 - 8
-[[Lexicon/H5601-5700#H5650|Slaves]] [[Lexicon/H4901-5000#H4910|rule]] [[Lexicon/H301-400#H369|[there is] no one]] [[Lexicon/H6501-6600#H6561|to deliver us]] [[Lexicon/H3001-3100#H3027|from their hands.]]
+[[Lexicon/H5601-5700#H5650|Slaves]] [[Lexicon/H4901-5000#H4910|rule]] [[Lexicon/H301-400#H369|(there is) no one]] [[Lexicon/H6501-6600#H6561|to deliver us]] [[Lexicon/H3001-3100#H3027|from their hands.]]
 
 ##### Lamentations 5 - 9
 [[Lexicon/H901-1000#H935|We get]] [[Lexicon/H3801-3900#H3899|our bread]] [[Lexicon/H5301-5400#H5315|at the risk of our lives]] [[Lexicon/H6401-6500#H6440|because of]] [[Lexicon/H2701-2800#H2719|the sword]] [[Lexicon/H4001-4100#H4057|in the wilderness.]]
 
 ##### Lamentations 5 - 10
-[[Lexicon/H5701-5800#H5785|Our skin]] [[Lexicon/H3601-3700#H3648|is as hot]] [[Lexicon/H8501-8600#H8574|as an oven]] [[Lexicon/H6401-6500#H6440|with]] [[Lexicon/H2101-2200#H2152|fever]] [[Lexicon/H7401-7500#H7458|from [our] hunger.]]
+[[Lexicon/H5701-5800#H5785|Our skin]] [[Lexicon/H3601-3700#H3648|is as hot]] [[Lexicon/H8501-8600#H8574|as an oven]] [[Lexicon/H6401-6500#H6440|with]] [[Lexicon/H2101-2200#H2152|fever]] [[Lexicon/H7401-7500#H7458|from (our) hunger.]]
 
 ##### Lamentations 5 - 11
 [[Lexicon/H801-900#H802|Women]] [[Lexicon/H6001-6100#H6031|have been ravished]] [[Lexicon/H6701-6800#H6726|in Zion ,]] [[Lexicon/H1301-1400#H1330|virgins]] [[Lexicon/H5801-5900#H5892|in the cities]] [[Lexicon/H3001-3100#H3063|of Judah.]]
@@ -49,7 +49,7 @@ cssClasses: lexicon
 [[Lexicon/H901-1000#H970|Young men]] [[Lexicon/H5301-5400#H5375|toil]] [[Lexicon/H2901-3000#H2911|at millstones ;]] [[Lexicon/H5201-5300#H5288|boys]] [[Lexicon/H3701-3800#H3782|stagger]] [[Lexicon/H6001-6100#H6086|under loads of wood.]]
 
 ##### Lamentations 5 - 14
-[[Lexicon/H2201-2300#H2205|The elders]] [[Lexicon/H7601-7700#H7673|have left]] [[Lexicon/H8101-8200#H8179|the city gate ;]] [[Lexicon/H901-1000#H970|the young men]] [[Lexicon/H5001-5100#H5058|[have stopped] their music.]]
+[[Lexicon/H2201-2300#H2205|The elders]] [[Lexicon/H7601-7700#H7673|have left]] [[Lexicon/H8101-8200#H8179|the city gate ;]] [[Lexicon/H901-1000#H970|the young men]] [[Lexicon/H5001-5100#H5058|(have stopped) their music.]]
 
 ##### Lamentations 5 - 15
 [[Lexicon/H4801-4900#H4885|Joy]] [[Lexicon/H7601-7700#H7673|has left]] [[Lexicon/H3801-3900#H3820|our hearts ;]] [[Lexicon/H4201-4300#H4234|our dancing]] [[Lexicon/H2001-2100#H2015|has turned]] [[Lexicon/H1-100#H60|to mourning.]]

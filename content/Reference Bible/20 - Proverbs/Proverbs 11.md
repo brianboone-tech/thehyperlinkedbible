@@ -49,34 +49,34 @@ cssClasses: lexicon
 [[Lexicon/H7301-7400#H7400|A gossip]] [[Lexicon/H1901-2000#H1980|vvv]] [[Lexicon/H1501-1600#H1540|reveals]] [[Lexicon/H5401-5500#H5475|a secret ,]] [[Lexicon/H501-600#H539|but a trustworthy]] [[Lexicon/H7301-7400#H7307|person]] [[Lexicon/H3601-3700#H3680|keeps]] [[Lexicon/H1601-1700#H1697|a confidence.]]
 
 ##### Proverbs 11 - 14
-[[Lexicon/H301-400#H369|For lack]] [[Lexicon/H8401-8500#H8458|of guidance ,]] [[Lexicon/H5901-6000#H5971|a nation]] [[Lexicon/H5301-5400#H5307|falls ,]] [[Lexicon/H7201-7300#H7230|but with many]] [[Lexicon/H3201-3300#H3289|counselors]] [[Lexicon/H8601-8674#H8668|[comes] deliverance.]]
+[[Lexicon/H301-400#H369|For lack]] [[Lexicon/H8401-8500#H8458|of guidance ,]] [[Lexicon/H5901-6000#H5971|a nation]] [[Lexicon/H5301-5400#H5307|falls ,]] [[Lexicon/H7201-7300#H7230|but with many]] [[Lexicon/H3201-3300#H3289|counselors]] [[Lexicon/H8601-8674#H8668|(comes) deliverance.]]
 
 ##### Proverbs 11 - 15
 [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H6101-6200#H6148|He who puts up security]] [[Lexicon/H2101-2200#H2114|for a stranger]] [[Lexicon/H7401-7500#H7451|will surely suffer]] [[Lexicon/H7401-7500#H7489|... ,]] [[Lexicon/H8101-8200#H8130|but the one who hates]] [[Lexicon/H8601-8674#H8628|indebtedness]] [[Lexicon/H901-1000#H982|is secure.]]
 
 ##### Proverbs 11 - 16
-[[Lexicon/H2501-2600#H2580|A gracious]] [[Lexicon/H801-900#H802|woman]] [[Lexicon/H8501-8600#H8551|attains]] [[Lexicon/H3501-3600#H3519|honor ,]] [[Lexicon/H6101-6200#H6184|but Ruth -less [men]]] [[Lexicon/H8501-8600#H8551|gain]] [[Lexicon/H6201-6300#H6239|only wealth.]]
+[[Lexicon/H2501-2600#H2580|A gracious]] [[Lexicon/H801-900#H802|woman]] [[Lexicon/H8501-8600#H8551|attains]] [[Lexicon/H3501-3600#H3519|honor ,]] [[Lexicon/H6101-6200#H6184|but Ruth -less (men)]] [[Lexicon/H8501-8600#H8551|gain]] [[Lexicon/H6201-6300#H6239|only wealth.]]
 
 ##### Proverbs 11 - 17
 [[Lexicon/H2601-2700#H2617|A kind]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H1501-1600#H1580|benefits]] [[Lexicon/H5301-5400#H5315|himself ,]] [[Lexicon/H301-400#H394|but a cruel man]] [[Lexicon/H5901-6000#H5916|brings trouble]] [[Lexicon/H7601-7700#H7607|on himself.]]
 
 ##### Proverbs 11 - 18
-[[Lexicon/H7501-7600#H7563|The wicked man]] [[Lexicon/H6201-6300#H6213|earns]] [[Lexicon/H8201-8300#H8267|an empty]] [[Lexicon/H6401-6500#H6468|wage ,]] [[Lexicon/H2201-2300#H2232|but he who sows]] [[Lexicon/H6601-6700#H6666|righteousness]] [[Lexicon/H501-600#H571|[reaps] a true]] [[Lexicon/H7901-8000#H7938|reward.]]
+[[Lexicon/H7501-7600#H7563|The wicked man]] [[Lexicon/H6201-6300#H6213|earns]] [[Lexicon/H8201-8300#H8267|an empty]] [[Lexicon/H6401-6500#H6468|wage ,]] [[Lexicon/H2201-2300#H2232|but he who sows]] [[Lexicon/H6601-6700#H6666|righteousness]] [[Lexicon/H501-600#H571|(reaps) a true]] [[Lexicon/H7901-8000#H7938|reward.]]
 
 ##### Proverbs 11 - 19
 [[Lexicon/H3601-3700#H3651|Genuine]] [[Lexicon/H6601-6700#H6666|righteousness]] [[Lexicon/H2401-2500#H2416|leads to life ,]] [[Lexicon/H7201-7300#H7291|but the pursuit]] [[Lexicon/H7401-7500#H7451|of evil]] [[Lexicon/H4101-4200#H4194|brings death.]]
 
 ##### Proverbs 11 - 20
-[[Lexicon/H6101-6200#H6141|The perverse]] [[Lexicon/H3801-3900#H3820|in heart]] [[Lexicon/H8401-8500#H8441|are an abomination]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H8501-8600#H8549|but the blameless]] [[Lexicon/H1801-1900#H1870|in [their] walk]] [[Lexicon/H7501-7600#H7522|are His delight.]]
+[[Lexicon/H6101-6200#H6141|The perverse]] [[Lexicon/H3801-3900#H3820|in heart]] [[Lexicon/H8401-8500#H8441|are an abomination]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H8501-8600#H8549|but the blameless]] [[Lexicon/H1801-1900#H1870|in (their) walk]] [[Lexicon/H7501-7600#H7522|are His delight.]]
 
 ##### Proverbs 11 - 21
 [[Lexicon/H3001-3100#H3027|Be assured]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H7401-7500#H7451|that the wicked]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H5301-5400#H5352|go unpunished ,]] [[Lexicon/H2201-2300#H2233|but the offspring]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H4401-4500#H4422|will escape.]]
 
 ##### Proverbs 11 - 22
-[[Lexicon/H2001-2100#H2091|Like a gold]] [[Lexicon/H5101-5200#H5141|ring]] [[Lexicon/H2301-2400#H2386|in a pig’s]] [[Lexicon/H601-700#H639|snout]] [[Lexicon/H3301-3400#H3303|[is] a beautiful]] [[Lexicon/H801-900#H802|woman]] [[Lexicon/H5401-5500#H5493|who lacks]] [[Lexicon/H2901-3000#H2940|discretion.]]
+[[Lexicon/H2001-2100#H2091|Like a gold]] [[Lexicon/H5101-5200#H5141|ring]] [[Lexicon/H2301-2400#H2386|in a pig’s]] [[Lexicon/H601-700#H639|snout]] [[Lexicon/H3301-3400#H3303|(is) a beautiful]] [[Lexicon/H801-900#H802|woman]] [[Lexicon/H5401-5500#H5493|who lacks]] [[Lexicon/H2901-3000#H2940|discretion.]]
 
 ##### Proverbs 11 - 23
-[[Lexicon/H8301-8400#H8378|The desire]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H301-400#H389|leads only]] [[Lexicon/H2801-2900#H2896|to good ,]] [[Lexicon/H8601-8674#H8615|but the hope]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H5601-5700#H5678|[brings] wrath.]]
+[[Lexicon/H8301-8400#H8378|The desire]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H301-400#H389|leads only]] [[Lexicon/H2801-2900#H2896|to good ,]] [[Lexicon/H8601-8674#H8615|but the hope]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H5601-5700#H5678|(brings) wrath.]]
 
 ##### Proverbs 11 - 24
 [[Lexicon/H3401-3500#H3426|-]] [[Lexicon/H6301-6400#H6340|One gives freely ,]] [[Lexicon/H3201-3300#H3254|yet gains]] [[Lexicon/H5701-5800#H5750|even more ;]] [[Lexicon/H2801-2900#H2820|another withholds]] [[Lexicon/H3401-3500#H3476|what is right ,]] [[Lexicon/H301-400#H389|only]] [[Lexicon/H4201-4300#H4270|to become poor.]]
@@ -97,7 +97,7 @@ cssClasses: lexicon
 [[Lexicon/H5901-6000#H5916|He who brings trouble]] [[Lexicon/H1001-1100#H1004|on his house]] [[Lexicon/H5101-5200#H5157|will inherit]] [[Lexicon/H7301-7400#H7307|the wind ,]] [[Lexicon/H101-200#H191|and the fool]] [[Lexicon/H5601-5700#H5650|will be servant]] [[Lexicon/H2401-2500#H2450|to the wise]] [[Lexicon/H3801-3900#H3820|of heart.]]
 
 ##### Proverbs 11 - 30
-[[Lexicon/H6501-6600#H6529|The fruit]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H6001-6100#H6086|is a tree]] [[Lexicon/H2401-2500#H2416|of life ,]] [[Lexicon/H3901-4000#H3947|and he who wins]] [[Lexicon/H5301-5400#H5315|souls]] [[Lexicon/H2401-2500#H2450|[is] wise.]]
+[[Lexicon/H6501-6600#H6529|The fruit]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H6001-6100#H6086|is a tree]] [[Lexicon/H2401-2500#H2416|of life ,]] [[Lexicon/H3901-4000#H3947|and he who wins]] [[Lexicon/H5301-5400#H5315|souls]] [[Lexicon/H2401-2500#H2450|(is) wise.]]
 
 ##### Proverbs 11 - 31
 [[Lexicon/H2001-2100#H2005|If]] [[Lexicon/H6601-6700#H6662|the righteous]] [[Lexicon/H7901-8000#H7999|receive their due]] [[Lexicon/H701-800#H776|on earth ,]] [[Lexicon/H601-700#H637|how much more]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H7501-7600#H7563|the ungodly]] [[Lexicon/H2301-2400#H2398|and the sinner !]]

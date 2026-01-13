@@ -25,7 +25,7 @@ cssClasses: lexicon
 [[Lexicon/H7001-7100#H7069|Get]] [[Lexicon/H2401-2500#H2451|wisdom ,]] [[Lexicon/H7001-7100#H7069|get]] [[Lexicon/H901-1000#H998|understanding ;]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H7901-8000#H7911|forget]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H501-600#H561|my words]] [[Lexicon/H6301-6400#H6310|...]] [[Lexicon/H5101-5200#H5186|or turn from them.]]
 
 ##### Proverbs 4 - 6
-[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H5701-5800#H5800|forsake [wisdom] ,]] [[Lexicon/H8101-8200#H8104|and she will preserve you ;]] [[Lexicon/H101-200#H157|love her ,]] [[Lexicon/H5301-5400#H5341|and she will guard you.]]
+[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H5701-5800#H5800|forsake (wisdom) ,]] [[Lexicon/H8101-8200#H8104|and she will preserve you ;]] [[Lexicon/H101-200#H157|love her ,]] [[Lexicon/H5301-5400#H5341|and she will guard you.]]
 
 ##### Proverbs 4 - 7
 [[Lexicon/H2401-2500#H2451|Wisdom]] [[Lexicon/H7201-7300#H7225|is supreme ;]] [[Lexicon/H7001-7100#H7069|so acquire]] [[Lexicon/H2401-2500#H2451|wisdom.]] [[Lexicon/H3601-3700#H3605|And whatever]] [[Lexicon/H7001-7100#H7075|you may acquire ,]] [[Lexicon/H7001-7100#H7069|gain]] [[Lexicon/H901-1000#H998|understanding.]]
@@ -49,7 +49,7 @@ cssClasses: lexicon
 [[Lexicon/H2301-2400#H2388|Hold on]] [[Lexicon/H4101-4200#H4148|to instruction ;]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H7501-7600#H7503|let go.]] [[Lexicon/H5301-5400#H5341|Guard it ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H2401-2500#H2416|is your life.]]
 
 ##### Proverbs 4 - 14
-[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H901-1000#H935|set foot]] [[Lexicon/H701-800#H734|on the path]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H401-500#H408|[or]]] [[Lexicon/H801-900#H833|walk]] [[Lexicon/H1801-1900#H1870|in the way]] [[Lexicon/H7401-7500#H7451|of evildoers.]]
+[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H901-1000#H935|set foot]] [[Lexicon/H701-800#H734|on the path]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H401-500#H408|(or)]] [[Lexicon/H801-900#H833|walk]] [[Lexicon/H1801-1900#H1870|in the way]] [[Lexicon/H7401-7500#H7451|of evildoers.]]
 
 ##### Proverbs 4 - 15
 [[Lexicon/H6501-6600#H6544|Avoid it ;]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H5601-5700#H5674|travel]] [[Lexicon/H7801-7900#H7847|Turn]] [[Lexicon/H5901-6000#H5921|from it]] [[Lexicon/H5601-5700#H5674|and pass on by.]]

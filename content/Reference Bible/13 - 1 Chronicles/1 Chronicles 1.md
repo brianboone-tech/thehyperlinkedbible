@@ -21,7 +21,7 @@ Book: 1 Chronicles
 [[Lexicon/H2501-2600#H2585|Enoch ,]] [[Lexicon/H4901-5000#H4968|Methuselah ,]] [[Lexicon/H3901-4000#H3929|Lamech.]]
 
 ##### 1 Chronicles 1 - 4
-[[Lexicon/H5101-5200#H5146|[The sons of] Noah :]] [[Lexicon/H8001-8100#H8035|Shem ,]] [[Lexicon/H2501-2600#H2526|Ham ,]] [[Lexicon/H3301-3400#H3315|and Japheth.]]
+[[Lexicon/H5101-5200#H5146|(The sons of) Noah :]] [[Lexicon/H8001-8100#H8035|Shem ,]] [[Lexicon/H2501-2600#H2526|Ham ,]] [[Lexicon/H3301-3400#H3315|and Japheth.]]
 
 ##### 1 Chronicles 1 - 5
 [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H3301-3400#H3315|of Japheth :]] [[Lexicon/H1501-1600#H1586|Gomer ,]] [[Lexicon/H4001-4100#H4031|Magog ,]] [[Lexicon/H4001-4100#H4074|Madai ,]] [[Lexicon/H3101-3200#H3120|Javan ,]] [[Lexicon/H8401-8500#H8422|Tubal ,]] [[Lexicon/H4901-5000#H4902|Meshech ,]] [[Lexicon/H8401-8500#H8494|and Tiras.]]
@@ -60,7 +60,7 @@ Book: 1 Chronicles
 [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H721|the Arvadites ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6701-6800#H6786|the Zemarites ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2501-2600#H2577|and the Hamathites.]]
 
 ##### 1 Chronicles 1 - 17
-[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H8001-8100#H8035|of Shem :]] [[Lexicon/H5801-5900#H5867|Elam ,]] [[Lexicon/H801-900#H804|Asshur ,]] [[Lexicon/H701-800#H775|Arphaxad ,]] [[Lexicon/H3801-3900#H3865|Lud ,]] [[Lexicon/H701-800#H758|and Aram. [The sons of Aram:]]] [[Lexicon/H5701-5800#H5780|Uz ,]] [[Lexicon/H2301-2400#H2343|Hul ,]] [[Lexicon/H1601-1700#H1666|Gether ,]] [[Lexicon/H4901-5000#H4902|and Meshech.]]
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H8001-8100#H8035|of Shem :]] [[Lexicon/H5801-5900#H5867|Elam ,]] [[Lexicon/H801-900#H804|Asshur ,]] [[Lexicon/H701-800#H775|Arphaxad ,]] [[Lexicon/H3801-3900#H3865|Lud ,]] [[Lexicon/H701-800#H758|and Aram. (The sons of Aram:)]] [[Lexicon/H5701-5800#H5780|Uz ,]] [[Lexicon/H2301-2400#H2343|Hul ,]] [[Lexicon/H1601-1700#H1666|Gether ,]] [[Lexicon/H4901-5000#H4902|and Meshech.]]
 
 ##### 1 Chronicles 1 - 18
 [[Lexicon/H701-800#H775|Arphaxad]] [[Lexicon/H3201-3300#H3205|was the father of]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7974|Shelah ,]] [[Lexicon/H7901-8000#H7974|and Shelah]] [[Lexicon/H3201-3300#H3205|was the father of]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5601-5700#H5677|Eber.]]
@@ -81,7 +81,7 @@ Book: 1 Chronicles
 [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H211|Ophir ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2301-2400#H2341|Havilah ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3103|and Job -ab.]] [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H1101-1200#H1121|were sons]] [[Lexicon/H3301-3400#H3355|of Joktan.]]
 
 ##### 1 Chronicles 1 - 24
-[[Lexicon/H8001-8100#H8035|[So from] Shem [came]]] [[Lexicon/H701-800#H775|Arphaxad ,]] [[Lexicon/H7901-8000#H7974|Shelah ,]]
+[[Lexicon/H8001-8100#H8035|(So from) Shem (came)]] [[Lexicon/H701-800#H775|Arphaxad ,]] [[Lexicon/H7901-8000#H7974|Shelah ,]]
 
 ##### 1 Chronicles 1 - 25
 [[Lexicon/H5601-5700#H5677|Eber ,]] [[Lexicon/H6301-6400#H6389|Peleg ,]] [[Lexicon/H7401-7500#H7466|Reu ,]]
@@ -93,10 +93,10 @@ Book: 1 Chronicles
 [[Lexicon/H1-100#H87|and Abram]] [[Lexicon/H1901-2000#H1931|(that is ,]] [[Lexicon/H1-100#H85|Abraham ).]]
 
 ##### 1 Chronicles 1 - 28
-[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H1-100#H85|of Abraham]] [[Lexicon/H3301-3400#H3327|[were] Isaac]] [[Lexicon/H3401-3500#H3458|and Ishmael.]]
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H1-100#H85|of Abraham]] [[Lexicon/H3301-3400#H3327|(were) Isaac]] [[Lexicon/H3401-3500#H3458|and Ishmael.]]
 
 ##### 1 Chronicles 1 - 29
-[[Lexicon/H401-500#H428|These [are]]] [[Lexicon/H8401-8500#H8435|their genealogies :]] [[Lexicon/H5001-5100#H5032|Nebaioth]] [[Lexicon/H1001-1100#H1060|the firstborn]] [[Lexicon/H3401-3500#H3458|of Ishmael ,]] [[Lexicon/H6901-7000#H6938|then Kedar ,]] [[Lexicon/H101-200#H110|Adbeel ,]] [[Lexicon/H4001-4100#H4017|Mibsam ,]]
+[[Lexicon/H401-500#H428|These (are)]] [[Lexicon/H8401-8500#H8435|their genealogies :]] [[Lexicon/H5001-5100#H5032|Nebaioth]] [[Lexicon/H1001-1100#H1060|the firstborn]] [[Lexicon/H3401-3500#H3458|of Ishmael ,]] [[Lexicon/H6901-7000#H6938|then Kedar ,]] [[Lexicon/H101-200#H110|Adbeel ,]] [[Lexicon/H4001-4100#H4017|Mibsam ,]]
 
 ##### 1 Chronicles 1 - 30
 [[Lexicon/H4901-5000#H4927|Mishma ,]] [[Lexicon/H1701-1800#H1746|Dumah ,]] [[Lexicon/H4801-4900#H4854|Massa ,]] [[Lexicon/H2301-2400#H2301|Hadad ,]] [[Lexicon/H8401-8500#H8485|Tema ,]]
@@ -138,7 +138,7 @@ Book: 1 Chronicles
 [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H601-700#H687|of Ezer :]] [[Lexicon/H1001-1100#H1092|Bilhan ,]] [[Lexicon/H2101-2200#H2190|Zaavan ,]] [[Lexicon/H3201-3300#H3292|and Akan.]] [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H1701-1800#H1787|of Dishan :]] [[Lexicon/H5701-5800#H5780|Uz]] [[Lexicon/H701-800#H765|and Aran.]]
 
 ##### 1 Chronicles 1 - 43
-[[Lexicon/H401-500#H428|These [are]]] [[Lexicon/H4401-4500#H4428|the kings]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4401-4500#H4427|reigned]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H101-200#H123|of Edom]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H4401-4500#H4428|any king]] [[Lexicon/H4401-4500#H4427|reigned]] [[Lexicon/H1101-1200#H1121|over the Israelites]] [[Lexicon/H3401-3500#H3478|... :]] [[Lexicon/H1101-1200#H1106|Bela]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1160|of Beor.]] [[Lexicon/H5801-5900#H5892|His city]] [[Lexicon/H8001-8100#H8034|was named]] [[Lexicon/H1801-1900#H1838|Dinhabah.]]
+[[Lexicon/H401-500#H428|These (are)]] [[Lexicon/H4401-4500#H4428|the kings]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4401-4500#H4427|reigned]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H101-200#H123|of Edom]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H4401-4500#H4428|any king]] [[Lexicon/H4401-4500#H4427|reigned]] [[Lexicon/H1101-1200#H1121|over the Israelites]] [[Lexicon/H3401-3500#H3478|... :]] [[Lexicon/H1101-1200#H1106|Bela]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1160|of Beor.]] [[Lexicon/H5801-5900#H5892|His city]] [[Lexicon/H8001-8100#H8034|was named]] [[Lexicon/H1801-1900#H1838|Dinhabah.]]
 
 ##### 1 Chronicles 1 - 44
 [[Lexicon/H1101-1200#H1106|When Bela]] [[Lexicon/H4101-4200#H4191|died ,]] [[Lexicon/H3101-3200#H3103|Job -ab]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H2201-2300#H2226|of Zerah]] [[Lexicon/H1201-1300#H1224|from Bozrah]] [[Lexicon/H4401-4500#H4427|reigned]] [[Lexicon/H8401-8500#H8478|in his place.]]
@@ -162,7 +162,7 @@ Book: 1 Chronicles
 [[Lexicon/H1101-1200#H1177|When Baal-hanan]] [[Lexicon/H4101-4200#H4191|died]] [[Lexicon/H1101-1200#H1177|,]] [[Lexicon/H1901-2000#H1908|Hadad]] [[Lexicon/H4401-4500#H4427|reigned]] [[Lexicon/H8401-8500#H8478|in his place.]] [[Lexicon/H5801-5900#H5892|His city]] [[Lexicon/H8001-8100#H8034|was named]] [[Lexicon/H6401-6500#H6464|Pau ,]] [[Lexicon/H801-900#H802|and his wife’s]] [[Lexicon/H8001-8100#H8034|name]] [[Lexicon/H4101-4200#H4105|was Mehetabel]] [[Lexicon/H1301-1400#H1323|daughter]] [[Lexicon/H4301-4400#H4308|of Matred ,]] [[Lexicon/H1301-1400#H1323|the daughter]] [[Lexicon/H4301-4400#H4314|vvv]] [[Lexicon/H4301-4400#H4314|of Me-zahab.]]
 
 ##### 1 Chronicles 1 - 51
-[[Lexicon/H1901-2000#H1908|Then Hadad]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H4101-4200#H4191|died.]] [[Lexicon/H401-500#H441|Now the chiefs]] [[Lexicon/H101-200#H123|of Edom [were]]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H8501-8600#H8555|Timna ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H5901-6000#H5933|Alvah ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H3501-3600#H3509|Jetheth ,]]
+[[Lexicon/H1901-2000#H1908|Then Hadad]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H4101-4200#H4191|died.]] [[Lexicon/H401-500#H441|Now the chiefs]] [[Lexicon/H101-200#H123|of Edom (were)]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H8501-8600#H8555|Timna ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H5901-6000#H5933|Alvah ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H3501-3600#H3509|Jetheth ,]]
 
 ##### 1 Chronicles 1 - 52
 [[Lexicon/H401-500#H441|-]] [[Lexicon/H101-200#H173|Oholibamah ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H401-500#H425|Elah ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H6301-6400#H6373|Pinon ,]]
@@ -171,4 +171,4 @@ Book: 1 Chronicles
 [[Lexicon/H401-500#H441|-]] [[Lexicon/H7001-7100#H7073|Kenaz ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H8401-8500#H8487|Teman ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H4001-4100#H4014|Mibzar ,]]
 
 ##### 1 Chronicles 1 - 54
-[[Lexicon/H401-500#H441|-]] [[Lexicon/H4001-4100#H4025|Magdiel ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H5901-6000#H5902|and Iram.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H401-500#H441|[were] the chiefs]] [[Lexicon/H101-200#H123|of Edom.]]
+[[Lexicon/H401-500#H441|-]] [[Lexicon/H4001-4100#H4025|Magdiel ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H5901-6000#H5902|and Iram.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H401-500#H441|(were) the chiefs]] [[Lexicon/H101-200#H123|of Edom.]]

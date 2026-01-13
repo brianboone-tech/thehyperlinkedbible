@@ -18,10 +18,10 @@ Book: 2 Samuel
 [[Lexicon/H501-600#H559|He said :]] [[Lexicon/H3001-3100#H3068|“ The LORD]] [[Lexicon/H5501-5600#H5553|is my rock ,]] [[Lexicon/H4601-4700#H4686|my fortress ,]] [[Lexicon/H6401-6500#H6403|and my deliverer]]
 
 ##### 2 Samuel 22 - 3
-[[Lexicon/H401-500#H430|My God [is]]] [[Lexicon/H6601-6700#H6697|my rock ,]] [[Lexicon/H2601-2700#H2620|in whom I take refuge]] [[Lexicon/H4001-4100#H4043|my shield ,]] [[Lexicon/H7101-7200#H7161|and the horn]] [[Lexicon/H3401-3500#H3468|of my salvation.]] [[Lexicon/H4801-4900#H4869|My stronghold ,]] [[Lexicon/H4401-4500#H4498|my refuge ,]] [[Lexicon/H3401-3500#H3467|and my Savior ,]] [[Lexicon/H3401-3500#H3467|You save me]] [[Lexicon/H2501-2600#H2555|from violence.]]
+[[Lexicon/H401-500#H430|My God (is)]] [[Lexicon/H6601-6700#H6697|my rock ,]] [[Lexicon/H2601-2700#H2620|in whom I take refuge]] [[Lexicon/H4001-4100#H4043|my shield ,]] [[Lexicon/H7101-7200#H7161|and the horn]] [[Lexicon/H3401-3500#H3468|of my salvation.]] [[Lexicon/H4801-4900#H4869|My stronghold ,]] [[Lexicon/H4401-4500#H4498|my refuge ,]] [[Lexicon/H3401-3500#H3467|and my Savior ,]] [[Lexicon/H3401-3500#H3467|You save me]] [[Lexicon/H2501-2600#H2555|from violence.]]
 
 ##### 2 Samuel 22 - 4
-[[Lexicon/H7101-7200#H7121|I will call upon]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H1901-2000#H1984|[who is worthy] to be praised ;]] [[Lexicon/H3401-3500#H3467|so shall I be saved]] [[Lexicon/H301-400#H341|from my enemies.]]
+[[Lexicon/H7101-7200#H7121|I will call upon]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H1901-2000#H1984|(who is worthy) to be praised ;]] [[Lexicon/H3401-3500#H3467|so shall I be saved]] [[Lexicon/H301-400#H341|from my enemies.]]
 
 ##### 2 Samuel 22 - 5
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4801-4900#H4867|the waves]] [[Lexicon/H4101-4200#H4194|of death]] [[Lexicon/H601-700#H661|engulfed me ;]] [[Lexicon/H5101-5200#H5158|the torrents]] [[Lexicon/H1001-1100#H1100|of chaos]] [[Lexicon/H1201-1300#H1204|overwhelmed me.]]
@@ -54,10 +54,10 @@ Book: 2 Samuel
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H7401-7500#H7481|thundered]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H8001-8100#H8064|heaven ;]] [[Lexicon/H6901-7000#H6963|the voice]] [[Lexicon/H5901-6000#H5945|of the Most High]] [[Lexicon/H5401-5500#H5414|resounded.]]
 
 ##### 2 Samuel 22 - 15
-[[Lexicon/H7901-8000#H7971|He shot]] [[Lexicon/H2601-2700#H2671|His arrows]] [[Lexicon/H6301-6400#H6327|and scattered [the foes] ;]] [[Lexicon/H1201-1300#H1300|He hurled lightning]] [[Lexicon/H1901-2000#H2000|and routed them.]]
+[[Lexicon/H7901-8000#H7971|He shot]] [[Lexicon/H2601-2700#H2671|His arrows]] [[Lexicon/H6301-6400#H6327|and scattered (the foes) ;]] [[Lexicon/H1201-1300#H1300|He hurled lightning]] [[Lexicon/H1901-2000#H2000|and routed them.]]
 
 ##### 2 Samuel 22 - 16
-[[Lexicon/H601-700#H650|The channels]] [[Lexicon/H3201-3300#H3220|of the sea]] [[Lexicon/H7101-7200#H7200|appeared ,]] [[Lexicon/H4101-4200#H4146|[and] the foundations]] [[Lexicon/H8301-8400#H8398|of the world]] [[Lexicon/H1501-1600#H1540|were exposed]] [[Lexicon/H1601-1700#H1606|at the rebuke]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H5301-5400#H5397|at the blast]] [[Lexicon/H7301-7400#H7307|of the breath]] [[Lexicon/H601-700#H639|of His nostrils.]]
+[[Lexicon/H601-700#H650|The channels]] [[Lexicon/H3201-3300#H3220|of the sea]] [[Lexicon/H7101-7200#H7200|appeared ,]] [[Lexicon/H4101-4200#H4146|(and) the foundations]] [[Lexicon/H8301-8400#H8398|of the world]] [[Lexicon/H1501-1600#H1540|were exposed]] [[Lexicon/H1601-1700#H1606|at the rebuke]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H5301-5400#H5397|at the blast]] [[Lexicon/H7301-7400#H7307|of the breath]] [[Lexicon/H601-700#H639|of His nostrils.]]
 
 ##### 2 Samuel 22 - 17
 [[Lexicon/H7901-8000#H7971|He reached down]] [[Lexicon/H4701-4800#H4791|from on high]] [[Lexicon/H3901-4000#H3947|and took hold of me ;]] [[Lexicon/H4801-4900#H4871|He drew me]] [[Lexicon/H7201-7300#H7227|out of deep]] [[Lexicon/H4301-4400#H4325|waters.]]
@@ -78,7 +78,7 @@ Book: 2 Samuel
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H8101-8200#H8104|I have kept]] [[Lexicon/H1801-1900#H1870|the ways]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H3801-3900#H3808|and have not]] [[Lexicon/H7501-7600#H7561|wickedly departed]] [[Lexicon/H401-500#H430|from my God.]]
 
 ##### 2 Samuel 22 - 23
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4901-5000#H4941|His ordinances [are]]] [[Lexicon/H5001-5100#H5048|before me ;]] [[Lexicon/H3801-3900#H3808|I have not]] [[Lexicon/H5401-5500#H5493|disregarded]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H2701-2800#H2708|His statutes.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4901-5000#H4941|His ordinances (are)]] [[Lexicon/H5001-5100#H5048|before me ;]] [[Lexicon/H3801-3900#H3808|I have not]] [[Lexicon/H5401-5500#H5493|disregarded]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H2701-2800#H2708|His statutes.]]
 
 ##### 2 Samuel 22 - 24
 [[Lexicon/H1901-2000#H1961|And I]] [[Lexicon/H8501-8600#H8549|have been blameless]] [[Lexicon/H8101-8200#H8104|and kept myself]] [[Lexicon/H5701-5800#H5771|from iniquity.]]
@@ -93,7 +93,7 @@ Book: 2 Samuel
 [[Lexicon/H5901-6000#H5973|to]] [[Lexicon/H1301-1400#H1305|the pure]] [[Lexicon/H1301-1400#H1305|You show Yourself pure ,]] [[Lexicon/H5901-6000#H5973|but to]] [[Lexicon/H6101-6200#H6141|the crooked]] [[Lexicon/H6601-6700#H6617|You show Yourself shrewd.]]
 
 ##### 2 Samuel 22 - 28
-[[Lexicon/H801-900#H853|-]] [[Lexicon/H3401-3500#H3467|You save]] [[Lexicon/H6001-6100#H6041|an afflicted]] [[Lexicon/H5901-6000#H5971|people ,]] [[Lexicon/H5801-5900#H5869|but Your eyes]] [[Lexicon/H5901-6000#H5921|are on]] [[Lexicon/H7301-7400#H7311|the haughty]] [[Lexicon/H8201-8300#H8213|to bring [them] down.]]
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H3401-3500#H3467|You save]] [[Lexicon/H6001-6100#H6041|an afflicted]] [[Lexicon/H5901-6000#H5971|people ,]] [[Lexicon/H5801-5900#H5869|but Your eyes]] [[Lexicon/H5901-6000#H5921|are on]] [[Lexicon/H7301-7400#H7311|the haughty]] [[Lexicon/H8201-8300#H8213|to bring (them) down.]]
 
 ##### 2 Samuel 22 - 29
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H801-900#H859|You ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H5201-5300#H5216|are my lamp ;]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5001-5100#H5050|lights up]] [[Lexicon/H2801-2900#H2822|my darkness.]]
@@ -102,10 +102,10 @@ Book: 2 Samuel
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H7301-7400#H7323|I can charge]] [[Lexicon/H1401-1500#H1416|an army ;]] [[Lexicon/H401-500#H430|with my God]] [[Lexicon/H1801-1900#H1801|I can scale]] [[Lexicon/H7701-7800#H7791|a wall.]]
 
 ##### 2 Samuel 22 - 31
-[[Lexicon/H401-500#H410|[As for] God ,]] [[Lexicon/H1801-1900#H1870|His way]] [[Lexicon/H8501-8600#H8549|is perfect ;]] [[Lexicon/H501-600#H565|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H6801-6900#H6884|is flawless.]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H4001-4100#H4043|is a shield]] [[Lexicon/H3601-3700#H3605|to all]] [[Lexicon/H2601-2700#H2620|who take refuge]]
+[[Lexicon/H401-500#H410|(As for) God ,]] [[Lexicon/H1801-1900#H1870|His way]] [[Lexicon/H8501-8600#H8549|is perfect ;]] [[Lexicon/H501-600#H565|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H6801-6900#H6884|is flawless.]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H4001-4100#H4043|is a shield]] [[Lexicon/H3601-3700#H3605|to all]] [[Lexicon/H2601-2700#H2620|who take refuge]]
 
 ##### 2 Samuel 22 - 32
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4301-4400#H4310|who]] [[Lexicon/H401-500#H410|is God]] [[Lexicon/H1101-1200#H1107|besides]] [[Lexicon/H3001-3100#H3068|the LORD ?]] [[Lexicon/H4301-4400#H4310|And who]] [[Lexicon/H6601-6700#H6697|[is] the Rock]] [[Lexicon/H1101-1200#H1107|except]] [[Lexicon/H401-500#H430|our God ?]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4301-4400#H4310|who]] [[Lexicon/H401-500#H410|is God]] [[Lexicon/H1101-1200#H1107|besides]] [[Lexicon/H3001-3100#H3068|the LORD ?]] [[Lexicon/H4301-4400#H4310|And who]] [[Lexicon/H6601-6700#H6697|(is) the Rock]] [[Lexicon/H1101-1200#H1107|except]] [[Lexicon/H401-500#H430|our God ?]]
 
 ##### 2 Samuel 22 - 33
 [[Lexicon/H401-500#H410|God]] [[Lexicon/H2401-2500#H2428|is my strong]] [[Lexicon/H4501-4600#H4581|fortress]] [[Lexicon/H5401-5500#H5425|and He makes]] [[Lexicon/H1801-1900#H1870|my way]] [[Lexicon/H8501-8600#H8549|clear.]]
@@ -135,7 +135,7 @@ Book: 2 Samuel
 [[Lexicon/H5401-5500#H5414|You have made]] [[Lexicon/H301-400#H341|my enemies]] [[Lexicon/H6201-6300#H6203|retreat]] [[Lexicon/H6701-6800#H6789|I put an end]] [[Lexicon/H8101-8200#H8130|to those who hated me.]]
 
 ##### 2 Samuel 22 - 42
-[[Lexicon/H8101-8200#H8159|They looked ,]] [[Lexicon/H301-400#H369|but [there was] no one]] [[Lexicon/H3401-3500#H3467|to save them —]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3801-3900#H3808|but He did not]] [[Lexicon/H6001-6100#H6030|answer.]]
+[[Lexicon/H8101-8200#H8159|They looked ,]] [[Lexicon/H301-400#H369|but (there was) no one]] [[Lexicon/H3401-3500#H3467|to save them —]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3801-3900#H3808|but He did not]] [[Lexicon/H6001-6100#H6030|answer.]]
 
 ##### 2 Samuel 22 - 43
 [[Lexicon/H7801-7900#H7833|I ground them]] [[Lexicon/H6001-6100#H6083|as the dust]] [[Lexicon/H701-800#H776|of the earth ;]] [[Lexicon/H1801-1900#H1854|I crushed]] [[Lexicon/H7501-7600#H7554|and trampled them]] [[Lexicon/H2901-3000#H2916|like mud]] [[Lexicon/H2301-2400#H2351|in the streets.]]
@@ -150,7 +150,7 @@ Book: 2 Samuel
 [[Lexicon/H1101-1200#H1121|Foreigners]] [[Lexicon/H5201-5300#H5236|...]] [[Lexicon/H5001-5100#H5034|lose heart]] [[Lexicon/H2201-2300#H2296|and come trembling]] [[Lexicon/H4501-4600#H4526|from their strongholds.]]
 
 ##### 2 Samuel 22 - 47
-[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H2401-2500#H2416|lives ,]] [[Lexicon/H1201-1300#H1288|and blessed [be]]] [[Lexicon/H6601-6700#H6697|my Rock !]] [[Lexicon/H401-500#H430|And may God ,]] [[Lexicon/H6601-6700#H6697|the Rock]] [[Lexicon/H3401-3500#H3468|of my salvation ,]] [[Lexicon/H7301-7400#H7311|be exalted —]]
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H2401-2500#H2416|lives ,]] [[Lexicon/H1201-1300#H1288|and blessed (be)]] [[Lexicon/H6601-6700#H6697|my Rock !]] [[Lexicon/H401-500#H430|And may God ,]] [[Lexicon/H6601-6700#H6697|the Rock]] [[Lexicon/H3401-3500#H3468|of my salvation ,]] [[Lexicon/H7301-7400#H7311|be exalted —]]
 
 ##### 2 Samuel 22 - 48
 [[Lexicon/H401-500#H410|the God]] [[Lexicon/H5401-5500#H5414|who avenges]] [[Lexicon/H5301-5400#H5360|...]] [[Lexicon/H3301-3400#H3381|and brings down]] [[Lexicon/H5901-6000#H5971|nations]] [[Lexicon/H8401-8500#H8478|beneath me ,]]

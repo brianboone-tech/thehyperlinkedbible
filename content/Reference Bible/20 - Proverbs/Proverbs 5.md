@@ -16,7 +16,7 @@ cssClasses: lexicon
 [[Lexicon/H8101-8200#H8104|that you may maintain]] [[Lexicon/H4201-4300#H4209|discretion]] [[Lexicon/H8101-8200#H8193|and your lips]] [[Lexicon/H5301-5400#H5341|may preserve]] [[Lexicon/H1801-1900#H1847|knowledge.]]
 
 ##### Proverbs 5 - 3
-[[Lexicon/H3501-3600#H3588|Though]] [[Lexicon/H8101-8200#H8193|the lips]] [[Lexicon/H2101-2200#H2114|of the forbidden woman]] [[Lexicon/H5101-5200#H5197|drip]] [[Lexicon/H5301-5400#H5317|honey]] [[Lexicon/H2401-2500#H2441|and her speech]] [[Lexicon/H2501-2600#H2509|[is] smoother]] [[Lexicon/H8001-8100#H8081|than oil ,]]
+[[Lexicon/H3501-3600#H3588|Though]] [[Lexicon/H8101-8200#H8193|the lips]] [[Lexicon/H2101-2200#H2114|of the forbidden woman]] [[Lexicon/H5101-5200#H5197|drip]] [[Lexicon/H5301-5400#H5317|honey]] [[Lexicon/H2401-2500#H2441|and her speech]] [[Lexicon/H2501-2600#H2509|(is) smoother]] [[Lexicon/H8001-8100#H8081|than oil ,]]
 
 ##### Proverbs 5 - 4
 [[Lexicon/H301-400#H319|in the end]] [[Lexicon/H4701-4800#H4751|she is bitter]] [[Lexicon/H3901-4000#H3939|as wormwood ,]] [[Lexicon/H2201-2300#H2299|sharp]] [[Lexicon/H6301-6400#H6310|as a double-edged]] [[Lexicon/H2701-2800#H2719|sword.]]
@@ -37,7 +37,7 @@ cssClasses: lexicon
 [[Lexicon/H6401-6500#H6435|lest]] [[Lexicon/H5401-5500#H5414|you concede]] [[Lexicon/H1901-2000#H1935|your vigor]] [[Lexicon/H301-400#H312|to others ,]] [[Lexicon/H8101-8200#H8141|and your years]] [[Lexicon/H301-400#H394|to one who is cruel ;]]
 
 ##### Proverbs 5 - 10
-[[Lexicon/H6401-6500#H6435|lest]] [[Lexicon/H2101-2200#H2114|strangers]] [[Lexicon/H7601-7700#H7646|feast]] [[Lexicon/H3501-3600#H3581|on your wealth ,]] [[Lexicon/H6001-6100#H6089|and your labors]] [[Lexicon/H1001-1100#H1004|[enrich] the house]] [[Lexicon/H5201-5300#H5237|of a foreigner.]]
+[[Lexicon/H6401-6500#H6435|lest]] [[Lexicon/H2101-2200#H2114|strangers]] [[Lexicon/H7601-7700#H7646|feast]] [[Lexicon/H3501-3600#H3581|on your wealth ,]] [[Lexicon/H6001-6100#H6089|and your labors]] [[Lexicon/H1001-1100#H1004|(enrich) the house]] [[Lexicon/H5201-5300#H5237|of a foreigner.]]
 
 ##### Proverbs 5 - 11
 [[Lexicon/H301-400#H319|At the end of your life]] [[Lexicon/H5001-5100#H5098|you will groan]] [[Lexicon/H1301-1400#H1320|when your flesh]] [[Lexicon/H7601-7700#H7607|and your body]] [[Lexicon/H3601-3700#H3615|are spent ,]]
@@ -46,7 +46,7 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H559|and you will say ,]] [[Lexicon/H301-400#H349|“ How]] [[Lexicon/H8101-8200#H8130|I hated]] [[Lexicon/H4101-4200#H4148|discipline ,]] [[Lexicon/H3801-3900#H3820|and my heart]] [[Lexicon/H5001-5100#H5006|despised]] [[Lexicon/H8401-8500#H8433|reproof !]]
 
 ##### Proverbs 5 - 13
-[[Lexicon/H3801-3900#H3808|I did not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H6901-7000#H6963|to the voice]] [[Lexicon/H4101-4200#H4175|of my teachers]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H5101-5200#H5186|incline]] [[Lexicon/H201-300#H241|my ear]] [[Lexicon/H3901-4000#H3925|to my mentors.]]
+[[Lexicon/H3801-3900#H3808|I did not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H6901-7000#H6963|to the voice]] [[Lexicon/H4101-4200#H4175|of my teachers]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H5101-5200#H5186|incline]] [[Lexicon/H201-300#H241|my ear]] [[Lexicon/H3901-4000#H3925|to my mentors.]]
 
 ##### Proverbs 5 - 14
 [[Lexicon/H1901-2000#H1961|I am]] [[Lexicon/H4501-4600#H4592|on the brink]] [[Lexicon/H3601-3700#H3605|of utter]] [[Lexicon/H7401-7500#H7451|ruin]] [[Lexicon/H8401-8500#H8432|in the midst]] [[Lexicon/H6901-7000#H6951|of the whole assembly]] [[Lexicon/H5701-5800#H5712|.... ”]]
@@ -70,7 +70,7 @@ cssClasses: lexicon
 [[Lexicon/H4001-4100#H4100|Why]] [[Lexicon/H7601-7700#H7686|be captivated ,]] [[Lexicon/H1101-1200#H1121|my son ,]] [[Lexicon/H2101-2200#H2114|by an adulteress ,]] [[Lexicon/H2201-2300#H2263|or embrace]] [[Lexicon/H2401-2500#H2436|the bosom]] [[Lexicon/H5201-5300#H5237|of a stranger ?]]
 
 ##### Proverbs 5 - 21
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H301-400#H376|a man’s]] [[Lexicon/H1801-1900#H1870|ways]] [[Lexicon/H5201-5300#H5227|are before]] [[Lexicon/H5801-5900#H5869|the eyes]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H6401-6500#H6424|and [the LORD] examines]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4501-4600#H4570|his paths.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H301-400#H376|a man’s]] [[Lexicon/H1801-1900#H1870|ways]] [[Lexicon/H5201-5300#H5227|are before]] [[Lexicon/H5801-5900#H5869|the eyes]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H6401-6500#H6424|and (the LORD) examines]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4501-4600#H4570|his paths.]]
 
 ##### Proverbs 5 - 22
 [[Lexicon/H5701-5800#H5771|The iniquities]] [[Lexicon/H7501-7600#H7563|of a wicked man]] [[Lexicon/H3901-4000#H3920|entrap him ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8501-8600#H8551|the cords]] [[Lexicon/H2401-2500#H2403|of his sin]] [[Lexicon/H2201-2300#H2256|entangle him.]]

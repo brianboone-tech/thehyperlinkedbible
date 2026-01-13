@@ -24,4 +24,4 @@ cssClasses: lexicon
 [[Lexicon/H2101-2200#H2167|Sing]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H6201-6300#H6213|He has done]] [[Lexicon/H1301-1400#H1348|glorious things.]] [[Lexicon/H2001-2100#H2063|Let this]] [[Lexicon/H3001-3100#H3045|be known]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H701-800#H776|the earth.]]
 
 ##### Isaiah 12 - 6
-[[Lexicon/H6601-6700#H6670|Cry out]] [[Lexicon/H7401-7500#H7442|and sing ,]] [[Lexicon/H3401-3500#H3427|O citizen]] [[Lexicon/H6701-6800#H6726|of Zion ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1401-1500#H1419|great]] [[Lexicon/H7101-7200#H7130|among you]] [[Lexicon/H6901-7000#H6918|[is] the Holy]] [[Lexicon/H3401-3500#H3478|One of Israel. ”]]
+[[Lexicon/H6601-6700#H6670|Cry out]] [[Lexicon/H7401-7500#H7442|and sing ,]] [[Lexicon/H3401-3500#H3427|O citizen]] [[Lexicon/H6701-6800#H6726|of Zion ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1401-1500#H1419|great]] [[Lexicon/H7101-7200#H7130|among you]] [[Lexicon/H6901-7000#H6918|(is) the Holy]] [[Lexicon/H3401-3500#H3478|One of Israel. ”]]

@@ -19,7 +19,7 @@ cssClasses: lexicon
 [[Lexicon/H5901-6000#H5921|Therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H1-100#H56|mourns ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3401-3500#H3427|who dwell]] [[Lexicon/H501-600#H535|will waste away]] [[Lexicon/H2401-2500#H2416|with the beasts]] [[Lexicon/H7701-7800#H7704|of the field]] [[Lexicon/H5701-5800#H5775|and the birds]] [[Lexicon/H8001-8100#H8064|of the air ;]] [[Lexicon/H1501-1600#H1571|even]] [[Lexicon/H1701-1800#H1709|the fish]] [[Lexicon/H3201-3300#H3220|of the sea]] [[Lexicon/H601-700#H622|disappear.]]
 
 ##### Hosea 4 - 4
-[[Lexicon/H301-400#H389|But]] [[Lexicon/H401-500#H408|let no]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H7301-7400#H7378|contend ;]] [[Lexicon/H401-500#H408|let no]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H3101-3200#H3198|offer reproof ;]] [[Lexicon/H5901-6000#H5971|for your people [are] like those]] [[Lexicon/H7301-7400#H7378|who contend with]] [[Lexicon/H3501-3600#H3548|a priest.]]
+[[Lexicon/H301-400#H389|But]] [[Lexicon/H401-500#H408|let no]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H7301-7400#H7378|contend ;]] [[Lexicon/H401-500#H408|let no]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H3101-3200#H3198|offer reproof ;]] [[Lexicon/H5901-6000#H5971|for your people (are) like those]] [[Lexicon/H7301-7400#H7378|who contend with]] [[Lexicon/H3501-3600#H3548|a priest.]]
 
 ##### Hosea 4 - 5
 [[Lexicon/H3701-3800#H3782|You will stumble]] [[Lexicon/H3101-3200#H3117|by day ,]] [[Lexicon/H5001-5100#H5030|and the prophet]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H3701-3800#H3782|will stumble]] [[Lexicon/H5901-6000#H5973|with you]] [[Lexicon/H3901-4000#H3915|by night ;]] [[Lexicon/H1801-1900#H1820|so I will destroy]] [[Lexicon/H501-600#H517|your mother —]]
@@ -64,4 +64,4 @@ cssClasses: lexicon
 [[Lexicon/H5401-5500#H5435|When their liquor]] [[Lexicon/H5401-5500#H5493|is gone ,]] [[Lexicon/H2101-2200#H2181|they turn to prostitution]] [[Lexicon/H2101-2200#H2181|... ;]] [[Lexicon/H4001-4100#H4043|their rulers]] [[Lexicon/H101-200#H157|dearly]] [[Lexicon/H101-200#H157|love]] [[Lexicon/H7001-7100#H7036|disgrace.]]
 
 ##### Hosea 4 - 19
-[[Lexicon/H7301-7400#H7307|The whirlwind]] [[Lexicon/H6801-6900#H6887|has wrapped]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H3601-3700#H3671|in its wings ,]] [[Lexicon/H2001-2100#H2077|and their sacrifices]] [[Lexicon/H901-1000#H954|will bring them shame. [’’]]]
+[[Lexicon/H7301-7400#H7307|The whirlwind]] [[Lexicon/H6801-6900#H6887|has wrapped]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H3601-3700#H3671|in its wings ,]] [[Lexicon/H2001-2100#H2077|and their sacrifices]] [[Lexicon/H901-1000#H954|will bring them shame. (’’)]]

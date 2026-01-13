@@ -13,19 +13,19 @@ cssClasses: lexicon
 [[Lexicon/H7801-7900#H7892|A song]] [[Lexicon/H4601-4700#H4609|of ascents.]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H2101-2200#H2142|remember]] [[Lexicon/H801-900#H853|on behalf]] [[Lexicon/H1701-1800#H1732|of David]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6001-6100#H6031|the hardships he endured ,]]
 
 ##### Psalm 132 - 2
-[[Lexicon/H801-900#H834|how]] [[Lexicon/H7601-7700#H7650|he swore an oath]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H5001-5100#H5087|[and] vowed]] [[Lexicon/H1-100#H46|to the Mighty One]] [[Lexicon/H3201-3300#H3290|of Jacob :]]
+[[Lexicon/H801-900#H834|how]] [[Lexicon/H7601-7700#H7650|he swore an oath]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H5001-5100#H5087|(and) vowed]] [[Lexicon/H1-100#H46|to the Mighty One]] [[Lexicon/H3201-3300#H3290|of Jacob :]]
 
 ##### Psalm 132 - 3
 [[Lexicon/H501-600#H518|“ I will not]] [[Lexicon/H901-1000#H935|enter]] [[Lexicon/H101-200#H168|...]] [[Lexicon/H1001-1100#H1004|my house]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H5901-6000#H5927|get]] [[Lexicon/H5901-6000#H5921|into]] [[Lexicon/H6201-6300#H6210|...]] [[Lexicon/H3301-3400#H3326|my bed ,]]
 
 ##### Psalm 132 - 4
-[[Lexicon/H501-600#H518|I will not]] [[Lexicon/H5401-5500#H5414|give]] [[Lexicon/H8101-8200#H8153|sleep]] [[Lexicon/H5801-5900#H5869|to my eyes]] [[Lexicon/H8501-8600#H8572|[or] slumber]] [[Lexicon/H6001-6100#H6079|to my eyelids ,]]
+[[Lexicon/H501-600#H518|I will not]] [[Lexicon/H5401-5500#H5414|give]] [[Lexicon/H8101-8200#H8153|sleep]] [[Lexicon/H5801-5900#H5869|to my eyes]] [[Lexicon/H8501-8600#H8572|(or) slumber]] [[Lexicon/H6001-6100#H6079|to my eyelids ,]]
 
 ##### Psalm 132 - 5
 [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H4601-4700#H4672|I find]] [[Lexicon/H4701-4800#H4725|a place]] [[Lexicon/H3001-3100#H3068|for the LORD ,]] [[Lexicon/H4901-5000#H4908|a dwelling]] [[Lexicon/H1-100#H46|for the Mighty]] [[Lexicon/H3201-3300#H3290|One of Jacob. ”]]
 
 ##### Psalm 132 - 6
-[[Lexicon/H2001-2100#H2009|vvv]] [[Lexicon/H8001-8100#H8085|We heard [that the ark was]]] [[Lexicon/H601-700#H672|in Ephrathah ;]] [[Lexicon/H4601-4700#H4672|we found]] [[Lexicon/H7701-7800#H7704|it in the fields]] [[Lexicon/H3201-3300#H3293|of Jaar.]]
+[[Lexicon/H2001-2100#H2009|vvv]] [[Lexicon/H8001-8100#H8085|We heard (that the ark was)]] [[Lexicon/H601-700#H672|in Ephrathah ;]] [[Lexicon/H4601-4700#H4672|we found]] [[Lexicon/H7701-7800#H7704|it in the fields]] [[Lexicon/H3201-3300#H3293|of Jaar.]]
 
 ##### Psalm 132 - 7
 [[Lexicon/H901-1000#H935|Let us go]] [[Lexicon/H4901-5000#H4908|to His dwelling place ;]] [[Lexicon/H7801-7900#H7812|let us worship]] [[Lexicon/H1901-2000#H1916|at His footstool]] [[Lexicon/H7201-7300#H7272|....]]
@@ -49,7 +49,7 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H901-1000#H977|has chosen]] [[Lexicon/H6701-6800#H6726|Zion ;]] [[Lexicon/H101-200#H183|He has desired]] [[Lexicon/H4101-4200#H4186|it for His home]]
 
 ##### Psalm 132 - 14
-[[Lexicon/H2001-2100#H2063|“ This]] [[Lexicon/H4401-4500#H4496|is My resting place]] [[Lexicon/H5701-5800#H5703|forever]] [[Lexicon/H5701-5800#H5703|and ever ;]] [[Lexicon/H6301-6400#H6311|here]] [[Lexicon/H3401-3500#H3427|I will dwell ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H101-200#H183|I have desired [this home].]]
+[[Lexicon/H2001-2100#H2063|“ This]] [[Lexicon/H4401-4500#H4496|is My resting place]] [[Lexicon/H5701-5800#H5703|forever]] [[Lexicon/H5701-5800#H5703|and ever ;]] [[Lexicon/H6301-6400#H6311|here]] [[Lexicon/H3401-3500#H3427|I will dwell ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H101-200#H183|I have desired (this home).]]
 
 ##### Psalm 132 - 15
 [[Lexicon/H1201-1300#H1288|I will bless her]] [[Lexicon/H1201-1300#H1288|with abundant]] [[Lexicon/H6701-6800#H6718|provisions ;]] [[Lexicon/H7601-7700#H7646|I will satisfy]] [[Lexicon/H1-100#H34|her poor]] [[Lexicon/H3801-3900#H3899|with bread.]]

@@ -34,7 +34,7 @@ cssClasses: lexicon
 [[Lexicon/H5701-5800#H5774|He will fly away]] [[Lexicon/H2401-2500#H2472|like a dream ,]] [[Lexicon/H3801-3900#H3808|never]] [[Lexicon/H4601-4700#H4672|to be found ;]] [[Lexicon/H5001-5100#H5074|he will be chased away]] [[Lexicon/H2301-2400#H2384|like a vision]] [[Lexicon/H3901-4000#H3915|in the night.]]
 
 ##### Job 20 - 9
-[[Lexicon/H5801-5900#H5869|The eye]] [[Lexicon/H7801-7900#H7805|[that] saw him]] [[Lexicon/H3801-3900#H3808|will see him no]] [[Lexicon/H3201-3300#H3254|more ,]] [[Lexicon/H4701-4800#H4725|and his place]] [[Lexicon/H3801-3900#H3808|will no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H7701-7800#H7789|behold him.]]
+[[Lexicon/H5801-5900#H5869|The eye]] [[Lexicon/H7801-7900#H7805|(that) saw him]] [[Lexicon/H3801-3900#H3808|will see him no]] [[Lexicon/H3201-3300#H3254|more ,]] [[Lexicon/H4701-4800#H4725|and his place]] [[Lexicon/H3801-3900#H3808|will no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H7701-7800#H7789|behold him.]]
 
 ##### Job 20 - 10
 [[Lexicon/H1101-1200#H1121|His sons]] [[Lexicon/H7501-7600#H7521|will seek the favor]] [[Lexicon/H1701-1800#H1800|of the poor ,]] [[Lexicon/H3001-3100#H3027|for his own hands]] [[Lexicon/H7701-7800#H7725|must return]] [[Lexicon/H201-300#H202|his wealth.]]
@@ -64,7 +64,7 @@ cssClasses: lexicon
 [[Lexicon/H7701-7800#H7725|He must return]] [[Lexicon/H3001-3100#H3022|the fruit of his labor]] [[Lexicon/H3801-3900#H3808|without]] [[Lexicon/H1101-1200#H1104|consuming it ;]] [[Lexicon/H3801-3900#H3808|he cannot]] [[Lexicon/H5901-6000#H5965|enjoy]] [[Lexicon/H2401-2500#H2428|the profits]] [[Lexicon/H8501-8600#H8545|of his trading.]]
 
 ##### Job 20 - 19
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H7501-7600#H7533|he has oppressed]] [[Lexicon/H5701-5800#H5800|[and] forsaken]] [[Lexicon/H1701-1800#H1800|the poor ;]] [[Lexicon/H1401-1500#H1497|he has seized]] [[Lexicon/H1001-1100#H1004|houses]] [[Lexicon/H3801-3900#H3808|he did not]] [[Lexicon/H1101-1200#H1129|build.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H7501-7600#H7533|he has oppressed]] [[Lexicon/H5701-5800#H5800|(and) forsaken]] [[Lexicon/H1701-1800#H1800|the poor ;]] [[Lexicon/H1401-1500#H1497|he has seized]] [[Lexicon/H1001-1100#H1004|houses]] [[Lexicon/H3801-3900#H3808|he did not]] [[Lexicon/H1101-1200#H1129|build.]]
 
 ##### Job 20 - 20
 [[Lexicon/H3501-3600#H3588|Because]] [[Lexicon/H901-1000#H990|his appetite]] [[Lexicon/H3801-3900#H3808|is never]] [[Lexicon/H3001-3100#H3045|satisfied]] [[Lexicon/H7901-8000#H7961|... ,]] [[Lexicon/H3801-3900#H3808|he cannot]] [[Lexicon/H4401-4500#H4422|escape]] [[Lexicon/H2501-2600#H2530|with his treasure.]]

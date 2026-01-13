@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Job 5 - 1
-[[Lexicon/H7101-7200#H7121|[“] Call out]] [[Lexicon/H4901-5000#H4994|if you please ,]] [[Lexicon/H3401-3500#H3426|vvv]] [[Lexicon/H6001-6100#H6030|but who will answer ?]] [[Lexicon/H401-500#H413|To]] [[Lexicon/H4301-4400#H4310|which]] [[Lexicon/H6901-7000#H6918|of the holy ones]] [[Lexicon/H6401-6500#H6437|will you turn ?]]
+[[Lexicon/H7101-7200#H7121|(“) Call out]] [[Lexicon/H4901-5000#H4994|if you please ,]] [[Lexicon/H3401-3500#H3426|vvv]] [[Lexicon/H6001-6100#H6030|but who will answer ?]] [[Lexicon/H401-500#H413|To]] [[Lexicon/H4301-4400#H4310|which]] [[Lexicon/H6901-7000#H6918|of the holy ones]] [[Lexicon/H6401-6500#H6437|will you turn ?]]
 
 ##### Job 5 - 2
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3701-3800#H3708|resentment]] [[Lexicon/H2001-2100#H2026|kills]] [[Lexicon/H101-200#H191|a fool ,]] [[Lexicon/H7001-7100#H7068|and envy]] [[Lexicon/H4101-4200#H4191|slays]] [[Lexicon/H6601-6700#H6601|the simple.]]
@@ -34,7 +34,7 @@ cssClasses: lexicon
 [[Lexicon/H101-200#H199|However ,]] [[Lexicon/H501-600#H589|if I were you ,]] [[Lexicon/H1801-1900#H1875|I would appeal]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H401-500#H410|God]] [[Lexicon/H7701-7800#H7760|and lay]] [[Lexicon/H1601-1700#H1700|my cause]] [[Lexicon/H401-500#H413|before]] [[Lexicon/H401-500#H430|Him —]]
 
 ##### Job 5 - 9
-[[Lexicon/H6201-6300#H6213|[the One] who does]] [[Lexicon/H1401-1500#H1419|great]] [[Lexicon/H301-400#H369|and]] [[Lexicon/H2701-2800#H2714|unsearchable things ,]] [[Lexicon/H6301-6400#H6381|wonders]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H301-400#H369|without]] [[Lexicon/H4501-4600#H4557|number.]]
+[[Lexicon/H6201-6300#H6213|(the One) who does]] [[Lexicon/H1401-1500#H1419|great]] [[Lexicon/H301-400#H369|and]] [[Lexicon/H2701-2800#H2714|unsearchable things ,]] [[Lexicon/H6301-6400#H6381|wonders]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H301-400#H369|without]] [[Lexicon/H4501-4600#H4557|number.]]
 
 ##### Job 5 - 10
 [[Lexicon/H5401-5500#H5414|He gives]] [[Lexicon/H4301-4400#H4306|rain]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H7901-8000#H7971|and sends]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H2301-2400#H2351|the fields.]]
@@ -58,7 +58,7 @@ cssClasses: lexicon
 [[Lexicon/H1701-1800#H1800|So the poor]] [[Lexicon/H1901-2000#H1961|have]] [[Lexicon/H8601-8674#H8615|hope ,]] [[Lexicon/H5701-5800#H5766|and injustice]] [[Lexicon/H7001-7100#H7092|shuts]] [[Lexicon/H6301-6400#H6310|its mouth.]]
 
 ##### Job 5 - 17
-[[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H2001-2100#H2009|indeed]] [[Lexicon/H501-600#H582|is the man]] [[Lexicon/H401-500#H433|[whom] God]] [[Lexicon/H3101-3200#H3198|corrects ;]] [[Lexicon/H401-500#H408|so do not]] [[Lexicon/H3901-4000#H3988|despise]] [[Lexicon/H4101-4200#H4148|the discipline]] [[Lexicon/H7701-7800#H7706|of the Almighty.]]
+[[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H2001-2100#H2009|indeed]] [[Lexicon/H501-600#H582|is the man]] [[Lexicon/H401-500#H433|(whom) God]] [[Lexicon/H3101-3200#H3198|corrects ;]] [[Lexicon/H401-500#H408|so do not]] [[Lexicon/H3901-4000#H3988|despise]] [[Lexicon/H4101-4200#H4148|the discipline]] [[Lexicon/H7701-7800#H7706|of the Almighty.]]
 
 ##### Job 5 - 18
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H3501-3600#H3510|wounds ,]] [[Lexicon/H2201-2300#H2280|but He also binds ;]] [[Lexicon/H4201-4300#H4272|He strikes ,]] [[Lexicon/H3001-3100#H3027|but His hands]] [[Lexicon/H7401-7500#H7495|also heal.]]

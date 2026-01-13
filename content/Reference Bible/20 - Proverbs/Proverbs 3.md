@@ -43,22 +43,22 @@ cssClasses: lexicon
 [[Lexicon/H1101-1200#H1121|My son ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H3901-4000#H3988|reject]] [[Lexicon/H4101-4200#H4148|the discipline]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H401-500#H408|and do not]] [[Lexicon/H6901-7000#H6973|loathe]] [[Lexicon/H8401-8500#H8433|His rebuke ;]]
 
 ##### Proverbs 3 - 12
-[[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3101-3200#H3198|disciplines]] [[Lexicon/H801-900#H834|the one]] [[Lexicon/H101-200#H157|He loves ,]] [[Lexicon/H1-100#H1|as [does] a father]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H7501-7600#H7521|[in whom] he delights.]]
+[[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3101-3200#H3198|disciplines]] [[Lexicon/H801-900#H834|the one]] [[Lexicon/H101-200#H157|He loves ,]] [[Lexicon/H1-100#H1|as (does) a father]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H7501-7600#H7521|(in whom) he delights.]]
 
 ##### Proverbs 3 - 13
-[[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H101-200#H120|[is] the man]] [[Lexicon/H4601-4700#H4672|who finds]] [[Lexicon/H2401-2500#H2451|wisdom ,]] [[Lexicon/H101-200#H120|the man]] [[Lexicon/H6301-6400#H6329|who acquires]] [[Lexicon/H8301-8400#H8394|understanding ,]]
+[[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H101-200#H120|(is) the man]] [[Lexicon/H4601-4700#H4672|who finds]] [[Lexicon/H2401-2500#H2451|wisdom ,]] [[Lexicon/H101-200#H120|the man]] [[Lexicon/H6301-6400#H6329|who acquires]] [[Lexicon/H8301-8400#H8394|understanding ,]]
 
 ##### Proverbs 3 - 14
-[[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H2801-2900#H2896|she is more]] [[Lexicon/H5501-5600#H5504|profitable]] [[Lexicon/H5501-5600#H5504|...]] [[Lexicon/H3701-3800#H3701|than silver ,]] [[Lexicon/H8301-8400#H8393|and her gain [is better]]] [[Lexicon/H2701-2800#H2742|than fine gold.]]
+[[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H2801-2900#H2896|she is more]] [[Lexicon/H5501-5600#H5504|profitable]] [[Lexicon/H5501-5600#H5504|...]] [[Lexicon/H3701-3800#H3701|than silver ,]] [[Lexicon/H8301-8400#H8393|and her gain (is better)]] [[Lexicon/H2701-2800#H2742|than fine gold.]]
 
 ##### Proverbs 3 - 15
 [[Lexicon/H1901-2000#H1931|She]] [[Lexicon/H3301-3400#H3368|is more precious]] [[Lexicon/H6401-6500#H6443|than rubies ;]] [[Lexicon/H3601-3700#H3605|nothing]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H2601-2700#H2656|you desire]] [[Lexicon/H7701-7800#H7737|compares]]
 
 ##### Proverbs 3 - 16
-[[Lexicon/H701-800#H753|Long]] [[Lexicon/H3101-3200#H3117|life]] [[Lexicon/H3201-3300#H3225|is in her right hand ;]] [[Lexicon/H8001-8100#H8040|in her left hand]] [[Lexicon/H6201-6300#H6239|[are] riches]] [[Lexicon/H3501-3600#H3519|and honor.]]
+[[Lexicon/H701-800#H753|Long]] [[Lexicon/H3101-3200#H3117|life]] [[Lexicon/H3201-3300#H3225|is in her right hand ;]] [[Lexicon/H8001-8100#H8040|in her left hand]] [[Lexicon/H6201-6300#H6239|(are) riches]] [[Lexicon/H3501-3600#H3519|and honor.]]
 
 ##### Proverbs 3 - 17
-[[Lexicon/H1801-1900#H1870|All her ways]] [[Lexicon/H1801-1900#H1870|...]] [[Lexicon/H5201-5300#H5278|are pleasant ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H5401-5500#H5410|her paths]] [[Lexicon/H7901-8000#H7965|[are] peaceful.]]
+[[Lexicon/H1801-1900#H1870|All her ways]] [[Lexicon/H1801-1900#H1870|...]] [[Lexicon/H5201-5300#H5278|are pleasant ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H5401-5500#H5410|her paths]] [[Lexicon/H7901-8000#H7965|(are) peaceful.]]
 
 ##### Proverbs 3 - 18
 [[Lexicon/H1901-2000#H1931|She]] [[Lexicon/H6001-6100#H6086|is a tree]] [[Lexicon/H2401-2500#H2416|of life]] [[Lexicon/H2301-2400#H2388|to those who embrace]] [[Lexicon/H8501-8600#H8551|and those who lay hold of her]] [[Lexicon/H801-900#H833|are blessed.]]
@@ -91,7 +91,7 @@ cssClasses: lexicon
 [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H4501-4600#H4513|withhold]] [[Lexicon/H2801-2900#H2896|good]] [[Lexicon/H1101-1200#H1167|from the deserving]] [[Lexicon/H1901-2000#H1961|when it is]] [[Lexicon/H3001-3100#H3027|within your]] [[Lexicon/H401-500#H410|power]] [[Lexicon/H6201-6300#H6213|to act.]]
 
 ##### Proverbs 3 - 28
-[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H501-600#H559|tell]] [[Lexicon/H7401-7500#H7453|your neighbor ,]] [[Lexicon/H1901-2000#H1980|“ Come]] [[Lexicon/H7701-7800#H7725|back]] [[Lexicon/H4201-4300#H4279|tomorrow]] [[Lexicon/H5401-5500#H5414|[and] I will provide ” —]] [[Lexicon/H3401-3500#H3426|when you already have the means]] [[Lexicon/H801-900#H854|....]]
+[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H501-600#H559|tell]] [[Lexicon/H7401-7500#H7453|your neighbor ,]] [[Lexicon/H1901-2000#H1980|“ Come]] [[Lexicon/H7701-7800#H7725|back]] [[Lexicon/H4201-4300#H4279|tomorrow]] [[Lexicon/H5401-5500#H5414|(and) I will provide ” —]] [[Lexicon/H3401-3500#H3426|when you already have the means]] [[Lexicon/H801-900#H854|....]]
 
 ##### Proverbs 3 - 29
 [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H7401-7500#H7451|devise]] [[Lexicon/H2701-2800#H2790|evil]] [[Lexicon/H5901-6000#H5921|against]] [[Lexicon/H7401-7500#H7453|your neighbor ,]] [[Lexicon/H1901-2000#H1931|for he]] [[Lexicon/H901-1000#H983|trustfully]] [[Lexicon/H3401-3500#H3427|dwells]] [[Lexicon/H801-900#H854|beside you.]]

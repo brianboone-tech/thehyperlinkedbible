@@ -22,7 +22,7 @@ cssClasses: lexicon
 [[Lexicon/H7401-7500#H7423|Idle]] [[Lexicon/H3701-3800#H3709|hands]] [[Lexicon/H6201-6300#H6213|make]] [[Lexicon/H7301-7400#H7326|one poor ,]] [[Lexicon/H2701-2800#H2742|but diligent]] [[Lexicon/H3001-3100#H3027|hands]] [[Lexicon/H6201-6300#H6238|bring wealth.]]
 
 ##### Proverbs 10 - 5
-[[Lexicon/H101-200#H103|He who gathers]] [[Lexicon/H7001-7100#H7019|in summer]] [[Lexicon/H7901-8000#H7919|[is] a wise]] [[Lexicon/H1101-1200#H1121|son ,]] [[Lexicon/H7201-7300#H7290|[but] he who sleeps]] [[Lexicon/H7101-7200#H7105|during harvest]] [[Lexicon/H901-1000#H954|is a disgraceful]] [[Lexicon/H1101-1200#H1121|son.]]
+[[Lexicon/H101-200#H103|He who gathers]] [[Lexicon/H7001-7100#H7019|in summer]] [[Lexicon/H7901-8000#H7919|(is) a wise]] [[Lexicon/H1101-1200#H1121|son ,]] [[Lexicon/H7201-7300#H7290|(but) he who sleeps]] [[Lexicon/H7101-7200#H7105|during harvest]] [[Lexicon/H901-1000#H954|is a disgraceful]] [[Lexicon/H1101-1200#H1121|son.]]
 
 ##### Proverbs 10 - 6
 [[Lexicon/H1201-1300#H1293|Blessings]] [[Lexicon/H7201-7300#H7218|are on the head]] [[Lexicon/H6601-6700#H6662|of the righteous ,]] [[Lexicon/H6301-6400#H6310|but the mouth]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H3601-3700#H3680|conceals]] [[Lexicon/H2501-2600#H2555|violence.]]
@@ -55,7 +55,7 @@ cssClasses: lexicon
 [[Lexicon/H1901-2000#H1952|The wealth]] [[Lexicon/H6201-6300#H6223|of the rich man]] [[Lexicon/H5701-5800#H5797|is his fortified]] [[Lexicon/H7101-7200#H7151|city ,]] [[Lexicon/H7301-7400#H7389|but poverty]] [[Lexicon/H4201-4300#H4288|is the ruin]] [[Lexicon/H1701-1800#H1800|of the poor.]]
 
 ##### Proverbs 10 - 16
-[[Lexicon/H6401-6500#H6468|The labor]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H2401-2500#H2416|leads to life ,]] [[Lexicon/H8301-8400#H8393|[but] the gain]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H2401-2500#H2403|[brings] punishment.]]
+[[Lexicon/H6401-6500#H6468|The labor]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H2401-2500#H2416|leads to life ,]] [[Lexicon/H8301-8400#H8393|(but) the gain]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H2401-2500#H2403|(brings) punishment.]]
 
 ##### Proverbs 10 - 17
 [[Lexicon/H8101-8200#H8104|Whoever heeds]] [[Lexicon/H4101-4200#H4148|instruction]] [[Lexicon/H701-800#H734|is on the path]] [[Lexicon/H2401-2500#H2416|to life ,]] [[Lexicon/H5701-5800#H5800|but he who ignores]] [[Lexicon/H8401-8500#H8433|reproof]] [[Lexicon/H8501-8600#H8582|goes astray.]]
@@ -67,7 +67,7 @@ cssClasses: lexicon
 [[Lexicon/H1601-1700#H1697|When words]] [[Lexicon/H7201-7300#H7230|are many ,]] [[Lexicon/H6501-6600#H6588|sin]] [[Lexicon/H3801-3900#H3808|is unavoidable]] [[Lexicon/H2301-2400#H2308|... ,]] [[Lexicon/H2801-2900#H2820|but he who restrains]] [[Lexicon/H8101-8200#H8193|his lips]] [[Lexicon/H7901-8000#H7919|is wise.]]
 
 ##### Proverbs 10 - 20
-[[Lexicon/H3901-4000#H3956|The tongue]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H901-1000#H977|[is] choice]] [[Lexicon/H3701-3800#H3701|silver ,]] [[Lexicon/H3801-3900#H3820|[but] the heart]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H4501-4600#H4592|[has] little worth.]]
+[[Lexicon/H3901-4000#H3956|The tongue]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H901-1000#H977|(is) choice]] [[Lexicon/H3701-3800#H3701|silver ,]] [[Lexicon/H3801-3900#H3820|(but) the heart]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H4501-4600#H4592|(has) little worth.]]
 
 ##### Proverbs 10 - 21
 [[Lexicon/H8101-8200#H8193|The lips]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H7401-7500#H7462|feed]] [[Lexicon/H7201-7300#H7227|many ,]] [[Lexicon/H101-200#H191|but fools]] [[Lexicon/H4101-4200#H4191|die]] [[Lexicon/H2601-2700#H2638|for lack]] [[Lexicon/H3801-3900#H3820|of judgment.]]
@@ -79,13 +79,13 @@ cssClasses: lexicon
 [[Lexicon/H3601-3700#H3684|The fool]] [[Lexicon/H7801-7900#H7814|delights]] [[Lexicon/H2101-2200#H2154|in shameful]] [[Lexicon/H6201-6300#H6213|conduct ,]] [[Lexicon/H301-400#H376|but a man]] [[Lexicon/H8301-8400#H8394|of understanding]] [[Lexicon/H2401-2500#H2451|has wisdom.]]
 
 ##### Proverbs 10 - 24
-[[Lexicon/H7501-7600#H7563|What the wicked [man]]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H4001-4100#H4034|dreads]] [[Lexicon/H901-1000#H935|will overtake him ,]] [[Lexicon/H8301-8400#H8378|but the desire]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H5401-5500#H5414|will be granted.]]
+[[Lexicon/H7501-7600#H7563|What the wicked (man)]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H4001-4100#H4034|dreads]] [[Lexicon/H901-1000#H935|will overtake him ,]] [[Lexicon/H8301-8400#H8378|but the desire]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H5401-5500#H5414|will be granted.]]
 
 ##### Proverbs 10 - 25
 [[Lexicon/H5401-5500#H5492|When the whirlwind]] [[Lexicon/H5601-5700#H5674|passes ,]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H301-400#H369|are no more ,]] [[Lexicon/H6601-6700#H6662|but the righteous]] [[Lexicon/H3201-3300#H3247|are secure]] [[Lexicon/H5701-5800#H5769|forever.]]
 
 ##### Proverbs 10 - 26
-[[Lexicon/H2501-2600#H2558|Like vinegar]] [[Lexicon/H8101-8200#H8127|to the teeth]] [[Lexicon/H6201-6300#H6227|and smoke]] [[Lexicon/H5801-5900#H5869|to the eyes ,]] [[Lexicon/H3601-3700#H3651|so]] [[Lexicon/H6101-6200#H6102|[is] the slacker]] [[Lexicon/H7901-8000#H7971|to those who send him.]]
+[[Lexicon/H2501-2600#H2558|Like vinegar]] [[Lexicon/H8101-8200#H8127|to the teeth]] [[Lexicon/H6201-6300#H6227|and smoke]] [[Lexicon/H5801-5900#H5869|to the eyes ,]] [[Lexicon/H3601-3700#H3651|so]] [[Lexicon/H6101-6200#H6102|(is) the slacker]] [[Lexicon/H7901-8000#H7971|to those who send him.]]
 
 ##### Proverbs 10 - 27
 [[Lexicon/H3301-3400#H3374|The fear]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H3201-3300#H3254|prolongs]] [[Lexicon/H3101-3200#H3117|life ,]] [[Lexicon/H8101-8200#H8141|but the years]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H7101-7200#H7114|will be cut short.]]
@@ -94,7 +94,7 @@ cssClasses: lexicon
 [[Lexicon/H8401-8500#H8431|The hope]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H8001-8100#H8057|is joy ,]] [[Lexicon/H8601-8674#H8615|but the expectations]] [[Lexicon/H7501-7600#H7563|of the wicked]] [[Lexicon/H1-100#H6|will perish.]]
 
 ##### Proverbs 10 - 29
-[[Lexicon/H1801-1900#H1870|The way]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H4501-4600#H4581|is a refuge]] [[Lexicon/H8501-8600#H8537|to the upright ,]] [[Lexicon/H4201-4300#H4288|but destruction]] [[Lexicon/H6401-6500#H6466|[awaits] those who do]] [[Lexicon/H201-300#H205|evil.]]
+[[Lexicon/H1801-1900#H1870|The way]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H4501-4600#H4581|is a refuge]] [[Lexicon/H8501-8600#H8537|to the upright ,]] [[Lexicon/H4201-4300#H4288|but destruction]] [[Lexicon/H6401-6500#H6466|(awaits) those who do]] [[Lexicon/H201-300#H205|evil.]]
 
 ##### Proverbs 10 - 30
 [[Lexicon/H6601-6700#H6662|The righteous]] [[Lexicon/H5701-5800#H5769|will never]] [[Lexicon/H1001-1100#H1077|...]] [[Lexicon/H4101-4200#H4131|be shaken ,]] [[Lexicon/H7501-7600#H7563|but the wicked]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H7901-8000#H7931|inhabit]] [[Lexicon/H701-800#H776|the land.]]
