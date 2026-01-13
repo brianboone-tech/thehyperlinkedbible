@@ -69,6 +69,60 @@ a.internal {
 }
 
 // ============================================
+// TABLE STYLING
+// ============================================
+
+.table-container {
+  overflow-x: auto;
+  margin: 1.5rem 0;
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: var(--light);
+    border: 1px solid var(--lightgray);
+    border-radius: 8px;
+    overflow: hidden;
+
+    th {
+      background-color: var(--lightgray);
+      font-weight: 600;
+      text-align: left;
+      padding: 0.75rem 1rem;
+      border-bottom: 2px solid var(--gray);
+      white-space: nowrap;
+    }
+
+    td {
+      padding: 0.75rem 1rem;
+      vertical-align: top;
+      border-bottom: 1px solid var(--lightgray);
+      line-height: 1.5;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:hover {
+      background-color: var(--highlight);
+    }
+
+    // Handle links and content in cells
+    a {
+      word-break: break-word;
+    }
+  }
+}
+
+// Dark mode table adjustments
+:root[saved-theme="dark"] .table-container table {
+  th {
+    background-color: var(--lightgray);
+  }
+}
+
+// ============================================
 // GENERAL ENHANCEMENTS
 // ============================================
 
@@ -89,23 +143,23 @@ blockquote {
 // EXPLORER RAINBOW FOLDERS
 // ============================================
 
-// Rainbow color palette (Catppuccin-inspired)
+// Rainbow color palette (Light pastels for better text contrast)
 $folder-colors: (
-  #7c9a92,  // 1. Teal-gray
-  #6e9a8d,  // 2. Sage teal
-  #d08770,  // 3. Coral/Peach
-  #e0a370,  // 4. Orange/Peach
-  #d4a946,  // 5. Gold
-  #8a9a9a,  // 6. Blue-gray
-  #7ba08a,  // 7. Green-teal
-  #9a7aa0,  // 8. Mauve
-  #a8a0c0,  // 9. Lavender
-  #9a8090,  // 10. Dusty rose
-  #8878a0,  // 11. Purple
-  #6a9a9a,  // 12. Teal
-  #a08090,  // 13. Mauve-rose
-  #7090a0,  // 14. Steel blue
-  #90a070,  // 15. Olive
+  #b8d4cd,  // 1. Light teal
+  #b5d4c8,  // 2. Light sage
+  #e8c4b8,  // 3. Light coral
+  #f0d4b8,  // 4. Light peach
+  #e8d8a0,  // 5. Light gold
+  #c4d0d0,  // 6. Light blue-gray
+  #b8d4c0,  // 7. Light green
+  #d4c4d8,  // 8. Light mauve
+  #d0cce0,  // 9. Light lavender
+  #d8c8d0,  // 10. Light dusty rose
+  #c8c0d8,  // 11. Light purple
+  #b0d4d4,  // 12. Light teal
+  #d8c8d0,  // 13. Light mauve-rose
+  #b8ccd8,  // 14. Light steel blue
+  #c8d4b0,  // 15. Light olive
 );
 
 // Style top-level folders in Explorer (with inherited colors for children)
@@ -123,8 +177,8 @@ $folder-colors: (
 
           // Folder icon
           & > svg.folder-icon {
-            color: white;
-            opacity: 0.9;
+            color: var(--darkgray);
+            opacity: 0.8;
           }
 
           // Folder button and title
@@ -133,12 +187,12 @@ $folder-colors: (
             font-weight: 500;
 
             .folder-title {
-              color: white;
+              color: var(--darkgray);
             }
           }
 
           &:hover {
-            filter: brightness(1.1);
+            filter: brightness(0.95);
           }
         }
 
@@ -185,16 +239,16 @@ $folder-colors: (
   .explorer-content > ul > li {
     @for $i from 1 through length($folder-colors) {
       &:nth-child(#{$i}) {
-        // Top-level folder - brighter in dark mode
+        // Top-level folder - slightly darker in dark mode for contrast
         & > .folder-container {
-          background-color: color-mix(in srgb, nth($folder-colors, $i) 85%, white 15%);
+          background-color: color-mix(in srgb, nth($folder-colors, $i) 70%, var(--light) 30%);
 
           & > svg.folder-icon {
-            color: white;
+            color: var(--darkgray);
           }
 
           .folder-button .folder-title {
-            color: white;
+            color: var(--darkgray);
           }
         }
 
@@ -213,10 +267,10 @@ $folder-colors: (
 
         // File links in dark mode
         .folder-outer ul li > a {
-          background-color: color-mix(in srgb, nth($folder-colors, $i) 20%, transparent 80%);
+          background-color: color-mix(in srgb, nth($folder-colors, $i) 25%, transparent 75%);
 
           &:hover {
-            background-color: color-mix(in srgb, nth($folder-colors, $i) 30%, transparent 70%);
+            background-color: color-mix(in srgb, nth($folder-colors, $i) 35%, transparent 65%);
           }
         }
       }
