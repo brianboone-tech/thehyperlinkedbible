@@ -111,25 +111,30 @@ $folder-colors: (
 // Style top-level folders in Explorer (with inherited colors for children)
 .explorer {
   // Target top-level folders and their children
-  & > #explorer-content > ul > li {
+  .explorer-content > ul > li {
     @for $i from 1 through length($folder-colors) {
       &:nth-child(#{$i}) {
-        // Top-level folder button
-        & > .folder-container > .folder-button {
+        // Top-level folder container styling
+        & > .folder-container {
           background-color: nth($folder-colors, $i);
-          color: white;
           border-radius: 6px;
-          padding: 0.4rem 0.6rem;
+          padding: 0.3rem 0.5rem;
           margin: 2px 0;
-          font-weight: 500;
 
-          & > svg {
+          // Folder icon
+          & > svg.folder-icon {
             color: white;
             opacity: 0.9;
           }
 
-          & > span {
-            color: white;
+          // Folder button and title
+          .folder-button {
+            background: transparent;
+            font-weight: 500;
+
+            .folder-title {
+              color: white;
+            }
           }
 
           &:hover {
@@ -138,19 +143,18 @@ $folder-colors: (
         }
 
         // Nested subfolders - inherit parent color with lighter shade
-        .folder-container > .folder-button {
-          background-color: color-mix(in srgb, nth($folder-colors, $i) 70%, white 30%);
-          color: var(--darkgray);
+        .folder-outer .folder-container {
+          background-color: color-mix(in srgb, nth($folder-colors, $i) 60%, white 40%);
           border-radius: 5px;
-          padding: 0.3rem 0.5rem;
+          padding: 0.25rem 0.4rem;
           margin: 2px 0;
 
-          & > svg {
+          & > svg.folder-icon {
             color: var(--darkgray);
             opacity: 0.8;
           }
 
-          & > span {
+          .folder-button .folder-title {
             color: var(--darkgray);
           }
 
@@ -159,18 +163,8 @@ $folder-colors: (
           }
         }
 
-        // Re-apply top-level style (override nested rule for first level)
-        & > .folder-container > .folder-button {
-          background-color: nth($folder-colors, $i);
-          color: white;
-
-          & > svg, & > span {
-            color: white;
-          }
-        }
-
         // File links inside folders - subtle tinted background
-        .folder-outer > ul > li > a {
+        .folder-outer ul li > a {
           background-color: color-mix(in srgb, nth($folder-colors, $i) 15%, transparent 85%);
           border-radius: 4px;
           padding: 0.2rem 0.4rem;
@@ -188,36 +182,37 @@ $folder-colors: (
 
 // Dark mode adjustments
 :root[saved-theme="dark"] .explorer {
-  & > #explorer-content > ul > li {
+  .explorer-content > ul > li {
     @for $i from 1 through length($folder-colors) {
       &:nth-child(#{$i}) {
         // Top-level folder - brighter in dark mode
-        & > .folder-container > .folder-button {
+        & > .folder-container {
           background-color: color-mix(in srgb, nth($folder-colors, $i) 85%, white 15%);
-        }
 
-        // Nested subfolders in dark mode
-        .folder-container > .folder-button {
-          background-color: color-mix(in srgb, nth($folder-colors, $i) 40%, var(--light) 60%);
-          color: var(--darkgray);
-
-          & > svg, & > span {
-            color: var(--darkgray);
+          & > svg.folder-icon {
+            color: white;
           }
-        }
 
-        // Re-apply top-level for dark mode
-        & > .folder-container > .folder-button {
-          background-color: color-mix(in srgb, nth($folder-colors, $i) 85%, white 15%);
-          color: white;
-
-          & > svg, & > span {
+          .folder-button .folder-title {
             color: white;
           }
         }
 
+        // Nested subfolders in dark mode
+        .folder-outer .folder-container {
+          background-color: color-mix(in srgb, nth($folder-colors, $i) 50%, var(--light) 50%);
+
+          & > svg.folder-icon {
+            color: var(--darkgray);
+          }
+
+          .folder-button .folder-title {
+            color: var(--darkgray);
+          }
+        }
+
         // File links in dark mode
-        .folder-outer > ul > li > a {
+        .folder-outer ul li > a {
           background-color: color-mix(in srgb, nth($folder-colors, $i) 20%, transparent 80%);
 
           &:hover {
