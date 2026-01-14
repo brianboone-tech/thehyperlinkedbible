@@ -1,12 +1,12 @@
 # Scripture Index
 
-**[[index|← Home]]** | **[[Readable Bible Index|Read the Bible →]]**
+**[[index|← Home]]** | **[[Readable Bible/01 - Genesis/Genesis 1|Start Reading →]]**
 
 ---
 
 ## Quick Navigation
 
-> [!tip] The [[Readable Bible Index|Readable Bible]] is the heart of this site - start there to read with inline links
+> [!tip] This index is the heart of the site - click any book below to start reading with inline links
 
 Click any book below to see its chapter grid, chiasms, and trajectory tables.
 Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.

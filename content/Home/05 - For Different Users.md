@@ -51,4 +51,4 @@ The Hyperlinked Bible serves three audiences—each can go as deep as they want.
 
 ---
 
-**[[Home/01 - Getting Started|← Getting Started]]** | **[[Readable Bible Index|Read the Bible →]]**
+**[[Home/01 - Getting Started|← Getting Started]]** | **[[Home/08 - Scripture Index|Read the Bible →]]**

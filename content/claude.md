@@ -56,24 +56,25 @@ This document tracks the work done with Claude Code on The Hyperlinked Bible pro
 
 ```
 index.md (Welcome)
-├── Readable Bible Index.md ← THE HUB
-│   └── [66 book folders → chapter files]
-├── Home/01 - Getting Started.md
+├── Home/01 - Getting Started.md (Learning Hub)
 │   ├── Home/02 - Site Layout.md
 │   ├── Home/03 - Understanding Links.md
 │   ├── Home/04 - Video Resources.md
-│   └── Home/05 - For Different Users.md
+│   ├── Home/05 - For Different Users.md
+│   ├── Home/06 - Why Chiasms Matter.md
+│   ├── Home/07 - Why Cross-References Matter.md
+│   └── Home/08 - Scripture Index.md ← THE HUB (browse all 66 books)
 ├── Home/Indexes/
-│   ├── Readable Bible/
-│   │   └── [66 book index pages: 01 - Genesis through 66 - Revelation]
+│   ├── Readable Bible/ [66 book index pages]
 │   ├── Chiasm Index.md
 │   ├── Intertextuality Pairs Index.md
 │   ├── Trajectory Tables Index.md
 │   └── TOSK Index.md
-├── Home/06 - How Chiasms - Overview.md
-│   └── [13 chiasm deep dive pages]
-└── Home/20 - How Quotations - Overview.md
-    └── [8 quotation deep dive pages]
+├── Home/Archive/ [Archived tutorial pages]
+├── Readable Bible/ [1,255 chapter files]
+├── Trajectory Tables/ [126 typological studies]
+├── Chiasm/ [1,732 structural analyses]
+└── Intertextuality Pairs/ [2,587 cross-references]
 ```
 
 ### Explorer Folder Order (Custom)
@@ -156,21 +157,20 @@ Configured in `quartz.layout.ts` with custom `sortFn`:
 **New Files Created (5):**
 | File | Purpose |
 |------|---------|
-| `Readable Bible Index.md` | THE HUB - main entry point for reading Scripture |
+| `Readable Bible Index.md` | Main entry point (later merged into Scripture Index - see Session 7) |
 | `Home/01 - Getting Started.md` | Learning hub with links to sub-pages |
 | `Home/02 - Site Layout.md` | Explains hub-and-spoke architecture |
 | `Home/03 - Understanding Links.md` | Explains IP, C, TOSK, TT link types |
 | `Home/04 - Video Resources.md` | Explains YouTube videos on Trajectory Tables |
 
-**Files Modified (6):**
+**Files Modified (5):**
 | File | Changes |
 |------|---------|
 | `quartz.layout.ts` | Added custom folder ordering (Readable Bible first) |
 | `index.md` | Simplified - removed 66-book tables, added Quick Start section |
 | `Home/05 - For Different Users.md` | Updated navigation links |
-| `Home/06 - How Chiasms - Overview.md` | Added Getting Started breadcrumb |
-| `Home/20 - How Quotations - Overview.md` | Added Getting Started breadcrumb |
-| `Home/08 - Scripture Index.md` | Added Readable Bible Index link |
+| `Home/06 - How Chiasms - Overview.md` | Added Getting Started breadcrumb (later archived) |
+| `Home/20 - How Quotations - Overview.md` | Added Getting Started breadcrumb (later archived) |
 
 **Key Design Decisions:**
 - Readable Bible emphasized as THE HUB throughout all pages
@@ -184,6 +184,59 @@ Configured in `quartz.layout.ts` with custom `sortFn`:
 - Created `Home/Indexes/Readable Bible/` subfolder
 - Moved 66 book index pages (01 - Genesis through 66 - Revelation) into subfolder
 - Updated ~4,429 file references to use new paths
+
+### Session 7 - January 14, 2026 (Content Simplification & Cleanup)
+
+**Readable Bible Chapter Cleanup (1,255 files):**
+- Removed "-R" suffix from all chapter titles (e.g., "Genesis-R 1" → "Genesis 1")
+- Updated navigation to use arrows with pipe separators: `← Previous | Next →`
+- Removed book index links from chapter headers
+- Commands used:
+  ```bash
+  sed -i 's/^# \(.*\)-R \([0-9]*\) *$/# \1 \2/' */*.md
+  sed -i 's/\[\[.*|← \(.*\)\]\] - \[\[.*|\(.*\) →\]\]/[[path|← \1]] | [[path|\2 →]]/' */*.md
+  ```
+
+**Home Section Simplification:**
+
+Archived 33 obsolete pages to `Home/Archive/`:
+- Old tutorials: 02-10, 12 (10 files)
+- Chiasm deep dives: 13-26 (14 files)
+- Quotation deep dives: 27-35 (9 files)
+
+Renumbered remaining pages to clean sequence (01-08):
+
+| # | Page | Purpose |
+|---|------|---------|
+| 01 | Getting Started | Learning hub |
+| 02 | Site Layout | Architecture explanation |
+| 03 | Understanding Links | IP, C, TOSK, TT guide |
+| 04 | Video Resources | YouTube content explanation |
+| 05 | For Different Users | Layperson/Pastor/Scholar paths |
+| 06 | Why Chiasms Matter | Macro-level indicators (NEW) |
+| 07 | Why Cross-References Matter | Micro-level indicators (NEW) |
+| 08 | Scripture Index | Browse all 66 books |
+
+**New Content Created (based on Hermeneutics document):**
+
+`Home/06 - Why Chiasms Matter.md`:
+- Explains chiasms as "macro-level indicators" of authorial intent
+- Uses real example: Genesis 1:26-28 chiasm
+- References the Flood narrative (Genesis 6-9) center point
+- Links to actual chiasm files on the site
+
+`Home/07 - Why Cross-References Matter.md`:
+- Explains four "micro-level indicators": Quotations, Shared Key Words, Repeated Event Sequences, Covenantal Significance
+- Uses real examples: Matthew 1:22-23 → Isaiah 7:14, Noah's ark / Moses's basket connection
+- Links to actual Intertextuality Pairs on the site
+
+**Final Cleanup:**
+- Deleted redundant `Readable Bible Index.md` from content root
+- Updated 8 files to point to `Home/08 - Scripture Index` instead
+- Fixed self-referential links in Scripture Index
+- Fixed stray "please" typo in Why Cross-References Matter
+- Added images to Site Layout and Understanding Links pages
+- Added YouTube embed to Video Resources page
 
 ---
 

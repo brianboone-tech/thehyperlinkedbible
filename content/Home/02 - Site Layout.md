@@ -6,7 +6,7 @@
 
 ## The Readable Bible is the Center
 
-The Hyperlinked Bible uses a **hub-and-spoke architecture** with the **[[Readable Bible Index|Readable Bible]]** at the center. Everything else branches out from there.
+The Hyperlinked Bible uses a **hub-and-spoke architecture** with the **[[Home/08 - Scripture Index|Readable Bible]]** at the center. Everything else branches out from there.
 
 ![[Resources/Vault Architecture - Current.png]]
 
@@ -16,7 +16,7 @@ The Hyperlinked Bible uses a **hub-and-spoke architecture** with the **[[Readabl
 
 | Section | What It Contains | Purpose |
 |---------|------------------|---------|
-| **[[Readable Bible Index\|Readable Bible]]** | Full text with inline links | THE HUB - primary reading experience |
+| **[[Home/08 - Scripture Index\|Readable Bible]]** | Full text with inline links | THE HUB - primary reading experience |
 | **[[Home/Indexes/Trajectory Tables Index\|Trajectory Tables]]** | 126 typological studies | Trace themes from OT shadow to NT fulfillment |
 | **[[Home/Indexes/Chiasm Index\|Chiasms]]** | 1,732 literary structures | See authorial emphasis through mirror patterns |
 | **[[Home/Indexes/Intertextuality Pairs Index\|Intertextuality Pairs]]** | 2,587 cross-references | How passages quote and echo each other |

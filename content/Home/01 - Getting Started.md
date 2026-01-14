@@ -8,7 +8,7 @@
 
 The Hyperlinked Bible helps you **see what Jesus showed His disciples on the road to Emmaus**: Christ in all the Scriptures.
 
-The **[[Readable Bible Index|Readable Bible]]** is the heart of this site. Start there to read Scripture with every verse connected to cross-references, literary structures, and typological patterns.
+The **[[Home/08 - Scripture Index|Readable Bible]]** is the heart of this site. Start there to read Scripture with every verse connected to cross-references, literary structures, and typological patterns.
 
 ---
 
@@ -27,7 +27,7 @@ The **[[Readable Bible Index|Readable Bible]]** is the heart of this site. Start
 
 | Goal | Go Here |
 |------|---------|
-| **Read the Bible** | [[Readable Bible Index]] |
+| **Read the Bible** | [[Home/08 - Scripture Index]] |
 | Start at the beginning | [[Readable Bible/01 - Genesis/Genesis 1\|Genesis 1]] |
 | Start with Christ | [[Readable Bible/43 - John/John 1\|John 1]] |
 | See Jesus in Luke 24 | [[Readable Bible/42 - Luke/Luke 24\|Luke 24]] |
@@ -47,4 +47,4 @@ The **[[Readable Bible Index|Readable Bible]]** is the heart of this site. Start
 
 ---
 
-**[[index|← Home]]** | **[[Readable Bible Index|Read the Bible →]]**
+**[[index|← Home]]** | **[[Home/08 - Scripture Index|Read the Bible →]]**

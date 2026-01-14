@@ -1,4 +1,4 @@
-please # Why Cross-References Matter
+# Why Cross-References Matter
 
 **[[Home/06 - Why Chiasms Matter|← Why Chiasms Matter]]**
 
@@ -96,7 +96,7 @@ These connections trace trajectories that culminate in Jesus. The NT authors saw
 
 ## Explore Cross-References in The Hyperlinked Bible
 
-Every **IP** link in the [[Readable Bible Index|Readable Bible]] connects to an Intertextuality Pair showing how passages relate.
+Every **IP** link in the [[Home/08 - Scripture Index|Readable Bible]] connects to an Intertextuality Pair showing how passages relate.
 
 **Browse all 2,587 cross-references**: [[Home/Indexes/Intertextuality Pairs Index|Intertextuality Pairs Index]]
 

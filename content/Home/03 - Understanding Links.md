@@ -6,7 +6,7 @@
 
 ## The Inline Link System
 
-Every verse in the [[Readable Bible Index|Readable Bible]] ends with small inline links that connect you to deeper resources. Here's what each one means:
+Every verse in the [[Home/08 - Scripture Index|Readable Bible]] ends with small inline links that connect you to deeper resources. Here's what each one means:
 
 ---
 

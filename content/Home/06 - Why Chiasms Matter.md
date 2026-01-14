@@ -63,7 +63,7 @@ When A and A' are placed in corresponding positions, the author invites you to c
 
 ## Explore Chiasms in The Hyperlinked Bible
 
-Every **C** link in the [[Readable Bible Index|Readable Bible]] connects to a chiastic structure. Click any C link to see how that verse fits into a larger pattern.
+Every **C** link in the [[Home/08 - Scripture Index|Readable Bible]] connects to a chiastic structure. Click any C link to see how that verse fits into a larger pattern.
 
 **Browse all 1,732 chiasms**: [[Home/Indexes/Chiasm Index|Chiasm Index]]
 
