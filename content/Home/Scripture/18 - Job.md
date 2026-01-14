@@ -44,7 +44,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | — | [[Home/Scripture/Chiasms/18 - Job - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | — | [[Home/Scripture/Intertextuality/18 - Job - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/18 - Job - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/18 - Job - Trajectories\|View all →]] |
 
 ---

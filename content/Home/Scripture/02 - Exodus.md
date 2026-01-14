@@ -43,7 +43,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 43 | [[Home/Scripture/Chiasms/02 - Exodus - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 255 | [[Home/Scripture/Intertextuality/02 - Exodus - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/02 - Exodus - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/02 - Exodus - Trajectories\|View all →]] |
 
 

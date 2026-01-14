@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/62 - 1 John|1 John]]**
 
-[[Readable Bible/62 - 1 John/1 John 4#1 John-R 4| 1 John 4]] - [[Readable Bible/62 - 1 John/1 John 6#1 John-R 6| 1 John 6]]
+[[Readable Bible/62 - 1 John/1 John 4#1 John-R 4| 1 John 4]]
 
 ---
 

@@ -41,7 +41,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | — | [[Home/Scripture/Chiasms/21 - Ecclesiastes - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | — | [[Home/Scripture/Intertextuality/21 - Ecclesiastes - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/21 - Ecclesiastes - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/21 - Ecclesiastes - Trajectories\|View all →]] |
 
 ---

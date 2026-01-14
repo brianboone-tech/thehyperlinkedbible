@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 13 | [[Home/Scripture/Chiasms/51 - Colossians - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 16 | [[Home/Scripture/Intertextuality/51 - Colossians - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/51 - Colossians - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/51 - Colossians - Trajectories\|View all →]] |
 
 

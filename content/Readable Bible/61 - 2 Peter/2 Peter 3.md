@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/61 - 2 Peter|2 Peter]]**
 
-[[Readable Bible/61 - 2 Peter/2 Peter 2#2 Peter-R 2| 2 Peter 2]] - [[Readable Bible/61 - 2 Peter/2 Peter 4#2 Peter-R 4| 2 Peter 4]]
+[[Readable Bible/61 - 2 Peter/2 Peter 2#2 Peter-R 2| 2 Peter 2]]
 
 ---
 

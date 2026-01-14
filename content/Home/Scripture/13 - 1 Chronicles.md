@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 5 | [[Home/Scripture/Chiasms/13 - 1 Chronicles - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 64 | [[Home/Scripture/Intertextuality/13 - 1 Chronicles - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/13 - 1 Chronicles - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/13 - 1 Chronicles - Trajectories\|View all →]] |
 
 

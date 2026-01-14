@@ -41,7 +41,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 12 | [[Home/Scripture/Chiasms/16 - Nehemiah - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 26 | [[Home/Scripture/Intertextuality/16 - Nehemiah - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/16 - Nehemiah - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/16 - Nehemiah - Trajectories\|View all →]] |
 
 

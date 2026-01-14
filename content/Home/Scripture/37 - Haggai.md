@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 3 | [[Home/Scripture/Chiasms/37 - Haggai - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 10 | [[Home/Scripture/Intertextuality/37 - Haggai - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/37 - Haggai - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/37 - Haggai - Trajectories\|View all →]] |
 
 

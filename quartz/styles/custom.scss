@@ -170,21 +170,6 @@ a.internal {
   }
 }
 
-// Hide right sidebar on trajectory-table pages for more table room
-body:has(.trajectory-table) {
-  .page {
-    .sidebar.right {
-      display: none !important;
-    }
-
-    // Expand center content to fill the space
-    .center {
-      grid-column: 1 / -1;
-      max-width: 100%;
-    }
-  }
-}
-
 :root[saved-theme="dark"] .trajectory-table {
   .table-container table {
     border-color: var(--darkgray);

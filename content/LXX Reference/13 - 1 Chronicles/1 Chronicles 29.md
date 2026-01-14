@@ -7,7 +7,7 @@ Testament: Old
 
 # 1 Chronicles 29
 
-[[LXX Reference/13 - 1 Chronicles/1 Chronicles 28|←]] • [[LXX Reference/13 - 1 Chronicles/1 Chronicles 30|→]]
+[[LXX Reference/13 - 1 Chronicles/1 Chronicles 28|←]]
 
 ---
 

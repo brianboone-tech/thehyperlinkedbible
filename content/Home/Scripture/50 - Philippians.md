@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 10 | [[Home/Scripture/Chiasms/50 - Philippians - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 3 | [[Home/Scripture/Intertextuality/50 - Philippians - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/50 - Philippians - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/50 - Philippians - Trajectories\|View all →]] |
 
 

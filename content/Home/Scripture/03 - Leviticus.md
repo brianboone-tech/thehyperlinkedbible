@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 24 | [[Home/Scripture/Chiasms/03 - Leviticus - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 147 | [[Home/Scripture/Intertextuality/03 - Leviticus - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/03 - Leviticus - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/03 - Leviticus - Trajectories\|View all →]] |
 
 

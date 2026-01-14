@@ -97,9 +97,14 @@ This document tracks the work done with Claude Code on The Hyperlinked Bible pro
 - **Fixed decimal G-numbers** - Converted 1,345 bare decimal G-number links (e.g., `[[G1510.2.3|text]]`) to range-based Lexicon links (e.g., `[[Lexicon/G1501-1600|text]]`) in 61 LXX Reference files
 - **Final scan**: 7,290 broken link references remaining (~33% total reduction from original 10,939)
 
-### Session 4 - January 13, 2026 (Layout Improvements)
+### Session 4 - January 14, 2026 (Layout & Navigation Fixes)
 
-- **Hidden right sidebar on Trajectory Table pages** - Added CSS using `body:has(.trajectory-table)` selector to hide the Table of Contents sidebar and expand center content to full width, giving tables more horizontal room (similar to how Chiasm pages display without sidebar due to having no headings)
+- **Hidden right sidebar on Trajectory Table pages** - Added CSS using `body:has(.trajectory-table)` selector to hide the Table of Contents sidebar and expand center content to full width
+- **Fixed Trajectory Table outer border** - Updated CSS to add consistent 2px dark borders on all outer edges (left, right, bottom columns)
+- **Added Admin folder to .gitignore** - Prevents Admin folder from syncing to GitHub (template/placeholder files not needed on public site)
+- **Removed TOSK links from Scripture pages** - Removed "TOSK References" row from Browse All Resources table in all 66 Scripture book index files
+- **Fixed invalid chapter navigation in Readable Bible** - Removed "next chapter" links from 9 last-chapter files (Song of Solomon 8, 1 Corinthians 16, 2 Corinthians 13, 1 Thessalonians 5, 2 Thessalonians 3, 1 Timothy 6, 1 Peter 5, 2 Peter 3, 1 John 5)
+- **Fixed invalid chapter navigation in LXX Reference** - Removed "next chapter" links from 14 last-chapter files (Exodus 40, Deuteronomy 34, Joshua 24, 1 Samuel 31, 2 Samuel 24, 1 Kings 22, 1 Chronicles 29, 2 Chronicles 36, Ezra 10, Psalms 150, Ezekiel 48, Micah 7, Habakkuk 3, Zephaniah 3, Malachi 4)
 
 ---
 

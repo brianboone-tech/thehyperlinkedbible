@@ -43,7 +43,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 46 | [[Home/Scripture/Chiasms/09 - 1 Samuel - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 17 | [[Home/Scripture/Intertextuality/09 - 1 Samuel - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/09 - 1 Samuel - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/09 - 1 Samuel - Trajectories\|View all →]] |
 
 

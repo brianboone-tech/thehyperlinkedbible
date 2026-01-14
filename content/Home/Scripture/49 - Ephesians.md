@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 17 | [[Home/Scripture/Chiasms/49 - Ephesians - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 13 | [[Home/Scripture/Intertextuality/49 - Ephesians - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/49 - Ephesians - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/49 - Ephesians - Trajectories\|View all →]] |
 
 

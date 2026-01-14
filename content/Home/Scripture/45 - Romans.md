@@ -41,7 +41,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 34 | [[Home/Scripture/Chiasms/45 - Romans - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 53 | [[Home/Scripture/Intertextuality/45 - Romans - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/45 - Romans - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/45 - Romans - Trajectories\|View all →]] |
 
 

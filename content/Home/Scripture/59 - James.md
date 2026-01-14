@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 16 | [[Home/Scripture/Chiasms/59 - James - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 6 | [[Home/Scripture/Intertextuality/59 - James - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/59 - James - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/59 - James - Trajectories\|View all →]] |
 
 

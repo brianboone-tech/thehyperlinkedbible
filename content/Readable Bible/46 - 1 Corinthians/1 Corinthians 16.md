@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/46 - 1 Corinthians|1 Corinthians]]**
 
-[[Readable Bible/46 - 1 Corinthians/1 Corinthians 15#1 Corinthians-R 15| 1 Corinthians 15]] - [[Readable Bible/46 - 1 Corinthians/1 Corinthians 17#1 Corinthians-R 17| 1 Corinthians 17]]
+[[Readable Bible/46 - 1 Corinthians/1 Corinthians 15#1 Corinthians-R 15| 1 Corinthians 15]]
 
 ---
 

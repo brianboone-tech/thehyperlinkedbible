@@ -7,7 +7,7 @@ Testament: Old
 
 # Zephaniah 3
 
-[[LXX Reference/36 - Zephaniah/Zephaniah 2|←]] • [[LXX Reference/36 - Zephaniah/Zephaniah 4|→]]
+[[LXX Reference/36 - Zephaniah/Zephaniah 2|←]]
 
 ---
 

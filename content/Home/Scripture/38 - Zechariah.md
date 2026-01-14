@@ -41,7 +41,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 30 | [[Home/Scripture/Chiasms/38 - Zechariah - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 27 | [[Home/Scripture/Intertextuality/38 - Zechariah - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/38 - Zechariah - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/38 - Zechariah - Trajectories\|View all →]] |
 
 

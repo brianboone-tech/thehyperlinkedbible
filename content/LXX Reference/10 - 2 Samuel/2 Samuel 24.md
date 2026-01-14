@@ -7,7 +7,7 @@ Testament: Old
 
 # 2 Samuel 24
 
-[[LXX Reference/10 - 2 Samuel/2 Samuel 23|←]] • [[LXX Reference/10 - 2 Samuel/2 Samuel 25|→]]
+[[LXX Reference/10 - 2 Samuel/2 Samuel 23|←]]
 
 ---
 

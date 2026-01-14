@@ -7,7 +7,7 @@ Testament: Old
 
 # Exodus 40
 
-[[LXX Reference/2 - Exodus/Exodus 39|←]] • [[LXX Reference/2 - Exodus/Exodus 41|→]]
+[[LXX Reference/2 - Exodus/Exodus 39|←]]
 
 ---
 

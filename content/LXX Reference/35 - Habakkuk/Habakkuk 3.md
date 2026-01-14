@@ -7,7 +7,7 @@ Testament: Old
 
 # Habakkuk 3
 
-[[LXX Reference/35 - Habakkuk/Habakkuk 2|←]] • [[LXX Reference/35 - Habakkuk/Habakkuk 4|→]]
+[[LXX Reference/35 - Habakkuk/Habakkuk 2|←]]
 
 ---
 

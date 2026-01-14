@@ -7,7 +7,7 @@ Testament: Old
 
 # 1 Kings 22
 
-[[LXX Reference/11 - 1 Kings/1 Kings 21|←]] • [[LXX Reference/11 - 1 Kings/1 Kings 23|→]]
+[[LXX Reference/11 - 1 Kings/1 Kings 21|←]]
 
 ---
 

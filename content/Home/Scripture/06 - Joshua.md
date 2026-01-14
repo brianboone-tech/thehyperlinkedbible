@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 24 | [[Home/Scripture/Chiasms/06 - Joshua - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 40 | [[Home/Scripture/Intertextuality/06 - Joshua - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/06 - Joshua - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/06 - Joshua - Trajectories\|View all →]] |
 
 

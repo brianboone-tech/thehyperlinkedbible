@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 7 | [[Home/Scripture/Chiasms/08 - Ruth - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 14 | [[Home/Scripture/Intertextuality/08 - Ruth - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/08 - Ruth - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/08 - Ruth - Trajectories\|View all →]] |
 
 

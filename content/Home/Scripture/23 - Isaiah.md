@@ -46,7 +46,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 49 | [[Home/Scripture/Chiasms/23 - Isaiah - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 160 | [[Home/Scripture/Intertextuality/23 - Isaiah - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/23 - Isaiah - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/23 - Isaiah - Trajectories\|View all →]] |
 
 

@@ -45,7 +45,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 52 | [[Home/Scripture/Chiasms/24 - Jeremiah - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 124 | [[Home/Scripture/Intertextuality/24 - Jeremiah - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/24 - Jeremiah - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/24 - Jeremiah - Trajectories\|View all →]] |
 
 

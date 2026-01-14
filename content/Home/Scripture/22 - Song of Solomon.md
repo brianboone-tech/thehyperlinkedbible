@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | — | [[Home/Scripture/Chiasms/22 - Song of Solomon - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | — | [[Home/Scripture/Intertextuality/22 - Song of Solomon - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/22 - Song of Solomon - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/22 - Song of Solomon - Trajectories\|View all →]] |
 
 ---

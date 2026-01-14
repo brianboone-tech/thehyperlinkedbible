@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 9 | [[Home/Scripture/Chiasms/25 - Lamentations - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 18 | [[Home/Scripture/Intertextuality/25 - Lamentations - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/25 - Lamentations - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/25 - Lamentations - Trajectories\|View all →]] |
 
 

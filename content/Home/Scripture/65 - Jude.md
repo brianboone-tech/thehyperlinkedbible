@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 1 | [[Home/Scripture/Chiasms/65 - Jude - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 6 | [[Home/Scripture/Intertextuality/65 - Jude - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/65 - Jude - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/65 - Jude - Trajectories\|View all →]] |
 
 

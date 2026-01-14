@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 1 | [[Home/Scripture/Chiasms/31 - Obadiah - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 7 | [[Home/Scripture/Intertextuality/31 - Obadiah - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/31 - Obadiah - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/31 - Obadiah - Trajectories\|View all →]] |
 
 

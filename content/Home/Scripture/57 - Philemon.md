@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 1 | [[Home/Scripture/Chiasms/57 - Philemon - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 2 | [[Home/Scripture/Intertextuality/57 - Philemon - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/57 - Philemon - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/57 - Philemon - Trajectories\|View all →]] |
 
 

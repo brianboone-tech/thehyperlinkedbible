@@ -43,7 +43,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 30 | [[Home/Scripture/Chiasms/05 - Deuteronomy - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 150 | [[Home/Scripture/Intertextuality/05 - Deuteronomy - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/05 - Deuteronomy - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/05 - Deuteronomy - Trajectories\|View all →]] |
 
 

@@ -44,7 +44,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 69 | [[Home/Scripture/Chiasms/26 - Ezekiel - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 134 | [[Home/Scripture/Intertextuality/26 - Ezekiel - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/26 - Ezekiel - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/26 - Ezekiel - Trajectories\|View all →]] |
 
 

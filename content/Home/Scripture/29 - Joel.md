@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 8 | [[Home/Scripture/Chiasms/29 - Joel - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 12 | [[Home/Scripture/Intertextuality/29 - Joel - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/29 - Joel - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/29 - Joel - Trajectories\|View all →]] |
 
 

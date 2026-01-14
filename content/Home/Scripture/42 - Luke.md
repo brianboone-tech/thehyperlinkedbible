@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 92 | [[Home/Scripture/Chiasms/42 - Luke - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 115 | [[Home/Scripture/Intertextuality/42 - Luke - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/42 - Luke - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/42 - Luke - Trajectories\|View all →]] |
 
 

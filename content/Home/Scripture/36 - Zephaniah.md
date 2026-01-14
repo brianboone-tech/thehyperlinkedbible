@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 9 | [[Home/Scripture/Chiasms/36 - Zephaniah - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 4 | [[Home/Scripture/Intertextuality/36 - Zephaniah - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/36 - Zephaniah - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/36 - Zephaniah - Trajectories\|View all →]] |
 
 

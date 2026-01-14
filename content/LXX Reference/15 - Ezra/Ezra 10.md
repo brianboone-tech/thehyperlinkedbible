@@ -7,7 +7,7 @@ Testament: Old
 
 # Ezra 10
 
-[[LXX Reference/15 - Ezra/Ezra 9|←]] • [[LXX Reference/15 - Ezra/Ezra 11|→]]
+[[LXX Reference/15 - Ezra/Ezra 9|←]]
 
 ---
 

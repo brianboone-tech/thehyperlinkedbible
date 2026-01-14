@@ -7,7 +7,7 @@ Testament: Old
 
 # Joshua 24
 
-[[LXX Reference/06 - Joshua/Joshua 23|←]] • [[LXX Reference/06 - Joshua/Joshua 25|→]]
+[[LXX Reference/06 - Joshua/Joshua 23|←]]
 
 ---
 

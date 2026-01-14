@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 1 | [[Home/Scripture/Chiasms/63 - 2 John - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 3 | [[Home/Scripture/Intertextuality/63 - 2 John - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/63 - 2 John - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/63 - 2 John - Trajectories\|View all →]] |
 
 

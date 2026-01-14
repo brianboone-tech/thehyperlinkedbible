@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/52 - 1 Thessalonians|1 Thessalonians]]**
 
-[[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 4#1 Thessalonians-R 4| 1 Thessalonians 4]] - [[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 6#1 Thessalonians-R 6| 1 Thessalonians 6]]
+[[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 4#1 Thessalonians-R 4| 1 Thessalonians 4]]
 
 ---
 

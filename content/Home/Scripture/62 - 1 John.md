@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 16 | [[Home/Scripture/Chiasms/62 - 1 John - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 13 | [[Home/Scripture/Intertextuality/62 - 1 John - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/62 - 1 John - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/62 - 1 John - Trajectories\|View all →]] |
 
 

@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 12 | [[Home/Scripture/Chiasms/33 - Micah - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 20 | [[Home/Scripture/Intertextuality/33 - Micah - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/33 - Micah - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/33 - Micah - Trajectories\|View all →]] |
 
 

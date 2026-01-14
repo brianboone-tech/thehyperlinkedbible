@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/54 - 1 Timothy|1 Timothy]]**
 
-[[Readable Bible/54 - 1 Timothy/1 Timothy 5#1 Timothy-R 5| 1 Timothy 5]] - [[Readable Bible/54 - 1 Timothy/1 Timothy 7#1 Timothy-R 7| 1 Timothy 7]]
+[[Readable Bible/54 - 1 Timothy/1 Timothy 5#1 Timothy-R 5| 1 Timothy 5]]
 
 ---
 

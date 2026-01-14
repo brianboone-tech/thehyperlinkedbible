@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 11 | [[Home/Scripture/Chiasms/30 - Amos - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 24 | [[Home/Scripture/Intertextuality/30 - Amos - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/30 - Amos - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/30 - Amos - Trajectories\|View all →]] |
 
 

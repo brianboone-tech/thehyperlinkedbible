@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 5 | [[Home/Scripture/Chiasms/54 - 1 Timothy - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 8 | [[Home/Scripture/Intertextuality/54 - 1 Timothy - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/54 - 1 Timothy - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/54 - 1 Timothy - Trajectories\|View all →]] |
 
 

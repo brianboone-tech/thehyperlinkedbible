@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 10 | [[Home/Scripture/Chiasms/39 - Malachi - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 22 | [[Home/Scripture/Intertextuality/39 - Malachi - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/39 - Malachi - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/39 - Malachi - Trajectories\|View all →]] |
 
 

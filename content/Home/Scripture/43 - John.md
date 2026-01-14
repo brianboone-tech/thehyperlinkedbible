@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 80 | [[Home/Scripture/Chiasms/43 - John - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 109 | [[Home/Scripture/Intertextuality/43 - John - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/43 - John - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/43 - John - Trajectories\|View all →]] |
 
 

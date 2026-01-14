@@ -43,7 +43,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 36 | [[Home/Scripture/Chiasms/20 - Proverbs - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 11 | [[Home/Scripture/Intertextuality/20 - Proverbs - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/20 - Proverbs - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/20 - Proverbs - Trajectories\|View all →]] |
 
 

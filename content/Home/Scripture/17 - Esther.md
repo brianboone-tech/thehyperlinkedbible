@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | — | [[Home/Scripture/Chiasms/17 - Esther - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | — | [[Home/Scripture/Intertextuality/17 - Esther - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/17 - Esther - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/17 - Esther - Trajectories\|View all →]] |
 
 ---

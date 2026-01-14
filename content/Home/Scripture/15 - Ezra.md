@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 12 | [[Home/Scripture/Chiasms/15 - Ezra - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 30 | [[Home/Scripture/Intertextuality/15 - Ezra - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/15 - Ezra - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/15 - Ezra - Trajectories\|View all →]] |
 
 

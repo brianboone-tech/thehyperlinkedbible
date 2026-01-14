@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 85 | [[Home/Scripture/Chiasms/44 - Acts - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 218 | [[Home/Scripture/Intertextuality/44 - Acts - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/44 - Acts - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/44 - Acts - Trajectories\|View all →]] |
 
 

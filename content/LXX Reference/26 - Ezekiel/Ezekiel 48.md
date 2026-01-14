@@ -7,7 +7,7 @@ Testament: Old
 
 # Ezekiel 48
 
-[[LXX Reference/26 - Ezekiel/Ezekiel 47|←]] • [[LXX Reference/26 - Ezekiel/Ezekiel 49|→]]
+[[LXX Reference/26 - Ezekiel/Ezekiel 47|←]]
 
 ---
 

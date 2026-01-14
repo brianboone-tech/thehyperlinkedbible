@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 3 | [[Home/Scripture/Chiasms/56 - Titus - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 6 | [[Home/Scripture/Intertextuality/56 - Titus - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/56 - Titus - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/56 - Titus - Trajectories\|View all →]] |
 
 

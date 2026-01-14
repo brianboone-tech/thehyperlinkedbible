@@ -41,7 +41,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 28 | [[Home/Scripture/Chiasms/46 - 1 Corinthians - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 17 | [[Home/Scripture/Intertextuality/46 - 1 Corinthians - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/46 - 1 Corinthians - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/46 - 1 Corinthians - Trajectories\|View all →]] |
 
 

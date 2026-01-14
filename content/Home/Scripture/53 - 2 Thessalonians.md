@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 4 | [[Home/Scripture/Chiasms/53 - 2 Thessalonians - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 10 | [[Home/Scripture/Intertextuality/53 - 2 Thessalonians - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/53 - 2 Thessalonians - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/53 - 2 Thessalonians - Trajectories\|View all →]] |
 
 

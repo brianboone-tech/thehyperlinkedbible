@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 17 | [[Home/Scripture/Chiasms/12 - 2 Kings - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 87 | [[Home/Scripture/Intertextuality/12 - 2 Kings - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/12 - 2 Kings - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/12 - 2 Kings - Trajectories\|View all →]] |
 
 

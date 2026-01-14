@@ -41,7 +41,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 21 | [[Home/Scripture/Chiasms/27 - Daniel - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 19 | [[Home/Scripture/Intertextuality/27 - Daniel - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/27 - Daniel - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/27 - Daniel - Trajectories\|View all →]] |
 
 

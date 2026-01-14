@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 14 | [[Home/Scripture/Chiasms/60 - 1 Peter - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 13 | [[Home/Scripture/Intertextuality/60 - 1 Peter - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/60 - 1 Peter - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/60 - 1 Peter - Trajectories\|View all →]] |
 
 

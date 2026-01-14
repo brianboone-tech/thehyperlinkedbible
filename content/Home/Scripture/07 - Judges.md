@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 16 | [[Home/Scripture/Chiasms/07 - Judges - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 25 | [[Home/Scripture/Intertextuality/07 - Judges - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/07 - Judges - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/07 - Judges - Trajectories\|View all →]] |
 
 

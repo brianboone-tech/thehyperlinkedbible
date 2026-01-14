@@ -43,7 +43,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 47 | [[Home/Scripture/Chiasms/04 - Numbers - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 144 | [[Home/Scripture/Intertextuality/04 - Numbers - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/04 - Numbers - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/04 - Numbers - Trajectories\|View all →]] |
 
 

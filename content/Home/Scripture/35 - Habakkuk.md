@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 7 | [[Home/Scripture/Chiasms/35 - Habakkuk - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 3 | [[Home/Scripture/Intertextuality/35 - Habakkuk - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/35 - Habakkuk - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/35 - Habakkuk - Trajectories\|View all →]] |
 
 

@@ -7,7 +7,7 @@ Testament: Old
 
 # Deuteronomy 34
 
-[[LXX Reference/05 - Deuteronomy/Deuteronomy 33|←]] • [[LXX Reference/05 - Deuteronomy/Deuteronomy 35|→]]
+[[LXX Reference/05 - Deuteronomy/Deuteronomy 33|←]]
 
 ---
 

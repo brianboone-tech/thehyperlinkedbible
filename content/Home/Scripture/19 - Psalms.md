@@ -54,7 +54,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 179 | [[Home/Scripture/Chiasms/19 - Psalms - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 92 | [[Home/Scripture/Intertextuality/19 - Psalms - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/19 - Psalms - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/19 - Psalms - Trajectories\|View all →]] |
 
 

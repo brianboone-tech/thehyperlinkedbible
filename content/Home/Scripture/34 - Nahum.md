@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | — | [[Home/Scripture/Chiasms/34 - Nahum - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | — | [[Home/Scripture/Intertextuality/34 - Nahum - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/34 - Nahum - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/34 - Nahum - Trajectories\|View all →]] |
 
 ---

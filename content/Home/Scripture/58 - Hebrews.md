@@ -41,7 +41,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 32 | [[Home/Scripture/Chiasms/58 - Hebrews - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 48 | [[Home/Scripture/Intertextuality/58 - Hebrews - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/58 - Hebrews - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/58 - Hebrews - Trajectories\|View all →]] |
 
 

@@ -41,7 +41,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 21 | [[Home/Scripture/Chiasms/47 - 2 Corinthians - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 13 | [[Home/Scripture/Intertextuality/47 - 2 Corinthians - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/47 - 2 Corinthians - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/47 - 2 Corinthians - Trajectories\|View all →]] |
 
 

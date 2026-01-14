@@ -41,7 +41,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 67 | [[Home/Scripture/Chiasms/41 - Mark - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 38 | [[Home/Scripture/Intertextuality/41 - Mark - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/41 - Mark - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/41 - Mark - Trajectories\|View all →]] |
 
 

@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 98 | [[Home/Scripture/Chiasms/40 - Matthew - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 46 | [[Home/Scripture/Intertextuality/40 - Matthew - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/40 - Matthew - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/40 - Matthew - Trajectories\|View all →]] |
 
 

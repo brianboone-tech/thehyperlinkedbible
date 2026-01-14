@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 32 | [[Home/Scripture/Chiasms/66 - Revelation - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 19 | [[Home/Scripture/Intertextuality/66 - Revelation - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/66 - Revelation - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/66 - Revelation - Trajectories\|View all →]] |
 
 

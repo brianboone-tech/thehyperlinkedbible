@@ -7,7 +7,7 @@ Testament: Old
 
 # Micah 7
 
-[[LXX Reference/33 - Micah/Micah 6|←]] • [[LXX Reference/33 - Micah/Micah 8|→]]
+[[LXX Reference/33 - Micah/Micah 6|←]]
 
 ---
 

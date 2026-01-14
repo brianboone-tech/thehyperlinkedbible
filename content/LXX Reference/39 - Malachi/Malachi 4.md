@@ -7,7 +7,7 @@ Testament: Old
 
 # Malachi 4
 
-[[LXX Reference/39 - Malachi/Malachi 3|←]] • [[LXX Reference/39 - Malachi/Malachi 5|→]]
+[[LXX Reference/39 - Malachi/Malachi 3|←]]
 
 ---
 

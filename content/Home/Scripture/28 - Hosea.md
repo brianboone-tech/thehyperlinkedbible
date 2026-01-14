@@ -41,7 +41,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 21 | [[Home/Scripture/Chiasms/28 - Hosea - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 22 | [[Home/Scripture/Intertextuality/28 - Hosea - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/28 - Hosea - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/28 - Hosea - Trajectories\|View all →]] |
 
 

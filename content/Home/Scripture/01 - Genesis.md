@@ -66,7 +66,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 99 | [[Home/Scripture/Chiasms/01 - Genesis - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 99 | [[Home/Scripture/Intertextuality/01 - Genesis - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/01 - Genesis - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/01 - Genesis - Trajectories\|View all →]] |
 
 

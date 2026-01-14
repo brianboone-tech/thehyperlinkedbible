@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 6 | [[Home/Scripture/Chiasms/32 - Jonah - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 3 | [[Home/Scripture/Intertextuality/32 - Jonah - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/32 - Jonah - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/32 - Jonah - Trajectories\|View all →]] |
 
 

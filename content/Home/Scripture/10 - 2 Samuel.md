@@ -42,7 +42,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 29 | [[Home/Scripture/Chiasms/10 - 2 Samuel - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 97 | [[Home/Scripture/Intertextuality/10 - 2 Samuel - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/10 - 2 Samuel - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/10 - 2 Samuel - Trajectories\|View all →]] |
 
 

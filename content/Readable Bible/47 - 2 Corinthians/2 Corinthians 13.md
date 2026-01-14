@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/47 - 2 Corinthians|2 Corinthians]]**
 
-[[Readable Bible/47 - 2 Corinthians/2 Corinthians 12#2 Corinthians-R 12| 2 Corinthians 12]] - [[Readable Bible/47 - 2 Corinthians/2 Corinthians 14#2 Corinthians-R 14| 2 Corinthians 14]]
+[[Readable Bible/47 - 2 Corinthians/2 Corinthians 12#2 Corinthians-R 12| 2 Corinthians 12]]
 
 ---
 

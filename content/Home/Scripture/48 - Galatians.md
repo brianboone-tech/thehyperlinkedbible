@@ -40,7 +40,6 @@
 |----------|:-----:|------|
 | 🔀 **Chiasms** | 14 | [[Home/Scripture/Chiasms/48 - Galatians - Chiasms\|View all →]] |
 | 🔗 **Intertextuality Pairs** | 13 | [[Home/Scripture/Intertextuality/48 - Galatians - Intertextuality\|View all →]] |
-| 📖 **TOSK References** | — | [[Home/Scripture/TOSK/48 - Galatians - TOSK\|View all →]] |
 | 📈 **Trajectory Tables** | — | [[Home/Scripture/Trajectories/48 - Galatians - Trajectories\|View all →]] |
 
 
