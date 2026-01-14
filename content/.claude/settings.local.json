@@ -3,7 +3,10 @@
     "allow": [
       "Bash(xargs:*)",
       "Bash(dir /AD /B \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\")",
-      "Bash(npx quartz sync)"
+      "Bash(npx quartz sync)",
+      "Bash(git push:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
     ]
   }
 }
