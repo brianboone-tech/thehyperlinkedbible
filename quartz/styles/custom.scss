@@ -129,7 +129,8 @@ a.internal {
 // Enhanced table styling for trajectory tables with more pronounced borders
 .trajectory-table {
   .table-container table {
-    border: 2px solid var(--gray);
+    border: 2px solid var(--darkgray);
+    border-collapse: collapse;
 
     th {
       border: 1px solid var(--gray);
@@ -137,13 +138,34 @@ a.internal {
       background-color: var(--lightgray);
     }
 
+    // First header cell - add left border
+    th:first-child {
+      border-left: 2px solid var(--darkgray);
+    }
+
+    // Last header cell - add right border
+    th:last-child {
+      border-right: 2px solid var(--darkgray);
+    }
+
     td {
       border: 1px solid var(--gray);
       padding: 1rem;
     }
 
+    // First column cells - darker left border
+    td:first-child {
+      border-left: 2px solid var(--darkgray);
+    }
+
+    // Last column cells - darker right border
+    td:last-child {
+      border-right: 2px solid var(--darkgray);
+    }
+
+    // Last row - darker bottom border
     tr:last-child td {
-      border-bottom: 1px solid var(--gray);
+      border-bottom: 2px solid var(--darkgray);
     }
   }
 }
@@ -165,10 +187,22 @@ body:has(.trajectory-table) {
 
 :root[saved-theme="dark"] .trajectory-table {
   .table-container table {
-    border-color: var(--gray);
+    border-color: var(--darkgray);
 
     th, td {
       border-color: var(--gray);
+    }
+
+    th:first-child, td:first-child {
+      border-left-color: var(--darkgray);
+    }
+
+    th:last-child, td:last-child {
+      border-right-color: var(--darkgray);
+    }
+
+    tr:last-child td {
+      border-bottom-color: var(--darkgray);
     }
   }
 }

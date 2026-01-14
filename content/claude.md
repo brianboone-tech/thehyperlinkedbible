@@ -97,6 +97,10 @@ This document tracks the work done with Claude Code on The Hyperlinked Bible pro
 - **Fixed decimal G-numbers** - Converted 1,345 bare decimal G-number links (e.g., `[[G1510.2.3|text]]`) to range-based Lexicon links (e.g., `[[Lexicon/G1501-1600|text]]`) in 61 LXX Reference files
 - **Final scan**: 7,290 broken link references remaining (~33% total reduction from original 10,939)
 
+### Session 4 - January 13, 2026 (Layout Improvements)
+
+- **Hidden right sidebar on Trajectory Table pages** - Added CSS using `body:has(.trajectory-table)` selector to hide the Table of Contents sidebar and expand center content to full width, giving tables more horizontal room (similar to how Chiasm pages display without sidebar due to having no headings)
+
 ---
 
 ## Broken Links Report
