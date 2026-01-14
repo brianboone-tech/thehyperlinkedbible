@@ -1,12 +1,14 @@
 # Scripture Index
 
-<b>[[index|← Home]]</b> | <b>[[35 - How Quotations - How to Use This in Study|← Previous: How to Use This in Study]]</b>
+**[[index|← Home]]** | **[[Readable Bible Index|Read the Bible →]]**
 
 ---
 
 ## Quick Navigation
 
-**Tip**: Click any book to see its chapter grid, chiasms, and trajectory tables.
+> [!tip] The [[Readable Bible Index|Readable Bible]] is the heart of this site - start there to read with inline links
+
+Click any book below to see its chapter grid, chiasms, and trajectory tables.
 Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 ---

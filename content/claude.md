@@ -99,12 +99,19 @@ This document tracks the work done with Claude Code on The Hyperlinked Bible pro
 
 ### Session 4 - January 14, 2026 (Layout & Navigation Fixes)
 
-- **Hidden right sidebar on Trajectory Table pages** - Added CSS using `body:has(.trajectory-table)` selector to hide the Table of Contents sidebar and expand center content to full width
 - **Fixed Trajectory Table outer border** - Updated CSS to add consistent 2px dark borders on all outer edges (left, right, bottom columns)
 - **Added Admin folder to .gitignore** - Prevents Admin folder from syncing to GitHub (template/placeholder files not needed on public site)
 - **Removed TOSK links from Scripture pages** - Removed "TOSK References" row from Browse All Resources table in all 66 Scripture book index files
 - **Fixed invalid chapter navigation in Readable Bible** - Removed "next chapter" links from 9 last-chapter files (Song of Solomon 8, 1 Corinthians 16, 2 Corinthians 13, 1 Thessalonians 5, 2 Thessalonians 3, 1 Timothy 6, 1 Peter 5, 2 Peter 3, 1 John 5)
 - **Fixed invalid chapter navigation in LXX Reference** - Removed "next chapter" links from 14 last-chapter files (Exodus 40, Deuteronomy 34, Joshua 24, 1 Samuel 31, 2 Samuel 24, 1 Kings 22, 1 Chronicles 29, 2 Chronicles 36, Ezra 10, Psalms 150, Ezekiel 48, Micah 7, Habakkuk 3, Zephaniah 3, Malachi 4)
+
+### Session 5 - January 14, 2026 (Greek Word Study & Bug Fix)
+
+- **Greek word study: proskuneō (G4352)** - Researched the primary Greek word for "worship" meaning "to prostrate oneself in homage." Found all NT occurrences across Matthew, Mark, Luke, John, Acts, 1 Corinthians, Hebrews, and Revelation
+- **Greek word study: latreúō (G3000)** - Found related worship word in Philippians 3:3 meaning "to minister to God, render religious homage, serve, worship"
+- **Analyzed latreúō in Paul's epistles** - Found 4 occurrences: Romans 1:9, Romans 1:25, Philippians 3:3, 2 Timothy 1:3
+- **Analyzed proskuneō in corporate worship context** - Determined that proskuneō is not used to describe Christian corporate worship in the NT; the closest is 1 Corinthians 14:25 which describes an unbeliever's response, not believers worshiping together
+- **Fixed Trajectory Table page layout** - Resynced site to fix broken layout where content was stretched full-width without sidebars (caused by cached CSS from earlier sidebar-hiding experiment)
 
 ---
 

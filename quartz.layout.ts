@@ -40,6 +40,43 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       folderClickBehavior: "collapse",
+      sortFn: (a, b) => {
+        const folderOrder = [
+          "Readable Bible",
+          "Trajectory Tables",
+          "Chiasm",
+          "Intertextuality Pairs",
+          "Reference Bible",
+          "Lexicon",
+          "The Treasury of Scripture Knowledge",
+          "LXX Reference",
+          "Redemptive-Historical Cycles",
+          "Trajectory Tables - Foundation Texts",
+          "Home",
+          "Resources",
+          "Admin"
+        ]
+
+        // Folders before files
+        if (a.isFolder && !b.isFolder) return -1
+        if (!a.isFolder && b.isFolder) return 1
+
+        // Both folders - use priority order
+        if (a.isFolder && b.isFolder) {
+          const aIdx = folderOrder.indexOf(a.displayName)
+          const bIdx = folderOrder.indexOf(b.displayName)
+
+          if (aIdx !== -1 && bIdx === -1) return -1
+          if (aIdx === -1 && bIdx !== -1) return 1
+          if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
+        }
+
+        // Alphabetical fallback
+        return a.displayName.localeCompare(b.displayName, undefined, {
+          numeric: true,
+          sensitivity: "base",
+        })
+      },
     }),
   ],
   right: [
@@ -66,6 +103,43 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       folderClickBehavior: "collapse",
+      sortFn: (a, b) => {
+        const folderOrder = [
+          "Readable Bible",
+          "Trajectory Tables",
+          "Chiasm",
+          "Intertextuality Pairs",
+          "Reference Bible",
+          "Lexicon",
+          "The Treasury of Scripture Knowledge",
+          "LXX Reference",
+          "Redemptive-Historical Cycles",
+          "Trajectory Tables - Foundation Texts",
+          "Home",
+          "Resources",
+          "Admin"
+        ]
+
+        // Folders before files
+        if (a.isFolder && !b.isFolder) return -1
+        if (!a.isFolder && b.isFolder) return 1
+
+        // Both folders - use priority order
+        if (a.isFolder && b.isFolder) {
+          const aIdx = folderOrder.indexOf(a.displayName)
+          const bIdx = folderOrder.indexOf(b.displayName)
+
+          if (aIdx !== -1 && bIdx === -1) return -1
+          if (aIdx === -1 && bIdx !== -1) return 1
+          if (aIdx !== -1 && bIdx !== -1) return aIdx - bIdx
+        }
+
+        // Alphabetical fallback
+        return a.displayName.localeCompare(b.displayName, undefined, {
+          numeric: true,
+          sensitivity: "base",
+        })
+      },
     }),
   ],
   right: [],

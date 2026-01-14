@@ -1,4 +1,4 @@
-**[[index|Home]] > [[- Hermeneutics|Hermeneutics]] > How Chiasms Reveal Authorial Intent**
+**[[index|Home]] > [[Home/Getting Started|Getting Started]] > How Chiasms Reveal Authorial Intent**
 
 ---
 
@@ -34,4 +34,4 @@ A detailed walkthrough using Colossians 1:2-12 as a worked example.
 
 ---
 
-**[[index|← Back to Home]]** | **[[- Hermeneutics|Hermeneutics]]**
+**[[Home/Getting Started|← Getting Started]]** | **[[Readable Bible Index|Read the Bible →]]**

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs:*)",
+      "Bash(dir /AD /B \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\")",
+      "Bash(npx quartz sync)"
+    ]
+  }
+}

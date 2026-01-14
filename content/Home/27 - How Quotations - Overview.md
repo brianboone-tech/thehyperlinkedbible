@@ -1,4 +1,4 @@
-**[[index|Home]] > [[- Hermeneutics|Hermeneutics]] > How Quotations Reveal Authorial Intent**
+**[[index|Home]] > [[Home/Getting Started|Getting Started]] > How Quotations Reveal Authorial Intent**
 
 ---
 
@@ -29,4 +29,4 @@ How biblical authors used quotations, key terms, repeated sequences, and covenan
 
 ---
 
-**[[index|← Back to Home]]** | **[[- Hermeneutics|Hermeneutics]]**
+**[[Home/Getting Started|← Getting Started]]** | **[[Readable Bible Index|Read the Bible →]]**
