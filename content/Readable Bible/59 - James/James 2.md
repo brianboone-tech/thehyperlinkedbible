@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 1
-# James-R 2
+# James 2
 
-**[[Home/Indexes/Readable Bible/59 - James|James]]**
-
-[[Readable Bible/59 - James/James 1#James-R 1| James 1]] - [[Readable Bible/59 - James/James 3#James-R 3| James 3]]
+[[Readable Bible/59 - James/James 1|← James 1]] | [[Readable Bible/59 - James/James 3|James 3 →]]
 
 ---
 

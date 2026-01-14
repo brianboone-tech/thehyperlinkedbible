@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 21
+# Psalm 21
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 20#Psalm-R 20| Psalm 20]] - [[Readable Bible/19 - Psalms/Psalm 22#Psalm-R 22| Psalm 22]]
+[[Readable Bible/19 - Psalms/Psalm 20|← Psalm 20]] | [[Readable Bible/19 - Psalms/Psalm 22|Psalm 22 →]]
 
 ---
 

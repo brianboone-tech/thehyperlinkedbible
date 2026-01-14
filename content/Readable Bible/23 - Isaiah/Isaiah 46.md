@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah-R 46
+# Isaiah 46
 
-**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
-
-[[Readable Bible/23 - Isaiah/Isaiah 45#Isaiah-R 45| Isaiah 45]] - [[Readable Bible/23 - Isaiah/Isaiah 47#Isaiah-R 47| Isaiah 47]]
+[[Readable Bible/23 - Isaiah/Isaiah 45|← Isaiah 45]] | [[Readable Bible/23 - Isaiah/Isaiah 47|Isaiah 47 →]]
 
 ---
 

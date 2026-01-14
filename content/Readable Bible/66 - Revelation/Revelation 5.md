@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Revelation-R 5
+# Revelation 5
 
-**[[Home/Indexes/Readable Bible/66 - Revelation|Revelation]]**
-
-[[Readable Bible/66 - Revelation/Revelation 4#Revelation-R 4| Revelation 4]] - [[Readable Bible/66 - Revelation/Revelation 6#Revelation-R 6| Revelation 6]]
+[[Readable Bible/66 - Revelation/Revelation 4|← Revelation 4]] | [[Readable Bible/66 - Revelation/Revelation 6|Revelation 6 →]]
 
 ---
 
@@ -32,7 +30,7 @@ cssClasses: lexicon
 [[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 6|6]] Then I saw a Lamb who appeared to have been slain, standing in the center of the throne, encircled by the four living creatures and the elders. The Lamb had seven horns and seven eyes, which represent the seven Spirits of God sent out into all the earth.  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 6|TOSK]] | [[Trajectory Tables/017 - Brazen Altar (Place of Sacrifice)|TT¹]] | [[Trajectory Tables/114 - Passover (Christ Our Passover Lamb)|TT¹]] | [[Trajectory Tables/115 - Passover (Christ Our Passover)|TT²]] |
 
 ##### Revelation 5 . 7
-[[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 7|7]] And He came and took the scroll from the right hand of the One seated on the throne.  |  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 7|TOSK]] |
+[[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 7|7]] And He came and took the scroll from the right hand of the One seated on the throne. |  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 7|TOSK]] |
 
 ##### Revelation 5 . 8
 [[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 8|8]] When He had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb. Each one had a harp, and they were holding golden bowls full of incense, which are the prayers of the saints.  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 8|TOSK]] | [[Trajectory Tables/006 - Altar of Incense (Christ's Intercession)|TT¹]] | [[Trajectory Tables/101 - Meat-Offering (Tribute and Thanksgiving)|TT²]] | [[Trajectory Tables/120 - Pleasing Aroma (Divine Acceptance and Propitiation)|TT³]] |

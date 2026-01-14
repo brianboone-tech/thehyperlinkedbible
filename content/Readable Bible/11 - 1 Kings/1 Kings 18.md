@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Kings-R 18
+# 1 Kings 18
 
-**[[Home/Indexes/Readable Bible/11 - 1 Kings|1 Kings]]**
-
-[[Readable Bible/11 - 1 Kings/1 Kings 17#1 Kings-R 17| 1 Kings 17]] - [[Readable Bible/11 - 1 Kings/1 Kings 19#1 Kings-R 19| 1 Kings 19]]
+[[Readable Bible/11 - 1 Kings/1 Kings 17|← 1 Kings 17]] | [[Readable Bible/11 - 1 Kings/1 Kings 19|1 Kings 19 →]]
 
 ---
 
@@ -24,7 +22,7 @@ cssClasses: lexicon
 
 ##### 1 Kings 18 . 4
 [[Reference Bible/11 - 1 Kings/1 Kings 18#1 Kings 18 - 4|4]] for when Jezebel had slaughtered the prophets of the LORD, Obadiah had taken a hundred prophets and hidden them, fifty men per cave, providing them with food and water.)  | [[Chiasm/Chiasm - 11 - 1 Kings 18 . 1 - 16|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 18 - TOSK#Verse 4|TOSK]] |
-  |  [[Chiasm/Chiasm - 11 - 1 Kings 18 . 1 - 16|Chiasm]]  |
+ | [[Chiasm/Chiasm - 11 - 1 Kings 18 . 1 - 16|Chiasm]]  |
 ##### 1 Kings 18 . 5
 [[Reference Bible/11 - 1 Kings/1 Kings 18#1 Kings 18 - 5|5]] Then Ahab said to Obadiah, “Go throughout the land to every spring and every valley. Perhaps we will find grass to keep the horses and mules alive so that we will not have to destroy any livestock.”  | [[Chiasm/Chiasm - 11 - 1 Kings 18 . 1 - 16|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 18 - TOSK#Verse 5|TOSK]] |
 

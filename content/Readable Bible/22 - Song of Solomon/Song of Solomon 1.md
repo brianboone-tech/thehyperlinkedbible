@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Song of Solomon-R 1
+# Song of Solomon 1
 
-**[[Home/Indexes/Readable Bible/22 - Song of Solomon|Song of Solomon]]**
-
-[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 12|←]] • [[Readable Bible/22 - Song of Solomon/Song of Solomon 2|→]]
+[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 12|←]] | [[Readable Bible/22 - Song of Solomon/Song of Solomon 2|→]]
 
 ---
 

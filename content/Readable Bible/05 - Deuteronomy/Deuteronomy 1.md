@@ -5,11 +5,10 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Deuteronomy-R 1
+# Deuteronomy 1
 
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
 
- [[Readable Bible/04 - Numbers/Numbers 36#Numbers-R 36| Numbers 36]]- [[Readable Bible/05 - Deuteronomy/Deuteronomy 2#Deuteronomy-R 2| Deuteronomy 2]]
+ [[Readable Bible/04 - Numbers/Numbers 36|Numbers 36]]- [[Readable Bible/05 - Deuteronomy/Deuteronomy 2|Deuteronomy 2]]
 
 ---
 

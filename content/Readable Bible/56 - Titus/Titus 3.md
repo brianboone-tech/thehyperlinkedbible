@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Titus-R 3
+# Titus 3
 
-**[[Home/Indexes/Readable Bible/56 - Titus|Titus]]**
-
-[[Readable Bible/56 - Titus/Titus 2#Titus-R 2| Titus 2]]
+[[Readable Bible/56 - Titus/Titus 2|← Titus 2]]
 
 ---
 

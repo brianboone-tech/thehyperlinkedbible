@@ -5,12 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Revelation-R 7
+# Revelation 7
 
-**[[Home/Indexes/Readable Bible/66 - Revelation|Revelation]]**
-
-
-[[Readable Bible/66 - Revelation/Revelation 6#Revelation-R 6| Revelation 6]] - [[Readable Bible/66 - Revelation/Revelation 8#Revelation-R 8| Revelation 8]]
+[[Readable Bible/66 - Revelation/Revelation 6|← Revelation 6]] | [[Readable Bible/66 - Revelation/Revelation 8|Revelation 8 →]]
 
 ---
 
@@ -57,7 +54,7 @@ cssClasses: lexicon
 [[Reference Bible/66 - Revelation/Revelation 7#Revelation 7 - 14|14]] “Sir,” I answered, “you know.” So he replied, “These are the ones who have come out of the great tribulation; they have washed their robes and made them white in the blood of the Lamb.  | [[Chiasm/Chiasm - 66 - Revelation 7 . 9 - 15|C]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 7 - TOSK#Verse 14|TOSK]] | [[Trajectory Tables/075 - Hyssop (Instrument of Blood Application)|TT¹]] | [[Trajectory Tables/142 - Scarlet Wool and Cedar (Purification Bundle)|TT¹]] | [[Trajectory Tables/073 - Holy Garments (Glory and Beauty)|TT²]] | [[Trajectory Tables/125 - Purifications (Cleansing and Consecration)|TT³]] | [[Trajectory Tables/129 - Rejection Then Exaltation (Pattern of Suffering and Glory)|TT⁴]] |
 
 ##### Revelation 7 . 15
-[[Reference Bible/66 - Revelation/Revelation 7#Revelation 7 - 15|15]] For this reason, they are before the throne of God and serve Him day and night in His temple; and the One seated on the throne will spread His tabernacle over them.  |  | [[Chiasm/Chiasm - 66 - Revelation 7 . 9 - 15|C]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 7 - TOSK#Verse 15|TOSK]] | [[Trajectory Tables/034 - Consecration of Priests (Set Apart for Service)|TT]] |
+[[Reference Bible/66 - Revelation/Revelation 7#Revelation 7 - 15|15]] For this reason, they are before the throne of God and serve Him day and night in His temple; and the One seated on the throne will spread His tabernacle over them. |  | [[Chiasm/Chiasm - 66 - Revelation 7 . 9 - 15|C]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 7 - TOSK#Verse 15|TOSK]] | [[Trajectory Tables/034 - Consecration of Priests (Set Apart for Service)|TT]] |
 
 ##### Revelation 7 . 16
 [[Reference Bible/66 - Revelation/Revelation 7#Revelation 7 - 16|16]] ‘Never again will they hunger, and never will they thirst; nor will the sun beat down upon them, nor any scorching heat.’  | [[Chiasm/Chiasm - 66 - Revelation 7 . 16 - 17|C]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 7 - TOSK#Verse 16|TOSK]] | [[Trajectory Tables/171 - Wilderness Testing (Faith Through Trial)|TT]] |

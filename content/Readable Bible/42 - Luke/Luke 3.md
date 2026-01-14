@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Luke-R 3
+# Luke 3
 
-**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
-
-[[Readable Bible/42 - Luke/Luke 2#Luke-R 2| Luke 2]] - [[Readable Bible/42 - Luke/Luke 4#Luke-R 4| Luke 4]]
+[[Readable Bible/42 - Luke/Luke 2|← Luke 2]] | [[Readable Bible/42 - Luke/Luke 4|Luke 4 →]]
 
 ---
 
 ##### Luke 3 . 1
-[[Reference Bible/42 - Luke/Luke 3#Luke 3 - 1|1]] In the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,   || [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 3 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/42 - Luke/Luke 3#Luke 3 - 1|1]] In the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,  | | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 3 - TOSK#Verse 1|TOSK]] |
 ##### Luke 3 . 2
 [[Reference Bible/42 - Luke/Luke 3#Luke 3 - 2|2]] during the high priesthood of Annas and Caiaphas, the word of God came to John son of Zechariah in the wilderness.  | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 3 - TOSK#Verse 2|TOSK]] |
 ##### Luke 3 . 3

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 31
+# Exodus 31
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 30#Exodus-R 30| Exodus 30]] - [[Readable Bible/02 - Exodus/Exodus 32#Exodus-R 32| Exodus 32]]
+[[Readable Bible/02 - Exodus/Exodus 30|← Exodus 30]] | [[Readable Bible/02 - Exodus/Exodus 32|Exodus 32 →]]
 
 ---
 

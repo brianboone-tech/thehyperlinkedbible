@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 12
+# Exodus 12
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 11#Exodus-R 11| Exodus 11]] - [[Readable Bible/02 - Exodus/Exodus 13#Exodus-R 13| Exodus 13]]
+[[Readable Bible/02 - Exodus/Exodus 11|← Exodus 11]] | [[Readable Bible/02 - Exodus/Exodus 13|Exodus 13 →]]
 
 ---
 

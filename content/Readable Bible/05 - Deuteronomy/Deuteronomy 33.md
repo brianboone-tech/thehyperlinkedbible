@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Deuteronomy-R 33
+# Deuteronomy 33
 
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
-
-[[Readable Bible/05 - Deuteronomy/Deuteronomy 32#Deuteronomy-R 32| Deuteronomy 32]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 34#Deuteronomy-R 34| Deuteronomy 34]]
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 32|← Deuteronomy 32]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 34|Deuteronomy 34 →]]
 
 ---
 
@@ -35,10 +33,10 @@ cssClasses: lexicon
 [[Reference Bible/5 - Deuteronomy/Deuteronomy 33#Deuteronomy 33 - 7|7]] And concerning Judah he said: “O LORD, hear the cry of Judah and bring him to his people. With his own hands he defends his cause, but may You be a help against his foes.”  
   
 ##### Deuteronomy 33 . 8
-[[Reference Bible/5 - Deuteronomy/Deuteronomy 33#Deuteronomy 33 - 8|8]] Concerning Levi he said: "Give Your Thummim to Levi and Your Urim to Your godly one, whom You tested at Massah and contested at the waters of Meribah.  | [[Trajectory Tables/166 - Urim and Thummim (Divine Guidance and Perfect Light)|TT]] |  
+[[Reference Bible/5 - Deuteronomy/Deuteronomy 33#Deuteronomy 33 - 8|8]] Concerning Levi he said: "Give Your Thummim to Levi and Your Urim to Your godly one, whom You tested at Massah and contested at the waters of Meribah.  | [[Trajectory Tables/166 - Urim and Thummim (Divine Guidance and Perfect Light)|TT]] | 
   
 ##### Deuteronomy 33 . 9
-[[Reference Bible/5 - Deuteronomy/Deuteronomy 33#Deuteronomy 33 - 9|9]] He said of his father and mother, ‘I do not consider them.’ He disregarded his brothers and did not know his own sons, for he kept Your word and maintained Your covenant.  | [[Readable Bible/42 - Luke/Luke 14#Luke 14 . 26|Luke 14:26 - E]]  
+[[Reference Bible/5 - Deuteronomy/Deuteronomy 33#Deuteronomy 33 - 9|9]] He said of his father and mother, ‘I do not consider them.’ He disregarded his brothers and did not know his own sons, for he kept Your word and maintained Your covenant.   | [[Readable Bible/42 - Luke/Luke 14#Luke 14 . 26|Luke 14:26 - E]]  
   
 ##### Deuteronomy 33 . 10
 [[Reference Bible/5 - Deuteronomy/Deuteronomy 33#Deuteronomy 33 - 10|10]] He will teach Your ordinances to Jacob and Your law to Israel; he will set incense before You and whole burnt offerings on Your altar.  | [[Intertextuality Pairs/OT to OT/05 - Deuteronomy/Deuteronomy 33.10 to Malachi 2.6|IP¹]] | [[Intertextuality Pairs/OT to OT/05 - Nehemiah/Nehemiah 8.7 to Deuteronomy 33.10|IP²]] | [[Intertextuality Pairs/OT to OT/05 - Nehemiah/Nehemiah 8.8 to Deuteronomy 33.10|IP³]] | [[Intertextuality Pairs/OT to OT/16 - Nehemiah/Nehemiah 8.7 to Deuteronomy 33.10|IP⁴]] | [[Intertextuality Pairs/OT to OT/16 - Nehemiah/Nehemiah 8.8 to Deuteronomy 33.10|IP⁵]] | [[Intertextuality Pairs/OT to OT/39 - Malachi/Malachi 2.6 to Deuteronomy 33.10|IP⁶]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 33 - TOSK#Verse 10|TOSK]] | [[Trajectory Tables/096 - Levites (Substitutionary Service)|TT¹]] | [[Trajectory Tables/123 - Priestly Teaching (Torah Instruction)|TT¹]] |

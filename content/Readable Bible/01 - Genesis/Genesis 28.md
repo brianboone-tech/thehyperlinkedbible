@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Genesis-R 28
+# Genesis 28
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
-
-[[Readable Bible/01 - Genesis/Genesis 27#Genesis-R 27| Genesis 27]] - [[Readable Bible/01 - Genesis/Genesis 29#Genesis-R 29| Genesis 29]]
+[[Readable Bible/01 - Genesis/Genesis 27|← Genesis 27]] | [[Readable Bible/01 - Genesis/Genesis 29|Genesis 29 →]]
 
 ---
 

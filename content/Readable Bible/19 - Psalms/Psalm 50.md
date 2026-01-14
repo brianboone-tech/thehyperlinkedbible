@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 50
+# Psalm 50
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 49#Psalm-R 49| Psalm 49]] - [[Readable Bible/19 - Psalms/Psalm 51#Psalm-R 51| Psalm 51]]
+[[Readable Bible/19 - Psalms/Psalm 49|← Psalm 49]] | [[Readable Bible/19 - Psalms/Psalm 51|Psalm 51 →]]
 
 ---
 

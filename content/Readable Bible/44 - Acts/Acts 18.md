@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Acts-R 18
+# Acts 18
 
-**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
-
-[[Readable Bible/44 - Acts/Acts 17#Acts-R 17| Acts 17]] - [[Readable Bible/44 - Acts/Acts 19#Acts-R 19| Acts 19]]
+[[Readable Bible/44 - Acts/Acts 17|← Acts 17]] | [[Readable Bible/44 - Acts/Acts 19|Acts 19 →]]
 
 ---
 
 ##### Acts 18 . 1
-[[Reference Bible/44 - Acts/Acts 18#Acts 18 - 1|1]] After this, Paul left Athens and went to Corinth.   || [[Chiasm/Chiasm - 44 - Acts 18 . 01 - 11|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 18 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/44 - Acts/Acts 18#Acts 18 - 1|1]] After this, Paul left Athens and went to Corinth.  | | [[Chiasm/Chiasm - 44 - Acts 18 . 01 - 11|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 18 - TOSK#Verse 1|TOSK]] |
 
 ##### Acts 18 . 2
 [[Reference Bible/44 - Acts/Acts 18#Acts 18 - 2|2]] There he found a Jew named Aquila, a native of Pontus, who had recently come from Italy with his wife Priscilla because Claudius had ordered all the Jews to leave Rome. Paul went to visit them,  | [[Chiasm/Chiasm - 44 - Acts 18 . 01 - 11|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 18 - TOSK#Verse 2|TOSK]] |

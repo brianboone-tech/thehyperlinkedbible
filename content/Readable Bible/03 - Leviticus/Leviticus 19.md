@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus-R 19
+# Leviticus 19
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
-
-[[Readable Bible/03 - Leviticus/Leviticus 18#Leviticus-R 18| Leviticus 18]] - [[Readable Bible/03 - Leviticus/Leviticus 20#Leviticus-R 20| Leviticus 20]]
+[[Readable Bible/03 - Leviticus/Leviticus 18|← Leviticus 18]] | [[Readable Bible/03 - Leviticus/Leviticus 20|Leviticus 20 →]]
 
 ---
 

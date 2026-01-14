@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 38
+# Psalm 38
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 37#Psalm-R 37| Psalm 37]] - [[Readable Bible/19 - Psalms/Psalm 39#Psalm-R 39| Psalm 39]]
+[[Readable Bible/19 - Psalms/Psalm 37|← Psalm 37]] | [[Readable Bible/19 - Psalms/Psalm 39|Psalm 39 →]]
 
 ---
 

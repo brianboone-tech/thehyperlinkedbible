@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# John-R 4
+# John 4
 
-**[[Home/Indexes/Readable Bible/43 - John|John]]**
-
-[[Readable Bible/43 - John/John 3#John-R 3| John 3]] - [[Readable Bible/43 - John/John 5#John-R 5| John 5]]
+[[Readable Bible/43 - John/John 3|← John 3]] | [[Readable Bible/43 - John/John 5|John 5 →]]
 
 ---
 
 ##### John 4 . 1
-[[Reference Bible/43 - John/John 4#John 4 - 1|1]] When Jesus realized that the Pharisees were aware He was gaining and baptizing more disciples than John   || [[The Treasury of Scripture Knowledge/43. John TOSK/John - 4 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/43 - John/John 4#John 4 - 1|1]] When Jesus realized that the Pharisees were aware He was gaining and baptizing more disciples than John  | | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 4 - TOSK#Verse 1|TOSK]] |
 
 ##### John 4 . 2
 [[Reference Bible/43 - John/John 4#John 4 - 2|2]] (although it was not Jesus who baptized, but His disciples),  | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 4 - TOSK#Verse 2|TOSK]] |

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Luke-R 8
+# Luke 8
 
-**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
-
-[[Readable Bible/42 - Luke/Luke 7#Luke-R 7| Luke 7]] - [[Readable Bible/42 - Luke/Luke 9#Luke-R 9| Luke 9]]
+[[Readable Bible/42 - Luke/Luke 7|← Luke 7]] | [[Readable Bible/42 - Luke/Luke 9|Luke 9 →]]
 
 ---
 

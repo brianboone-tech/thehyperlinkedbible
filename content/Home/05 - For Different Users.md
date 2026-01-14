@@ -1,6 +1,6 @@
 # For Different Users
 
-**[[Home/Getting Started|← Getting Started]]**
+**[[Home/01 - Getting Started|← Getting Started]]**
 
 ---
 
@@ -51,4 +51,4 @@ The Hyperlinked Bible serves three audiences—each can go as deep as they want.
 
 ---
 
-**[[Home/Getting Started|← Getting Started]]** | **[[Readable Bible Index|Read the Bible →]]**
+**[[Home/01 - Getting Started|← Getting Started]]** | **[[Readable Bible Index|Read the Bible →]]**

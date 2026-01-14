@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Job-R 1
+# Job 1
 
-**[[Home/Indexes/Readable Bible/18 - Job|Job]]**
-
-[[Readable Bible/17 - Esther/Esther 10#Esther-R 10|Esther 10]] • [[Readable Bible/18 - Job/Job 2#Job-R 2|Job 2]]
+[[Readable Bible/17 - Esther/Esther 10|← Esther 10]] | [[Readable Bible/18 - Job/Job 2|Job 2 →]]
 
 ---
 

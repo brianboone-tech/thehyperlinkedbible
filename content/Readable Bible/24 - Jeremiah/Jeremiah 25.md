@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah-R 25
+# Jeremiah 25
 
-**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
-
-[[Readable Bible/24 - Jeremiah/Jeremiah 24#Jeremiah-R 24| Jeremiah 24]] - [[Readable Bible/24 - Jeremiah/Jeremiah 26#Jeremiah-R 26| Jeremiah 26]]
+[[Readable Bible/24 - Jeremiah/Jeremiah 24|← Jeremiah 24]] | [[Readable Bible/24 - Jeremiah/Jeremiah 26|Jeremiah 26 →]]
 
 ---
 

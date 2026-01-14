@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 11
+# Ezekiel 11
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 10#Ezekiel-R 10| Ezekiel 10]] - [[Readable Bible/26 - Ezekiel/Ezekiel 12#Ezekiel-R 12| Ezekiel 12]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 10|← Ezekiel 10]] | [[Readable Bible/26 - Ezekiel/Ezekiel 12|Ezekiel 12 →]]
 
 ---
 
 ##### Ezekiel 11 . 1
-[[Reference Bible/26 - Ezekiel/Ezekiel 11#Ezekiel 11 - 1|1]] Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. And there at the entrance of the gate were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, who were leaders of the people.|  | [[Chiasm/Chiasm - 26 - Ezekiel 10 . 19 - 11 . 1|C¹]] | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 1 - 13|C²]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 11#Ezekiel 11 - 1|1]] Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. And there at the entrance of the gate were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, who were leaders of the people.| | [[Chiasm/Chiasm - 26 - Ezekiel 10 . 19 - 11 . 1|C¹]] | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 1 - 13|C²]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 1|TOSK]] |
 
 ##### Ezekiel 11 . 2
 [[Reference Bible/26 - Ezekiel/Ezekiel 11#Ezekiel 11 - 2|2]] And the LORD said to me, “Son of man, these are the men who plot evil and give wicked counsel in this city.  | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 1 - 13|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 2|TOSK]] |
@@ -71,7 +69,7 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 11#Ezekiel 11 - 19|19]] And I will give them singleness of heart and put a new spirit within them; I will remove their heart of stone and give them a heart of flesh,  | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 36.26 to Ezekiel 11.19|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 36.26-27 to Ezekiel 11.19-20|IP²]] | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 14 - 21|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 19|TOSK]] |
 
 ##### Ezekiel 11 . 20
-[[Reference Bible/26 - Ezekiel/Ezekiel 11#Ezekiel 11 - 20|20]] so that they may follow My statutes, keep My ordinances, and practice them. Then they will be My people, and I will be their God. | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 14 - 21|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 20|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 14 - 21|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 20|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 14 - 21|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 20|TOSK]] |  | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 36.26-27 to Ezekiel 11.19-20|IP]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 11#Ezekiel 11 - 20|20]] so that they may follow My statutes, keep My ordinances, and practice them. Then they will be My people, and I will be their God. | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 14 - 21|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 20|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 14 - 21|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 20|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 14 - 21|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 20|TOSK]] | | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 36.26-27 to Ezekiel 11.19-20|IP]] |
 
 ##### Ezekiel 11 . 21
 [[Reference Bible/26 - Ezekiel/Ezekiel 11#Ezekiel 11 - 21|21]] But as for those whose hearts pursue detestable things and abominations, I will bring their conduct down upon their own heads, declares the Lord GOD.”  | [[Chiasm/Chiasm - 26 - Ezekiel 11 . 14 - 21|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 11 - TOSK#Verse 21|TOSK]]  [[Trajectory Tables/028 - Cherubim (Glorified Humanity)|TT¹]]  [[Trajectory Tables/065 - Glory-Cloud (Divine Presence)|TT¹]]  [[Trajectory Tables/158 - Temple Ecclesiology (Church as God's Dwelling)|TT²]] |

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah-R 40
+# Isaiah 40
 
-**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
-
-[[Readable Bible/23 - Isaiah/Isaiah 39#Isaiah-R 39| Isaiah 39]] - [[Readable Bible/23 - Isaiah/Isaiah 41#Isaiah-R 41| Isaiah 41]]
+[[Readable Bible/23 - Isaiah/Isaiah 39|← Isaiah 39]] | [[Readable Bible/23 - Isaiah/Isaiah 41|Isaiah 41 →]]
 
 ---
 

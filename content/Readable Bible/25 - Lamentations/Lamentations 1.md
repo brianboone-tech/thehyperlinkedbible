@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Lamentations-R 1
+# Lamentations 1
 
-**[[Home/Indexes/Readable Bible/25 - Lamentations|Lamentations]]**
-
-[[Readable Bible/24 - Jeremiah/Jeremiah 52|←]] • [[Readable Bible/25 - Lamentations/Lamentations 2|→]]
+[[Readable Bible/24 - Jeremiah/Jeremiah 52|←]] | [[Readable Bible/25 - Lamentations/Lamentations 2|→]]
 
 ---
 
 ##### Lamentations 1 . 1
-[[Reference Bible/25 - Lamentations/Lamentations 1#Lamentations 1 - 1|1]] How lonely lies the city, once so full of people! She who was great among the nations has become a widow. The princess of the provinces has become a slave.   || [[Chiasm/Chiasm - 25 - Lamentations 1 . 1 - 10|C¹]] | [[Chiasm/Chiasm - 25 - Lamentations 1 . 1 - 5 . 22|C²]] | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 1 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/011 - Babylonian Exile (Judgment and Discipline)|TT]] |
+[[Reference Bible/25 - Lamentations/Lamentations 1#Lamentations 1 - 1|1]] How lonely lies the city, once so full of people! She who was great among the nations has become a widow. The princess of the provinces has become a slave.  | | [[Chiasm/Chiasm - 25 - Lamentations 1 . 1 - 10|C¹]] | [[Chiasm/Chiasm - 25 - Lamentations 1 . 1 - 5 . 22|C²]] | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 1 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/011 - Babylonian Exile (Judgment and Discipline)|TT]] |
 ##### Lamentations 1 . 2
 [[Reference Bible/25 - Lamentations/Lamentations 1#Lamentations 1 - 2|2]] She weeps aloud in the night, with tears upon her cheeks. Among all her lovers there is no one to comfort her. All her friends have betrayed her; they have become her enemies.  | [[Intertextuality Pairs/OT to OT/25 - Lamentations/Lamentations 1.2 to Isaiah 40.1|IP]] | [[Chiasm/Chiasm - 25 - Lamentations 1 . 1 - 10|C]] | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 1 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/108 - New Exodus (Second Exodus Pattern)|TT²]] | [[Trajectory Tables/131 - Return from Exile (Restoration and Hope)|TT³]] |
 ##### Lamentations 1 . 3

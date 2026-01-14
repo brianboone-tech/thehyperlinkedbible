@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Kings-R 9
+# 1 Kings 9
 
-**[[Home/Indexes/Readable Bible/11 - 1 Kings|1 Kings]]**
-
-[[Readable Bible/11 - 1 Kings/1 Kings 8#1 Kings-R 8| 1 Kings 8]] - [[Readable Bible/11 - 1 Kings/1 Kings 10#1 Kings-R 10| 1 Kings 10]]
+[[Readable Bible/11 - 1 Kings/1 Kings 8|← 1 Kings 8]] | [[Readable Bible/11 - 1 Kings/1 Kings 10|1 Kings 10 →]]
 
 ---
 

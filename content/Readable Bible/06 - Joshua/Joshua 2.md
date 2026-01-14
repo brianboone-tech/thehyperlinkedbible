@@ -6,11 +6,9 @@ cssclasses:
   - lexicon
 ---
 
-# Joshua-R 2
+# Joshua 2
 
-**[[Home/Indexes/Readable Bible/06 - Joshua|Joshua]]**
-
-[[Readable Bible/06 - Joshua/Joshua 1#Joshua-R 1| Joshua 1]] - [[Readable Bible/06 - Joshua/Joshua 3#Joshua-R 3| Joshua 3]]
+[[Readable Bible/06 - Joshua/Joshua 1|← Joshua 1]] | [[Readable Bible/06 - Joshua/Joshua 3|Joshua 3 →]]
 
 ---
 

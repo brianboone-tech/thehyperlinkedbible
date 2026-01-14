@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Chronicles-R 16
+# 2 Chronicles 16
 
-**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|2 Chronicles]]**
-
-[[Readable Bible/14 - 2 Chronicles/2 Chronicles 15#2 Chronicles-R 15| 2 Chronicles 15]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 17#2 Chronicles-R 17| 2 Chronicles 17]]
+[[Readable Bible/14 - 2 Chronicles/2 Chronicles 15|← 2 Chronicles 15]] | [[Readable Bible/14 - 2 Chronicles/2 Chronicles 17|2 Chronicles 17 →]]
 
 ---
 
 ##### 2 Chronicles 16 . 1
-[[Reference Bible/14 - 2 Chronicles/2 Chronicles 16#2 Chronicles 16 - 1|1]]  In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.   || [[Chiasm/Chiasm - 14 - 2 Chronicles 16 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 16 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 16#2 Chronicles 16 - 1|1]]  In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.  | | [[Chiasm/Chiasm - 14 - 2 Chronicles 16 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 16 - TOSK#Verse 1|TOSK]] |
 
 ##### 2 Chronicles 16 . 2
 [[Reference Bible/14 - 2 Chronicles/2 Chronicles 16#2 Chronicles 16 - 2|2]]  So Asa withdrew the silver and gold from the treasuries of the house of the LORD and the royal palace, and he sent it with this message to Ben-hadad king of Aram, who was ruling in Damascus:  | [[Chiasm/Chiasm - 14 - 2 Chronicles 16 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 16 - TOSK#Verse 2|TOSK]] |

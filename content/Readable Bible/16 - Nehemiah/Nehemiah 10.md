@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Nehemiah-R 10
+# Nehemiah 10
 
-**[[Home/Indexes/Readable Bible/16 - Nehemiah|Nehemiah]]**
-
-[[Readable Bible/16 - Nehemiah/Nehemiah 9#Nehemiah-R 9| Nehemiah 9]] - [[Readable Bible/16 - Nehemiah/Nehemiah 11#Nehemiah-R 11| Nehemiah 11]]
+[[Readable Bible/16 - Nehemiah/Nehemiah 9|← Nehemiah 9]] | [[Readable Bible/16 - Nehemiah/Nehemiah 11|Nehemiah 11 →]]
 
 ---
 

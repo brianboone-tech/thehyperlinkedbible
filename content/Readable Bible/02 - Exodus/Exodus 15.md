@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 15
+# Exodus 15
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 14#Exodus-R 14| Exodus 14]] - [[Readable Bible/02 - Exodus/Exodus 16#Exodus-R 16| Exodus 16]]
+[[Readable Bible/02 - Exodus/Exodus 14|← Exodus 14]] | [[Readable Bible/02 - Exodus/Exodus 16|Exodus 16 →]]
 
 ---
 

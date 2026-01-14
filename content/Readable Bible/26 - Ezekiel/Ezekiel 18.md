@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 18
+# Ezekiel 18
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 17#Ezekiel-R 17| Ezekiel 17]] - [[Readable Bible/26 - Ezekiel/Ezekiel 19#Ezekiel-R 19| Ezekiel 19]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 17|← Ezekiel 17]] | [[Readable Bible/26 - Ezekiel/Ezekiel 19|Ezekiel 19 →]]
 
 ---
 
@@ -89,13 +87,13 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 25|25]] Yet you say, ‘The way of the Lord is not just.’ Hear now, O house of Israel: Is it My way that is unjust? Is it not your ways that are unjust?  | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 25|TOSK]] |
 
 ##### Ezekiel 18 . 26
-[[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 26|26]] If a righteous man turns from his righteousness and practices iniquity, he will die for this. He will die because of the iniquity he has committed.  |  | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 26|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 26|26]] If a righteous man turns from his righteousness and practices iniquity, he will die for this. He will die because of the iniquity he has committed. |  | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 26|TOSK]] |
 
 ##### Ezekiel 18 . 27
-[[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 27|27]] But if a wicked man turns from the wickedness he has committed and does what is just and right, he will save his life.|  | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 27|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 27|27]] But if a wicked man turns from the wickedness he has committed and does what is just and right, he will save his life.| | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 27|TOSK]] |
 
 ##### Ezekiel 18 . 28
-[[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 28|28]] Because he considered and turned from all the transgressions he had committed, he will surely live; he will not die.|  | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 28|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 28|28]] Because he considered and turned from all the transgressions he had committed, he will surely live; he will not die.| | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 28|TOSK]] |
 
 ##### Ezekiel 18 . 29
 [[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 29|29]] Yet the house of Israel says, ‘The way of the Lord is not just.’ Are My ways unjust, O house of Israel? Is it not your ways that are unjust?  | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 29|TOSK]] |
@@ -107,4 +105,4 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 31|31]] Cast away from yourselves all the transgressions you have committed, and fashion for yourselves a new heart and a new spirit. Why should you die, O house of Israel?  | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 31|TOSK]] |
 
 ##### Ezekiel 18 . 32
-[[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 32|32]] For I take no pleasure in anyone’s death, declares the Lord GOD. So repent and live!|  | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 32|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 18#Ezekiel 18 - 32|32]] For I take no pleasure in anyone’s death, declares the Lord GOD. So repent and live!| | [[Chiasm/Chiasm - 26 - Ezekiel 18 . 1 - 32|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 18 - TOSK#Verse 32|TOSK]] |

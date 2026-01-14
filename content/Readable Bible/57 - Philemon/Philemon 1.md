@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Philemon-R 1
+# Philemon 1
 
-**[[Home/Indexes/Readable Bible/57 - Philemon|Philemon]]**
-
-[[Readable Bible/56 - Titus/Titus 3#Titus-R 3| Titus 3]]
+[[Readable Bible/56 - Titus/Titus 3|Titus 3 →]]
 
 ---
 

@@ -7,7 +7,12 @@
       "Bash(git push:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(for f in */*.md)",
+      "Bash(do sed -i ':a;N;$!ba;s/\\\\n\\\\n\\\\n\\\\[\\\\[Readable/\\\\n\\\\n[[Readable/g' \"$f\")",
+      "Bash(done)",
+      "Bash(perl:*)",
+      "Bash(grep:*)"
     ]
   }
 }

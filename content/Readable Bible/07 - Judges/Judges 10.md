@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Judges-R 10
+# Judges 10
 
-**[[Home/Indexes/Readable Bible/07 - Judges|Judges]]**
-
-[[Readable Bible/07 - Judges/Judges 9#Judges-R 9| Judges 9]] - [[Readable Bible/07 - Judges/Judges 11#Judges-R 11| Judges 11]]
+[[Readable Bible/07 - Judges/Judges 9|← Judges 9]] | [[Readable Bible/07 - Judges/Judges 11|Judges 11 →]]
 
 ---
 

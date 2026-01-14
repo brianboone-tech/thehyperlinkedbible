@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 19
+# Ezekiel 19
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 18#Ezekiel-R 18| Ezekiel 18]] - [[Readable Bible/26 - Ezekiel/Ezekiel 20#Ezekiel-R 20| Ezekiel 20]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 18|← Ezekiel 18]] | [[Readable Bible/26 - Ezekiel/Ezekiel 20|Ezekiel 20 →]]
 
 ---
 

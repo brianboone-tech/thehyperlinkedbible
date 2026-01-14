@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Micah-R 2
+# Micah 2
 
-**[[Home/Indexes/Readable Bible/33 - Micah|Micah]]**
-
-[[Readable Bible/33 - Micah/Micah 1#Micah-R 1| Micah 1]] - [[Readable Bible/33 - Micah/Micah 3#Micah-R 3| Micah 3]]
+[[Readable Bible/33 - Micah/Micah 1|← Micah 1]] | [[Readable Bible/33 - Micah/Micah 3|Micah 3 →]]
 
 ---
 

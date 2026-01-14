@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ecclesiastes-R 1
+# Ecclesiastes 1
 
-**[[Home/Indexes/Readable Bible/21 - Ecclesiastes|Ecclesiastes]]**
-
-[[Readable Bible/20 - Proverbs/Proverbs 31|←]] • [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 2|→]]
+[[Readable Bible/20 - Proverbs/Proverbs 31|←]] | [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 2|→]]
 
 ---
 

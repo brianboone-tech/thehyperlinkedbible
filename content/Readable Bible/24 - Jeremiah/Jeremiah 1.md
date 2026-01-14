@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah-R 1
+# Jeremiah 1
 
-**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
-
-[[Readable Bible/23 - Isaiah/Isaiah 66|←]] • [[Readable Bible/24 - Jeremiah/Jeremiah 2|→]]
+[[Readable Bible/23 - Isaiah/Isaiah 66|←]] | [[Readable Bible/24 - Jeremiah/Jeremiah 2|→]]
 
 ---
 

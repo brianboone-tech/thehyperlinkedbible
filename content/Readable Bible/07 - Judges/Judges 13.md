@@ -5,17 +5,15 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Judges-R 13
+# Judges 13
 
-**[[Home/Indexes/Readable Bible/07 - Judges|Judges]]**
-
-[[Readable Bible/07 - Judges/Judges 12#Judges-R 12| Judges 12]] - [[Readable Bible/07 - Judges/Judges 14#Judges-R 14| Judges 14]]
+[[Readable Bible/07 - Judges/Judges 12|← Judges 12]] | [[Readable Bible/07 - Judges/Judges 14|Judges 14 →]]
 
 ---
 
 ##### Judges 13 . 1
 [[Reference Bible/7 - Judges/Judges 13#Judges 13 - 1|1]] Again the Israelites did evil in the sight of the LORD, so He delivered them into the hand of the Philistines for forty years.  | [[Chiasm/Chiasm - 07 - Judges 13 . 1 - 14|C¹]] | [[Chiasm/Chiasm - 07 - Judges 13 . 1 - 16 . 31|C²]] | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 13 - TOSK#Verse 1|TOSK]] |
-  |  [[Chiasm/Chiasm - 07 - Judges 13 . 1 - 14|Chiasm]]  |
+ | [[Chiasm/Chiasm - 07 - Judges 13 . 1 - 14|Chiasm]]  |
 
 ##### Judges 13 . 2
 [[Reference Bible/7 - Judges/Judges 13#Judges 13 - 2|2]] Now there was a man from Zorah named Manoah, from the clan of the Danites, whose wife was barren and had no children.  | [[Chiasm/Chiasm - 07 - Judges 13 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 13 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/069 - Hannah (Barren Mother of Promise)|TT¹]] | [[Trajectory Tables/137 - Samson (Spirit-Empowered Deliverer)|TT¹]] |

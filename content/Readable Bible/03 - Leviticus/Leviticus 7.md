@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus-R 7
+# Leviticus 7
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
-
-[[Readable Bible/03 - Leviticus/Leviticus 6#Leviticus-R 6| Leviticus 6]] - [[Readable Bible/03 - Leviticus/Leviticus 8#Leviticus-R 8| Leviticus 8]]
+[[Readable Bible/03 - Leviticus/Leviticus 6|← Leviticus 6]] | [[Readable Bible/03 - Leviticus/Leviticus 8|Leviticus 8 →]]
 
 ---
 

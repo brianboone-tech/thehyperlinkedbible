@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Revelation-R 20
+# Revelation 20
 
-**[[Home/Indexes/Readable Bible/66 - Revelation|Revelation]]**
-
-[[Readable Bible/66 - Revelation/Revelation 19#Revelation-R 19| Revelation 19]] - [[Readable Bible/66 - Revelation/Revelation 21#Revelation-R 21| Revelation 21]]
+[[Readable Bible/66 - Revelation/Revelation 19|← Revelation 19]] | [[Readable Bible/66 - Revelation/Revelation 21|Revelation 21 →]]
 
 ---
 

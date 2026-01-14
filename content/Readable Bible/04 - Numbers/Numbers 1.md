@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Numbers-R 1
+# Numbers 1
 
-**[[Home/Indexes/Readable Bible/04 - Numbers|Numbers]]**
-
-[[Readable Bible/03 - Leviticus/Leviticus 27#Leviticus-R 27| Leviticus 27]] - [[Readable Bible/04 - Numbers/Numbers 2#Numbers-R 2| Numbers 2]]
+[[Readable Bible/03 - Leviticus/Leviticus 27|← Leviticus 27]] | [[Readable Bible/04 - Numbers/Numbers 2|Numbers 2 →]]
 
 ---
 

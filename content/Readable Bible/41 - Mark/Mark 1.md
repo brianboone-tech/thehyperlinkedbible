@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Mark-R 1
+# Mark 1
 
-**[[Home/Indexes/Readable Bible/41 - Mark|Mark]]**
-
-[[Readable Bible/40 - Matthew/Matthew 28#Matthew-R 28|Matthew 28]] • [[Readable Bible/41 - Mark/Mark 2#Mark-R 2|Mark 2]]
+[[Readable Bible/40 - Matthew/Matthew 28|← Matthew 28]] | [[Readable Bible/41 - Mark/Mark 2|Mark 2 →]]
 
 ---
 

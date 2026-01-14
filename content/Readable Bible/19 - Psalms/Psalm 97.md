@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 97
+# Psalm 97
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 96#Psalm-R 96| Psalm 96]] - [[Readable Bible/19 - Psalms/Psalm 98#Psalm-R 98| Psalm 98]]
+[[Readable Bible/19 - Psalms/Psalm 96|← Psalm 96]] | [[Readable Bible/19 - Psalms/Psalm 98|Psalm 98 →]]
 
 ---
 

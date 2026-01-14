@@ -5,9 +5,8 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Samuel-R 1
+# 2 Samuel 1
 
-**[[Home/Indexes/Readable Bible/10 - 2 Samuel|2 Samuel]]**
 
 
 

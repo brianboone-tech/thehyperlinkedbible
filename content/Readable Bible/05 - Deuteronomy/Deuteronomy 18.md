@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Deuteronomy-R 18
+# Deuteronomy 18
 
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
-
-[[Readable Bible/05 - Deuteronomy/Deuteronomy 17#Deuteronomy-R 17| Deuteronomy 17]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 19#Deuteronomy-R 19| Deuteronomy 19]]
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 17|← Deuteronomy 17]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 19|Deuteronomy 19 →]]
 
 ---
 

@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Acts-R 11
+# Acts 11
 
-**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
-
-[[Readable Bible/44 - Acts/Acts 10#Acts-R 10| Acts 10]] - [[Readable Bible/44 - Acts/Acts 12#Acts-R 12| Acts 12]]
+[[Readable Bible/44 - Acts/Acts 10|← Acts 10]] | [[Readable Bible/44 - Acts/Acts 12|Acts 12 →]]
 
 ---
 
 ##### Acts 11 . 1
-[[Reference Bible/44 - Acts/Acts 11#Acts 11 - 1|1]] The apostles and brothers throughout Judea soon heard that the Gentiles also had received the word of God.   || [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 11 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/44 - Acts/Acts 11#Acts 11 - 1|1]] The apostles and brothers throughout Judea soon heard that the Gentiles also had received the word of God.  | | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 11 - TOSK#Verse 1|TOSK]] |
 
 ##### Acts 11 . 2
 [[Reference Bible/44 - Acts/Acts 11#Acts 11 - 2|2]] So when Peter went up to Jerusalem, the circumcised believers took issue with him  | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 11 - TOSK#Verse 2|TOSK]] |

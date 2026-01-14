@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Chronicles-R 25
+# 1 Chronicles 25
 
-**[[Home/Indexes/Readable Bible/13 - 1 Chronicles|1 Chronicles]]**
-
-[[Readable Bible/13 - 1 Chronicles/1 Chronicles 24#1 Chronicles-R 24| 1 Chronicles 24]] - [[Readable Bible/13 - 1 Chronicles/1 Chronicles 26#1 Chronicles-R 26| 1 Chronicles 26]]
+[[Readable Bible/13 - 1 Chronicles/1 Chronicles 24|← 1 Chronicles 24]] | [[Readable Bible/13 - 1 Chronicles/1 Chronicles 26|1 Chronicles 26 →]]
 
 ---
 

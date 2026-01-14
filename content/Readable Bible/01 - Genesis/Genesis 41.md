@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Genesis-R 41
+# Genesis 41
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
-
-[[Readable Bible/01 - Genesis/Genesis 40#Genesis-R 40| Genesis 40]] - [[Readable Bible/01 - Genesis/Genesis 42#Genesis-R 42| Genesis 42]]
+[[Readable Bible/01 - Genesis/Genesis 40|← Genesis 40]] | [[Readable Bible/01 - Genesis/Genesis 42|Genesis 42 →]]
 
 ---
 

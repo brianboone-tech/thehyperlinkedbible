@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezra-R 4
+# Ezra 4
 
-**[[Home/Indexes/Readable Bible/15 - Ezra|Ezra]]**
-
-[[Readable Bible/15 - Ezra/Ezra 3#Ezra-R 3| Ezra 3]] - [[Readable Bible/15 - Ezra/Ezra 5#Ezra-R 5| Ezra 5]]
+[[Readable Bible/15 - Ezra/Ezra 3|← Ezra 3]] | [[Readable Bible/15 - Ezra/Ezra 5|Ezra 5 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Numbers-R 27
+# Numbers 27
 
-**[[Home/Indexes/Readable Bible/04 - Numbers|Numbers]]**
-
-[[Readable Bible/04 - Numbers/Numbers 26#Numbers-R 26| Numbers 26]] - [[Readable Bible/04 - Numbers/Numbers 28#Numbers-R 28| Numbers 28]] 
+[[Readable Bible/04 - Numbers/Numbers 26|Numbers 26]] | [[Readable Bible/04 - Numbers/Numbers 28|Numbers 28]] 
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 65
+# Psalm 65
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 64#Psalm-R 64| Psalm 64]] - [[Readable Bible/19 - Psalms/Psalm 66#Psalm-R 66| Psalm 66]]
+[[Readable Bible/19 - Psalms/Psalm 64|← Psalm 64]] | [[Readable Bible/19 - Psalms/Psalm 66|Psalm 66 →]]
 
 ---
 

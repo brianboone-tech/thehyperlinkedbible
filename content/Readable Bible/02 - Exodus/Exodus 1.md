@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 1
+# Exodus 1
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/01 - Genesis/Genesis 50#Genesis-R 50| Genesis 50]] - [[Readable Bible/02 - Exodus/Exodus 2#Exodus-R 2| Exodus 2]]
+[[Readable Bible/01 - Genesis/Genesis 50|← Genesis 50]] | [[Readable Bible/02 - Exodus/Exodus 2|Exodus 2 →]]
 
 ---
 

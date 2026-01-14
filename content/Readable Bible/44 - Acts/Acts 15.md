@@ -5,12 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Acts-R 15
+# Acts 15
 
-**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
-
-
-[[Readable Bible/44 - Acts/Acts 14#Acts-R 14| Acts 14]] - [[Readable Bible/44 - Acts/Acts 16#Acts-R 16| Acts 16]]
+[[Readable Bible/44 - Acts/Acts 14|← Acts 14]] | [[Readable Bible/44 - Acts/Acts 16|Acts 16 →]]
 
 ---
 

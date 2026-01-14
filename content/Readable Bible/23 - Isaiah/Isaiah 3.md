@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah-R 3
+# Isaiah 3
 
-**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
-
-[[Readable Bible/23 - Isaiah/Isaiah 2#Isaiah-R 2| Isaiah 2]] - [[Readable Bible/23 - Isaiah/Isaiah 4#Isaiah-R 4| Isaiah 4]]
+[[Readable Bible/23 - Isaiah/Isaiah 2|← Isaiah 2]] | [[Readable Bible/23 - Isaiah/Isaiah 4|Isaiah 4 →]]
 
 ---
 

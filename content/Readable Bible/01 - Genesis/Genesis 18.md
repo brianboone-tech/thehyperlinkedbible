@@ -6,11 +6,9 @@ cssclasses:
   - lexicon
 ---
 
-# Genesis-R 18
+# Genesis 18
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
-
-[[Readable Bible/01 - Genesis/Genesis 17#Genesis-R 17| Genesis 17]] - [[Readable Bible/01 - Genesis/Genesis 19#Genesis-R 19| Genesis 19]]
+[[Readable Bible/01 - Genesis/Genesis 17|← Genesis 17]] | [[Readable Bible/01 - Genesis/Genesis 19|Genesis 19 →]]
 
 ---
 

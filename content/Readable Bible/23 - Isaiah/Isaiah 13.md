@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah-R 13
+# Isaiah 13
 
-**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
-
-[[Readable Bible/23 - Isaiah/Isaiah 12#Isaiah-R 12| Isaiah 12]] - [[Readable Bible/23 - Isaiah/Isaiah 14#Isaiah-R 14| Isaiah 14]]
+[[Readable Bible/23 - Isaiah/Isaiah 12|← Isaiah 12]] | [[Readable Bible/23 - Isaiah/Isaiah 14|Isaiah 14 →]]
 
 ---
 

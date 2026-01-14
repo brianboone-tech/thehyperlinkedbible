@@ -5,12 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Mark-R 14
+# Mark 14
 
-**[[Home/Indexes/Readable Bible/41 - Mark|Mark]]**
-
-
-[[Readable Bible/41 - Mark/Mark 13#Mark-R 13| Mark 13]] - [[Readable Bible/41 - Mark/Mark 15#Mark-R 15| Mark 15]]
+[[Readable Bible/41 - Mark/Mark 13|← Mark 13]] | [[Readable Bible/41 - Mark/Mark 15|Mark 15 →]]
 
 ---
 
@@ -199,7 +196,7 @@ cssClasses: lexicon
 
 ##### Mark 14 . 62
 [[Reference Bible/41 - Mark/Mark 14#Mark 14 - 62|62]] “I am,” said Jesus, “and you will see the Son of Man sitting at the right hand of Power and coming with the clouds of heaven.”  | [[Intertextuality Pairs/NT to OT/41 - Mark/Mark 14.62 to Daniel 7.13|IP]] | [[Chiasm/Chiasm - 41 - Mark 14 . 53 - 67|C]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 14 - TOSK#Verse 62|TOSK]] | [[Trajectory Tables/072 - High Priest Seated at the Right Hand (Christ's Royal-Priestly Session)|TT¹]] | [[Trajectory Tables/150 - Son of Man (Danielic Figure and Divine Judge)|TT²]] | [[Trajectory Tables/072 - High Priest Seated at the Right Hand (Christ's Royal-Priestly Session)|TT²]] | [[Trajectory Tables/150 - Son of Man (Danielic Figure and Divine Judge)|TT³]] |
-Mark 14:62| [[Readable Bible/19 - Psalms/Psalm 110#Psalm 110 . 1|Psalm 110:1 - A]]
+Mark 14:62 | [[Readable Bible/19 - Psalms/Psalm 110#Psalm 110 . 1|Psalm 110:1 - A]]
 
 ##### Mark 14 . 63
 [[Reference Bible/41 - Mark/Mark 14#Mark 14 - 63|63]] At this, the high priest tore his clothes and declared, “Why do we need any more witnesses?  | [[Chiasm/Chiasm - 41 - Mark 14 . 53 - 67|C]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 14 - TOSK#Verse 63|TOSK]] |

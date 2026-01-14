@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 94
+# Psalm 94
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 93#Psalm-R 93| Psalm 93]] - [[Readable Bible/19 - Psalms/Psalm 95#Psalm-R 95| Psalm 95]]
+[[Readable Bible/19 - Psalms/Psalm 93|← Psalm 93]] | [[Readable Bible/19 - Psalms/Psalm 95|Psalm 95 →]]
 
 ---
 

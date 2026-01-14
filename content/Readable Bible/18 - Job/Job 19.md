@@ -5,18 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Job-R 19
+# Job 19
 
-**[[Home/Indexes/Readable Bible/18 - Job|Job]]**
-
-[[Readable Bible/18 - Job/Job 18#Job-R 18| Job 18]] - [[Readable Bible/18 - Job/Job 20#Job-R 20| Job 20]]
+[[Readable Bible/18 - Job/Job 18|← Job 18]] | [[Readable Bible/18 - Job/Job 20|Job 20 →]]
 
 ---
 
 ##### Job 19 . 1
 [[Reference Bible/18 - Job/Job 19#Job 19 - 1|1]] Then Job answered:
 ##### Job 19 . 2
-[[Reference Bible/18 - Job/Job 19#Job 19 - 2|2]] “How long will you torment me and crush me with your words?   || [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 19 - TOSK#Verse 2|TOSK]] |
+[[Reference Bible/18 - Job/Job 19#Job 19 - 2|2]] “How long will you torment me and crush me with your words?  | | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 19 - TOSK#Verse 2|TOSK]] |
 ##### Job 19 . 3
 [[Reference Bible/18 - Job/Job 19#Job 19 - 3|3]] Ten times now you have reproached me; you shamelessly mistreat me.  | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 19 - TOSK#Verse 3|TOSK]] |
 ##### Job 19 . 4

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 9
+# Exodus 9
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 8#Exodus-R 8| Exodus 8]] - [[Readable Bible/02 - Exodus/Exodus 10#Exodus-R 10| Exodus 10]]
+[[Readable Bible/02 - Exodus/Exodus 8|← Exodus 8]] | [[Readable Bible/02 - Exodus/Exodus 10|Exodus 10 →]]
 
 ---
 

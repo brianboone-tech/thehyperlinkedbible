@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah-R 17
+# Isaiah 17
 
-**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
-
-[[Readable Bible/23 - Isaiah/Isaiah 16#Isaiah-R 16| Isaiah 16]] - [[Readable Bible/23 - Isaiah/Isaiah 18#Isaiah-R 18| Isaiah 18]]
+[[Readable Bible/23 - Isaiah/Isaiah 16|← Isaiah 16]] | [[Readable Bible/23 - Isaiah/Isaiah 18|Isaiah 18 →]]
 
 ---
 

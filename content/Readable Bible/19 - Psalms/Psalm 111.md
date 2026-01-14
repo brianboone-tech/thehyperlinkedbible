@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 111
+# Psalm 111
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 110#Psalm-R 110| Psalm 110]] - [[Readable Bible/19 - Psalms/Psalm 112#Psalm-R 112| Psalm 112]]
+[[Readable Bible/19 - Psalms/Psalm 110|← Psalm 110]] | [[Readable Bible/19 - Psalms/Psalm 112|Psalm 112 →]]
 
 ---
 

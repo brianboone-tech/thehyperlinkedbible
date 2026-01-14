@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 4
+# Exodus 4
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 3#Exodus-R 3| Exodus 3]] - [[Readable Bible/02 - Exodus/Exodus 5#Exodus-R 5| Exodus 5]]
+[[Readable Bible/02 - Exodus/Exodus 3|← Exodus 3]] | [[Readable Bible/02 - Exodus/Exodus 5|Exodus 5 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Chronicles-R 19
+# 1 Chronicles 19
 
-**[[Home/Indexes/Readable Bible/13 - 1 Chronicles|1 Chronicles]]**
-
-[[Readable Bible/13 - 1 Chronicles/1 Chronicles 18#1 Chronicles-R 18| 1 Chronicles 18]] - [[Readable Bible/13 - 1 Chronicles/1 Chronicles 20#1 Chronicles-R 20| 1 Chronicles 20]]
+[[Readable Bible/13 - 1 Chronicles/1 Chronicles 18|← 1 Chronicles 18]] | [[Readable Bible/13 - 1 Chronicles/1 Chronicles 20|1 Chronicles 20 →]]
 
 ---
 

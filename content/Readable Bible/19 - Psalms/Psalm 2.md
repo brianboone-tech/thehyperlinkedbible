@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 2
+# Psalm 2
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 1#Psalm-R 1| Psalm 1]] - [[Readable Bible/19 - Psalms/Psalm 3#Psalm-R 3| Psalm 3]]
+[[Readable Bible/19 - Psalms/Psalm 1|← Psalm 1]] | [[Readable Bible/19 - Psalms/Psalm 3|Psalm 3 →]]
 
 ---
 

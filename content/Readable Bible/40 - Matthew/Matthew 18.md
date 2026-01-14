@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew-R 18
+# Matthew 18
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
-
-[[Readable Bible/40 - Matthew/Matthew 17#Matthew-R 17| Matthew 17]] - [[Readable Bible/40 - Matthew/Matthew 19#Matthew-R 19| Matthew 19]]
+[[Readable Bible/40 - Matthew/Matthew 17|← Matthew 17]] | [[Readable Bible/40 - Matthew/Matthew 19|Matthew 19 →]]
 
 ---
 

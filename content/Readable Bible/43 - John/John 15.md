@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# John-R 15
+# John 15
 
-**[[Home/Indexes/Readable Bible/43 - John|John]]**
-
-[[Readable Bible/43 - John/John 14#John-R 14| John 14]] - [[Readable Bible/43 - John/John 16#John-R 16| John 16]]
+[[Readable Bible/43 - John/John 14|← John 14]] | [[Readable Bible/43 - John/John 16|John 16 →]]
 
 ---
 
 ##### John 15 . 1
-[[Reference Bible/43 - John/John 15#John 15 - 1|1]] “I am the true vine, and My Father is the keeper of the vineyard.   || [[Intertextuality Pairs/NT to OT/43 - John/John 15.1-8 to Isaiah 5.1-7|IP]] | [[Chiasm/Chiasm - 43 - John 15 . 01 - 08|C]] | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 15 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/168 - Vine and Vineyard (True Israel)|TT¹]] | [[Trajectory Tables/168 - Vine and Vineyard (True Israel)|TT¹]] |
+[[Reference Bible/43 - John/John 15#John 15 - 1|1]] “I am the true vine, and My Father is the keeper of the vineyard.  | | [[Intertextuality Pairs/NT to OT/43 - John/John 15.1-8 to Isaiah 5.1-7|IP]] | [[Chiasm/Chiasm - 43 - John 15 . 01 - 08|C]] | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 15 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/168 - Vine and Vineyard (True Israel)|TT¹]] | [[Trajectory Tables/168 - Vine and Vineyard (True Israel)|TT¹]] |
 
 ##### John 15 . 2
 [[Reference Bible/43 - John/John 15#John 15 - 2|2]] He cuts off every branch in Me that bears no fruit, and every branch that does bear fruit, He prunes to make it even more fruitful.  | [[Intertextuality Pairs/NT to OT/43 - John/John 15.1-8 to Isaiah 5.1-7|IP]] | [[Chiasm/Chiasm - 43 - John 15 . 01 - 08|C]] | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 15 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/168 - Vine and Vineyard (True Israel)|TT]] |

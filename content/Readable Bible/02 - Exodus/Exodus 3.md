@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 3
+# Exodus 3
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 2#Exodus-R 2| Exodus 2]] - [[Readable Bible/02 - Exodus/Exodus 4#Exodus-R 4| Exodus 4]]
+[[Readable Bible/02 - Exodus/Exodus 2|← Exodus 2]] | [[Readable Bible/02 - Exodus/Exodus 4|Exodus 4 →]]
 
 ---
 
 ##### Exodus 3 . 1
-[[Reference Bible/2 - Exodus/Exodus 3#Exodus 3 - 1|1]] Meanwhile, Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb, the mountain of God.  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 3.11-26 to Exodus 3.1-21|IP]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 3 - TOSK#Verse 1|TOSK]] || [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 3.11-26 to Exodus 3.1-21|IP]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 3 - TOSK#Verse 1|TOSK]]  | [[Trajectory Tables/159 - Theophanies (Pre-Incarnate Appearances of Christ)|TT¹]]  | [[Trajectory Tables/022 - Burning Bush (Divine Presence in Fire)|TT¹]] |
+[[Reference Bible/2 - Exodus/Exodus 3#Exodus 3 - 1|1]] Meanwhile, Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb, the mountain of God.  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 3.11-26 to Exodus 3.1-21|IP]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 3 - TOSK#Verse 1|TOSK]] | | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 3.11-26 to Exodus 3.1-21|IP]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 3 - TOSK#Verse 1|TOSK]]  | [[Trajectory Tables/159 - Theophanies (Pre-Incarnate Appearances of Christ)|TT¹]]  | [[Trajectory Tables/022 - Burning Bush (Divine Presence in Fire)|TT¹]] |
 
 ##### Exodus 3 . 2
 [[Reference Bible/2 - Exodus/Exodus 3#Exodus 3 - 2|2]] There the angel of the LORD appeared to him in a blazing fire from within a bush. Moses saw the bush ablaze with fire, but it was not consumed.  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 3.11-26 to Exodus 3.1-21|IP¹]] | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 9.17 to Exodus 3.2|IP²]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 3 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/022 - Burning Bush (Divine Presence in Fire)|TT]]  | [[Trajectory Tables/159 - Theophanies (Pre-Incarnate Appearances of Christ)|TT]]

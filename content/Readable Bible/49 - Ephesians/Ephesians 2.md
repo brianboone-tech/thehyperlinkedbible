@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ephesians-R 2
+# Ephesians 2
 
-**[[Home/Indexes/Readable Bible/49 - Ephesians|Ephesians]]**
-
-[[Readable Bible/49 - Ephesians/Ephesians 1#Ephesians-R 1| Ephesians 1]] - [[Readable Bible/49 - Ephesians/Ephesians 3#Ephesians-R 3| Ephesians 3]]
+[[Readable Bible/49 - Ephesians/Ephesians 1|← Ephesians 1]] | [[Readable Bible/49 - Ephesians/Ephesians 3|Ephesians 3 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 35
+# Exodus 35
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 34#Exodus-R 34| Exodus 34]] - [[Readable Bible/02 - Exodus/Exodus 36#Exodus-R 36| Exodus 36]]
+[[Readable Bible/02 - Exodus/Exodus 34|← Exodus 34]] | [[Readable Bible/02 - Exodus/Exodus 36|Exodus 36 →]]
 
 ---
 

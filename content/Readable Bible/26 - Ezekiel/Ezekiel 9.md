@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 9
+# Ezekiel 9
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 8#Ezekiel-R 8| Ezekiel 8]] - [[Readable Bible/26 - Ezekiel/Ezekiel 10#Ezekiel-R 10| Ezekiel 10]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 8|← Ezekiel 8]] | [[Readable Bible/26 - Ezekiel/Ezekiel 10|Ezekiel 10 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# John-R 18
+# John 18
 
-**[[Home/Indexes/Readable Bible/43 - John|John]]**
-
-[[Readable Bible/43 - John/John 17#John-R 17| John 17]] - [[Readable Bible/43 - John/John 19#John-R 19| John 19]]
+[[Readable Bible/43 - John/John 17|← John 17]] | [[Readable Bible/43 - John/John 19|John 19 →]]
 
 ---
 

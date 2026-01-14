@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Acts-R 17
+# Acts 17
 
-**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
-
-[[Readable Bible/44 - Acts/Acts 16#Acts-R 16| Acts 16]] - [[Readable Bible/44 - Acts/Acts 18#Acts-R 18| Acts 18]]
+[[Readable Bible/44 - Acts/Acts 16|← Acts 16]] | [[Readable Bible/44 - Acts/Acts 18|Acts 18 →]]
 
 ---
 

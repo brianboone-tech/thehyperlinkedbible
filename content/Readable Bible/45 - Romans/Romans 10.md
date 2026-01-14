@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Romans-R 10
+# Romans 10
 
-**[[Home/Indexes/Readable Bible/45 - Romans|Romans]]**
-
-[[Readable Bible/45 - Romans/Romans 9#Romans-R 9| Romans 9]] - [[Readable Bible/45 - Romans/Romans 11#Romans-R 11| Romans 11]]
+[[Readable Bible/45 - Romans/Romans 9|← Romans 9]] | [[Readable Bible/45 - Romans/Romans 11|Romans 11 →]]
 
 ---
 

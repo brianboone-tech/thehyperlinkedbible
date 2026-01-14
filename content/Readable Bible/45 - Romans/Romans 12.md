@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Romans-R 12
+# Romans 12
 
-**[[Home/Indexes/Readable Bible/45 - Romans|Romans]]**
-
-[[Readable Bible/45 - Romans/Romans 11#Romans-R 11| Romans 11]] - [[Readable Bible/45 - Romans/Romans 13#Romans-R 13| Romans 13]]
+[[Readable Bible/45 - Romans/Romans 11|← Romans 11]] | [[Readable Bible/45 - Romans/Romans 13|Romans 13 →]]
 
 ---
 
 ##### Romans 12 . 1
-[[Reference Bible/45 - Romans/Romans 12#Romans 12 - 1|1]] Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship.   || [[Chiasm/Chiasm - 45 - Romans 12 . 1 - 10|C¹]] | [[Chiasm/Chiasm - 45 - Romans 12 . 1 - 21|C²]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 12 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/086 - Josiah (Reformer King Prophesied by Name)|TT¹]] | [[Trajectory Tables/017 - Brazen Altar (Place of Sacrifice)|TT¹]] | [[Trajectory Tables/023 - Burnt Offering (Christ's Total Consecration)|TT²]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT³]] | [[Trajectory Tables/101 - Meat-Offering (Tribute and Thanksgiving)|TT⁴]] | [[Trajectory Tables/106 - Nazirite Vow (Separation unto God)|TT⁵]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT⁶]] |
+[[Reference Bible/45 - Romans/Romans 12#Romans 12 - 1|1]] Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship.  | | [[Chiasm/Chiasm - 45 - Romans 12 . 1 - 10|C¹]] | [[Chiasm/Chiasm - 45 - Romans 12 . 1 - 21|C²]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 12 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/086 - Josiah (Reformer King Prophesied by Name)|TT¹]] | [[Trajectory Tables/017 - Brazen Altar (Place of Sacrifice)|TT¹]] | [[Trajectory Tables/023 - Burnt Offering (Christ's Total Consecration)|TT²]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT³]] | [[Trajectory Tables/101 - Meat-Offering (Tribute and Thanksgiving)|TT⁴]] | [[Trajectory Tables/106 - Nazirite Vow (Separation unto God)|TT⁵]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT⁶]] |
 ##### Romans 12 . 2
 [[Reference Bible/45 - Romans/Romans 12#Romans 12 - 2|2]] Do not be conformed to this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what is the good, pleasing, and perfect will of God.  | [[Chiasm/Chiasm - 45 - Romans 12 . 1 - 10|C¹]] | [[Chiasm/Chiasm - 45 - Romans 12 . 1 - 21|C²]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 12 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/110 - New Moons (Renewal and Rest)|TT]] |
 ##### Romans 12 . 3

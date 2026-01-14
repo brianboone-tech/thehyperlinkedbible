@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Luke-R 1
+# Luke 1
 
-**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
-
-[[Readable Bible/41 - Mark/Mark 16#Mark-R 16|Mark 16]] • [[Readable Bible/42 - Luke/Luke 2#Luke-R 2|Luke 2]]
+[[Readable Bible/41 - Mark/Mark 16|← Mark 16]] | [[Readable Bible/42 - Luke/Luke 2|Luke 2 →]]
 
 ---
 

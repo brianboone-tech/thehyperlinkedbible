@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hosea-R 1
+# Hosea 1
 
-**[[Home/Indexes/Readable Bible/28 - Hosea|Hosea]]**
-
-[[Readable Bible/27 - Daniel/Daniel 12#Daniel-R 12|Daniel 12]] • [[Readable Bible/28 - Hosea/Hosea 2#Hosea-R 2|Hosea 2]]
+[[Readable Bible/27 - Daniel/Daniel 12|← Daniel 12]] | [[Readable Bible/28 - Hosea/Hosea 2|Hosea 2 →]]
 
 ---
 

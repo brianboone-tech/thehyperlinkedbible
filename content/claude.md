@@ -58,11 +58,11 @@ This document tracks the work done with Claude Code on The Hyperlinked Bible pro
 index.md (Welcome)
 ├── Readable Bible Index.md ← THE HUB
 │   └── [66 book folders → chapter files]
-├── Home/Getting Started.md
-│   ├── Home/Site Layout.md
-│   ├── Home/Understanding Links.md
-│   ├── Home/Video Resources.md
-│   └── Home/11 - For Different Users.md
+├── Home/01 - Getting Started.md
+│   ├── Home/02 - Site Layout.md
+│   ├── Home/03 - Understanding Links.md
+│   ├── Home/04 - Video Resources.md
+│   └── Home/05 - For Different Users.md
 ├── Home/Indexes/
 │   ├── Readable Bible/
 │   │   └── [66 book index pages: 01 - Genesis through 66 - Revelation]
@@ -70,9 +70,9 @@ index.md (Welcome)
 │   ├── Intertextuality Pairs Index.md
 │   ├── Trajectory Tables Index.md
 │   └── TOSK Index.md
-├── Home/13 - How Chiasms - Overview.md
+├── Home/06 - How Chiasms - Overview.md
 │   └── [13 chiasm deep dive pages]
-└── Home/27 - How Quotations - Overview.md
+└── Home/20 - How Quotations - Overview.md
     └── [8 quotation deep dive pages]
 ```
 
@@ -157,20 +157,20 @@ Configured in `quartz.layout.ts` with custom `sortFn`:
 | File | Purpose |
 |------|---------|
 | `Readable Bible Index.md` | THE HUB - main entry point for reading Scripture |
-| `Home/Getting Started.md` | Learning hub with links to sub-pages |
-| `Home/Site Layout.md` | Explains hub-and-spoke architecture |
-| `Home/Understanding Links.md` | Explains IP, C, TOSK, TT link types |
-| `Home/Video Resources.md` | Explains YouTube videos on Trajectory Tables |
+| `Home/01 - Getting Started.md` | Learning hub with links to sub-pages |
+| `Home/02 - Site Layout.md` | Explains hub-and-spoke architecture |
+| `Home/03 - Understanding Links.md` | Explains IP, C, TOSK, TT link types |
+| `Home/04 - Video Resources.md` | Explains YouTube videos on Trajectory Tables |
 
 **Files Modified (6):**
 | File | Changes |
 |------|---------|
 | `quartz.layout.ts` | Added custom folder ordering (Readable Bible first) |
 | `index.md` | Simplified - removed 66-book tables, added Quick Start section |
-| `Home/11 - For Different Users.md` | Updated navigation links |
-| `Home/13 - How Chiasms - Overview.md` | Added Getting Started breadcrumb |
-| `Home/27 - How Quotations - Overview.md` | Added Getting Started breadcrumb |
-| `Home/36 - Scripture Index.md` | Added Readable Bible Index link |
+| `Home/05 - For Different Users.md` | Updated navigation links |
+| `Home/06 - How Chiasms - Overview.md` | Added Getting Started breadcrumb |
+| `Home/20 - How Quotations - Overview.md` | Added Getting Started breadcrumb |
+| `Home/08 - Scripture Index.md` | Added Readable Bible Index link |
 
 **Key Design Decisions:**
 - Readable Bible emphasized as THE HUB throughout all pages

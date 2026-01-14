@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew-R 1
+# Matthew 1
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
-
-[[Readable Bible/39 - Malachi/Malachi 4|Malachi 4]] • [[Readable Bible/40 - Matthew/Matthew 2|Matthew 2]]
+[[Readable Bible/39 - Malachi/Malachi 4|← Malachi 4]] | [[Readable Bible/40 - Matthew/Matthew 2|Matthew 2 →]]
 
 ---
 

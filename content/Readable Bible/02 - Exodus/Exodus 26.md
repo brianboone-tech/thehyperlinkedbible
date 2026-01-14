@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 26
+# Exodus 26
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 25#Exodus-R 25| Exodus 25]] - [[Readable Bible/02 - Exodus/Exodus 27#Exodus-R 27| Exodus 27]]
+[[Readable Bible/02 - Exodus/Exodus 25|← Exodus 25]] | [[Readable Bible/02 - Exodus/Exodus 27|Exodus 27 →]]
 
 ---
 
@@ -118,7 +116,7 @@ cssClasses: lexicon
 [[Reference Bible/2 - Exodus/Exodus 26#Exodus 26 - 36|36]] For the entrance to the tent, you are to make a curtain embroidered with blue, purple, and scarlet yarn, and finely spun linen.  | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 26 - TOSK#Verse 36|TOSK]] |
 
 ##### Exodus 26 . 37
-[[Reference Bible/2 - Exodus/Exodus 26#Exodus 26 - 37|37]] Make five posts of acacia wood for the curtain, overlay them with gold hooks, and cast five bronze bases for them.  | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 26 - TOSK#Verse 37|TOSK]] | |
+[[Reference Bible/2 - Exodus/Exodus 26#Exodus 26 - 37|37]] Make five posts of acacia wood for the curtain, overlay them with gold hooks, and cast five bronze bases for them.  | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 26 - TOSK#Verse 37|TOSK]] ||
 
 ##### Exodus 26 . 37
 [[Reference Bible/2 - Exodus/Exodus 26#Exodus 26 - 37|37]] Make five posts of acacia wood for the curtain, overlay them with gold hooks, and cast five bronze bases for them.  | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 26 - TOSK#Verse 37|TOSK]] |

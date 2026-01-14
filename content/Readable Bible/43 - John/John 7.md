@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# John-R 7
+# John 7
 
-**[[Home/Indexes/Readable Bible/43 - John|John]]**
-
-[[Readable Bible/43 - John/John 6#John-R 6| John 6]] - [[Readable Bible/43 - John/John 8#John-R 8| John 8]]
+[[Readable Bible/43 - John/John 6|← John 6]] | [[Readable Bible/43 - John/John 8|John 8 →]]
 
 ---
 
 ##### John 7 . 1
-[[Reference Bible/43 - John/John 7#John 7 - 1|1]] After this, Jesus traveled throughout Galilee. He did not want to travel in Judea, because the Jews there were trying to kill Him.   || [[The Treasury of Scripture Knowledge/43. John TOSK/John - 7 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/43 - John/John 7#John 7 - 1|1]] After this, Jesus traveled throughout Galilee. He did not want to travel in Judea, because the Jews there were trying to kill Him.  | | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 7 - TOSK#Verse 1|TOSK]] |
 
 ##### John 7 . 2
 [[Reference Bible/43 - John/John 7#John 7 - 2|2]] However, the Jewish Feast of Tabernacles was near.  | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 7 - TOSK#Verse 2|TOSK]] |

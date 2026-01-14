@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Habakkuk-R 1
+# Habakkuk 1
 
-**[[Home/Indexes/Readable Bible/35 - Habakkuk|Habakkuk]]**
-
-[[Readable Bible/34 - Nahum/Nahum 3|Nahum 3]] • [[Readable Bible/35 - Habakkuk/Habakkuk 2|Habakkuk 2]]
+[[Readable Bible/34 - Nahum/Nahum 3|← Nahum 3]] | [[Readable Bible/35 - Habakkuk/Habakkuk 2|Habakkuk 2 →]]
 
 ---
 

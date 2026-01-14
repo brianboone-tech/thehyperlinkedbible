@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Proverbs-R 29
+# Proverbs 29
 
-**[[Home/Indexes/Readable Bible/20 - Proverbs|Proverbs]]**
-
-[[Readable Bible/20 - Proverbs/Proverbs 28#Proverbs-R 28| Proverbs 28]] - [[Readable Bible/20 - Proverbs/Proverbs 30#Proverbs-R 30| Proverbs 30]]
+[[Readable Bible/20 - Proverbs/Proverbs 28|← Proverbs 28]] | [[Readable Bible/20 - Proverbs/Proverbs 30|Proverbs 30 →]]
 
 ---
 

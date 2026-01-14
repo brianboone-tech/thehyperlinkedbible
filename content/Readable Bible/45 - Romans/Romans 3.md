@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Romans-R 3
+# Romans 3
 
-**[[Home/Indexes/Readable Bible/45 - Romans|Romans]]**
-
-[[Readable Bible/45 - Romans/Romans 2#Romans-R 2| Romans 2]] - [[Readable Bible/45 - Romans/Romans 4#Romans-R 4| Romans 4]]
+[[Readable Bible/45 - Romans/Romans 2|← Romans 2]] | [[Readable Bible/45 - Romans/Romans 4|Romans 4 →]]
 
 ---
 
 ##### Romans 3 . 1
-[[Reference Bible/45 - Romans/Romans 3#Romans 3 - 1|1]] What, then, is the advantage of being a Jew? Or what is the value of circumcision?   || [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 3 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/45 - Romans/Romans 3#Romans 3 - 1|1]] What, then, is the advantage of being a Jew? Or what is the value of circumcision?  | | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 3 - TOSK#Verse 1|TOSK]] |
 
 ##### Romans 3 . 2
 [[Reference Bible/45 - Romans/Romans 3#Romans 3 - 2|2]] Much in every way. First of all, they have been entrusted with the very words of God.  | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 3 - TOSK#Verse 2|TOSK]] |

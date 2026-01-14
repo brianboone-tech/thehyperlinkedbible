@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah-R 8
+# Isaiah 8
 
-**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
-
-[[Readable Bible/23 - Isaiah/Isaiah 7#Isaiah-R 7| Isaiah 7]] - [[Readable Bible/23 - Isaiah/Isaiah 9#Isaiah-R 9| Isaiah 9]]
+[[Readable Bible/23 - Isaiah/Isaiah 7|← Isaiah 7]] | [[Readable Bible/23 - Isaiah/Isaiah 9|Isaiah 9 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 70
+# Psalm 70
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 69#Psalm-R 69| Psalm 69]] - [[Readable Bible/19 - Psalms/Psalm 71#Psalm-R 71| Psalm 71]]
+[[Readable Bible/19 - Psalms/Psalm 69|← Psalm 69]] | [[Readable Bible/19 - Psalms/Psalm 71|Psalm 71 →]]
 
 ---
 

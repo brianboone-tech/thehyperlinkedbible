@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Genesis-R 25
+# Genesis 25
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
-
-[[Readable Bible/01 - Genesis/Genesis 24#Genesis-R 24| Genesis 24]] - [[Readable Bible/01 - Genesis/Genesis 26#Genesis-R 26| Genesis 26]]
+[[Readable Bible/01 - Genesis/Genesis 24|← Genesis 24]] | [[Readable Bible/01 - Genesis/Genesis 26|Genesis 26 →]]
 
 ---
 

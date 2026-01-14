@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Chronicles-R 21
+# 2 Chronicles 21
 
-**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|2 Chronicles]]**
-
-[[Readable Bible/14 - 2 Chronicles/2 Chronicles 20#2 Chronicles-R 20| 2 Chronicles 20]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 22#2 Chronicles-R 22| 2 Chronicles 22]]
+[[Readable Bible/14 - 2 Chronicles/2 Chronicles 20|← 2 Chronicles 20]] | [[Readable Bible/14 - 2 Chronicles/2 Chronicles 22|2 Chronicles 22 →]]
 
 ---
 
 ##### 2 Chronicles 21 . 1
-[[Reference Bible/14 - 2 Chronicles/2 Chronicles 21#2 Chronicles 21 - 1|1]]  And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place.   || [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 21 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 21#2 Chronicles 21 - 1|1]]  And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place.  | | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 21 - TOSK#Verse 1|TOSK]] |
 
 ##### 2 Chronicles 21 . 2
 [[Reference Bible/14 - 2 Chronicles/2 Chronicles 21#2 Chronicles 21 - 2|2]]  Jehoram's brothers, the sons of Jehoshaphat, were Azariah, Jehiel, Zechariah, Azariah, Michael, and Shephatiah; these were all sons of Jehoshaphat king of Israel.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 21.2-20 to 2 Kings 8.16-24|IP]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 21 - TOSK#Verse 2|TOSK]] |

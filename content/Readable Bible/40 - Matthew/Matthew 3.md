@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew-R 3
+# Matthew 3
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
-
-[[Readable Bible/40 - Matthew/Matthew 2#Matthew-R 2| Matthew 2]] - [[Readable Bible/40 - Matthew/Matthew 4#Matthew-R 4| Matthew 4]]
+[[Readable Bible/40 - Matthew/Matthew 2|← Matthew 2]] | [[Readable Bible/40 - Matthew/Matthew 4|Matthew 4 →]]
 
 ---
 

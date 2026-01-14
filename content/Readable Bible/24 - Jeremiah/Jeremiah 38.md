@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah-R 38
+# Jeremiah 38
 
-**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
-
-[[Readable Bible/24 - Jeremiah/Jeremiah 37#Jeremiah-R 37| Jeremiah 37]] - [[Readable Bible/24 - Jeremiah/Jeremiah 39#Jeremiah-R 39| Jeremiah 39]]
+[[Readable Bible/24 - Jeremiah/Jeremiah 37|← Jeremiah 37]] | [[Readable Bible/24 - Jeremiah/Jeremiah 39|Jeremiah 39 →]]
 
 ---
 

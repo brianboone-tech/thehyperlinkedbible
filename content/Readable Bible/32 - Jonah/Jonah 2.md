@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jonah-R 2
+# Jonah 2
 
-**[[Home/Indexes/Readable Bible/32 - Jonah|Jonah]]**
-
-[[Readable Bible/32 - Jonah/Jonah 1#Jonah-R 1| Jonah 1]] - [[Readable Bible/32 - Jonah/Jonah 3#Jonah-R 3| Jonah 3]]
+[[Readable Bible/32 - Jonah/Jonah 1|← Jonah 1]] | [[Readable Bible/32 - Jonah/Jonah 3|Jonah 3 →]]
 
 ---
 

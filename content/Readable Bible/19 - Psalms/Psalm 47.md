@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 47
+# Psalm 47
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 46#Psalm-R 46| Psalm 46]] - [[Readable Bible/19 - Psalms/Psalm 48#Psalm-R 48| Psalm 48]]
+[[Readable Bible/19 - Psalms/Psalm 46|← Psalm 46]] | [[Readable Bible/19 - Psalms/Psalm 48|Psalm 48 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Daniel-R 1
+# Daniel 1
 
-**[[Home/Indexes/Readable Bible/27 - Daniel|Daniel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 48|Ezekiel 48]] • [[Readable Bible/27 - Daniel/Daniel 2|Daniel 2]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 48|← Ezekiel 48]] | [[Readable Bible/27 - Daniel/Daniel 2|Daniel 2 →]]
 
 ---
 

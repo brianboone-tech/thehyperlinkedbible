@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Joel-R 1
+# Joel 1
 
-**[[Home/Indexes/Readable Bible/29 - Joel|Joel]]**
-
-[[Readable Bible/28 - Hosea/Hosea 14|Hosea 14]] • [[Readable Bible/29 - Joel/Joel 2|Joel 2]]
+[[Readable Bible/28 - Hosea/Hosea 14|← Hosea 14]] | [[Readable Bible/29 - Joel/Joel 2|Joel 2 →]]
 
 ---
 

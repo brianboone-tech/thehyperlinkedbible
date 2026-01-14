@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus-R 5
+# Leviticus 5
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
-
-[[Readable Bible/03 - Leviticus/Leviticus 4#Leviticus-R 4| Leviticus 4]] - [[Readable Bible/03 - Leviticus/Leviticus 6#Leviticus-R 6| Leviticus 6]]
+[[Readable Bible/03 - Leviticus/Leviticus 4|← Leviticus 4]] | [[Readable Bible/03 - Leviticus/Leviticus 6|Leviticus 6 →]]
 
 ---
 
 ##### Leviticus 5 . 1
-[[Reference Bible/3 - Leviticus/Leviticus 5#Leviticus 5 - 1|1]] "If someone sins by failing to testify when he hears a public charge about something he has witnessed, whether he has seen it or learned of it, he shall bear the iniquity.   || [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 5.1 to Psalm 51.16|IP¹]] | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 5.1-6 to Psalm 51.16-17|IP²]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 5 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT¹]] | [[Trajectory Tables/163 - Trespass-Offering (Restitution and Restoration)|TT²]] |
+[[Reference Bible/3 - Leviticus/Leviticus 5#Leviticus 5 - 1|1]] "If someone sins by failing to testify when he hears a public charge about something he has witnessed, whether he has seen it or learned of it, he shall bear the iniquity.  | | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 5.1 to Psalm 51.16|IP¹]] | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 5.1-6 to Psalm 51.16-17|IP²]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 5 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT¹]] | [[Trajectory Tables/163 - Trespass-Offering (Restitution and Restoration)|TT²]] |
 
 ##### Leviticus 5 . 2
 [[Reference Bible/3 - Leviticus/Leviticus 5#Leviticus 5 - 2|2]] Or if a person touches anything unclean—whether the carcass of any unclean wild animal or livestock or crawling creature—even if he is unaware of it, he is unclean and guilty.  | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 5.1-6 to Psalm 51.16-17|IP]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 5 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT¹]] | [[Trajectory Tables/163 - Trespass-Offering (Restitution and Restoration)|TT²]] |

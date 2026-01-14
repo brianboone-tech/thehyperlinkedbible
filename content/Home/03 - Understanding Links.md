@@ -1,6 +1,6 @@
 # Understanding Links
 
-**[[Home/Getting Started|← Getting Started]]**
+**[[Home/01 - Getting Started|← Getting Started]]**
 
 ---
 
@@ -35,13 +35,7 @@ Click any **verse number** to see the Hebrew/Greek interlinear in the Reference 
 
 **C** links reveal **chiastic structures** - literary mirror patterns where the author places emphasis at the center.
 
-```
-A - Opening element
-  B - Second element
-    C - CENTRAL POINT (emphasis)
-  B' - Mirror of B
-A' - Mirror of A
-```
+![[Resources/Chiasm-Example.png]]
 
 **Example**: The story of the Flood (Genesis 6-9) is structured as a chiasm with the center at "God remembered Noah."
 
@@ -85,4 +79,4 @@ Go to [[Readable Bible/01 - Genesis/Genesis 3|Genesis 3]] and explore the links 
 
 ---
 
-**[[Home/Getting Started|← Getting Started]]** | **[[Home/Video Resources|Video Resources →]]**
+**[[Home/01 - Getting Started|← Getting Started]]** | **[[Home/04 - Video Resources|Video Resources →]]**

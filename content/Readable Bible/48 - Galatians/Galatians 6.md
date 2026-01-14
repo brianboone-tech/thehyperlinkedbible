@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Galatians-R 6
+# Galatians 6
 
-**[[Home/Indexes/Readable Bible/48 - Galatians|Galatians]]**
-
-[[Readable Bible/48 - Galatians/Galatians 5#Galatians-R 5| Galatians 5]]
+[[Readable Bible/48 - Galatians/Galatians 5|← Galatians 5]]
 
 ---
 

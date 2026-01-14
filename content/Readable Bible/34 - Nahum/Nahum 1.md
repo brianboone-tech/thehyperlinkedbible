@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Nahum-R 1
+# Nahum 1
 
-**[[Home/Indexes/Readable Bible/34 - Nahum|Nahum]]**
-
-[[Readable Bible/33 - Micah/Micah 7|Micah 7]] • [[Readable Bible/34 - Nahum/Nahum 2|Nahum 2]]
+[[Readable Bible/33 - Micah/Micah 7|← Micah 7]] | [[Readable Bible/34 - Nahum/Nahum 2|Nahum 2 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah-R 33
+# Jeremiah 33
 
-**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
-
-[[Readable Bible/24 - Jeremiah/Jeremiah 32#Jeremiah-R 32| Jeremiah 32]] - [[Readable Bible/24 - Jeremiah/Jeremiah 34#Jeremiah-R 34| Jeremiah 34]]
+[[Readable Bible/24 - Jeremiah/Jeremiah 32|← Jeremiah 32]] | [[Readable Bible/24 - Jeremiah/Jeremiah 34|Jeremiah 34 →]]
 
 ---
 

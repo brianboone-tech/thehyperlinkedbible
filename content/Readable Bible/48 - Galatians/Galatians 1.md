@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Galatians-R 1
+# Galatians 1
 
-**[[Home/Indexes/Readable Bible/48 - Galatians|Galatians]]**
-
-[[Readable Bible/47 - 2 Corinthians/2 Corinthians 13|←]] • [[Readable Bible/48 - Galatians/Galatians 2|→]]
+[[Readable Bible/47 - 2 Corinthians/2 Corinthians 13|←]] | [[Readable Bible/48 - Galatians/Galatians 2|→]]
 
 ---
 

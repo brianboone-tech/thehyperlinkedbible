@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah-R 48
+# Jeremiah 48
 
-**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
-
-[[Readable Bible/24 - Jeremiah/Jeremiah 47#Jeremiah-R 47| Jeremiah 47]] - [[Readable Bible/24 - Jeremiah/Jeremiah 49#Jeremiah-R 49| Jeremiah 49]]
+[[Readable Bible/24 - Jeremiah/Jeremiah 47|← Jeremiah 47]] | [[Readable Bible/24 - Jeremiah/Jeremiah 49|Jeremiah 49 →]]
 
 ---
 

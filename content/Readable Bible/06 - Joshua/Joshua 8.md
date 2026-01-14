@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Joshua-R 8
+# Joshua 8
 
-**[[Home/Indexes/Readable Bible/06 - Joshua|Joshua]]**
-
-[[Readable Bible/06 - Joshua/Joshua 7#Joshua-R 7| Joshua 7]] - [[Readable Bible/06 - Joshua/Joshua 9#Joshua-R 9| Joshua 9]]
+[[Readable Bible/06 - Joshua/Joshua 7|← Joshua 7]] | [[Readable Bible/06 - Joshua/Joshua 9|Joshua 9 →]]
 
 ---
 

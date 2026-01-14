@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Acts-R 26
+# Acts 26
 
-**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
-
-[[Readable Bible/44 - Acts/Acts 25#Acts-R 25| Acts 25]] - [[Readable Bible/44 - Acts/Acts 27#Acts-R 27| Acts 27]]
+[[Readable Bible/44 - Acts/Acts 25|← Acts 25]] | [[Readable Bible/44 - Acts/Acts 27|Acts 27 →]]
 
 ---
 
 ##### Acts 26 . 1
-[[Reference Bible/44 - Acts/Acts 26#Acts 26 - 1|1]] Agrippa said to Paul, “You have permission to speak for yourself.” Then Paul stretched out his hand and began his defense:   || [[Chiasm/Chiasm - 44 - Acts 26 . 01 - 09|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 26 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/44 - Acts/Acts 26#Acts 26 - 1|1]] Agrippa said to Paul, “You have permission to speak for yourself.” Then Paul stretched out his hand and began his defense:  | | [[Chiasm/Chiasm - 44 - Acts 26 . 01 - 09|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 26 - TOSK#Verse 1|TOSK]] |
 
 ##### Acts 26 . 2
 [[Reference Bible/44 - Acts/Acts 26#Acts 26 - 2|2]] “King Agrippa, I consider myself fortunate to stand before you today to defend myself against all the accusations of the Jews,  | [[Chiasm/Chiasm - 44 - Acts 26 . 01 - 09|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 26 - TOSK#Verse 2|TOSK]] |

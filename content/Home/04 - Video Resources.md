@@ -1,12 +1,12 @@
 # Video Resources
 
-**[[Home/Getting Started|← Getting Started]]**
+**[[Home/01 - Getting Started|← Getting Started]]**
 
 ---
 
 ## Educational Videos Throughout the Site
 
-Many pages in The Hyperlinked Bible include **embedded YouTube videos** that complement the written content. These videos provide additional teaching on biblical theology, typology, and the interconnections of Scripture.
+The Trajectory Table pages in The Hyperlinked Bible include **embedded YouTube videos** that complement the written content. These videos provide additional teaching on biblical theology, typology, and the interconnections of Scripture.
 
 ---
 
@@ -21,7 +21,7 @@ Many pages in The Hyperlinked Bible include **embedded YouTube videos** that com
 - The Christological fulfillment
 - Practical application for understanding Scripture
 
-**Example**: The [[Trajectory Tables/005 - Adam (The First and Last Adam)|Adam (The First and Last Adam)]] trajectory table includes a video explaining the Adam-Christ typology from Romans 5.
+**Example**: The [[Trajectory Tables/001 - Aaron (The Great High Priest)|Aaron (The Great High Priest)]] trajectory table includes a video explaining how Aaron's priesthood points to Christ's perfect priesthood in Hebrews.
 
 ---
 
@@ -32,9 +32,9 @@ Each video appears in two ways:
 1. **Embedded player** - Watch directly on the page
 2. **"Watch on YouTube" link** - Open in YouTube if you prefer
 
-```
-▶️ Watch on YouTube
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hJTN7Nd4vsg?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/hJTN7Nd4vsg)
 
 ---
 
@@ -67,8 +67,8 @@ The videos come from various biblical teaching resources and cover topics such a
 | [[Trajectory Tables/041 - David (The King After God's Own Heart)\|David]] | The King After God's Own Heart |
 | [[Trajectory Tables/104 - Moses (The Prophet Like Unto Me)\|Moses]] | The Prophet Like Unto Me |
 | [[Trajectory Tables/114 - Passover (Christ Our Passover Lamb)\|Passover]] | Christ Our Passover Lamb |
-| [[Trajectory Tables/156 - Tabernacle (God Dwelling Among His People)\|Tabernacle]] | God Dwelling Among His People |
+| [[Trajectory Tables/045 - Day of Midian (Gospel Victory Pattern)\|Day of Midian]] | Gospel Victory Pattern |
 
 ---
 
-**[[Home/Getting Started|← Getting Started]]** | **[[Home/11 - For Different Users|For Different Users →]]**
+**[[Home/01 - Getting Started|← Getting Started]]** | **[[Home/05 - For Different Users|For Different Users →]]**

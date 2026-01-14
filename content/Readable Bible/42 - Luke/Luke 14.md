@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Luke-R 14
+# Luke 14
 
-**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
-
-[[Readable Bible/42 - Luke/Luke 13#Luke-R 13| Luke 13]] - [[Readable Bible/42 - Luke/Luke 15#Luke-R 15| Luke 15]]
+[[Readable Bible/42 - Luke/Luke 13|← Luke 13]] | [[Readable Bible/42 - Luke/Luke 15|Luke 15 →]]
 
 ---
 

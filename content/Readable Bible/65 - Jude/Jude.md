@@ -5,10 +5,9 @@ Folder: Readable Bible
 ---
 # Jude-R
 
-[[index|Home]] • [[Readable Bible/65 - Jude/Jude 1#Jude-R 1|Jude1]] 
+[[index|Home]] | [[Readable Bible/65 - Jude/Jude 1|Jude1]] 
 
 ---
-
-[[Readable Bible/65 - Jude/Jude 1#Jude-R 1| 01 |]] 
+[[Readable Bible/65 - Jude/Jude 1|← 01 |]]
 
 ---

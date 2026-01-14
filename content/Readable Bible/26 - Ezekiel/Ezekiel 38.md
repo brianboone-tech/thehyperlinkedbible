@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 38
+# Ezekiel 38
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 37#Ezekiel-R 37| Ezekiel 37]] - [[Readable Bible/26 - Ezekiel/Ezekiel 39#Ezekiel-R 39| Ezekiel 39]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 37|← Ezekiel 37]] | [[Readable Bible/26 - Ezekiel/Ezekiel 39|Ezekiel 39 →]]
 
 ---
 
@@ -38,7 +36,7 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 38#Ezekiel 38 - 8|8]] After a long time you will be summoned. In the latter years you will enter a land that has recovered from war, whose people were gathered from many nations to the mountains of Israel, which had long been desolate. They had been brought out from the nations, and all now dwell securely. | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 12|C¹]] | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 16|C²]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 38 - TOSK#Verse 8|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 12|C¹]] | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 16|C²]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 38 - TOSK#Verse 8|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 12|C¹]] | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 16|C²]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 38 - TOSK#Verse 8|TOSK]] |
 
 ##### Ezekiel 38 . 9
-[[Reference Bible/26 - Ezekiel/Ezekiel 38#Ezekiel 38 - 9|9]] You and all your troops, and many peoples with you will go up, advancing like a thunderstorm; you will be like a cloud covering the land.|  | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 12|C¹]] | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 16|C²]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 38 - TOSK#Verse 9|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 38#Ezekiel 38 - 9|9]] You and all your troops, and many peoples with you will go up, advancing like a thunderstorm; you will be like a cloud covering the land.| | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 12|C¹]] | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 16|C²]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 38 - TOSK#Verse 9|TOSK]] |
 
 ##### Ezekiel 38 . 10
 [[Reference Bible/26 - Ezekiel/Ezekiel 38#Ezekiel 38 - 10|10]] This is what the Lord GOD says: On that day, thoughts will arise in your mind, and you will devise an evil plan.  | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 12|C¹]] | [[Chiasm/Chiasm - 26 - Ezekiel 38 . 8 - 16|C²]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 38 - TOSK#Verse 10|TOSK]] |

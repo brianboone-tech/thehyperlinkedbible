@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Deuteronomy-R 14
+# Deuteronomy 14
 
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
-
-[[Readable Bible/05 - Deuteronomy/Deuteronomy 13#Deuteronomy-R 13| Deuteronomy 13]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 15#Deuteronomy-R 15| Deuteronomy 15]]
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 13|← Deuteronomy 13]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 15|Deuteronomy 15 →]]
 
 ---
 

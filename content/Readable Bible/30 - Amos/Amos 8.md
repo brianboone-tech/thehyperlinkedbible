@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Amos-R 8
+# Amos 8
 
-**[[Home/Indexes/Readable Bible/30 - Amos|Amos]]**
-
-[[Readable Bible/30 - Amos/Amos 7#Amos-R 7| Amos 7]] - [[Readable Bible/30 - Amos/Amos 9#Amos-R 9| Amos 9]]
+[[Readable Bible/30 - Amos/Amos 7|← Amos 7]] | [[Readable Bible/30 - Amos/Amos 9|Amos 9 →]]
 
 ---
 

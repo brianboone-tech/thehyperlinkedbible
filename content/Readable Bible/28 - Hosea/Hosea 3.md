@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hosea-R 3
+# Hosea 3
 
-**[[Home/Indexes/Readable Bible/28 - Hosea|Hosea]]**
-
-[[Readable Bible/28 - Hosea/Hosea 2#Hosea-R 2| Hosea 2]] - [[Readable Bible/28 - Hosea/Hosea 4#Hosea-R 4| Hosea 4]]
+[[Readable Bible/28 - Hosea/Hosea 2|← Hosea 2]] | [[Readable Bible/28 - Hosea/Hosea 4|Hosea 4 →]]
 
 ---
 

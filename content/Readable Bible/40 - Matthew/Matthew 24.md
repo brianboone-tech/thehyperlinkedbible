@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew-R 24
+# Matthew 24
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
-
-[[Readable Bible/40 - Matthew/Matthew 23#Matthew-R 23| Matthew 23]] - [[Readable Bible/40 - Matthew/Matthew 25#Matthew-R 25| Matthew 25]]
+[[Readable Bible/40 - Matthew/Matthew 23|← Matthew 23]] | [[Readable Bible/40 - Matthew/Matthew 25|Matthew 25 →]]
 
 ---
 
 ##### Matthew 24 . 1
-[[Reference Bible/40 - Matthew/Matthew 24#Matthew 24 - 1|1]] As Jesus left the temple and was walking away, His disciples came up to Him to point out its buildings.   || [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 24 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/149 - Solomon's Temple (Glory of God's Dwelling)|TT]] |
+[[Reference Bible/40 - Matthew/Matthew 24#Matthew 24 - 1|1]] As Jesus left the temple and was walking away, His disciples came up to Him to point out its buildings.  | | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 24 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/149 - Solomon's Temple (Glory of God's Dwelling)|TT]] |
 
 ##### Matthew 24 . 2
 [[Reference Bible/40 - Matthew/Matthew 24#Matthew 24 - 2|2]] “Do you see all these things?” He replied. “Truly I tell you, not one stone here will be left on another; every one will be thrown down.”  | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 24 - TOSK#Verse 2|TOSK]] |

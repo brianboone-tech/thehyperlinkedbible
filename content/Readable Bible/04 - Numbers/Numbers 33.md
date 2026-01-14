@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Numbers-R 33
+# Numbers 33
 
-**[[Home/Indexes/Readable Bible/04 - Numbers|Numbers]]**
-
-[[Readable Bible/04 - Numbers/Numbers 32#Numbers-R 32| Numbers 32]] - [[Readable Bible/04 - Numbers/Numbers 34#Numbers-R 34| Numbers 34]]
+[[Readable Bible/04 - Numbers/Numbers 32|← Numbers 32]] | [[Readable Bible/04 - Numbers/Numbers 34|Numbers 34 →]]
 
 ---
 

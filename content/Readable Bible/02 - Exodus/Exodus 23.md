@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 23
+# Exodus 23
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 22#Exodus-R 22| Exodus 22]] - [[Readable Bible/02 - Exodus/Exodus 24#Exodus-R 24| Exodus 24]]
+[[Readable Bible/02 - Exodus/Exodus 22|← Exodus 22]] | [[Readable Bible/02 - Exodus/Exodus 24|Exodus 24 →]]
 
 ---
 

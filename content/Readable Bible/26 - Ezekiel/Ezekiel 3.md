@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 3
+# Ezekiel 3
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 2#Ezekiel-R 2| Ezekiel 2]] - [[Readable Bible/26 - Ezekiel/Ezekiel 4#Ezekiel-R 4| Ezekiel 4]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 2|← Ezekiel 2]] | [[Readable Bible/26 - Ezekiel/Ezekiel 4|Ezekiel 4 →]]
 
 ---
 
@@ -65,16 +63,16 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 3#Ezekiel 3 - 17|17]] “Son of man, I have made you a watchman for the house of Israel. Whenever you hear a word from My mouth, give them a warning from Me. | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 17|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 17|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 17|TOSK]] |
 
 ##### Ezekiel 3 . 18
-[[Reference Bible/26 - Ezekiel/Ezekiel 3#Ezekiel 3 - 18|18]] If I say to the wicked man, ‘You will surely die,’ but you do not warn him or speak out to warn him from his wicked way to save his life, that wicked man will die in his iniquity, and I will hold you responsible for his blood. | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 18|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 18|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 18|TOSK]] |  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.26 to Ezekiel 3.18-21|IP]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 3#Ezekiel 3 - 18|18]] If I say to the wicked man, ‘You will surely die,’ but you do not warn him or speak out to warn him from his wicked way to save his life, that wicked man will die in his iniquity, and I will hold you responsible for his blood. | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 18|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 18|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 18|TOSK]] | | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.26 to Ezekiel 3.18-21|IP]] |
 
 ##### Ezekiel 3 . 19
-[[Reference Bible/26 - Ezekiel/Ezekiel 3#Ezekiel 3 - 19|19]] But if you warn a wicked man and he does not turn from his wickedness and his wicked way, he will die in his iniquity, but you will have saved yourself. | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 19|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 19|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 19|TOSK]] |  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.26 to Ezekiel 3.18-21|IP]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 3#Ezekiel 3 - 19|19]] But if you warn a wicked man and he does not turn from his wickedness and his wicked way, he will die in his iniquity, but you will have saved yourself. | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 19|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 19|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 19|TOSK]] | | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.26 to Ezekiel 3.18-21|IP]] |
 
 ##### Ezekiel 3 . 20
-[[Reference Bible/26 - Ezekiel/Ezekiel 3#Ezekiel 3 - 20|20]] Now if a righteous man turns from his righteousness and commits iniquity, and I put a stumbling block before him, he will die. If you did not warn him, he will die in his sin, and the righteous acts he did will not be remembered. And I will hold you responsible for his blood.|  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.26 to Ezekiel 3.18-21|IP]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 20|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 3#Ezekiel 3 - 20|20]] Now if a righteous man turns from his righteousness and commits iniquity, and I put a stumbling block before him, he will die. If you did not warn him, he will die in his sin, and the righteous acts he did will not be remembered. And I will hold you responsible for his blood.| | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.26 to Ezekiel 3.18-21|IP]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 20|TOSK]] |
 
 ##### Ezekiel 3 . 21
-[[Reference Bible/26 - Ezekiel/Ezekiel 3#Ezekiel 3 - 21|21]] But if you warn the righteous man not to sin, and he does not sin, he will indeed live because he heeded your warning, and you will have saved yourself.”|  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.26 to Ezekiel 3.18-21|IP]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 21|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 3#Ezekiel 3 - 21|21]] But if you warn the righteous man not to sin, and he does not sin, he will indeed live because he heeded your warning, and you will have saved yourself.”| | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.26 to Ezekiel 3.18-21|IP]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 21|TOSK]] |
 
 ##### Ezekiel 3 . 22
 [[Reference Bible/26 - Ezekiel/Ezekiel 3#Ezekiel 3 - 22|22]] And there the hand of the LORD was upon me, and He said to me, “Get up, go out to the plain, and there I will speak with you.”  | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 3 - TOSK#Verse 22|TOSK]] |

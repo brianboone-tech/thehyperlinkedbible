@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Judges-R 19
+# Judges 19
 
-**[[Home/Indexes/Readable Bible/07 - Judges|Judges]]**
-
-[[Readable Bible/07 - Judges/Judges 18#Judges-R 18| Judges 18]] - [[Readable Bible/07 - Judges/Judges 20#Judges-R 20| Judges 20]]
+[[Readable Bible/07 - Judges/Judges 18|← Judges 18]] | [[Readable Bible/07 - Judges/Judges 20|Judges 20 →]]
 
 ---
 

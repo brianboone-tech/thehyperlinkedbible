@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Proverbs-R 21
+# Proverbs 21
 
-**[[Home/Indexes/Readable Bible/20 - Proverbs|Proverbs]]**
-
-[[Readable Bible/20 - Proverbs/Proverbs 20#Proverbs-R 20| Proverbs 20]] - [[Readable Bible/20 - Proverbs/Proverbs 22#Proverbs-R 22| Proverbs 22]]
+[[Readable Bible/20 - Proverbs/Proverbs 20|← Proverbs 20]] | [[Readable Bible/20 - Proverbs/Proverbs 22|Proverbs 22 →]]
 
 ---
 

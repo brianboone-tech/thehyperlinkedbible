@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 40
+# Exodus 40
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 39#Exodus-R 39| Exodus 39]]
+[[Readable Bible/02 - Exodus/Exodus 39|← Exodus 39]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Colossians-R 2
+# Colossians 2
 
-**[[Home/Indexes/Readable Bible/51 - Colossians|Colossians]]**
-
-[[Readable Bible/51 - Colossians/Colossians 1#Colossians-R 1| Colossians 1]] - [[Readable Bible/51 - Colossians/Colossians 3#Colossians-R 3| Colossians 3]]
+[[Readable Bible/51 - Colossians/Colossians 1|← Colossians 1]] | [[Readable Bible/51 - Colossians/Colossians 3|Colossians 3 →]]
 
 ---
 

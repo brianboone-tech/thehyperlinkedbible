@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Thessalonians-R 1
+# 1 Thessalonians 1
 
-**[[Home/Indexes/Readable Bible/52 - 1 Thessalonians|1 Thessalonians]]**
-
-[[Readable Bible/51 - Colossians/Colossians 4#Colossians-R 4|Colossians 4]] • [[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 2#1 Thessalonians-R 2|1 Thessalonians 2]]
+[[Readable Bible/51 - Colossians/Colossians 4|← Colossians 4]] | [[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 2|1 Thessalonians 2 →]]
 
 ---
 

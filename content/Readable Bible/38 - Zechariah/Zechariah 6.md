@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Zechariah-R 6
+# Zechariah 6
 
-**[[Home/Indexes/Readable Bible/38 - Zechariah|Zechariah]]**
-
-[[Readable Bible/38 - Zechariah/Zechariah 5#Zechariah-R 5| Zechariah 5]] - [[Readable Bible/38 - Zechariah/Zechariah 7#Zechariah-R 7| Zechariah 7]]
+[[Readable Bible/38 - Zechariah/Zechariah 5|← Zechariah 5]] | [[Readable Bible/38 - Zechariah/Zechariah 7|Zechariah 7 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Judges-R 14
+# Judges 14
 
-**[[Home/Indexes/Readable Bible/07 - Judges|Judges]]**
-
-[[Readable Bible/07 - Judges/Judges 13#Judges-R 13| Judges 13]] - [[Readable Bible/07 - Judges/Judges 15#Judges-R 15| Judges 15]]
+[[Readable Bible/07 - Judges/Judges 13|← Judges 13]] | [[Readable Bible/07 - Judges/Judges 15|Judges 15 →]]
 
 ---
 

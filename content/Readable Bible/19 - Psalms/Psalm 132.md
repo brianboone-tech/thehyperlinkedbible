@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 132
+# Psalm 132
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 131#Psalm-R 131| Psalm 131]] - [[Readable Bible/19 - Psalms/Psalm 133#Psalm-R 133| Psalm 133]]
+[[Readable Bible/19 - Psalms/Psalm 131|← Psalm 131]] | [[Readable Bible/19 - Psalms/Psalm 133|Psalm 133 →]]
 
 ---
 

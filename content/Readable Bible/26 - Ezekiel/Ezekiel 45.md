@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 45
+# Ezekiel 45
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 44#Ezekiel-R 44| Ezekiel 44]] - [[Readable Bible/26 - Ezekiel/Ezekiel 46#Ezekiel-R 46| Ezekiel 46]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 44|← Ezekiel 44]] | [[Readable Bible/26 - Ezekiel/Ezekiel 46|Ezekiel 46 →]]
 
 ---
 

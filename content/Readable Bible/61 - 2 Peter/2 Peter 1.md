@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Peter-R 1
+# 2 Peter 1
 
-**[[Home/Indexes/Readable Bible/61 - 2 Peter|2 Peter]]**
-
-[[Readable Bible/60 - 1 Peter/1 Peter 5#1 Peter-R 5|1 Peter 5]] • [[Readable Bible/61 - 2 Peter/2 Peter 2#2 Peter-R 2|2 Peter 2]]
+[[Readable Bible/60 - 1 Peter/1 Peter 5|← 1 Peter 5]] | [[Readable Bible/61 - 2 Peter/2 Peter 2|2 Peter 2 →]]
 
 ---
 

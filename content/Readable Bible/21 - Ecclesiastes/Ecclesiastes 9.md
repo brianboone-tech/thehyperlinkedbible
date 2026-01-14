@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ecclesiastes-R 9
+# Ecclesiastes 9
 
-**[[Home/Indexes/Readable Bible/21 - Ecclesiastes|Ecclesiastes]]**
-
-[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 8#Ecclesiastes-R 8| Ecclesiastes 8]] - [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 10#Ecclesiastes-R 10| Ecclesiastes 10]]
+[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 8|← Ecclesiastes 8]] | [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 10|Ecclesiastes 10 →]]
 
 ---
 

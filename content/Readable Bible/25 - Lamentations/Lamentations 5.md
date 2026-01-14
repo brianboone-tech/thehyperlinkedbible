@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Lamentations-R 5
+# Lamentations 5
 
-**[[Home/Indexes/Readable Bible/25 - Lamentations|Lamentations]]**
-
-[[Readable Bible/25 - Lamentations/Lamentations 4#Lamentations-R 4| Lamentations 4]]
+[[Readable Bible/25 - Lamentations/Lamentations 4|← Lamentations 4]]
 
 ---
 

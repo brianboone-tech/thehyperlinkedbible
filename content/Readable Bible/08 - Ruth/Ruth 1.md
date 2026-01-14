@@ -5,9 +5,8 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ruth-R 1
+# Ruth 1
 
-**[[Home/Indexes/Readable Bible/08 - Ruth|Ruth]]**
 
 
 

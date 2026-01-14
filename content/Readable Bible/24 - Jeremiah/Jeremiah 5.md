@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah-R 5
+# Jeremiah 5
 
-**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
-
-[[Readable Bible/24 - Jeremiah/Jeremiah 4#Jeremiah-R 4| Jeremiah 4]] - [[Readable Bible/24 - Jeremiah/Jeremiah 6#Jeremiah-R 6| Jeremiah 6]]
+[[Readable Bible/24 - Jeremiah/Jeremiah 4|← Jeremiah 4]] | [[Readable Bible/24 - Jeremiah/Jeremiah 6|Jeremiah 6 →]]
 
 ---
 

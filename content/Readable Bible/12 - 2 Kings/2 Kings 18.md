@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Kings-R 18
+# 2 Kings 18
 
-**[[Home/Indexes/Readable Bible/12 - 2 Kings|2 Kings]]**
-
-[[Readable Bible/12 - 2 Kings/2 Kings 17#2 Kings-R 17| 2 Kings 17]] - [[Readable Bible/12 - 2 Kings/2 Kings 19#2 Kings-R 19| 2 Kings 19]]
+[[Readable Bible/12 - 2 Kings/2 Kings 17|← 2 Kings 17]] | [[Readable Bible/12 - 2 Kings/2 Kings 19|2 Kings 19 →]]
 
 ---
 

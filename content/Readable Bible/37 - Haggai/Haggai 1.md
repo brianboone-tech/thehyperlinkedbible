@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Haggai-R 1
+# Haggai 1
 
-**[[Home/Indexes/Readable Bible/37 - Haggai|Haggai]]**
-
-[[Readable Bible/36 - Zephaniah/Zephaniah 3#Zephaniah-R 3|Zephaniah 3]] • [[Haggai 2|Haggai 2]]
+[[Readable Bible/36 - Zephaniah/Zephaniah 3|← Zephaniah 3]] | [[Haggai 2|Haggai 2]]
 
 ---
 
 ##### Haggai 1 . 1
-[[Reference Bible/37 - Haggai/Haggai 1#Haggai 1 - 1|1]] In the second year of the reign of Darius, on the first day of the sixth month, the word of the LORD came through Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, stating   || [[The Treasury of Scripture Knowledge/37. Haggai TOSK/Haggai - 1 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/37 - Haggai/Haggai 1#Haggai 1 - 1|1]] In the second year of the reign of Darius, on the first day of the sixth month, the word of the LORD came through Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, stating  | | [[The Treasury of Scripture Knowledge/37. Haggai TOSK/Haggai - 1 - TOSK#Verse 1|TOSK]] |
 
 ##### Haggai 1 . 2
 [[Reference Bible/37 - Haggai/Haggai 1#Haggai 1 - 2|2]] that this is what the LORD of Hosts says: "These people say, 'The time has not yet come to rebuild the house of the LORD.'"  | [[Intertextuality Pairs/OT to OT/37 - Haggai/Haggai 1.2 to Jeremiah 25.11|IP¹]] | [[Intertextuality Pairs/OT to OT/37 - Haggai/Haggai 1.2 to Jeremiah 25.12|IP²]] | [[Intertextuality Pairs/OT to OT/37 - Haggai/Haggai 1.2 to Jeremiah 29.10|IP³]] | [[Chiasm/Chiasm - 37 - Haggai 1 . 2 - 11|C]] | [[The Treasury of Scripture Knowledge/37. Haggai TOSK/Haggai - 1 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/131 - Return from Exile (Restoration and Hope)|TT¹]] | [[Trajectory Tables/175 - Zerubbabel (Royal Seed Rebuilding)|TT²]] | [[Trajectory Tables/175 - Zerubbabel (Royal Seed Rebuilding)|TT²]] |

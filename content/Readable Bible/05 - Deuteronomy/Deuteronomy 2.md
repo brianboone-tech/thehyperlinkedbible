@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Deuteronomy-R 2
+# Deuteronomy 2
 
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
-
-[[Readable Bible/05 - Deuteronomy/Deuteronomy 1#Deuteronomy-R 1| Deuteronomy 1]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 3#Deuteronomy-R 3| Deuteronomy 3]]
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 1|← Deuteronomy 1]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 3|Deuteronomy 3 →]]
 
 ---
 
 ##### Deuteronomy 2 . 1
-[[Reference Bible/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 1|1]] Then we turned back and headed for the wilderness by way of the Red Sea, as the LORD had instructed me, and for many days we wandered around Mount Seir.   || [[Chiasm/Chiasm - 05 - Deuteronomy 2 . 1 - 23|C]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 2 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 1|1]] Then we turned back and headed for the wilderness by way of the Red Sea, as the LORD had instructed me, and for many days we wandered around Mount Seir.  | | [[Chiasm/Chiasm - 05 - Deuteronomy 2 . 1 - 23|C]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 2 - TOSK#Verse 1|TOSK]] |
 
 ##### Deuteronomy 2 . 2
 [[Reference Bible/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 2|2]] At this time the LORD said to me,  | [[Chiasm/Chiasm - 05 - Deuteronomy 2 . 1 - 23|C]] |

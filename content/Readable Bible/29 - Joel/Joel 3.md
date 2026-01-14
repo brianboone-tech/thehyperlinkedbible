@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Joel-R 3
+# Joel 3
 
-**[[Home/Indexes/Readable Bible/29 - Joel|Joel]]**
-
-[[Readable Bible/29 - Joel/Joel 2#Joel-R 2| Joel 2]]
+[[Readable Bible/29 - Joel/Joel 2|← Joel 2]]
 
 ---
 

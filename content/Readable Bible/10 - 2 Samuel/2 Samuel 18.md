@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Samuel-R 18
+# 2 Samuel 18
 
-**[[Home/Indexes/Readable Bible/10 - 2 Samuel|2 Samuel]]**
-
-[[Readable Bible/10 - 2 Samuel/2 Samuel 17#2 Samuel-R 17| 2 Samuel 17]] - [[Readable Bible/10 - 2 Samuel/2 Samuel 19#2 Samuel-R 19| 2 Samuel 19]]
+[[Readable Bible/10 - 2 Samuel/2 Samuel 17|← 2 Samuel 17]] | [[Readable Bible/10 - 2 Samuel/2 Samuel 19|2 Samuel 19 →]]
 
 ---
 

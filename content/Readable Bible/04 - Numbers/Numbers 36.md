@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Numbers-R 36
+# Numbers 36
 
-**[[Home/Indexes/Readable Bible/04 - Numbers|Numbers]]**
-
-[[Readable Bible/04 - Numbers/Numbers 35#Numbers-R 35| Numbers 35]]
+[[Readable Bible/04 - Numbers/Numbers 35|← Numbers 35]]
 
 ---
 
 ##### Numbers 36 . 1
-[[Reference Bible/4 - Numbers/Numbers 36#Numbers 36 - 1|1]] Now the family heads of the clan of Gilead son of Machir son of Manasseh, one of the clans of Joseph, approached Moses and the leaders who were the heads of the Israelite families and addressed them,   || [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 36.1 to Leviticus 25.8|IP¹]] | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 36.1 to Numbers 26.55|IP²]] | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 36.1-12 to Leviticus 25.8-24|IP³]] | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 36.1-12 to Numbers 26.55|IP⁴]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 36 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/174 - Year of Jubilee (Ultimate Redemption)|TT]] |
+[[Reference Bible/4 - Numbers/Numbers 36#Numbers 36 - 1|1]] Now the family heads of the clan of Gilead son of Machir son of Manasseh, one of the clans of Joseph, approached Moses and the leaders who were the heads of the Israelite families and addressed them,  | | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 36.1 to Leviticus 25.8|IP¹]] | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 36.1 to Numbers 26.55|IP²]] | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 36.1-12 to Leviticus 25.8-24|IP³]] | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 36.1-12 to Numbers 26.55|IP⁴]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 36 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/174 - Year of Jubilee (Ultimate Redemption)|TT]] |
 
 ##### Numbers 36 . 2
 [[Reference Bible/4 - Numbers/Numbers 36#Numbers 36 - 2|2]] saying, "When the LORD commanded my lord to give the land as an inheritance to the Israelites by lot, He also commanded him to give the inheritance of our brother Zelophehad to his daughters.  | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 36.1-12 to Leviticus 25.8-24|IP¹]] | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 36.1-12 to Numbers 26.55|IP²]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 36 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/174 - Year of Jubilee (Ultimate Redemption)|TT]] |

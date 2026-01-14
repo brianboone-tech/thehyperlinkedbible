@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Nehemiah-R 13
+# Nehemiah 13
 
-**[[Home/Indexes/Readable Bible/16 - Nehemiah|Nehemiah]]**
-
-[[Readable Bible/16 - Nehemiah/Nehemiah 12#Nehemiah-R 12| Nehemiah 12]]
+[[Readable Bible/16 - Nehemiah/Nehemiah 12|← Nehemiah 12]]
 
 ---
 

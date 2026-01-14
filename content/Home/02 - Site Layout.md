@@ -1,6 +1,6 @@
 # Site Layout
 
-**[[Home/Getting Started|← Getting Started]]**
+**[[Home/01 - Getting Started|← Getting Started]]**
 
 ---
 
@@ -8,18 +8,7 @@
 
 The Hyperlinked Bible uses a **hub-and-spoke architecture** with the **[[Readable Bible Index|Readable Bible]]** at the center. Everything else branches out from there.
 
-```
-                         Word Studies
-                    (Reference Bible → Lexicons)
-                              ↑
-                              |
-Intertextuality Pairs ←  READABLE BIBLE  → Chiasms
-         ↓                    ↓                ↓
-    OT to OT           Inline Links       Literary
-    NT to OT        (IP | C | TOSK | TT)  Structures
-         ↓                    ↓
-   Trajectory Tables    Treasury of Scripture Knowledge
-```
+![[Resources/Vault Architecture - Current.png]]
 
 ---
 
@@ -58,4 +47,4 @@ The inline links at the end of each verse are your doorways to the interconnecte
 
 ---
 
-**[[Home/Getting Started|← Getting Started]]** | **[[Home/Understanding Links|Understanding Links →]]**
+**[[Home/01 - Getting Started|← Getting Started]]** | **[[Home/03 - Understanding Links|Understanding Links →]]**

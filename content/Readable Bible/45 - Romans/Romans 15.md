@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Romans-R 15
+# Romans 15
 
-**[[Home/Indexes/Readable Bible/45 - Romans|Romans]]**
-
-[[Readable Bible/45 - Romans/Romans 14#Romans-R 14| Romans 14]] - [[Readable Bible/45 - Romans/Romans 16#Romans-R 16| Romans 16]]
+[[Readable Bible/45 - Romans/Romans 14|← Romans 14]] | [[Readable Bible/45 - Romans/Romans 16|Romans 16 →]]
 
 ---
 
@@ -100,5 +98,5 @@ cssClasses: lexicon
 [[Reference Bible/45 - Romans/Romans 15#Romans 15 - 32|32]] so that by God’s will I may come to you with joy and together with you be refreshed.  | [[Chiasm/Chiasm - 45 - Romans 15 . 1 - 33|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 15 - TOSK#Verse 32|TOSK]] |
 
 ##### Romans 15 . 33
-[[Reference Bible/45 - Romans/Romans 15#Romans 15 - 33|33]] The God of peace be with all of you. Amen.  | [[Chiasm/Chiasm - 45 - Romans 15 . 1 - 33|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 15 - TOSK#Verse 33|TOSK]] | |
+[[Reference Bible/45 - Romans/Romans 15#Romans 15 - 33|33]] The God of peace be with all of you. Amen.  | [[Chiasm/Chiasm - 45 - Romans 15 . 1 - 33|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 15 - TOSK#Verse 33|TOSK]] ||
 

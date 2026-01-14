@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus-R 21
+# Exodus 21
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
-
-[[Readable Bible/02 - Exodus/Exodus 20#Exodus-R 20| Exodus 20]] - [[Readable Bible/02 - Exodus/Exodus 22#Exodus-R 22| Exodus 22]]
+[[Readable Bible/02 - Exodus/Exodus 20|← Exodus 20]] | [[Readable Bible/02 - Exodus/Exodus 22|Exodus 22 →]]
 
 ---
 
@@ -118,5 +116,5 @@ cssClasses: lexicon
 [[Reference Bible/2 - Exodus/Exodus 21#Exodus 21 - 35|35]] If a man’s ox injures his neighbor’s ox and it dies, they must sell the live one and divide the proceeds; they also must divide the dead animal.
 
 ##### Exodus 21 . 36
-[[Reference Bible/2 - Exodus/Exodus 21#Exodus 21 - 36|36]] But if it was known that the ox had a habit of goring, yet its owner failed to restrain it, he shall pay full compensation, ox for ox, and the dead animal will be his.  | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 21 - TOSK#Verse 36|TOSK]] | |
+[[Reference Bible/2 - Exodus/Exodus 21#Exodus 21 - 36|36]] But if it was known that the ox had a habit of goring, yet its owner failed to restrain it, he shall pay full compensation, ox for ox, and the dead animal will be his.  | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 21 - TOSK#Verse 36|TOSK]] ||
 

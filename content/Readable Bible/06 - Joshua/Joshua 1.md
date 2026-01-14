@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Joshua-R 1
+# Joshua 1
 
-**[[Home/Indexes/Readable Bible/06 - Joshua|Joshua]]**
-
-[[Readable Bible/05 - Deuteronomy/Deuteronomy 33#Deuteronomy-R 33| Deuteronomy 33]] - [[Readable Bible/06 - Joshua/Joshua 2#Joshua-R 2| Joshua 2]]
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 33|← Deuteronomy 33]] | [[Readable Bible/06 - Joshua/Joshua 2|Joshua 2 →]]
 
 ---
 

@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew-R 11
+# Matthew 11
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
-
-[[Readable Bible/40 - Matthew/Matthew 10#Matthew-R 10| Matthew 10]] - [[Readable Bible/40 - Matthew/Matthew 12#Matthew-R 12| Matthew 12]]
+[[Readable Bible/40 - Matthew/Matthew 10|← Matthew 10]] | [[Readable Bible/40 - Matthew/Matthew 12|Matthew 12 →]]
 
 ---
 
 ##### Matthew 11 . 1
-[[Reference Bible/40 - Matthew/Matthew 11#Matthew 11 - 1|1]] After Jesus had finished instructing His twelve disciples, He went on from there to teach and preach in their cities.   || [[Chiasm/Chiasm - 40 - Matthew 10 . 01 - 11 . 01|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 11 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/40 - Matthew/Matthew 11#Matthew 11 - 1|1]] After Jesus had finished instructing His twelve disciples, He went on from there to teach and preach in their cities.  | | [[Chiasm/Chiasm - 40 - Matthew 10 . 01 - 11 . 01|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 11 - TOSK#Verse 1|TOSK]] |
 
 ##### Matthew 11 . 2
 [[Reference Bible/40 - Matthew/Matthew 11#Matthew 11 - 2|2]] Meanwhile John heard in prison about the works of Christ, and he sent his disciples  | [[Chiasm/Chiasm - 40 - Matthew 11 . 02 - 30|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 11 - TOSK#Verse 2|TOSK]] |

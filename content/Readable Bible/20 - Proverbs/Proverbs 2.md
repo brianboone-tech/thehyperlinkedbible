@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Proverbs-R 2
+# Proverbs 2
 
-**[[Home/Indexes/Readable Bible/20 - Proverbs|Proverbs]]**
-
-[[Readable Bible/20 - Proverbs/Proverbs 1#Proverbs-R 1| Proverbs 1]] - [[Readable Bible/20 - Proverbs/Proverbs 3#Proverbs-R 3| Proverbs 3]]
+[[Readable Bible/20 - Proverbs/Proverbs 1|← Proverbs 1]] | [[Readable Bible/20 - Proverbs/Proverbs 3|Proverbs 3 →]]
 
 ---
 

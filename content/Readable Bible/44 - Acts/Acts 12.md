@@ -5,17 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Acts-R 12
+# Acts 12
 
-**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
-
-
-[[Readable Bible/44 - Acts/Acts 11#Acts-R 11| Acts 11]] - [[Readable Bible/44 - Acts/Acts 13#Acts-R 13| Acts 13]]
+[[Readable Bible/44 - Acts/Acts 11|← Acts 11]] | [[Readable Bible/44 - Acts/Acts 13|Acts 13 →]]
 
 ---
 
 ##### Acts 12 . 1
-[[Reference Bible/44 - Acts/Acts 12#Acts 12 - 1|1]] About that time, King Herod reached out to harm some who belonged to the church.   || [[Chiasm/Chiasm - 44 - Acts 12 . 01 - 24|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 12 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/44 - Acts/Acts 12#Acts 12 - 1|1]] About that time, King Herod reached out to harm some who belonged to the church.  | | [[Chiasm/Chiasm - 44 - Acts 12 . 01 - 24|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 12 - TOSK#Verse 1|TOSK]] |
 
 ##### Acts 12 . 2
 [[Reference Bible/44 - Acts/Acts 12#Acts 12 - 2|2]] He had James, the brother of John, put to death with the sword.  | [[Chiasm/Chiasm - 44 - Acts 12 . 01 - 24|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 12 - TOSK#Verse 2|TOSK]] |

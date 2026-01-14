@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus-R 23
+# Leviticus 23
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
-
-[[Readable Bible/03 - Leviticus/Leviticus 22#Leviticus-R 22| Leviticus 22]] - [[Readable Bible/03 - Leviticus/Leviticus 24#Leviticus-R 24| Leviticus 24]]
+[[Readable Bible/03 - Leviticus/Leviticus 22|← Leviticus 22]] | [[Readable Bible/03 - Leviticus/Leviticus 24|Leviticus 24 →]]
 
 ---
 

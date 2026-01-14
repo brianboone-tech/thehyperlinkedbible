@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Deuteronomy-R 28
+# Deuteronomy 28
 
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
-
-[[Readable Bible/05 - Deuteronomy/Deuteronomy 27#Deuteronomy-R 27| Deuteronomy 27]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 29#Deuteronomy-R 29| Deuteronomy 29]]
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 27|← Deuteronomy 27]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 29|Deuteronomy 29 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Philippians-R 1
+# Philippians 1
 
-**[[Home/Indexes/Readable Bible/50 - Philippians|Philippians]]**
-
-[[Readable Bible/49 - Ephesians/Ephesians 6#Ephesians-R 6|Ephesians 6]] • [[Readable Bible/50 - Philippians/Philippians 2#Philippians-R 2|Philippians 2]]
+[[Readable Bible/49 - Ephesians/Ephesians 6|← Ephesians 6]] | [[Readable Bible/50 - Philippians/Philippians 2|Philippians 2 →]]
 
 ---
 

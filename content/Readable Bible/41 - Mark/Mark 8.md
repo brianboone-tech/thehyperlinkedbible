@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Mark-R 8
+# Mark 8
 
-**[[Home/Indexes/Readable Bible/41 - Mark|Mark]]**
-
-[[Readable Bible/41 - Mark/Mark 7#Mark-R 7| Mark 7]] - [[Readable Bible/41 - Mark/Mark 9#Mark-R 9| Mark 9]]
+[[Readable Bible/41 - Mark/Mark 7|← Mark 7]] | [[Readable Bible/41 - Mark/Mark 9|Mark 9 →]]
 
 ---
 
 ##### Mark 8 . 1
-[[Reference Bible/41 - Mark/Mark 8#Mark 8 - 1|1]] In those days the crowd once again became very large, and they had nothing to eat. Jesus called the disciples to Him and said,   || [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 8 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/41 - Mark/Mark 8#Mark 8 - 1|1]] In those days the crowd once again became very large, and they had nothing to eat. Jesus called the disciples to Him and said,  | | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 8 - TOSK#Verse 1|TOSK]] |
 
 ##### Mark 8 . 2
 [[Reference Bible/41 - Mark/Mark 8#Mark 8 - 2|2]] “I have compassion for this crowd, because they have already been with Me three days and have nothing to eat.  | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 8 - TOSK#Verse 2|TOSK]] |

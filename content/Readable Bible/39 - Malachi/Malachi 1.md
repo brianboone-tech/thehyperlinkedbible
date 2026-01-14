@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Malachi-R 1
+# Malachi 1
 
-**[[Home/Indexes/Readable Bible/39 - Malachi|Malachi]]**
-
-[[Readable Bible/38 - Zechariah/Zechariah 14#Zechariah-R 14|Zechariah 14]] • [[Readable Bible/39 - Malachi/Malachi 2#Malachi-R 2|Malachi 2]]
+[[Readable Bible/38 - Zechariah/Zechariah 14|← Zechariah 14]] | [[Readable Bible/39 - Malachi/Malachi 2|Malachi 2 →]]
 
 ---
 

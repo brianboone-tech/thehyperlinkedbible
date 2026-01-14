@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Samuel-R 23
+# 1 Samuel 23
 
-**[[Home/Indexes/Readable Bible/09 - 1 Samuel|1 Samuel]]**
-
-[[Readable Bible/09 - 1 Samuel/1 Samuel 22#1 Samuel-R 22| 1 Samuel 22]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 24#1 Samuel-R 24| 1 Samuel 24]]
+[[Readable Bible/09 - 1 Samuel/1 Samuel 22|← 1 Samuel 22]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 24|1 Samuel 24 →]]
 
 ---
 

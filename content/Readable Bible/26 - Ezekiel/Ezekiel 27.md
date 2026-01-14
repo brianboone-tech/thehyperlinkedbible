@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 27
+# Ezekiel 27
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 26#Ezekiel-R 26| Ezekiel 26]] - [[Readable Bible/26 - Ezekiel/Ezekiel 28#Ezekiel-R 28| Ezekiel 28]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 26|← Ezekiel 26]] | [[Readable Bible/26 - Ezekiel/Ezekiel 28|Ezekiel 28 →]]
 
 ---
 
@@ -41,7 +39,7 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 27#Ezekiel 27 - 9|9]] The elders of Gebal were aboard as shipwrights, repairing your leaks. All the ships of the sea and their sailors came alongside to barter for your merchandise.  | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 9|TOSK]] |
 
 ##### Ezekiel 27 . 10
-[[Reference Bible/26 - Ezekiel/Ezekiel 27#Ezekiel 27 - 10|10]] Men of Persia, Lydia, and Put served as warriors in your army. They hung their shields and helmets on your walls; they gave you splendor. | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 10|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 10|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 10|TOSK]] |  | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 38.2 to Ezekiel 27.10|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 38.6 to Ezekiel 27.10|IP²]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 27#Ezekiel 27 - 10|10]] Men of Persia, Lydia, and Put served as warriors in your army. They hung their shields and helmets on your walls; they gave you splendor. | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 10|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 10|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 10|TOSK]] | | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 38.2 to Ezekiel 27.10|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 38.6 to Ezekiel 27.10|IP²]] |
 
 ##### Ezekiel 27 . 11
 [[Reference Bible/26 - Ezekiel/Ezekiel 27#Ezekiel 27 - 11|11]] Men of Arvad and Helech manned your walls all around, and the men of Gammad were in your towers. They hung their shields around your walls; they perfected your beauty.  | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 11|TOSK]] |
@@ -53,7 +51,7 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 27#Ezekiel 27 - 13|13]] Javan, Tubal, and Meshech were your merchants. They exchanged slaves and bronze utensils for your merchandise.  | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 13|TOSK]] |
 
 ##### Ezekiel 27 . 14
-[[Reference Bible/26 - Ezekiel/Ezekiel 27#Ezekiel 27 - 14|14]] The men of Beth-togarmah exchanged horses, war horses, and mules for your wares. | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 14|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 14|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 14|TOSK]] |  | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 38.2 to Ezekiel 27.14|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 38.6 to Ezekiel 27.14|IP²]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 27#Ezekiel 27 - 14|14]] The men of Beth-togarmah exchanged horses, war horses, and mules for your wares. | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 14|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 14|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 14|TOSK]] | | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 38.2 to Ezekiel 27.14|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 38.6 to Ezekiel 27.14|IP²]] |
 
 ##### Ezekiel 27 . 15
 [[Reference Bible/26 - Ezekiel/Ezekiel 27#Ezekiel 27 - 15|15]] The men of Dedan were your clients; many coastlands were your market; they paid you with ivory tusks and ebony.  | [[Chiasm/Chiasm - 26 - Ezekiel 27 . 1 - 36|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK#Verse 15|TOSK]] |

@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah-R 3
+# Jeremiah 3
 
-**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
-
-[[Readable Bible/24 - Jeremiah/Jeremiah 2#Jeremiah-R 2| Jeremiah 2]] - [[Readable Bible/24 - Jeremiah/Jeremiah 4#Jeremiah-R 4| Jeremiah 4]]
+[[Readable Bible/24 - Jeremiah/Jeremiah 2|← Jeremiah 2]] | [[Readable Bible/24 - Jeremiah/Jeremiah 4|Jeremiah 4 →]]
 
 ---
 
 ##### Jeremiah 3 . 1
-[[Reference Bible/24 - Jeremiah/Jeremiah 3#Jeremiah 3 - 1|1]] "If a man divorces his wife and she leaves him to marry another, can he ever return to her? Would not such a land be completely defiled? But you have played the harlot with many lovers—and you would return to Me?" declares the LORD.  | [[Intertextuality  || [[Intertextuality Pairs/OT to OT/24 - Jeremiah/Jeremiah 3.1 to Deuteronomy 24.1-4|IP¹]] | [[Intertextuality Pairs/OT to OT/24 - Jeremiah/Jeremiah 3.1 to Deuteronomy 24.1|IP²]] | [[Chiasm/Chiasm - 24 - Jeremiah 3 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 3 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/153 - Spiritual Adultery (Covenant Faithfulness and Idolatry)|TT¹]] | [[Trajectory Tables/153 - Spiritual Adultery (Covenant Faithfulness and Idolatry)|TT¹¹]]  [[Trajectory Tables/153 - Spiritual Adultery (Covenant Faithfulness and Idolatry)|TT¹]] |
+[[Reference Bible/24 - Jeremiah/Jeremiah 3#Jeremiah 3 - 1|1]] "If a man divorces his wife and she leaves him to marry another, can he ever return to her? Would not such a land be completely defiled? But you have played the harlot with many lovers—and you would return to Me?" declares the LORD.  | [[Intertextuality | | [[Intertextuality Pairs/OT to OT/24 - Jeremiah/Jeremiah 3.1 to Deuteronomy 24.1-4|IP¹]] | [[Intertextuality Pairs/OT to OT/24 - Jeremiah/Jeremiah 3.1 to Deuteronomy 24.1|IP²]] | [[Chiasm/Chiasm - 24 - Jeremiah 3 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 3 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/153 - Spiritual Adultery (Covenant Faithfulness and Idolatry)|TT¹]] | [[Trajectory Tables/153 - Spiritual Adultery (Covenant Faithfulness and Idolatry)|TT¹¹]]  [[Trajectory Tables/153 - Spiritual Adultery (Covenant Faithfulness and Idolatry)|TT¹]] |
 
 
 ##### Jeremiah 3 . 2

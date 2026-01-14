@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Kings-R 23
+# 2 Kings 23
 
-**[[Home/Indexes/Readable Bible/12 - 2 Kings|2 Kings]]**
-
-[[Readable Bible/12 - 2 Kings/2 Kings 22#2 Kings-R 22| 2 Kings 22]] - [[Readable Bible/12 - 2 Kings/2 Kings 24#2 Kings-R 24| 2 Kings 24]]
+[[Readable Bible/12 - 2 Kings/2 Kings 22|← 2 Kings 22]] | [[Readable Bible/12 - 2 Kings/2 Kings 24|2 Kings 24 →]]
 
 ---
 

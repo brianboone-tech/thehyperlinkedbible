@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah-R 19
+# Jeremiah 19
 
-**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
-
-[[Readable Bible/24 - Jeremiah/Jeremiah 18#Jeremiah-R 18| Jeremiah 18]] - [[Readable Bible/24 - Jeremiah/Jeremiah 20#Jeremiah-R 20| Jeremiah 20]]
+[[Readable Bible/24 - Jeremiah/Jeremiah 18|← Jeremiah 18]] | [[Readable Bible/24 - Jeremiah/Jeremiah 20|Jeremiah 20 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 74
+# Psalm 74
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 73#Psalm-R 73| Psalm 73]] - [[Readable Bible/19 - Psalms/Psalm 75#Psalm-R 75| Psalm 75]]
+[[Readable Bible/19 - Psalms/Psalm 73|← Psalm 73]] | [[Readable Bible/19 - Psalms/Psalm 75|Psalm 75 →]]
 
 ---
 

@@ -39,8 +39,8 @@ Every feature of The Hyperlinked Bible serves one purpose: **helping you read Sc
 | | |
 |---|---|
 | **[[Readable Bible Index\|Read the Bible]]** | Navigate all 66 books with inline cross-references |
-| **[[Home/Getting Started\|Getting Started]]** | Learn how to use the site |
-| **[[Home/36 - Scripture Index\|Scripture Index]]** | Browse all 66 books with detailed resources |
+| **[[Home/01 - Getting Started\|Getting Started]]** | Learn how to use the site |
+| **[[Home/08 - Scripture Index\|Scripture Index]]** | Browse all 66 books with detailed resources |
 
 ---
 

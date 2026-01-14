@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Deuteronomy-R 34
+# Deuteronomy 34
 
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
-
-[[Readable Bible/05 - Deuteronomy/Deuteronomy 33#Deuteronomy-R 33| Deuteronomy 33]]
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 33|← Deuteronomy 33]]
 
 ---
 

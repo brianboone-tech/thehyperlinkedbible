@@ -5,10 +5,9 @@ Folder: Readable Bible
 ---
 # Obadiah-R
 
-[[index|Home]] • [[Readable Bible/31 - Obadiah/Obadiah 1#Obadiah-R 11]]  
+[[index|Home]] | [[Readable Bible/31 - Obadiah/Obadiah 1#Obadiah-R 11]]  
 
 ---
-
-[[Readable Bible/31 - Obadiah/Obadiah 1#Obadiah-R 101|]]  
+[[Readable Bible/31 - Obadiah/Obadiah 1|← ]]
 
 ---

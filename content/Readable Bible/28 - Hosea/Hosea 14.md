@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hosea-R 14
+# Hosea 14
 
-**[[Home/Indexes/Readable Bible/28 - Hosea|Hosea]]**
-
-[[Readable Bible/28 - Hosea/Hosea 13#Hosea-R 13| Hosea 13]]
+[[Readable Bible/28 - Hosea/Hosea 13|← Hosea 13]]
 
 ---
 

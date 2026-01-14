@@ -5,15 +5,13 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 37
+# Ezekiel 37
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 36#Ezekiel-R 36| Ezekiel 36]] - [[Readable Bible/26 - Ezekiel/Ezekiel 38#Ezekiel-R 38| Ezekiel 38]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 36|← Ezekiel 36]] | [[Readable Bible/26 - Ezekiel/Ezekiel 38|Ezekiel 38 →]]
 
 ---
 
-##### Ezekiel 37 . 1| [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 1|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 1|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 1|TOSK]] |
+##### Ezekiel 37 . 1 | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 1|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 1|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 1|TOSK]] |
 
 ##### Ezekiel 37 . 2
 [[Reference Bible/26 - Ezekiel/Ezekiel 37#Ezekiel 37 - 2|2]] He led me all around among them, and I saw a great many bones on the floor of the valley, and indeed, they were very dry. | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 2|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 2|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 2|TOSK]] |
@@ -37,13 +35,13 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 37#Ezekiel 37 - 8|8]] As I looked on, tendons appeared on them, flesh grew, and skin covered them; but there was no breath in them. | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 8|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 8|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 8|TOSK]] |
 
 ##### Ezekiel 37 . 9
-[[Reference Bible/26 - Ezekiel/Ezekiel 37#Ezekiel 37 - 9|9]] Then He said to me, “Prophesy to the breath; prophesy, son of man, and tell the breath that this is what the Lord GOD says: Come from the four winds, O breath, and breathe into these slain, so that they may live!”|  | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 9|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 37#Ezekiel 37 - 9|9]] Then He said to me, “Prophesy to the breath; prophesy, son of man, and tell the breath that this is what the Lord GOD says: Come from the four winds, O breath, and breathe into these slain, so that they may live!”| | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 9|TOSK]] |
 
 ##### Ezekiel 37 . 10
 [[Reference Bible/26 - Ezekiel/Ezekiel 37#Ezekiel 37 - 10|10]] So I prophesied as He had commanded me, and the breath entered them, and they came to life and stood on their feet—a vast army. | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 10|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 10|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 10|TOSK]] |
 
 ##### Ezekiel 37 . 11
-[[Reference Bible/26 - Ezekiel/Ezekiel 37#Ezekiel 37 - 11|11]] Then He said to me, “Son of man, these bones are the whole house of Israel. Look, they are saying, ‘Our bones are dried up, and our hope has perished; we are cut off.’||  | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 11|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 37#Ezekiel 37 - 11|11]] Then He said to me, “Son of man, these bones are the whole house of Israel. Look, they are saying, ‘Our bones are dried up, and our hope has perished; we are cut off.’|| | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 11|TOSK]] |
 
 ##### Ezekiel 37 . 12
 [[Reference Bible/26 - Ezekiel/Ezekiel 37#Ezekiel 37 - 12|12]] Therefore prophesy and tell them that this is what the Lord GOD says: ‘O My people, I will open your graves and bring you up from them, and I will bring you back to the land of Israel. | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 12|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 12|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 37 . 1 - 14|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 37 - TOSK#Verse 12|TOSK]] |

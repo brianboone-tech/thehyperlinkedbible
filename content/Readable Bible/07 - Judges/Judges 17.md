@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Judges-R 17
+# Judges 17
 
-**[[Home/Indexes/Readable Bible/07 - Judges|Judges]]**
-
-[[Readable Bible/07 - Judges/Judges 16#Judges-R 16| Judges 16]] - [[Readable Bible/07 - Judges/Judges 18#Judges-R 18| Judges 18]]
+[[Readable Bible/07 - Judges/Judges 16|← Judges 16]] | [[Readable Bible/07 - Judges/Judges 18|Judges 18 →]]
 
 ---
 
 ##### Judges 17 . 1
-[[Reference Bible/7 - Judges/Judges 17#Judges 17 - 1|1]] Now a man named Micah from the hill country of Ephraim   || [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 17 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/7 - Judges/Judges 17#Judges 17 - 1|1]] Now a man named Micah from the hill country of Ephraim  | | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 17 - TOSK#Verse 1|TOSK]] |
 
 ##### Judges 17 . 2
 [[Reference Bible/7 - Judges/Judges 17#Judges 17 - 2|2]] said to his mother, “The eleven hundred shekels of silver that were taken from you and about which I heard you utter a curse—I have the silver here with me; I took it.” Then his mother said, “Blessed be my son by the LORD!”  | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 17 - TOSK#Verse 2|TOSK]] |

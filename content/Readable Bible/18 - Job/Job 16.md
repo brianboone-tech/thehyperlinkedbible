@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Job-R 16
+# Job 16
 
-**[[Home/Indexes/Readable Bible/18 - Job|Job]]**
-
-[[Readable Bible/18 - Job/Job 15#Job-R 15| Job 15]] - [[Readable Bible/18 - Job/Job 17#Job-R 17| Job 17]]
+[[Readable Bible/18 - Job/Job 15|← Job 15]] | [[Readable Bible/18 - Job/Job 17|Job 17 →]]
 
 ---
 

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Chronicles-R 1
+# 2 Chronicles 1
 
-**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|2 Chronicles]]**
-
-[[Readable Bible/13 - 1 Chronicles/1 Chronicles 29#1 Chronicles-R 29|1 Chronicles 29]] • [[Readable Bible/14 - 2 Chronicles/2 Chronicles 2#2 Chronicles-R 2|2 Chronicles 2]]
+[[Readable Bible/13 - 1 Chronicles/1 Chronicles 29|← 1 Chronicles 29]] | [[Readable Bible/14 - 2 Chronicles/2 Chronicles 2|2 Chronicles 2 →]]
 
 ---
 

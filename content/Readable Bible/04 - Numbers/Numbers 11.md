@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Numbers-R 11
+# Numbers 11
 
-**[[Home/Indexes/Readable Bible/04 - Numbers|Numbers]]**
-
-[[Readable Bible/04 - Numbers/Numbers 10#Numbers-R 10| Numbers 10]] - [[Readable Bible/04 - Numbers/Numbers 12#Numbers-R 12| Numbers 12]]
+[[Readable Bible/04 - Numbers/Numbers 10|← Numbers 10]] | [[Readable Bible/04 - Numbers/Numbers 12|Numbers 12 →]]
 
 ---
 

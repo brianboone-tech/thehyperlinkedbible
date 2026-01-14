@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew-R 4
+# Matthew 4
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
-
-[[Readable Bible/40 - Matthew/Matthew 3#Matthew-R 3| Matthew 3]] - [[Readable Bible/40 - Matthew/Matthew 5#Matthew-R 5| Matthew 5]]
+[[Readable Bible/40 - Matthew/Matthew 3|← Matthew 3]] | [[Readable Bible/40 - Matthew/Matthew 5|Matthew 5 →]]
 
 ---
 
 ##### Matthew 4 . 1
-[[Reference Bible/40 - Matthew/Matthew 4#Matthew 4 - 1|1]] Then Jesus was led by the Spirit into the wilderness to be tempted by the devil.   || [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 4 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/079 - Israel (Corporate New-Adam)|TT¹]] | [[Trajectory Tables/087 - Journey to the Promised Land (Christian Pilgrimage)|TT¹]] | [[Trajectory Tables/104 - Moses (The Prophet Like Unto Me)|TT²]] | [[Trajectory Tables/151 - Spies and Unbelief (Testing God's Promise)|TT³]] | [[Trajectory Tables/171 - Wilderness Testing (Faith Through Trial)|TT⁴]] |
+[[Reference Bible/40 - Matthew/Matthew 4#Matthew 4 - 1|1]] Then Jesus was led by the Spirit into the wilderness to be tempted by the devil.  | | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 4 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/079 - Israel (Corporate New-Adam)|TT¹]] | [[Trajectory Tables/087 - Journey to the Promised Land (Christian Pilgrimage)|TT¹]] | [[Trajectory Tables/104 - Moses (The Prophet Like Unto Me)|TT²]] | [[Trajectory Tables/151 - Spies and Unbelief (Testing God's Promise)|TT³]] | [[Trajectory Tables/171 - Wilderness Testing (Faith Through Trial)|TT⁴]] |
 
 ##### Matthew 4 . 2
 [[Reference Bible/40 - Matthew/Matthew 4#Matthew 4 - 2|2]] After fasting forty days and forty nights, He was hungry.  | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 4 - TOSK#Verse 2|TOSK]] |

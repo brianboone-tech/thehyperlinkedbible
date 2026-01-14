@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus-R 16
+# Leviticus 16
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
-
-[[Readable Bible/03 - Leviticus/Leviticus 15#Leviticus-R 15| Leviticus 15]] - [[Readable Bible/03 - Leviticus/Leviticus 17#Leviticus-R 17| Leviticus 17]]
+[[Readable Bible/03 - Leviticus/Leviticus 15|← Leviticus 15]] | [[Readable Bible/03 - Leviticus/Leviticus 17|Leviticus 17 →]]
 
 ---
 

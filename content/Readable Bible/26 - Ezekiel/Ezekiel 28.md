@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 28
+# Ezekiel 28
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 27#Ezekiel-R 27| Ezekiel 27]] - [[Readable Bible/26 - Ezekiel/Ezekiel 29#Ezekiel-R 29| Ezekiel 29]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 27|← Ezekiel 27]] | [[Readable Bible/26 - Ezekiel/Ezekiel 29|Ezekiel 29 →]]
 
 ---
 
@@ -50,7 +48,7 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 28#Ezekiel 28 - 12|12]] “Son of man, take up a lament for the king of Tyre and tell him that this is what the Lord GOD says: ‘You were the seal of perfection, full of wisdom and perfect in beauty.  | [[Chiasm/Chiasm - 26 - Ezekiel 28 . 1 - 26|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 28 - TOSK#Verse 12|TOSK]] |
 
 ##### Ezekiel 28 . 13
-[[Reference Bible/26 - Ezekiel/Ezekiel 28#Ezekiel 28 - 13|13]] You were in Eden, the garden of God. Every kind of precious stone adorned you: ruby, topaz, and diamond, beryl, onyx, and jasper, sapphire, turquoise, and emerald. Your mountings and settings were crafted in gold, prepared on the day of your creation.|  | [[Chiasm/Chiasm - 26 - Ezekiel 28 . 1 - 26|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 28 - TOSK#Verse 13|TOSK]] | [[Trajectory Tables/020 - Breastplate of Judgment (Bearing the Names on the Heart)|TT¹]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT¹]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 28#Ezekiel 28 - 13|13]] You were in Eden, the garden of God. Every kind of precious stone adorned you: ruby, topaz, and diamond, beryl, onyx, and jasper, sapphire, turquoise, and emerald. Your mountings and settings were crafted in gold, prepared on the day of your creation.| | [[Chiasm/Chiasm - 26 - Ezekiel 28 . 1 - 26|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 28 - TOSK#Verse 13|TOSK]] | [[Trajectory Tables/020 - Breastplate of Judgment (Bearing the Names on the Heart)|TT¹]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT¹]] |
 
 ##### Ezekiel 28 . 14
 [[Reference Bible/26 - Ezekiel/Ezekiel 28#Ezekiel 28 - 14|14]] You were anointed as a guardian cherub, for I had ordained you. You were on the holy mountain of God; you walked among the fiery stones.  | [[Chiasm/Chiasm - 26 - Ezekiel 28 . 1 - 26|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 28 - TOSK#Verse 14|TOSK]] |

@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Acts-R 25
+# Acts 25
 
-**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
-
-[[Readable Bible/44 - Acts/Acts 24#Acts-R 24| Acts 24]] - [[Readable Bible/44 - Acts/Acts 26#Acts-R 26| Acts 26]]
+[[Readable Bible/44 - Acts/Acts 24|← Acts 24]] | [[Readable Bible/44 - Acts/Acts 26|Acts 26 →]]
 
 ---
 

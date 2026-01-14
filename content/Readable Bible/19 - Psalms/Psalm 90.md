@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 90
+# Psalm 90
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 89#Psalm-R 89| Psalm 89]] - [[Readable Bible/19 - Psalms/Psalm 91#Psalm-R 91| Psalm 91]]
+[[Readable Bible/19 - Psalms/Psalm 89|← Psalm 89]] | [[Readable Bible/19 - Psalms/Psalm 91|Psalm 91 →]]
 
 ---
 

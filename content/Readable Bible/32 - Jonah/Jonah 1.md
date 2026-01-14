@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jonah-R 1
+# Jonah 1
 
-**[[Home/Indexes/Readable Bible/32 - Jonah|Jonah]]**
-
-[[Readable Bible/31 - Obadiah/Obadiah 1|Obadiah 1]] • [[Readable Bible/32 - Jonah/Jonah 2|Jonah 2]]
+[[Readable Bible/31 - Obadiah/Obadiah 1|← Obadiah 1]] | [[Readable Bible/32 - Jonah/Jonah 2|Jonah 2 →]]
 
 ---
 

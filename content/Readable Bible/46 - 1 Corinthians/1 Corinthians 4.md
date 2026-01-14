@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Corinthians-R 4
+# 1 Corinthians 4
 
-**[[Home/Indexes/Readable Bible/46 - 1 Corinthians|1 Corinthians]]**
-
-[[Readable Bible/46 - 1 Corinthians/1 Corinthians 2#1 Corinthians-R 2| 1 Corinthians 2]] - [[Readable Bible/46 - 1 Corinthians/1 Corinthians 4#1 Corinthians-R 4| 1 Corinthians 4]]
+[[Readable Bible/46 - 1 Corinthians/1 Corinthians 2|← 1 Corinthians 2]] | [[Readable Bible/46 - 1 Corinthians/1 Corinthians 4|1 Corinthians 4 →]]
 
 ---
 

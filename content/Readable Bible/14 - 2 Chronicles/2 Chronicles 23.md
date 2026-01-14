@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Chronicles-R 23
+# 2 Chronicles 23
 
-**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|2 Chronicles]]**
-
-[[Readable Bible/14 - 2 Chronicles/2 Chronicles 22#2 Chronicles-R 22| 2 Chronicles 22]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 24#2 Chronicles-R 24| 2 Chronicles 24]]
+[[Readable Bible/14 - 2 Chronicles/2 Chronicles 22|← 2 Chronicles 22]] | [[Readable Bible/14 - 2 Chronicles/2 Chronicles 24|2 Chronicles 24 →]]
 
 ---
 

@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Romans-R 1
+# Romans 1
 
-**[[Home/Indexes/Readable Bible/45 - Romans|Romans]]**
-
-[[Readable Bible/44 - Acts/Acts 28#Acts-R 28|Acts 28]] • [[Readable Bible/45 - Romans/Romans 2#Romans-R 2|Romans 2]]
+[[Readable Bible/44 - Acts/Acts 28|← Acts 28]] | [[Readable Bible/45 - Romans/Romans 2|Romans 2 →]]
 
 ---
 
 ##### Romans 1 . 1
-[[Reference Bible/45 - Romans/Romans 1#Romans 1 - 1|1]] Paul, a servant of Christ Jesus, called to be an apostle, and set apart for the gospel of God—  | [[Intertextuality  || [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 1.1-7 to 2 Samuel 7.12|IP]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 1 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/041 - David (The King After God's Own Heart)|TT¹]] | [[Trajectory Tables/143 - Seed Promise (Redemption Through Offspring)|TT²]] |
+[[Reference Bible/45 - Romans/Romans 1#Romans 1 - 1|1]] Paul, a servant of Christ Jesus, called to be an apostle, and set apart for the gospel of God—  | [[Intertextuality | | [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 1.1-7 to 2 Samuel 7.12|IP]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 1 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/041 - David (The King After God's Own Heart)|TT¹]] | [[Trajectory Tables/143 - Seed Promise (Redemption Through Offspring)|TT²]] |
 ##### Romans 1 . 2
 [[Reference Bible/45 - Romans/Romans 1#Romans 1 - 2|2]] the gospel He promised beforehand through His prophets in the Holy Scriptures,  | [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 1.1-7 to 2 Samuel 7.12|IP]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 1 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/041 - David (The King After God's Own Heart)|TT¹]] | [[Trajectory Tables/143 - Seed Promise (Redemption Through Offspring)|TT²]] |
 

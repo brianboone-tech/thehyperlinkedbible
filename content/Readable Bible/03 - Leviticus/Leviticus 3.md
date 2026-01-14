@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus-R 3
+# Leviticus 3
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
-
-[[Readable Bible/03 - Leviticus/Leviticus 2#Leviticus-R 2| Leviticus 2]] - [[Readable Bible/03 - Leviticus/Leviticus 4#Leviticus-R 4| Leviticus 4]]
+[[Readable Bible/03 - Leviticus/Leviticus 2|← Leviticus 2]] | [[Readable Bible/03 - Leviticus/Leviticus 4|Leviticus 4 →]]
 
 ---
 

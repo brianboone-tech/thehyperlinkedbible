@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Timothy-R 3
+# 2 Timothy 3
 
-**[[Home/Indexes/Readable Bible/55 - 2 Timothy|2 Timothy]]**
-
-[[Readable Bible/55 - 2 Timothy/2 Timothy 2#2 Timothy-R 2| 2 Timothy 2]] - [[Readable Bible/55 - 2 Timothy/2 Timothy 4#2 Timothy-R 4| 2 Timothy 4]]
+[[Readable Bible/55 - 2 Timothy/2 Timothy 2|← 2 Timothy 2]] | [[Readable Bible/55 - 2 Timothy/2 Timothy 4|2 Timothy 4 →]]
 
 ---
 

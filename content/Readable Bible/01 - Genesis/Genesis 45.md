@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Genesis-R 45
+# Genesis 45
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
-
-[[Readable Bible/01 - Genesis/Genesis 44#Genesis-R 44| Genesis 44]] - [[Readable Bible/01 - Genesis/Genesis 46#Genesis-R 46| Genesis 46]]
+[[Readable Bible/01 - Genesis/Genesis 44|← Genesis 44]] | [[Readable Bible/01 - Genesis/Genesis 46|Genesis 46 →]]
 
 ---
 

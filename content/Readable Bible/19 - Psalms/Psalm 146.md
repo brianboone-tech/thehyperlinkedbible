@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 146
+# Psalm 146
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 145#Psalm-R 145| Psalm 145]] - [[Readable Bible/19 - Psalms/Psalm 147#Psalm-R 147| Psalm 147]]
+[[Readable Bible/19 - Psalms/Psalm 145|← Psalm 145]] | [[Readable Bible/19 - Psalms/Psalm 147|Psalm 147 →]]
 
 ---
 

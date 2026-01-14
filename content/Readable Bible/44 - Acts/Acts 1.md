@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Acts-R 1
+# Acts 1
 
-**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
-
-[[Readable Bible/43 - John/John 21#John-R 21|John 21]] • [[Readable Bible/44 - Acts/Acts 2#Acts-R 2|Acts 2]]
+[[Readable Bible/43 - John/John 21|← John 21]] | [[Readable Bible/44 - Acts/Acts 2|Acts 2 →]]
 
 ---
 

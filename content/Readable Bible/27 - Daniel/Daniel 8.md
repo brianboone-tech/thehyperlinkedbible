@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Daniel-R 8
+# Daniel 8
 
-**[[Home/Indexes/Readable Bible/27 - Daniel|Daniel]]**
-
-[[Readable Bible/27 - Daniel/Daniel 7#Daniel-R 7| Daniel 7]] - [[Readable Bible/27 - Daniel/Daniel 9#Daniel-R 9| Daniel 9]]
+[[Readable Bible/27 - Daniel/Daniel 7|← Daniel 7]] | [[Readable Bible/27 - Daniel/Daniel 9|Daniel 9 →]]
 
 ---
 

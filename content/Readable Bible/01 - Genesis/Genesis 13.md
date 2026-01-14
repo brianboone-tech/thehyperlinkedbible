@@ -6,11 +6,9 @@ cssclasses:
   - lexicon
 ---
 
-# Genesis-R 13
+# Genesis 13
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
-
-[[Readable Bible/01 - Genesis/Genesis 12#Genesis-R 12| Genesis 12]] - [[Readable Bible/01 - Genesis/Genesis 14#Genesis-R 14| Genesis 14]]
+[[Readable Bible/01 - Genesis/Genesis 12|← Genesis 12]] | [[Readable Bible/01 - Genesis/Genesis 14|Genesis 14 →]]
 
 ---
 

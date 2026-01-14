@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Luke-R 11
+# Luke 11
 
-**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
-
-[[Readable Bible/42 - Luke/Luke 10#Luke-R 10| Luke 10]] - [[Readable Bible/42 - Luke/Luke 12#Luke-R 12| Luke 12]]
+[[Readable Bible/42 - Luke/Luke 10|← Luke 10]] | [[Readable Bible/42 - Luke/Luke 12|Luke 12 →]]
 
 ---
 

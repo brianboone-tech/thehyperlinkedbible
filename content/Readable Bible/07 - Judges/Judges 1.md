@@ -5,9 +5,8 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Judges-R 1
+# Judges 1
 
-**[[Home/Indexes/Readable Bible/07 - Judges|Judges]]**
 
 
 

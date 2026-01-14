@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah-R 1
+# Isaiah 1
 
-**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
-
-[[Readable Bible/22 - Song of Solomon/Song of Solomon 8#Song of Solomon-R 8|Song of Solomon 8]] • [[Readable Bible/23 - Isaiah/Isaiah 2#Isaiah-R 2|Isaiah 2]]
+[[Readable Bible/22 - Song of Solomon/Song of Solomon 8|← Song of Solomon 8]] | [[Readable Bible/23 - Isaiah/Isaiah 2|Isaiah 2 →]]
 
 ---
 

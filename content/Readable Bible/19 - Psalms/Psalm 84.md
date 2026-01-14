@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm-R 84
+# Psalm 84
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
-
-[[Readable Bible/19 - Psalms/Psalm 83#Psalm-R 83| Psalm 83]] - [[Readable Bible/19 - Psalms/Psalm 85#Psalm-R 85| Psalm 85]]
+[[Readable Bible/19 - Psalms/Psalm 83|← Psalm 83]] | [[Readable Bible/19 - Psalms/Psalm 85|Psalm 85 →]]
 
 ---
 

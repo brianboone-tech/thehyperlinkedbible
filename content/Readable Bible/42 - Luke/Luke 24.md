@@ -5,16 +5,14 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Luke-R 24
+# Luke 24
 
-**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
-
-[[Readable Bible/42 - Luke/Luke 23#Luke-R 23| Luke 23]]
+[[Readable Bible/42 - Luke/Luke 23|← Luke 23]]
 
 ---
 
 ##### Luke 24 . 1
-[[Reference Bible/42 - Luke/Luke 24#Luke 24 - 1|1]] On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared.   || [[Chiasm/Chiasm - 42 - Luke 24 . 01 - 12|C]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 24 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/42 - Luke/Luke 24#Luke 24 - 1|1]] On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared.  | | [[Chiasm/Chiasm - 42 - Luke 24 . 01 - 12|C]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 24 - TOSK#Verse 1|TOSK]] |
 
 ##### Luke 24 . 2
 [[Reference Bible/42 - Luke/Luke 24#Luke 24 - 2|2]] They found the stone rolled away from the tomb,  | [[Chiasm/Chiasm - 42 - Luke 24 . 01 - 12|C]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 24 - TOSK#Verse 2|TOSK]] |

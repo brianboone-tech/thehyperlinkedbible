@@ -5,12 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Luke-R 4
+# Luke 4
 
-**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
-
-
-[[Readable Bible/42 - Luke/Luke 3#Luke-R 3| Luke 3]] - [[Readable Bible/42 - Luke/Luke 5#Luke-R 5| Luke 5]]
+[[Readable Bible/42 - Luke/Luke 3|← Luke 3]] | [[Readable Bible/42 - Luke/Luke 5|Luke 5 →]]
 
 ---
 

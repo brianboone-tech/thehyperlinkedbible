@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Mark-R 2
+# Mark 2
 
-**[[Home/Indexes/Readable Bible/41 - Mark|Mark]]**
-
-[[Readable Bible/41 - Mark/Mark 1#Mark-R 1| Mark 1]] - [[Readable Bible/41 - Mark/Mark 3#Mark-R 3| Mark 3]]
+[[Readable Bible/41 - Mark/Mark 1|← Mark 1]] | [[Readable Bible/41 - Mark/Mark 3|Mark 3 →]]
 
 ---
 

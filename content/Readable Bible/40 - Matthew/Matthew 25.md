@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew-R 25
+# Matthew 25
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
-
-[[Readable Bible/40 - Matthew/Matthew 24#Matthew-R 24| Matthew 24]] - [[Readable Bible/40 - Matthew/Matthew 26#Matthew-R 26| Matthew 26]]
+[[Readable Bible/40 - Matthew/Matthew 24|← Matthew 24]] | [[Readable Bible/40 - Matthew/Matthew 26|Matthew 26 →]]
 
 ---
 

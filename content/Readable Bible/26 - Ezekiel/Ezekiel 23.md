@@ -5,11 +5,9 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel-R 23
+# Ezekiel 23
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
-
-[[Readable Bible/26 - Ezekiel/Ezekiel 22#Ezekiel-R 22| Ezekiel 22]] - [[Readable Bible/26 - Ezekiel/Ezekiel 24#Ezekiel-R 24| Ezekiel 24]]
+[[Readable Bible/26 - Ezekiel/Ezekiel 22|← Ezekiel 22]] | [[Readable Bible/26 - Ezekiel/Ezekiel 24|Ezekiel 24 →]]
 
 ---
 
