@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## BRAZEN LAVER (CLEANSING FOR SERVICE) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICw5q9WkpAM?si=Q20WJL_7ulv2Vlmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

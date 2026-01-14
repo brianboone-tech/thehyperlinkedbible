@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## BRONZE SERPENT (LIFTED UP FOR HEALING) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SA-6-h1ku74?si=H4SorCjcYEEiF8-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## THESE ARE THE GENERATIONS OF (COVENANT GENEALOGY) TRAJECTORY TABLE
 
 

@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/44 - Acts|← Acts]]**
 
 ---

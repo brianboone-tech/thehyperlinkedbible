@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/64 - 3 John|← 3 John]]**
 
 ---

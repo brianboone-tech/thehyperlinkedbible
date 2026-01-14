@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## TOWER OF BABEL (DIVISION REVERSED) TRAJECTORY TABLE
 
 The Tower of Babel represents humanity's post-flood attempt at unified autonomy from God—building a city and tower "to make a name for ourselves" (Genesis 11:4). God's judgment scattered humanity into nations with confused languages. This trajectory traces how God progressively reverses this judgment: through Abraham (blessing for "all nations"), through the promise of "pure lips" (Zephaniah 3:9), through Pentecost's multilingual proclamation, and finally in the multinational assembly before the throne. Babel's division becomes eschatological unity in Christ.

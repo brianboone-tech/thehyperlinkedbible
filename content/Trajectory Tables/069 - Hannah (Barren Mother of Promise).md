@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## HANNAH (BARREN MOTHER OF PROMISE) TRAJECTORY TABLE
 
 Hannah exemplifies a recurring biblical pattern: God brings life from barrenness, hope from despair, and great deliverers from desperate wombs. The barren mother motif runs throughout Scripture—from Sarah to Rebekah to Rachel to Samson's mother to Hannah to Elizabeth—demonstrating that the child of promise comes not through natural fertility but through divine intervention. Hannah's song (1 Samuel 2:1-10) becomes the template for Mary's Magnificat (Luke 1:46-55), showing that Mary understood her pregnancy in light of this barren mother tradition. The pattern culminates in the virgin birth: Mary, unable to conceive naturally, bears the ultimate Child of Promise through the Holy Spirit's overshadowing.

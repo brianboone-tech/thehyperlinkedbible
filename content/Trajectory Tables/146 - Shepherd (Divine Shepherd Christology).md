@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## SHEPHERD (DIVINE SHEPHERD CHRISTOLOGY) TRAJECTORY TABLE
 
 Ezekiel 34 presents one of the most profound Christological prophecies in the Old Testament: Yahweh declares "I Myself will search for My flock and seek them out" (34:11), then promises "I will place over them one shepherd, My servant David" (34:23). This can only be fulfilled if the promised Davidic shepherd IS Yahweh incarnate—the convergence of divine identity and Davidic lineage in Christ resolves the typology. The trajectory traces how shepherd imagery develops from God's personal care for the patriarchs, through the Davidic monarchy, to prophetic promises of divine shepherding, finally finding fulfillment in Jesus who declares "I am the good shepherd" (John 10:11). The escalation is dramatic: human shepherds (Abraham, Moses, David) pointed forward but proved inadequate; false shepherds scattered the flock (Jeremiah 23; Ezekiel 34:1-10). Only when God Himself becomes the Shepherd in the person of Christ does the type reach its intended fulfillment. Moreover, Christ's voluntary death for the sheep (John 10:11, 15) introduces a dimension unprecedented in OT shepherd typology—the shepherd who doesn't merely risk his life but deliberately lays it down as a substitutionary sacrifice.

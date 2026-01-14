@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## MARRIAGE TRAJECTORY TABLE
 
 

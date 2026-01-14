@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## SABBATICAL YEAR (LAND REST AND TRUST) TRAJECTORY TABLE
 
 The Sabbatical Year (שְׁמִטָּה, shemittah—"release") extends the Sabbath principle from weekly rest to an agricultural seven-year cycle. Every seventh year, Israel was to let the land lie fallow, release debts, and trust God for provision. This institution taught radical dependence on divine providence, anticipating the ultimate rest found in Christ and the eschatological restoration of all creation. The trajectory demonstrates how sabbatical year theology develops from agricultural legislation through prophetic judgment (Israel's exile fulfilled the violated sabbaths—2 Chronicles 36:21), to new covenant trust in divine provision (Matthew 6:25-34), economic generosity (Acts 4:34), and ultimately to cosmic restoration when creation itself will be "set free from its bondage to corruption" (Romans 8:21). The escalation is profound: what began as seventh-year land rest culminates in eternal sabbath rest in Christ (Hebrews 4:9-10) and renewed creation.

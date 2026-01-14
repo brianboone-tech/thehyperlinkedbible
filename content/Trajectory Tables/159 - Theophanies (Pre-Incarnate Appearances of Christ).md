@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## THEOPHANIES (PRE-INCARNATE APPEARANCES OF CHRIST) TRAJECTORY TABLE
 
 

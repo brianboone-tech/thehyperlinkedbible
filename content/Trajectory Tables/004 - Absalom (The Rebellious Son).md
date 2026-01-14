@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## ABSALOM (THE REBELLIOUS SON) TRAJECTORY TABLE
 
 **Type Classification**: [X] Providential Type (sovereignly arranged) | [ ] Direct Type

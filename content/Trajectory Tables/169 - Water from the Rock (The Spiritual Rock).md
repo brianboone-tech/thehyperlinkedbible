@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## WATER FROM THE ROCK (THE SPIRITUAL ROCK) TRAJECTORY TABLE
 
 When Israel thirsted in the wilderness and no water could be found, God commanded Moses to strike the rock (צוּר, ṣûr, "rock") at Horeb, and water gushed out to satisfy the thirsty multitude. Later, at Kadesh, God told Moses to speak to the rock, but Moses struck it instead—a failure that cost him entry into Canaan. Paul identifies this rock explicitly as Christ: 'they drank from the spiritual Rock that followed them, and the Rock was Christ' (1 Corinthians 10:4). The typology is profound: Christ, the Rock, was struck once (in His crucifixion) to provide the waters of life. To strike Him twice (as Moses did) would be to crucify Him repeatedly. From Christ's wounded side flowed blood and water (John 19:34), providing cleansing and life. The trajectory moves from physical water satisfying bodily thirst in the wilderness to spiritual water satisfying the soul's thirst for eternal life.

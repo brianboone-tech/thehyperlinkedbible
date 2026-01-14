@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## FIRST-BORN REDEMPTION (CONSECRATION TO GOD) TRAJECTORY TABLE
 
 After the Passover deliverance from Egypt, God established the principle that all firstborn belong to Him as consecrated possession. The tenth plague killed Egypt's firstborn while Israel's were spared by the lamb's blood, creating a permanent claim: "Consecrate to Me every firstborn male... both of man and beast" (Exodus 13:2). Yet the firstborn could not serve directly—they required redemption through substitutionary payment or sacrifice. This pattern unfolds progressively: the Levites substitute for Israel's firstborn (Numbers 3:11-13), Jesus is presented at the temple as Mary's firstborn (Luke 2:22-23), and ultimately Christ Himself becomes "the firstborn among many brothers" (Romans 8:29). The church is called "the assembly of the firstborn enrolled in heaven" (Hebrews 12:23), redeemed not with silver but with Christ's precious blood. The trajectory moves from Israel's firstborn consecrated through Passover deliverance to believers consecrated as God's firstborn sons through Christ's redemptive sacrifice.

@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/60 - 1 Peter|← 1 Peter]]**
 
 ---

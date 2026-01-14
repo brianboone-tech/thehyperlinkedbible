@@ -6,8 +6,8 @@
 
 ## Quick Navigation
 
-> **Tip**: Click any book to see its chapter grid, chiasms, and trajectory tables.
-> Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
+**Tip**: Click any book to see its chapter grid, chiasms, and trajectory tables.
+Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 ---
 

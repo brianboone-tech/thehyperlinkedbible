@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## AARON (THE GREAT HIGH PRIEST) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hJTN7Nd4vsg?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## ESAU (THE PROFANE PERSON) TRAJECTORY TABLE
 
 Esau represents a **negative type** of those who despise their spiritual inheritance and prioritize immediate, fleshly gratification over covenant blessings. As a **backward-looking providential type**, his significance is recognized retrospectively from the vantage point of New Testament revelation (Hebrews 12:16-17; Romans 9:13). Unlike Jacob, who valued spiritual things and wrestled for God's blessing, Esau demonstrates the tragic pattern of profanity—treating sacred privileges with contempt and forfeiting eternal blessing for temporary satisfaction.

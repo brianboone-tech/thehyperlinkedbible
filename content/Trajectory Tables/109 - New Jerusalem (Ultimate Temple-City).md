@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## NEW JERUSALEM (ULTIMATE TEMPLE-CITY) TRAJECTORY TABLE
 
 

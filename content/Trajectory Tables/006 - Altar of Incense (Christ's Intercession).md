@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## ALTAR OF INCENSE (CHRIST'S INTERCESSION) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cyt-Js4_6z0?si=iKjhtMKo5nOGxPoW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

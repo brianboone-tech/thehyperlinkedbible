@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/28 - Hosea|← Hosea]]**
 
 ---

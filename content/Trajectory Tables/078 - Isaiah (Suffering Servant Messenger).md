@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## ISAIAH (SUFFERING SERVANT MESSENGER) TRAJECTORY TABLE
 
 

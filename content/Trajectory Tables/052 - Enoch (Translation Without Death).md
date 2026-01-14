@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## ENOCH (TRANSLATION WITHOUT DEATH) TRAJECTORY TABLE
 
 Enoch stands as the first biblical figure to bypass death through divine translation, establishing a typological pattern that points forward to Christ's ascension and believers' future glorification. His "walking with God" (Gen 5:22, 24) demonstrates that intimate covenant fellowship results in victory over death itself. This providential type operates on the principle that faithful communion with God anticipates the ultimate defeat of death through resurrection and translation. The trajectory moves from Enoch's mysterious removal (Gen 5:24) through Elijah's fiery ascension (2 Kings 2:11), to Christ's triumphant ascension (Acts 1:9) and the believers' promised translation (1 Thess 4:17).

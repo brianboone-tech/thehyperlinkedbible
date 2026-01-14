@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## EVE (MOTHER OF ALL LIVING) TRAJECTORY TABLE
 
 Eve's naming by Adam as "mother of all the living" (Genesis 3:20) immediately follows God's pronouncement of the protoevangelium—the first gospel promise that the "seed of the woman" will crush the serpent's head (Genesis 3:15). This naming is profoundly prophetic: though death entered through the fall, God promises life through a coming offspring. Eve's hope that Cain was the promised deliverer proved premature, revealing that the seed would come through Seth's line, ultimately culminating in Christ, "born of a woman" (Galatians 4:4). The imagery reaches its apex in Revelation 12, where the woman clothed with the sun gives birth to the male child who will rule the nations—the ultimate seed who crushes Satan. Eve thus stands as mother of both the physical human race and, typologically, of the redeemed seed-line that leads to Christ and His people.

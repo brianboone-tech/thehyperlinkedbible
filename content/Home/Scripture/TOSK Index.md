@@ -13,7 +13,7 @@ The **Treasury of Scripture Knowledge** (TOSK) is a classic Bible reference work
 | **Books Covered** | 66 |
 | **Chapter Files** | 1189 |
 
-> **About TOSK**: Originally published in 1836, the Treasury of Scripture Knowledge represents centuries of careful study identifying thematic, verbal, and conceptual connections between Bible passages.
+**About TOSK**: Originally published in 1836, the Treasury of Scripture Knowledge represents centuries of careful study identifying thematic, verbal, and conceptual connections between Bible passages.
 
 ---
 

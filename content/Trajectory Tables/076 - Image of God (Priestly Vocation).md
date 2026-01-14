@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## IMAGE OF GOD (PRIESTLY VOCATION) TRAJECTORY TABLE
 
 The "image of God" (צֶלֶם אֱלֹהִים, ṣelem ʾĕlōhîm; Latin: imago Dei) is not merely a static attribute but a **dynamic priestly vocation**—humanity created to reflect God's glory, represent His rule, and relate to Him in worship. Ancient Near Eastern kings set up images of themselves in distant territories to represent their rule; similarly, God placed His image-bearers (Adam and Eve) in creation to represent His reign. This is fundamentally a **priestly** role: priests stand between God and creation, mediating God's presence and blessing. The image was damaged (not destroyed) at the Fall, partially restored in Israel's priesthood, perfectly embodied in Christ the true Image, and progressively renewed in believers until final glorification when we bear the image of the heavenly Man in resurrection bodies. This is a **Providential Type** (sovereignly arranged creation element) and **Forward-Looking** (Colossians 1:15 identifies Christ as "the image of the invisible God," and Romans 8:29 declares believers are "predestined to be conformed to the image of his Son").

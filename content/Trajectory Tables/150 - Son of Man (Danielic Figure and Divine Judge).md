@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## SON OF MAN (DANIELIC FIGURE AND DIVINE JUDGE) TRAJECTORY TABLE
 
 The Son of Man trajectory traces Jesus' primary self-designation from its OT roots to eschatological consummation. Beginning with humanity's dominion mandate (Genesis 1:26-28) and the "son of man" given authority over creation (Psalm 8:4-6), the phrase develops through the prophetic calling of human weakness (Ezekiel's 90+ uses) to Daniel's climactic vision of "one like a son of man" who rides the clouds (divine prerogative), approaches the Ancient of Days, and receives everlasting dominion over all nations (Daniel 7:13-14). Jesus uniquely combines this exalted Danielic figure with the Suffering Servant (Mark 8:31; 10:45), creating a Christology that holds together humiliation and exaltation, servant and sovereign, sacrifice and judgment. While Judaism kept these themes separate, Jesus fuses them: He is the glorious coming one AND the suffering righteous one. At His trial, Jesus claims both Daniel 7:13 (coming on clouds) and Psalm 110:1 (seated at God's right hand), a declaration deemed blasphemous yet vindicated by His resurrection. This title reveals Jesus as the true human (representing humanity), the divine judge (sharing God's throne), and the suffering redeemer (giving His life as ransom).

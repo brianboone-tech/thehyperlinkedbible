@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/07 - Judges|← Judges]]**
 
 ---

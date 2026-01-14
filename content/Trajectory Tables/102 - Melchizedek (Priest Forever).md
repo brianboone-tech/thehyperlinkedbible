@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## MELCHIZEDEK (PRIEST FOREVER) TRAJECTORY TABLE
 
 

@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## JOURNEY TO PROMISED LAND TRAJECTORY TABLE
 
 

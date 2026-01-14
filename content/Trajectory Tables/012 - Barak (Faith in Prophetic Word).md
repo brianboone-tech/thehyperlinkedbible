@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## BARAK (FAITH IN PROPHETIC WORD) TRAJECTORY TABLE
 
 Barak son of Abinoam exemplifies faith that responds to God's word delivered through prophetic mediation. When the prophetess Deborah summoned him and declared, "The LORD, the God of Israel, commands you: 'Go and march to Mount Tabor'" (Judges 4:6), Barak obeyed—though he insisted Deborah accompany him. Some interpret Barak's request as weakness, but Hebrews 11:32 explicitly commends him among the heroes of faith who "through faith conquered kingdoms." His story teaches that genuine faith may be accompanied by weakness and need for encouragement, yet still pleases God. Barak trusted the prophetic word and acted on it, leading ten thousand men against Sisera's nine hundred iron chariots. The LORD gave victory, fulfilling His word through Deborah.

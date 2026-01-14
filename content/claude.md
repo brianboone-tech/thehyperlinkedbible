@@ -65,3 +65,15 @@ This document tracks the work done with Claude Code on The Hyperlinked Bible pro
   - Header styling matching AnuPpuccin settings (H1 with divider, H3 green, weights)
   - Lexicon page styling with teal-highlighted links
   - Smooth color transitions and improved blockquotes
+
+### Session 2 - January 13, 2026 (Continued)
+
+- **Fixed Explorer rainbow folder colors** - Corrected CSS selectors to match actual Quartz HTML structure (`.explorer-content` class, `.folder-container` targeting)
+- **Enabled nested popovers** - Modified `popover.inline.ts` to attach event listeners to links inside popovers, allowing popover-from-popover functionality
+- **Lightened Explorer folder colors** - Changed from saturated colors to light pastels for better text contrast against dark text
+- **Added table styling CSS** - Enhanced table appearance with borders, hover effects, and proper cell padding
+- **Added Scripture Index to homepage** - Created organized index of all 66 Bible books by category (Law, Historical, Wisdom, Prophets, Gospels, Epistles, Apocalyptic) on `index.md`
+- **Removed standalone blockquotes from Home folder** - Converted `>` blockquote syntax to plain text in 5 index files while preserving callout blocks (`> [!type]`)
+- **Removed blockquote from index.md** - Converted Luke 24:27 quote from blockquote to plain italic text
+- **Added chiasm list spacing** - Added CSS for increased vertical spacing between list items, targeting only `.chiasm` class pages
+- **Added cssClasses frontmatter to all Chiasm files** - Added `cssClasses: chiasm` to 1,721 chiasm files so spacing CSS only applies to chiasm pages

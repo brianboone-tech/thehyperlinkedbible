@@ -8,7 +8,7 @@
 
 The Hyperlinked Bible contains **1,732 chiastic structures** identified across Scripture. Chiasms are literary patterns where ideas are presented in an A-B-C-B'-A' mirror structure, with the center (C) often being the theological climax.
 
-> **Tip**: Click any book name to jump to its chiasms. Use  to search for specific passages.
+**Tip**: Click any book name to jump to its chiasms. Use  to search for specific passages.
 
 ---
 

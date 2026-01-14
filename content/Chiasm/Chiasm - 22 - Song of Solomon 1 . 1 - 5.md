@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/22 - Song of Solomon|← Song of Solomon]]**
 
 ---

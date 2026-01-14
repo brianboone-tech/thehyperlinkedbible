@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## CENSUS RANSOM (ROYAL ACCOUNTABILITY) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdU5hj-Vy0g?si=I1KLu_B0mJJjQXg-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## HOLY GARMENTS (GLORY AND BEAUTY) TRAJECTORY TABLE
 
 The high priest's garments—ephod, breastpiece, robe, turban with golden plate—were made 'for glory and for beauty,' displaying the dignity and holiness of priestly ministry. Each element pointed to Christ: the stones bearing Israel's names showed His bearing His people before God; the Urim and Thummim spoke of perfect wisdom; the golden plate inscribed 'Holy to the LORD' declared complete consecration. Mather writes: "Aaron's glorious garments were but shadows of that perfect righteousness in which Christ is clothed, who bears His people's names eternally on His heart and shoulders before the Father, presenting them faultless in divine glory and beauty." The trajectory moves from Aaron's glorious garments symbolizing mediation to Christ clothed in perfect righteousness, bearing His people's names on His heart. This is a **Direct Type** (divinely commanded vestments) and **Forward-Looking** (Hebrews 7:26 describes Christ as "holy, innocent, unstained," and Revelation 7:14 shows the redeemed "clothed in white robes").

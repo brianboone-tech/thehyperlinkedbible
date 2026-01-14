@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## CEREMONIAL UNCLEANNESS (SPIRITUAL DEFILEMENT) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aO_c3w8-1F0?si=_JxfXMhW5PNd_-Bv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

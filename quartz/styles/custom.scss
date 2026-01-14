@@ -123,6 +123,64 @@ a.internal {
 }
 
 // ============================================
+// TRAJECTORY TABLE STYLING
+// ============================================
+
+// Enhanced table styling for trajectory tables with more pronounced borders
+.trajectory-table {
+  .table-container table {
+    border: 2px solid var(--gray);
+
+    th {
+      border: 1px solid var(--gray);
+      border-bottom: 2px solid var(--darkgray);
+      background-color: var(--lightgray);
+    }
+
+    td {
+      border: 1px solid var(--gray);
+      padding: 1rem;
+    }
+
+    tr:last-child td {
+      border-bottom: 1px solid var(--gray);
+    }
+  }
+}
+
+:root[saved-theme="dark"] .trajectory-table {
+  .table-container table {
+    border-color: var(--gray);
+
+    th, td {
+      border-color: var(--gray);
+    }
+  }
+}
+
+// ============================================
+// CHIASM PAGE STYLING (list spacing)
+// ============================================
+
+// Add vertical spacing between list items ONLY on chiasm pages
+.chiasm {
+  ul, ol {
+    li {
+      margin-bottom: 0.75rem;
+
+      // Nested lists also get spacing
+      ul, ol {
+        margin-top: 0.75rem;
+
+        li {
+          margin-bottom: 0.75rem;
+        }
+      }
+    }
+  }
+}
+
+// ============================================
 // GENERAL ENHANCEMENTS
 // ============================================
 

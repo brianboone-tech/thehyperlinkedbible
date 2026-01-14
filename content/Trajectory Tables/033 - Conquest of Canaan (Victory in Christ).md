@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## CONQUEST OF CANAAN TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ybm-8sb7PP4?si=0erbLmT3fBs5idDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

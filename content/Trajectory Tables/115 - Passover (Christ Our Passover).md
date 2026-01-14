@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## PASSOVER (CHRIST OUR PASSOVER) TRAJECTORY TABLE
 
 

@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## ISAAC (CHILD OF PROMISE) TRAJECTORY TABLE
 
 Isaac's (יִצְחָק, yiṣḥāq, "he laughs") life as the **child of promise** born through divine intervention, offered in sacrifice by his father, and "received back from the dead" (Hebrews 11:19) makes him one of Scripture's most vivid types of Christ. Every major element of Isaac's story—miraculous birth to barren parents, beloved only son, obedient unto death, substitutionary sacrifice provided, resurrection typology, seed through whom blessing comes—points forward to the greater Son whom the Father would offer for the world's redemption. This trajectory traces how the pattern of promise → fulfillment through divinely-given son develops from Abraham's household through prophetic anticipation to ultimate fulfillment in Christ, the true Seed of Abraham in whom "all the families of the earth shall be blessed" (Genesis 12:3; Galatians 3:16). This is a **Providential Type** (sovereignly arranged patriarch) and **Forward-Looking** (Hebrews 11:17-19 explicitly interprets the Akedah as resurrection typology, and Galatians 4:28 identifies believers as "children of promise, like Isaac").

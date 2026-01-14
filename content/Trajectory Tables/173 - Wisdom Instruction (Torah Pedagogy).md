@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## WISDOM INSTRUCTION (TORAH PEDAGOGY) TRAJECTORY TABLE
 
 The Wisdom Instruction trajectory traces the pedagogical methods for transmitting God's word from generation to generation. Central to this theme is the Shema passage (Deuteronomy 6:4-9), which commands parents to teach God's words diligently to their children, talking of them at home and away, when lying down and rising up, binding them as signs and writing them on doorposts. This Torah pedagogy pattern is echoed and developed in Proverbs (3:1-3, 21-24; 6:20-23; 7:1-3), where parental instruction mirrors divine revelation. The trajectory shows that wisdom is not merely intellectual but formational—words on the heart (Deuteronomy 6:6), bound to the hand (action), and between the eyes (worldview). The Psalms celebrate this as meditation day and night (Psalm 1:2; 119:97). Christ fulfills this trajectory as Wisdom incarnate (1 Corinthians 1:24, 30), the one who teaches with authority (Matthew 7:29) and whose words give life (John 6:68). The Spirit now writes God's law on believers' hearts (2 Corinthians 3:3; Hebrews 8:10), fulfilling what external pedagogy could only symbolize.

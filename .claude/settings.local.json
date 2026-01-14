@@ -3,7 +3,8 @@
     "allow": [
       "Bash(powershell:*)",
       "Bash(del \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\fix-brackets.ps1\")",
-      "WebFetch(domain:brianboone-tech.github.io)"
+      "WebFetch(domain:brianboone-tech.github.io)",
+      "Bash(git checkout:*)"
     ]
   }
 }

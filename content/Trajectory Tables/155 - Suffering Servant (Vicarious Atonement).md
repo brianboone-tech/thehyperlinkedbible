@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## SUFFERING SERVANT (VICARIOUS ATONEMENT) TRAJECTORY TABLE
 
 The Suffering Servant trajectory traces God's revelation of vicarious atonement through the four Servant Songs of Isaiah (42, 49, 50, 52-53) to its fulfillment in Christ's passion and exaltation. Beginning with the gentle Servant who brings justice to the nations (Isaiah 42:1-4), through his mission to restore Israel and become "a light for the nations" (Isaiah 49:6), to his obedient suffering (Isaiah 50:4-9), the trajectory culminates in the climactic fourth Song revealing that the Servant bears the sins of many, makes himself a guilt offering (אָשָׁם), yet will see offspring and prolong his days (Isaiah 52:13-53:12). This prophetic word finds fulfillment in Jesus Christ who, silent before accusers, numbered with transgressors, bearing our sins in his body on the tree, accomplishes substitutionary atonement through his death and resurrection. The escalation from type to antitype is striking: the Levitical sacrificial system provided shadows; Isaiah's Servant Songs provided prophecy; Christ's passion provided reality. What appeared impossible (dying yet seeing offspring) is resolved in resurrection and the multiplication of spiritual children through the gospel to all nations.

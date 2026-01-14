@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## JONAH (DEATH, RESURRECTION, AND MISSION TO GENTILES) TRAJECTORY TABLE
 
 

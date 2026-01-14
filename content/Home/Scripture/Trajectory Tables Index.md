@@ -8,7 +8,7 @@
 
 The Hyperlinked Bible contains **126 trajectory tables** tracing typological themes from Old Testament shadows to New Testament fulfillment in Christ. Each table documents how a type (person, event, institution, or object) develops through Scripture to find its ultimate meaning in Jesus.
 
-> **Tip**: Trajectory tables follow the pattern: OT Type - Prophetic Development - NT Fulfillment - Eschatological Consummation
+**Tip**: Trajectory tables follow the pattern: OT Type - Prophetic Development - NT Fulfillment - Eschatological Consummation
 
 ---
 

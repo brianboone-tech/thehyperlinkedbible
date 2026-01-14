@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## ABRAHAM TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5u9KBIX-rt8?si=Eun08G5cXhvHZc4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

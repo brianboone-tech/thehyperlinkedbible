@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## HOLY PLACES (ACCESS TO GOD'S PRESENCE) TRAJECTORY TABLE
 
 God's command that Israel worship only at the place He chooses (Hebrew: קֹדֶשׁ, qōḏeš and קֹדֶשׁ הַקֳּדָשִׁים, qōḏeš haqqŏḏāšîm) established the principle of divinely appointed access to His presence. This restricted access taught that fallen humanity cannot approach God on their own terms or in their own way. The trajectory from local altars to the central tabernacle to Solomon's temple to Christ's body reveals God's plan: He designates the place and means of worship, ultimately providing His Son as the true meeting place between God and man. This is a **Direct Type** (divinely commanded central sanctuary) and **Forward-Looking** (John 2:19-21; Hebrews 9:11-12).

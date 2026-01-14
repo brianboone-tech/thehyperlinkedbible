@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## JOSHUA (LEADER INTO REST) TRAJECTORY TABLE
 
 

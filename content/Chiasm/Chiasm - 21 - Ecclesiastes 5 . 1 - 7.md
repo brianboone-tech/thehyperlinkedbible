@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/21 - Ecclesiastes|← Ecclesiastes]]**
 
 ---

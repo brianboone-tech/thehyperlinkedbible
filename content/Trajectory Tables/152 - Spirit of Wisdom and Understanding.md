@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## SPIRIT OF WISDOM AND UNDERSTANDING TRAJECTORY TABLE
 
 

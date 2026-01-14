@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## SOLOMON (THE KING OF PEACE AND WISDOM) TRAJECTORY TABLE
 
 Solomon (Hebrew: שְׁלֹמֹה, *Shelomoh*, from שָׁלוֹם *shalom*, "peace") reigned during Israel's golden age—the kingdom at its greatest extent, the temple built, wisdom renowned throughout the world. His name itself is prophetic: God told David his son would be "a man of rest" (אִישׁ מְנוּחָה) and "I will give him rest from all his enemies" (1 Chronicles 22:9). Solomon typifies Christ as the Prince of Peace who brings rest, builds God's true temple, and possesses wisdom beyond all others. Yet Solomon's failures—foreign wives leading to idolatry, oppressive taxation, eventual apostasy—demonstrate the need for a greater Solomon who will reign in perfect righteousness. Jesus claimed "something greater than Solomon is here" (Matthew 12:42), explicitly positioning Himself as Solomon's antitype.

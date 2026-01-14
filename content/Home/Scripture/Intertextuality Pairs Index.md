@@ -15,7 +15,7 @@ The Hyperlinked Bible documents **2587 intertextuality pairs**—verse-level con
 | **OT to OT** | 1777 | Inner-biblical allusions within the Old Testament |
 | **Total** | **2587** | |
 
-> **Tip**: Each pair documents the source text, target text, verbal connections, and theological significance.
+**Tip**: Each pair documents the source text, target text, verbal connections, and theological significance.
 
 ---
 

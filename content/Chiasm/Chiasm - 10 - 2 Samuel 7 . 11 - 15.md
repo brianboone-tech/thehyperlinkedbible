@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/10 - 2 Samuel|← 2 Samuel]]**
 
 ---

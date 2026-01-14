@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## POOL OF BETHESDA (INEFFECTIVE RITUAL VS CHRIST'S POWER) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oaa71mV0o0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

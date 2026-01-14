@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## COVENANT VIOLATIONS (PROPHETIC INDICTMENTS) TRAJECTORY TABLE
 
 The Covenant Violations trajectory traces the prophetic indictments against Israel and Judah for breaking multiple commandments simultaneously. The prophets regularly condemn the people for comprehensive covenant unfaithfulness—not merely isolated sins but patterns of violation across the Decalogue and covenant stipulations. This theme runs from Exodus through Malachi, as God's spokespersons indict His people for adultery, theft, murder, false witness, idolatry, and oppression of the poor often occurring together. Jeremiah 7:9 provides a paradigmatic example: "Will you steal, murder, commit adultery, swear falsely, make offerings to Baal, and go after other gods?" These comprehensive indictments reveal the total depravity requiring total redemption—not merely behavioral modification but heart transformation through the New Covenant. Christ fulfills this trajectory by bearing the curse for covenant-breakers (Galatians 3:13) and establishing a covenant that writes God's law on hearts (Jeremiah 31:33).

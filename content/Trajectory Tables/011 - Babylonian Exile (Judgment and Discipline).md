@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## BABYLONIAN EXILE TRAJECTORY TABLE
 
 

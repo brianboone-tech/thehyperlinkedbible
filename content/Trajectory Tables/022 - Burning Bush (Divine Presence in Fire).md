@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## BURNING BUSH (DIVINE PRESENCE IN FIRE) TRAJECTORY TABLE
 
 

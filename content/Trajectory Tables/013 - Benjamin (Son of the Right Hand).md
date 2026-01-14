@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## BENJAMIN (SON OF THE RIGHT HAND) TRAJECTORY TABLE
 
 Benjamin's typological significance begins at his birth—named "Ben-oni" (son of my sorrow) by his dying mother Rachel, then renamed "Benjamin" (son of my right hand) by his father Jacob. This transformation from sorrow to glory, occurring near Bethlehem through a mother's travail, prefigures Christ's own birth through suffering and His exaltation to the Father's right hand. Jacob's blessing portrays Benjamin as a "ravenous wolf" devouring prey, while Moses' blessing calls him "the beloved of the LORD" who rests secure on God's shoulders. This dual portrait—fierce warrior yet beloved of God—finds remarkable fulfillment in the apostle Paul, the Benjamite who first devoured the church through persecution, then distributed the gospel's spoils as Christ's apostle.

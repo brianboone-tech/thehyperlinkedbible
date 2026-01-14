@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## ELISHA (DOUBLE PORTION OF SPIRIT) TRAJECTORY TABLE
 
 Elisha's request for "a double portion of your spirit" (2 Kings 2:9) employed the legal language of Deuteronomy 21:17 for a firstborn's inheritance, asking to be Elijah's spiritual firstborn and primary heir of his prophetic ministry—a bold request that was granted when he witnessed Elijah's fiery ascension and received his fallen mantle. This "double portion" manifested literally in Elisha's ministry, which demonstrated approximately twice as many recorded miracles as Elijah: where Elijah raised one dead child, Elisha raised the Shunammite's son; where Elijah multiplied a widow's flour and oil, Elisha multiplied oil to fill multiple jars and twenty loaves to feed a hundred men (prefiguring Christ's feeding miracles). Elisha's healing of Naaman the Syrian (a Gentile) demonstrated God's grace extending beyond Israel, a miracle Jesus cited to illustrate the gospel's universal scope (Luke 4:27) and foreshadowing the inclusion of all nations. This "double portion" principle—God giving increasing measures of His Spirit as redemptive purposes advance—finds ultimate fulfillment in Christ, who receives the Spirit "without measure" (John 3:34) with "all the fullness of deity" dwelling bodily in Him (Colossians 2:9), performing signs so numerous that "the world itself could not contain the books" recording them (John 21:25), and promising believers would do "greater works" (John 14:12) through the Spirit's empowerment as the gospel spreads globally.

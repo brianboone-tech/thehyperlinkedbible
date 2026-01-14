@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## VINE AND VINEYARD (TRUE ISRAEL) TRAJECTORY TABLE
 
 The vine and vineyard imagery traces God's intent for Israel as His covenant people to bear fruit for His glory. From its foundation in patriarchal promises through prophetic indictments of fruitlessness to Christ's claim to be the "True Vine," this trajectory demonstrates how Jesus fulfills what Israel failed to accomplish. Where national Israel proved to be a degenerate vine producing sour grapes, Christ embodies the ideal Israel—the genuine vine who bears perfect fruit and enables His people to participate in His fruitfulness through union with Him. Isaiah's Song of the Vineyard (Isaiah 5:1-7) establishes the pattern: God lavished care on His vineyard expecting good grapes, but it produced wild grapes, resulting in judgment. Jesus retells this parable (Matthew 21:33-44) with a crucial shift—focusing on wicked tenants who reject the owner's son. Then in John 15, Jesus declares "I am the true vine" (ἐγώ εἰμι ἡ ἄμπελος ἡ ἀληθινή), replacing failed national Israel with Himself as the authentic source of spiritual fruitfulness. Believers become branches drawing life from Him.

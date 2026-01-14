@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]**
 
 ---

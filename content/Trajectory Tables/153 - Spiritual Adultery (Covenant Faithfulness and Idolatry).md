@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## SPIRITUAL ADULTERY (COVENANT FAITHFULNESS AND IDOLATRY) TRAJECTORY TABLE
 
 

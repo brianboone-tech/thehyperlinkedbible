@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/14 - 2 Chronicles|← 2 Chronicles]]**
 
 ---

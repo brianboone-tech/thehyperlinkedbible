@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## DAVIDIC MESSIANIC TITLES (FAITHFUL WITNESS, FIRSTBORN, RULER OF KINGS) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vwbyLH4EKsM" frameborder="0" allowfullscreen></iframe>

@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## WATER OF PURIFICATION (LIVING WATER AND ASHES) TRAJECTORY TABLE
 
 The water of purification (מֵי נִדָּה, *mê niddâ*) combined two elements: ashes from the red heifer sacrifice and "living water" (מַיִם חַיִּים, *mayim ḥayyîm*)—running water from a spring or river. This unique mixture cleansed from corpse defilement, the ultimate ceremonial uncleanness. The typology is profound: ashes represent Christ's completed sacrifice (Hebrews 9:13-14), while living water represents the Holy Spirit (John 7:37-39). Together they constitute the dual means of purification—justification through Christ's blood and sanctification through the Spirit. John Owen observed: "Were it not that the blood of Christ, in its purifying virtue, is in a continual readiness unto faith, that God therein hath opened a fountain for sin and uncleanness, the worship of the church would not be acceptable unto him." This trajectory traces how ceremonial cleansing from physical death-defilement prefigures spiritual cleansing from sin's deadly pollution through both Christ's sacrifice and the Spirit's application.

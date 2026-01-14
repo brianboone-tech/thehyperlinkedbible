@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## UNLEAVENED BREAD TRAJECTORY TABLE
 
 

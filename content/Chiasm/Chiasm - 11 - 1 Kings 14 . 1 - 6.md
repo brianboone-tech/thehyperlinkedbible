@@ -1,3 +1,7 @@
+---
+cssClasses: chiasm
+---
+
 **[[Home/Scripture/11 - 1 Kings|← 1 Kings]]**
 
 ---

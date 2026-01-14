@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## GOLDEN CALF (IDOLATRY AND INTERCESSION) TRAJECTORY TABLE
 
 

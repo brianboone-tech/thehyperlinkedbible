@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## TREE OF LIFE (ETERNAL LIFE IN CHRIST) TRAJECTORY TABLE
 
 The Tree of Life (עֵץ הַחַיִּים, ʿēṣ haḥayyîm) stands as one of Scripture's most foundational types, tracing God's redemptive plan from Eden to the New Jerusalem. In Genesis, this tree represented God's gift of immortal life, freely offered to unfallen humanity. When sin entered the world, access to the tree was barred—not destroyed, but guarded—signaling that the way to eternal life would one day be reopened, but only through death and resurrection. The Tree of Life thus embodies the hope of immortality from the very beginning of redemptive history. Throughout Scripture, this symbol develops: wisdom literature identifies wisdom with the tree's life-giving power, prophetic visions anticipate its restoration, and the New Testament reveals Christ Himself as the source of eternal life. The trajectory culminates in Revelation's new creation, where the tree stands freely accessible, bearing fruit for the healing of nations—the ultimate escalation from one tree in one garden to trees throughout the eternal city, and from physical sustenance to spiritual-eternal life in God's presence.

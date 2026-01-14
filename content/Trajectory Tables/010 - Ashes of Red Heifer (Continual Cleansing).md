@@ -1,3 +1,7 @@
+---
+cssClasses: trajectory-table
+---
+
 ## ASHES OF RED HEIFER (CONTINUAL CLEANSING) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/frLsySbTRW8?si=q4xSk28BNSuPwiBj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
