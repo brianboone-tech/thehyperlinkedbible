@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Proverbs-R 28
 
-**[[Home/Scripture/20 - Proverbs|Proverbs]]**
+**[[Home/Indexes/Readable Bible/20 - Proverbs|Proverbs]]**
 
 [[Readable Bible/20 - Proverbs/Proverbs 27#Proverbs-R 27| Proverbs 27]] - [[Readable Bible/20 - Proverbs/Proverbs 29#Proverbs-R 29| Proverbs 29]]
 

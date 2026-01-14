@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/66 - Revelation|← Revelation]]**
+**[[Home/Indexes/Readable Bible/66 - Revelation|← Revelation]]**
 
 ---
 

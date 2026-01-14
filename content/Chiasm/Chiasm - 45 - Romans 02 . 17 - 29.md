@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/45 - Romans|← Romans]]**
+**[[Home/Indexes/Readable Bible/45 - Romans|← Romans]]**
 
 ---
 

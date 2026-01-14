@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Numbers 32 TOSK
 ---
 
-**[[Home/Scripture/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 31 - TOSK|← Ch 31]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 33 - TOSK|Ch 33 →]]
+**[[Home/Indexes/Readable Bible/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 31 - TOSK|← Ch 31]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 33 - TOSK|Ch 33 →]]
 
 ---
 

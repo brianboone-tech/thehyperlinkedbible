@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 1 Chronicles 1 TOSK
 ---
 
-**[[Home/Scripture/13 - 1 Chronicles|← 1 Chronicles]]** | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 2 - TOSK|Ch 2 →]]
+**[[Home/Indexes/Readable Bible/13 - 1 Chronicles|← 1 Chronicles]]** | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 2 - TOSK|Ch 2 →]]
 
 ---
 

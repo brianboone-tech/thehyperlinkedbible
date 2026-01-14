@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Joel-R 1
 
-**[[Home/Scripture/29 - Joel|Joel]]**
+**[[Home/Indexes/Readable Bible/29 - Joel|Joel]]**
 
 [[Readable Bible/28 - Hosea/Hosea 14|Hosea 14]] • [[Readable Bible/29 - Joel/Joel 2|Joel 2]]
 

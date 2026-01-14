@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 18 TOSK
 ---
 
-**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 17 - TOSK|← Ch 17]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 19 - TOSK|Ch 19 →]]
+**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 17 - TOSK|← Ch 17]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 19 - TOSK|Ch 19 →]]
 
 ---
 

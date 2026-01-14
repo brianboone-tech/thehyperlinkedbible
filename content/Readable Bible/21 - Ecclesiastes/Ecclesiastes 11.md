@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ecclesiastes-R 11
 
-**[[Home/Scripture/21 - Ecclesiastes|Ecclesiastes]]**
+**[[Home/Indexes/Readable Bible/21 - Ecclesiastes|Ecclesiastes]]**
 
 [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 10#Ecclesiastes-R 10| Ecclesiastes 10]] - [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 12#Ecclesiastes-R 12| Ecclesiastes 12]]
 

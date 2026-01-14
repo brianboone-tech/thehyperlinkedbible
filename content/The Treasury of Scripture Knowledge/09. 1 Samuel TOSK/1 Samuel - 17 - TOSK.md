@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 1 Samuel 17 TOSK
 ---
 
-**[[Home/Scripture/09 - 1 Samuel|← 1 Samuel]]** | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 18 - TOSK|Ch 18 →]]
+**[[Home/Indexes/Readable Bible/09 - 1 Samuel|← 1 Samuel]]** | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 18 - TOSK|Ch 18 →]]
 
 ---
 

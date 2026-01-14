@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Luke 10 TOSK
 ---
 
-**[[Home/Scripture/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 11 - TOSK|Ch 11 →]]
+**[[Home/Indexes/Readable Bible/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 11 - TOSK|Ch 11 →]]
 
 ---
 

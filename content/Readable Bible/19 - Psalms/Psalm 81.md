@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 81
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 80#Psalm-R 80| Psalm 80]] - [[Readable Bible/19 - Psalms/Psalm 82#Psalm-R 82| Psalm 82]]
 

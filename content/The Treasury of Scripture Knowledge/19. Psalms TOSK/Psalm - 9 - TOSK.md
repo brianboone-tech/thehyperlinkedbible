@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 9 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 10 - TOSK|Ch 10 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 10 - TOSK|Ch 10 →]]
 
 ---
 

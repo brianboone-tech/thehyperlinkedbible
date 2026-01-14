@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 123
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 122#Psalm-R 122| Psalm 122]] - [[Readable Bible/19 - Psalms/Psalm 124#Psalm-R 124| Psalm 124]]
 

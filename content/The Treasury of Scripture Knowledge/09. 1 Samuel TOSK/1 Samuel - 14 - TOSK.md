@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 1 Samuel 14 TOSK
 ---
 
-**[[Home/Scripture/09 - 1 Samuel|← 1 Samuel]]** | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 15 - TOSK|Ch 15 →]]
+**[[Home/Indexes/Readable Bible/09 - 1 Samuel|← 1 Samuel]]** | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 15 - TOSK|Ch 15 →]]
 
 ---
 

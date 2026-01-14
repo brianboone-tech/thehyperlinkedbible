@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/06 - Joshua|← Joshua]]**
+**[[Home/Indexes/Readable Bible/06 - Joshua|← Joshua]]**
 
 ---
 

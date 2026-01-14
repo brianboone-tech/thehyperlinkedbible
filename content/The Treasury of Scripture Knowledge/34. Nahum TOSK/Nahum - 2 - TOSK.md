@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Nahum 2 TOSK
 ---
 
-**[[Home/Scripture/34 - Nahum|← Nahum]]** | [[The Treasury of Scripture Knowledge/34. Nahum TOSK/Nahum - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/34. Nahum TOSK/Nahum - 3 - TOSK|Ch 3 →]]
+**[[Home/Indexes/Readable Bible/34 - Nahum|← Nahum]]** | [[The Treasury of Scripture Knowledge/34. Nahum TOSK/Nahum - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/34. Nahum TOSK/Nahum - 3 - TOSK|Ch 3 →]]
 
 ---
 

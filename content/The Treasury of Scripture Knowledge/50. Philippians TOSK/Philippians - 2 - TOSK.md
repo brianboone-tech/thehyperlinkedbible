@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Philippians 2 TOSK
 ---
 
-**[[Home/Scripture/50 - Philippians|← Philippians]]** | [[The Treasury of Scripture Knowledge/50. Philippians TOSK/Philippians - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/50. Philippians TOSK/Philippians - 3 - TOSK|Ch 3 →]]
+**[[Home/Indexes/Readable Bible/50 - Philippians|← Philippians]]** | [[The Treasury of Scripture Knowledge/50. Philippians TOSK/Philippians - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/50. Philippians TOSK/Philippians - 3 - TOSK|Ch 3 →]]
 
 ---
 

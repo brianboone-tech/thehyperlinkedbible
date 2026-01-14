@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Deuteronomy-R 20
 
-**[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 19#Deuteronomy-R 19| Deuteronomy 19]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 21#Deuteronomy-R 21| Deuteronomy 21]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Isaiah-R 33
 
-**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 32#Isaiah-R 32| Isaiah 32]] - [[Readable Bible/23 - Isaiah/Isaiah 34#Isaiah-R 34| Isaiah 34]]
 

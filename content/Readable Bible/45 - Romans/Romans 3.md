@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Romans-R 3
 
-**[[Home/Scripture/45 - Romans|Romans]]**
+**[[Home/Indexes/Readable Bible/45 - Romans|Romans]]**
 
 [[Readable Bible/45 - Romans/Romans 2#Romans-R 2| Romans 2]] - [[Readable Bible/45 - Romans/Romans 4#Romans-R 4| Romans 4]]
 

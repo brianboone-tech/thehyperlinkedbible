@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Joshua-R 20
 
-**[[Home/Scripture/06 - Joshua|Joshua]]**
+**[[Home/Indexes/Readable Bible/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 19#Joshua-R 19| Joshua 19]] - [[Readable Bible/06 - Joshua/Joshua 21#Joshua-R 21| Joshua 21]]
 

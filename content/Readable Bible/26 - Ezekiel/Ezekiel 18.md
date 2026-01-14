@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ezekiel-R 18
 
-**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 17#Ezekiel-R 17| Ezekiel 17]] - [[Readable Bible/26 - Ezekiel/Ezekiel 19#Ezekiel-R 19| Ezekiel 19]]
 

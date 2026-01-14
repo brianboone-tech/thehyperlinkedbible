@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/42 - Luke|← Luke]]**
+**[[Home/Indexes/Readable Bible/42 - Luke|← Luke]]**
 
 ---
 

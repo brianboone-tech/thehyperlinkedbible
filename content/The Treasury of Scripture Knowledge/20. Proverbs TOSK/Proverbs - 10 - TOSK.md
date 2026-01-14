@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Proverbs 10 TOSK
 ---
 
-**[[Home/Scripture/20 - Proverbs|← Proverbs]]** | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 11 - TOSK|Ch 11 →]]
+**[[Home/Indexes/Readable Bible/20 - Proverbs|← Proverbs]]** | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 11 - TOSK|Ch 11 →]]
 
 ---
 

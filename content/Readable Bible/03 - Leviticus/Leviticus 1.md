@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Leviticus-R 1
 
-**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
 
  [[Readable Bible/02 - Exodus/Exodus 40#Exodus-R 40| Exodus 40]] - [[Readable Bible/03 - Leviticus/Leviticus 2#Leviticus-R 2| Leviticus 2]]
 

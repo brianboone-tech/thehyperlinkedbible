@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Luke 20 TOSK
 ---
 
-**[[Home/Scripture/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 21 - TOSK|Ch 21 →]]
+**[[Home/Indexes/Readable Bible/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 21 - TOSK|Ch 21 →]]
 
 ---
 

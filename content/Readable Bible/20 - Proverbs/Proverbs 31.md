@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Proverbs-R 31
 
-**[[Home/Scripture/20 - Proverbs|Proverbs]]**
+**[[Home/Indexes/Readable Bible/20 - Proverbs|Proverbs]]**
 
 [[Readable Bible/20 - Proverbs/Proverbs 30#Proverbs-R 30| Proverbs 30]]
 

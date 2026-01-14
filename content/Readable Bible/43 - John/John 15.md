@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # John-R 15
 
-**[[Home/Scripture/43 - John|John]]**
+**[[Home/Indexes/Readable Bible/43 - John|John]]**
 
 [[Readable Bible/43 - John/John 14#John-R 14| John 14]] - [[Readable Bible/43 - John/John 16#John-R 16| John 16]]
 

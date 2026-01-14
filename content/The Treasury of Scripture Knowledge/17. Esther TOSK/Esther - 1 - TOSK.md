@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Esther 1 TOSK
 ---
 
-**[[Home/Scripture/17 - Esther|← Esther]]** | [[The Treasury of Scripture Knowledge/17. Esther TOSK/Esther - 2 - TOSK|Ch 2 →]]
+**[[Home/Indexes/Readable Bible/17 - Esther|← Esther]]** | [[The Treasury of Scripture Knowledge/17. Esther TOSK/Esther - 2 - TOSK|Ch 2 →]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Isaiah 47 TOSK
 ---
 
-**[[Home/Scripture/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 46 - TOSK|← Ch 46]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 48 - TOSK|Ch 48 →]]
+**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 46 - TOSK|← Ch 46]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 48 - TOSK|Ch 48 →]]
 
 ---
 

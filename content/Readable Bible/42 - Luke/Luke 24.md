@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Luke-R 24
 
-**[[Home/Scripture/42 - Luke|Luke]]**
+**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
 
 [[Readable Bible/42 - Luke/Luke 23#Luke-R 23| Luke 23]]
 

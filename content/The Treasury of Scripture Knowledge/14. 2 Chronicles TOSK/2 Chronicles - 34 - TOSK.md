@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Chronicles 34 TOSK
 ---
 
-**[[Home/Scripture/14 - 2 Chronicles|← 2 Chronicles]]** | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 33 - TOSK|← Ch 33]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 35 - TOSK|Ch 35 →]]
+**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|← 2 Chronicles]]** | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 33 - TOSK|← Ch 33]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 35 - TOSK|Ch 35 →]]
 
 ---
 

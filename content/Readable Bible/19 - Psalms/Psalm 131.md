@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 131
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 130#Psalm-R 130| Psalm 130]] - [[Readable Bible/19 - Psalms/Psalm 132#Psalm-R 132| Psalm 132]]
 

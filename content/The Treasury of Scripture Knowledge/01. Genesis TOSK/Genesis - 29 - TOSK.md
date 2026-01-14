@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Genesis 29 TOSK
 ---
 
-**[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 30 - TOSK|Ch 30 →]]
+**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 30 - TOSK|Ch 30 →]]
 
 ---
 

@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/28 - Hosea|← Hosea]]**
+**[[Home/Indexes/Readable Bible/28 - Hosea|← Hosea]]**
 
 ---
 

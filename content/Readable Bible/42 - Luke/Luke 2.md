@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Luke-R 2
 
-**[[Home/Scripture/42 - Luke|Luke]]**
+**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
 
 [[Readable Bible/42 - Luke/Luke 1#Luke-R 1| Luke 1]] - [[Readable Bible/42 - Luke/Luke 3#Luke-R 3| Luke 3]]
 

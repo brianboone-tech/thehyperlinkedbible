@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/51 - Colossians|← Colossians]]**
+**[[Home/Indexes/Readable Bible/51 - Colossians|← Colossians]]**
 
 ---
 

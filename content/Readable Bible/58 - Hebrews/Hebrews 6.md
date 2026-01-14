@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Hebrews-R 6
 
-**[[Home/Scripture/58 - Hebrews|Hebrews]]**
+**[[Home/Indexes/Readable Bible/58 - Hebrews|Hebrews]]**
 
 [[Readable Bible/58 - Hebrews/Hebrews 5#Hebrews-R 5| Hebrews 5]] - [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews-R 7| Hebrews 7]]
 

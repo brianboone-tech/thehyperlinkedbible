@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Exodus-R 13
 
-**[[Home/Scripture/02 - Exodus|Exodus]]**
+**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 12#Exodus-R 12| Exodus 12]] - [[Readable Bible/02 - Exodus/Exodus 14#Exodus-R 14| Exodus 14]]
 

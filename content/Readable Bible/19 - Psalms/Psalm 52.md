@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 52
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 51#Psalm-R 51| Psalm 51]] - [[Readable Bible/19 - Psalms/Psalm 53#Psalm-R 53| Psalm 53]]
 

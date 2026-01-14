@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Corinthians 11 TOSK
 ---
 
-**[[Home/Scripture/47 - 2 Corinthians|← 2 Corinthians]]** | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 10 - TOSK|← Ch 10]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 12 - TOSK|Ch 12 →]]
+**[[Home/Indexes/Readable Bible/47 - 2 Corinthians|← 2 Corinthians]]** | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 10 - TOSK|← Ch 10]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 12 - TOSK|Ch 12 →]]
 
 ---
 

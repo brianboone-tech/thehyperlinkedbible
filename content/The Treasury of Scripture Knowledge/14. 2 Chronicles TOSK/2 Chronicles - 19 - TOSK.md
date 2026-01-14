@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Chronicles 19 TOSK
 ---
 
-**[[Home/Scripture/14 - 2 Chronicles|← 2 Chronicles]]** | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 20 - TOSK|Ch 20 →]]
+**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|← 2 Chronicles]]** | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 20 - TOSK|Ch 20 →]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Acts 25 TOSK
 ---
 
-**[[Home/Scripture/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 24 - TOSK|← Ch 24]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 26 - TOSK|Ch 26 →]]
+**[[Home/Indexes/Readable Bible/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 24 - TOSK|← Ch 24]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 26 - TOSK|Ch 26 →]]
 
 ---
 

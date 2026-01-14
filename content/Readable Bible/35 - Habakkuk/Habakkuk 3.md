@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Habakkuk-R 3
 
-**[[Home/Scripture/35 - Habakkuk|Habakkuk]]**
+**[[Home/Indexes/Readable Bible/35 - Habakkuk|Habakkuk]]**
 
 [[Readable Bible/35 - Habakkuk/Habakkuk 2#Habakkuk-R 2| Habakkuk 2]]
 

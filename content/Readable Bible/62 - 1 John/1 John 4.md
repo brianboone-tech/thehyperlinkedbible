@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 John-R 4
 
-**[[Home/Scripture/62 - 1 John|1 John]]**
+**[[Home/Indexes/Readable Bible/62 - 1 John|1 John]]**
 
 [[Readable Bible/62 - 1 John/1 John 3#1 John-R 3| 1 John 3]] - [[Readable Bible/62 - 1 John/1 John 5#1 John-R 5| 1 John 5]]
 

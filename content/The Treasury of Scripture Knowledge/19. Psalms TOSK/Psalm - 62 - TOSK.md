@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 62 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 61 - TOSK|← Ch 61]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 63 - TOSK|Ch 63 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 61 - TOSK|← Ch 61]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 63 - TOSK|Ch 63 →]]
 
 ---
 

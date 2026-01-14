@@ -8,7 +8,7 @@ cssclasses:
 
 # Genesis-R 4 
 
-**[[Home/Scripture/01 - Genesis|Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 3#Genesis-R 3| Genesis 3]] - [[Readable Bible/01 - Genesis/Genesis 5#Genesis-R 5| Genesis 5]]
 

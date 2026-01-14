@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Judges-R 15
 
-**[[Home/Scripture/07 - Judges|Judges]]**
+**[[Home/Indexes/Readable Bible/07 - Judges|Judges]]**
 
 [[Readable Bible/07 - Judges/Judges 14#Judges-R 14| Judges 14]] - [[Readable Bible/07 - Judges/Judges 16#Judges-R 16| Judges 16]]
 

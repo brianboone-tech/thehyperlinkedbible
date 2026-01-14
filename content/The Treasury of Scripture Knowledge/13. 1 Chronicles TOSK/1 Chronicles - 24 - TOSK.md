@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 1 Chronicles 24 TOSK
 ---
 
-**[[Home/Scripture/13 - 1 Chronicles|← 1 Chronicles]]** | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 23 - TOSK|← Ch 23]] | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 25 - TOSK|Ch 25 →]]
+**[[Home/Indexes/Readable Bible/13 - 1 Chronicles|← 1 Chronicles]]** | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 23 - TOSK|← Ch 23]] | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 25 - TOSK|Ch 25 →]]
 
 ---
 

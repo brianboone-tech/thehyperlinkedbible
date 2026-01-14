@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Joshua 10 TOSK
 ---
 
-**[[Home/Scripture/06 - Joshua|← Joshua]]** | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 11 - TOSK|Ch 11 →]]
+**[[Home/Indexes/Readable Bible/06 - Joshua|← Joshua]]** | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 11 - TOSK|Ch 11 →]]
 
 ---
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Joshua-R 4
 
-**[[Home/Scripture/06 - Joshua|Joshua]]**
+**[[Home/Indexes/Readable Bible/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 3#Joshua-R 3| Joshua 3]] - [[Readable Bible/06 - Joshua/Joshua 5#Joshua-R 5| Joshua 5]]
 

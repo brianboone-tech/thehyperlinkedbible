@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Micah 6 TOSK
 ---
 
-**[[Home/Scripture/33 - Micah|← Micah]]** | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 7 - TOSK|Ch 7 →]]
+**[[Home/Indexes/Readable Bible/33 - Micah|← Micah]]** | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 7 - TOSK|Ch 7 →]]
 
 ---
 

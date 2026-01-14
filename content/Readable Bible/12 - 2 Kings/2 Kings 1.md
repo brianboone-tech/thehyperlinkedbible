@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 2 Kings-R 1
 
-**[[Home/Scripture/12 - 2 Kings|2 Kings]]**
+**[[Home/Indexes/Readable Bible/12 - 2 Kings|2 Kings]]**
 
 ---
 

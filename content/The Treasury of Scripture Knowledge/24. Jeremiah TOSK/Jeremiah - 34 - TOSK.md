@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Jeremiah 34 TOSK
 ---
 
-**[[Home/Scripture/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 33 - TOSK|← Ch 33]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 35 - TOSK|Ch 35 →]]
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 33 - TOSK|← Ch 33]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 35 - TOSK|Ch 35 →]]
 
 ---
 

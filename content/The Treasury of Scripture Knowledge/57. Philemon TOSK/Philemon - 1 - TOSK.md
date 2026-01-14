@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Philemon 1 TOSK
 ---
 
-**[[Home/Scripture/57 - Philemon|← Philemon]]**
+**[[Home/Indexes/Readable Bible/57 - Philemon|← Philemon]]**
 
 ---
 

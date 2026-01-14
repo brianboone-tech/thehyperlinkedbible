@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Joshua-R 8
 
-**[[Home/Scripture/06 - Joshua|Joshua]]**
+**[[Home/Indexes/Readable Bible/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 7#Joshua-R 7| Joshua 7]] - [[Readable Bible/06 - Joshua/Joshua 9#Joshua-R 9| Joshua 9]]
 

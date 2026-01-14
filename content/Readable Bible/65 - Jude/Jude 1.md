@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Jude-R 1
 
-**[[Home/Scripture/65 - Jude|Jude]]**
+**[[Home/Indexes/Readable Bible/65 - Jude|Jude]]**
 
 [[Readable Bible/64 - 3 John/3 John 1#3 John-R 1| 3 John 1]] - [[Readable Bible/66 - Revelation/Revelation 1#Revelation-R 1| Revelation 1]]
 

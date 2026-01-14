@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Exodus-R 4
 
-**[[Home/Scripture/02 - Exodus|Exodus]]**
+**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 3#Exodus-R 3| Exodus 3]] - [[Readable Bible/02 - Exodus/Exodus 5#Exodus-R 5| Exodus 5]]
 

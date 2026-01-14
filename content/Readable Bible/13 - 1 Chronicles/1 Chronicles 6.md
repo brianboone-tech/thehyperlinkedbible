@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 Chronicles-R 6
 
-**[[Home/Scripture/13 - 1 Chronicles|1 Chronicles]]**
+**[[Home/Indexes/Readable Bible/13 - 1 Chronicles|1 Chronicles]]**
 
 [[Readable Bible/13 - 1 Chronicles/1 Chronicles 5#1 Chronicles-R 5| 1 Chronicles 5]] - [[Readable Bible/13 - 1 Chronicles/1 Chronicles 7#1 Chronicles-R 7| 1 Chronicles 7]]
 

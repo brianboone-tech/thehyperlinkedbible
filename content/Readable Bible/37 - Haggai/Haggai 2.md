@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Haggai-R 2
 
-**[[Home/Scripture/37 - Haggai|Haggai]]**
+**[[Home/Indexes/Readable Bible/37 - Haggai|Haggai]]**
 
 [[Readable Bible/37 - Haggai/Haggai 1#Haggai-R 1| Haggai 1]]
 

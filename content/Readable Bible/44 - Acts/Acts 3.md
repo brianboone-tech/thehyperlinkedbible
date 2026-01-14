@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Acts-R 3
 
-**[[Home/Scripture/44 - Acts|Acts]]**
+**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 2#Acts-R 2| Acts 2]] - [[Readable Bible/44 - Acts/Acts 4#Acts-R 4| Acts 4]]
 

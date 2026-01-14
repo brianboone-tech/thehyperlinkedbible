@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Lamentations-R 4
 
-**[[Home/Scripture/25 - Lamentations|Lamentations]]**
+**[[Home/Indexes/Readable Bible/25 - Lamentations|Lamentations]]**
 
 [[Readable Bible/25 - Lamentations/Lamentations 3#Lamentations-R 3| Lamentations 3]] - [[Readable Bible/25 - Lamentations/Lamentations 5#Lamentations-R 5| Lamentations 5]]
 

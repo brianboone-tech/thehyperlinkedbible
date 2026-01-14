@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 17
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 16#Psalm-R 16| Psalm 16]] - [[Readable Bible/19 - Psalms/Psalm 18#Psalm-R 18| Psalm 18]]
 

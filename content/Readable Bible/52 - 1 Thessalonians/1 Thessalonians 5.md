@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 Thessalonians-R 5
 
-**[[Home/Scripture/52 - 1 Thessalonians|1 Thessalonians]]**
+**[[Home/Indexes/Readable Bible/52 - 1 Thessalonians|1 Thessalonians]]**
 
 [[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 4#1 Thessalonians-R 4| 1 Thessalonians 4]]
 

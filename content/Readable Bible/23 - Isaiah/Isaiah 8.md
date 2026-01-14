@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Isaiah-R 8
 
-**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 7#Isaiah-R 7| Isaiah 7]] - [[Readable Bible/23 - Isaiah/Isaiah 9#Isaiah-R 9| Isaiah 9]]
 

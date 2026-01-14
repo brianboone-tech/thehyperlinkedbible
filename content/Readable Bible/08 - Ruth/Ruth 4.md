@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ruth-R 4
 
-**[[Home/Scripture/08 - Ruth|Ruth]]**
+**[[Home/Indexes/Readable Bible/08 - Ruth|Ruth]]**
 
 [[Readable Bible/08 - Ruth/Ruth 3#Ruth-R 3| Ruth 3]]
 

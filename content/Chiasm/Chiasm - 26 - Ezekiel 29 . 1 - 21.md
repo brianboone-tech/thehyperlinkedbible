@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/26 - Ezekiel|← Ezekiel]]**
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]**
 
 ---
 

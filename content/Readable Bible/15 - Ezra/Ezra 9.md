@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ezra-R 9
 
-**[[Home/Scripture/15 - Ezra|Ezra]]**
+**[[Home/Indexes/Readable Bible/15 - Ezra|Ezra]]**
 
 [[Readable Bible/15 - Ezra/Ezra 8#Ezra-R 8| Ezra 8]] - [[Readable Bible/15 - Ezra/Ezra 10#Ezra-R 10| Ezra 10]]
 

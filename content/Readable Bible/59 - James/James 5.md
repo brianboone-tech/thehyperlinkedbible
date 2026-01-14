@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # James-R 5
 
-**[[Home/Scripture/59 - James|James]]**
+**[[Home/Indexes/Readable Bible/59 - James|James]]**
 
 [[Readable Bible/59 - James/James 4#James-R 4| James 4]]
 

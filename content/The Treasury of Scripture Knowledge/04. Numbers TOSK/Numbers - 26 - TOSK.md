@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Numbers 26 TOSK
 ---
 
-**[[Home/Scripture/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 25 - TOSK|← Ch 25]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 27 - TOSK|Ch 27 →]]
+**[[Home/Indexes/Readable Bible/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 25 - TOSK|← Ch 25]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 27 - TOSK|Ch 27 →]]
 
 ---
 

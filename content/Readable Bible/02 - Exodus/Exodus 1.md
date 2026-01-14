@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Exodus-R 1
 
-**[[Home/Scripture/02 - Exodus|Exodus]]**
+**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
 
 [[Readable Bible/01 - Genesis/Genesis 50#Genesis-R 50| Genesis 50]] - [[Readable Bible/02 - Exodus/Exodus 2#Exodus-R 2| Exodus 2]]
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 2 TOSK
 ---
 
-**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 3 - TOSK|Ch 3 →]]
+**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 3 - TOSK|Ch 3 →]]
 
 ---
 

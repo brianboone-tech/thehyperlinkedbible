@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Hebrews-R 13
 
-**[[Home/Scripture/58 - Hebrews|Hebrews]]**
+**[[Home/Indexes/Readable Bible/58 - Hebrews|Hebrews]]**
 
 [[Readable Bible/58 - Hebrews/Hebrews 12#Hebrews-R 12| Hebrews 12]]
 

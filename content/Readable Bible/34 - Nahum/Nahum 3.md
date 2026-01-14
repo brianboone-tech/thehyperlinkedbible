@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Nahum-R 3
 
-**[[Home/Scripture/34 - Nahum|Nahum]]**
+**[[Home/Indexes/Readable Bible/34 - Nahum|Nahum]]**
 
 [[Readable Bible/34 - Nahum/Nahum 2#Nahum-R 2| Nahum 2]]
 

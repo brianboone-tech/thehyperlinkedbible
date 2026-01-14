@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Jeremiah-R 16
 
-**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 15#Jeremiah-R 15| Jeremiah 15]] - [[Readable Bible/24 - Jeremiah/Jeremiah 17#Jeremiah-R 17| Jeremiah 17]]
 

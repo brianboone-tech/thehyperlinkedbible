@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Proverbs-R 8
 
-**[[Home/Scripture/20 - Proverbs|Proverbs]]**
+**[[Home/Indexes/Readable Bible/20 - Proverbs|Proverbs]]**
 
 [[Readable Bible/20 - Proverbs/Proverbs 7#Proverbs-R 7| Proverbs 7]] - [[Readable Bible/20 - Proverbs/Proverbs 9#Proverbs-R 9| Proverbs 9]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Zechariah-R 13
 
-**[[Home/Scripture/38 - Zechariah|Zechariah]]**
+**[[Home/Indexes/Readable Bible/38 - Zechariah|Zechariah]]**
 
 [[Readable Bible/38 - Zechariah/Zechariah 12#Zechariah-R 12| Zechariah 12]] - [[Readable Bible/38 - Zechariah/Zechariah 14#Zechariah-R 14| Zechariah 14]]
 

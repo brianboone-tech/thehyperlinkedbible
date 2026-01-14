@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 2 Kings-R 24
 
-**[[Home/Scripture/12 - 2 Kings|2 Kings]]**
+**[[Home/Indexes/Readable Bible/12 - 2 Kings|2 Kings]]**
 
 [[Readable Bible/12 - 2 Kings/2 Kings 23#2 Kings-R 23| 2 Kings 23]] - [[Readable Bible/12 - 2 Kings/2 Kings 25#2 Kings-R 25| 2 Kings 25]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ecclesiastes-R 1
 
-**[[Home/Scripture/21 - Ecclesiastes|Ecclesiastes]]**
+**[[Home/Indexes/Readable Bible/21 - Ecclesiastes|Ecclesiastes]]**
 
 [[Readable Bible/20 - Proverbs/Proverbs 31|←]] • [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 2|→]]
 

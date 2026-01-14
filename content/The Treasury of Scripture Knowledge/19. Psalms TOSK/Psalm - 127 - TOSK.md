@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 127 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 126 - TOSK|← Ch 126]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 128 - TOSK|Ch 128 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 126 - TOSK|← Ch 126]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 128 - TOSK|Ch 128 →]]
 
 ---
 

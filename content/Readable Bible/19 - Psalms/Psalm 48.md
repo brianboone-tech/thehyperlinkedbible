@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 48
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 47#Psalm-R 47| Psalm 47]] - [[Readable Bible/19 - Psalms/Psalm 49#Psalm-R 49| Psalm 49]]
 

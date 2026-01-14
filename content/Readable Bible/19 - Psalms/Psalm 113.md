@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 113
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 112#Psalm-R 112| Psalm 112]] - [[Readable Bible/19 - Psalms/Psalm 114#Psalm-R 114| Psalm 114]]
 

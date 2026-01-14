@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Daniel-R 9
 
-**[[Home/Scripture/27 - Daniel|Daniel]]**
+**[[Home/Indexes/Readable Bible/27 - Daniel|Daniel]]**
 
 [[Readable Bible/27 - Daniel/Daniel 8#Daniel-R 8| Daniel 8]] - [[Readable Bible/27 - Daniel/Daniel 10#Daniel-R 10| Daniel 10]]
 

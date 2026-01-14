@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/49 - Ephesians|← Ephesians]]**
+**[[Home/Indexes/Readable Bible/49 - Ephesians|← Ephesians]]**
 
 ---
 

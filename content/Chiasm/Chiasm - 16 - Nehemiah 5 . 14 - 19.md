@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/16 - Nehemiah|← Nehemiah]]**
+**[[Home/Indexes/Readable Bible/16 - Nehemiah|← Nehemiah]]**
 
 ---
 

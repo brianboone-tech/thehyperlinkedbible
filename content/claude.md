@@ -63,8 +63,13 @@ index.md (Welcome)
 │   ├── Home/Understanding Links.md
 │   ├── Home/Video Resources.md
 │   └── Home/11 - For Different Users.md
-├── Home/36 - Scripture Index.md
-│   └── [66 Home/Scripture book pages]
+├── Home/Indexes/
+│   ├── Readable Bible/
+│   │   └── [66 book index pages: 01 - Genesis through 66 - Revelation]
+│   ├── Chiasm Index.md
+│   ├── Intertextuality Pairs Index.md
+│   ├── Trajectory Tables Index.md
+│   └── TOSK Index.md
 ├── Home/13 - How Chiasms - Overview.md
 │   └── [13 chiasm deep dive pages]
 └── Home/27 - How Quotations - Overview.md
@@ -173,6 +178,12 @@ Configured in `quartz.layout.ts` with custom `sortFn`:
 - Clean welcome page with prominent "Read the Bible" link
 - Getting Started hub with focused sub-pages (not one massive page)
 - Old tutorial files (02-12) preserved as backup
+
+**Folder Reorganization:**
+- Renamed `Home/Scripture` → `Home/Indexes` (clearer naming)
+- Created `Home/Indexes/Readable Bible/` subfolder
+- Moved 66 book index pages (01 - Genesis through 66 - Revelation) into subfolder
+- Updated ~4,429 file references to use new paths
 
 ---
 

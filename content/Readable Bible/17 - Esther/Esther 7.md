@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Esther-R 7
 
-**[[Home/Scripture/17 - Esther|Esther]]**
+**[[Home/Indexes/Readable Bible/17 - Esther|Esther]]**
 
 [[Readable Bible/17 - Esther/Esther 6#Esther-R 6| Esther 6]] - [[Readable Bible/17 - Esther/Esther 8#Esther-R 8| Esther 8]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Genesis-R 27
 
-**[[Home/Scripture/01 - Genesis|Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 26#Genesis-R 26| Genesis 26]] - [[Readable Bible/01 - Genesis/Genesis 28#Genesis-R 28| Genesis 28]]
 

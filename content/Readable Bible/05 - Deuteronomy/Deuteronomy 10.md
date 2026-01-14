@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Deuteronomy-R 10
 
-**[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 9#Deuteronomy-R 9| Deuteronomy 9]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 11#Deuteronomy-R 11| Deuteronomy 11]]
 

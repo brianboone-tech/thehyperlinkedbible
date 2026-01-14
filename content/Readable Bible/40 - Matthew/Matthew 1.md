@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Matthew-R 1
 
-**[[Home/Scripture/40 - Matthew|Matthew]]**
+**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
 
 [[Readable Bible/39 - Malachi/Malachi 4|Malachi 4]] • [[Readable Bible/40 - Matthew/Matthew 2|Matthew 2]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Titus-R 3
 
-**[[Home/Scripture/56 - Titus|Titus]]**
+**[[Home/Indexes/Readable Bible/56 - Titus|Titus]]**
 
 [[Readable Bible/56 - Titus/Titus 2#Titus-R 2| Titus 2]]
 

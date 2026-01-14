@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Corinthians 8 TOSK
 ---
 
-**[[Home/Scripture/47 - 2 Corinthians|← 2 Corinthians]]** | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 9 - TOSK|Ch 9 →]]
+**[[Home/Indexes/Readable Bible/47 - 2 Corinthians|← 2 Corinthians]]** | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 9 - TOSK|Ch 9 →]]
 
 ---
 

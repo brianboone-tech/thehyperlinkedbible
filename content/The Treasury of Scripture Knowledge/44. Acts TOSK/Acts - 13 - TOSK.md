@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Acts 13 TOSK
 ---
 
-**[[Home/Scripture/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 12 - TOSK|← Ch 12]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 14 - TOSK|Ch 14 →]]
+**[[Home/Indexes/Readable Bible/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 12 - TOSK|← Ch 12]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 14 - TOSK|Ch 14 →]]
 
 ---
 

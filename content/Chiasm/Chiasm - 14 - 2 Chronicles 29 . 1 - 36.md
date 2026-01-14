@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/14 - 2 Chronicles|← 2 Chronicles]]**
+**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|← 2 Chronicles]]**
 
 ---
 

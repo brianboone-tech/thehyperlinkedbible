@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Genesis 21 TOSK
 ---
 
-**[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 20 - TOSK|← Ch 20]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 22 - TOSK|Ch 22 →]]
+**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 20 - TOSK|← Ch 20]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 22 - TOSK|Ch 22 →]]
 
 ---
 

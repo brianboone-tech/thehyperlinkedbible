@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Isaiah-R 41
 
-**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 40#Isaiah-R 40| Isaiah 40]] - [[Readable Bible/23 - Isaiah/Isaiah 42#Isaiah-R 42| Isaiah 42]]
 

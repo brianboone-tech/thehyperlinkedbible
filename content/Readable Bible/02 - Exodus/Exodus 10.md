@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Exodus-R 10
 
-**[[Home/Scripture/02 - Exodus|Exodus]]**
+**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 9#Exodus-R 9| Exodus 9]] - [[Readable Bible/02 - Exodus/Exodus 11#Exodus-R 11| Exodus 11]]
 

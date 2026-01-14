@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Jonah-R 2
 
-**[[Home/Scripture/32 - Jonah|Jonah]]**
+**[[Home/Indexes/Readable Bible/32 - Jonah|Jonah]]**
 
 [[Readable Bible/32 - Jonah/Jonah 1#Jonah-R 1| Jonah 1]] - [[Readable Bible/32 - Jonah/Jonah 3#Jonah-R 3| Jonah 3]]
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 14 TOSK
 ---
 
-**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 15 - TOSK|Ch 15 →]]
+**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 15 - TOSK|Ch 15 →]]
 
 ---
 

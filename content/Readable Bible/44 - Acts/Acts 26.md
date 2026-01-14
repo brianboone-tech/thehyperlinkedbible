@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Acts-R 26
 
-**[[Home/Scripture/44 - Acts|Acts]]**
+**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 25#Acts-R 25| Acts 25]] - [[Readable Bible/44 - Acts/Acts 27#Acts-R 27| Acts 27]]
 

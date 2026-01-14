@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Exodus-R 37
 
-**[[Home/Scripture/02 - Exodus|Exodus]]**
+**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 37#Exodus-R 37| [[Readable Bible/02 - Exodus/Exodus 36#Exodus-R 36| Exodus 36]] - [[Readable Bible/02 - Exodus/Exodus 38#Exodus-R 38| Exodus 38]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Jeremiah-R 12
 
-**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 11#Jeremiah-R 11| Jeremiah 11]] - [[Readable Bible/24 - Jeremiah/Jeremiah 13#Jeremiah-R 13| Jeremiah 13]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Lamentations-R 1
 
-**[[Home/Scripture/25 - Lamentations|Lamentations]]**
+**[[Home/Indexes/Readable Bible/25 - Lamentations|Lamentations]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 52|←]] • [[Readable Bible/25 - Lamentations/Lamentations 2|→]]
 

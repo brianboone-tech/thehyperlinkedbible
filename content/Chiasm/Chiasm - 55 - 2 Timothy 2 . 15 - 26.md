@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/55 - 2 Timothy|← 2 Timothy]]**
+**[[Home/Indexes/Readable Bible/55 - 2 Timothy|← 2 Timothy]]**
 
 ---
 

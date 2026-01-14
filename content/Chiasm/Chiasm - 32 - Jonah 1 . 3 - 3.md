@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/32 - Jonah|← Jonah]]**
+**[[Home/Indexes/Readable Bible/32 - Jonah|← Jonah]]**
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Deuteronomy 25 TOSK
 ---
 
-**[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 24 - TOSK|← Ch 24]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 26 - TOSK|Ch 26 →]]
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 24 - TOSK|← Ch 24]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 26 - TOSK|Ch 26 →]]
 
 ---
 

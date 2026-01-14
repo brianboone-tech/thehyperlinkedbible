@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Zechariah-R 1
 
-**[[Home/Scripture/38 - Zechariah|Zechariah]]**
+**[[Home/Indexes/Readable Bible/38 - Zechariah|Zechariah]]**
 
 [[Haggai 2|Haggai 2]] • [[Zechariah 2|Zechariah 2]]
 

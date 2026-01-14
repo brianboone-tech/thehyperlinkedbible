@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Deuteronomy 10 TOSK
 ---
 
-**[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 11 - TOSK|Ch 11 →]]
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 11 - TOSK|Ch 11 →]]
 
 ---
 

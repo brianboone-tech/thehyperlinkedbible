@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 2 Kings-R 13
 
-**[[Home/Scripture/12 - 2 Kings|2 Kings]]**
+**[[Home/Indexes/Readable Bible/12 - 2 Kings|2 Kings]]**
 
 [[Readable Bible/12 - 2 Kings/2 Kings 12#2 Kings-R 12| 2 Kings 12]] - [[Readable Bible/12 - 2 Kings/2 Kings 14#2 Kings-R 14| 2 Kings 14]]
 

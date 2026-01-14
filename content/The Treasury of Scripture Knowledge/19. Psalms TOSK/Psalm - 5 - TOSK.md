@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 5 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 4 - TOSK|← Ch 4]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 6 - TOSK|Ch 6 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 4 - TOSK|← Ch 4]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 6 - TOSK|Ch 6 →]]
 
 ---
 

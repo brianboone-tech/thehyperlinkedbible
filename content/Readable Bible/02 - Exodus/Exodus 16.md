@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Exodus-R 16
 
-**[[Home/Scripture/02 - Exodus|Exodus]]**
+**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 15#Exodus-R 15| Exodus 15]] - [[Readable Bible/02 - Exodus/Exodus 17#Exodus-R 17| Exodus 17]]
 

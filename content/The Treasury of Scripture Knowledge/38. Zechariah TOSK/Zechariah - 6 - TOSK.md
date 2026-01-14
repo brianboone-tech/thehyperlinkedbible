@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Zechariah 6 TOSK
 ---
 
-**[[Home/Scripture/38 - Zechariah|← Zechariah]]** | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 7 - TOSK|Ch 7 →]]
+**[[Home/Indexes/Readable Bible/38 - Zechariah|← Zechariah]]** | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 7 - TOSK|Ch 7 →]]
 
 ---
 

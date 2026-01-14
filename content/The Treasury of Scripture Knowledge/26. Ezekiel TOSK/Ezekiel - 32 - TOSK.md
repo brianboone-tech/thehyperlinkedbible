@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Ezekiel 32 TOSK
 ---
 
-**[[Home/Scripture/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 31 - TOSK|← Ch 31]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 33 - TOSK|Ch 33 →]]
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 31 - TOSK|← Ch 31]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 33 - TOSK|Ch 33 →]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 50 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 49 - TOSK|← Ch 49]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 51 - TOSK|Ch 51 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 49 - TOSK|← Ch 49]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 51 - TOSK|Ch 51 →]]
 
 ---
 

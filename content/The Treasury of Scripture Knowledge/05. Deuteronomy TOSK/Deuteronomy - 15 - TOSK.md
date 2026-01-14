@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Deuteronomy 15 TOSK
 ---
 
-**[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 16 - TOSK|Ch 16 →]]
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 16 - TOSK|Ch 16 →]]
 
 ---
 

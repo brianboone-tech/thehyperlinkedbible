@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Daniel-R 2
 
-**[[Home/Scripture/27 - Daniel|Daniel]]**
+**[[Home/Indexes/Readable Bible/27 - Daniel|Daniel]]**
 
 [[Readable Bible/27 - Daniel/Daniel 1#Daniel-R 1| Daniel 1]] - [[Readable Bible/27 - Daniel/Daniel 3#Daniel-R 3| Daniel 3]]
 

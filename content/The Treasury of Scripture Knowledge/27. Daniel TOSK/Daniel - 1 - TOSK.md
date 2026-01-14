@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Daniel 1 TOSK
 ---
 
-**[[Home/Scripture/27 - Daniel|← Daniel]]** | [[The Treasury of Scripture Knowledge/27. Daniel TOSK/Daniel - 2 - TOSK|Ch 2 →]]
+**[[Home/Indexes/Readable Bible/27 - Daniel|← Daniel]]** | [[The Treasury of Scripture Knowledge/27. Daniel TOSK/Daniel - 2 - TOSK|Ch 2 →]]
 
 ---
 

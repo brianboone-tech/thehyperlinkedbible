@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 136
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 135#Psalm-R 135| Psalm 135]] - [[Readable Bible/19 - Psalms/Psalm 137#Psalm-R 137| Psalm 137]]
 

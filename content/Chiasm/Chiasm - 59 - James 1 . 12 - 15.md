@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/59 - James|← James]]**
+**[[Home/Indexes/Readable Bible/59 - James|← James]]**
 
 ---
 

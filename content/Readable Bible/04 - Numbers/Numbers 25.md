@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Numbers-R 25
 
-**[[Home/Scripture/04 - Numbers|Numbers]]**
+**[[Home/Indexes/Readable Bible/04 - Numbers|Numbers]]**
 
 [[Readable Bible/04 - Numbers/Numbers 24#Numbers-R 24| Numbers 24]] - [[Readable Bible/04 - Numbers/Numbers 26#Numbers-R 26| Numbers 26]]
 

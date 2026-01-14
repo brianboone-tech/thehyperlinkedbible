@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Numbers-R 1
 
-**[[Home/Scripture/04 - Numbers|Numbers]]**
+**[[Home/Indexes/Readable Bible/04 - Numbers|Numbers]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 27#Leviticus-R 27| Leviticus 27]] - [[Readable Bible/04 - Numbers/Numbers 2#Numbers-R 2| Numbers 2]]
 

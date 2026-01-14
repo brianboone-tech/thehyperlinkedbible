@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/12 - 2 Kings|← 2 Kings]]**
+**[[Home/Indexes/Readable Bible/12 - 2 Kings|← 2 Kings]]**
 
 ---
 

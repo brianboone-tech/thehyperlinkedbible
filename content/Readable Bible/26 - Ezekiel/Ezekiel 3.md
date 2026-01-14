@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ezekiel-R 3
 
-**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 2#Ezekiel-R 2| Ezekiel 2]] - [[Readable Bible/26 - Ezekiel/Ezekiel 4#Ezekiel-R 4| Ezekiel 4]]
 

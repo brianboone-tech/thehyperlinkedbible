@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/01 - Genesis|← Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]**
 
 ---
 

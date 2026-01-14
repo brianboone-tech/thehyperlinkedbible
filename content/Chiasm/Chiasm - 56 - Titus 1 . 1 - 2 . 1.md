@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/56 - Titus|← Titus]]**
+**[[Home/Indexes/Readable Bible/56 - Titus|← Titus]]**
 
 ---
 

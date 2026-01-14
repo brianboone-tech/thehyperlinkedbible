@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Song of Solomon-R 5
 
-**[[Home/Scripture/22 - Song of Solomon|Song of Solomon]]**
+**[[Home/Indexes/Readable Bible/22 - Song of Solomon|Song of Solomon]]**
 
 [[Readable Bible/22 - Song of Solomon/Song of Solomon 4#Song of Solomon-R 4| Song of Solomon 4]] - [[Readable Bible/22 - Song of Solomon/Song of Solomon 6#Song of Solomon-R 6| Song of Solomon 6]]
 

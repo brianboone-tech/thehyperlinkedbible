@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Genesis 6 TOSK
 ---
 
-**[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 7 - TOSK|Ch 7 →]]
+**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 7 - TOSK|Ch 7 →]]
 
 ---
 

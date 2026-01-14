@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Galatians-R 1
 
-**[[Home/Scripture/48 - Galatians|Galatians]]**
+**[[Home/Indexes/Readable Bible/48 - Galatians|Galatians]]**
 
 [[Readable Bible/47 - 2 Corinthians/2 Corinthians 13|←]] • [[Readable Bible/48 - Galatians/Galatians 2|→]]
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Deuteronomy 23 TOSK
 ---
 
-**[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 24 - TOSK|Ch 24 →]]
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 24 - TOSK|Ch 24 →]]
 
 ---
 

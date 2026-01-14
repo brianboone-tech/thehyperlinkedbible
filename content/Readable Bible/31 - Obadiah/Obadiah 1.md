@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Obadiah-R 1
 
-**[[Home/Scripture/31 - Obadiah|Obadiah]]**
+**[[Home/Indexes/Readable Bible/31 - Obadiah|Obadiah]]**
 
 [[Readable Bible/30 - Amos/Amos 9|Amos 9]] • [[Readable Bible/32 - Jonah/Jonah 1|Jonah 1]]
 

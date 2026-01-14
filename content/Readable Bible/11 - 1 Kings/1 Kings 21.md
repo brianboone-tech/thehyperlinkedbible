@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 Kings-R 21
 
-**[[Home/Scripture/11 - 1 Kings|1 Kings]]**
+**[[Home/Indexes/Readable Bible/11 - 1 Kings|1 Kings]]**
 
 [[Readable Bible/11 - 1 Kings/1 Kings 20#1 Kings-R 20| 1 Kings 20]] - [[Readable Bible/11 - 1 Kings/1 Kings 22#1 Kings-R 22| 1 Kings 22]]
 

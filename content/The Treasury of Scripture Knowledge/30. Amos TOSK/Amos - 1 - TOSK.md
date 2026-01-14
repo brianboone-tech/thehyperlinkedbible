@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Amos 1 TOSK
 ---
 
-**[[Home/Scripture/30 - Amos|← Amos]]** | [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 2 - TOSK|Ch 2 →]]
+**[[Home/Indexes/Readable Bible/30 - Amos|← Amos]]** | [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 2 - TOSK|Ch 2 →]]
 
 ---
 

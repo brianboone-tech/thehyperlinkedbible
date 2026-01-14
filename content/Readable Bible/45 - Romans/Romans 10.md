@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Romans-R 10
 
-**[[Home/Scripture/45 - Romans|Romans]]**
+**[[Home/Indexes/Readable Bible/45 - Romans|Romans]]**
 
 [[Readable Bible/45 - Romans/Romans 9#Romans-R 9| Romans 9]] - [[Readable Bible/45 - Romans/Romans 11#Romans-R 11| Romans 11]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Jeremiah-R 44
 
-**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 43#Jeremiah-R 43| Jeremiah 43]] - [[Readable Bible/24 - Jeremiah/Jeremiah 45#Jeremiah-R 45| Jeremiah 45]]
 

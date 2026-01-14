@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Genesis-R 22
 
-**[[Home/Scripture/01 - Genesis|Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 21#Genesis-R 21| Genesis 21]] - [[Readable Bible/01 - Genesis/Genesis 23#Genesis-R 23| Genesis 23]]
 

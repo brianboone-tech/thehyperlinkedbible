@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Philemon-R 1
 
-**[[Home/Scripture/57 - Philemon|Philemon]]**
+**[[Home/Indexes/Readable Bible/57 - Philemon|Philemon]]**
 
 [[Readable Bible/56 - Titus/Titus 3#Titus-R 3| Titus 3]]
 

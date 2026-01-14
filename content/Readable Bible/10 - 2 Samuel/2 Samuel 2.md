@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 2 Samuel-R 2
 
-**[[Home/Scripture/10 - 2 Samuel|2 Samuel]]**
+**[[Home/Indexes/Readable Bible/10 - 2 Samuel|2 Samuel]]**
 
 [[Readable Bible/10 - 2 Samuel/2 Samuel 1#2 Samuel-R 1| 2 Samuel 1]] - [[Readable Bible/10 - 2 Samuel/2 Samuel 3#2 Samuel-R 3| 2 Samuel 3]]
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Job 40 TOSK
 ---
 
-**[[Home/Scripture/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 39 - TOSK|← Ch 39]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 41 - TOSK|Ch 41 →]]
+**[[Home/Indexes/Readable Bible/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 39 - TOSK|← Ch 39]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 41 - TOSK|Ch 41 →]]
 
 ---
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 Samuel-R 27
 
-**[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
+**[[Home/Indexes/Readable Bible/09 - 1 Samuel|1 Samuel]]**
 
 [[Readable Bible/09 - 1 Samuel/1 Samuel 26#1 Samuel-R 26| 1 Samuel 26]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 28#1 Samuel-R 28| 1 Samuel 28]]
 

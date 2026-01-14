@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Luke-R 16
 
-**[[Home/Scripture/42 - Luke|Luke]]**
+**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
 
 [[Readable Bible/42 - Luke/Luke 15#Luke-R 15| Luke 15]] - [[Readable Bible/42 - Luke/Luke 17#Luke-R 17| Luke 17]]
 

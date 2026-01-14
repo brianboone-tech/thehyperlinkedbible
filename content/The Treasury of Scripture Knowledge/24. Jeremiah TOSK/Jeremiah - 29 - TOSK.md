@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Jeremiah 29 TOSK
 ---
 
-**[[Home/Scripture/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 30 - TOSK|Ch 30 →]]
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 30 - TOSK|Ch 30 →]]
 
 ---
 

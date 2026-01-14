@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Colossians-R 4
 
-**[[Home/Scripture/51 - Colossians|Colossians]]**
+**[[Home/Indexes/Readable Bible/51 - Colossians|Colossians]]**
 
 [[Readable Bible/51 - Colossians/Colossians 3#Colossians-R 3| Colossians 3]]
 

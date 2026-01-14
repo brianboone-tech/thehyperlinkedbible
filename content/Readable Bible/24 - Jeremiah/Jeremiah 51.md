@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Jeremiah-R 51
 
-**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 50#Jeremiah-R 50| Jeremiah 50]] - [[Readable Bible/24 - Jeremiah/Jeremiah 52#Jeremiah-R 52| Jeremiah 52]]
 

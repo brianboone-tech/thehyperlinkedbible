@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Numbers 23 TOSK
 ---
 
-**[[Home/Scripture/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 24 - TOSK|Ch 24 →]]
+**[[Home/Indexes/Readable Bible/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 24 - TOSK|Ch 24 →]]
 
 ---
 

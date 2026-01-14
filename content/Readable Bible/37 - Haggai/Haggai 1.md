@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Haggai-R 1
 
-**[[Home/Scripture/37 - Haggai|Haggai]]**
+**[[Home/Indexes/Readable Bible/37 - Haggai|Haggai]]**
 
 [[Readable Bible/36 - Zephaniah/Zephaniah 3#Zephaniah-R 3|Zephaniah 3]] • [[Haggai 2|Haggai 2]]
 

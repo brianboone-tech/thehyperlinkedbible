@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Job-R 3
 
-**[[Home/Scripture/18 - Job|Job]]**
+**[[Home/Indexes/Readable Bible/18 - Job|Job]]**
 
 [[Readable Bible/18 - Job/Job 2#Job-R 2| Job 2]] - [[Readable Bible/18 - Job/Job 4#Job-R 4| Job 4]]
 

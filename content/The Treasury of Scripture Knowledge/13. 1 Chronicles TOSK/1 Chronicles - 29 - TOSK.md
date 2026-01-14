@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 1 Chronicles 29 TOSK
 ---
 
-**[[Home/Scripture/13 - 1 Chronicles|← 1 Chronicles]]** | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 28 - TOSK|← Ch 28]]
+**[[Home/Indexes/Readable Bible/13 - 1 Chronicles|← 1 Chronicles]]** | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 28 - TOSK|← Ch 28]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 94 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 93 - TOSK|← Ch 93]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 95 - TOSK|Ch 95 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 93 - TOSK|← Ch 93]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 95 - TOSK|Ch 95 →]]
 
 ---
 

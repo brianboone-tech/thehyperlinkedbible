@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 Corinthians-R 2
 
-**[[Home/Scripture/46 - 1 Corinthians|1 Corinthians]]**
+**[[Home/Indexes/Readable Bible/46 - 1 Corinthians|1 Corinthians]]**
 
 [[Readable Bible/46 - 1 Corinthians/1 Corinthians 1#1 Corinthians-R 1| 1 Corinthians 1]] - [[Readable Bible/46 - 1 Corinthians/1 Corinthians 3#1 Corinthians-R 3| 1 Corinthians 3]]
 

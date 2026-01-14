@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 91 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 90 - TOSK|← Ch 90]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 92 - TOSK|Ch 92 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 90 - TOSK|← Ch 90]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 92 - TOSK|Ch 92 →]]
 
 ---
 

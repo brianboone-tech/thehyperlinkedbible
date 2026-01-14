@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/02 - Exodus|← Exodus]]**
+**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]**
 
 ---
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 29
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 28#Psalm-R 28| Psalm 28]] - [[Readable Bible/19 - Psalms/Psalm 30#Psalm-R 30| Psalm 30]]
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: John 1 TOSK
 ---
 
-**[[Home/Scripture/43 - John|← John]]** | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 2 - TOSK|Ch 2 →]]
+**[[Home/Indexes/Readable Bible/43 - John|← John]]** | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 2 - TOSK|Ch 2 →]]
 
 ---
 

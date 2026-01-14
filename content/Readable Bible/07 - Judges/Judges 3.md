@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Judges-R 3
 
-**[[Home/Scripture/07 - Judges|Judges]]**
+**[[Home/Indexes/Readable Bible/07 - Judges|Judges]]**
 
 [[Readable Bible/07 - Judges/Judges 2#Judges-R 2| Judges 2]] - [[Readable Bible/07 - Judges/Judges 4#Judges-R 4| Judges 4]]
 

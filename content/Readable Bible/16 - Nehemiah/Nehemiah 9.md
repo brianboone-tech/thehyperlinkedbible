@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Nehemiah-R 9
 
-**[[Home/Scripture/16 - Nehemiah|Nehemiah]]**
+**[[Home/Indexes/Readable Bible/16 - Nehemiah|Nehemiah]]**
 
 [[Readable Bible/16 - Nehemiah/Nehemiah 8#Nehemiah-R 8| Nehemiah 8]] - [[Readable Bible/16 - Nehemiah/Nehemiah 10#Nehemiah-R 10| Nehemiah 10]]
 

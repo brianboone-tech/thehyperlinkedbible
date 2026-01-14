@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Acts 2 TOSK
 ---
 
-**[[Home/Scripture/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 3 - TOSK|Ch 3 →]]
+**[[Home/Indexes/Readable Bible/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 3 - TOSK|Ch 3 →]]
 
 ---
 

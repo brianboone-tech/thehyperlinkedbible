@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # John-R 4
 
-**[[Home/Scripture/43 - John|John]]**
+**[[Home/Indexes/Readable Bible/43 - John|John]]**
 
 [[Readable Bible/43 - John/John 3#John-R 3| John 3]] - [[Readable Bible/43 - John/John 5#John-R 5| John 5]]
 

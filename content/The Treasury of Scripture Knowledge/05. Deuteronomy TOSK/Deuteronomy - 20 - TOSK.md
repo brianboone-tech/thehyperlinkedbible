@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Deuteronomy 20 TOSK
 ---
 
-**[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 21 - TOSK|Ch 21 →]]
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 21 - TOSK|Ch 21 →]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Genesis 17 TOSK
 ---
 
-**[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 18 - TOSK|Ch 18 →]]
+**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 18 - TOSK|Ch 18 →]]
 
 ---
 

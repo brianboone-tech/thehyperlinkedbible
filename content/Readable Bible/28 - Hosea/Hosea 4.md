@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Hosea-R 4
 
-**[[Home/Scripture/28 - Hosea|Hosea]]**
+**[[Home/Indexes/Readable Bible/28 - Hosea|Hosea]]**
 
 [[Readable Bible/28 - Hosea/Hosea 3#Hosea-R 3| Hosea 3]] - [[Readable Bible/28 - Hosea/Hosea 5#Hosea-R 5| Hosea 5]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ecclesiastes-R 4
 
-**[[Home/Scripture/21 - Ecclesiastes|Ecclesiastes]]**
+**[[Home/Indexes/Readable Bible/21 - Ecclesiastes|Ecclesiastes]]**
 
 [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 3#Ecclesiastes-R 3| Ecclesiastes 3]] - [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 5#Ecclesiastes-R 5| Ecclesiastes 5]]
 

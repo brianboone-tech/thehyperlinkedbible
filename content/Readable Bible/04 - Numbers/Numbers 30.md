@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Numbers-R 30
 
-**[[Home/Scripture/04 - Numbers|Numbers]]**
+**[[Home/Indexes/Readable Bible/04 - Numbers|Numbers]]**
 
 [[Readable Bible/04 - Numbers/Numbers 29#Numbers-R 29| Numbers 29]] - [[Readable Bible/04 - Numbers/Numbers 31#Numbers-R 31| Numbers 31]]
 

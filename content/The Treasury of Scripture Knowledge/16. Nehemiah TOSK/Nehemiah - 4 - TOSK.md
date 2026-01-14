@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Nehemiah 4 TOSK
 ---
 
-**[[Home/Scripture/16 - Nehemiah|← Nehemiah]]** | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 5 - TOSK|Ch 5 →]]
+**[[Home/Indexes/Readable Bible/16 - Nehemiah|← Nehemiah]]** | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 5 - TOSK|Ch 5 →]]
 
 ---
 

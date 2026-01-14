@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 147
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 146#Psalm-R 146| Psalm 146]] - [[Readable Bible/19 - Psalms/Psalm 148#Psalm-R 148| Psalm 148]]
 

@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/58 - Hebrews|← Hebrews]]**
+**[[Home/Indexes/Readable Bible/58 - Hebrews|← Hebrews]]**
 
 ---
 

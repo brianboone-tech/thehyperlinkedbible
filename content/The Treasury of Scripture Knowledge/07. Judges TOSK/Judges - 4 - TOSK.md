@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Judges 4 TOSK
 ---
 
-**[[Home/Scripture/07 - Judges|← Judges]]** | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 5 - TOSK|Ch 5 →]]
+**[[Home/Indexes/Readable Bible/07 - Judges|← Judges]]** | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 5 - TOSK|Ch 5 →]]
 
 ---
 

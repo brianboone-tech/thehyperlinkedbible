@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ecclesiastes-R 8
 
-**[[Home/Scripture/21 - Ecclesiastes|Ecclesiastes]]**
+**[[Home/Indexes/Readable Bible/21 - Ecclesiastes|Ecclesiastes]]**
 
 [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 7#Ecclesiastes-R 7| Ecclesiastes 7]] - [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 9#Ecclesiastes-R 9| Ecclesiastes 9]]
 

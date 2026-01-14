@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Judges-R 8
 
-**[[Home/Scripture/07 - Judges|Judges]]**
+**[[Home/Indexes/Readable Bible/07 - Judges|Judges]]**
 
 [[Readable Bible/07 - Judges/Judges 7#Judges-R 7| Judges 7]] - [[Readable Bible/07 - Judges/Judges 9#Judges-R 9| Judges 9]]
 

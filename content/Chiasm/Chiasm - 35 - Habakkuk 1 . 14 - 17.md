@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/35 - Habakkuk|← Habakkuk]]**
+**[[Home/Indexes/Readable Bible/35 - Habakkuk|← Habakkuk]]**
 
 ---
 

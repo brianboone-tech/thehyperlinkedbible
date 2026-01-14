@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Luke-R 18
 
-**[[Home/Scripture/42 - Luke|Luke]]**
+**[[Home/Indexes/Readable Bible/42 - Luke|Luke]]**
 
 [[Readable Bible/42 - Luke/Luke 17#Luke-R 17| Luke 17]] - [[Readable Bible/42 - Luke/Luke 19#Luke-R 19| Luke 19]]
 

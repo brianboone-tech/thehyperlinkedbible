@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Nehemiah 9 TOSK
 ---
 
-**[[Home/Scripture/16 - Nehemiah|← Nehemiah]]** | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 10 - TOSK|Ch 10 →]]
+**[[Home/Indexes/Readable Bible/16 - Nehemiah|← Nehemiah]]** | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 10 - TOSK|Ch 10 →]]
 
 ---
 

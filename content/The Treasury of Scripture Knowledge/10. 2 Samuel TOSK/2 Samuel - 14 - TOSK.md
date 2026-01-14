@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Samuel 14 TOSK
 ---
 
-**[[Home/Scripture/10 - 2 Samuel|← 2 Samuel]]** | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 15 - TOSK|Ch 15 →]]
+**[[Home/Indexes/Readable Bible/10 - 2 Samuel|← 2 Samuel]]** | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 15 - TOSK|Ch 15 →]]
 
 ---
 

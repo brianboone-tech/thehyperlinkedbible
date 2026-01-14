@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 Timothy-R 4
 
-**[[Home/Scripture/54 - 1 Timothy|1 Timothy]]**
+**[[Home/Indexes/Readable Bible/54 - 1 Timothy|1 Timothy]]**
 
 [[Readable Bible/54 - 1 Timothy/1 Timothy 3#1 Timothy-R 3| 1 Timothy 3]] - [[Readable Bible/54 - 1 Timothy/1 Timothy 5#1 Timothy-R 5| 1 Timothy 5]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Joshua-R 23
 
-**[[Home/Scripture/06 - Joshua|Joshua]]**
+**[[Home/Indexes/Readable Bible/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 22#Joshua-R 22| Joshua 22]] - [[Readable Bible/06 - Joshua/Joshua 24#Joshua-R 24| Joshua 24]]
 

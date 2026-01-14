@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/25 - Lamentations|← Lamentations]]**
+**[[Home/Indexes/Readable Bible/25 - Lamentations|← Lamentations]]**
 
 ---
 

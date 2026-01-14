@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 Timothy-R 6
 
-**[[Home/Scripture/54 - 1 Timothy|1 Timothy]]**
+**[[Home/Indexes/Readable Bible/54 - 1 Timothy|1 Timothy]]**
 
 [[Readable Bible/54 - 1 Timothy/1 Timothy 5#1 Timothy-R 5| 1 Timothy 5]]
 

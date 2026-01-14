@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Luke 6 TOSK
 ---
 
-**[[Home/Scripture/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 7 - TOSK|Ch 7 →]]
+**[[Home/Indexes/Readable Bible/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 7 - TOSK|Ch 7 →]]
 
 ---
 

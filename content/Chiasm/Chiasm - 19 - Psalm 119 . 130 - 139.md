@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]**
 
 ---
 

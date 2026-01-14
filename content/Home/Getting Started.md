@@ -41,9 +41,9 @@ The **[[Readable Bible Index|Readable Bible]]** is the heart of this site. Start
 |----------|-------------|
 | [[Home/13 - How Chiasms - Overview\|How Chiasms Work]] | Deep dive into literary structures (13 pages) |
 | [[Home/27 - How Quotations - Overview\|How Quotations Work]] | Deep dive into intertextuality (9 pages) |
-| [[Home/Scripture/Trajectory Tables Index\|Trajectory Tables]] | 126 typological studies from OT to NT |
-| [[Home/Scripture/Chiasm Index\|Chiasm Index]] | 1,732 chiastic structures |
-| [[Home/Scripture/Intertextuality Pairs Index\|Intertextuality Pairs]] | 2,587 cross-references |
+| [[Home/Indexes/Trajectory Tables Index\|Trajectory Tables]] | 126 typological studies from OT to NT |
+| [[Home/Indexes/Chiasm Index\|Chiasm Index]] | 1,732 chiastic structures |
+| [[Home/Indexes/Intertextuality Pairs Index\|Intertextuality Pairs]] | 2,587 cross-references |
 
 ---
 

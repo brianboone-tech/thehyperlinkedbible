@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Isaiah 9 TOSK
 ---
 
-**[[Home/Scripture/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 10 - TOSK|Ch 10 →]]
+**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 10 - TOSK|Ch 10 →]]
 
 ---
 

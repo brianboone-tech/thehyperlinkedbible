@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/65 - Jude|← Jude]]**
+**[[Home/Indexes/Readable Bible/65 - Jude|← Jude]]**
 
 ---
 

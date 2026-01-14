@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/47 - 2 Corinthians|← 2 Corinthians]]**
+**[[Home/Indexes/Readable Bible/47 - 2 Corinthians|← 2 Corinthians]]**
 
 ---
 

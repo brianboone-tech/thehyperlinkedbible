@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/24 - Jeremiah|← Jeremiah]]**
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|← Jeremiah]]**
 
 ---
 

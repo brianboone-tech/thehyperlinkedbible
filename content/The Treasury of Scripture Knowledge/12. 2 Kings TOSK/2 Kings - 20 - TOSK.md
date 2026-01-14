@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Kings 20 TOSK
 ---
 
-**[[Home/Scripture/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 21 - TOSK|Ch 21 →]]
+**[[Home/Indexes/Readable Bible/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 21 - TOSK|Ch 21 →]]
 
 ---
 

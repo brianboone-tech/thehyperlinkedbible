@@ -8,7 +8,7 @@ Chapter: "1"
       
 # Genesis-R 1 
 
-**[[Home/Scripture/01 - Genesis|Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 2#Genesis-R 2| Genesis 2]]
 

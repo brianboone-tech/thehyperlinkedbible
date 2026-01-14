@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 109 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 108 - TOSK|← Ch 108]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 110 - TOSK|Ch 110 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 108 - TOSK|← Ch 108]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 110 - TOSK|Ch 110 →]]
 
 ---
 

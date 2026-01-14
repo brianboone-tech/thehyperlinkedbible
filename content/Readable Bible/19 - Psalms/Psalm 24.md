@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 24
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 23#Psalm-R 23| Psalm 23]] - [[Readable Bible/19 - Psalms/Psalm 25#Psalm-R 25| Psalm 25]]
 

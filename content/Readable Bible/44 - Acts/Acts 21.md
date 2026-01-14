@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Acts-R 21
 
-**[[Home/Scripture/44 - Acts|Acts]]**
+**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 20#Acts-R 20| Acts 20]] - [[Readable Bible/44 - Acts/Acts 22#Acts-R 22| Acts 22]]
 

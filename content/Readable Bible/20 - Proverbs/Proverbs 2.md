@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Proverbs-R 2
 
-**[[Home/Scripture/20 - Proverbs|Proverbs]]**
+**[[Home/Indexes/Readable Bible/20 - Proverbs|Proverbs]]**
 
 [[Readable Bible/20 - Proverbs/Proverbs 1#Proverbs-R 1| Proverbs 1]] - [[Readable Bible/20 - Proverbs/Proverbs 3#Proverbs-R 3| Proverbs 3]]
 

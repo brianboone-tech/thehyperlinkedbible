@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Samuel 17 TOSK
 ---
 
-**[[Home/Scripture/10 - 2 Samuel|← 2 Samuel]]** | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 18 - TOSK|Ch 18 →]]
+**[[Home/Indexes/Readable Bible/10 - 2 Samuel|← 2 Samuel]]** | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 18 - TOSK|Ch 18 →]]
 
 ---
 

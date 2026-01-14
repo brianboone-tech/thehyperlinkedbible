@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ezekiel-R 37
 
-**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 36#Ezekiel-R 36| Ezekiel 36]] - [[Readable Bible/26 - Ezekiel/Ezekiel 38#Ezekiel-R 38| Ezekiel 38]]
 

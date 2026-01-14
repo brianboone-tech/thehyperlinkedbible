@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Galatians 2 TOSK
 ---
 
-**[[Home/Scripture/48 - Galatians|← Galatians]]** | [[The Treasury of Scripture Knowledge/48. Galatians TOSK/Galatians - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/48. Galatians TOSK/Galatians - 3 - TOSK|Ch 3 →]]
+**[[Home/Indexes/Readable Bible/48 - Galatians|← Galatians]]** | [[The Treasury of Scripture Knowledge/48. Galatians TOSK/Galatians - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/48. Galatians TOSK/Galatians - 3 - TOSK|Ch 3 →]]
 
 ---
 

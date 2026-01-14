@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Isaiah 15 TOSK
 ---
 
-**[[Home/Scripture/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 16 - TOSK|Ch 16 →]]
+**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 16 - TOSK|Ch 16 →]]
 
 ---
 

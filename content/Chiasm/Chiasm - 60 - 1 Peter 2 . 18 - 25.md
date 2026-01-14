@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/60 - 1 Peter|← 1 Peter]]**
+**[[Home/Indexes/Readable Bible/60 - 1 Peter|← 1 Peter]]**
 
 ---
 

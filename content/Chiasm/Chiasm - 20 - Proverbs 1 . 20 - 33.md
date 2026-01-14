@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/20 - Proverbs|← Proverbs]]**
+**[[Home/Indexes/Readable Bible/20 - Proverbs|← Proverbs]]**
 
 ---
 

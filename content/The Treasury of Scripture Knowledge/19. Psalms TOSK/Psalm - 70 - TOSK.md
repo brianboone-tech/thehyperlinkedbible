@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 70 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 69 - TOSK|← Ch 69]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 71 - TOSK|Ch 71 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 69 - TOSK|← Ch 69]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 71 - TOSK|Ch 71 →]]
 
 ---
 

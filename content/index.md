@@ -56,7 +56,7 @@ Every feature of The Hyperlinked Bible serves one purpose: **helping you read Sc
 
 | Resource | What You'll Find |
 |----------|------------------|
-| [[Home/Scripture/Trajectory Tables Index\|Trajectory Tables]] | 126 typological studies from OT to NT |
-| [[Home/Scripture/Chiasm Index\|Chiasms]] | 1,732 literary structures |
-| [[Home/Scripture/Intertextuality Pairs Index\|Intertextuality Pairs]] | 2,587 cross-references |
-| [[Home/Scripture/TOSK Index\|Treasury of Scripture Knowledge]] | 500,000+ classic cross-references |
+| [[Home/Indexes/Trajectory Tables Index\|Trajectory Tables]] | 126 typological studies from OT to NT |
+| [[Home/Indexes/Chiasm Index\|Chiasms]] | 1,732 literary structures |
+| [[Home/Indexes/Intertextuality Pairs Index\|Intertextuality Pairs]] | 2,587 cross-references |
+| [[Home/Indexes/TOSK Index\|Treasury of Scripture Knowledge]] | 500,000+ classic cross-references |

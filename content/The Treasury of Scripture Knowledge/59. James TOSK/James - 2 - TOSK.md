@@ -3,7 +3,7 @@ Folder: TOSK
 Name: James 2 TOSK
 ---
 
-**[[Home/Scripture/59 - James|← James]]** | [[The Treasury of Scripture Knowledge/59. James TOSK/James - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/59. James TOSK/James - 3 - TOSK|Ch 3 →]]
+**[[Home/Indexes/Readable Bible/59 - James|← James]]** | [[The Treasury of Scripture Knowledge/59. James TOSK/James - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/59. James TOSK/James - 3 - TOSK|Ch 3 →]]
 
 ---
 

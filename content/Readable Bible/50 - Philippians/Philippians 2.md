@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Philippians-R 2
 
-**[[Home/Scripture/50 - Philippians|Philippians]]**
+**[[Home/Indexes/Readable Bible/50 - Philippians|Philippians]]**
 
 [[Readable Bible/50 - Philippians/Philippians 1#Philippians-R 1| Philippians 1]] - [[Readable Bible/50 - Philippians/Philippians 3#Philippians-R 3| Philippians 3]]
 

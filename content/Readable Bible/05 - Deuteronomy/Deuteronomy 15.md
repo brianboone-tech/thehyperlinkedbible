@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Deuteronomy-R 15
 
-**[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 14#Deuteronomy-R 14| Deuteronomy 14]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 16#Deuteronomy-R 16| Deuteronomy 16]]
 

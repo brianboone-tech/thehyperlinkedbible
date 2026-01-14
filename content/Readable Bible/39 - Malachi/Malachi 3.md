@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Malachi-R 3
 
-**[[Home/Scripture/39 - Malachi|Malachi]]**
+**[[Home/Indexes/Readable Bible/39 - Malachi|Malachi]]**
 
 [[Readable Bible/39 - Malachi/Malachi 2#Malachi-R 2| Malachi 2]] - [[Readable Bible/39 - Malachi/Malachi 4#Malachi-R 4| Malachi 4]]
 

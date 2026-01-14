@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 83 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 82 - TOSK|← Ch 82]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 84 - TOSK|Ch 84 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 82 - TOSK|← Ch 82]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 84 - TOSK|Ch 84 →]]
 
 ---
 

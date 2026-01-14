@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Leviticus 12 TOSK
 ---
 
-**[[Home/Scripture/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 13 - TOSK|Ch 13 →]]
+**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 13 - TOSK|Ch 13 →]]
 
 ---
 

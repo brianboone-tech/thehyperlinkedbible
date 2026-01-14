@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Deuteronomy-R 26
 
-**[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 25#Deuteronomy-R 25| Deuteronomy 25]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 27#Deuteronomy-R 27| Deuteronomy 27]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Zephaniah-R 3
 
-**[[Home/Scripture/36 - Zephaniah|Zephaniah]]**
+**[[Home/Indexes/Readable Bible/36 - Zephaniah|Zephaniah]]**
 
 [[Readable Bible/36 - Zephaniah/Zephaniah 2#Zephaniah-R 2| Zephaniah 2]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Joshua-R 17
 
-**[[Home/Scripture/06 - Joshua|Joshua]]**
+**[[Home/Indexes/Readable Bible/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 16#Joshua-R 16| Joshua 16]] - [[Readable Bible/06 - Joshua/Joshua 18#Joshua-R 18| Joshua 18]]
 

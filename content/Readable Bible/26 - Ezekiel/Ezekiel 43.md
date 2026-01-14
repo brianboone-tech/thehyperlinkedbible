@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ezekiel-R 43
 
-**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 42#Ezekiel-R 42| Ezekiel 42]] - [[Readable Bible/26 - Ezekiel/Ezekiel 44#Ezekiel-R 44| Ezekiel 44]]
 

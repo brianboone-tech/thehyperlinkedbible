@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 Samuel-R 6
 
-**[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
+**[[Home/Indexes/Readable Bible/09 - 1 Samuel|1 Samuel]]**
 
 [[Readable Bible/09 - 1 Samuel/1 Samuel 5#1 Samuel-R 5| 1 Samuel 5]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 7#1 Samuel-R 7| 1 Samuel 7]]
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Genesis 46 TOSK
 ---
 
-**[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 45 - TOSK|← Ch 45]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 47 - TOSK|Ch 47 →]]
+**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 45 - TOSK|← Ch 45]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 47 - TOSK|Ch 47 →]]
 
 ---
 

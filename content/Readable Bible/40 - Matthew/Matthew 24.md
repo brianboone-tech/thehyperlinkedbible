@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Matthew-R 24
 
-**[[Home/Scripture/40 - Matthew|Matthew]]**
+**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 23#Matthew-R 23| Matthew 23]] - [[Readable Bible/40 - Matthew/Matthew 25#Matthew-R 25| Matthew 25]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Exodus-R 27
 
-**[[Home/Scripture/02 - Exodus|Exodus]]**
+**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 26#Exodus-R 26| Exodus 26]] - [[Readable Bible/02 - Exodus/Exodus 28#Exodus-R 28| Exodus 28]]
 

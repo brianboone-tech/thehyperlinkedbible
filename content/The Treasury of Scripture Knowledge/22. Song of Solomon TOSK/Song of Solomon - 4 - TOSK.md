@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Song of Solomon 4 TOSK
 ---
 
-**[[Home/Scripture/22 - Song of Solomon|← Song of Solomon]]** | [[The Treasury of Scripture Knowledge/22. Song of Solomon TOSK/Song of Solomon - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/22. Song of Solomon TOSK/Song of Solomon - 5 - TOSK|Ch 5 →]]
+**[[Home/Indexes/Readable Bible/22 - Song of Solomon|← Song of Solomon]]** | [[The Treasury of Scripture Knowledge/22. Song of Solomon TOSK/Song of Solomon - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/22. Song of Solomon TOSK/Song of Solomon - 5 - TOSK|Ch 5 →]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Matthew 6 TOSK
 ---
 
-**[[Home/Scripture/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 7 - TOSK|Ch 7 →]]
+**[[Home/Indexes/Readable Bible/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 7 - TOSK|Ch 7 →]]
 
 ---
 

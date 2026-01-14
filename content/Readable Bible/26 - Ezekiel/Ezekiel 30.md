@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ezekiel-R 30
 
-**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 29#Ezekiel-R 29| Ezekiel 29]] - [[Readable Bible/26 - Ezekiel/Ezekiel 31#Ezekiel-R 31| Ezekiel 31]]
 

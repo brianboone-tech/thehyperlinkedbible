@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Jeremiah-R 47
 
-**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 46#Jeremiah-R 46| Jeremiah 46]] - [[Readable Bible/24 - Jeremiah/Jeremiah 48#Jeremiah-R 48| Jeremiah 48]]
 

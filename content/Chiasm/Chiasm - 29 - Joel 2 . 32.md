@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/29 - Joel|← Joel]]**
+**[[Home/Indexes/Readable Bible/29 - Joel|← Joel]]**
 
 ---
 

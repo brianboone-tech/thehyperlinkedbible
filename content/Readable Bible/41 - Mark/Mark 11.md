@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Mark-R 11
 
-**[[Home/Scripture/41 - Mark|Mark]]**
+**[[Home/Indexes/Readable Bible/41 - Mark|Mark]]**
 
 
 [[Readable Bible/41 - Mark/Mark 10#Mark-R 10| Mark 10]] - [[Readable Bible/41 - Mark/Mark 12#Mark-R 12| Mark 12]]

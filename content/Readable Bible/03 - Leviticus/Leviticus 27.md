@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Leviticus-R 27
 
-**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 26#Leviticus-R 26| Leviticus 26]]
 

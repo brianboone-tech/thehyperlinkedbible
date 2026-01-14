@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Isaiah-R 53
 
-**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 52#Isaiah-R 52| Isaiah 52]] - [[Readable Bible/23 - Isaiah/Isaiah 54#Isaiah-R 54| Isaiah 54]]
 

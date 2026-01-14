@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 15 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 16 - TOSK|Ch 16 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 16 - TOSK|Ch 16 →]]
 
 ---
 

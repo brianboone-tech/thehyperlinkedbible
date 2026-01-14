@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Song of Solomon-R 1
 
-**[[Home/Scripture/22 - Song of Solomon|Song of Solomon]]**
+**[[Home/Indexes/Readable Bible/22 - Song of Solomon|Song of Solomon]]**
 
 [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 12|←]] • [[Readable Bible/22 - Song of Solomon/Song of Solomon 2|→]]
 

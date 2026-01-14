@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Hosea-R 14
 
-**[[Home/Scripture/28 - Hosea|Hosea]]**
+**[[Home/Indexes/Readable Bible/28 - Hosea|Hosea]]**
 
 [[Readable Bible/28 - Hosea/Hosea 13#Hosea-R 13| Hosea 13]]
 

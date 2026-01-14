@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Hosea-R 8
 
-**[[Home/Scripture/28 - Hosea|Hosea]]**
+**[[Home/Indexes/Readable Bible/28 - Hosea|Hosea]]**
 
 [[Readable Bible/28 - Hosea/Hosea 7#Hosea-R 7| Hosea 7]] - [[Readable Bible/28 - Hosea/Hosea 9#Hosea-R 9| Hosea 9]]
 

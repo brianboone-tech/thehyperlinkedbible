@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 2 Chronicles-R 27
 
-**[[Home/Scripture/14 - 2 Chronicles|2 Chronicles]]**
+**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|2 Chronicles]]**
 
 [[Readable Bible/14 - 2 Chronicles/2 Chronicles 26#2 Chronicles-R 26| 2 Chronicles 26]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 28#2 Chronicles-R 28| 2 Chronicles 28]]
 

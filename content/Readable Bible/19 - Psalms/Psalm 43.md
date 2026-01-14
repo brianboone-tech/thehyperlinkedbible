@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 43
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 42#Psalm-R 42| Psalm 42]] - [[Readable Bible/19 - Psalms/Psalm 44#Psalm-R 44| Psalm 44]]
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Revelation 20 TOSK
 ---
 
-**[[Home/Scripture/66 - Revelation|← Revelation]]** | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 21 - TOSK|Ch 21 →]]
+**[[Home/Indexes/Readable Bible/66 - Revelation|← Revelation]]** | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 21 - TOSK|Ch 21 →]]
 
 ---
 

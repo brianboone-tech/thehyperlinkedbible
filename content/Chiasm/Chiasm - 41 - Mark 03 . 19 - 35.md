@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/41 - Mark|← Mark]]**
+**[[Home/Indexes/Readable Bible/41 - Mark|← Mark]]**
 
 ---
 

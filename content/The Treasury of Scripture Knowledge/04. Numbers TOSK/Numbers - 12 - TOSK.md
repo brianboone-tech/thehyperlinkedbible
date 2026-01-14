@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Numbers 12 TOSK
 ---
 
-**[[Home/Scripture/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 13 - TOSK|Ch 13 →]]
+**[[Home/Indexes/Readable Bible/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 13 - TOSK|Ch 13 →]]
 
 ---
 

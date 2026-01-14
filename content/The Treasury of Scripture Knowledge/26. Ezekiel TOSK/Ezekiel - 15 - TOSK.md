@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Ezekiel 15 TOSK
 ---
 
-**[[Home/Scripture/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 16 - TOSK|Ch 16 →]]
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 16 - TOSK|Ch 16 →]]
 
 ---
 

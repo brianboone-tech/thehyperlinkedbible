@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/40 - Matthew|← Matthew]]**
+**[[Home/Indexes/Readable Bible/40 - Matthew|← Matthew]]**
 
 ---
 

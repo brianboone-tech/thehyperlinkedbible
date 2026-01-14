@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Jeremiah 40 TOSK
 ---
 
-**[[Home/Scripture/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 39 - TOSK|← Ch 39]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 41 - TOSK|Ch 41 →]]
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 39 - TOSK|← Ch 39]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 41 - TOSK|Ch 41 →]]
 
 ---
 

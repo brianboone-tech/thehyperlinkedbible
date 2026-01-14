@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/48 - Galatians|← Galatians]]**
+**[[Home/Indexes/Readable Bible/48 - Galatians|← Galatians]]**
 
 ---
 

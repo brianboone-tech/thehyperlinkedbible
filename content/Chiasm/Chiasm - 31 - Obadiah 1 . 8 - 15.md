@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/31 - Obadiah|← Obadiah]]**
+**[[Home/Indexes/Readable Bible/31 - Obadiah|← Obadiah]]**
 
 ---
 

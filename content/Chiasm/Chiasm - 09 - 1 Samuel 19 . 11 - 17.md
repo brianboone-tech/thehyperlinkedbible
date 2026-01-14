@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/09 - 1 Samuel|← 1 Samuel]]**
+**[[Home/Indexes/Readable Bible/09 - 1 Samuel|← 1 Samuel]]**
 
 ---
 

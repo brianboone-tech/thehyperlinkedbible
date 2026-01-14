@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Revelation-R 22
 
-**[[Home/Scripture/66 - Revelation|Revelation]]**
+**[[Home/Indexes/Readable Bible/66 - Revelation|Revelation]]**
 
 [[Readable Bible/66 - Revelation/Revelation 21#Revelation-R 21| Revelation 21]] 
 

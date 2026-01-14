@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 31
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 30#Psalm-R 30| Psalm 30]] - [[Readable Bible/19 - Psalms/Psalm 32#Psalm-R 32| Psalm 32]]
 

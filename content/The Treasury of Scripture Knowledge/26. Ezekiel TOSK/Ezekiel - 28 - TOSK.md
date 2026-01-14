@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Ezekiel 28 TOSK
 ---
 
-**[[Home/Scripture/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK|← Ch 27]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 29 - TOSK|Ch 29 →]]
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 27 - TOSK|← Ch 27]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 29 - TOSK|Ch 29 →]]
 
 ---
 

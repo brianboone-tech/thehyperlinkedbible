@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Micah-R 5
 
-**[[Home/Scripture/33 - Micah|Micah]]**
+**[[Home/Indexes/Readable Bible/33 - Micah|Micah]]**
 
 [[Readable Bible/33 - Micah/Micah 4#Micah-R 4| Micah 4]] - [[Readable Bible/33 - Micah/Micah 6#Micah-R 6| Micah 6]]
 

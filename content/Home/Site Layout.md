@@ -28,12 +28,12 @@ Intertextuality Pairs ←  READABLE BIBLE  → Chiasms
 | Section | What It Contains | Purpose |
 |---------|------------------|---------|
 | **[[Readable Bible Index\|Readable Bible]]** | Full text with inline links | THE HUB - primary reading experience |
-| **[[Home/Scripture/Trajectory Tables Index\|Trajectory Tables]]** | 126 typological studies | Trace themes from OT shadow to NT fulfillment |
-| **[[Home/Scripture/Chiasm Index\|Chiasms]]** | 1,732 literary structures | See authorial emphasis through mirror patterns |
-| **[[Home/Scripture/Intertextuality Pairs Index\|Intertextuality Pairs]]** | 2,587 cross-references | How passages quote and echo each other |
+| **[[Home/Indexes/Trajectory Tables Index\|Trajectory Tables]]** | 126 typological studies | Trace themes from OT shadow to NT fulfillment |
+| **[[Home/Indexes/Chiasm Index\|Chiasms]]** | 1,732 literary structures | See authorial emphasis through mirror patterns |
+| **[[Home/Indexes/Intertextuality Pairs Index\|Intertextuality Pairs]]** | 2,587 cross-references | How passages quote and echo each other |
 | **Reference Bible** | Word-by-word interlinear | Hebrew/Greek study of every word |
 | **Lexicon** | Hebrew & Greek definitions | Original language word studies |
-| **[[Home/Scripture/TOSK Index\|Treasury of Scripture Knowledge]]** | 500,000+ cross-references | Classic comprehensive cross-reference resource |
+| **[[Home/Indexes/TOSK Index\|Treasury of Scripture Knowledge]]** | 500,000+ cross-references | Classic comprehensive cross-reference resource |
 
 ---
 

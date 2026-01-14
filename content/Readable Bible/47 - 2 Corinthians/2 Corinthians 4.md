@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 2 Corinthians-R 4
 
-**[[Home/Scripture/47 - 2 Corinthians|2 Corinthians]]**
+**[[Home/Indexes/Readable Bible/47 - 2 Corinthians|2 Corinthians]]**
 
 [[Readable Bible/47 - 2 Corinthians/2 Corinthians 3#2 Corinthians-R 3| 2 Corinthians 3]] - [[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians-R 5| 2 Corinthians 5]]
 

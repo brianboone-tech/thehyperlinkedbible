@@ -10,7 +10,7 @@ cssclasses:
 
 # Joshua-R 10
 
-**[[Home/Scripture/06 - Joshua|Joshua]]**
+**[[Home/Indexes/Readable Bible/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 9#Joshua-R 9| Joshua 9]] - [[Readable Bible/06 - Joshua/Joshua 11#Joshua-R 11| Joshua 11]]
 

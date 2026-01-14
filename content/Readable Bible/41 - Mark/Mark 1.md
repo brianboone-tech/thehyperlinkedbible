@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Mark-R 1
 
-**[[Home/Scripture/41 - Mark|Mark]]**
+**[[Home/Indexes/Readable Bible/41 - Mark|Mark]]**
 
 [[Readable Bible/40 - Matthew/Matthew 28#Matthew-R 28|Matthew 28]] • [[Readable Bible/41 - Mark/Mark 2#Mark-R 2|Mark 2]]
 

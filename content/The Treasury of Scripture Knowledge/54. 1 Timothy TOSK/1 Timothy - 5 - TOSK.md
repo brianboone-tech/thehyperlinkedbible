@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 1 Timothy 5 TOSK
 ---
 
-**[[Home/Scripture/54 - 1 Timothy|← 1 Timothy]]** | [[The Treasury of Scripture Knowledge/54. 1 Timothy TOSK/1 Timothy - 4 - TOSK|← Ch 4]] | [[The Treasury of Scripture Knowledge/54. 1 Timothy TOSK/1 Timothy - 6 - TOSK|Ch 6 →]]
+**[[Home/Indexes/Readable Bible/54 - 1 Timothy|← 1 Timothy]]** | [[The Treasury of Scripture Knowledge/54. 1 Timothy TOSK/1 Timothy - 4 - TOSK|← Ch 4]] | [[The Treasury of Scripture Knowledge/54. 1 Timothy TOSK/1 Timothy - 6 - TOSK|Ch 6 →]]
 
 ---
 

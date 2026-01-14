@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Genesis-R 40
 
-**[[Home/Scripture/01 - Genesis|Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 39#Genesis-R 39| Genesis 39]] - [[Readable Bible/01 - Genesis/Genesis 41#Genesis-R 41| Genesis 41]]
 

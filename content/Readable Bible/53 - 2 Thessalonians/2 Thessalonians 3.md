@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 2 Thessalonians-R 3
 
-**[[Home/Scripture/53 - 2 Thessalonians|2 Thessalonians]]**
+**[[Home/Indexes/Readable Bible/53 - 2 Thessalonians|2 Thessalonians]]**
 
 [[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 2#2 Thessalonians-R 2| 2 Thessalonians 2]]
 

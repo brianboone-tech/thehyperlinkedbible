@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 10
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 9#Psalm-R 9| Psalm 9]] - [[Readable Bible/19 - Psalms/Psalm 11#Psalm-R 11| Psalm 11]]
 

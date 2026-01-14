@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Leviticus-R 17
 
-**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 16#Leviticus-R 16| Leviticus 16]] - [[Readable Bible/03 - Leviticus/Leviticus 18#Leviticus-R 18| Leviticus 18]]
 

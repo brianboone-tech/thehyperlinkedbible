@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Joshua-R 14
 
-**[[Home/Scripture/06 - Joshua|Joshua]]**
+**[[Home/Indexes/Readable Bible/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 13#Joshua-R 13| Joshua 13]] - [[Readable Bible/06 - Joshua/Joshua 15#Joshua-R 15| Joshua 15]]
 

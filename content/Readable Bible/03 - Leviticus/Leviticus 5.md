@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Leviticus-R 5
 
-**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 4#Leviticus-R 4| Leviticus 4]] - [[Readable Bible/03 - Leviticus/Leviticus 6#Leviticus-R 6| Leviticus 6]]
 

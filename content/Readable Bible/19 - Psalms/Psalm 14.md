@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 14
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 13#Psalm-R 13| Psalm 13]] - [[Readable Bible/19 - Psalms/Psalm 15#Psalm-R 15| Psalm 15]]
 

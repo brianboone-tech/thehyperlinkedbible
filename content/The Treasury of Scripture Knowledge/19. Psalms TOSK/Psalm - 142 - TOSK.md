@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 142 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 141 - TOSK|← Ch 141]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 143 - TOSK|Ch 143 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 141 - TOSK|← Ch 141]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 143 - TOSK|Ch 143 →]]
 
 ---
 

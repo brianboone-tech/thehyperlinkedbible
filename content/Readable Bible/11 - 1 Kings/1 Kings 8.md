@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 Kings-R 8
 
-**[[Home/Scripture/11 - 1 Kings|1 Kings]]**
+**[[Home/Indexes/Readable Bible/11 - 1 Kings|1 Kings]]**
 
 [[Readable Bible/11 - 1 Kings/1 Kings 7#1 Kings-R 7| 1 Kings 7]] - [[Readable Bible/11 - 1 Kings/1 Kings 9#1 Kings-R 9| 1 Kings 9]]
 

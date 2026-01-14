@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/37 - Haggai|← Haggai]]**
+**[[Home/Indexes/Readable Bible/37 - Haggai|← Haggai]]**
 
 ---
 

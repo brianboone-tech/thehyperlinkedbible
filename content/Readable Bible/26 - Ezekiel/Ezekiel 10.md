@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ezekiel-R 10
 
-**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 9#Ezekiel-R 9| Ezekiel 9]] - [[Readable Bible/26 - Ezekiel/Ezekiel 11#Ezekiel-R 11| Ezekiel 11]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 1 Samuel-R 31
 
-**[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
+**[[Home/Indexes/Readable Bible/09 - 1 Samuel|1 Samuel]]**
 
 [[Readable Bible/09 - 1 Samuel/1 Samuel 30#1 Samuel-R 30| 1 Samuel 30]]
 

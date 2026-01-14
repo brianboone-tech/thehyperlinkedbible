@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Kings 24 TOSK
 ---
 
-**[[Home/Scripture/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 23 - TOSK|← Ch 23]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 25 - TOSK|Ch 25 →]]
+**[[Home/Indexes/Readable Bible/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 23 - TOSK|← Ch 23]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 25 - TOSK|Ch 25 →]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Jude 1 TOSK
 ---
 
-**[[Home/Scripture/65 - Jude|← Jude]]**
+**[[Home/Indexes/Readable Bible/65 - Jude|← Jude]]**
 
 ---
 

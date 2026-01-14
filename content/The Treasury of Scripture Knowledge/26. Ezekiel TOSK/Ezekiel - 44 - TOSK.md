@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Ezekiel 44 TOSK
 ---
 
-**[[Home/Scripture/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 43 - TOSK|← Ch 43]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 45 - TOSK|Ch 45 →]]
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 43 - TOSK|← Ch 43]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 45 - TOSK|Ch 45 →]]
 
 ---
 

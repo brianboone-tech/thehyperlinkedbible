@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Isaiah-R 38
 
-**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 37#Isaiah-R 37| Isaiah 37]] - [[Readable Bible/23 - Isaiah/Isaiah 39#Isaiah-R 39| Isaiah 39]]
 

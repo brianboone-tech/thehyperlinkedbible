@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Jeremiah-R 37
 
-**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 36#Jeremiah-R 36| Jeremiah 36]] - [[Readable Bible/24 - Jeremiah/Jeremiah 38#Jeremiah-R 38| Jeremiah 38]]
 

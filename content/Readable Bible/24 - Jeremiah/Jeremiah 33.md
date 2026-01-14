@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Jeremiah-R 33
 
-**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 32#Jeremiah-R 32| Jeremiah 32]] - [[Readable Bible/24 - Jeremiah/Jeremiah 34#Jeremiah-R 34| Jeremiah 34]]
 

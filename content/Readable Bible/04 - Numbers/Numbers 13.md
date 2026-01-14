@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Numbers-R 13
 
-**[[Home/Scripture/04 - Numbers|Numbers]]**
+**[[Home/Indexes/Readable Bible/04 - Numbers|Numbers]]**
 
 [[Readable Bible/04 - Numbers/Numbers 12#Numbers-R 12| Numbers 12]] - [[Readable Bible/04 - Numbers/Numbers 14#Numbers-R 14| Numbers 14]]
 

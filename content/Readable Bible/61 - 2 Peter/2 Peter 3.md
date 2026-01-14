@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 2 Peter-R 3
 
-**[[Home/Scripture/61 - 2 Peter|2 Peter]]**
+**[[Home/Indexes/Readable Bible/61 - 2 Peter|2 Peter]]**
 
 [[Readable Bible/61 - 2 Peter/2 Peter 2#2 Peter-R 2| 2 Peter 2]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 2 Chronicles-R 34
 
-**[[Home/Scripture/14 - 2 Chronicles|2 Chronicles]]**
+**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|2 Chronicles]]**
 
 [[Readable Bible/14 - 2 Chronicles/2 Chronicles 33#2 Chronicles-R 33| 2 Chronicles 33]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 35#2 Chronicles-R 35| 2 Chronicles 35]]
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Leviticus 17 TOSK
 ---
 
-**[[Home/Scripture/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 18 - TOSK|Ch 18 →]]
+**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 18 - TOSK|Ch 18 →]]
 
 ---
 

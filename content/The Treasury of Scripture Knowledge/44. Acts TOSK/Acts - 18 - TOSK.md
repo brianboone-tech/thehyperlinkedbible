@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Acts 18 TOSK
 ---
 
-**[[Home/Scripture/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 17 - TOSK|← Ch 17]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 19 - TOSK|Ch 19 →]]
+**[[Home/Indexes/Readable Bible/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 17 - TOSK|← Ch 17]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 19 - TOSK|Ch 19 →]]
 
 ---
 

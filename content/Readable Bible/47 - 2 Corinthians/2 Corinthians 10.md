@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # 2 Corinthians-R 10
 
-**[[Home/Scripture/47 - 2 Corinthians|2 Corinthians]]**
+**[[Home/Indexes/Readable Bible/47 - 2 Corinthians|2 Corinthians]]**
 
 [[Readable Bible/47 - 2 Corinthians/2 Corinthians 9#2 Corinthians-R 9| 2 Corinthians 9]] - [[Readable Bible/47 - 2 Corinthians/2 Corinthians 11#2 Corinthians-R 11| 2 Corinthians 11]]
 

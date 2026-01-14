@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/27 - Daniel|← Daniel]]**
+**[[Home/Indexes/Readable Bible/27 - Daniel|← Daniel]]**
 
 ---
 

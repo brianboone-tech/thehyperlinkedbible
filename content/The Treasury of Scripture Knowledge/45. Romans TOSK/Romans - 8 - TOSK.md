@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Romans 8 TOSK
 ---
 
-**[[Home/Scripture/45 - Romans|← Romans]]** | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 9 - TOSK|Ch 9 →]]
+**[[Home/Indexes/Readable Bible/45 - Romans|← Romans]]** | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 9 - TOSK|Ch 9 →]]
 
 ---
 

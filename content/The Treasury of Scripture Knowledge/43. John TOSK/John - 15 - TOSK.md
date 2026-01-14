@@ -3,7 +3,7 @@ Folder: TOSK
 Name: John 15 TOSK
 ---
 
-**[[Home/Scripture/43 - John|← John]]** | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 16 - TOSK|Ch 16 →]]
+**[[Home/Indexes/Readable Bible/43 - John|← John]]** | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 16 - TOSK|Ch 16 →]]
 
 ---
 

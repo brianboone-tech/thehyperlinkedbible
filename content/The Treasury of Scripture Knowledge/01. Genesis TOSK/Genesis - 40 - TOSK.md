@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Genesis 40 TOSK
 ---
 
-**[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 39 - TOSK|← Ch 39]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 41 - TOSK|Ch 41 →]]
+**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 39 - TOSK|← Ch 39]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 41 - TOSK|Ch 41 →]]
 
 ---
 

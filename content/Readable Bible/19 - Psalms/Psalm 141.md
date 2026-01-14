@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 141
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 140#Psalm-R 140| Psalm 140]] - [[Readable Bible/19 - Psalms/Psalm 142#Psalm-R 142| Psalm 142]]
 

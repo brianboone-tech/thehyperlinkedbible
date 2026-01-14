@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 66
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 65#Psalm-R 65| Psalm 65]] - [[Readable Bible/19 - Psalms/Psalm 67#Psalm-R 67| Psalm 67]]
 

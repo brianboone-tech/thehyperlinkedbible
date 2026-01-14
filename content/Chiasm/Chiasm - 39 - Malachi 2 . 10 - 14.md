@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/39 - Malachi|← Malachi]]**
+**[[Home/Indexes/Readable Bible/39 - Malachi|← Malachi]]**
 
 ---
 

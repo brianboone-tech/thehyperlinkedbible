@@ -21,11 +21,11 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 | Book | Ch | IPs | TTs | Key Themes |
 |------|:--:|:---:|:---:|------------|
-| <b>[[Home/Scripture/01 - Genesis\|Genesis]]</b> | 50 | 99 | 86 | Creation, Fall, Promise, Patriarchs |
-| <b>[[Home/Scripture/02 - Exodus\|Exodus]]</b> | 40 | 85 | 72 | Redemption, Passover, Covenant, Tabernacle |
-| <b>[[Home/Scripture/03 - Leviticus\|Leviticus]]</b> | 27 | 45 | 58 | Holiness, Sacrifice, Priesthood, Feasts |
-| <b>[[Home/Scripture/04 - Numbers\|Numbers]]</b> | 36 | 32 | 24 | Wilderness, Testing, Census, Journey |
-| <b>[[Home/Scripture/05 - Deuteronomy\|Deuteronomy]]</b> | 34 | 78 | 45 | Covenant Renewal, Law, Blessing/Curse |
+| <b>[[Home/Indexes/Readable Bible/01 - Genesis\|Genesis]]</b> | 50 | 99 | 86 | Creation, Fall, Promise, Patriarchs |
+| <b>[[Home/Indexes/Readable Bible/02 - Exodus\|Exodus]]</b> | 40 | 85 | 72 | Redemption, Passover, Covenant, Tabernacle |
+| <b>[[Home/Indexes/Readable Bible/03 - Leviticus\|Leviticus]]</b> | 27 | 45 | 58 | Holiness, Sacrifice, Priesthood, Feasts |
+| <b>[[Home/Indexes/Readable Bible/04 - Numbers\|Numbers]]</b> | 36 | 32 | 24 | Wilderness, Testing, Census, Journey |
+| <b>[[Home/Indexes/Readable Bible/05 - Deuteronomy\|Deuteronomy]]</b> | 34 | 78 | 45 | Covenant Renewal, Law, Blessing/Curse |
 
 ---
 
@@ -35,18 +35,18 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 | Book | Ch | IPs | Key Themes |
 |------|:--:|:---:|------------|
-| <b>[[Home/Scripture/06 - Joshua\|Joshua]]</b> | 24 | 28 | Conquest, Rest, Inheritance |
-| <b>[[Home/Scripture/07 - Judges\|Judges]]</b> | 21 | 18 | Cycles of Sin, Flawed Deliverers |
-| <b>[[Home/Scripture/08 - Ruth\|Ruth]]</b> | 4 | 12 | Kinsman Redeemer, Davidic Line |
-| <b>[[Home/Scripture/09 - 1 Samuel\|1 Samuel]]</b> | 31 | 35 | Monarchy, Saul, David's Rise |
-| <b>[[Home/Scripture/10 - 2 Samuel\|2 Samuel]]</b> | 24 | 42 | Davidic Covenant, Kingdom |
-| <b>[[Home/Scripture/11 - 1 Kings\|1 Kings]]</b> | 22 | 38 | Solomon, Temple, Division |
-| <b>[[Home/Scripture/12 - 2 Kings\|2 Kings]]</b> | 25 | 31 | Prophets, Exile |
-| <b>[[Home/Scripture/13 - 1 Chronicles\|1 Chronicles]]</b> | 29 | 22 | Genealogies, David, Temple Prep |
-| <b>[[Home/Scripture/14 - 2 Chronicles\|2 Chronicles]]</b> | 36 | 28 | Temple, Kings, Exile/Return |
-| <b>[[Home/Scripture/15 - Ezra\|Ezra]]</b> | 10 | 15 | Return, Temple Rebuilt |
-| <b>[[Home/Scripture/16 - Nehemiah\|Nehemiah]]</b> | 13 | 12 | Walls, Covenant Renewal |
-| <b>[[Home/Scripture/17 - Esther\|Esther]]</b> | 10 | 8 | Providence, Preservation |
+| <b>[[Home/Indexes/Readable Bible/06 - Joshua\|Joshua]]</b> | 24 | 28 | Conquest, Rest, Inheritance |
+| <b>[[Home/Indexes/Readable Bible/07 - Judges\|Judges]]</b> | 21 | 18 | Cycles of Sin, Flawed Deliverers |
+| <b>[[Home/Indexes/Readable Bible/08 - Ruth\|Ruth]]</b> | 4 | 12 | Kinsman Redeemer, Davidic Line |
+| <b>[[Home/Indexes/Readable Bible/09 - 1 Samuel\|1 Samuel]]</b> | 31 | 35 | Monarchy, Saul, David's Rise |
+| <b>[[Home/Indexes/Readable Bible/10 - 2 Samuel\|2 Samuel]]</b> | 24 | 42 | Davidic Covenant, Kingdom |
+| <b>[[Home/Indexes/Readable Bible/11 - 1 Kings\|1 Kings]]</b> | 22 | 38 | Solomon, Temple, Division |
+| <b>[[Home/Indexes/Readable Bible/12 - 2 Kings\|2 Kings]]</b> | 25 | 31 | Prophets, Exile |
+| <b>[[Home/Indexes/Readable Bible/13 - 1 Chronicles\|1 Chronicles]]</b> | 29 | 22 | Genealogies, David, Temple Prep |
+| <b>[[Home/Indexes/Readable Bible/14 - 2 Chronicles\|2 Chronicles]]</b> | 36 | 28 | Temple, Kings, Exile/Return |
+| <b>[[Home/Indexes/Readable Bible/15 - Ezra\|Ezra]]</b> | 10 | 15 | Return, Temple Rebuilt |
+| <b>[[Home/Indexes/Readable Bible/16 - Nehemiah\|Nehemiah]]</b> | 13 | 12 | Walls, Covenant Renewal |
+| <b>[[Home/Indexes/Readable Bible/17 - Esther\|Esther]]</b> | 10 | 8 | Providence, Preservation |
 
 ---
 
@@ -56,11 +56,11 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 | Book | Ch | IPs | Key Themes |
 |------|:--:|:---:|------------|
-| <b>[[Home/Scripture/18 - Job\|Job]]</b> | 42 | 25 | Suffering, Sovereignty, Vindication |
-| <b>[[Home/Scripture/19 - Psalms\|Psalms]]</b> | 150 | 180 | Worship, Lament, Messianic Hope |
-| <b>[[Home/Scripture/20 - Proverbs\|Proverbs]]</b> | 31 | 35 | Wisdom, Fear of the Lord |
-| <b>[[Home/Scripture/21 - Ecclesiastes\|Ecclesiastes]]</b> | 12 | 18 | Meaning, Vanity, Eternity |
-| <b>[[Home/Scripture/22 - Song of Solomon\|Song of Solomon]]</b> | 8 | 12 | Love, Christ & Church |
+| <b>[[Home/Indexes/Readable Bible/18 - Job\|Job]]</b> | 42 | 25 | Suffering, Sovereignty, Vindication |
+| <b>[[Home/Indexes/Readable Bible/19 - Psalms\|Psalms]]</b> | 150 | 180 | Worship, Lament, Messianic Hope |
+| <b>[[Home/Indexes/Readable Bible/20 - Proverbs\|Proverbs]]</b> | 31 | 35 | Wisdom, Fear of the Lord |
+| <b>[[Home/Indexes/Readable Bible/21 - Ecclesiastes\|Ecclesiastes]]</b> | 12 | 18 | Meaning, Vanity, Eternity |
+| <b>[[Home/Indexes/Readable Bible/22 - Song of Solomon\|Song of Solomon]]</b> | 8 | 12 | Love, Christ & Church |
 
 ---
 
@@ -70,11 +70,11 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 | Book | Ch | IPs | Key Themes |
 |------|:--:|:---:|------------|
-| <b>[[Home/Scripture/23 - Isaiah\|Isaiah]]</b> | 66 | 145 | Servant, New Exodus, Holy One |
-| <b>[[Home/Scripture/24 - Jeremiah\|Jeremiah]]</b> | 52 | 92 | New Covenant, Judgment, Hope |
-| <b>[[Home/Scripture/25 - Lamentations\|Lamentations]]</b> | 5 | 15 | Grief, Judgment, Faithfulness |
-| <b>[[Home/Scripture/26 - Ezekiel\|Ezekiel]]</b> | 48 | 78 | Glory, Temple, Resurrection |
-| <b>[[Home/Scripture/27 - Daniel\|Daniel]]</b> | 12 | 55 | Kingdoms, Son of Man, End Times |
+| <b>[[Home/Indexes/Readable Bible/23 - Isaiah\|Isaiah]]</b> | 66 | 145 | Servant, New Exodus, Holy One |
+| <b>[[Home/Indexes/Readable Bible/24 - Jeremiah\|Jeremiah]]</b> | 52 | 92 | New Covenant, Judgment, Hope |
+| <b>[[Home/Indexes/Readable Bible/25 - Lamentations\|Lamentations]]</b> | 5 | 15 | Grief, Judgment, Faithfulness |
+| <b>[[Home/Indexes/Readable Bible/26 - Ezekiel\|Ezekiel]]</b> | 48 | 78 | Glory, Temple, Resurrection |
+| <b>[[Home/Indexes/Readable Bible/27 - Daniel\|Daniel]]</b> | 12 | 55 | Kingdoms, Son of Man, End Times |
 
 ---
 
@@ -84,18 +84,18 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 | Book | Ch | IPs | Key Themes |
 |------|:--:|:---:|------------|
-| <b>[[Home/Scripture/28 - Hosea\|Hosea]]</b> | 14 | 28 | Covenant Love, Restoration |
-| <b>[[Home/Scripture/29 - Joel\|Joel]]</b> | 3 | 18 | Day of the Lord, Spirit |
-| <b>[[Home/Scripture/30 - Amos\|Amos]]</b> | 9 | 22 | Justice, Judgment |
-| <b>[[Home/Scripture/31 - Obadiah\|Obadiah]]</b> | 1 | 8 | Edom's Fall |
-| <b>[[Home/Scripture/32 - Jonah\|Jonah]]</b> | 4 | 15 | Mercy, Mission, Sign |
-| <b>[[Home/Scripture/33 - Micah\|Micah]]</b> | 7 | 25 | Bethlehem, Justice, Mercy |
-| <b>[[Home/Scripture/34 - Nahum\|Nahum]]</b> | 3 | 10 | Nineveh's Fall |
-| <b>[[Home/Scripture/35 - Habakkuk\|Habakkuk]]</b> | 3 | 12 | Faith, Theodicy |
-| <b>[[Home/Scripture/36 - Zephaniah\|Zephaniah]]</b> | 3 | 14 | Day of the Lord |
-| <b>[[Home/Scripture/37 - Haggai\|Haggai]]</b> | 2 | 10 | Temple Rebuilding |
-| <b>[[Home/Scripture/38 - Zechariah\|Zechariah]]</b> | 14 | 48 | Messiah, Visions |
-| <b>[[Home/Scripture/39 - Malachi\|Malachi]]</b> | 4 | 18 | Covenant, Messenger |
+| <b>[[Home/Indexes/Readable Bible/28 - Hosea\|Hosea]]</b> | 14 | 28 | Covenant Love, Restoration |
+| <b>[[Home/Indexes/Readable Bible/29 - Joel\|Joel]]</b> | 3 | 18 | Day of the Lord, Spirit |
+| <b>[[Home/Indexes/Readable Bible/30 - Amos\|Amos]]</b> | 9 | 22 | Justice, Judgment |
+| <b>[[Home/Indexes/Readable Bible/31 - Obadiah\|Obadiah]]</b> | 1 | 8 | Edom's Fall |
+| <b>[[Home/Indexes/Readable Bible/32 - Jonah\|Jonah]]</b> | 4 | 15 | Mercy, Mission, Sign |
+| <b>[[Home/Indexes/Readable Bible/33 - Micah\|Micah]]</b> | 7 | 25 | Bethlehem, Justice, Mercy |
+| <b>[[Home/Indexes/Readable Bible/34 - Nahum\|Nahum]]</b> | 3 | 10 | Nineveh's Fall |
+| <b>[[Home/Indexes/Readable Bible/35 - Habakkuk\|Habakkuk]]</b> | 3 | 12 | Faith, Theodicy |
+| <b>[[Home/Indexes/Readable Bible/36 - Zephaniah\|Zephaniah]]</b> | 3 | 14 | Day of the Lord |
+| <b>[[Home/Indexes/Readable Bible/37 - Haggai\|Haggai]]</b> | 2 | 10 | Temple Rebuilding |
+| <b>[[Home/Indexes/Readable Bible/38 - Zechariah\|Zechariah]]</b> | 14 | 48 | Messiah, Visions |
+| <b>[[Home/Indexes/Readable Bible/39 - Malachi\|Malachi]]</b> | 4 | 18 | Covenant, Messenger |
 
 ---
 
@@ -107,11 +107,11 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 | Book | Ch | OT Refs | Key Themes |
 |------|:--:|:-------:|------------|
-| <b>[[Home/Scripture/40 - Matthew\|Matthew]]</b> | 28 | 130 | King, Kingdom, Fulfillment |
-| <b>[[Home/Scripture/41 - Mark\|Mark]]</b> | 16 | 68 | Servant, Action, Suffering |
-| <b>[[Home/Scripture/42 - Luke\|Luke]]</b> | 24 | 95 | Savior, Humanity, Outsiders |
-| <b>[[Home/Scripture/43 - John\|John]]</b> | 21 | 85 | Word, Signs, Life |
-| <b>[[Home/Scripture/44 - Acts\|Acts]]</b> | 28 | 75 | Spirit, Mission, Church |
+| <b>[[Home/Indexes/Readable Bible/40 - Matthew\|Matthew]]</b> | 28 | 130 | King, Kingdom, Fulfillment |
+| <b>[[Home/Indexes/Readable Bible/41 - Mark\|Mark]]</b> | 16 | 68 | Servant, Action, Suffering |
+| <b>[[Home/Indexes/Readable Bible/42 - Luke\|Luke]]</b> | 24 | 95 | Savior, Humanity, Outsiders |
+| <b>[[Home/Indexes/Readable Bible/43 - John\|John]]</b> | 21 | 85 | Word, Signs, Life |
+| <b>[[Home/Indexes/Readable Bible/44 - Acts\|Acts]]</b> | 28 | 75 | Spirit, Mission, Church |
 
 ---
 
@@ -121,19 +121,19 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 | Book | Ch | OT Refs | Key Themes |
 |------|:--:|:-------:|------------|
-| <b>[[Home/Scripture/45 - Romans\|Romans]]</b> | 16 | 85 | Gospel, Justification, Israel |
-| <b>[[Home/Scripture/46 - 1 Corinthians\|1 Corinthians]]</b> | 16 | 42 | Church Order, Resurrection |
-| <b>[[Home/Scripture/47 - 2 Corinthians\|2 Corinthians]]</b> | 13 | 28 | Ministry, New Covenant |
-| <b>[[Home/Scripture/48 - Galatians\|Galatians]]</b> | 6 | 22 | Freedom, Faith, Spirit |
-| <b>[[Home/Scripture/49 - Ephesians\|Ephesians]]</b> | 6 | 18 | Church, Unity, Armor |
-| <b>[[Home/Scripture/50 - Philippians\|Philippians]]</b> | 4 | 8 | Joy, Christ-Hymn |
-| <b>[[Home/Scripture/51 - Colossians\|Colossians]]</b> | 4 | 12 | Christ's Supremacy |
-| <b>[[Home/Scripture/52 - 1 Thessalonians\|1 Thessalonians]]</b> | 5 | 10 | Return of Christ |
-| <b>[[Home/Scripture/53 - 2 Thessalonians\|2 Thessalonians]]</b> | 3 | 8 | Day of the Lord |
-| <b>[[Home/Scripture/54 - 1 Timothy\|1 Timothy]]</b> | 6 | 12 | Church Leadership |
-| <b>[[Home/Scripture/55 - 2 Timothy\|2 Timothy]]</b> | 4 | 10 | Endurance, Scripture |
-| <b>[[Home/Scripture/56 - Titus\|Titus]]</b> | 3 | 6 | Good Works |
-| <b>[[Home/Scripture/57 - Philemon\|Philemon]]</b> | 1 | 2 | Reconciliation |
+| <b>[[Home/Indexes/Readable Bible/45 - Romans\|Romans]]</b> | 16 | 85 | Gospel, Justification, Israel |
+| <b>[[Home/Indexes/Readable Bible/46 - 1 Corinthians\|1 Corinthians]]</b> | 16 | 42 | Church Order, Resurrection |
+| <b>[[Home/Indexes/Readable Bible/47 - 2 Corinthians\|2 Corinthians]]</b> | 13 | 28 | Ministry, New Covenant |
+| <b>[[Home/Indexes/Readable Bible/48 - Galatians\|Galatians]]</b> | 6 | 22 | Freedom, Faith, Spirit |
+| <b>[[Home/Indexes/Readable Bible/49 - Ephesians\|Ephesians]]</b> | 6 | 18 | Church, Unity, Armor |
+| <b>[[Home/Indexes/Readable Bible/50 - Philippians\|Philippians]]</b> | 4 | 8 | Joy, Christ-Hymn |
+| <b>[[Home/Indexes/Readable Bible/51 - Colossians\|Colossians]]</b> | 4 | 12 | Christ's Supremacy |
+| <b>[[Home/Indexes/Readable Bible/52 - 1 Thessalonians\|1 Thessalonians]]</b> | 5 | 10 | Return of Christ |
+| <b>[[Home/Indexes/Readable Bible/53 - 2 Thessalonians\|2 Thessalonians]]</b> | 3 | 8 | Day of the Lord |
+| <b>[[Home/Indexes/Readable Bible/54 - 1 Timothy\|1 Timothy]]</b> | 6 | 12 | Church Leadership |
+| <b>[[Home/Indexes/Readable Bible/55 - 2 Timothy\|2 Timothy]]</b> | 4 | 10 | Endurance, Scripture |
+| <b>[[Home/Indexes/Readable Bible/56 - Titus\|Titus]]</b> | 3 | 6 | Good Works |
+| <b>[[Home/Indexes/Readable Bible/57 - Philemon\|Philemon]]</b> | 1 | 2 | Reconciliation |
 
 ---
 
@@ -143,15 +143,15 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 | Book | Ch | OT Refs | Key Themes |
 |------|:--:|:-------:|------------|
-| <b>[[Home/Scripture/58 - Hebrews\|Hebrews]]</b> | 13 | 95 | Better Covenant, Priesthood |
-| <b>[[Home/Scripture/59 - James\|James]]</b> | 5 | 18 | Faith & Works, Wisdom |
-| <b>[[Home/Scripture/60 - 1 Peter\|1 Peter]]</b> | 5 | 32 | Suffering, Hope, Priesthood |
-| <b>[[Home/Scripture/61 - 2 Peter\|2 Peter]]</b> | 3 | 15 | False Teachers, Return |
-| <b>[[Home/Scripture/62 - 1 John\|1 John]]</b> | 5 | 12 | Fellowship, Love, Truth |
-| <b>[[Home/Scripture/63 - 2 John\|2 John]]</b> | 1 | 3 | Truth, Love |
-| <b>[[Home/Scripture/64 - 3 John\|3 John]]</b> | 1 | 2 | Hospitality |
-| <b>[[Home/Scripture/65 - Jude\|Jude]]</b> | 1 | 12 | Contend for Faith |
-| <b>[[Home/Scripture/66 - Revelation\|Revelation]]</b> | 22 | 285 | Victory, New Creation |
+| <b>[[Home/Indexes/Readable Bible/58 - Hebrews\|Hebrews]]</b> | 13 | 95 | Better Covenant, Priesthood |
+| <b>[[Home/Indexes/Readable Bible/59 - James\|James]]</b> | 5 | 18 | Faith & Works, Wisdom |
+| <b>[[Home/Indexes/Readable Bible/60 - 1 Peter\|1 Peter]]</b> | 5 | 32 | Suffering, Hope, Priesthood |
+| <b>[[Home/Indexes/Readable Bible/61 - 2 Peter\|2 Peter]]</b> | 3 | 15 | False Teachers, Return |
+| <b>[[Home/Indexes/Readable Bible/62 - 1 John\|1 John]]</b> | 5 | 12 | Fellowship, Love, Truth |
+| <b>[[Home/Indexes/Readable Bible/63 - 2 John\|2 John]]</b> | 1 | 3 | Truth, Love |
+| <b>[[Home/Indexes/Readable Bible/64 - 3 John\|3 John]]</b> | 1 | 2 | Hospitality |
+| <b>[[Home/Indexes/Readable Bible/65 - Jude\|Jude]]</b> | 1 | 12 | Contend for Faith |
+| <b>[[Home/Indexes/Readable Bible/66 - Revelation\|Revelation]]</b> | 22 | 285 | Victory, New Creation |
 
 ---
 
@@ -161,13 +161,13 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 | Rank | Book | Why |
 |:----:|------|-----|
-| 1 | <b>[[Home/Scripture/66 - Revelation\|Revelation]]</b> | 285+ OT allusions; culmination of all trajectories |
-| 2 | <b>[[Home/Scripture/19 - Psalms\|Psalms]]</b> | Most quoted OT book in NT; Messianic hymns |
-| 3 | <b>[[Home/Scripture/23 - Isaiah\|Isaiah]]</b> | "Fifth Gospel"; Servant Songs; New Exodus |
-| 4 | <b>[[Home/Scripture/40 - Matthew\|Matthew]]</b> | 130+ fulfillment quotations |
-| 5 | <b>[[Home/Scripture/01 - Genesis\|Genesis]]</b> | Foundation of all typology |
-| 6 | <b>[[Home/Scripture/58 - Hebrews\|Hebrews]]</b> | Systematic typological exposition |
-| 7 | <b>[[Home/Scripture/45 - Romans\|Romans]]</b> | Paul's OT theological synthesis |
+| 1 | <b>[[Home/Indexes/Readable Bible/66 - Revelation\|Revelation]]</b> | 285+ OT allusions; culmination of all trajectories |
+| 2 | <b>[[Home/Indexes/Readable Bible/19 - Psalms\|Psalms]]</b> | Most quoted OT book in NT; Messianic hymns |
+| 3 | <b>[[Home/Indexes/Readable Bible/23 - Isaiah\|Isaiah]]</b> | "Fifth Gospel"; Servant Songs; New Exodus |
+| 4 | <b>[[Home/Indexes/Readable Bible/40 - Matthew\|Matthew]]</b> | 130+ fulfillment quotations |
+| 5 | <b>[[Home/Indexes/Readable Bible/01 - Genesis\|Genesis]]</b> | Foundation of all typology |
+| 6 | <b>[[Home/Indexes/Readable Bible/58 - Hebrews\|Hebrews]]</b> | Systematic typological exposition |
+| 7 | <b>[[Home/Indexes/Readable Bible/45 - Romans\|Romans]]</b> | Paul's OT theological synthesis |
 
 ---
 
@@ -201,10 +201,10 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 | Resource | Description | Entry Point |
 |----------|-------------|-------------|
-| **Chiasms** | 1,732 structural analyses | [[Home/Scripture/Chiasm Index\|Browse All]] |
-| **Trajectory Tables** | 126 typological studies | [[Home/Scripture/Trajectory Tables Index\|Browse All]] |
-| **Intertextuality Pairs** | 2,924 verse connections | [[Home/Scripture/Intertextuality Pairs Index\|Browse All]] |
-| **Treasury of Scripture Knowledge** | 500,000+ cross-references | [[Home/Scripture/TOSK Index\|Browse All]] |
+| **Chiasms** | 1,732 structural analyses | [[Home/Indexes/Chiasm Index\|Browse All]] |
+| **Trajectory Tables** | 126 typological studies | [[Home/Indexes/Trajectory Tables Index\|Browse All]] |
+| **Intertextuality Pairs** | 2,924 verse connections | [[Home/Indexes/Intertextuality Pairs Index\|Browse All]] |
+| **Treasury of Scripture Knowledge** | 500,000+ cross-references | [[Home/Indexes/TOSK Index\|Browse All]] |
 
 ---
 

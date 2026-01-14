@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Jeremiah-R 27
 
-**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|Jeremiah]]**
 
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 26#Jeremiah-R 26| Jeremiah 26]] - [[Readable Bible/24 - Jeremiah/Jeremiah 28#Jeremiah-R 28| Jeremiah 28]]

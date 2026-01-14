@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 72
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 71#Psalm-R 71| Psalm 71]] - [[Readable Bible/19 - Psalms/Psalm 73#Psalm-R 73| Psalm 73]]
 

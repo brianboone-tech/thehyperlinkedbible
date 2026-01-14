@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Numbers-R 34
 
-**[[Home/Scripture/04 - Numbers|Numbers]]**
+**[[Home/Indexes/Readable Bible/04 - Numbers|Numbers]]**
 
 [[Readable Bible/04 - Numbers/Numbers 33#Numbers-R 33| Numbers 33]] - [[Readable Bible/04 - Numbers/Numbers 35#Numbers-R 35| Numbers 35]]
 

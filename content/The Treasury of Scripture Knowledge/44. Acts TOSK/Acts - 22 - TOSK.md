@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Acts 22 TOSK
 ---
 
-**[[Home/Scripture/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 21 - TOSK|← Ch 21]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 23 - TOSK|Ch 23 →]]
+**[[Home/Indexes/Readable Bible/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 21 - TOSK|← Ch 21]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 23 - TOSK|Ch 23 →]]
 
 ---
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ezekiel-R 21
 
-**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 20#Ezekiel-R 20| Ezekiel 20]] - [[Readable Bible/26 - Ezekiel/Ezekiel 22#Ezekiel-R 22| Ezekiel 22]]
 

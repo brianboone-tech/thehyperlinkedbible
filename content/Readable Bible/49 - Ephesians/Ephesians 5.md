@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ephesians-R 5
 
-**[[Home/Scripture/49 - Ephesians|Ephesians]]**
+**[[Home/Indexes/Readable Bible/49 - Ephesians|Ephesians]]**
 
 [[Readable Bible/49 - Ephesians/Ephesians 4#Ephesians-R 4| Ephesians 4]] - [[Readable Bible/49 - Ephesians/Ephesians 6#Ephesians-R 6| Ephesians 6]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Zechariah-R 7
 
-**[[Home/Scripture/38 - Zechariah|Zechariah]]**
+**[[Home/Indexes/Readable Bible/38 - Zechariah|Zechariah]]**
 
 [[Readable Bible/38 - Zechariah/Zechariah 6#Zechariah-R 6| Zechariah 6]] - [[Readable Bible/38 - Zechariah/Zechariah 8#Zechariah-R 8| Zechariah 8]]
 

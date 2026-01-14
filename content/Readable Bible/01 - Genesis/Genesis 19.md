@@ -8,7 +8,7 @@ cssclasses:
 
 # Genesis-R 19
 
-**[[Home/Scripture/01 - Genesis|Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 18#Genesis-R 18| Genesis 18]] - [[Readable Bible/01 - Genesis/Genesis 20#Genesis-R 20| Genesis 20]]
 

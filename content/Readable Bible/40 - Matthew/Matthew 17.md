@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Matthew-R 17
 
-**[[Home/Scripture/40 - Matthew|Matthew]]**
+**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 16#Matthew-R 16| Matthew 16]] - [[Readable Bible/40 - Matthew/Matthew 18#Matthew-R 18| Matthew 18]]
 

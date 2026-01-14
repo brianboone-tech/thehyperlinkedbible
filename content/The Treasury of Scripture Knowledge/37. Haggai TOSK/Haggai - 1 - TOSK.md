@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Haggai 1 TOSK
 ---
 
-**[[Home/Scripture/37 - Haggai|← Haggai]]** | [[The Treasury of Scripture Knowledge/37. Haggai TOSK/Haggai - 2 - TOSK|Ch 2 →]]
+**[[Home/Indexes/Readable Bible/37 - Haggai|← Haggai]]** | [[The Treasury of Scripture Knowledge/37. Haggai TOSK/Haggai - 2 - TOSK|Ch 2 →]]
 
 ---
 

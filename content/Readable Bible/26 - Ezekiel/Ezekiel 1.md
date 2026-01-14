@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ezekiel-R 1
 
-**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/25 - Lamentations/Lamentations 5|←]] • [[Readable Bible/26 - Ezekiel/Ezekiel 2|→]]
 

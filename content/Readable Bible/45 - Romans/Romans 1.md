@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Romans-R 1
 
-**[[Home/Scripture/45 - Romans|Romans]]**
+**[[Home/Indexes/Readable Bible/45 - Romans|Romans]]**
 
 [[Readable Bible/44 - Acts/Acts 28#Acts-R 28|Acts 28]] • [[Readable Bible/45 - Romans/Romans 2#Romans-R 2|Romans 2]]
 

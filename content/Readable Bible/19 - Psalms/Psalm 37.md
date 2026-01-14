@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 37
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 36#Psalm-R 36| Psalm 36]] - [[Readable Bible/19 - Psalms/Psalm 38#Psalm-R 38| Psalm 38]]
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Acts-R 14
 
-**[[Home/Scripture/44 - Acts|Acts]]**
+**[[Home/Indexes/Readable Bible/44 - Acts|Acts]]**
 
 
 [[Readable Bible/44 - Acts/Acts 13#Acts-R 13| Acts 13]] - [[Readable Bible/44 - Acts/Acts 15#Acts-R 15| Acts 15]]

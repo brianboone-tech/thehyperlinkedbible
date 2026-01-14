@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/36 - Zephaniah|← Zephaniah]]**
+**[[Home/Indexes/Readable Bible/36 - Zephaniah|← Zephaniah]]**
 
 ---
 

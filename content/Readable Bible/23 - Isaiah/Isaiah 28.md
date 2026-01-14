@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Isaiah-R 28
 
-**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 27#Isaiah-R 27| Isaiah 27]] - [[Readable Bible/23 - Isaiah/Isaiah 29#Isaiah-R 29| Isaiah 29]]
 

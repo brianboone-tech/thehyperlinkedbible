@@ -8,7 +8,7 @@ cssclasses:
 
 # Genesis-R 12
 
-**[[Home/Scripture/01 - Genesis|Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 11#Genesis-R 11| Genesis 11]] - [[Readable Bible/01 - Genesis/Genesis 13#Genesis-R 13| Genesis 13]]
 

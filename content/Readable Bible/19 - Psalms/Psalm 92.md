@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Psalm-R 92
 
-**[[Home/Scripture/19 - Psalms|Psalms]]**
+**[[Home/Indexes/Readable Bible/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 91#Psalm-R 91| Psalm 91]] - [[Readable Bible/19 - Psalms/Psalm 93#Psalm-R 93| Psalm 93]]
 

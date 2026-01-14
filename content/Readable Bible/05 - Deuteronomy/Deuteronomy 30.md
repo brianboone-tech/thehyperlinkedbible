@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Deuteronomy-R 30
 
-**[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 29#Deuteronomy-R 29| Deuteronomy 29]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 31#Deuteronomy-R 31| Deuteronomy 31]]
 

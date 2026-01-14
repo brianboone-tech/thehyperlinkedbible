@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Job-R 1
 
-**[[Home/Scripture/18 - Job|Job]]**
+**[[Home/Indexes/Readable Bible/18 - Job|Job]]**
 
 [[Readable Bible/17 - Esther/Esther 10#Esther-R 10|Esther 10]] • [[Readable Bible/18 - Job/Job 2#Job-R 2|Job 2]]
 

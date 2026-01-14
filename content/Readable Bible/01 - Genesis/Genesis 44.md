@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Genesis-R 44
 
-**[[Home/Scripture/01 - Genesis|Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 43#Genesis-R 43| Genesis 43]] - [[Readable Bible/01 - Genesis/Genesis 45#Genesis-R 45| Genesis 45]]
 

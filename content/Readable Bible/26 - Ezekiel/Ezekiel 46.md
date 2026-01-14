@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Ezekiel-R 46
 
-**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 45#Ezekiel-R 45| Ezekiel 45]] - [[Readable Bible/26 - Ezekiel/Ezekiel 47#Ezekiel-R 47| Ezekiel 47]]
 

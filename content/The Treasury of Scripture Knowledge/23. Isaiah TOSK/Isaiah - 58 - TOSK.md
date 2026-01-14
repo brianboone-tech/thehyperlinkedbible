@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Isaiah 58 TOSK
 ---
 
-**[[Home/Scripture/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 57 - TOSK|← Ch 57]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 59 - TOSK|Ch 59 →]]
+**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 57 - TOSK|← Ch 57]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 59 - TOSK|Ch 59 →]]
 
 ---
 

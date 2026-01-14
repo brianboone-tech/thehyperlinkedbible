@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/04 - Numbers|← Numbers]]**
+**[[Home/Indexes/Readable Bible/04 - Numbers|← Numbers]]**
 
 ---
 

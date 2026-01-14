@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/50 - Philippians|← Philippians]]**
+**[[Home/Indexes/Readable Bible/50 - Philippians|← Philippians]]**
 
 ---
 

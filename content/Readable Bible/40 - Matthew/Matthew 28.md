@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Matthew-R 28
 
-**[[Home/Scripture/40 - Matthew|Matthew]]**
+**[[Home/Indexes/Readable Bible/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 27#Matthew-R 27| Matthew 27]]
 

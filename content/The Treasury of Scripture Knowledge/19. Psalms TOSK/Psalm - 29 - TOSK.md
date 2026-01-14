@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 29 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 30 - TOSK|Ch 30 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 30 - TOSK|Ch 30 →]]
 
 ---
 

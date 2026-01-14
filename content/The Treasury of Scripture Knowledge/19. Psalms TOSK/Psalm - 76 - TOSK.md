@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 76 TOSK
 ---
 
-**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 75 - TOSK|← Ch 75]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 77 - TOSK|Ch 77 →]]
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 75 - TOSK|← Ch 75]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 77 - TOSK|Ch 77 →]]
 
 ---
 

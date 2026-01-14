@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Genesis-R 49
 
-**[[Home/Scripture/01 - Genesis|Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 48#Genesis-R 48| Genesis 48]] - [[Readable Bible/01 - Genesis/Genesis 50#Genesis-R 50| Genesis 50]]
 

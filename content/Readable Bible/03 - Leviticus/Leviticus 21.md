@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Leviticus-R 21
 
-**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+**[[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 20#Leviticus-R 20| Leviticus 20]] - [[Readable Bible/03 - Leviticus/Leviticus 22#Leviticus-R 22| Leviticus 22]]
 

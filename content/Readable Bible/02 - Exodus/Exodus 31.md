@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Exodus-R 31
 
-**[[Home/Scripture/02 - Exodus|Exodus]]**
+**[[Home/Indexes/Readable Bible/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 30#Exodus-R 30| Exodus 30]] - [[Readable Bible/02 - Exodus/Exodus 32#Exodus-R 32| Exodus 32]]
 

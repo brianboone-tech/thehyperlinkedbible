@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Isaiah-R 62
 
-**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+**[[Home/Indexes/Readable Bible/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 61#Isaiah-R 61| Isaiah 61]] - [[Readable Bible/23 - Isaiah/Isaiah 63#Isaiah-R 63| Isaiah 63]]
 

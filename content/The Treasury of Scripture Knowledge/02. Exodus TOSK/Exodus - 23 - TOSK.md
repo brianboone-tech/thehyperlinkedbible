@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 23 TOSK
 ---
 
-**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 24 - TOSK|Ch 24 →]]
+**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 24 - TOSK|Ch 24 →]]
 
 ---
 

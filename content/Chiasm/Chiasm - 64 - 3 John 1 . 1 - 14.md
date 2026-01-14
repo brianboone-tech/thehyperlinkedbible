@@ -2,7 +2,7 @@
 cssclasses: chiasm
 ---
 
-**[[Home/Scripture/64 - 3 John|← 3 John]]**
+**[[Home/Indexes/Readable Bible/64 - 3 John|← 3 John]]**
 
 ---
 

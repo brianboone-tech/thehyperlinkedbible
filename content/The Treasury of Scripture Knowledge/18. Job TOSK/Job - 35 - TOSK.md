@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Job 35 TOSK
 ---
 
-**[[Home/Scripture/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 34 - TOSK|← Ch 34]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 36 - TOSK|Ch 36 →]]
+**[[Home/Indexes/Readable Bible/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 34 - TOSK|← Ch 34]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 36 - TOSK|Ch 36 →]]
 
 ---
 

@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Genesis-R 34
 
-**[[Home/Scripture/01 - Genesis|Genesis]]**
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
 
 
 [[Readable Bible/01 - Genesis/Genesis 33#Genesis-R 33| Genesis 33]] - [[Readable Bible/01 - Genesis/Genesis 35#Genesis-R 35| Genesis 35]]
