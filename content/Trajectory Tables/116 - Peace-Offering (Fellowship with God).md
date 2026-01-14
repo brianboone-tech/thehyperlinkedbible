@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## PEACE-OFFERING (FELLOWSHIP WITH GOD) TRAJECTORY TABLE

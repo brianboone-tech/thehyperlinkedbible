@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## DIVINE IDENTITY (DEITY OF CHRIST) TRAJECTORY TABLE

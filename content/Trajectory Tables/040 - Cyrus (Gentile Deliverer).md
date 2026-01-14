@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## CYRUS (GENTILE DELIVERER) TRAJECTORY TABLE

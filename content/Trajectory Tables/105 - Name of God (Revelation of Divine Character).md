@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## NAME OF GOD (REVELATION OF DIVINE CHARACTER) TRAJECTORY TABLE

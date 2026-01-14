@@ -1,5 +1,5 @@
 ---
-cssClasses: chiasm
+cssclasses: chiasm
 ---
 
 **[[Home/Scripture/19 - Psalms|← Psalms]]**

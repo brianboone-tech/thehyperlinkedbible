@@ -1,5 +1,5 @@
 ---
-cssClasses: chiasm
+cssclasses: chiasm
 ---
 
 **[[Home/Scripture/58 - Hebrews|← Hebrews]]**

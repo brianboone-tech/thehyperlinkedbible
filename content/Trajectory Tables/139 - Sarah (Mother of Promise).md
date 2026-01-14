@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## SARAH (MOTHER OF PROMISE) TRAJECTORY TABLE

@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## LIVING WATER (SPIRIT AND LIFE) TRAJECTORY TABLE

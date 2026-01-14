@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## LEVITES (SUBSTITUTIONARY SERVICE) TRAJECTORY TABLE

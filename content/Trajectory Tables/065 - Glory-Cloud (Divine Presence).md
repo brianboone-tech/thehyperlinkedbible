@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## GLORY-CLOUD (DIVINE PRESENCE) TRAJECTORY TABLE

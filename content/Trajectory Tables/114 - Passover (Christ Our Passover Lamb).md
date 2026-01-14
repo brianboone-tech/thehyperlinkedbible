@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## PASSOVER (CHRIST OUR PASSOVER LAMB) TRAJECTORY TABLE

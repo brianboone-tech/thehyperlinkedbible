@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## DAY OF MIDIAN (GOSPEL VICTORY PATTERN) TRAJECTORY TABLE

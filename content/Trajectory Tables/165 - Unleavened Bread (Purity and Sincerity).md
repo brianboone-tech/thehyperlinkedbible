@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## UNLEAVENED BREAD TRAJECTORY TABLE

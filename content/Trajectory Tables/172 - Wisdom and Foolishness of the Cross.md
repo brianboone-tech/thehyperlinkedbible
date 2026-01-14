@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## WISDOM AND FOOLISHNESS OF THE CROSS TRAJECTORY TABLE

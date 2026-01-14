@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## FEAST OF TABERNACLES (DWELLING WITH GOD) TRAJECTORY TABLE

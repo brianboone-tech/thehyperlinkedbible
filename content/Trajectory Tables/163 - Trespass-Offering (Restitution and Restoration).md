@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## TRESPASS-OFFERING (RESTITUTION AND RESTORATION) TRAJECTORY TABLE

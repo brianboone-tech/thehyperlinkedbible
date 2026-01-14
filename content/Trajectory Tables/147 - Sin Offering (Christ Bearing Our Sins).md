@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## SIN OFFERING (CHRIST BEARING OUR SINS) TRAJECTORY TABLE

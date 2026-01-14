@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## SAUL (REJECTED KING) TRAJECTORY TABLE

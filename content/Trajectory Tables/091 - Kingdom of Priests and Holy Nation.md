@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## KINGDOM OF PRIESTS AND HOLY NATION TRAJECTORY TABLE

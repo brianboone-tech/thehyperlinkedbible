@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## SHEPHERD (DIVINE SHEPHERD CHRISTOLOGY) TRAJECTORY TABLE

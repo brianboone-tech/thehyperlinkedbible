@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## TREE OF LIFE (ETERNAL LIFE IN CHRIST) TRAJECTORY TABLE

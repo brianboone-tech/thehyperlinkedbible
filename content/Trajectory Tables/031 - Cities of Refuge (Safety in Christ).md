@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## CITIES OF REFUGE (SAFETY IN CHRIST) TRAJECTORY TABLE

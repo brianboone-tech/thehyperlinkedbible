@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## SHEM (BLESSED LINE OF YHWH) TRAJECTORY TABLE

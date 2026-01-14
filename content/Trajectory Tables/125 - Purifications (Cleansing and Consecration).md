@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## PURIFICATIONS (CLEANSING AND CONSECRATION) TRAJECTORY TABLE

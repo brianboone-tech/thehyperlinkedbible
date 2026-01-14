@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## RED HEIFER (PURIFICATION FROM DEATH) TRAJECTORY TABLE

@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## BETHEL (HOUSE OF GOD) TRAJECTORY TABLE

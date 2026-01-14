@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## MOSES (THE PROPHET LIKE UNTO ME) TRAJECTORY TABLE

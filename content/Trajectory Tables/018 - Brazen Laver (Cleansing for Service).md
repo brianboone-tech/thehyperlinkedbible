@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## BRAZEN LAVER (CLEANSING FOR SERVICE) TRAJECTORY TABLE

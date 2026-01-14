@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## TOWER OF BABEL (DIVISION REVERSED) TRAJECTORY TABLE

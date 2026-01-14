@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## WATER OF PURIFICATION (LIVING WATER AND ASHES) TRAJECTORY TABLE

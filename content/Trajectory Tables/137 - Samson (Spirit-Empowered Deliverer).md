@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## SAMSON (SPIRIT-EMPOWERED DELIVERER) TRAJECTORY TABLE

@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## COATS OF SKINS (COVERING OF SHAME) TRAJECTORY TABLE

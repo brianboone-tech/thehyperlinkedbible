@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## NEW CREATION (COSMIC REDEMPTION) TRAJECTORY TABLE

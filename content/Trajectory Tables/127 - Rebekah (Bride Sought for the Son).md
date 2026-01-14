@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## REBEKAH (BRIDE SOUGHT FOR THE SON) TRAJECTORY TABLE

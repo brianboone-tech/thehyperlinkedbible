@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## HOLY PLACES (ACCESS TO GOD'S PRESENCE) TRAJECTORY TABLE

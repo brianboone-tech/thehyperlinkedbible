@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## SABBATH (REST IN CHRIST) TRAJECTORY TABLE

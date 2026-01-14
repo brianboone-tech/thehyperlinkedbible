@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## EVE (MOTHER OF ALL LIVING) TRAJECTORY TABLE

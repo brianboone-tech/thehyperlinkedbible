@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## JOSEPH (THE SUFFERING SAVIOR) TRAJECTORY TABLE

@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## JUDAH'S SCEPTER (UNTIL SHILOH COMES) TRAJECTORY TABLE

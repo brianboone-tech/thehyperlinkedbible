@@ -8,7 +8,7 @@ This page outlines the navigation path through the site's introductory pages.
 
 | #   | Page Title                                                                        | Description                                        |
 | --- | --------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 1   | **[[01 - Home - Welcome\|Welcome to The Hyperlinked Bible]]**                                    | Vision and core principle                          |
+| 1   | **[[index\|Welcome to The Hyperlinked Bible]]**                                    | Vision and core principle                          |
 | 2   | **[[02 - Home - Roadmap\|Roadmap]]**                                               | This page - navigation overview                    |
 | 3   | **[[03 - Home - How This Vault Works\|How This Vault Works]]**                     | Hub-and-spoke architecture, three tiers of content |
 | 4   | **[[09 - Home - Why Cross-References and Chiasms\|Scripture's Interconnections]]** | Cross-references and chiasms explained             |
@@ -42,4 +42,4 @@ This page outlines the navigation path through the site's introductory pages.
 
 ---
 
-[[01 - Home - Welcome|← Back: Introduction]] | [[03 - Home - How This Vault Works|Next: How This Vault Works →]]
+[[index|← Back: Introduction]] | [[03 - Home - How This Vault Works|Next: How This Vault Works →]]

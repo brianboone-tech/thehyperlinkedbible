@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## NIMROD (THE FIRST EMPIRE BUILDER) TRAJECTORY TABLE

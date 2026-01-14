@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## CAIN (SEED OF SERPENT) TRAJECTORY TABLE

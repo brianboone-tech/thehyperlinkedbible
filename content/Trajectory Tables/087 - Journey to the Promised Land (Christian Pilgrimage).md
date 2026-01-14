@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## JOURNEY TO PROMISED LAND TRAJECTORY TABLE

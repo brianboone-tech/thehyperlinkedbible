@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## ARK OF NOAH (SALVATION THROUGH JUDGMENT) TRAJECTORY TABLE

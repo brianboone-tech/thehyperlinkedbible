@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## EDEN AS TEMPLE (ORIGINAL SANCTUARY) TRAJECTORY TABLE

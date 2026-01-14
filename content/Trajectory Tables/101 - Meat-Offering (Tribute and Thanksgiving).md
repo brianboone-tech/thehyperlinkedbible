@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## MEAT-OFFERING (TRIBUTE AND THANKSGIVING) TRAJECTORY TABLE

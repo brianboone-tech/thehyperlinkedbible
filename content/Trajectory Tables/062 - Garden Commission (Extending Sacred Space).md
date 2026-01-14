@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## GARDEN COMMISSION (EXTENDING SACRED SPACE) TRAJECTORY TABLE

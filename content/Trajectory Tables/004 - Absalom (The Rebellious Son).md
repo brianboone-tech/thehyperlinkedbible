@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## ABSALOM (THE REBELLIOUS SON) TRAJECTORY TABLE

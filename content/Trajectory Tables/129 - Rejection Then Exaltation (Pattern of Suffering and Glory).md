@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## REJECTION THEN EXALTATION (PATTERN OF SUFFERING AND GLORY) TRAJECTORY TABLE

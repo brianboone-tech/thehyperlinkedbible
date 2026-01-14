@@ -302,11 +302,12 @@ $folder-colors: (
           background-color: color-mix(in srgb, nth($folder-colors, $i) 70%, var(--light) 30%);
 
           & > svg.folder-icon {
-            color: var(--darkgray);
+            color: #1a1a2e;  // Dark color for contrast on pastel backgrounds
           }
 
           .folder-button .folder-title {
-            color: var(--darkgray);
+            color: #1a1a2e;  // Dark color for contrast on pastel backgrounds
+            font-weight: 600;
           }
         }
 
@@ -315,17 +316,19 @@ $folder-colors: (
           background-color: color-mix(in srgb, nth($folder-colors, $i) 50%, var(--light) 50%);
 
           & > svg.folder-icon {
-            color: var(--darkgray);
+            color: #1a1a2e;
           }
 
           .folder-button .folder-title {
-            color: var(--darkgray);
+            color: #1a1a2e;
+            font-weight: 600;
           }
         }
 
         // File links in dark mode
         .folder-outer ul li > a {
           background-color: color-mix(in srgb, nth($folder-colors, $i) 25%, transparent 75%);
+          color: var(--darkgray);  // Keep light text for file links (no background)
 
           &:hover {
             background-color: color-mix(in srgb, nth($folder-colors, $i) 35%, transparent 65%);

@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## FIRST-BORN REDEMPTION (CONSECRATION TO GOD) TRAJECTORY TABLE

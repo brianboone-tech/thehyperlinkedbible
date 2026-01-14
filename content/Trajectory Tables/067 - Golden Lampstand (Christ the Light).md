@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## GOLDEN LAMPSTAND (CHRIST THE LIGHT) TRAJECTORY TABLE

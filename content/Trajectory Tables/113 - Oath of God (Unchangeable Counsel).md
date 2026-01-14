@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## OATH OF GOD (UNCHANGEABLE COUNSEL) TRAJECTORY TABLE

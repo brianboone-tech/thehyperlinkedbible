@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## LAMECH'S SONG (VENGEANCE VS FORGIVENESS) TRAJECTORY TABLE

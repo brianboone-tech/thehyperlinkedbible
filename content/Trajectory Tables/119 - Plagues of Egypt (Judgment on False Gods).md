@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## PLAGUES OF EGYPT (JUDGMENT ON FALSE GODS) TRAJECTORY TABLE

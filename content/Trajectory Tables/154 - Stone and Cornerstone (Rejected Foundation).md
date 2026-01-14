@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## STONE AND CORNERSTONE (REJECTED FOUNDATION) TRAJECTORY TABLE

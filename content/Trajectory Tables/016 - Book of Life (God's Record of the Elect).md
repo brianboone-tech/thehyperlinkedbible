@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## BOOK OF LIFE (GOD'S RECORD OF THE ELECT) TRAJECTORY TABLE

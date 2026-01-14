@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## DAVID (THE KING AFTER GOD'S OWN HEART) TRAJECTORY TABLE

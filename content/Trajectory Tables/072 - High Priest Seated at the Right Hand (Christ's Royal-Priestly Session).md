@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## HIGH PRIEST SEATED AT THE RIGHT HAND (CHRIST'S ROYAL-PRIESTLY SESSION) TRAJECTORY TABLE

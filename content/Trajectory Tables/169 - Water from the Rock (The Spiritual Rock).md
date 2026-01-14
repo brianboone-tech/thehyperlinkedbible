@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## WATER FROM THE ROCK (THE SPIRITUAL ROCK) TRAJECTORY TABLE

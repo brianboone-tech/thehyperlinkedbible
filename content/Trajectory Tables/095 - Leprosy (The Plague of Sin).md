@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## LEPROSY (THE PLAGUE OF SIN) TRAJECTORY TABLE

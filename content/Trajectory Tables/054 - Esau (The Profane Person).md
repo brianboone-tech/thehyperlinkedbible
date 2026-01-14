@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## ESAU (THE PROFANE PERSON) TRAJECTORY TABLE

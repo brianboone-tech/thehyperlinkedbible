@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## GENTILE INCLUSION (LIGHT TO THE NATIONS) TRAJECTORY TABLE

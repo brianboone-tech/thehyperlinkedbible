@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## VINE AND VINEYARD (TRUE ISRAEL) TRAJECTORY TABLE

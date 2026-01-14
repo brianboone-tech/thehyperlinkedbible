@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## TABERNACLE (GOD DWELLING AMONG HIS PEOPLE) TRAJECTORY TABLE

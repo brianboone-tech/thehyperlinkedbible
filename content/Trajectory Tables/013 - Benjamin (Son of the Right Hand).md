@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## BENJAMIN (SON OF THE RIGHT HAND) TRAJECTORY TABLE

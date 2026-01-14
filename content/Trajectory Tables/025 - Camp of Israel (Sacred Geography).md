@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## CAMP OF ISRAEL (SACRED GEOGRAPHY) TRAJECTORY TABLE

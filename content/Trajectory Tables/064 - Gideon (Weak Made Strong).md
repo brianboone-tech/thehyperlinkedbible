@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## GIDEON (WEAK MADE STRONG) TRAJECTORY TABLE

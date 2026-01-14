@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## HYSSOP (INSTRUMENT OF BLOOD APPLICATION) TRAJECTORY TABLE

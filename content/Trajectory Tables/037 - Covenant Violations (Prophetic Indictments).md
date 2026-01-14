@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## COVENANT VIOLATIONS (PROPHETIC INDICTMENTS) TRAJECTORY TABLE

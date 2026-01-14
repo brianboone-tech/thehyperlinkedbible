@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## YEAR OF JUBILEE (ULTIMATE REDEMPTION) TRAJECTORY TABLE

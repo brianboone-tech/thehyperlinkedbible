@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## PLEASING AROMA (DIVINE ACCEPTANCE AND PROPITIATION) TRAJECTORY TABLE

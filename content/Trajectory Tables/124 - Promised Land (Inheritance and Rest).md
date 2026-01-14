@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## PROMISED LAND (INHERITANCE AND REST) TRAJECTORY TABLE

@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## PRIESTLY MINISTRATIONS (SERVICE AND SACRIFICE) TRAJECTORY TABLE

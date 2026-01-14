@@ -1,5 +1,5 @@
 ---
-cssClasses: chiasm
+cssclasses: chiasm
 ---
 
 **[[Home/Scripture/53 - 2 Thessalonians|← 2 Thessalonians]]**

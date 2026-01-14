@@ -1,5 +1,5 @@
 ---
-cssClasses: chiasm
+cssclasses: chiasm
 ---
 
 - A. [[Readable Bible/01 - Genesis/Genesis 5#Genesis 5 . 24|Genesis 5:24a]] And Enoch <span style="color: #c0392b; font-weight: bold;">walked with God</span>:

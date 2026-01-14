@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## PILLAR OF CLOUD AND FIRE (DIVINE GUIDANCE AND PROTECTION) TRAJECTORY TABLE

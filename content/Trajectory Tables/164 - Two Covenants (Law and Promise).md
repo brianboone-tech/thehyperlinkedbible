@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## TWO COVENANTS (LAW AND PROMISE) TRAJECTORY TABLE

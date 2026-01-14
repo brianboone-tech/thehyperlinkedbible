@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## ABEL (FIRST MARTYR) TRAJECTORY TABLE

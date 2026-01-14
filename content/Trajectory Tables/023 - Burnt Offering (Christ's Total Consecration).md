@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## BURNT OFFERING (CHRIST'S TOTAL CONSECRATION) TRAJECTORY TABLE

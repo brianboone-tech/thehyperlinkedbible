@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## REMNANT (FAITHFUL FEW PRESERVED) TRAJECTORY TABLE

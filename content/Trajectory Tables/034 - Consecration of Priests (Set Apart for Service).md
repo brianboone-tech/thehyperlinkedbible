@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## CONSECRATION OF PRIESTS (SET APART FOR SERVICE) TRAJECTORY TABLE

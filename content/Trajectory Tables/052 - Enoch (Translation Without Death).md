@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## ENOCH (TRANSLATION WITHOUT DEATH) TRAJECTORY TABLE

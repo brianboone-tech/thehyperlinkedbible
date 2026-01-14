@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## NEW MOONS (RENEWAL AND REST) TRAJECTORY TABLE

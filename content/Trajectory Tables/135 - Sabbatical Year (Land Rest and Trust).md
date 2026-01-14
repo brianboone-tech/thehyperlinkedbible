@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## SABBATICAL YEAR (LAND REST AND TRUST) TRAJECTORY TABLE

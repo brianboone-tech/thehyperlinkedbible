@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## SCARLET WOOL AND CEDAR (PURIFICATION BUNDLE) TRAJECTORY TABLE

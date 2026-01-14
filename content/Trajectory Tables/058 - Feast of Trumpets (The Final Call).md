@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## FEAST OF TRUMPETS (THE FINAL CALL) TRAJECTORY TABLE

@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## ARK OF THE COVENANT (GOD'S THRONE OF MERCY) TRAJECTORY TABLE

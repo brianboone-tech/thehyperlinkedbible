@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## DAY OF ATONEMENT (CHRIST'S ATONING SACRIFICE) TRAJECTORY TABLE

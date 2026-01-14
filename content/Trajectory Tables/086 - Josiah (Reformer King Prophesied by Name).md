@@ -1,5 +1,5 @@
 ---
-cssClasses: trajectory-table
+cssclasses: trajectory-table
 ---
 
 ## JOSIAH (REFORMER KING PROPHESIED BY NAME) TRAJECTORY TABLE
