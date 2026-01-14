@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Jonah-R
 
-[[Home]] • [[Readable Bible/32 - Jonah/Jonah 1#Jonah-R 11]]  
+[[index|Home]] • [[Readable Bible/32 - Jonah/Jonah 1#Jonah-R 11]]  
 
 ---
 

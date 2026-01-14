@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Ephesians-R
 
-[[Home]] • [[Readable Bible/49 - Ephesians/Ephesians 1#Ephesians-R 1|  | 1]]  
+[[index|Home]] • [[Readable Bible/49 - Ephesians/Ephesians 1#Ephesians-R 1|  | 1]]  
 
 ---
 

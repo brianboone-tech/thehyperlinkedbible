@@ -21,7 +21,7 @@ Testament: Old
 [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G5001-5100#G5100|what]] [[Lexicon/G1501-1600#G1510|is]] [[Lexicon/G401-500#G0444|man]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1001-1100#G1097|you were known]] [[Lexicon/G1401-1500#G1473|to him?]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G401-500#G0444|of man]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G3001-3100#G3049|you should consider]] [[Lexicon/G1401-1500#G1473|him?]]
 
 #### Psalms 144 - 4
-[[Lexicon/G401-500#G0444|Man]] [[Lexicon/G3101-3200#G3153|folly]] [[Lexicon/G2201-2300#G2250|his days]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G4601-4700#G4639|a shadow]] [[Lexicon/G3801-3900#G3855|pass by.]]
+[[Lexicon/G401-500#G0444|Man]] [[Lexicon/G3101-3200#G3153|folly]] [[Lexicon/G2201-2300#G2250|his days]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G4601-4700#G4639|a shadow]] [[Lexicon/G3801-3900#G3855|pass by.]]
 
 #### Psalms 144 - 5
 [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G2801-2900#G2827|lean]] [[Lexicon/G3701-3800#G3772|your heavens,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2597|come down!]] [[Lexicon/G601-700#G0680|Touch]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3735|mountains!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2585|they shall smoke.]]
@@ -36,7 +36,7 @@ Testament: Old
 [[Lexicon/G3701-3800#G3739|whose]] [[Lexicon/G4701-4800#G4750|mouth]] [[Lexicon/G2901-3000#G2980|spoke]] [[Lexicon/G3101-3200#G3153|folly,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1101-1200#G1188|their right hand]] [[Lexicon/G1-100#G0093|of iniquity.]]
 
 #### Psalms 144 - 9
-[[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G5601-5700#G5603|ode]] [[Lexicon/G1401-1500#G1473|to you;]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G5501-5600#G5568|psaltery]] [[Lexicon/G5501-5600#G5567|I will strum]] [[Lexicon/G1401-1500#G1473|to you,]]
+[[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G5601-5624#G5603|ode]] [[Lexicon/G1401-1500#G1473|to you;]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G5501-5600#G5568|psaltery]] [[Lexicon/G5501-5600#G5567|I will strum]] [[Lexicon/G1401-1500#G1473|to you,]]
 
 #### Psalms 144 - 10
 [[Lexicon/G3501-3600#G3588|to the one]] [[Lexicon/G1301-1400#G1325|giving]] [[Lexicon/G4901-5000#G4991|deliverance]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G901-1000#G0935|kings,]] [[Lexicon/G3501-3600#G3588|to the one]] [[Lexicon/G3001-3100#G3084|ransoming]] David [[Lexicon/G1401-1500#G1401|his servant]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G4501-4600#G4501|broadsword]]
@@ -45,7 +45,7 @@ Testament: Old
 [[Lexicon/G4501-4600#G4506|Rescue]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1807|deliver]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G5201-5300#G5207|of the sons]] [[Lexicon/G201-300#G0245|of strangers !]] [[Lexicon/G3701-3800#G3739|whose]] [[Lexicon/G4701-4800#G4750|mouth]] [[Lexicon/G2901-3000#G2980|spoke]] [[Lexicon/G3101-3200#G3153|folly,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1101-1200#G1188|their right hand]] [[Lexicon/G1-100#G0093|of iniquity;]]
 
 #### Psalms 144 - 12
-[[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G5201-5300#G5207|their sons]] [[Lexicon/G3501-3600#G3504|newly planted,]] [[Lexicon/G2401-2500#G2401|secure]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3503|their youth;]] [[Lexicon/G2301-2400#G2364|their daughters]] [[Lexicon/G2501-2600#G2566|being bedecked,]] [[Lexicon/G4001-4100#G4030|being adorned sumptuously]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3401-3500#G3485|of a temple;]]
+[[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G5201-5300#G5207|their sons]] [[Lexicon/G3501-3600#G3504|newly planted,]] [[Lexicon/G2401-2500#G2401|secure]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3503|their youth;]] [[Lexicon/G2301-2400#G2364|their daughters]] [[Lexicon/G2501-2600#G2566|being bedecked,]] [[Lexicon/G4001-4100#G4030|being adorned sumptuously]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3401-3500#G3485|of a temple;]]
 
 #### Psalms 144 - 13
 [[Lexicon/G5001-5100#G5009|their storerooms]] [[Lexicon/G1801-1900#G1829|discharging forth]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G3701-3800#G3778|this one]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G3701-3800#G3778|that one;]] [[Lexicon/G4201-4300#G4263|their sheep]] [[Lexicon/G4101-4200#G4129|multiplying]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1801-1900#G1841|their streets;]]

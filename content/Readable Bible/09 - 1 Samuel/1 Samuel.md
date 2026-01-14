@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 1 Samuel-R
 
-[[Home]] • [[Readable Bible/09 - 1 Samuel/1 Samuel 1#1 Samuel-R 11]]  
+[[index|Home]] • [[Readable Bible/09 - 1 Samuel/1 Samuel 1#1 Samuel-R 11]]  
 
 ---
 

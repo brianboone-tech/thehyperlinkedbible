@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Nahum-R
 
-[[Home]] • [[Readable Bible/34 - Nahum/Nahum 1#Nahum-R 11]] 
+[[index|Home]] • [[Readable Bible/34 - Nahum/Nahum 1#Nahum-R 11]] 
 
 ---
 

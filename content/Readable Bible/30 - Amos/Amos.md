@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Amos-R
 
-[[Home]] • [[Readable Bible/30 - Amos/Amos 1#Amos-R 11]]  
+[[index|Home]] • [[Readable Bible/30 - Amos/Amos 1#Amos-R 11]]  
 
 ---
 

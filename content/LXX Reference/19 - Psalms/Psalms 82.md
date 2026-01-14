@@ -30,7 +30,7 @@ Testament: Old
 [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G2001-2100#G2036|said,]] [[Lexicon/G2301-2400#G2316|You are gods,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5207|sons]]
 
 #### Psalms 82 - 7
-[[Lexicon/G1401-1500#G1473|But you]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]]
+[[Lexicon/G1401-1500#G1473|But you]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]]
 
 #### Psalms 82 - 8
 [[Lexicon/G401-500#G0450|Rise up,]] [[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G2901-3000#G2919|judge]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth!]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2601-2700#G2624|shall inherit]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations.]]

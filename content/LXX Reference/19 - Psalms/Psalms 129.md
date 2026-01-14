@@ -27,7 +27,7 @@ Testament: Old
 [[Lexicon/G101-200#G0153|Let them be shamed,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0654|be turned]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3694|rear!]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3401-3500#G3404|ones detesting]] Zion.
 
 #### Psalms 129 - 6
-[[Lexicon/G1001-1100#G1096|Let them become]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G1401-1500#G1430|on roofs!]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4201-4300#G4253|before]] [[Lexicon/G1601-1700#G1610|being pulled out]] [[Lexicon/G3501-3600#G3583|were dried;]]
+[[Lexicon/G1001-1100#G1096|Let them become]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G1401-1500#G1430|on roofs!]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4201-4300#G4253|before]] [[Lexicon/G1601-1700#G1610|being pulled out]] [[Lexicon/G3501-3600#G3583|were dried;]]
 
 #### Psalms 129 - 7
 [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G2501-2600#G2532|nor]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2801-2900#G2859|unto his bosom]]

@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Revelation-R
 
-[[Home]] • [[Readable Bible/66 - Revelation/Revelation 1#Revelation-R 1|Revelation1]]    
+[[index|Home]] • [[Readable Bible/66 - Revelation/Revelation 1#Revelation-R 1|Revelation1]]    
 
 ---
 

@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 1 Timothy-R
 
-[[Home]] • [[Readable Bible/54 - 1 Timothy/1 Timothy 1#1 Timothy-R 1|  | 1]]  
+[[index|Home]] • [[Readable Bible/54 - 1 Timothy/1 Timothy 1#1 Timothy-R 1|  | 1]]  
 
 ---
 

@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/22 - Song of Solomon|Song of Solomon]]**
 
-[[Ecclesiastes-R 12|←]] • [[Song of Solomon-R 2|→]]
+[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 12|←]] • [[Readable Bible/22 - Song of Solomon/Song of Solomon 2|→]]
 
 ---
 

@@ -1,4 +1,4 @@
-**[[01 - Home - Welcome|Home]] > [[- Hermeneutics|Hermeneutics]] > [[27 - How Quotations - Overview|How Quotations Reveal Authorial Intent]] > How to Use This in Study**
+**[[index|Home]] > [[- Hermeneutics|Hermeneutics]] > [[27 - How Quotations - Overview|How Quotations Reveal Authorial Intent]] > How to Use This in Study**
 
 ---
 

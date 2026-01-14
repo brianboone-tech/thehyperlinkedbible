@@ -18,7 +18,7 @@ Testament: Old
 [[Lexicon/G3701-3800#G3748|The ones who]] [[Lexicon/G3001-3100#G3049|considered]] [[Lexicon/G1-100#G0093|inquity]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G3901-4000#G3904|they deployed]] [[Lexicon/G4101-4200#G4171|for wars.]]
 
 #### Psalms 140 - 3
-[[Lexicon/G101-200#G0190|They sharpened]] [[Lexicon/G1001-1100#G1100|their tongue]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G3701-3800#G3789|a serpent;]] [[Lexicon/G701-800#G0785|of asps]] [[Lexicon/G5401-5500#G5491|their lips.]] [[Lexicon/G1301-1400#G1316|PAUSE.]]
+[[Lexicon/G101-200#G0190|They sharpened]] [[Lexicon/G1001-1100#G1100|their tongue]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G3701-3800#G3789|a serpent;]] [[Lexicon/G701-800#G0785|of asps]] [[Lexicon/G5401-5500#G5491|their lips.]] [[Lexicon/G1301-1400#G1316|PAUSE.]]
 
 #### Psalms 140 - 4
 [[Lexicon/G5401-5500#G5442|Guard]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G201-300#G0268|of the sinner!]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3701-3800#G3748|who]] [[Lexicon/G1201-1300#G1260|reasoned]] [[Lexicon/G5201-5300#G5286|to trip up]] [[Lexicon/G1201-1300#G1226|my footsteps!]]

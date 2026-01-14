@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/34 - Nahum|Nahum]]**
 
-[[Micah-R 7|Micah 7]] • [[Nahum-R 2|Nahum 2]]
+[[Readable Bible/33 - Micah/Micah 7|Micah 7]] • [[Readable Bible/34 - Nahum/Nahum 2|Nahum 2]]
 
 ---
 

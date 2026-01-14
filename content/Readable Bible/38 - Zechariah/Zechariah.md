@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Zechariah-R
 
-[[Home]] • [[Readable Bible/38 - Zechariah/Zechariah 1#Zechariah-R 11]] 
+[[index|Home]] • [[Readable Bible/38 - Zechariah/Zechariah 1#Zechariah-R 11]] 
 
 ---
 

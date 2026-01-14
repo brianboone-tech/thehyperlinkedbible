@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Haggai-R
 
-[[Home]] • [[Readable Bible/37 - Haggai/Haggai 1#Haggai-R 11]]  
+[[index|Home]] • [[Readable Bible/37 - Haggai/Haggai 1#Haggai-R 11]]  
 
 ---
 

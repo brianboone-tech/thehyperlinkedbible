@@ -1,4 +1,4 @@
-**[[01 - Home - Welcome|Home]] > [[- Hermeneutics|Hermeneutics]] > [[27 - How Quotations - Overview|How Quotations Reveal Authorial Intent]] > The Four Types**
+**[[index|Home]] > [[- Hermeneutics|Hermeneutics]] > [[27 - How Quotations - Overview|How Quotations Reveal Authorial Intent]] > The Four Types**
 
 ---
 

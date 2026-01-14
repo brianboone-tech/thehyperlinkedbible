@@ -21,7 +21,7 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G501-600#G0599|died]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2641|were left]]
 
 #### Ruth 1 - 4
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2983|they took]] [[Lexicon/G1401-1500#G1438|to themselves]] [[Lexicon/G1101-1200#G1135|Moabite wives;]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1501-1600#G1520|one]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1201-1300#G1208|second]] Ruth. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2701-2800#G2730|they dwelt]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G5601-5700#G5613|about]] [[Lexicon/G1101-1200#G1176|ten]] [[Lexicon/G2001-2100#G2094|years.]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2983|they took]] [[Lexicon/G1401-1500#G1438|to themselves]] [[Lexicon/G1101-1200#G1135|Moabite wives;]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1501-1600#G1520|one]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1201-1300#G1208|second]] Ruth. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2701-2800#G2730|they dwelt]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G5601-5624#G5613|about]] [[Lexicon/G1101-1200#G1176|ten]] [[Lexicon/G2001-2100#G2094|years.]]
 
 #### Ruth 1 - 5
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G501-600#G0599|died]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2601-2700#G2641|was left]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G1401-1500#G1417|two]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G401-500#G0435|her husband.]]

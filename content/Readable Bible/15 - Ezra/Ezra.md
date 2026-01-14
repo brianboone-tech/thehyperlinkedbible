@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Ezra-R
 
-[[Home]] • [[Readable Bible/15 - Ezra/Ezra 1#Ezra-R 11]]  
+[[index|Home]] • [[Readable Bible/15 - Ezra/Ezra 1#Ezra-R 11]]  
 
 ---
 

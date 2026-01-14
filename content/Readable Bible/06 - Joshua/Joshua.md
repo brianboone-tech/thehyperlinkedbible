@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Joshua-R
 
-[[Home]] • [[Readable Bible/06 - Joshua/Joshua 1#Joshua-R 11]]   
+[[index|Home]] • [[Readable Bible/06 - Joshua/Joshua 1#Joshua-R 11]]   
 
 ---
 

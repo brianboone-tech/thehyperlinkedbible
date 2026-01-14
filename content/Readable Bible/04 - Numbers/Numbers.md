@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Numbers-R
 
-[[Home]] • [[Readable Bible/04 - Numbers/Numbers 1#Numbers-R 1| |  1]]  
+[[index|Home]] • [[Readable Bible/04 - Numbers/Numbers 1#Numbers-R 1| |  1]]  
 
 ---
 

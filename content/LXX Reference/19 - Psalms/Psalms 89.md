@@ -39,7 +39,7 @@ Testament: Old
 [[Lexicon/G1401-1500#G1473|You]] [[Lexicon/G1201-1300#G1202|are master]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2901-3000#G2904|might]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2201-2300#G2281|sea;]] [[Lexicon/G3501-3600#G3588|and the]] [[Lexicon/G4501-4600#G4535|tossing about]] [[Lexicon/G2901-3000#G2949|of its waves]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2601-2700#G2670|soothe.]]
 
 #### Psalms 89 - 10
-[[Lexicon/G1401-1500#G1473|You]] [[Lexicon/G5001-5100#G5013|humbled]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1023|arm]] [[Lexicon/G1401-1500#G1411|of your might]] [[Lexicon/G1201-1300#G1287|you dispersed]] [[Lexicon/G2101-2200#G2190|your enemies.]]
+[[Lexicon/G1401-1500#G1473|You]] [[Lexicon/G5001-5100#G5013|humbled]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1023|arm]] [[Lexicon/G1401-1500#G1411|of your might]] [[Lexicon/G1201-1300#G1287|you dispersed]] [[Lexicon/G2101-2200#G2190|your enemies.]]
 
 #### Psalms 89 - 11
 [[Lexicon/G4601-4700#G4674|are yours]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4674|is yours]] [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G3601-3700#G3611|inhabitable world]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4138|its fullness]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2301-2400#G2311|founded.]]
@@ -96,7 +96,7 @@ Testament: Old
 [[Lexicon/G1501-1600#G1519|Into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon]] [[Lexicon/G5401-5500#G5442|I shall guard]] [[Lexicon/G1401-1500#G1473|to him]] [[Lexicon/G1601-1700#G1656|my mercy;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1242|my covenant]] [[Lexicon/G1401-1500#G1473|to him.]]
 
 #### Psalms 89 - 29
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5001-5100#G5087|I shall establish]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2362|his throne]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G3701-3800#G3772|of heaven.]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5001-5100#G5087|I shall establish]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2362|his throne]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G3701-3800#G3772|of heaven.]]
 
 #### Psalms 89 - 30
 [[Lexicon/G1401-1500#G1437|If]] [[Lexicon/G1401-1500#G1459|should abandon]] [[Lexicon/G3501-3600#G3551|my law,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2917|by my judgments]]
@@ -117,10 +117,10 @@ Testament: Old
 [[Lexicon/G501-600#G0530|Once]] [[Lexicon/G3601-3700#G3660|I swore by an oath]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1-100#G0039|my holiness;]] [[Lexicon/G1401-1500#G1487|shall]] [[Lexicon/G5501-5600#G5574|I lie to David, no.]]
 
 #### Psalms 89 - 36
-[[Lexicon/G4601-4700#G4690|His seed]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2362|his throne]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2246|sun]] [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G1401-1500#G1473|me;]]
+[[Lexicon/G4601-4700#G4690|His seed]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2362|his throne]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2246|sun]] [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G1401-1500#G1473|me;]]
 
 #### Psalms 89 - 37
-[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4582|moon]] [[Lexicon/G2601-2700#G2675|being readied]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3101-3200#G3144|witness]] [[Lexicon/G1301-1400#G1316|PAUSE.]]
+[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4582|moon]] [[Lexicon/G2601-2700#G2675|being readied]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3101-3200#G3144|witness]] [[Lexicon/G1301-1400#G1316|PAUSE.]]
 
 #### Psalms 89 - 38
 [[Lexicon/G1401-1500#G1473|But you]] [[Lexicon/G601-700#G0683|thrusted away]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1847|treated with contempt.]] [[Lexicon/G301-400#G0306|You raised]] [[Lexicon/G5501-5600#G5547|your anointed one .]]

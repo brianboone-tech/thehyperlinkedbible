@@ -30,7 +30,7 @@ Testament: Old
 [[Lexicon/G3001-3100#G3056|word]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heavens]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4151|breath]] [[Lexicon/G4701-4800#G4750|of his mouth]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1401-1500#G1411|their force;]]
 
 #### Psalms 33 - 7
-[[Lexicon/G4801-4900#G4863|bringing together]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G701-800#G0779|in a leather water bag]] [[Lexicon/G2201-2300#G2281|of the sea;]] [[Lexicon/G5001-5100#G5087|putting]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2301-2400#G2344|treasuries]] [[Lexicon/G1-100#G0012|of the deeps.]]
+[[Lexicon/G4801-4900#G4863|bringing together]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G701-800#G0779|in a leather water bag]] [[Lexicon/G2201-2300#G2281|of the sea;]] [[Lexicon/G5001-5100#G5087|putting]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2301-2400#G2344|treasuries]] [[Lexicon/G1-100#G0012|of the deeps.]]
 
 #### Psalms 33 - 8
 [[Lexicon/G5301-5400#G5399|Fear]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth!]] [[Lexicon/G501-600#G0575|because of]] [[Lexicon/G4501-4600#G4531|let be shaken]]

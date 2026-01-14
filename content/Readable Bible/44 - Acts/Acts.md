@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Acts-R
 
-[[Home]] • [[Readable Bible/44 - Acts/Acts 1#Acts-R 1|  | 1]]  
+[[index|Home]] • [[Readable Bible/44 - Acts/Acts 1#Acts-R 1|  | 1]]  
 
 ---
 

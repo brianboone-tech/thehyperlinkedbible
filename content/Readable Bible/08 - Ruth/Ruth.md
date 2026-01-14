@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Ruth-R
 
-[[Home]] • [[Readable Bible/08 - Ruth/Ruth 1#Ruth-R 11]] 
+[[index|Home]] • [[Readable Bible/08 - Ruth/Ruth 1#Ruth-R 11]] 
 
 ---
 

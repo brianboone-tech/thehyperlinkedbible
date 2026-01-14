@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/30 - Amos|Amos]]**
 
-[[Joel-R 3|Joel 3]] • [[Amos-R 2|Amos 2]]
+[[Readable Bible/29 - Joel/Joel 3|Joel 3]] • [[Readable Bible/30 - Amos/Amos 2|Amos 2]]
 
 ---
 

@@ -10,13 +10,13 @@ Testament: Old
 [[LXX Reference/20 - Proverbs/Proverbs 27|←]] • [[LXX Reference/20 - Proverbs/Proverbs 29|→]]
 
 #### Proverbs 28 - 1
-[[Lexicon/G5301-5400#G5343|to flee]] [[Lexicon/G701-800#G0765|ungodly]] [[Lexicon/G3301-3400#G3367|no one]] [[Lexicon/G1301-1400#G1377|to put to flight]] [[Lexicon/G1301-1400#G1342|righteous]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G5601-5700#G5618|just as]] [[Lexicon/G3001-3100#G3023|lion]] [[Lexicon/G3901-4000#G3982|to have confidence]]
+[[Lexicon/G5301-5400#G5343|to flee]] [[Lexicon/G701-800#G0765|ungodly]] [[Lexicon/G3301-3400#G3367|no one]] [[Lexicon/G1301-1400#G1377|to put to flight]] [[Lexicon/G1301-1400#G1342|righteous]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G5601-5624#G5618|just as]] [[Lexicon/G3001-3100#G3023|lion]] [[Lexicon/G3901-4000#G3982|to have confidence]]
 
 #### Proverbs 28 - 2
 [[Lexicon/G1201-1300#G1223|through]] [[Lexicon/G201-300#G0266|sin]] [[Lexicon/G701-800#G0765|ungodly]] [[Lexicon/G2901-3000#G2920|judgment]] [[Lexicon/G1401-1500#G1453|to raise up]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G3801-3900#G3835|crafty]] [[Lexicon/G2601-2700#G2677|extinguishes]] [[Lexicon/G1401-1500#G1473|I]]
 
 #### Proverbs 28 - 3
-[[Lexicon/G401-500#G0406|vigorous man]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G701-800#G0763|ungodliness]] [[Lexicon/G4801-4900#G4811|to accuse falsely]] [[Lexicon/G4401-4500#G4434|poor]] [[Lexicon/G5601-5700#G5618|just as]] [[Lexicon/G5201-5300#G5205|rain]] [[Lexicon/G2901-3000#G2974|fierce]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0512|unprofitable]]
+[[Lexicon/G401-500#G0406|vigorous man]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G701-800#G0763|ungodliness]] [[Lexicon/G4801-4900#G4811|to accuse falsely]] [[Lexicon/G4401-4500#G4434|poor]] [[Lexicon/G5601-5624#G5618|just as]] [[Lexicon/G5201-5300#G5205|rain]] [[Lexicon/G2901-3000#G2974|fierce]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0512|unprofitable]]
 
 #### Proverbs 28 - 4
 [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1459|to desert]] [[Lexicon/G3501-3600#G3551|law]] [[Lexicon/G1401-1500#G1471|laud]] [[Lexicon/G701-800#G0763|ungodliness]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G1-100#G0025|to love]] [[Lexicon/G4001-4100#G4016|to put on]] [[Lexicon/G1401-1500#G1438|himself]] [[Lexicon/G5001-5100#G5038|wall]]

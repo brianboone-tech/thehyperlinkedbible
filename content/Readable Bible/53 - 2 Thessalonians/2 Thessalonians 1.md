@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/53 - 2 Thessalonians|2 Thessalonians]]**
 
-[[1 Thessalonians-R 5|←]] • [[2 Thessalonians-R 2|→]]
+[[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 5|←]] • [[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 2|→]]
 
 ---
 

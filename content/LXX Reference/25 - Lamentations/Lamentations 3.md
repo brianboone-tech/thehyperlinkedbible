@@ -27,7 +27,7 @@ Testament: Old
 [[Lexicon/G401-500#G0456|He built]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2944|he encircled]] [[Lexicon/G2701-2800#G2776|my head,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3401-3500#G3449|troubled me.]]
 
 #### Lamentations 3 - 6
-[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G4601-4700#G4652|dark places]] [[Lexicon/G2501-2600#G2523|he settled]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3401-3500#G3498|dead ones]] [[Lexicon/G101-200#G0165|of the eon.]]
+[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G4601-4700#G4652|dark places]] [[Lexicon/G2501-2600#G2523|he settled]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3401-3500#G3498|dead ones]] [[Lexicon/G101-200#G0165|of the eon.]]
 
 #### Lamentations 3 - 7
 [[Lexicon/G401-500#G0456|He built]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|I shall not]] [[Lexicon/G1801-1900#G1831|come forth.]] [[Lexicon/G901-1000#G0925|He weighed down]] [[Lexicon/G5401-5500#G5475|my brass chain.]]
@@ -39,13 +39,13 @@ Testament: Old
 [[Lexicon/G401-500#G0456|He blocked up]] [[Lexicon/G3501-3600#G3598|my ways;]] [[Lexicon/G1701-1800#G1719|he obstructed]] [[Lexicon/G5101-5200#G5147|my roads;]] [[Lexicon/G5001-5100#G5015|he disturbed me.]]
 
 #### Lamentations 3 - 10
-[[Lexicon/G701-800#G0715|a bear]] [[Lexicon/G1401-1500#G1473|for me,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3001-3100#G3023|a lion]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2901-3000#G2930|a secret place.]]
+[[Lexicon/G701-800#G0715|a bear]] [[Lexicon/G1401-1500#G1473|for me,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3001-3100#G3023|a lion]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2901-3000#G2930|a secret place.]]
 
 #### Lamentations 3 - 11
 [[Lexicon/G2601-2700#G2614|He pursued me]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2664|caused me to cease.]] [[Lexicon/G5001-5100#G5087|He established]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G801-900#G0853|for being obliterated.]]
 
 #### Lamentations 3 - 12
-[[Lexicon/G1701-1800#G1780|He stretched tight]] [[Lexicon/G5101-5200#G5115|his bow,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4701-4800#G4739|he set up a stone target]] [[Lexicon/G1401-1500#G1473|for me]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1501-1600#G1519|for]]
+[[Lexicon/G1701-1800#G1780|He stretched tight]] [[Lexicon/G5101-5200#G5115|his bow,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4701-4800#G4739|he set up a stone target]] [[Lexicon/G1401-1500#G1473|for me]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1501-1600#G1519|for]]
 
 #### Lamentations 3 - 13
 [[Lexicon/G1501-1600#G1521|He brought]] [[Lexicon/G1701-1800#G1722|into]]

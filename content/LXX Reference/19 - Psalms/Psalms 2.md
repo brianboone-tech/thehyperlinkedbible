@@ -36,7 +36,7 @@ Testament: Old
 [[Lexicon/G101-200#G0154|Ask]] [[Lexicon/G3801-3900#G3844|from]] [[Lexicon/G1401-1500#G1473|me!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|I will give]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G2801-2900#G2817|for your inheritance;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2697|for your possession]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4001-4100#G4009|ends]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|earth.]]
 
 #### Psalms 2 - 9
-[[Lexicon/G4101-4200#G4165|You shall tend]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G4401-4500#G4464|a rod]] [[Lexicon/G4601-4700#G4603|of iron;]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4601-4700#G4632|vessels]] [[Lexicon/G2701-2800#G2763|of a potter]] [[Lexicon/G4901-5000#G4937|you shall break]] [[Lexicon/G1401-1500#G1473|them.]]
+[[Lexicon/G4101-4200#G4165|You shall tend]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G4401-4500#G4464|a rod]] [[Lexicon/G4601-4700#G4603|of iron;]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4601-4700#G4632|vessels]] [[Lexicon/G2701-2800#G2763|of a potter]] [[Lexicon/G4901-5000#G4937|you shall break]] [[Lexicon/G1401-1500#G1473|them.]]
 
 #### Psalms 2 - 10
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3568|now,]] [[Lexicon/G901-1000#G0935|O kings,]] [[Lexicon/G4901-5000#G4920|perceive!]] [[Lexicon/G3801-3900#G3811|Let be instructed]]

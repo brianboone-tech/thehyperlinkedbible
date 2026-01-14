@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Galatians-R
 
-[[Home]] • [[Readable Bible/48 - Galatians/Galatians 1#Galatians-R 1|  | 1]]   
+[[index|Home]] • [[Readable Bible/48 - Galatians/Galatians 1#Galatians-R 1|  | 1]]   
 
 ---
 

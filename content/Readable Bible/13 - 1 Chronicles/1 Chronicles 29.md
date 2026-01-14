@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/13 - 1 Chronicles|1 Chronicles]]**
 
-[[Readable Bible/13 - 1 Chronicles/1 Chronicles 28#1 Chronicles-R 28| 1 Chronicles 28]] - [[Readable Bible/13 - 1 Chronicles/1 Chronicles 30#1 Chronicles-R 30| 1 Chronicles 30]]
+[[Readable Bible/13 - 1 Chronicles/1 Chronicles 28#1 Chronicles-R 28| 1 Chronicles 28]]
 
 ---
 

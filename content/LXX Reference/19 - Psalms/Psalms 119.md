@@ -51,7 +51,7 @@ Testament: Old
 [[Lexicon/G1701-1800#G1722|With]] [[Lexicon/G5401-5500#G5491|my lips]] [[Lexicon/G1801-1900#G1804|I will declare]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2917|judgments]] [[Lexicon/G4701-4800#G4750|of your mouth.]]
 
 #### Psalms 119 - 14
-[[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1901-2000#G1909|above]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4101-4200#G4149|riches.]]
+[[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1901-2000#G1909|above]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4101-4200#G4149|riches.]]
 
 #### Psalms 119 - 15
 [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G1701-1800#G1785|your commandments]] [[Lexicon/G1-100#G0096|I shall meditate;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2657|I shall contemplate]] [[Lexicon/G3501-3600#G3598|your ways.]]
@@ -258,13 +258,13 @@ Testament: Old
 [[Lexicon/G1501-1600#G1587|failed]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3001-3100#G3051|your oracle,]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G4201-4300#G4219|When]] [[Lexicon/G3801-3900#G3870|will you comfort]] [[Lexicon/G1401-1500#G1473|me?]]
 
 #### Psalms 119 - 83
-[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1001-1100#G1096|I became]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G701-800#G0779|a leather bag]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3974|frost;]] [[Lexicon/G1301-1400#G1345|your ordinances]] [[Lexicon/G3701-3800#G3756|I forgot not.]]
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1001-1100#G1096|I became]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G701-800#G0779|a leather bag]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3974|frost;]] [[Lexicon/G1301-1400#G1345|your ordinances]] [[Lexicon/G3701-3800#G3756|I forgot not.]]
 
 #### Psalms 119 - 84
 [[Lexicon/G4201-4300#G4214|How many]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G1401-1500#G1401|of your servant?]] [[Lexicon/G4201-4300#G4219|When]] [[Lexicon/G4101-4200#G4160|will you execute]] [[Lexicon/G1401-1500#G1473|for me]] [[Lexicon/G1501-1600#G1537|against]]
 
 #### Psalms 119 - 85
-[[Lexicon/G1301-1400#G1334|described]] [[Lexicon/G201-300#G0235|but]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5700#G5613|according to]] [[Lexicon/G3501-3600#G3551|your law,]] [[Lexicon/G2901-3000#G2962|O lord.]]
+[[Lexicon/G1301-1400#G1334|described]] [[Lexicon/G201-300#G0235|but]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5624#G5613|according to]] [[Lexicon/G3501-3600#G3551|your law,]] [[Lexicon/G2901-3000#G2962|O lord.]]
 
 #### Psalms 119 - 86
 [[Lexicon/G3901-4000#G3956|All]] [[Lexicon/G1701-1800#G1785|your commandments]] [[Lexicon/G1-100#G0095|unjustly]] [[Lexicon/G901-1000#G0997|help]] [[Lexicon/G1401-1500#G1473|me!]]
@@ -300,7 +300,7 @@ Testament: Old
 [[Lexicon/G3901-4000#G3956|of every]] [[Lexicon/G4101-4200#G4116|spacious]]
 
 #### Psalms 119 - 97
-[[Lexicon/G5601-5700#G5613|How]] [[Lexicon/G1-100#G0025|I loved]] [[Lexicon/G3501-3600#G3551|your law,]] [[Lexicon/G2901-3000#G2962|O lord;]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G3101-3200#G3191|meditation]]
+[[Lexicon/G5601-5624#G5613|How]] [[Lexicon/G1-100#G0025|I loved]] [[Lexicon/G3501-3600#G3551|your law,]] [[Lexicon/G2901-3000#G2962|O lord;]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G3101-3200#G3191|meditation]]
 
 #### Psalms 119 - 98
 [[Lexicon/G5201-5300#G5228|Above]] [[Lexicon/G2101-2200#G2190|my enemies]] [[Lexicon/G4601-4700#G4679|you made me wiser]] [[Lexicon/G1701-1800#G1785|by your commandment;]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon]] [[Lexicon/G1601-1700#G1699|it is to me.]]
@@ -318,7 +318,7 @@ Testament: Old
 [[Lexicon/G501-600#G0575|From]] [[Lexicon/G2901-3000#G2917|your judgments]] [[Lexicon/G3701-3800#G3756|I did not]] [[Lexicon/G1501-1600#G1578|turn aside;]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G3501-3600#G3549|established law]] [[Lexicon/G1401-1500#G1473|for me.]]
 
 #### Psalms 119 - 103
-[[Lexicon/G5601-5700#G5613|How]] [[Lexicon/G1001-1100#G1099|sweet]] [[Lexicon/G3501-3600#G3588|to]] [[Lexicon/G2901-3000#G2995|my throat]] [[Lexicon/G3001-3100#G3051|your oracles;]] [[Lexicon/G5201-5300#G5228|more than]] [[Lexicon/G3101-3200#G3192|honey]] [[Lexicon/G4701-4800#G4750|my mouth.]]
+[[Lexicon/G5601-5624#G5613|How]] [[Lexicon/G1001-1100#G1099|sweet]] [[Lexicon/G3501-3600#G3588|to]] [[Lexicon/G2901-3000#G2995|my throat]] [[Lexicon/G3001-3100#G3051|your oracles;]] [[Lexicon/G5201-5300#G5228|more than]] [[Lexicon/G3101-3200#G3192|honey]] [[Lexicon/G4701-4800#G4750|my mouth.]]
 
 #### Psalms 119 - 104
 [[Lexicon/G501-600#G0575|By]] [[Lexicon/G1701-1800#G1785|your commandments]] [[Lexicon/G4901-5000#G4920|I perceived;]] [[Lexicon/G1201-1300#G1223|on account of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G3401-3500#G3404|I detested]] [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G3501-3600#G3598|way]] [[Lexicon/G1-100#G0093|of injustice.]]
@@ -495,7 +495,7 @@ Testament: Old
 [[Lexicon/G701-800#G0758|Rulers]] [[Lexicon/G2601-2700#G2614|pursued]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1401-1500#G1431|without charge;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3001-3100#G3056|your words]] [[Lexicon/G1101-1200#G1168|was timid]]
 
 #### Psalms 119 - 162
-[[Lexicon/G1-100#G0021|I shall exult]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G3001-3100#G3051|your oracles,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2101-2200#G2147|one finding]] [[Lexicon/G4601-4700#G4661|spoils]]
+[[Lexicon/G1-100#G0021|I shall exult]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G3001-3100#G3051|your oracles,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2101-2200#G2147|one finding]] [[Lexicon/G4601-4700#G4661|spoils]]
 
 #### Psalms 119 - 163
 [[Lexicon/G1-100#G0093|Injustice]] [[Lexicon/G3401-3500#G3404|I detested]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G901-1000#G0948|abhorred;]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G3501-3600#G3551|your law]] [[Lexicon/G1-100#G0025|I loved.]]
@@ -537,4 +537,4 @@ Testament: Old
 [[Lexicon/G2101-2200#G2198|shall live]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0134|it shall praise]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2917|your judgments]] [[Lexicon/G901-1000#G0997|shall help]] [[Lexicon/G1401-1500#G1473|me.]]
 
 #### Psalms 119 - 176
-[[Lexicon/G4101-4200#G4105|I wandered]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4201-4300#G4263|a sheep]] [[Lexicon/G601-700#G0622|perishing.]] [[Lexicon/G2201-2300#G2212|Seek]] [[Lexicon/G1401-1500#G1401|your servant!]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1701-1800#G1785|your commandments]] [[Lexicon/G3701-3800#G3756|I did not]] [[Lexicon/G1901-2000#G1950|forget.]]
+[[Lexicon/G4101-4200#G4105|I wandered]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4201-4300#G4263|a sheep]] [[Lexicon/G601-700#G0622|perishing.]] [[Lexicon/G2201-2300#G2212|Seek]] [[Lexicon/G1401-1500#G1401|your servant!]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1701-1800#G1785|your commandments]] [[Lexicon/G3701-3800#G3756|I did not]] [[Lexicon/G1901-2000#G1950|forget.]]

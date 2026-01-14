@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Joel-R
 
-[[Home]] • [[Readable Bible/29 - Joel/Joel 1#Joel-R 11]]  
+[[index|Home]] • [[Readable Bible/29 - Joel/Joel 1#Joel-R 11]]  
 
 ---
 

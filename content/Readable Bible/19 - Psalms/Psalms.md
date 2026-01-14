@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Psalm-R
 
-[[Home]] • [[Readable Bible/19 - Psalms/Psalm 1#Psalm-R 11]]
+[[index|Home]] • [[Readable Bible/19 - Psalms/Psalm 1#Psalm-R 11]]
 
 ---
 

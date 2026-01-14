@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 1 John-R
 
-[[Home]] • [[Readable Bible/62 - 1 John/1 John 1#1 John-R 1|1 John1]]   
+[[index|Home]] • [[Readable Bible/62 - 1 John/1 John 1#1 John-R 1|1 John1]]   
 
 ---
 

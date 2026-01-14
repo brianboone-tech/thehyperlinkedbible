@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Colossians-R
 
-[[Home]] • [[Readable Bible/51 - Colossians/Colossians 1#Colossians-R 1|  | 1]]   
+[[index|Home]] • [[Readable Bible/51 - Colossians/Colossians 1#Colossians-R 1|  | 1]]   
 
 ---
 

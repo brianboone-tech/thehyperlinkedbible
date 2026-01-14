@@ -45,4 +45,4 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2101-2200#G2165|may be glad]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2681|you shall encamp]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G1401-1500#G1473|them;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2744|shall boast]]
 
 #### Psalms 5 - 12
-[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2101-2200#G2127|shall bless]] [[Lexicon/G2901-3000#G2962|O lord.]] [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G3601-3700#G3696|a shield]] [[Lexicon/G2101-2200#G2107|of benevolence]] [[Lexicon/G4701-4800#G4737|you crowned]] [[Lexicon/G1401-1500#G1473|us.]]
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2101-2200#G2127|shall bless]] [[Lexicon/G2901-3000#G2962|O lord.]] [[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G3601-3700#G3696|a shield]] [[Lexicon/G2101-2200#G2107|of benevolence]] [[Lexicon/G4701-4800#G4737|you crowned]] [[Lexicon/G1401-1500#G1473|us.]]

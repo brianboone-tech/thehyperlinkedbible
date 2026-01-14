@@ -21,16 +21,16 @@ Testament: Old
 [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G1-100#G0079|my beloved man,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0079|my beloved man]] [[Lexicon/G1401-1500#G1473|to me]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G4101-4200#G4165|tending]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2918|lilies.]]
 
 #### Song of Solomon 6 - 4
-[[Lexicon/G2501-2600#G2570|You are fair,]] [[Lexicon/G4101-4200#G4139|O dear one,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2101-2200#G2107|good-pleasure;]] [[Lexicon/G5601-5700#G5611|beautiful]] [[Lexicon/G5601-5700#G5613|as]] Jerusalem; [[Lexicon/G2201-2300#G2285|a consternation]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5001-5100#G5021|ones arranged for battle.]]
+[[Lexicon/G2501-2600#G2570|You are fair,]] [[Lexicon/G4101-4200#G4139|O dear one,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2101-2200#G2107|good-pleasure;]] [[Lexicon/G5601-5624#G5611|beautiful]] [[Lexicon/G5601-5624#G5613|as]] Jerusalem; [[Lexicon/G2201-2300#G2285|a consternation]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5001-5100#G5021|ones arranged for battle.]]
 
 #### Song of Solomon 6 - 5
 [[Lexicon/G601-700#G0654|Turn away]] [[Lexicon/G3701-3800#G3788|your eyes]] [[Lexicon/G501-600#G0561|from before]] [[Lexicon/G1401-1500#G1473|me!]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G301-400#G0379|incited]] [[Lexicon/G1401-1500#G1473|me.]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G101-200#G0137|goats]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G301-400#G0305|ascended]] [[Lexicon/G501-600#G0575|from]] Gilead.
 
 #### Song of Solomon 6 - 6
-[[Lexicon/G3501-3600#G3599|Your teeth]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1-100#G0034|herds]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2701-2800#G2751|ones being sheared,]] [[Lexicon/G3701-3800#G3739|the ones which]] [[Lexicon/G301-400#G0305|ascend]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3067|bath,]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1301-1400#G1323|bearing twins,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G0815|one being childless]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|them.]] [[Lexicon/G5601-5700#G5613| are as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2981|your speech]] [[Lexicon/G5601-5700#G5611|is beautiful.]]
+[[Lexicon/G3501-3600#G3599|Your teeth]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1-100#G0034|herds]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2701-2800#G2751|ones being sheared,]] [[Lexicon/G3701-3800#G3739|the ones which]] [[Lexicon/G301-400#G0305|ascend]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3067|bath,]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1301-1400#G1323|bearing twins,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G0815|one being childless]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|them.]] [[Lexicon/G5601-5624#G5613| are as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2981|your speech]] [[Lexicon/G5601-5624#G5611|is beautiful.]]
 
 #### Song of Solomon 6 - 7
-[[Lexicon/G5601-5700#G5613| are as]] [[Lexicon/G4601-4700#G4623|your veil.]]
+[[Lexicon/G5601-5624#G5613| are as]] [[Lexicon/G4601-4700#G4623|your veil.]]
 
 #### Song of Solomon 6 - 8
 [[Lexicon/G1801-1900#G1835|sixty]] [[Lexicon/G901-1000#G0938|queens,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3589|eighty]] [[Lexicon/G3801-3900#G3825|concubines,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3401-3500#G3494|young women]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3701-3800#G3756|there is no]] [[Lexicon/G701-800#G0706|number.]]
@@ -39,7 +39,7 @@ Testament: Old
 [[Lexicon/G1501-1600#G1520|is one]] [[Lexicon/G5001-5100#G5046|my perfect one.]] [[Lexicon/G1501-1600#G1520|She is the only one]] [[Lexicon/G3301-3400#G3384|her mother;]] [[Lexicon/G1501-1600#G1510|is]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G5001-5100#G5088|one giving birth to]] [[Lexicon/G1401-1500#G1473|her.]] [[Lexicon/G1401-1500#G1492|beheld]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3101-3200#G3106|will declare her blessed]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1065|indeed]] [[Lexicon/G2501-2600#G2532|also]] [[Lexicon/G101-200#G0134|shall praise]] [[Lexicon/G1401-1500#G1473|her.]]
 
 #### Song of Solomon 6 - 10
-[[Lexicon/G5001-5100#G5100|Who]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G1501-1600#G1582|looking out]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G2501-2600#G2570|fair]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1501-1600#G1588|choice]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2246|sun,]] [[Lexicon/G5601-5700#G5613|as]]
+[[Lexicon/G5001-5100#G5100|Who]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G1501-1600#G1582|looking out]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G2501-2600#G2570|fair]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1501-1600#G1588|choice]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2246|sun,]] [[Lexicon/G5601-5624#G5613|as]]
 
 #### Song of Solomon 6 - 11
 [[Lexicon/G1501-1600#G1519|Into]] [[Lexicon/G2501-2600#G2594|of walnuts]] [[Lexicon/G2501-2600#G2597|I went down]] [[Lexicon/G1401-1500#G1492|to behold]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1492|to see]] [[Lexicon/G1401-1500#G1487|if]] [[Lexicon/G401-500#G0435|bloomed]] [[Lexicon/G1801-1900#G1816|blossomed]]

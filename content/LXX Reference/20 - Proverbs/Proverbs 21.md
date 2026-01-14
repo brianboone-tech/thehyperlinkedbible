@@ -10,7 +10,7 @@ Testament: Old
 [[LXX Reference/20 - Proverbs/Proverbs 20|←]] • [[LXX Reference/20 - Proverbs/Proverbs 22|→]]
 
 #### Proverbs 21 - 1
-[[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G3701-3800#G3730|rush]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G2501-2600#G2588|heart]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5401-5500#G5495|hand]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G3701-3800#G3739|where]] [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G2301-2400#G2309|wishing]] [[Lexicon/G3501-3600#G3506|nod]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G2801-2900#G2827|leans]] [[Lexicon/G1401-1500#G1473|it]]
+[[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G3701-3800#G3730|rush]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G2501-2600#G2588|heart]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5401-5500#G5495|hand]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G3701-3800#G3739|where]] [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G2301-2400#G2309|wishing]] [[Lexicon/G3501-3600#G3506|nod]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G2801-2900#G2827|leans]] [[Lexicon/G1401-1500#G1473|it]]
 
 #### Proverbs 21 - 2
 [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G5301-5400#G5316|appears]] [[Lexicon/G1401-1500#G1438|himself]] [[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G2701-2800#G2720|straightens]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G2501-2600#G2588|heart]] [[Lexicon/G2901-3000#G2962|lord]]

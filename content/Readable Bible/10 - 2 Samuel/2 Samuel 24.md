@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/10 - 2 Samuel|2 Samuel]]**
 
-[[Readable Bible/10 - 2 Samuel/2 Samuel 23#2 Samuel-R 23| 2 Samuel 23]] - [[Readable Bible/10 - 2 Samuel/2 Samuel 25#2 Samuel-R 25| 2 Samuel 25]]
+[[Readable Bible/10 - 2 Samuel/2 Samuel 23#2 Samuel-R 23| 2 Samuel 23]]
 
 ---
 

@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Hosea-R
 
-[[Home]] • [[Readable Bible/28 - Hosea/Hosea 1#Hosea-R 11]]  
+[[index|Home]] • [[Readable Bible/28 - Hosea/Hosea 1#Hosea-R 11]]  
 
 ---
 

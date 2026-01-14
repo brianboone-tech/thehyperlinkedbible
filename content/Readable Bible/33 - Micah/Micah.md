@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Micah-R
 
-[[Home]] • [[Readable Bible/33 - Micah/Micah 1#Micah-R 11]] 
+[[index|Home]] • [[Readable Bible/33 - Micah/Micah 1#Micah-R 11]] 
 
 ---
 

@@ -24,7 +24,7 @@ Testament: Old
 [[Lexicon/G1301-1400#G1360|For]] [[Lexicon/G3501-3600#G3592|thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] of Israel, [[Lexicon/G1501-1600#G1567|Inquire of]] [[Lexicon/G1401-1500#G1473|me!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2198|you shall live.]]
 
 #### Amos 5 - 5
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3301-3400#G3361|do not]] [[Lexicon/G1501-1600#G1567|seek after]] Beth-el, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1519|into]] Gilgal [[Lexicon/G3301-3400#G3361|enter not,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|by]] [[Lexicon/G5401-5500#G5421|Well]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3727|Oath]] [[Lexicon/G3301-3400#G3361|do not pass over!]] [[Lexicon/G3701-3800#G3754|For]] Gilgal, [[Lexicon/G101-200#G0162|by capturing]] [[Lexicon/G101-200#G0162|shall be captured,]] [[Lexicon/G2501-2600#G2532|and]] Beth-el [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5201-5300#G5224|existing.]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3301-3400#G3361|do not]] [[Lexicon/G1501-1600#G1567|seek after]] Beth-el, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1519|into]] Gilgal [[Lexicon/G3301-3400#G3361|enter not,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|by]] [[Lexicon/G5401-5500#G5421|Well]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3727|Oath]] [[Lexicon/G3301-3400#G3361|do not pass over!]] [[Lexicon/G3701-3800#G3754|For]] Gilgal, [[Lexicon/G101-200#G0162|by capturing]] [[Lexicon/G101-200#G0162|shall be captured,]] [[Lexicon/G2501-2600#G2532|and]] Beth-el [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5201-5300#G5224|existing.]]
 
 #### Amos 5 - 6
 [[Lexicon/G1501-1600#G1567|Inquire of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2198|live!]] [[Lexicon/G3701-3800#G3704|so that]] [[Lexicon/G3301-3400#G3361|should not]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2719|it should devour]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|there shall not be]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G4501-4600#G4570|extinguishing]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3601-3700#G3624|house]] of Israel.
@@ -78,10 +78,10 @@ Testament: Old
 [[Lexicon/G1301-1400#G1360|For]] [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G5301-5400#G5342|you should bring]] [[Lexicon/G1401-1500#G1473|to me]] [[Lexicon/G3601-3700#G3646|whole burnt-offerings]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2378|your sacrifice offerings,]] [[Lexicon/G3701-3800#G3756|I will not]] [[Lexicon/G4301-4400#G4327|favorably receive them.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4901-5000#G4992|deliverance offering]]
 
 #### Amos 5 - 23
-[[Lexicon/G3101-3200#G3179|Remove]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5601-5700#G5603|of your odes!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5568| the psalm]]
+[[Lexicon/G3101-3200#G3179|Remove]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5601-5624#G5603|of your odes!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5568| the psalm]]
 
 #### Amos 5 - 24
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2947|shall roll down]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1343|righteousness]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5401-5500#G5493|rushing stream]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2947|shall roll down]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1343|righteousness]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5401-5500#G5493|rushing stream]]
 
 #### Amos 5 - 25
 [[Lexicon/G3301-3400#G3361|Did]] [[Lexicon/G4901-5000#G4968|victims for slaughter]] [[Lexicon/G3601-3700#G3624|O house]] of Israel, [[Lexicon/G5001-5100#G5062|for forty]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2048|wilderness?]]

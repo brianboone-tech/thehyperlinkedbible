@@ -1,4 +1,4 @@
-**[[01 - Home - Welcome|Home]] > [[- Hermeneutics|Hermeneutics]] > [[27 - How Quotations - Overview|How Quotations Reveal Authorial Intent]] > Promise Shapes Pattern**
+**[[index|Home]] > [[- Hermeneutics|Hermeneutics]] > [[27 - How Quotations - Overview|How Quotations Reveal Authorial Intent]] > Promise Shapes Pattern**
 
 ---
 

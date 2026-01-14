@@ -7,7 +7,7 @@ cssClasses: lexicon
 
 # Genesis-R
 
-[[Home]] • [[Readable Bible/01 - Genesis/Genesis 1#Genesis-R 1| | 1]]
+[[index|Home]] • [[Readable Bible/01 - Genesis/Genesis 1#Genesis-R 1| | 1]]
 
 ---
 

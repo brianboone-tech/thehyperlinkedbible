@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Romans-R
 
-[[Home]] • [[Readable Bible/45 - Romans/Romans 1#Romans-R 1|  | 1]]  
+[[index|Home]] • [[Readable Bible/45 - Romans/Romans 1#Romans-R 1|  | 1]]  
 
 ---
 

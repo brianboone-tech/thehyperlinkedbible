@@ -15,7 +15,7 @@ Testament: Old
 [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G2801-2900#G2896|I cried out]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you.]] [[Lexicon/G1501-1600#G1522|Listen to]] [[Lexicon/G1401-1500#G1473|me!]] [[Lexicon/G4301-4400#G4337|Take heed]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G5401-5500#G5456|voice]] [[Lexicon/G1101-1200#G1162|of my supplication]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2801-2900#G2896|my crying]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you!]]
 
 #### Psalms 141 - 2
-[[Lexicon/G2701-2800#G2720|May be straightened]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2301-2400#G2368|incense]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G5401-5500#G5495|of my hands]] [[Lexicon/G2301-2400#G2378|as a sacrifice]] [[Lexicon/G2001-2100#G2073|at evening.]]
+[[Lexicon/G2701-2800#G2720|May be straightened]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2301-2400#G2368|incense]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G5401-5500#G5495|of my hands]] [[Lexicon/G2301-2400#G2378|as a sacrifice]] [[Lexicon/G2001-2100#G2073|at evening.]]
 
 #### Psalms 141 - 3
 [[Lexicon/G5001-5100#G5087|Set,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G5401-5500#G5438|a watch]] [[Lexicon/G3501-3600#G3588|for]] [[Lexicon/G4701-4800#G4750|my mouth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2374|door]] [[Lexicon/G4001-4100#G4012|for]] [[Lexicon/G5401-5500#G5491|my lips!]]
@@ -30,7 +30,7 @@ Testament: Old
 [[Lexicon/G2601-2700#G2666|were swallowed down]] [[Lexicon/G101-200#G0191|They shall hear]] [[Lexicon/G4401-4500#G4487|my sayings,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G2201-2300#G2237|they are a delight.]]
 
 #### Psalms 141 - 7
-[[Lexicon/G5601-5700#G5616|As]] [[Lexicon/G3901-4000#G3974|thick]] [[Lexicon/G1001-1100#G1093|ground]] [[Lexicon/G4401-4500#G4486|was broken asunder]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G1201-1300#G1287|were dispersed]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G1-100#G0086|Hades.]]
+[[Lexicon/G5601-5624#G5616|As]] [[Lexicon/G3901-4000#G3974|thick]] [[Lexicon/G1001-1100#G1093|ground]] [[Lexicon/G4401-4500#G4486|was broken asunder]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G1201-1300#G1287|were dispersed]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G1-100#G0086|Hades.]]
 
 #### Psalms 141 - 8
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4301-4400#G4314|unto]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G2901-3000#G2962|O Lord,]] [[Lexicon/G1901-2000#G1909|Upon]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1601-1700#G1679|I hoped;]] [[Lexicon/G3301-3400#G3361|you should not]] [[Lexicon/G401-500#G0465|take away in return]]

@@ -12,7 +12,7 @@ Testament: Old
 ---
 
 #### 2 Samuel 22 - 1
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2980|David spoke]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3056|words]] [[Lexicon/G5601-5700#G5603|of this ode]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1801-1900#G1807|rescued]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G2101-2200#G2190|his enemies,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1537|from out of]] of Saul.
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2980|David spoke]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3056|words]] [[Lexicon/G5601-5624#G5603|of this ode]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1801-1900#G1807|rescued]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G2101-2200#G2190|his enemies,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1537|from out of]] of Saul.
 
 #### 2 Samuel 22 - 2
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|he said,]] [[Lexicon/G4001-4100#G4073|my rock,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3794|my fortress,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|me.]]
@@ -111,7 +111,7 @@ Testament: Old
 [[Lexicon/G2301-2400#G2316|God ]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2901|one strengthening]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5087|he established]] [[Lexicon/G201-300#G0299|as unblemished]]
 
 #### 2 Samuel 22 - 34
-[[Lexicon/G5001-5100#G5087|setting]] [[Lexicon/G4201-4300#G4228|my feet]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1601-1700#G1643|a stag,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2401-2500#G2476|standing]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5301-5400#G5308|heights;]]
+[[Lexicon/G5001-5100#G5087|setting]] [[Lexicon/G4201-4300#G4228|my feet]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1601-1700#G1643|a stag,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2401-2500#G2476|standing]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5301-5400#G5308|heights;]]
 
 #### 2 Samuel 22 - 35
 [[Lexicon/G1301-1400#G1321|teaching]] [[Lexicon/G5401-5500#G5495|my hands]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G4101-4200#G4171|war,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2608|breaking]] [[Lexicon/G5401-5500#G5470|of brass]] [[Lexicon/G1901-2000#G1909|by]] [[Lexicon/G1001-1100#G1023|my arms.]]
@@ -138,13 +138,13 @@ Testament: Old
 [[Lexicon/G301-400#G0310|They yelled out,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|there was not]] [[Lexicon/G4901-5000#G4982|one delivering;]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|he did not]] [[Lexicon/G1801-1900#G1873|take heed]] [[Lexicon/G1401-1500#G1473|of them.]]
 
 #### 2 Samuel 22 - 43
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3001-3100#G3001|I ground]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5501-5600#G5522|dust]] [[Lexicon/G1001-1100#G1093|of the earth;]] [[Lexicon/G5601-5700#G5613|as]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3001-3100#G3001|I ground]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5501-5600#G5522|dust]] [[Lexicon/G1001-1100#G1093|of the earth;]] [[Lexicon/G5601-5624#G5613|as]]
 
 #### 2 Samuel 22 - 44
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1807|you rescued]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G401-500#G0485|disputes]] [[Lexicon/G2901-3000#G2992|of people;]] [[Lexicon/G5401-5500#G5442|you shall guard]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1519|as]] [[Lexicon/G2701-2800#G2776|head]] [[Lexicon/G1401-1500#G1484|of nations.]] [[Lexicon/G2901-3000#G2992|A people]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G1001-1100#G1097|knowing,]] [[Lexicon/G1301-1400#G1398|served]] [[Lexicon/G1401-1500#G1473|to me.]]
 
 #### 2 Samuel 22 - 45
-[[Lexicon/G1501-1600#G1519|With]] [[Lexicon/G101-200#G0189|a hearing]] [[Lexicon/G5601-5700#G5621|ear]] [[Lexicon/G5201-5300#G5219|it obeyed]] [[Lexicon/G1401-1500#G1473|me.]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G5501-5600#G5574|lied]] [[Lexicon/G1401-1500#G1473|to me;]]
+[[Lexicon/G1501-1600#G1519|With]] [[Lexicon/G101-200#G0189|a hearing]] [[Lexicon/G5601-5624#G5621|ear]] [[Lexicon/G5201-5300#G5219|it obeyed]] [[Lexicon/G1401-1500#G1473|me.]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G5501-5600#G5574|lied]] [[Lexicon/G1401-1500#G1473|to me;]]
 
 #### 2 Samuel 22 - 46
 [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G601-700#G0641|shall reel ]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4901-5000#G4968|they shall trip]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G4701-4800#G4787|their confinement.]]

@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/36 - Zephaniah|Zephaniah]]**
 
-[[Habakkuk-R 3|Habakkuk 3]] • [[Zephaniah-R 2|Zephaniah 2]]
+[[Readable Bible/35 - Habakkuk/Habakkuk 3|Habakkuk 3]] • [[Readable Bible/36 - Zephaniah/Zephaniah 2|Zephaniah 2]]
 
 ---
 

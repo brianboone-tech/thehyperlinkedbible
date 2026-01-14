@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 2 Peter-R
 
-[[Home]] • [[Readable Bible/61 - 2 Peter/2 Peter 1#2 Peter-R 1|  | 1]]  
+[[index|Home]] • [[Readable Bible/61 - 2 Peter/2 Peter 1#2 Peter-R 1|  | 1]]  
 
 ---
 

@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # James-R
 
-[[Home]] • [[Readable Bible/59 - James/James 1#James-R 1|  | 1]]  
+[[index|Home]] • [[Readable Bible/59 - James/James 1#James-R 1|  | 1]]  
 
 ---
 

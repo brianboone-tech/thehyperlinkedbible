@@ -36,7 +36,7 @@ Testament: Old
 [[Lexicon/G4301-4400#G4314|To]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G2801-2900#G2896|I cry out.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G2301-2400#G2316|my God]] [[Lexicon/G1101-1200#G1189|I shall beseech.]]
 
 #### Psalms 30 - 9
-[[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G5601-5700#G5622|benefit]] [[Lexicon/G101-200#G0129|my blood,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2597|my going down]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G1301-1400#G1312|corruption?]] [[Lexicon/G3301-3400#G3361|Shall]] [[Lexicon/G1801-1900#G1843|acknowledge]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G301-400#G0312|shall it announce]] [[Lexicon/G201-300#G0225|your truth?]]
+[[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G5601-5624#G5622|benefit]] [[Lexicon/G101-200#G0129|my blood,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2597|my going down]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G1301-1400#G1312|corruption?]] [[Lexicon/G3301-3400#G3361|Shall]] [[Lexicon/G1801-1900#G1843|acknowledge]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G301-400#G0312|shall it announce]] [[Lexicon/G201-300#G0225|your truth?]]
 
 #### Psalms 30 - 10
 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1601-1700#G1653|showed mercy]] [[Lexicon/G1401-1500#G1473|on me.]] [[Lexicon/G1001-1100#G1096|became]] [[Lexicon/G901-1000#G0998|my helper.]]

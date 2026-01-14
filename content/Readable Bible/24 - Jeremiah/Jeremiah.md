@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Jeremiah-R
 
-[[Home]] • [[Readable Bible/24 - Jeremiah/Jeremiah 1#Jeremiah-R 11]]     
+[[index|Home]] • [[Readable Bible/24 - Jeremiah/Jeremiah 1#Jeremiah-R 11]]     
 
 ---
  [[Readable Bible/24 - Jeremiah/Jeremiah 1#Jeremiah-R 101]] | [[Readable Bible/24 - Jeremiah/Jeremiah 2#Jeremiah-R 202]] | [[Readable Bible/24 - Jeremiah/Jeremiah 3#Jeremiah-R 303]] | [[Readable Bible/24 - Jeremiah/Jeremiah 4#Jeremiah-R 404]] | [[Readable Bible/24 - Jeremiah/Jeremiah 5#Jeremiah-R 505]] | [[Readable Bible/24 - Jeremiah/Jeremiah 6#Jeremiah-R 606]] | [[Readable Bible/24 - Jeremiah/Jeremiah 7#Jeremiah-R 707]] | [[Readable Bible/24 - Jeremiah/Jeremiah 8#Jeremiah-R 808]] | [[Readable Bible/24 - Jeremiah/Jeremiah 9#Jeremiah-R 909]] | [[Readable Bible/24 - Jeremiah/Jeremiah 10#Jeremiah-R 1010|]]

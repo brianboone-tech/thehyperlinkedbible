@@ -24,7 +24,7 @@ Testament: Old
 [[Lexicon/G5301-5400#G5308|High]] [[Lexicon/G1901-2000#G1909|above]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heavens]] [[Lexicon/G1301-1400#G1391|his glory.]]
 
 #### Psalms 113 - 5
-[[Lexicon/G5001-5100#G5100|Who is]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2301-2400#G2316|our God?]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G1701-1800#G1722|in]]
+[[Lexicon/G5001-5100#G5100|Who is]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2301-2400#G2316|our God?]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G1701-1800#G1722|in]]
 
 #### Psalms 113 - 6
 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth.]]

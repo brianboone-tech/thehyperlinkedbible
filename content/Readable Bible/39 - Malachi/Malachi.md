@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Malachi-R
 
-[[Home]] • [[Readable Bible/39 - Malachi/Malachi 1#Malachi-R 11]] 
+[[index|Home]] • [[Readable Bible/39 - Malachi/Malachi 1#Malachi-R 11]] 
 
 ---
 

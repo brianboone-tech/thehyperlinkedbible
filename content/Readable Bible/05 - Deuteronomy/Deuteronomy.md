@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Deuteronomy-R
 
-[[Home]] • [[Readable Bible/05 - Deuteronomy/Deuteronomy 1#Deuteronomy-R 11]]     
+[[index|Home]] • [[Readable Bible/05 - Deuteronomy/Deuteronomy 1#Deuteronomy-R 11]]     
 
 ---
 

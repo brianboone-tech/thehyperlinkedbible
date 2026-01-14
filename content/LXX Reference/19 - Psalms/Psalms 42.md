@@ -33,7 +33,7 @@ Testament: Old
 [[Lexicon/G1-100#G0012| the deep]] [[Lexicon/G1501-1600#G1519|at]] [[Lexicon/G2601-2700#G2674|of your torrents;]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3301-3400#G3349|your crests]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2949|your waves]] [[Lexicon/G1901-2000#G1909|over]]
 
 #### Psalms 42 - 8
-[[Lexicon/G2201-2300#G2250|By day]] [[Lexicon/G1601-1700#G1656|his mercy,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3571|at night]] [[Lexicon/G5601-5700#G5603|his ode]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G4301-4400#G4335|a prayer]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G2201-2300#G2222|of my life.]]
+[[Lexicon/G2201-2300#G2250|By day]] [[Lexicon/G1601-1700#G1656|his mercy,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3571|at night]] [[Lexicon/G5601-5624#G5603|his ode]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G4301-4400#G4335|a prayer]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G2201-2300#G2222|of my life.]]
 
 #### Psalms 42 - 9
 [[Lexicon/G2001-2100#G2046|I will say]] [[Lexicon/G2301-2400#G2316|to God,]] [[Lexicon/G401-500#G0483|shielder]] [[Lexicon/G1301-1400#G1302|why did]] [[Lexicon/G1401-1500#G1473|you forget me?]] [[Lexicon/G2401-2500#G2444|Why]] [[Lexicon/G4601-4700#G4658|looking downcast]] [[Lexicon/G1701-1800#G1722|at]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1501-1600#G1570|squeezing]] [[Lexicon/G3501-3600#G3588|by the]] [[Lexicon/G2101-2200#G2190|enemy?]]

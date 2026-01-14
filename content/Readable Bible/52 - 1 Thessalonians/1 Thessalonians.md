@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 1 Thessalonians-R
 
-[[Home]] • [[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 1#1 Thessalonians-R 1|  | 1]] 
+[[index|Home]] • [[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 1#1 Thessalonians-R 1|  | 1]] 
 
 ---
 

@@ -33,7 +33,7 @@ Testament: Old
 [[Lexicon/G5201-5300#G5228|For]] [[Lexicon/G3301-3400#G3367|by no means]] [[Lexicon/G4901-5000#G4982|will you deliver]] [[Lexicon/G1401-1500#G1473|them;]] [[Lexicon/G1701-1800#G1722|in]]
 
 #### Psalms 56 - 8
-[[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G2201-2300#G2222|my life]] [[Lexicon/G1801-1900#G1804|I declared]] [[Lexicon/G1401-1500#G1473|to you;]] [[Lexicon/G5001-5100#G5087|you put]] [[Lexicon/G1101-1200#G1144|my tears]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G1701-1800#G1722|according to]] [[Lexicon/G1801-1900#G1860|your promise.]]
+[[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G2201-2300#G2222|my life]] [[Lexicon/G1801-1900#G1804|I declared]] [[Lexicon/G1401-1500#G1473|to you;]] [[Lexicon/G5001-5100#G5087|you put]] [[Lexicon/G1101-1200#G1144|my tears]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G1701-1800#G1722|according to]] [[Lexicon/G1801-1900#G1860|your promise.]]
 
 #### Psalms 56 - 9
 [[Lexicon/G1901-2000#G1994|shall turn]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3694|rear,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G1901-2000#G1941|I should call upon]] [[Lexicon/G1401-1500#G1473|you.]] [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1001-1100#G1097|I knew]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G2301-2400#G2316|my God]]

@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/20 - Proverbs|Proverbs]]**
 
-[[Psalm-R 150|←]] • [[Proverbs-R 2|→]]
+[[Readable Bible/19 - Psalms/Psalm 150|←]] • [[Readable Bible/20 - Proverbs/Proverbs 2|→]]
 
 ---
 

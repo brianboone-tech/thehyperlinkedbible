@@ -15,7 +15,7 @@ Testament: Old
 [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G2301-2400#G2316|of gods,]] [[Lexicon/G2901-3000#G2980|spoke,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2564|called]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2201-2300#G2246|sun]] [[Lexicon/G3301-3400#G3360|unto]]
 
 #### Psalms 50 - 2
-[[Lexicon/G1501-1600#G1537|From out of]] Zion [[Lexicon/G2101-2200#G2143|attractiveness]] [[Lexicon/G5601-5700#G5611|of his beauty.]]
+[[Lexicon/G1501-1600#G1537|From out of]] Zion [[Lexicon/G2101-2200#G2143|attractiveness]] [[Lexicon/G5601-5624#G5611|of his beauty.]]
 
 #### Psalms 50 - 3
 [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1701-1800#G1718|visibly]] [[Lexicon/G2201-2300#G2240|shall come,]] [[Lexicon/G2301-2400#G2316|our God,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|he will not]] [[Lexicon/G3901-4000#G3902|remain silent.]] [[Lexicon/G4401-4500#G4442|A fire]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G2501-2600#G2545|shall burn;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2945|round about]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G2601-2700#G2616|gale]]

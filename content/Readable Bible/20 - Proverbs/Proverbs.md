@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Proverbs-R
 
-[[Home]] • [[Readable Bible/20 - Proverbs/Proverbs 1#Proverbs-R 11]]     
+[[index|Home]] • [[Readable Bible/20 - Proverbs/Proverbs 1#Proverbs-R 11]]     
 
 ---
 

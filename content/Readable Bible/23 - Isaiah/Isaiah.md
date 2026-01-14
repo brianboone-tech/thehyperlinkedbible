@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Isaiah-R
 
-[[Home]] • [[Readable Bible/23 - Isaiah/Isaiah 1#Isaiah-R 11]]     
+[[index|Home]] • [[Readable Bible/23 - Isaiah/Isaiah 1#Isaiah-R 11]]     
 
 ---
 

@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 2 Chronicles-R
 
-[[Home]] • [[Readable Bible/14 - 2 Chronicles/2 Chronicles 1#2 Chronicles-R 11]]  
+[[index|Home]] • [[Readable Bible/14 - 2 Chronicles/2 Chronicles 1#2 Chronicles-R 11]]  
 
 ---
 

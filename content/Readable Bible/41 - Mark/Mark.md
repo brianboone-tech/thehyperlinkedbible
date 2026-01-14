@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Mark-R
 
-[[Home]] • [[Readable Bible/41 - Mark/Mark 1#Mark-R 1|  | 1]] 
+[[index|Home]] • [[Readable Bible/41 - Mark/Mark 1#Mark-R 1|  | 1]] 
 
 ---
 

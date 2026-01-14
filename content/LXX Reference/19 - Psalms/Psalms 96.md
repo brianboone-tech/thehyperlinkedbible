@@ -27,7 +27,7 @@ Testament: Old
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2316|gods]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3501-3600#G3588|but the]] [[Lexicon/G3501-3600#G3588|the]]
 
 #### Psalms 96 - 6
-[[Lexicon/G1801-1900#G1843|Acknowledgment]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5611|beauty]] [[Lexicon/G1701-1800#G1799|are before]] [[Lexicon/G1401-1500#G1473|him;]] [[Lexicon/G1-100#G0042|holiness]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3101-3200#G3168|majesty]] [[Lexicon/G1-100#G0037|his sanctuary.]]
+[[Lexicon/G1801-1900#G1843|Acknowledgment]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5611|beauty]] [[Lexicon/G1701-1800#G1799|are before]] [[Lexicon/G1401-1500#G1473|him;]] [[Lexicon/G1-100#G0042|holiness]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3101-3200#G3168|majesty]] [[Lexicon/G1-100#G0037|his sanctuary.]]
 
 #### Psalms 96 - 7
 [[Lexicon/G5301-5400#G5342|Bring]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G3901-4000#G3965|families]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1484|nations!]] [[Lexicon/G5301-5400#G5342|Bring]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1301-1400#G1391|glory]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5092|honor!]]

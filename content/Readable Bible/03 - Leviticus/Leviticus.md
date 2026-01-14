@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Leviticus-R
 
-[[Home]] • [[Readable Bible/03 - Leviticus/Leviticus 1#Leviticus-R 1| | 1]]   
+[[index|Home]] • [[Readable Bible/03 - Leviticus/Leviticus 1#Leviticus-R 1| | 1]]   
 
 ---
 

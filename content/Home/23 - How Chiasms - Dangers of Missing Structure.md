@@ -1,4 +1,4 @@
-**[[01 - Home - Welcome|Home]] > [[- Hermeneutics|Hermeneutics]] > [[13 - How Chiasms - Overview|How Chiasms Reveal Authorial Intent]] > Dangers of Missing Structure**
+**[[index|Home]] > [[- Hermeneutics|Hermeneutics]] > [[13 - How Chiasms - Overview|How Chiasms Reveal Authorial Intent]] > Dangers of Missing Structure**
 
 ---
 

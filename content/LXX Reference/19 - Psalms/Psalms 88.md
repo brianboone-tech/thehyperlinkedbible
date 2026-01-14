@@ -21,10 +21,10 @@ Testament: Old
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4101-4200#G4130|is filled]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2201-2300#G2222|my life]] [[Lexicon/G1-100#G0086|Hades]]
 
 #### Psalms 88 - 4
-[[Lexicon/G4301-4400#G4356|I was counted]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2501-2600#G2597|going down]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G1001-1100#G1096|I became]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G401-500#G0444|man]]
+[[Lexicon/G4301-4400#G4356|I was counted]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2501-2600#G2597|going down]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G1001-1100#G1096|I became]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G401-500#G0444|man]]
 
 #### Psalms 88 - 5
-[[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5101-5200#G5134|ones slain]] [[Lexicon/G2501-2600#G2518|sleeping]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G3701-3800#G3756|you do not]] [[Lexicon/G3401-3500#G3403|remember]] [[Lexicon/G2001-2100#G2089|any longer;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G1501-1600#G1537|from out of]]
+[[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5101-5200#G5134|ones slain]] [[Lexicon/G2501-2600#G2518|sleeping]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G3701-3800#G3756|you do not]] [[Lexicon/G3401-3500#G3403|remember]] [[Lexicon/G2001-2100#G2089|any longer;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G1501-1600#G1537|from out of]]
 
 #### Psalms 88 - 6
 [[Lexicon/G5001-5100#G5087|They put]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2901-3000#G2978|pit]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4601-4700#G4652|dark places,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2288|of death.]]
@@ -60,7 +60,7 @@ Testament: Old
 [[Lexicon/G1901-2000#G1909|Upon]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1301-1400#G1330|went]] [[Lexicon/G5301-5400#G5397|your frightful things]] [[Lexicon/G1601-1700#G1613|disturbed]] [[Lexicon/G1401-1500#G1473|me.]]
 
 #### Psalms 88 - 17
-[[Lexicon/G2901-3000#G2944|They encircle]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5201-5300#G5204|water;]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G4001-4100#G4023|they compassed]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G201-300#G0260|together.]]
+[[Lexicon/G2901-3000#G2944|They encircle]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5201-5300#G5204|water;]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G4001-4100#G4023|they compassed]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G201-300#G0260|together.]]
 
 #### Psalms 88 - 18
 [[Lexicon/G3101-3200#G3118|You put far]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5301-5400#G5384|friend]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4139|near one,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G1101-1200#G1110|knowing]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G501-600#G0575|because of]] [[Lexicon/G5001-5100#G5004|misery.]]

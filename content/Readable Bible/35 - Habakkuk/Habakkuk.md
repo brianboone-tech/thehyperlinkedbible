@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Habakkuk-R
 
-[[Home]] • [[Readable Bible/35 - Habakkuk/Habakkuk 1#Habakkuk-R 11]]  
+[[index|Home]] • [[Readable Bible/35 - Habakkuk/Habakkuk 1#Habakkuk-R 11]]  
 
 ---
 

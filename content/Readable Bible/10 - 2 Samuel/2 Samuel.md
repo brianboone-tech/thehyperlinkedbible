@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 2 Samuel-R
 
-[[Home]] • [[Readable bible/10 - 2 Samuel/2 Samuel 1#2 Samuel-R 11]] 
+[[index|Home]] • [[Readable bible/10 - 2 Samuel/2 Samuel 1#2 Samuel-R 11]] 
 
 ---
 

@@ -1,6 +1,6 @@
 # Scripture Index
 
-<b>[[01 - Home - Welcome|← Home]]</b> | <b>[[35 - How Quotations - How to Use This in Study|← Previous: How to Use This in Study]]</b>
+<b>[[index|← Home]]</b> | <b>[[35 - How Quotations - How to Use This in Study|← Previous: How to Use This in Study]]</b>
 
 ---
 
@@ -206,4 +206,4 @@ Use `Ctrl+O` (Quick Switcher) and type a book name for instant access.
 
 ---
 
-<b>[[01 - Home - Welcome|← Home]]</b> | <b>[[Readable Bible/01 - Genesis/Genesis 1|Start Reading →]]</b>
+<b>[[index|← Home]]</b> | <b>[[Readable Bible/01 - Genesis/Genesis 1|Start Reading →]]</b>

@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 2 Kings-R
 
-[[Home]] • [[Readable Bible/12 - 2 Kings/2 Kings 1#2 Kings-R 11]] 
+[[index|Home]] • [[Readable Bible/12 - 2 Kings/2 Kings 1#2 Kings-R 11]] 
 
 ---
 

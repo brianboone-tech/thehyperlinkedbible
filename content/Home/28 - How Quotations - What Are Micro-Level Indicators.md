@@ -1,4 +1,4 @@
-**[[01 - Home - Welcome|Home]] > [[- Hermeneutics|Hermeneutics]] > [[27 - How Quotations - Overview|How Quotations Reveal Authorial Intent]] > What Are Micro-Level Indicators**
+**[[index|Home]] > [[- Hermeneutics|Hermeneutics]] > [[27 - How Quotations - Overview|How Quotations Reveal Authorial Intent]] > What Are Micro-Level Indicators**
 
 → **Quick Summary**: Quotations, allusions, and echoes are **micro-level indicators** of authorial intent. Biblical authors quote earlier Scripture, reuse key terms, and repeat sequences of events to show how God's redemptive plan unfolds progressively.
 

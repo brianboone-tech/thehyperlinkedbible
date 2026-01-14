@@ -1,4 +1,4 @@
-**[[01 - Home - Welcome|Home]] > [[- Hermeneutics|Hermeneutics]] > How Quotations Reveal Authorial Intent**
+**[[index|Home]] > [[- Hermeneutics|Hermeneutics]] > How Quotations Reveal Authorial Intent**
 
 ---
 
@@ -29,4 +29,4 @@ How biblical authors used quotations, key terms, repeated sequences, and covenan
 
 ---
 
-**[[01 - Home - Welcome|← Back to Home]]** | **[[- Hermeneutics|Hermeneutics]]**
+**[[index|← Back to Home]]** | **[[- Hermeneutics|Hermeneutics]]**

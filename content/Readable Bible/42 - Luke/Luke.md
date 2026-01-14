@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Luke-R
 
-[[Home]] • [[Readable Bible/42 - Luke/Luke 1#Luke-R 1|  | 1]]    
+[[index|Home]] • [[Readable Bible/42 - Luke/Luke 1#Luke-R 1|  | 1]]    
 
 ---
 

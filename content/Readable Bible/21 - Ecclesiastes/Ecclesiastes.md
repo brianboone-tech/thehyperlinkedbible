@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Ecclesiastes-R
 
-[[Home]] •  [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 1#Ecclesiastes-R 11]] 
+[[index|Home]] •  [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 1#Ecclesiastes-R 11]] 
 
 ---
 

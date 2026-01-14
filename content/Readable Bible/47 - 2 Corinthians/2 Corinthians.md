@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 2 Corinthians-R
 
-[[Home]] • [[Readable Bible/47 - 2 Corinthians/2 Corinthians 1#2 Corinthians-R 1|  | 1]]
+[[index|Home]] • [[Readable Bible/47 - 2 Corinthians/2 Corinthians 1#2 Corinthians-R 1|  | 1]]
 
 ---
 

@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Song of Solomon-R
 
-[[Home]] • [[Readable Bible/22 - Song of Solomon/Song of Solomon 1#Song of Solomon-R 11]]  
+[[index|Home]] • [[Readable Bible/22 - Song of Solomon/Song of Solomon 1#Song of Solomon-R 11]]  
 
 ---
 

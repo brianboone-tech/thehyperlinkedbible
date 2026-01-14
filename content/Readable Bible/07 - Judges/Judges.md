@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Judges-R
 
-[[Home]] • [[Readable Bible/07 - Judges/Judges 1#Judges-R 11]]
+[[index|Home]] • [[Readable Bible/07 - Judges/Judges 1#Judges-R 11]]
 
 ---
 

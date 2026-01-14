@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/35 - Habakkuk|Habakkuk]]**
 
-[[Nahum-R 3|Nahum 3]] • [[Habakkuk-R 2|Habakkuk 2]]
+[[Readable Bible/34 - Nahum/Nahum 3|Nahum 3]] • [[Readable Bible/35 - Habakkuk/Habakkuk 2|Habakkuk 2]]
 
 ---
 

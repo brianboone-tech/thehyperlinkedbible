@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Job-R
 
-[[Home]] • [[Readable Bible/18 - Job/Job 1#Job-R 11]]    
+[[index|Home]] • [[Readable Bible/18 - Job/Job 1#Job-R 11]]    
 
 ---
 

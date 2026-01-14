@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Esther-R
 
-[[Home]] • [[Readable Bible/17 - Esther/Esther 1#Esther-R 11]] 
+[[index|Home]] • [[Readable Bible/17 - Esther/Esther 1#Esther-R 11]] 
 
 ---
 

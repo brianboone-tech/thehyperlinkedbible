@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Titus-R
 
-[[Home]] • [[Readable Bible/56 - Titus/Titus 1#Titus-R 1|  | 1]] 
+[[index|Home]] • [[Readable Bible/56 - Titus/Titus 1#Titus-R 1|  | 1]] 
 
 ---
 

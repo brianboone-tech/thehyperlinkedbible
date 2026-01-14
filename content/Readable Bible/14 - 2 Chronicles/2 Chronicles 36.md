@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/14 - 2 Chronicles|2 Chronicles]]**
 
-[[Readable Bible/14 - 2 Chronicles/2 Chronicles 35#2 Chronicles-R 35| 2 Chronicles 35]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 37#2 Chronicles-R 37| 2 Chronicles 37]]
+[[Readable Bible/14 - 2 Chronicles/2 Chronicles 35#2 Chronicles-R 35| 2 Chronicles 35]]
 
 ---
 

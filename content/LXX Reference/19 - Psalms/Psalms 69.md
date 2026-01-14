@@ -99,7 +99,7 @@ Testament: Old
 [[Lexicon/G4401-4500#G4434|poor]] [[Lexicon/G4901-5000#G4991|your deliverance,]] [[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G401-500#G0482|may it take hold of]] [[Lexicon/G1401-1500#G1473|me.]]
 
 #### Psalms 69 - 30
-[[Lexicon/G101-200#G0134|I will praise]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3686|name]] [[Lexicon/G2301-2400#G2316|of my God]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G5601-5700#G5603|an ode;]] [[Lexicon/G3101-3200#G3170|I shall magnify]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G101-200#G0133|praise,]]
+[[Lexicon/G101-200#G0134|I will praise]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3686|name]] [[Lexicon/G2301-2400#G2316|of my God]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G5601-5624#G5603|an ode;]] [[Lexicon/G3101-3200#G3170|I shall magnify]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G101-200#G0133|praise,]]
 
 #### Psalms 69 - 31
 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0700|it shall please]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G5201-5300#G5228|above]] [[Lexicon/G3401-3500#G3448|calf]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3694|hoofs.]]

@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Philippians-R
 
-[[Home]] • [[Readable Bible/50 - Philippians/Philippians 1#Philippians-R 1|  | 1]]   
+[[index|Home]] • [[Readable Bible/50 - Philippians/Philippians 1#Philippians-R 1|  | 1]]   
 
 ---
 

@@ -1,4 +1,4 @@
-**[[01 - Home - Welcome|← Back to Home]]**
+**[[index|← Back to Home]]**
 
 **Estimated time**: 5 minutes
 
@@ -24,4 +24,4 @@ This interactive tutorial will guide you through The Hyperlinked Bible's archite
 
 ---
 
-**[[01 - Home - Welcome|← Back to Home]]**
+**[[index|← Back to Home]]**

@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 1 Chronicles-R
 
-[[Home]] • [[Readable Bible/13 - 1 Chronicles/1 Chronicles 1#1 Chronicles-R 11]]  
+[[index|Home]] • [[Readable Bible/13 - 1 Chronicles/1 Chronicles 1#1 Chronicles-R 11]]  
 
 ---
 

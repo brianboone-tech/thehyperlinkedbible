@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/55 - 2 Timothy|2 Timothy]]**
 
-[[1 Timothy-R 6|←]] • [[2 Timothy-R 2|→]]
+[[Readable Bible/54 - 1 Timothy/1 Timothy 6|←]] • [[Readable Bible/55 - 2 Timothy/2 Timothy 2|→]]
 
 ---
 

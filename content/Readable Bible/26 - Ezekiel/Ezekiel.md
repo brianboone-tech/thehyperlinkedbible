@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Ezekiel-R
 
-[[Home]]] • [[Readable Bible/26 - Ezekiel/Ezekiel 1#Ezekiel-R 11]] 
+[[index|Home]]] • [[Readable Bible/26 - Ezekiel/Ezekiel 1#Ezekiel-R 11]] 
 
 ---
 

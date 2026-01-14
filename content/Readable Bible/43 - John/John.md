@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # John-R
 
-[[Home]] • [[Readable Bible/43 - John/John 1#John-R 1|  | 1]]  
+[[index|Home]] • [[Readable Bible/43 - John/John 1#John-R 1|  | 1]]  
 
 ---
 

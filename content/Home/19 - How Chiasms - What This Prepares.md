@@ -1,5 +1,5 @@
 
-**[[01 - Home - Welcome|Home]] > [[- Hermeneutics|Hermeneutics]] > [[13 - How Chiasms - Overview|How Chiasms Reveal Authorial Intent]] > What This Prepares**
+**[[index|Home]] > [[- Hermeneutics|Hermeneutics]] > [[13 - How Chiasms - Overview|How Chiasms Reveal Authorial Intent]] > What This Prepares**
 
 ---
 

@@ -19,7 +19,7 @@ Testament: Old
 [[Lexicon/G1301-1400#G1391|glory]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G601-700#G0654|to turn]] [[Lexicon/G3001-3100#G3059|reviling]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G801-900#G0878|fool]] [[Lexicon/G5101-5200#G5108|such]] [[Lexicon/G4801-4900#G4844|is closely joined]]
 
 #### Proverbs 20 - 4
-[[Lexicon/G3601-3700#G3679|berating]] [[Lexicon/G3601-3700#G3636|lazy]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G101-200#G0153|shame]] [[Lexicon/G5601-5700#G5615|likewise]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1101-1200#G1155|borrowing]] [[Lexicon/G4601-4700#G4621|grain]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G201-300#G0281|harvest]]
+[[Lexicon/G3601-3700#G3679|berating]] [[Lexicon/G3601-3700#G3636|lazy]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G101-200#G0153|shame]] [[Lexicon/G5601-5624#G5615|likewise]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1101-1200#G1155|borrowing]] [[Lexicon/G4601-4700#G4621|grain]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G201-300#G0281|harvest]]
 
 #### Proverbs 20 - 5
 [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G901-1000#G0901|deep]] [[Lexicon/G1001-1100#G1012|counsel]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2588|heart]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G5401-5500#G5429|intelligent]] [[Lexicon/G1801-1900#G1817|shall draw it out]]
@@ -49,7 +49,7 @@ Testament: Old
 [[Lexicon/G3301-3400#G3361|not]] [[Lexicon/G1-100#G0025|love]] [[Lexicon/G2601-2700#G2635|to speak ill]] [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G3301-3400#G3361|not]] [[Lexicon/G1801-1900#G1808|be lifted away]] [[Lexicon/G1201-1300#G1272|open wide]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3788|eyes]] [[Lexicon/G1401-1500#G1473|your]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1705|be filled up]] [[Lexicon/G701-800#G0740|bread loaves]]
 
 #### Proverbs 20 - 14
-[[Lexicon/G2501-2600#G2556|bad]] [[Lexicon/G2501-2600#G2556|bad]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G0059|buying]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G5601-5700#G5613|when]] [[Lexicon/G501-600#G0565|depart]] [[Lexicon/G5101-5200#G5119|then]] [[Lexicon/G2701-2800#G2744|shall boast]]
+[[Lexicon/G2501-2600#G2556|bad]] [[Lexicon/G2501-2600#G2556|bad]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G0059|buying]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G5601-5624#G5613|when]] [[Lexicon/G501-600#G0565|depart]] [[Lexicon/G5101-5200#G5119|then]] [[Lexicon/G2701-2800#G2744|shall boast]]
 
 #### Proverbs 20 - 15
 [[Lexicon/G1501-1600#G1510|there is]] [[Lexicon/G5501-5600#G5557|gold]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4128|multitude]] [[Lexicon/G3001-3100#G3037|stones]] [[Lexicon/G4101-4200#G4185|costly]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4632|vessel]] [[Lexicon/G1701-1800#G1784|valued]] [[Lexicon/G5401-5500#G5491|lips]] [[Lexicon/G4901-5000#G4907|understanding]]

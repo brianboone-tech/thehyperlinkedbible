@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # 1 Corinthians-R
 
-[[Home]] • [[Readable Bible/46 - 1 Corinthians/1 Corinthians 1#1 Corinthians-R 1|  | 1]]   
+[[index|Home]] • [[Readable Bible/46 - 1 Corinthians/1 Corinthians 1#1 Corinthians-R 1|  | 1]]   
 
 ---
 

@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Nehemiah-R
 
-[[Home]] • [[Readable Bible/16 - Nehemiah/Nehemiah 1#Nehemiah-R 11]]   
+[[index|Home]] • [[Readable Bible/16 - Nehemiah/Nehemiah 1#Nehemiah-R 11]]   
 
 ---
 

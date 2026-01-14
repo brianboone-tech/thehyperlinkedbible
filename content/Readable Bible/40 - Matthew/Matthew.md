@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Matthew-R
 
-[[Home]] • [[Readable Bible/40 - Matthew/Matthew 1#Matthew-R 1|  | 1]]     
+[[index|Home]] • [[Readable Bible/40 - Matthew/Matthew 1#Matthew-R 1|  | 1]]     
 
 ---
 

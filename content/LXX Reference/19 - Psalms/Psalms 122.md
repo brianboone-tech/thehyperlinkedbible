@@ -18,7 +18,7 @@ Testament: Old
 [[Lexicon/G2401-2500#G2476|were standing]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G801-900#G0833|your courtyards,]] O Jerusalem.
 
 #### Psalms 122 - 3
-Jerusalem [[Lexicon/G3601-3700#G3618|being built]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4101-4200#G4172|a city]] [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3301-3400#G3352|sharing]] [[Lexicon/G1401-1500#G1473|of it]]
+Jerusalem [[Lexicon/G3601-3700#G3618|being built]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4101-4200#G4172|a city]] [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3301-3400#G3352|sharing]] [[Lexicon/G1401-1500#G1473|of it]]
 
 #### Psalms 122 - 4
 [[Lexicon/G1501-1600#G1563|For there]] [[Lexicon/G301-400#G0305|ascend]] [[Lexicon/G5401-5500#G5443|tribes]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G3101-3200#G3142|for a testimony]] of Israel, [[Lexicon/G1801-1900#G1843|to confess]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3601-3700#G3686|name]] [[Lexicon/G2901-3000#G2962|of the lord.]]

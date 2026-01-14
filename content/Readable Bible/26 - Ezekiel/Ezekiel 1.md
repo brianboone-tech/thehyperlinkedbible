@@ -9,7 +9,7 @@ cssClasses: lexicon
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
-[[Lamentations-R 5|←]] • [[Ezekiel-R 2|→]]
+[[Readable Bible/25 - Lamentations/Lamentations 5|←]] • [[Readable Bible/26 - Ezekiel/Ezekiel 2|→]]
 
 ---
 

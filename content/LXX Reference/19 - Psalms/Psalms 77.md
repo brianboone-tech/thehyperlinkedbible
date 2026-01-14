@@ -48,7 +48,7 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3101-3200#G3191|I shall meditate]] [[Lexicon/G1701-1800#G1722|on]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G2001-2100#G2041|your works;]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2001-2100#G2006|your practices]] [[Lexicon/G1-100#G0096|I will meditate.]]
 
 #### Psalms 77 - 13
-[[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G1701-1800#G1722| is in]] [[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2301-2400#G2316|our God?]]
+[[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G1701-1800#G1722| is in]] [[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2301-2400#G2316|our God?]]
 
 #### Psalms 77 - 14
 [[Lexicon/G1401-1500#G1473|You]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4160|one doing]] [[Lexicon/G2201-2300#G2297|wonders.]] [[Lexicon/G1101-1200#G1107|You made known]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2992|peoples]] [[Lexicon/G1401-1500#G1411|your power.]]
@@ -69,4 +69,4 @@ Testament: Old
 [[Lexicon/G1701-1800#G1722| are in]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5101-5200#G5147|your roads]] [[Lexicon/G5201-5300#G5204|waters]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2401-2500#G2487|your footsteps]] [[Lexicon/G3701-3800#G3756|shall not]] [[Lexicon/G1001-1100#G1097|be known.]]
 
 #### Psalms 77 - 20
-[[Lexicon/G3501-3600#G3594|You guided]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1701-1800#G1722|by]] of Moses [[Lexicon/G2501-2600#G2532|and]] Aaron.
+[[Lexicon/G3501-3600#G3594|You guided]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1701-1800#G1722|by]] of Moses [[Lexicon/G2501-2600#G2532|and]] Aaron.

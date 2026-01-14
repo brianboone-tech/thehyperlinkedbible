@@ -18,10 +18,10 @@ Testament: Old
 [[Lexicon/G3501-3600#G3599|Your teeth]] [[Lexicon/G1-100#G0034|herds]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2701-2800#G2751|ones being sheared,]] [[Lexicon/G3701-3800#G3739|the ones which]] [[Lexicon/G301-400#G0305|ascended]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3067|bath,]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1301-1400#G1323|bearing twins,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G0815|a childless one]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|them.]]
 
 #### Song of Solomon 4 - 3
-[[Lexicon/G5601-5700#G5613| are as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2981|your speech]] [[Lexicon/G5601-5700#G5611|beautiful.]] [[Lexicon/G5601-5700#G5613| are as]] [[Lexicon/G1601-1700#G1623|outside]] [[Lexicon/G4601-4700#G4623|your veil.]]
+[[Lexicon/G5601-5624#G5613| are as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2981|your speech]] [[Lexicon/G5601-5624#G5611|beautiful.]] [[Lexicon/G5601-5624#G5613| are as]] [[Lexicon/G1601-1700#G1623|outside]] [[Lexicon/G4601-4700#G4623|your veil.]]
 
 #### Song of Solomon 4 - 4
-[[Lexicon/G5601-5700#G5613| is as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G5501-5600#G5507|a thousand]] [[Lexicon/G2301-2400#G2375|shields]] [[Lexicon/G2901-3000#G2910|hang]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|it,]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1415|mighty.]]
+[[Lexicon/G5601-5624#G5613| is as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G5501-5600#G5507|a thousand]] [[Lexicon/G2301-2400#G2375|shields]] [[Lexicon/G2901-3000#G2910|hang]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|it,]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1415|mighty.]]
 
 #### Song of Solomon 4 - 5
 [[Lexicon/G1401-1500#G1417|two]] [[Lexicon/G1401-1500#G1417|two]] [[Lexicon/G3401-3500#G3496|fawns]] [[Lexicon/G1301-1400#G1393|of the doe,]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G3401-3500#G3500|feeding]] [[Lexicon/G1701-1800#G1722|among]]

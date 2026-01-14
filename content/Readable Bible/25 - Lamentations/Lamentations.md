@@ -5,7 +5,7 @@ Folder: Readable Bible
 ---
 # Lamentations-R
 
-[[Home]] • [[Readable Bible/25 - Lamentations/Lamentations 1#Lamentations-R 11]]   
+[[index|Home]] • [[Readable Bible/25 - Lamentations/Lamentations 1#Lamentations-R 11]]   
 
 ---
 

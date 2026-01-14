@@ -21,13 +21,13 @@ Testament: Old
 [[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G3901-4000#G3996|shall mourn]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4665|shall be diminished]] [[Lexicon/G4801-4900#G4862|with]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2701-2800#G2730|dwelling]] [[Lexicon/G1401-1500#G1473|it;]] [[Lexicon/G4801-4900#G4862|with]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2342|wild beasts]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1-100#G0068|field,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4801-4900#G4862|with]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4001-4100#G4071|winged creatures]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3772|heaven;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2401-2500#G2486|fishes]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2201-2300#G2281|sea]] [[Lexicon/G1501-1600#G1587|shall fail,]]
 
 #### Hosea 4 - 4
-[[Lexicon/G3701-3800#G3704|so that]] [[Lexicon/G3301-3400#G3367|no]] [[Lexicon/G3301-3400#G3383|one]] [[Lexicon/G1301-1400#G1340|should adjudicate,]] [[Lexicon/G3301-3400#G3383|nor]] [[Lexicon/G1601-1700#G1651|reprove]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G2901-3000#G2992|my people]] [[Lexicon/G5601-5700#G5613|are as]] [[Lexicon/G2401-2500#G2409|a priest]] [[Lexicon/G401-500#G0483|disputing;]]
+[[Lexicon/G3701-3800#G3704|so that]] [[Lexicon/G3301-3400#G3367|no]] [[Lexicon/G3301-3400#G3383|one]] [[Lexicon/G1301-1400#G1340|should adjudicate,]] [[Lexicon/G3301-3400#G3383|nor]] [[Lexicon/G1601-1700#G1651|reprove]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G2901-3000#G2992|my people]] [[Lexicon/G5601-5624#G5613|are as]] [[Lexicon/G2401-2500#G2409|a priest]] [[Lexicon/G401-500#G0483|disputing;]]
 
 #### Hosea 4 - 5
 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G701-800#G0770|he shall weaken]] [[Lexicon/G2201-2300#G2250|by day,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G701-800#G0770|shall weaken]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|you.]] [[Lexicon/G3501-3600#G3571|to night]]
 
 #### Hosea 4 - 6
-[[Lexicon/G3601-3700#G3666|are likened]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2101-2200#G2192|having]] [[Lexicon/G1101-1200#G1108|knowledge.]] [[Lexicon/G3701-3800#G3754|For since]] [[Lexicon/G1901-2000#G1922|full knowledge]] [[Lexicon/G601-700#G0683|will thrust you away]] [[Lexicon/G3301-3400#G3361|not]] [[Lexicon/G2401-2500#G2407|officiate as priest]] [[Lexicon/G1401-1500#G1473|to me.]] [[Lexicon/G2501-2600#G2532|And as]] [[Lexicon/G1901-2000#G1950|you forgot]] [[Lexicon/G2301-2400#G2316|of your God,]] [[Lexicon/G1901-2000#G1950|I shall forget]] [[Lexicon/G5001-5100#G5043|your children.]]
+[[Lexicon/G3601-3700#G3666|are likened]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2101-2200#G2192|having]] [[Lexicon/G1101-1200#G1108|knowledge.]] [[Lexicon/G3701-3800#G3754|For since]] [[Lexicon/G1901-2000#G1922|full knowledge]] [[Lexicon/G601-700#G0683|will thrust you away]] [[Lexicon/G3301-3400#G3361|not]] [[Lexicon/G2401-2500#G2407|officiate as priest]] [[Lexicon/G1401-1500#G1473|to me.]] [[Lexicon/G2501-2600#G2532|And as]] [[Lexicon/G1901-2000#G1950|you forgot]] [[Lexicon/G2301-2400#G2316|of your God,]] [[Lexicon/G1901-2000#G1950|I shall forget]] [[Lexicon/G5001-5100#G5043|your children.]]
 
 #### Hosea 4 - 7
 [[Lexicon/G2501-2600#G2596|According to]] [[Lexicon/G4101-4200#G4128|their multitude,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G201-300#G0264|they sinned]] [[Lexicon/G1401-1500#G1473|against me.]] [[Lexicon/G1301-1400#G1391|their glory]]
@@ -57,7 +57,7 @@ Testament: Old
 [[Lexicon/G1401-1500#G1473|But you,]] O Israel, [[Lexicon/G3301-3400#G3361|be not ignorant!]] [[Lexicon/G2501-2600#G2532|And]] Judah, [[Lexicon/G3301-3400#G3361|enter not]] [[Lexicon/G1501-1600#G1519|into]] Gilgal, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|ascend not]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] of On, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|swear not an oath, saying,]] [[Lexicon/G2101-2200#G2198|lives]]
 
 #### Hosea 4 - 16
-[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3568|Now]] [[Lexicon/G3401-3500#G3500|will feed]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G201-300#G0286|a lamb]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2101-2200#G2149|a broad space.]]
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3568|Now]] [[Lexicon/G3401-3500#G3500|will feed]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G201-300#G0286|a lamb]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2101-2200#G2149|a broad space.]]
 
 #### Hosea 4 - 17
 [[Lexicon/G3301-3400#G3353|was a partner]] [[Lexicon/G5001-5100#G5087|he made]] [[Lexicon/G1401-1500#G1473|obstacles to himself.]]
