@@ -249,10 +249,15 @@ Renumbered remaining pages to clean sequence (01-08):
 - Uses `minmax(0, 1fr)` for center column to prevent overflow behind left sidebar
 - Keeps horizontal scroll on table container as fallback
 
+**Initial Issue:** CSS wasn't working because Quartz only applied `cssclasses` to the `<article>` element, not `<body>`. CSS can't select parent/sibling elements, so the sidebar couldn't be hidden.
+
+**Fix:** Modified `renderPage.tsx` to propagate `cssclasses` from frontmatter to the `<body>` element.
+
 **Files Modified:**
 | File | Changes |
 |------|---------|
-| `quartz/styles/custom.scss` | Added `.trajectory-table-wide` class (lines 195-231) |
+| `quartz/components/renderPage.tsx` | Added cssclasses to `<body>` element (lines 262-263, 267) |
+| `quartz/styles/custom.scss` | Changed selector to `body.trajectory-table-wide` (lines 195-231) |
 | `content/Trajectory Tables/003 - Abraham (Father of Faith).md` | Added `trajectory-table-wide` class for testing |
 
 **Test Page:** Abraham trajectory table (003)
