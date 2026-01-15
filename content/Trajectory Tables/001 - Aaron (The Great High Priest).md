@@ -1,4 +1,4 @@
-﻿---
+---
 cssclasses:
   - trajectory-table
   - trajectory-table-wide
