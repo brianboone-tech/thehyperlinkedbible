@@ -4,6 +4,10 @@ cssclasses: trajectory-table
 
 ## SETH (APPOINTED SEED) TRAJECTORY TABLE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bOW8XQrucug?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/bOW8XQrucug)
+
 Seth stands as the counterpart to Cain: if Cain is the paradigmatic "seed of the serpent," Seth is the "appointed seed" who continues the godly line. When Eve named him, she declared: "God has granted me another seed in place of Abel, since Cain killed him" (Genesis 4:25). The name Seth (שֵׁת, šēṯ) means "appointed" or "placed"—God providentially provided a replacement for the murdered righteous one. As Fairbairn observes, this marks the point where Eve recognized the "mournful division in her offspring"—Cain had become identified with the adversary's seed, while Seth represented the continuation of the promised line. This trajectory traces the "appointed seed" from Seth through Noah, Abraham, and David to Christ, the ultimate Seed in whom all the promises find their "Yes" (2 Corinthians 1:20).
 
 **Type Classification**: Providential (sovereignly arranged as the continuation of the promised line) and Forward-Looking (each stage anticipates the ultimate Seed)

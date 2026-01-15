@@ -4,6 +4,9 @@ cssclasses: trajectory-table
 
 ## SPIRIT OF WISDOM AND UNDERSTANDING TRAJECTORY TABLE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjE1bOaaztk?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/jjE1bOaaztk)
 
 The Spirit of wisdom and understanding appears first in the Old Testament as divine empowerment for sacred craftsmanship—God filling artisans like Bezalel with His Spirit to construct the tabernacle and temple. This theme progresses from physical construction to moral discernment in Proverbs, where wisdom is personified as God's "master craftsman" present at creation. Isaiah prophesies that the Messiah will bear the Spirit of wisdom and understanding for righteous governance. In the New Testament, this trajectory culminates in Christ as wisdom incarnate (1 Corinthians 1:30), the perfect temple-builder (John 2:19-21), and Spirit-dispenser to His church (Acts 2:33). What was once temporary and task-specific—granted to select craftsmen and kings—becomes permanent and transformational in Christ, as all believers receive the Spirit of wisdom for "every good work" (Colossians 1:10). The sacred "work" shifts from tabernacle-building to kingdom-building through gospel witness, and the church itself becomes God's new temple (Ephesians 2:21-22), embodying wisdom in a fallen world.
 

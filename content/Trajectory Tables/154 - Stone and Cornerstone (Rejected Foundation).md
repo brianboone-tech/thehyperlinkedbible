@@ -4,6 +4,10 @@ cssclasses: trajectory-table
 
 ## STONE AND CORNERSTONE (REJECTED FOUNDATION) TRAJECTORY TABLE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7NWMj9J5Hg0?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/7NWMj9J5Hg0)
+
 The Stone trajectory weaves together three OT stone passages that the NT applies to Christ: the precious cornerstone laid in Zion (Isaiah 28:16), the stone rejected by builders that becomes the cornerstone (Psalm 118:22), and the stone of stumbling (Isaiah 8:14). Jesus Himself combined these texts (Matthew 21:42-44), and the apostles saw them as a unified "stone testimony" revealing Christ's dual role: foundation for believers, destruction for rejecters. Daniel's vision of a stone "cut without hands" that crushes world empires and fills the earth (Daniel 2:34-35) adds an eschatological dimension—Christ's kingdom supersedes all human powers. The theological pattern is rejection-then-exaltation: human builders declare the stone unfit (crucifixion), but God makes it the cornerstone (resurrection). The church is built on this living Stone, with believers themselves becoming "living stones" in God's spiritual house. Peter's synthesis in 1 Peter 2:6-8 demonstrates the stone's dual function: to those who believe, Christ is the precious cornerstone; to those who disobey, He is the stone of stumbling and rock of offense.
 
 **Type Classification**: **Direct Type** (divinely appointed cornerstone, Isaiah 28:16) and **Forward-Looking** (explicitly expectational—"whoever believes will not be put to shame").

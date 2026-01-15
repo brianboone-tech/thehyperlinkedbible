@@ -4,6 +4,10 @@ cssclasses: trajectory-table
 
 ## SIN OFFERING (CHRIST BEARING OUR SINS) TRAJECTORY TABLE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/82s6QnfHKGA?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/82s6QnfHKGA)
+
 The sin offering (Hebrew: חַטָּאת, chattat) was prescribed for unintentional sins that violated God's commands. Unlike burnt offerings that expressed devotion, sin offerings addressed specific transgressions requiring atonement. The offerer laid hands on the animal (imputation), it was slaughtered (substitutionary death), and the priest applied the blood at appropriate places (atonement). The progression of sin offerings (priest → congregation → ruler → common person) demonstrated that all levels of society needed atonement. This sacrifice points directly to Christ who "was made sin for us" (2 Corinthians 5:21) and whose blood cleanses from all sin.
 
 **Type Classification**: **Direct Type** (divinely commanded sacrifice) and **Forward-Looking** (Hebrews explicitly interprets Christ's work as the antitype).

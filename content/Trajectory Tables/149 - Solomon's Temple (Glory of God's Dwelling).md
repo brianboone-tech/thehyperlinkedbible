@@ -4,6 +4,9 @@ cssclasses: trajectory-table
 
 ## SOLOMON'S TEMPLE (GLORY OF GOD'S DWELLING) TRAJECTORY TABLE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sHoAxjzjObo?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/sHoAxjzjObo)
 
 Solomon's temple (Hebrew: בֵּית יְהוָה, bêṯ YHWH) represented the zenith of Israel's glory and the fulfillment of God's promise to David that his son would build a house for God's name. The temple's magnificence, the cloud of glory filling it at dedication, and its role as center of Israel's worship all pointed beyond the structure to the reality it symbolized. Yet Jesus' body is the true temple, and through His death and resurrection, He tears the veil and opens access to God's presence for all believers. This is a **Direct Type** (divinely commanded house) and **Forward-Looking** (John 1:14; 2:19-21; Haggai 2:9).
 

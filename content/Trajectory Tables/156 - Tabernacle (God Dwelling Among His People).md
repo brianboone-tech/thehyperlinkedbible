@@ -4,6 +4,10 @@ cssclasses: trajectory-table
 
 ## TABERNACLE (GOD DWELLING AMONG HIS PEOPLE) TRAJECTORY TABLE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EXuUCaPPAXg?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/EXuUCaPPAXg)
+
 The tabernacle (Hebrew: מִשְׁכָּן, miškān) was God's gracious provision for dwelling among His redeemed people in the wilderness. Every element—from the bronze altar to the golden ark, from the veil to the lampstand—pointed to Christ and the way of access to God through Him. The tabernacle's portable nature revealed God's commitment to journey with His people; its elaborate construction revealed the costliness of fellowship with a holy God; its restrictive access revealed the barrier sin creates. The trajectory moves from God's presence veiled and restricted in the tabernacle to God's presence revealed and accessible in Christ.
 
 **Type Classification**: **Direct Type** (divinely commanded dwelling) and **Forward-Looking** (John 1:14; Hebrews 8:5; 9:11).

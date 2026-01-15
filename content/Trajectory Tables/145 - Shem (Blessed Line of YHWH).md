@@ -4,6 +4,10 @@ cssclasses: trajectory-table
 
 ## SHEM (BLESSED LINE OF YHWH) TRAJECTORY TABLE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QD31GwrsJ34?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/QD31GwrsJ34)
+
 Noah's blessing on Shem after the flood establishes a remarkable distinction: "Blessed be the LORD, the God of Shem" (Gen 9:26). For the first time in Scripture, YHWH is identified as the God of a particular people. While the other sons receive territorial or relational blessings, Shem's blessing is theological—YHWH claims him. The additional prophecy that "Japheth shall dwell in the tents of Shem" anticipates Gentiles finding blessing through Shem's line. From Shem descends Abraham, Israel, and ultimately Jesus Christ, through whom the promise of Japheth dwelling in Shem's tents is fulfilled as Gentiles are grafted into the covenant people.
 
 **Type Classification**: Providential Type (Shem's righteous action and blessing sovereignly arranged) and Forward-Looking ("the God of Shem" anticipates the covenant line; "Japheth dwelling in Shem's tents" explicitly prophesies Gentile inclusion).

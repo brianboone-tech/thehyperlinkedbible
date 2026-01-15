@@ -4,6 +4,10 @@ cssclasses: trajectory-table
 
 ## SHEPHERD (DIVINE SHEPHERD CHRISTOLOGY) TRAJECTORY TABLE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pPpwHYoA8Ek?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/pPpwHYoA8Ek)
+
 Ezekiel 34 presents one of the most profound Christological prophecies in the Old Testament: Yahweh declares "I Myself will search for My flock and seek them out" (34:11), then promises "I will place over them one shepherd, My servant David" (34:23). This can only be fulfilled if the promised Davidic shepherd IS Yahweh incarnate—the convergence of divine identity and Davidic lineage in Christ resolves the typology. The trajectory traces how shepherd imagery develops from God's personal care for the patriarchs, through the Davidic monarchy, to prophetic promises of divine shepherding, finally finding fulfillment in Jesus who declares "I am the good shepherd" (John 10:11). The escalation is dramatic: human shepherds (Abraham, Moses, David) pointed forward but proved inadequate; false shepherds scattered the flock (Jeremiah 23; Ezekiel 34:1-10). Only when God Himself becomes the Shepherd in the person of Christ does the type reach its intended fulfillment. Moreover, Christ's voluntary death for the sheep (John 10:11, 15) introduces a dimension unprecedented in OT shepherd typology—the shepherd who doesn't merely risk his life but deliberately lays it down as a substitutionary sacrifice.
 
 **Type Classification**: **Providential Type** (David as shepherd-king) and **Direct Type** (Ezekiel 34:23's explicit promise) that is **Forward-Looking** (prophetic anticipation of the Davidic Shepherd).
