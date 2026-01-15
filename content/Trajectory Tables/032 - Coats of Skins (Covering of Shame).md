@@ -6,16 +6,16 @@ cssclasses:
 
 ## COATS OF SKINS (COVERING OF SHAME) TRAJECTORY TABLE
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mhn-Rqm1x3Y?si=y8WbnPQCfPLyZHPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nSnhOG4t0no?si=y8WbnPQCfPLyZHPH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-▶️ [Watch on YouTube](https://youtu.be/Mhn-Rqm1x3Y)
+▶️ [Watch on YouTube](https://youtu.be/nSnhOG4t0no)
 
 After Adam and Eve sinned, they recognized their nakedness and attempted to cover themselves with fig leaves—humanity's first and futile attempt at self-salvation. But God replaced their inadequate covering with "garments of skins" (Genesis 3:21), requiring the death of an animal. This first sacrifice in Scripture established the pattern that would run throughout redemptive history: shame requires covering, covering requires death, and the covering must be God's provision rather than human effort. The trajectory traces from these first garments through the priestly vestments, the prophetic promise of salvation as clothing, the filthy garments exchanged for pure robes, culminating in believers being "clothed with Christ" and finally clothed in "fine linen, bright and pure" in the New Jerusalem.
 
 **Type Classification**: Providential Type (sovereignly arranged first sacrifice) and Forward-Looking (anticipates the need for divine covering through death that runs through Scripture)
 
 | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
-|-------|-------------|-------|
+|-------|-------------|------------------------|---------------|
 | **#1 - Human Attempt - Fig Leaves** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 3#Genesis 3 . 7\|Genesis 3:7]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Coats of Skins (Covering of Shame)/01 - Genesis 3.7\|Genesis 3:7]] | After eating the forbidden fruit, "the eyes of both were opened, and they knew that they were naked. And they sewed fig leaves together and made themselves loincloths." Humanity's first response to sin's exposure was self-covering—attempting to hide shame through personal effort. This represents all subsequent human attempts at self-righteousness. | |
 | **#2 - Divine Provision - Coats of Skins** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 3#Genesis 3 . 21\|Genesis 3:21]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Coats of Skins (Covering of Shame)/01 - Genesis 3.21\|Genesis 3:21]] | "And the LORD God made for Adam and for his wife garments of skins and clothed them." God rejected the fig leaves and provided skins—requiring an animal's death. This is the first sacrifice, the first shedding of blood for sin, the first substitutionary covering. God Himself initiates salvation by providing what humans cannot provide for themselves. | |
 | **#3 - Levitical Development - Priestly Garments** | **Key Text:**<br>[[Readable Bible/02 - Exodus/Exodus 28#Exodus 28 . 2\|Exodus 28:2-4, 40-43]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Coats of Skins (Covering of Shame)/02 - Exodus 28.2-4\|Exodus 28:2-4]] | Aaron's priestly garments were "for glory and for beauty," covering the priest who approached God. The ordinary priests' garments covered nakedness so they would "not bear iniquity and die" (28:43). The elaborate vestments pictured the righteousness required to stand before God—provided by God's design, not human innovation. | |

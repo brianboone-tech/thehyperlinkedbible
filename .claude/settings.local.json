@@ -18,7 +18,12 @@
       "Bash(git push:*)",
       "Bash(Get-ChildItem \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\\\\Trajectory Tables\\\\*.md\")",
       "Bash(Measure-Object)",
-      "Bash(Select-Object -ExpandProperty Count)"
+      "Bash(Select-Object -ExpandProperty Count)",
+      "Bash(Select-Object -ExpandProperty Name)",
+      "Bash(Sort-Object)",
+      "Bash(head:*)",
+      "WebFetch(domain:www.youtube.com)",
+      "Bash(curl:*)"
     ]
   }
 }

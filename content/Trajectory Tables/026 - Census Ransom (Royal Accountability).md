@@ -6,16 +6,16 @@ cssclasses:
 
 ## CENSUS RANSOM (ROYAL ACCOUNTABILITY) TRAJECTORY TABLE
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vdU5hj-Vy0g?si=I1KLu_B0mJJjQXg-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/erUwmTSWbZY?si=I1KLu_B0mJJjQXg-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-▶️ [Watch on YouTube](https://youtu.be/vdU5hj-Vy0g)
+▶️ [Watch on YouTube](https://youtu.be/erUwmTSWbZY)
 
 The census ransom (Exodus 30:11-16) required each Israelite numbered in the census to give a half-shekel "ransom for his life to the LORD" so that "there may be no plague among them when you number them." The payment was the same for rich and poor alike—neither more nor less. This typified the fundamental truth that every human soul belongs to God and requires ransom, and that the ransom price is the same for all. The trajectory reveals that numbering God's people is a royal prerogative (God's right to know His own), but exercising this prerogative without proper ransom acknowledges human presumption on divine ownership. Christ paid the ultimate ransom—not half a shekel but His own precious blood—redeeming those who belong to God and securing our place among the numbered saints.
 
 **Type Classification**: Direct Type (divinely instituted ransom payment) and Forward-Looking (points to ultimate ransom through Christ's blood, 1 Peter 1:18-19)
 
 | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
-|-------|-------------|-------|
+|-------|-------------|------------------------|---------------|
 | **#1 - OT Institution - Census Ransom Required** | **Key Text:**<br>[[Readable Bible/02 - Exodus/Exodus 30#Exodus 30 . 11\|Exodus 30:11-16]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Census Ransom (Royal Accountability)/02 - Exodus 30.11-16\|Exodus 30:11-16]] | When Israel is numbered, each person twenty years and older must give a half-shekel as "ransom for his life" (כֹּפֶר נַפְשׁוֹ, *kopher nephsho*). The rich shall not give more, the poor shall not give less. This is "atonement money" to be used for the tabernacle service. | |
 | **#2 - Theological Significance - Ransom for Life** | **Key Text:**<br>[[Readable Bible/02 - Exodus/Exodus 30#Exodus 30 . 12\|Exodus 30:12]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Census Ransom (Royal Accountability)/02 - Exodus 30.12\|Exodus 30:12]] | "Each shall give a ransom for himself to the LORD when you number them, that there be no plague among them." Numbering people asserts ownership; only God has that right. Without ransom, the census itself becomes presumption, bringing divine judgment. The ransom acknowledges God's ownership of every soul. | |
 | **#3 - Equal Price - Rich and Poor Alike** | **Key Text:**<br>[[Readable Bible/02 - Exodus/Exodus 30#Exodus 30 . 15\|Exodus 30:15]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Census Ransom (Royal Accountability)/02 - Exodus 30.15\|Exodus 30:15]] | "The rich shall not give more, and the poor shall not give less." The price of a soul is fixed—not graduated by wealth or status. This equality demonstrates that all stand equally before God as those who need ransom, and that the ransom price cannot be inflated or reduced by human circumstance. | |

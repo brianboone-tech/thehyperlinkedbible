@@ -1,4 +1,4 @@
-﻿---
+---
 cssclasses:
   - trajectory-table
   - trajectory-table-wide
@@ -6,16 +6,16 @@ cssclasses:
 
 ## CITIES OF REFUGE (SAFETY IN CHRIST) TRAJECTORY TABLE
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n5a7QLbbDFc?si=AAvjVjrV-HWZGZSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zq1hWDJW1bo?si=AAvjVjrV-HWZGZSK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-▶️ [Watch on YouTube](https://youtu.be/n5a7QLbbDFc)
+▶️ [Watch on YouTube](https://youtu.be/zq1hWDJW1bo)
 
 The six cities of refuge (Numbers 35; Deuteronomy 19; Joshua 20) provided sanctuary for those who killed someone accidentally, protecting them from the "avenger of blood" (גֹּאֵל הַדָּם) until judgment could be rendered. The fugitive had to reach the city, remain within its boundaries, and stay until the high priest died. This institution typifies Christ as the believer's refuge: those who have brought death (through sin) flee to Him for safety from the avenger (divine justice); they must remain in Him; and their complete freedom comes through the death of the Great High Priest. As Mather writes, "The slayer is safe from the avenger of blood, while he keeps within the bounds of the City of Refuge; so the Believer is safe from the wrath to come while he abides in Christ."
 
 **Type Classification**: Direct Type (divinely instituted cities) and Forward-Looking (the high priest's death pointing to Christ's death that releases from condemnation)
 
 | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
-|-------|-------------|-------|
+|-------|-------------|------------------------|---------------|
 | **#1 - OT Institution - Cities Established** | **Key Text:**<br>[[Readable Bible/04 - Numbers/Numbers 35#Numbers 35 . 9\|Numbers 35:9-15]]; [[Readable Bible/05 - Deuteronomy/Deuteronomy 19#Deuteronomy 19 . 1\|Deuteronomy 19:1-13]]; [[Readable Bible/06 - Joshua/Joshua 20#Joshua 20 . 1\|Joshua 20:1-9]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Cities of Refuge (Safety in Christ)/04 - Numbers 35.9-15\|Numbers 35:9-15]] | God commands six cities of refuge—three on each side of the Jordan—accessible to any Israelite or sojourner who kills someone "unintentionally and without enmity" (Numbers 35:22). The cities are Levitical cities, spread throughout the land, with roads cleared and maintained (Deuteronomy 19:3). | |
 | **#2 - Function - Protection from Avenger** | **Key Text:**<br>[[Readable Bible/04 - Numbers/Numbers 35#Numbers 35 . 12\|Numbers 35:12, 19-25]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Cities of Refuge (Safety in Christ)/04 - Numbers 35.12\|Numbers 35:12]] | "The cities shall be for you a refuge from the avenger (גֹּאֵל), that the manslayer may not die until he stands before the congregation for judgment." The avenger of blood (גֹּאֵל הַדָּם) had legal right to execute the killer—but the city of refuge suspended this right pending trial. Inside the city, the slayer was safe; outside, the avenger could lawfully kill him. | |
 | **#3 - Condition - Remain Until High Priest's Death** | **Key Text:**<br>[[Readable Bible/04 - Numbers/Numbers 35#Numbers 35 . 25\|Numbers 35:25-28]]; [[Readable Bible/06 - Joshua/Joshua 20#Joshua 20 . 6\|Joshua 20:6]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Cities of Refuge (Safety in Christ)/04 - Numbers 35.25-28\|Numbers 35:25-28]] | "The congregation shall restore him to his city of refuge... and he shall live in it until the death of the high priest who was anointed with the holy oil." The slayer must remain in the city; if he leaves before the high priest dies, the avenger may lawfully kill him. Only the high priest's death releases him to go anywhere safely. | |
