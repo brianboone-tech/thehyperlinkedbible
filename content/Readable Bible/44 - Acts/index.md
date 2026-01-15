@@ -1,0 +1,27 @@
+# Acts
+
+**[[Home/08 - Scripture Index|← Scripture Index]]**
+
+---
+
+| | |
+|---|---|
+| **Testament** | New Testament |
+| **Chapters** | 28 |
+| **Category** | History |
+
+---
+
+## Chapters
+
+| [[Acts 1\|1]] | [[Acts 2\|2]] | [[Acts 3\|3]] | [[Acts 4\|4]] | [[Acts 5\|5]] | [[Acts 6\|6]] | [[Acts 7\|7]] | [[Acts 8\|8]] | [[Acts 9\|9]] | [[Acts 10\|10]] |
+| [[Acts 11\|11]] | [[Acts 12\|12]] | [[Acts 13\|13]] | [[Acts 14\|14]] | [[Acts 15\|15]] | [[Acts 16\|16]] | [[Acts 17\|17]] | [[Acts 18\|18]] | [[Acts 19\|19]] | [[Acts 20\|20]] |
+| [[Acts 21\|21]] | [[Acts 22\|22]] | [[Acts 23\|23]] | [[Acts 24\|24]] | [[Acts 25\|25]] | [[Acts 26\|26]] | [[Acts 27\|27]] | [[Acts 28\|28]] |
+
+---
+
+## Related Resources
+
+- [[Home/Indexes/Chiasms/44 - Acts - Chiasms|Chiasms in Acts]]
+- [[Home/Indexes/Intertextuality/44 - Acts - Intertextuality|Cross-References in Acts]]
+- [[Home/Indexes/Trajectories/44 - Acts - Trajectories|Trajectory Tables referencing Acts]]

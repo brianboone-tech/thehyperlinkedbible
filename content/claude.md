@@ -238,7 +238,9 @@ Renumbered remaining pages to clean sequence (01-08):
 - Added images to Site Layout and Understanding Links pages
 - Added YouTube embed to Video Resources page
 
-### Session 8 - January 15, 2026 (Trajectory Table Width Fix)
+### Session 8 - January 15, 2026 (Trajectory Table Width Fix + Folder Index Pages)
+
+#### Part 1: Trajectory Table Width Fix
 
 **Problem:** Trajectory tables overflow the center content area on desktop, extending past the right sidebar.
 
@@ -255,10 +257,54 @@ Renumbered remaining pages to clean sequence (01-08):
 
 **Test Page:** Abraham trajectory table (003)
 
-**Plan:**
-1. Sync and test Abraham page layout
+**Next Steps:**
+1. Test Abraham page layout
 2. If successful, apply `trajectory-table-wide` to all 175 trajectory table files
-3. If issues persist, adjust CSS before rollout
+
+#### Part 2: Folder Index Pages (Eliminate Auto-Generated Folder Listings)
+
+**Goal:** Replace all Quartz auto-generated folder listing pages with custom index.md files.
+
+**Created/Modified Files:**
+
+| Category | Count | Description |
+|----------|------:|-------------|
+| Readable Bible book indexes | 66 | Enhanced indexes with overview, chapters grid, and related resources links |
+| Reference Bible book indexes | 66 | Simple indexes with chapters grid |
+| Main folder indexes | 12 | Index pages for top-level content folders |
+| Subfolder indexes | 4 | For IP subfolders, Home subfolders |
+
+**Readable Bible Book Index Template:**
+- Book title and back link to Scripture Index
+- Overview table (Testament, Chapters, Category)
+- 10-column chapter grid
+- Related Resources section linking to Chiasms, Intertextuality, and Trajectories for that book
+
+**Reference Bible Book Index Template:**
+- Book title and back link to Scripture Index
+- Simple chapter grid
+
+**Main Folder Indexes Created:**
+| Folder | Source |
+|--------|--------|
+| `Chiasm/index.md` | Moved from Home/Indexes/Chiasm Index.md |
+| `Intertextuality Pairs/index.md` | Moved from Home/Indexes/IP Index.md |
+| `Trajectory Tables/index.md` | Moved from Home/Indexes/TT Index.md |
+| `The Treasury of Scripture Knowledge/index.md` | Moved from Home/Indexes/TOSK Index.md |
+| `Readable Bible/index.md` | New - overview with categorized book links |
+| `Reference Bible/index.md` | New - overview with book links |
+| `Lexicon/index.md` | New - explains how to access lexicon |
+| `LXX Reference/index.md` | New - explains Septuagint resources |
+| `Trajectory Tables - Foundation Texts/index.md` | New - explains supporting materials |
+| `Redemptive-Historical Cycles/index.md` | Copied from existing overview file |
+| `Home/index.md` | New - links to Getting Started and resources |
+| `Intertextuality Pairs/NT to OT/index.md` | New |
+| `Intertextuality Pairs/OT to OT/index.md` | New |
+| `Home/Indexes/index.md` | New |
+| `Home/Archive/index.md` | New |
+
+**Deleted Files:**
+- 66 old book files from Readable Bible (Genesis.md, Exodus.md, etc.) - replaced by index.md
 
 ---
 

@@ -193,12 +193,12 @@ a.internal {
 }
 
 // ============================================
-// TRAJECTORY TABLE WIDE LAYOUT (TEST)
+// TRAJECTORY TABLE WIDE LAYOUT
 // ============================================
 
 // Hide right sidebar and expand center content for wide tables
-// Applied via cssclasses: trajectory-table-wide
-.trajectory-table-wide {
+// Applied via cssclasses: trajectory-table-wide (now on body element)
+body.trajectory-table-wide {
   // On desktop: change grid to 2 columns (hide right sidebar)
   #quartz-body {
     @media (min-width: 1200px) {
