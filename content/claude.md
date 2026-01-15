@@ -238,6 +238,28 @@ Renumbered remaining pages to clean sequence (01-08):
 - Added images to Site Layout and Understanding Links pages
 - Added YouTube embed to Video Resources page
 
+### Session 8 - January 15, 2026 (Trajectory Table Width Fix)
+
+**Problem:** Trajectory tables overflow the center content area on desktop, extending past the right sidebar.
+
+**Solution:** Created new CSS class `trajectory-table-wide` that:
+- Hides right sidebar on trajectory table pages (desktop only)
+- Uses `minmax(0, 1fr)` for center column to prevent overflow behind left sidebar
+- Keeps horizontal scroll on table container as fallback
+
+**Files Modified:**
+| File | Changes |
+|------|---------|
+| `quartz/styles/custom.scss` | Added `.trajectory-table-wide` class (lines 195-231) |
+| `content/Trajectory Tables/003 - Abraham (Father of Faith).md` | Added `trajectory-table-wide` class for testing |
+
+**Test Page:** Abraham trajectory table (003)
+
+**Plan:**
+1. Sync and test Abraham page layout
+2. If successful, apply `trajectory-table-wide` to all 175 trajectory table files
+3. If issues persist, adjust CSS before rollout
+
 ---
 
 ## Broken Links Status
@@ -291,6 +313,7 @@ Component.Explorer({
 |-------|------------|---------|
 | `cssclasses: chiasm` | 1,721 chiasm files | Extra list spacing |
 | `cssclasses: trajectory-table` | 175 TT files | Enhanced table borders |
+| `cssclasses: trajectory-table-wide` | TT files (testing) | Hides right sidebar, widens content |
 | `cssclasses: lexicon` | Readable Bible chapters | Lexicon styling |
 
 ### Key Files

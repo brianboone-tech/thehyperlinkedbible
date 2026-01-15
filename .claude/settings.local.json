@@ -8,7 +8,10 @@
       "Bash(Select-Object -First 50)",
       "Bash(Select-String -NotMatch \"^### Admin\" -Context 0,100)",
       "Bash(Select-Object -First 300)",
-      "Bash(npx quartz sync:*)"
+      "Bash(npx quartz sync:*)",
+      "Bash(wc:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)"
     ]
   }
 }

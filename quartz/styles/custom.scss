@@ -193,6 +193,44 @@ a.internal {
 }
 
 // ============================================
+// TRAJECTORY TABLE WIDE LAYOUT (TEST)
+// ============================================
+
+// Hide right sidebar and expand center content for wide tables
+// Applied via cssclasses: trajectory-table-wide
+.trajectory-table-wide {
+  // On desktop: change grid to 2 columns (hide right sidebar)
+  #quartz-body {
+    @media (min-width: 1200px) {
+      grid-template-columns: 320px minmax(0, 1fr);
+      grid-template-areas:
+        "grid-sidebar-left grid-header"
+        "grid-sidebar-left grid-center"
+        "grid-sidebar-left grid-footer";
+    }
+  }
+
+  // Hide right sidebar completely on desktop
+  .sidebar.right {
+    @media (min-width: 1200px) {
+      display: none;
+    }
+  }
+
+  // Ensure center content doesn't overflow
+  .center {
+    max-width: 100%;
+    overflow-x: hidden;
+
+    // Allow table container to scroll if still needed
+    .table-container {
+      overflow-x: auto;
+      max-width: 100%;
+    }
+  }
+}
+
+// ============================================
 // CHIASM PAGE STYLING (list spacing)
 // ============================================
 

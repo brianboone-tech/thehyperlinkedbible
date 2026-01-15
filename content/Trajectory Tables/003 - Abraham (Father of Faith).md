@@ -1,5 +1,7 @@
 ---
-cssclasses: trajectory-table
+cssclasses:
+  - trajectory-table
+  - trajectory-table-wide
 ---
 
 ## ABRAHAM TRAJECTORY TABLE
