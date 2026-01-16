@@ -24,7 +24,7 @@ cssClasses: lexicon
 [[Reference Bible/19 - Psalms/Psalm 13#Psalm 13 - 4|4]] lest my enemy say, “I have overcome him,” and my foes rejoice when I fall.  | [[Chiasm/Chiasm - 19 - Psalm 13 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 13 - TOSK#Verse 4|TOSK]] |
 
 ##### Psalm 13 . 5
-[[Reference Bible/19 - Psalms/Psalm 13#Psalm 13 - 5|5]] But I have trusted in Your loving devotion; my heart will rejoice in Your salvation.  | [[Chiasm/Chiasm - 19 - Psalm 13 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 13 - TOSK#Verse 5|TOSK]] |
+[[Reference Bible/19 - Psalms/Psalm 13#Psalm 13 - 5|5]] But I have trusted in Your loving devotion; my heart will rejoice in Your salvation.  | [[Chiasm/Chiasm - 19 - Psalm 13 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 13 - TOSK#Verse 5|TOSK]] | [[Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving)|TT]] |
 
 ##### Psalm 13 . 6
 [[Reference Bible/19 - Psalms/Psalm 13#Psalm 13 - 6|6]] I will sing to the LORD, for He has been good to me.  | [[Chiasm/Chiasm - 19 - Psalm 13 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 13 - TOSK#Verse 6|TOSK]] |

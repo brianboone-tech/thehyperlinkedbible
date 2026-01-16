@@ -71,7 +71,7 @@ cssClasses: lexicon
 [[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 21|21]] Save me from the mouth of the lion; at the horns of the wild oxen You have answered me!  | [[Intertextuality Pairs/NT to OT/55 - 2 Timothy/2 Timothy 4.17 to Psalm 22.21|IP]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 21|TOSK]] |
 
 ##### Psalm 22 . 22
-[[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 22|22]] I will proclaim Your name to my brothers; I will praise You in the assembly.  | [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 2.12 to Psalms 22.22|IP]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 22|TOSK]] | [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)|TT]] |
+[[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 22|22]] I will proclaim Your name to my brothers; I will praise You in the assembly.  | [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 2.12 to Psalms 22.22|IP]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 22|TOSK]] | [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)|TT¹]] | [[Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving)|TT²]] |
 ##### Psalm 22 . 23
 [[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 23|23]] You who fear the LORD, praise Him! All descendants of Jacob, honor Him! All offspring of Israel, revere Him!  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 23|TOSK]] |
 
