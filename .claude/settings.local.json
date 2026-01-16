@@ -23,7 +23,18 @@
       "Bash(Sort-Object)",
       "Bash(head:*)",
       "WebFetch(domain:www.youtube.com)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(for book in \"Look to the Rock\" \"Preaching Christ in a Post modern World\" \"Knowing Jesus\" \"Immanuel in Our Place\" \"Biblical Theology\")",
+      "Bash(do echo \"\")",
+      "Bash(echo:*)",
+      "Bash(done)",
+      "Bash(dir /s /b \"C:$Recycle.Bin\")",
+      "Bash(findstr:*)",
+      "Bash(python merge_trajectory_tables.py:*)",
+      "Bash(python:*)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\" -Recurse -Filter \"*Bonar*\")",
+      "Bash(Select-Object FullName)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\" -Recurse -Filter \"*Leviticus*\")"
     ]
   }
 }

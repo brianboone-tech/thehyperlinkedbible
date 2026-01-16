@@ -167,6 +167,77 @@ cssclasses:
 **Created Source Tracking File:**
 - `Admin/TT Discovery/Trajectory Table Sources.md` - maps 47 trajectory tables to their source documentation
 
+### Session 11 (January 15, 2026) - TT Discovery + New Trajectory Table
+
+**TT Discovery: Five Books Analysis**
+
+Analyzed 5 theological books for new trajectory table candidates:
+1. Tremper Longman - "Immanuel in Our Place" (22 chapters, typological catalog)
+2. Christopher Wright - "Knowing Jesus" (9 chapters, methodological)
+3. Alec Motyer - "Look to the Rock" (12 chapters, methodological)
+4. Edmund Clowney/Keller - "Preaching Christ in a Postmodern World" (15 chapters, homiletical)
+5. Geerhardus Vos - "Biblical Theology" (2 files, meta-methodological)
+
+**Finding:** Lower yield than expected - 4 of 5 books are methodological (HOW to see Christ) rather than typological catalogs (listing specific types). Existing 175 TTs are comprehensive.
+
+**New Candidates Identified:**
+- **Purim (Divine Reversal)** - from Longman Ch. 19 (HIGH priority, not yet built)
+- **The Singing Sufferer (Christ the Choir Master)** - from Clowney Psalm 22 lecture (**IMPLEMENTED**)
+
+**New Trajectory Table Created: The Singing Sufferer (Christ the Choir Master)**
+
+Complete trajectory tracing Christ as the singer of the Psalms:
+- 8 stages from Psalm 13 → Psalm 22 → Jonah → Matthew 27:46 → Hebrews 2:12 → Romans 15:8-9 → Revelation 5
+- Full lexicon analysis (קָהָל/ἐκκλησία, הָלַל/ὑμνέω, נָגַד)
+- 8 foundation text files created
+- Four-Step Application included
+
+**Files Created:**
+- `Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master).md`
+- `Trajectory Tables - Foundation Texts/The Singing Sufferer (Christ the Choir Master)/` (8 files)
+- `Admin/TT Discovery/Five Books Analysis - Candidates.md`
+
+**CSS Fix: Trajectory Table Width**
+
+Modified `custom.scss` to extend center column for `trajectory-table-wide` pages:
+- Set `.page { max-width: 98vw; }` to use available screen width
+- Center content now extends into former right sidebar space
+
+### Session 12 (January 16, 2026) - Trajectory Table Section Order Fix
+
+**Issue Discovered:** Merge script from Session 11 placed sections in wrong order for 168+ files.
+
+**Problem:** The merge script appended backup content (table + IPs + Foundation Texts) AFTER the existing Four-Step and Lexicon sections, resulting in:
+- Four-Step Application appearing BEFORE the table (wrong)
+- Lexicon Findings appearing BEFORE the table (wrong)
+- Duplicate Four-Step and Lexicon sections at the end
+
+**Correct Section Order:**
+1. Frontmatter (with cssclasses)
+2. Title + YouTube + intro + Type Classification
+3. TABLE (5-column format)
+4. Canonical Intertextuality Pairs
+5. Foundation Texts
+6. Four-Step Application
+7. Lexicon Findings
+
+**Solution:** Created `Admin/fix_section_order.py` to:
+- Parse each file and identify section boundaries
+- Extract each section independently
+- Reassemble in correct order
+- Remove duplicate sections
+- Add proper frontmatter with cssclasses
+
+**Results:**
+- **168 files** fixed via batch script
+- **File 152** (Spirit of Wisdom) manually fixed - had duplicate old-format table
+- **File 045** (Day of Midian) frontmatter corrected
+- **0 errors**
+
+**Files Created:**
+- `Admin/fix_section_order.py` - Batch fix script for section order
+- `Admin/fix_section_order_log.txt` - Detailed fix log
+
 ---
 
 ## Technical Reference

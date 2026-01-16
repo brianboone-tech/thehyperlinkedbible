@@ -26,7 +26,7 @@ cssClasses: lexicon
 [[Reference Bible/19 - Psalms/Psalm 18#Psalm 18 - 5|5]] The cords of Sheol entangled me; the snares of death confronted me.  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 18 - TOSK#Verse 5|TOSK]] |
 
 ##### Psalm 18 . 6
-[[Reference Bible/19 - Psalms/Psalm 18#Psalm 18 - 6|6]] In my distress I called upon the LORD; I cried to my God for help. From His temple He heard my voice, and my cry for His help reached His ears.  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 18 - TOSK#Verse 6|TOSK]] |
+[[Reference Bible/19 - Psalms/Psalm 18#Psalm 18 - 6|6]] In my distress I called upon the LORD; I cried to my God for help. From His temple He heard my voice, and my cry for His help reached His ears.  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 18 - TOSK#Verse 6|TOSK]] | [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)|TT]] |
 
 ##### Psalm 18 . 7
 [[Reference Bible/19 - Psalms/Psalm 18#Psalm 18 - 7|7]] Then the earth shook and quaked, and the foundations of the mountains trembled; they were shaken because He burned with anger.  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 18 - TOSK#Verse 7|TOSK]] |
@@ -152,6 +152,6 @@ cssClasses: lexicon
 [[Reference Bible/19 - Psalms/Psalm 18#Psalm 18 - 48|48]] who delivers me from my enemies. You exalt me above my foes; You rescue me from violent men.  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 18 - TOSK#Verse 48|TOSK]] |
 
 ##### Psalm 18 . 49
-[[Reference Bible/19 - Psalms/Psalm 18#Psalm 18 - 49|49]] Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name.  | [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 15.9 to Psalm 18.49|IP]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 18 - TOSK#Verse 49|TOSK]] |
+[[Reference Bible/19 - Psalms/Psalm 18#Psalm 18 - 49|49]] Therefore I will praise You, O LORD, among the nations; I will sing praises to Your name.  | [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 15.9 to Psalm 18.49|IP]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 18 - TOSK#Verse 49|TOSK]] | [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)|TT]] |
 ##### Psalm 18 . 50
 [[Reference Bible/19 - Psalms/Psalm 18#Psalm 18 - 50|50]] Great salvation He brings to His king. He shows loving devotion to His anointed, to David and his descendants forever.  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 18 - TOSK#Verse 50|TOSK]] |

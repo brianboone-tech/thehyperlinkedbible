@@ -1,4 +1,4 @@
-﻿---
+---
 cssclasses:
   - trajectory-table
   - trajectory-table-wide
@@ -14,15 +14,40 @@ Jacob's deathbed blessing elevates Judah above his brothers, establishing Judah 
 
 **Type Classification**: Direct Type (divinely revealed prophecy through Jacob) and Forward-Looking (explicit "until Shiloh comes" language anticipates future fulfillment; NT identifies Christ as the Lion of Judah).
 
-| Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
-|-------|-------------|------------------------|---------------|
-| **#1 - OT Type - Jacob's Blessing** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 49#Genesis 49 . 8\|Genesis 49:8-12]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/01 - Genesis 49.8-12\|Genesis 49:8-12]] | Jacob pronounces: "The scepter shall not depart from Judah, nor the ruler's staff from between his feet, until Shiloh comes, and to him shall be the obedience of the peoples." The lion imagery (v. 9), royal regalia (v. 10), and vine abundance (vv. 11-12) establish Judah's permanent royal prerogative. | **OT to OT:**<br>[[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 49.10 to 2 Samuel 7.14-15\|Gen 49:10 -> 2 Sam 7:14-15]] |
-| **#2 - OT Development - Balaam's Oracle** | **Key Text:**<br>[[Readable Bible/04 - Numbers/Numbers 24#Numbers 24 . 17\|Numbers 24:17-19]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/04 - Numbers 24.17-19\|Numbers 24:17-19]] | An enemy prophet, compelled by God, declares: "A star will come forth from Jacob, and a scepter will arise from Israel." The scepter terminology echoes Genesis 49:10. This "ruler from Jacob" will conquer all enemies. | **OT to OT:**<br>[[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 24.17-19 to Psalm 2.8-9\|Num 24:17-19 -> Ps 2:8-9]] |
-| **#3 - OT Development - Davidic Covenant** | **Key Text:**<br>[[Readable Bible/10 - 2 Samuel/2 Samuel 7#2 Samuel 7 . 12\|2 Samuel 7:12-16]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/10 - 2 Samuel 7.12-16\|2 Samuel 7:12-16]] | God promises David (of Judah): "Your house and your kingdom shall be made sure forever before me. Your throne shall be established forever." The Judahite kingship becomes institutionalized in David's dynasty—the scepter now has a specific family line. |  |
-| **#4 - Prophetic Anticipation - Bethlehem's Ruler** | **Key Text:**<br>[[Readable Bible/33 - Micah/Micah 5#Micah 5 . 2\|Micah 5:2]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/33 - Micah 5.2\|Micah 5:2]] | "But you, Bethlehem Ephrathah, who are small among the clans of Judah, out of you will come forth for Me One to be ruler over Israel—One whose origins are of old, from the days of eternity." The Judahite ruler will come specifically from David's hometown; his "origins are of old"—divine preexistence. | **OT to OT:**<br>[[Intertextuality Pairs/OT to OT/33 - Micah/Micah 5.2 to 1 Samuel 16.1\|Micah 5:2 -> 1 Sam 16:1]] |
-| **#5 - NT Fulfillment - Jesus of Judah** | **Key Text:**<br>[[Readable Bible/40 - Matthew/Matthew 1#Matthew 1 . 1\|Matthew 1:1-3]]; [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 14\|Hebrews 7:14]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/40 - Matthew 1.1-3; 58 - Hebrews 7.14\|Matthew 1:1-3; Hebrews 7:14]] | Matthew's genealogy: "Jesus Christ, the son of David, the son of Abraham...Judah the father of Perez and Zerah." Hebrews confirms: "It is evident that our Lord was descended from Judah." The scepter promised to Judah now rests in Jesus' hands. |  |
-| **#6 - Eschatological Consummation - Lion of Judah Triumphs** | **Key Text:**<br>[[Readable Bible/66 - Revelation/Revelation 5#Revelation 5 . 5\|Revelation 5:5]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/66 - Revelation 5.5\|Revelation 5:5]] | "Behold, the Lion of the tribe of Judah, the Root of David, has triumphed to open the scroll." Genesis 49:9's lion imagery reaches cosmic fulfillment. The Judahite King conquers, opens history's scroll, and receives worship from all creation. The scepter that would "not depart from Judah until Shiloh comes" now belongs to the Lamb forever. |  |
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Type - Jacob's Blessing** | [[Readable Bible/01 - Genesis/Genesis 49#Genesis 49 . 8\|Genesis 49:8-12]] | Jacob pronounces: "The scepter shall not depart from Judah, nor the ruler's staff from between his feet, until Shiloh comes, and to him shall be the obedience of the peoples." The lion imagery (v. 9), royal regalia (v. 10), and vine abundance (vv. 11-12) establish Judah's permanent royal prerogative. **CRITICAL:** [[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 49.10 to 2 Samuel 7.14-15\|Genesis 49:10  to  2 Samuel 7:14-15]] | [[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/01 - Genesis 49.8-12\|Genesis 49:8-12]] |
+| 2 | **OT Development - Balaam's Oracle** | [[Readable Bible/04 - Numbers/Numbers 24#Numbers 24 . 17\|Numbers 24:17-19]] | An enemy prophet, compelled by God, declares: "A star will come forth from Jacob, and a scepter will arise from Israel." The scepter terminology echoes Genesis 49:10. This "ruler from Jacob" will conquer all enemies. **CRITICAL:** [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 24.17-19 to Psalm 2.8-9\|Numbers 24:17-19  to  Psalm 2:8-9]] | [[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/04 - Numbers 24.17-19\|Numbers 24:17-19]] |
+| 3 | **OT Development - Davidic Covenant** | [[Readable Bible/10 - 2 Samuel/2 Samuel 7#2 Samuel 7 . 12\|2 Samuel 7:12-16]] | God promises David (of Judah): "Your house and your kingdom shall be made sure forever before me. Your throne shall be established forever." The Judahite kingship becomes institutionalized in David's dynasty—the scepter now has a specific family line. | [[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/10 - 2 Samuel 7.12-16\|2 Samuel 7:12-16]] |
+| 4 | **Prophetic Anticipation - Bethlehem's Ruler** | [[Readable Bible/33 - Micah/Micah 5#Micah 5 . 2\|Micah 5:2]] | "But you, Bethlehem Ephrathah, who are small among the clans of Judah, out of you will come forth for Me One to be ruler over Israel—One whose origins are of old, from the days of eternity." The Judahite ruler will come specifically from David's hometown; his "origins are of old"—divine preexistence. **CRITICAL:** [[Intertextuality Pairs/OT to OT/33 - Micah/Micah 5.2 to 1 Samuel 16.1\|Micah 5:2  to  1 Samuel 16:1]] | [[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/33 - Micah 5.2\|Micah 5:2]] |
+| 5 | **NT Fulfillment - Jesus of Judah** | [[Readable Bible/40 - Matthew/Matthew 1#Matthew 1 . 1\|Matthew 1:1-3]]; [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 14\|Hebrews 7:14]] | Matthew's genealogy: "Jesus Christ, the son of David, the son of Abraham...Judah the father of Perez and Zerah." Hebrews confirms: "It is evident that our Lord was descended from Judah." The scepter promised to Judah now rests in Jesus' hands. | [[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/40 - Matthew 1.1-3; 58 - Hebrews 7.14\|Matthew 1:1-3; Hebrews 7:14]] |
+| 6 | **Eschatological Consummation - Lion of Judah Triumphs** | [[Readable Bible/66 - Revelation/Revelation 5#Revelation 5 . 5\|Revelation 5:5]] | "Behold, the Lion of the tribe of Judah, the Root of David, has triumphed to open the scroll." Genesis 49:9's lion imagery reaches cosmic fulfillment. The Judahite King conquers, opens history's scroll, and receives worship from all creation. The scepter that would "not depart from Judah until Shiloh comes" now belongs to the Lamb forever. | [[Trajectory Tables - Foundation Texts/Judah's Scepter (Until Shiloh Comes)/66 - Revelation 5.5\|Revelation 5:5]] |
 
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+**01 - Genesis**
+
+- [[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 49.10 to 2 Samuel 7.14-15\|Genesis 49:10  to  2 Samuel 7:14-15]] - **CRITICAL:** Jacob's promise that "the scepter shall not depart from Judah" connects verbally to God's promise that His covenant loyalty "shall not depart" from David's house. Both use "shall not depart" (לֹא־יָסוּר) to express permanence of the royal promise.
+
+- [[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 49.11 to Zechariah 9.9\|Genesis 49:11  to  Zechariah 9:9]] - Judah's ruler "ties his donkey to the vine" (Gen 49:11), and Zechariah's coming King is "humble, riding on a donkey" (Zech 9:9). The donkey imagery connects peaceful, humble kingship across the trajectory.
+
+**04 - Numbers**
+
+- [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 24.17-19 to Psalm 2.8-9\|Numbers 24:17-19  to  Psalm 2:8-9]] - Balaam's oracle that the scepter-bearer will "crush the skulls of Moab" connects to Psalm 2's declaration that Messiah will "break them with a rod of iron." The scepter as instrument of conquest links both texts.
+
+### NT to OT
+
+**40 - Matthew**
+
+- [[Intertextuality Pairs/NT to OT/40 - Matthew/Matthew 2.5-6 to Micah 5.2\|Matthew 2:6  to  Micah 5:2]] - The magi's question leads to Micah 5:2's quotation: "out of you will come a ruler who will shepherd my people Israel." The Bethlehem prophecy is explicitly fulfilled in Jesus' birth.
+
+**66 - Revelation**
+
+- [[Intertextuality Pairs/NT to OT/66 - Revelation/Revelation 2.7 to Genesis 2.9\|Revelation 5:5  to  Genesis 49:9-10]] - "The Lion of the tribe of Judah" directly echoes Jacob's blessing: "Judah is a young lion." The conquering lion who opens the scroll is the ultimate fulfillment of Judah's royal prerogative.
 ---
 
 ## Four-Step Application

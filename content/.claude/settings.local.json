@@ -12,7 +12,16 @@
       "Bash(do sed -i ':a;N;$!ba;s/\\\\n\\\\n\\\\n\\\\[\\\\[Readable/\\\\n\\\\n[[Readable/g' \"$f\")",
       "Bash(done)",
       "Bash(perl:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "WebSearch",
+      "WebFetch(domain:biblicalelearning.org)",
+      "WebFetch(domain:archive.org)",
+      "WebFetch(domain:quod.lib.umich.edu)",
+      "WebFetch(domain:www.monergism.com)",
+      "WebFetch(domain:books.google.com)",
+      "WebFetch(domain:www.preceptaustin.org)",
+      "Bash(curl:*)",
+      "Bash(ls -la \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\\\\Books - Public\"\" 2>&1 || echo \"Directory may not exist or is empty \")"
     ]
   }
 }

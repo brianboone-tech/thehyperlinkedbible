@@ -12,7 +12,7 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 22 . 1
-[[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 1|1]] For the choirmaster. To the tune of "The Doe of the Dawn." A Psalm of David. My God, my God, why have You forsaken me? Why are You so far from saving me, so far from my words of groaning?  | [[Intertextuality Pairs/OT to OT/19 - Psalms/Psalms 22.1 to Deuteronomy 31.6|IP¹]] | [[Intertextuality Pairs/OT to OT/19 - Psalms/Psalms 22.1 to Deuteronomy 31.8|IP²]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/041 - David (The King After God's Own Heart)|TT]] |
+[[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 1|1]] For the choirmaster. To the tune of "The Doe of the Dawn." A Psalm of David. My God, my God, why have You forsaken me? Why are You so far from saving me, so far from my words of groaning?  | [[Intertextuality Pairs/OT to OT/19 - Psalms/Psalms 22.1 to Deuteronomy 31.6|IP¹]] | [[Intertextuality Pairs/OT to OT/19 - Psalms/Psalms 22.1 to Deuteronomy 31.8|IP²]] | [[Intertextuality Pairs/OT to OT/19 - Psalms/Psalms 22.1 to Psalms 13.1|IP³]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/041 - David (The King After God's Own Heart)|TT¹]] | [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)|TT²]] |
 ##### Psalm 22 . 2
 [[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 2|2]] I cry out by day, O my God, but You do not answer, and by night, but I have no rest.  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 2|TOSK]] |
 
@@ -71,7 +71,7 @@ cssClasses: lexicon
 [[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 21|21]] Save me from the mouth of the lion; at the horns of the wild oxen You have answered me!  | [[Intertextuality Pairs/NT to OT/55 - 2 Timothy/2 Timothy 4.17 to Psalm 22.21|IP]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 21|TOSK]] |
 
 ##### Psalm 22 . 22
-[[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 22|22]] I will proclaim Your name to my brothers; I will praise You in the assembly.  | [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 2.12 to Psalms 22.22|IP]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 22|TOSK]] |
+[[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 22|22]] I will proclaim Your name to my brothers; I will praise You in the assembly.  | [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 2.12 to Psalms 22.22|IP]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 22|TOSK]] | [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)|TT]] |
 ##### Psalm 22 . 23
 [[Reference Bible/19 - Psalms/Psalm 22#Psalm 22 - 23|23]] You who fear the LORD, praise Him! All descendants of Jacob, honor Him! All offspring of Israel, revere Him!  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK#Verse 23|TOSK]] |
 

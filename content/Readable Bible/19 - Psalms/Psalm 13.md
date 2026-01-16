@@ -12,7 +12,7 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 13 . 1
-[[Reference Bible/19 - Psalms/Psalm 13#Psalm 13 - 1|1]] For the choirmaster. A Psalm of David. How long, O LORD? Will You forget me forever? How long will You hide Your face from me?  | [[Chiasm/Chiasm - 19 - Psalm 13 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 13 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/19 - Psalms/Psalm 13#Psalm 13 - 1|1]] For the choirmaster. A Psalm of David. How long, O LORD? Will You forget me forever? How long will You hide Your face from me?  | [[Chiasm/Chiasm - 19 - Psalm 13 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 13 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)|TT]] |
 
 ##### Psalm 13 . 2
 [[Reference Bible/19 - Psalms/Psalm 13#Psalm 13 - 2|2]] How long must I wrestle in my soul, with sorrow in my heart each day? How long will my enemy dominate me?  | [[Chiasm/Chiasm - 19 - Psalm 13 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 13 - TOSK#Verse 2|TOSK]] |
