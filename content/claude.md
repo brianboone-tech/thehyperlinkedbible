@@ -261,6 +261,64 @@ Burnt Offering, Peace-Offering, Sin Offering, Day of Atonement, Leprosy, Holy Ga
 - 3 Intertextuality Pairs files
 - Updated 6 Readable Bible chapters with TT/IP links
 
+**CSS Change: Removed trajectory-table-wide class**
+- Removed `trajectory-table-wide` from all 180 TT files
+- Restored normal right sidebar with table of contents on TT pages
+
+### Session 14 (January 16, 2026) - Public Domain TT Discovery
+
+**Objective:** Find trajectory table gaps by analyzing classic public domain typology works.
+
+**Sources Analyzed:**
+
+| Source | Author | Date | Result |
+|--------|--------|------|--------|
+| Types of the OT (42 sermons) | Samuel Mather | 1681 | 100% covered |
+| Christ in All the Scriptures | A.M. Hodgkin | 1909 | ~85% covered |
+| Tropologia (Types & Metaphors) | Benjamin Keach | 1779 | 100% covered |
+
+**Key Finding:** Our 180 trajectory tables are **comprehensive**. Three classic typology works confirm complete coverage of major biblical types.
+
+**Samuel Mather Analysis:**
+- 42 sermons covering Personal, Occasional, Perpetual types
+- All Levitical types (offerings, feasts, priesthood, temple) = covered
+- No gaps found
+
+**A.M. Hodgkin Analysis:**
+- Book-by-book survey of Christ in Scripture
+- ~85% of types already in our TTs
+- Minor gap: Verify Melchizedek TT #102 completeness
+- Enhancement opportunities identified
+
+**Benjamin Keach Analysis:**
+- 25+ explicit types catalogued
+- 100% match with existing TTs
+- Comprehensive metaphor coverage (beyond types)
+
+**Files Created:**
+- `Books - Public/A.M. Hodgkin - Christ in All the Scriptures/- Index.md`
+- `Admin/TT Discovery/Andrew Bonar - Candidates.md` (updated)
+
+**Public Domain Sources Identified for Future Reference:**
+
+| Book | Author | Archive.org |
+|------|--------|-------------|
+| The Typology of Scripture (2 vols) | Patrick Fairbairn | [Link](https://archive.org/details/typologyofscript01fairiala) |
+| Tropologia | Benjamin Keach | [Link](https://archive.org/details/bim_eighteenth-century_tropologia-a-key-to-op_keach-benjamin_1779) |
+| Christ in All the Scriptures | A.M. Hodgkin | [Link](https://archive.org/details/christinallscrip00hodguoft) |
+| Commentary on the Whole Bible | Matthew Henry | [Link](https://archive.org/details/matthewhenryscom01matt) |
+| Treasury of David | C.H. Spurgeon | [Link](https://archive.org/details/treasurydavidco05spurgoog) |
+
+**Remaining Work:**
+- 5 MEDIUM candidates from Bonar still pending assessment
+- Melchizedek TT #102 verification
+
+**Cleanup:**
+- Deleted temp files: `hodgkin_raw.txt`, `keach_tropologia_raw.txt`
+- Deleted 37 `tmpclaude-*-cwd` temp files
+- Deleted utility scripts from Admin/
+- Deleted `.gitignore.txt`, `check-broken-links.ps1`, `fix-tosk-links.ps1`
+
 ---
 
 ## Trajectory Table Creation Workflow
@@ -276,7 +334,6 @@ When asked to create a new Trajectory Table, follow this complete workflow:
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 ```
 
@@ -388,9 +445,10 @@ Add new TT to Related Trajectory Tables section in relevant IP files.
 | Class | Applied To | Purpose |
 |-------|------------|---------|
 | `chiasm` | 1,721 chiasm files | Extra list spacing |
-| `trajectory-table` | 174 TT files | Enhanced table borders |
-| `trajectory-table-wide` | 174 TT files | Hides right sidebar |
+| `trajectory-table` | 180 TT files | Enhanced table borders |
 | `lexicon` | Readable Bible chapters | Lexicon styling |
+
+Note: `trajectory-table-wide` was removed in Session 13 to restore normal right sidebar.
 
 ### Key Files
 
