@@ -21,7 +21,11 @@
       "WebFetch(domain:books.google.com)",
       "WebFetch(domain:www.preceptaustin.org)",
       "Bash(curl:*)",
-      "Bash(ls -la \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\\\\Books - Public\"\" 2>&1 || echo \"Directory may not exist or is empty \")"
+      "Bash(ls -la \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\\\\Books - Public\"\" 2>&1 || echo \"Directory may not exist or is empty \")",
+      "Bash(ls:*)",
+      "Bash(powershell -Command \"\\(Get-ChildItem ''C:/Obsidian Vaults/thehyperlinkedbible/content/Trajectory Tables/*.md''\\).Count\")",
+      "Bash(python:*)",
+      "Bash(findstr:*)"
     ]
   }
 }
