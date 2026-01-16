@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SAMUEL (PROPHET-PRIEST-JUDGE) TRAJECTORY TABLE

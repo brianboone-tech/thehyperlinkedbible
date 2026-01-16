@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## EDEN AS TEMPLE (ORIGINAL SANCTUARY) TRAJECTORY TABLE

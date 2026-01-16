@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## JOSEPH (THE SUFFERING SAVIOR) TRAJECTORY TABLE

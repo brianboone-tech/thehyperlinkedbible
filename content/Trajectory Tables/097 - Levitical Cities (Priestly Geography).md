@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## LEVITICAL CITIES (PRIESTLY GEOGRAPHY) TRAJECTORY TABLE

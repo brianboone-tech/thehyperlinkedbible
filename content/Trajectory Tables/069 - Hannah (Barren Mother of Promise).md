@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## HANNAH (BARREN MOTHER OF PROMISE) TRAJECTORY TABLE

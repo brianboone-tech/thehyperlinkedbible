@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## KINGDOM OF PRIESTS AND HOLY NATION TRAJECTORY TABLE

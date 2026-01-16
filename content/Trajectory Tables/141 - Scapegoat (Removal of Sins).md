@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SCAPEGOAT (REMOVAL OF SINS) TRAJECTORY TABLE

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## NEW MOONS (RENEWAL AND REST) TRAJECTORY TABLE

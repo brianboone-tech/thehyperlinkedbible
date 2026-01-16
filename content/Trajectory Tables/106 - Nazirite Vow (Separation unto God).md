@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## NAZIRITE VOW (SEPARATION UNTO GOD) TRAJECTORY TABLE

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ADAM (THE FIRST AND LAST ADAM) TRAJECTORY TABLE

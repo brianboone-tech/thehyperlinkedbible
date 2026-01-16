@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## EPHOD (HIGH PRIEST'S GARMENT OF REPRESENTATION) TRAJECTORY TABLE

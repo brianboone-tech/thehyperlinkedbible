@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## DIVINE WARRIOR (GOD WHO FIGHTS) TRAJECTORY TABLE

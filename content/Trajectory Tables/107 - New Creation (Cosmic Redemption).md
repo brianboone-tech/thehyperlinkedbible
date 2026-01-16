@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## NEW CREATION (COSMIC REDEMPTION) TRAJECTORY TABLE

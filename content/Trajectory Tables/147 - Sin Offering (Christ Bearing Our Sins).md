@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SIN OFFERING (CHRIST BEARING OUR SINS) TRAJECTORY TABLE
@@ -93,3 +92,25 @@ The sin offering trajectory reveals precise lexical connections from Hebrew חַ
 - [[Lexicon/G201-300#G266|G266]] - ἁμαρτία (*hamartia*) - sin, sin offering
 - [[Lexicon/G2501-2600#G2512|G2512]] - καθαρισμός (*katharismos*) - cleansing, purification
 - [[Lexicon/G2101-2200#G2178|G2178]] - ἐφάπαξ (*ephapax*) - once for all
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### The Four Cases of Sin (Priest, Congregation, Ruler, Common Person)
+
+Bonar emphasizes the deliberate structure of Leviticus 4: "Four cases are here stated. (1.) The anointed Priest; (2.) The whole Congregation; (3.) The Ruler; (4.) The common people." Each case required different offerings and different blood applications, teaching that all ranks of society—religious leaders, the nation, civil rulers, and ordinary people—need atonement equally.
+
+### Blood Application: On the Veil and at the Base
+
+Bonar traces the blood's journey: "The blood is taken into the holy place and sprinkled seven times before the veil... then put on the horns of the golden altar... and the rest poured at the bottom of the brazen altar." This three-fold application represented Christ's atonement reaching God's presence (veil), being applied in intercession (incense altar), and accomplishing satisfaction of justice (brazen altar base).
+
+### The Body Burned Outside the Camp
+
+"All this is to be done 'without the camp'—a distance, it is calculated, of four miles from the holy place." Bonar develops this into a distinct typological theme (see [[Trajectory Tables/178 - Burning Outside the Camp (Separation and Judgment)|Burning Outside the Camp TT]]): the sin-bearer, though accepted by blood within, must be rejected without—exactly as Christ's blood entered heaven while His body suffered outside Jerusalem's gates.
+
+### Sins of Ignorance and God's Compassion
+
+Bonar draws attention to the provision for unknowing sin: "The sin through ignorance (שְׁגָגָה) is the same that David prays against in Psalm 19:12... Jehovah, God of Israel, institutes sacrifice for sins of ignorance, and thereby discovers the same compassionate and considerate heart that appears in our High Priest, 'who can have compassion on the ignorant!'" (See [[Trajectory Tables/179 - Sins of Ignorance (Christ's Compassion for the Unknowing)|Sins of Ignorance TT]]).

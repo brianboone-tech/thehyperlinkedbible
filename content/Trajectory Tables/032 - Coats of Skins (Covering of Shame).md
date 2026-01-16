@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## COATS OF SKINS (COVERING OF SHAME) TRAJECTORY TABLE

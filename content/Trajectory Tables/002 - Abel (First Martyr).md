@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ABEL (FIRST MARTYR) TRAJECTORY TABLE

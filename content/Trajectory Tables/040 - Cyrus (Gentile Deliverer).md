@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## CYRUS (GENTILE DELIVERER) TRAJECTORY TABLE

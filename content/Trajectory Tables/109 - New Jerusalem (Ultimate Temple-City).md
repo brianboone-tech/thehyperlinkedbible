@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## NEW JERUSALEM (ULTIMATE TEMPLE-CITY) TRAJECTORY TABLE

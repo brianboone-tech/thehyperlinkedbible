@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ZERUBBABEL (ROYAL SEED REBUILDING) TRAJECTORY TABLE

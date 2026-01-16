@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## HEZEKIAH (FAITHFUL REFORMER KING) TRAJECTORY TABLE

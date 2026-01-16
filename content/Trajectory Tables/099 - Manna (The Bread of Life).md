@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## MANNA (THE BREAD OF LIFE) TRAJECTORY TABLE

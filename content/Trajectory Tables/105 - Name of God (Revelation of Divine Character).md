@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## NAME OF GOD (REVELATION OF DIVINE CHARACTER) TRAJECTORY TABLE

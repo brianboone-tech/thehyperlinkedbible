@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## PURIFICATIONS (CLEANSING AND CONSECRATION) TRAJECTORY TABLE

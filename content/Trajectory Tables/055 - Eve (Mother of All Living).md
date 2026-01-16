@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## EVE (MOTHER OF ALL LIVING) TRAJECTORY TABLE

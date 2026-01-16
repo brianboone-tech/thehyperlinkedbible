@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ESAU (THE PROFANE PERSON) TRAJECTORY TABLE

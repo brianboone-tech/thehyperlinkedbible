@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## JACOB (TRANSFORMED SUPPLANTER) TRAJECTORY TABLE

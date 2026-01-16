@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ISAAC (CHILD OF PROMISE) TRAJECTORY TABLE

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## RAHAB AND JERICHO (FAITH SAVES GENTILES) TRAJECTORY TABLE

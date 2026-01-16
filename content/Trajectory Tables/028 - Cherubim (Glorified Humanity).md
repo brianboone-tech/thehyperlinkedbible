@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## CHERUBIM (GLORIFIED HUMANITY) TRAJECTORY TABLE

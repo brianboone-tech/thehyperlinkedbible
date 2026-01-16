@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## COVENANT MEALS (FELLOWSHIP WITH GOD) TRAJECTORY TABLE

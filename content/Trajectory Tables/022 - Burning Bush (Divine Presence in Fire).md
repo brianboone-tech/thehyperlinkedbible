@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BURNING BUSH (DIVINE PRESENCE IN FIRE) TRAJECTORY TABLE

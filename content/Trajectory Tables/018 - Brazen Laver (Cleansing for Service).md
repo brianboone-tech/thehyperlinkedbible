@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BRAZEN LAVER (CLEANSING FOR SERVICE) TRAJECTORY TABLE

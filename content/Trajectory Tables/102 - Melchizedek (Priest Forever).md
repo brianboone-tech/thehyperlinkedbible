@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## MELCHIZEDEK (PRIEST FOREVER) TRAJECTORY TABLE

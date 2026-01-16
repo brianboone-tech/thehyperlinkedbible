@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## FEAST OF TRUMPETS (THE FINAL CALL) TRAJECTORY TABLE

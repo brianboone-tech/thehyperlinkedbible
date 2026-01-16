@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## JACOB'S LADDER (HEAVEN-EARTH CONNECTION) TRAJECTORY TABLE

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## GENTILE INCLUSION (LIGHT TO THE NATIONS) TRAJECTORY TABLE

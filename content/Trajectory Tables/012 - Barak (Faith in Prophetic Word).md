@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BARAK (FAITH IN PROPHETIC WORD) TRAJECTORY TABLE

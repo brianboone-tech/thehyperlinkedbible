@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## THE SINGING SUFFERER (CHRIST THE CHOIR MASTER) TRAJECTORY TABLE

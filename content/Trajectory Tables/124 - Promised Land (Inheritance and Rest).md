@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## PROMISED LAND (INHERITANCE AND REST) TRAJECTORY TABLE

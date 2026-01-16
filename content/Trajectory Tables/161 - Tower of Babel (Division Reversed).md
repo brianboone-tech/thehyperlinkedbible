@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## TOWER OF BABEL (DIVISION REVERSED) TRAJECTORY TABLE

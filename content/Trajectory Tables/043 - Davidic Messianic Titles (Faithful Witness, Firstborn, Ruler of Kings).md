@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## DAVIDIC MESSIANIC TITLES (FAITHFUL WITNESS, FIRSTBORN, RULER OF KINGS) TRAJECTORY TABLE

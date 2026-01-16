@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## PRIESTLY TEACHING (TORAH INSTRUCTION) TRAJECTORY TABLE

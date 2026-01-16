@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## PASSOVER (CHRIST OUR PASSOVER) TRAJECTORY TABLE

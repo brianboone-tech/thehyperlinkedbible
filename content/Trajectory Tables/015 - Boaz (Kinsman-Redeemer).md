@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BOAZ (KINSMAN-REDEEMER) TRAJECTORY TABLE

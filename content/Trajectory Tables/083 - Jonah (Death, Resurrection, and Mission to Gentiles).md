@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## JONAH (DEATH, RESURRECTION, AND MISSION TO GENTILES) TRAJECTORY TABLE

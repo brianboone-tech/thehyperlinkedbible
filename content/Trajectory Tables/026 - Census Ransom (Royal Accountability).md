@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## CENSUS RANSOM (ROYAL ACCOUNTABILITY) TRAJECTORY TABLE

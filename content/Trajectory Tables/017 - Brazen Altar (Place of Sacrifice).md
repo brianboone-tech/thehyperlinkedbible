@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BRAZEN ALTAR (PLACE OF SACRIFICE) TRAJECTORY TABLE
@@ -106,3 +105,25 @@ The Brazen Altar trajectory reveals a tightly woven lexical network spanning OT 
 - [[Lexicon/G2301-2400#G2378|G2378]] - θυσία (*thysia*) "sacrifice"
 - [[Lexicon/G101-200#G129|G129]] - αἷμα (*haima*) "blood"
 - [[Lexicon/G4401-4500#G4442|G4442]] - πῦρ (*pyr*) "fire"
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### The Altar Horns and the Strong Appeal
+
+Bonar provides significant insight on the altar horns: "The horns of this altar... represented the power and strength that lay in this mode of approaching Jehovah. The horn is the recognized symbol of power." Blood placed on the horns "exhibited the strong appeal to God made by atonement. A strong appeal to God is made by the blood thus placed on the horns of the golden altar." The horns amplified blood's cry (see [[Trajectory Tables/180 - Voice of Blood (Blood That Speaks)|Voice of Blood TT]]).
+
+### Blood at the Base of the Altar
+
+"The rest of the blood was poured at the bottom of the brazen altar." Bonar explains this: "Here we see justice fully satisfied. The blood at the base represents the complete giving of life—nothing held back, poured out to the last drop." Christ's blood was completely poured out; His life entirely given.
+
+### The Perpetual Fire
+
+Bonar connects the perpetual altar fire to divine wrath: "The fire that was never to go out represented the unquenchable wrath of God against sin... This fire consumed every sacrifice placed upon it." The altar fire was from heaven (Lev 9:24)—divine judgment, not human kindling. Christ endured this consuming fire of divine wrath on the cross.
+
+### The Bronze Material
+
+The altar was overlaid with bronze (נְחֹשֶׁת, *nechoshet*), the metal symbolizing judgment: "Bronze speaks of that which can endure fire without melting... The altar could sustain the fiery judgment because it was made to bear it." Christ, like the altar, was able to bear the fire of divine wrath because He was designed for this purpose—the God-man ordained to be both sacrifice and altar.

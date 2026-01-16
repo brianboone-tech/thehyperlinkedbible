@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## GIDEON (WEAK MADE STRONG) TRAJECTORY TABLE

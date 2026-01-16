@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## MIRIAM (PROPHETESS AND WORSHIPER) TRAJECTORY TABLE

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## TRESPASS-OFFERING (RESTITUTION AND RESTORATION) TRAJECTORY TABLE
@@ -85,3 +84,25 @@ The trespass-offering trajectory exhibits remarkable lexical continuity from Heb
 - [[Lexicon/G3801-3900#G3900|G3900]] - παράπτωμα (*paraptōma*) - trespass, transgression
 - [[Lexicon/G301-400#G399|G399]] - ἀναφέρω (*anapherō*) - to bear up, offer sacrifice
 - [[Lexicon/G5401-5500#G5498|G5498]] - χειρόγραφον (*cheirographon*) - handwritten debt certificate
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### Restitution Plus the Fifth Part
+
+Bonar emphasizes the restitution requirement: "The offender must restore what was taken, and add thereto the fifth part." This 20% addition taught that sin never merely returns what it stole—it must pay more. Christ's trespass-offering provides infinitely more than restitution; He gives superabundant grace where sin abounded (Romans 5:20).
+
+### Sins Against Holy Things
+
+The trespass-offering addressed specific categories: "Sins in the holy things of the LORD" (Lev 5:15)—trespassing against God's sacred property, withholding tithes, misusing holy things. Bonar notes: "We constantly sin against the Lord in holy things... even our prayers, our praises, our most solemn services are stained with sin." Christ alone offered perfect worship—His trespass-offering covers our defiled service.
+
+### The Ram of Atonement
+
+"A ram without blemish... with thy estimation" (Lev 5:15)—the trespass-offering was always a ram, a more valuable animal. Bonar explains: "The ram was required because trespass-offerings typically addressed sins where debt was calculable... The ram's value indicated substantial payment." Christ's value infinitely exceeds any ram—His estimation covers all debts.
+
+### Sins Against Neighbor
+
+Leviticus 6:1-7 extends the trespass-offering to sins against neighbors (lying, stealing, fraud). Bonar notes the order: first restore to the neighbor, then bring the offering to God. "He who has sinned against his brother must first be reconciled, then come with his gift" (cf. Matthew 5:23-24). Christ enables both vertical reconciliation (with God) and horizontal reconciliation (with others).

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## WISDOM INSTRUCTION (TORAH PEDAGOGY) TRAJECTORY TABLE

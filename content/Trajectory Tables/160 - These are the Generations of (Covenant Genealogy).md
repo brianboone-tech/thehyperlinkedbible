@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## THESE ARE THE GENERATIONS OF (COVENANT GENEALOGY) TRAJECTORY TABLE

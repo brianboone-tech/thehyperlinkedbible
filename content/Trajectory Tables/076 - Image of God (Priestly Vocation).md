@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## IMAGE OF GOD (PRIESTLY VOCATION) TRAJECTORY TABLE

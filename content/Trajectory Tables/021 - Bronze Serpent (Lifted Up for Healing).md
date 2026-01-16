@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BRONZE SERPENT (LIFTED UP FOR HEALING) TRAJECTORY TABLE

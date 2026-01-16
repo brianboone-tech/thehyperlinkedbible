@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## FIRE FROM HEAVEN (DIVINE ACCEPTANCE AND JUDGMENT) TRAJECTORY TABLE

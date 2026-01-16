@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## NIMROD (THE FIRST EMPIRE BUILDER) TRAJECTORY TABLE

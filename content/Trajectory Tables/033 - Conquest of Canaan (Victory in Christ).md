@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## CONQUEST OF CANAAN TRAJECTORY TABLE

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ANOINTING OIL (HOLY SPIRIT) TRAJECTORY TABLE

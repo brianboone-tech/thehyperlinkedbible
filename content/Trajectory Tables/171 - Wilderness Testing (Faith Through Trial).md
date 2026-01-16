@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## WILDERNESS TESTING (FAITH THROUGH TRIAL) TRAJECTORY TABLE

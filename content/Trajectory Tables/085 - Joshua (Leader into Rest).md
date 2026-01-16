@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## JOSHUA (LEADER INTO REST) TRAJECTORY TABLE

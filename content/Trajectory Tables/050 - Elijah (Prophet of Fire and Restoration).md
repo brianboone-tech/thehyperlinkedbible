@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ELIJAH (PROPHET OF FIRE AND RESTORATION) TRAJECTORY TABLE

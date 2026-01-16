@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## PEACE-OFFERING (FELLOWSHIP WITH GOD) TRAJECTORY TABLE
@@ -80,3 +79,25 @@ The peace-offering trajectory demonstrates remarkable lexical continuity from He
 - [[Lexicon/G101-200#G129|G129]] - αἷμα (*haima*) blood
 - [[Lexicon/G2601-2700#G2643|G2643]] - καταλλαγή (*katallagē*) reconciliation
 - [[Lexicon/G2801-2900#G2842|G2842]] - κοινωνία (*koinōnia*) communion, fellowship
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### The Fat as Deepest Affections
+
+Bonar provides profound insight on why the fat was entirely the Lord's: "Observe that all these portions of the animal are the richest; and also deeply seated, near the heart... We approach a reconciled God, to hold fellowship with him... What, then, can we bring but the most inward feelings, all of the richest kind, and all from the depth of the soul?" The fat represents not surface devotion but the deepest affections given wholly to God. Christ offered the "fat" of His soul—every inward motion of love toward the Father.
+
+### "Food of God" Concept
+
+The peace-offering is called "the food of the offering made by fire unto the LORD" (Lev 3:11). Bonar explains: "God is said to be satisfied with it, as a man is satisfied when he eats meat." This is not anthropomorphism but typology—God was truly satisfied (propitiated) by Christ's sacrifice. The peace-offering was God's feast as well as man's.
+
+### Wave and Heave Offerings
+
+Bonar explains the ritual movements (Lev 7:30-34): "As Moses spread his hands over them, and next waved them from north to south, east to west, he signified their acknowledgment that they were the Lord's in every feeling of their souls." The wave offering (horizontal) declared universal lordship; the heave offering (vertical, lifting up) signified ascent to God. Both movements expressed total surrender of the sacrifice to divine ownership.
+
+### The Voice of Peace
+
+"The voice of peace now breathes over the sacrifice"—Bonar sees the peace-offering as communicating reconciliation. Where the sin-offering spoke of propitiation and the burnt-offering of consecration, the peace-offering declared "fellowship restored." God, priest, and people all eating from the same sacrifice depicted the harmony sin had disrupted and Christ would restore.

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## JEPHTHAH (REJECTED THEN EXALTED) TRAJECTORY TABLE

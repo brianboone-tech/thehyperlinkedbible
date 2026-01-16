@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ENOCH (TRANSLATION WITHOUT DEATH) TRAJECTORY TABLE

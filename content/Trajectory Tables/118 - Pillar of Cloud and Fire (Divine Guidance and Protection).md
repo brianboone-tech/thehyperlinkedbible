@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## PILLAR OF CLOUD AND FIRE (DIVINE GUIDANCE AND PROTECTION) TRAJECTORY TABLE

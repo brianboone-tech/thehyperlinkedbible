@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## LAMECH'S SONG (VENGEANCE VS FORGIVENESS) TRAJECTORY TABLE

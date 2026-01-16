@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SCARLET WOOL AND CEDAR (PURIFICATION BUNDLE) TRAJECTORY TABLE

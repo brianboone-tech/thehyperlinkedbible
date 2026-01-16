@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## STONE AND CORNERSTONE (REJECTED FOUNDATION) TRAJECTORY TABLE

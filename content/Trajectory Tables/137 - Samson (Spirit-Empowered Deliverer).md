@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SAMSON (SPIRIT-EMPOWERED DELIVERER) TRAJECTORY TABLE

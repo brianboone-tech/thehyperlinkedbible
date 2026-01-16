@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SEED PROMISE (REDEMPTION THROUGH OFFSPRING) TRAJECTORY TABLE

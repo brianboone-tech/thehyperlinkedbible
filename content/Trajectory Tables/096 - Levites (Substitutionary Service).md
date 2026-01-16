@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## LEVITES (SUBSTITUTIONARY SERVICE) TRAJECTORY TABLE

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## LEPROSY (THE PLAGUE OF SIN) TRAJECTORY TABLE
@@ -84,3 +83,25 @@ The leprosy trajectory reveals profound lexical continuity across Hebrew and Gre
 - [[Lexicon/G2501-2600#G2511|G2511]] - καθαρίζω (*katharízō*) "to cleanse"
 - [[Lexicon/G2501-2600#G2513|G2513]] - καθαρός (*katharós*) "clean, pure"
 - [[Lexicon/G3601-3700#G3670|G3670]] - ὁμολογέω (*homologéō*) "to confess"
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### The Two Birds: Death and Resurrection
+
+Bonar provides detailed exposition of the two-bird ritual (Leviticus 14:4-7): "Two birds were taken... One was killed over running water in an earthen vessel; the other was dipped in the blood and released alive." The slain bird represented Christ's death; the living bird, dipped in the blood of the slain and released, represented Christ's resurrection—now free, covered with blood of atonement, ascending to heaven. The cleansed leper was sprinkled seven times with this blood—complete cleansing through death and resurrection.
+
+### Leprosy as Visible Sin
+
+"Leprosy was sin bringing the man into a state of loathsomeness... a visible exhibition of the inward corruption of the heart." Bonar contrasts leprosy (manifest sins) with running issues (Leviticus 15): "What is here set before us, is sin in a somewhat different aspect from the leprosy. Leprosy was sin bringing the man into a state of loathsomeness... But here we have sin flowing out as a stream from the corrupt nature"—secret sins from the heart's depths.
+
+### The Priest's Diagnosis: Deeper Than the Skin
+
+Bonar emphasizes the priest's diagnostic role: "Is it deeper than the skin? If so, it is leprosy." The disease could not be diagnosed by surface appearance alone. Similarly, sin cannot be judged merely by outward behavior—the priest (Christ) examines the heart. If corruption goes "deeper than the skin," true leprosy is present.
+
+### The Eight-Day Cleansing Process
+
+The elaborate eight-day cleansing ceremony (Leviticus 14) taught that restoration from sin is not instantaneous in its outworking: "The leper was not immediately readmitted to all privileges. He must wait... and observe every precept." Though Christ's atonement is once-for-all, the believer's progressive sanctification unfolds over time—cleansed definitively, yet being cleansed continually.

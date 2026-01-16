@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## VEIL (ACCESS THROUGH CHRIST'S FLESH) TRAJECTORY TABLE

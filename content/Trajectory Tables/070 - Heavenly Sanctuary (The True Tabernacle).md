@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## HEAVENLY SANCTUARY (THE TRUE TABERNACLE) TRAJECTORY TABLE

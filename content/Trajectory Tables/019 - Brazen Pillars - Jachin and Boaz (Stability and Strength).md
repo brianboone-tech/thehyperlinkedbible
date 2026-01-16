@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BRAZEN PILLARS - JACHIN AND BOAZ (STABILITY AND STRENGTH) TRAJECTORY TABLE

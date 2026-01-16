@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## DIVINE IDENTITY (DEITY OF CHRIST) TRAJECTORY TABLE

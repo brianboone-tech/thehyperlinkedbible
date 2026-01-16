@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## HOLY PLACES (ACCESS TO GOD'S PRESENCE) TRAJECTORY TABLE

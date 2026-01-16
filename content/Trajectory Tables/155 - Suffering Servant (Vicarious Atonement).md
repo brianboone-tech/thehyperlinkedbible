@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SUFFERING SERVANT (VICARIOUS ATONEMENT) TRAJECTORY TABLE

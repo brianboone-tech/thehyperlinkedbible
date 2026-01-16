@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## TWO COVENANTS (LAW AND PROMISE) TRAJECTORY TABLE

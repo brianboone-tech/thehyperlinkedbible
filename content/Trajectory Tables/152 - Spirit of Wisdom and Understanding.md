@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SPIRIT OF WISDOM AND UNDERSTANDING TRAJECTORY TABLE

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SACRIFICIAL SYSTEM (CHRIST OUR SACRIFICE) TRAJECTORY TABLE

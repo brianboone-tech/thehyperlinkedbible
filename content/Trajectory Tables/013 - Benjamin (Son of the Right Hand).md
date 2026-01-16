@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BENJAMIN (SON OF THE RIGHT HAND) TRAJECTORY TABLE

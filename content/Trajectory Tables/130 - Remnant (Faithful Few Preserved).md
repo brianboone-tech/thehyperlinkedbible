@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## REMNANT (FAITHFUL FEW PRESERVED) TRAJECTORY TABLE

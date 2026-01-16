@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BETHEL (HOUSE OF GOD) TRAJECTORY TABLE

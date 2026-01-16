@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## CIRCUMCISION (CIRCUMCISION OF THE HEART) TRAJECTORY TABLE

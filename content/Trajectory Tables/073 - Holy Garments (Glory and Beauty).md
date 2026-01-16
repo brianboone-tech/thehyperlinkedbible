@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## HOLY GARMENTS (GLORY AND BEAUTY) TRAJECTORY TABLE
@@ -84,3 +83,25 @@ The Holy Garments trajectory traces a remarkable lexical network from Exodus 28'
 **Lexical Trajectory Summary:**
 
 The lexical network demonstrates typological escalation from shadow to substance: Aaron's external garments (בֶּגֶד *beged*) pointed to Christ's intrinsic righteousness (צְדָקָה *tzedaqah*); the golden plate's inscription קֹדֶשׁ לַיהוָה ("Holy to the LORD") found fulfillment in Christ described as ὅσιος, ἄκακος, ἀμίαντος—holiness not worn but embodied. The dual theme of כָּבוֹד (*kavod*, "glory") and תִּפְאָרָה (*tif'arah*, "beauty") progresses from ornamental splendor to ontological glory (δόξα *doxa*). Isaiah 61:10 bridges OT and NT by combining garment vocabulary (בִּגְדֵי, מְעִיל) with salvation terminology (יְשׁוּעָה, צְדָקָה), preparing for Revelation's white robes (στολὰς λευκάς) that unite believers to Christ's priestly perfection.
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### The Robe of the Ephod (Bells and Pomegranates)
+
+Bonar provides detailed exposition of the blue robe worn beneath the ephod: "A robe, called 'the robe of ephod' (מָעִיל). It was worn below the ephod; it reached down to the feet, and at the feet was set with a row of bells and pomegranates alternately." The bells announced the priest's approach ("giving notice of his approach"), while the pomegranates spoke to the eye ("telling that he comes laden with Canaan-fruit for those that hunger and thirst for righteousness"). Bonar connects this to Revelation 1:13, where Christ appears in "the 'ποδήρης' (robe reaching to the feet), in which our Lord appears, thereby proclaiming himself to be the true Aaron."
+
+### The Golden Plate: Holiness Without Terror
+
+"There was, therefore, a mitre on his brow, and... On this diadem, or plate of gold, was written, 'Holiness to the Lord;' and hence its name, 'the holy crown.'" Bonar emphasizes that this holiness brought comfort, not fear: "The typical meaning seems to be this; our High Priest atones and intercedes and reconciles, yet does all to the glory of Jehovah's holiness... There is not one frown, not one look of terror in the high priest, though there is purest holiness."
+
+### The Blue Color: Heavenly Tinge
+
+"Being 'all of blue,' it had a heavenly tinge." The pervasive blue color throughout the priestly garments reminded Israel that their high priest represented heaven on earth—a role Christ fulfills perfectly as the One who descended from heaven and ascended again.
+
+### Bearing Names in Strength and Love
+
+Bonar explains the dual location of Israel's names: "Aaron shall bear their names before the LORD on his two shoulders for remembrance" (strength) and "on his heart... to bring them to regular remembrance before the LORD" (love). Christ bears His people in omnipotent strength and infinite love simultaneously—never forgetting, never failing those whose names He carries.

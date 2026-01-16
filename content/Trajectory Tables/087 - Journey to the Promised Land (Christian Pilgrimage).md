@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## JOURNEY TO PROMISED LAND TRAJECTORY TABLE

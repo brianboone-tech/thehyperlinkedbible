@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## FALSE PROPHETS (WAY OF CAIN) TRAJECTORY TABLE

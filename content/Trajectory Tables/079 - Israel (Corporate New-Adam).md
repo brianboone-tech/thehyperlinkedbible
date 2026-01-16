@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ISRAEL (CORPORATE NEW-ADAM) TRAJECTORY TABLE

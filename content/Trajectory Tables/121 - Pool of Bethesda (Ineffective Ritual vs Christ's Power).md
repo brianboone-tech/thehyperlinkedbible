@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## POOL OF BETHESDA (INEFFECTIVE RITUAL VS CHRIST'S POWER) TRAJECTORY TABLE

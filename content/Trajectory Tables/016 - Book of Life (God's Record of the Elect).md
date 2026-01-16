@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BOOK OF LIFE (GOD'S RECORD OF THE ELECT) TRAJECTORY TABLE

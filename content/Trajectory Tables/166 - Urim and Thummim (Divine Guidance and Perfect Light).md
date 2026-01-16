@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## URIM AND THUMMIM (DIVINE GUIDANCE AND PERFECT LIGHT) TRAJECTORY TABLE

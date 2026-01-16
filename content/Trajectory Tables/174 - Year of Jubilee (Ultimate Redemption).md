@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## YEAR OF JUBILEE (ULTIMATE REDEMPTION) TRAJECTORY TABLE
@@ -131,3 +130,25 @@ The Year of Jubilee trajectory exhibits profound lexical continuity from Hebrew 
 - [[Lexicon/G3085|G3085]] - lutrosis (redemption, deliverance)
 - [[Lexicon/G629|G629]] - apolutrosis (redemption, ransom in full)
 - [[Lexicon/G5483|G5483]] - charizomai (to forgive graciously)
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### The Jubilee and the Day of Atonement
+
+Bonar emphasizes the critical connection between Jubilee and Yom Kippur: "The Jubilee begins on the Day of Atonement. It is proclaimed by the trumpet-blast on that day when the blood has been sprinkled on the mercy-seat." This timing teaches that all liberty flows from atonement—freedom cannot be proclaimed until the blood is applied. Christ's atonement on the cross is the true Day of Atonement, and the gospel of liberty flows from that accomplished sacrifice.
+
+### The Kinsman-Redeemer Pattern
+
+"The near kinsman had the right and responsibility to redeem—to buy back lost property, to ransom enslaved relatives." Bonar traces this pattern: "Christ became our kinsman by incarnation... that He might have the right to redeem what we had forfeited." The Jubilee's automatic restoration of property is God doing what the kinsman-redeemer would do—but on a cosmic scale, restoring all things through Christ.
+
+### The Trumpet Blast
+
+"The trumpet was sounded throughout all the land... This was the gospel going forth to the ends of the earth." Bonar connects the Jubilee trumpet to gospel proclamation: "The sound of the trumpet proclaimed liberty to the captives—and so does the preaching of the gospel." Christ's announcement in Nazareth (Luke 4:18-19) was the true Jubilee trumpet being blown.
+
+### Land Rest and Trust
+
+Bonar notes that both the Sabbatical Year and Jubilee required trust: "For two consecutive years, the people were not to sow or reap... They were cast upon God's providence entirely." This teaches radical dependence on God—the same trust required to receive the gospel's promise of complete redemption through Christ alone.

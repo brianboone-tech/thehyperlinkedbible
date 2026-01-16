@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ALTAR OF INCENSE (CHRIST'S INTERCESSION) TRAJECTORY TABLE

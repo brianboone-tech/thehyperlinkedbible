@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## TREE OF LIFE (ETERNAL LIFE IN CHRIST) TRAJECTORY TABLE

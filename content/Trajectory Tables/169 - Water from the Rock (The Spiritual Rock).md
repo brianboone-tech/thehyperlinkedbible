@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## WATER FROM THE ROCK (THE SPIRITUAL ROCK) TRAJECTORY TABLE

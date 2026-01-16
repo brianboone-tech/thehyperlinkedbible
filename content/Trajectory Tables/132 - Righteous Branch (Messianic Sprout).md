@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## RIGHTEOUS BRANCH (MESSIANIC SPROUT) TRAJECTORY TABLE

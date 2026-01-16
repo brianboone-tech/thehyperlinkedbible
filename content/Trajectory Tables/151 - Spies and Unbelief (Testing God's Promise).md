@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SPIES AND UNBELIEF (TESTING GOD'S PROMISE) TRAJECTORY TABLE

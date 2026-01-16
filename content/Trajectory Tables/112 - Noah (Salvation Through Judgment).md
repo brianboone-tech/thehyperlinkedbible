@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## NOAH (SALVATION THROUGH JUDGMENT) TRAJECTORY TABLE

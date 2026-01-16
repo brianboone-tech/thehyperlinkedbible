@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## TEMPLE ECCLESIOLOGY (CHURCH AS GOD'S DWELLING) TRAJECTORY TABLE

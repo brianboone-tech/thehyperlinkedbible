@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BURNT OFFERING (CHRIST'S TOTAL CONSECRATION) TRAJECTORY TABLE
@@ -101,3 +100,25 @@ The burnt offering trajectory demonstrates precise lexical continuity from Hebre
 - [[Lexicon/G4301-4400#G4376|G4376]] - προσφορά (offering)
 - [[Lexicon/G3701-3800#G3744|G3744]] - ὀσμή (fragrance, odor)
 - [[Lexicon/G2101-2200#G2175|G2175]] - εὐωδία (sweet savor, fragrance)
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### The Gradation of Animals
+
+Bonar emphasizes the typological significance of the gradation of offerings (bullock → lamb → dove): "One of the ends answered by permitting a gradation in the value of the things sacrificed, was this; it turned attention to the antitype, instead of the type itself—to the Lamb of God, instead of the value of the mere animal." The poor man's dove was as fully accepted as the rich man's bullock, teaching that faith, not wealth, is what God requires.
+
+### Full Devotion Symbolism
+
+The burning of the entire animal (except the skin) teaches complete consecration: "The altar was to have every part of the animal... nothing was to be retained. It was a 'whole burnt-offering'—and this was Christ's case. There was no part of Christ's humanity, whether soul or body, that did not suffer." Christ's head (crowned with thorns), hands and feet (pierced), side (opened), and soul (heavy unto death) were all offered.
+
+### The Altar Fire and Divine Wrath
+
+Bonar connects the consuming fire to divine wrath: "The fire that consumed all was kindled from heaven... intimating that Christ's agony proceeded directly from the Father." The perpetual fire (never to go out, Lev 6:12-13) represented unceasing wrath against sin—until Christ absorbed it completely.
+
+### Voluntary Approach
+
+"The man brings his offering 'to the door'—he voluntarily approaches. No compulsion drove him; no force was used. And this was Christ's case: 'Lo, I come to do thy will, O God.'" Christ's willingness to die is typified in the voluntary bringing of the sacrifice.

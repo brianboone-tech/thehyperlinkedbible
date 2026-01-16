@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## FEAST OF TABERNACLES (DWELLING WITH GOD) TRAJECTORY TABLE

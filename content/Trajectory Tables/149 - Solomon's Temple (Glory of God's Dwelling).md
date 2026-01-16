@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SOLOMON'S TEMPLE (GLORY OF GOD'S DWELLING) TRAJECTORY TABLE

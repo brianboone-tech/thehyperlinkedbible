@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## HAGAR AND ISHMAEL (CHILDREN OF THE FLESH) TRAJECTORY TABLE

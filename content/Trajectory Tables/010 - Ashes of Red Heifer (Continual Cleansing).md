@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ASHES OF RED HEIFER (CONTINUAL CLEANSING) TRAJECTORY TABLE

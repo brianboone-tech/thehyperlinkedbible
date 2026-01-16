@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SON OF MAN (DANIELIC FIGURE AND DIVINE JUDGE) TRAJECTORY TABLE

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ELISHA (DOUBLE PORTION OF SPIRIT) TRAJECTORY TABLE

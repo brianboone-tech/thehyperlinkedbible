@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## CEREMONIAL UNCLEANNESS (SPIRITUAL DEFILEMENT) TRAJECTORY TABLE
@@ -115,3 +114,25 @@ The LXX translates *tame* as **ἀκάθαρτος** (*akathartos*, [[Lexicon/G1
 - [[Lexicon/G2501-2600#G2513|G2513]] - καθαρός (*katharos*) "clean, pure, clear"
 - [[Lexicon/G4401-4500#G4472|G4472]] - ῥαντίζω (*rhantizo*) "to sprinkle"
 - [[Lexicon/G4801-4900#G4893|G4893]] - συνείδησις (*syneidesis*) "conscience, moral consciousness"
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### Clean and Unclean Animals as Memorial of the Fall
+
+Bonar explains the dietary laws' typological significance: "The distinction of clean and unclean beasts was a standing memorial of the Fall... Every time an Israelite looked at his food, he was reminded that the world was under curse." The separation taught daily awareness of sin's pervasive effects on all creation.
+
+### Uncleanness from Childbirth (Leviticus 12)
+
+Bonar addresses the purification after childbirth with profound insight: "The mother's uncleanness taught that sin is transmitted from parent to child... The very act by which the race is continued reminds us of original sin." This was not denigrating childbirth but acknowledging that every human born needs cleansing—except One, born of a virgin, who needed no purification.
+
+### The Running Issue (Secret Flow of Sin)
+
+Bonar distinguishes the "running issue" (Leviticus 15) from leprosy: "What is here set before us, is sin in a somewhat different aspect from the leprosy. Leprosy was sin bringing the man into a state of loathsomeness... But here we have sin flowing out as a stream from the corrupt nature"—the secret sins that flow continually from the heart's corruption (cf. Mark 7:20-23).
+
+### The "Until Evening" Pattern
+
+Many uncleannesses lasted "until evening"—a new day began at sunset. Bonar observes: "The evening speaks of the close of this present dispensation... When Christ returns, the evening comes that brings perfect cleansing. Until then, we are being cleansed daily." The daily cleansing pointed to the consummation when all defilement is permanently removed.

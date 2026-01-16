@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## LEGAL PRIESTHOOD (MEDIATORS AND MINISTERS) TRAJECTORY TABLE

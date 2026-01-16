@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SHEPHERD (DIVINE SHEPHERD CHRISTOLOGY) TRAJECTORY TABLE

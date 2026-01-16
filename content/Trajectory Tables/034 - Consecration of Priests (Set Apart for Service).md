@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## CONSECRATION OF PRIESTS (SET APART FOR SERVICE) TRAJECTORY TABLE
@@ -78,3 +77,25 @@ The consecration trajectory is anchored by a triad of Hebrew terms that trace th
 - [[Lexicon/G1-100#G37|G37]] - ἁγιάζω (hagiazo) - to sanctify, consecrate, make holy
 - [[Lexicon/G5501-5600#G5548|G5548]] - χρίω (chrio) - to anoint, consecrate to office
 - [[Lexicon/G5501-5600#G5547|G5547]] - Χριστός (Christos) - Christ, the Anointed One, Messiah
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### The Seven Days of Consecration
+
+Bonar emphasizes the duration of consecration: "Seven days were appointed for the consecration... teaching that the work of setting apart to God must be complete and thorough." The seven days represented complete consecration. Christ's consecration was likewise complete—"for their sakes I sanctify myself, that they also may be sanctified" (John 17:19).
+
+### Filling the Hands (מִלּוּאִים, *millu'im*)
+
+The Hebrew term for consecration literally means "filling the hands": "The priests had their hands filled with the portions of the sacrifice... signifying that they were now equipped and empowered for service." Bonar notes the Greek term τελείωσις (*teleiōsis*) used in Hebrews for Christ being "made perfect"—completing His priestly equipment through suffering (Heb 5:9).
+
+### Blood on Ear, Thumb, and Toe
+
+"Blood was applied to the right ear, the right thumb, and the right great toe... The ear to hear God's word, the hand to do God's work, the foot to walk in God's ways." Bonar sees this as consecrating the whole person for service: "Every part of the priest was claimed for God—hearing, doing, and walking." Christ's obedience was complete in hearing (He always did what pleased the Father), doing (the works God gave Him), and walking (He set His face toward Jerusalem).
+
+### The Anointing Oil
+
+"The anointing oil poured on Aaron's head ran down to the hem of his garment (Psalm 133:2)... This represents the Spirit given without measure to Christ, and through Him flowing to all His people." The unique composition of the anointing oil—never to be replicated—signified the unique anointing of Christ as the ultimate priest.

@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## COVENANT SUCCESSION (INHERITANCE AND ELECTION) TRAJECTORY TABLE

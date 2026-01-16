@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## REBEKAH (BRIDE SOUGHT FOR THE SON) TRAJECTORY TABLE

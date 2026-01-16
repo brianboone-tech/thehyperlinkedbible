@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## AARON (THE GREAT HIGH PRIEST) TRAJECTORY TABLE

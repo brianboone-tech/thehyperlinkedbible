@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## SOLOMON (THE KING OF PEACE AND WISDOM) TRAJECTORY TABLE

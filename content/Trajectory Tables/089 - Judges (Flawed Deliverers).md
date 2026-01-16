@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## JUDGES (FLAWED DELIVERERS) TRAJECTORY TABLE

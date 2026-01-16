@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## CAIN (SEED OF SERPENT) TRAJECTORY TABLE

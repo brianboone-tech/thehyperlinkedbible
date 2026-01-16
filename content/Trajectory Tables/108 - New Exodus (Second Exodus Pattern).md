@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## NEW EXODUS (SECOND EXODUS PATTERN) TRAJECTORY TABLE

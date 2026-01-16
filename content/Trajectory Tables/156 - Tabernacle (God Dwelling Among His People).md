@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## TABERNACLE (GOD DWELLING AMONG HIS PEOPLE) TRAJECTORY TABLE

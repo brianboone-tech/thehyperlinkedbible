@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## CHURCH AS ISRAEL (NEW COVENANT PEOPLE) TRAJECTORY TABLE

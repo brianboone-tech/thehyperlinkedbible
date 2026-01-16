@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## TABLE OF SHOWBREAD (CHRIST THE BREAD OF LIFE) TRAJECTORY TABLE

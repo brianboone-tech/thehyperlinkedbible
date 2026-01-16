@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## RED HEIFER (PURIFICATION FROM DEATH) TRAJECTORY TABLE

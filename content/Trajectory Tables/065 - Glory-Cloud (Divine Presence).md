@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## GLORY-CLOUD (DIVINE PRESENCE) TRAJECTORY TABLE

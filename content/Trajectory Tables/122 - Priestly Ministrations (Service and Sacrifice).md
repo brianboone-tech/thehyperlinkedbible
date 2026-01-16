@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## PRIESTLY MINISTRATIONS (SERVICE AND SACRIFICE) TRAJECTORY TABLE

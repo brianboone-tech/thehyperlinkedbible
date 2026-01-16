@@ -51,7 +51,7 @@ index.md (Welcome)
 │   ├── Home/07 - Why Cross-References Matter.md
 │   └── Home/08 - Scripture Index.md ← THE HUB
 ├── Readable Bible/ [1,255 chapter files]
-├── Trajectory Tables/ [174 typological studies]
+├── Trajectory Tables/ [180 typological studies]
 ├── Chiasm/ [1,732 structural analyses]
 ├── Intertextuality Pairs/ [2,587 cross-references]
 ├── Reference Bible/, Lexicon/, TOSK/, LXX Reference/
@@ -66,7 +66,7 @@ index.md (Welcome)
 | Bible Chapters | 1,189 |
 | Chiasms | 1,732 |
 | Intertextuality Pairs | 2,587 |
-| Trajectory Tables | 174 |
+| Trajectory Tables | 180 |
 | TOSK Cross-References | 500,000+ |
 
 ---
@@ -237,6 +237,147 @@ Modified `custom.scss` to extend center column for `trajectory-table-wide` pages
 **Files Created:**
 - `Admin/fix_section_order.py` - Batch fix script for section order
 - `Admin/fix_section_order_log.txt` - Detailed fix log
+
+### Session 13 (January 16, 2026) - Andrew Bonar Analysis + New TTs
+
+**TT Discovery: Andrew Bonar's Commentary on Leviticus (1846)**
+
+Analyzed Bonar's Leviticus commentary for new trajectory table candidates:
+- **11 candidates identified** (3 HIGH, 5 MEDIUM, 3 LOW)
+- Lower yield than expected because Phase 1 had already captured most Levitical types
+- Primary value: **enhancement material** for existing tables
+
+**New Trajectory Tables Created (3):**
+- **178 - Burning Outside the Camp (Separation and Judgment)**
+- **179 - Sins of Ignorance (Christ's Compassion for the Unknowing)**
+- **180 - Voice of Blood (Blood That Speaks)**
+
+**Existing Tables Enhanced with Bonar Insights (11):**
+Burnt Offering, Peace-Offering, Sin Offering, Day of Atonement, Leprosy, Holy Garments, Year of Jubilee, Brazen Altar, Consecration of Priests, Trespass-Offering, Ceremonial Uncleanness
+
+**Files Created:**
+- 3 new trajectory table files
+- 12 Foundation Text files (4 per new TT)
+- 3 Intertextuality Pairs files
+- Updated 6 Readable Bible chapters with TT/IP links
+
+---
+
+## Trajectory Table Creation Workflow
+
+When asked to create a new Trajectory Table, follow this complete workflow:
+
+### Step 1: Create the Trajectory Table File
+
+**Location:** `Trajectory Tables/### - Name (Subtitle).md`
+
+**Required Format:**
+```yaml
+---
+cssclasses:
+  - trajectory-table
+  - trajectory-table-wide
+---
+```
+
+**Table Structure (4 columns):**
+```markdown
+| Stage | Key Text(s) | Theological Development | Text Analysis |
+|-------|-------------|------------------------|---------------|
+| **#1 - OT Institution - Name** | [[Readable Bible/Book/Chapter#Verse|Ref]] | Content... | [[Foundation Text Link|Ref]] |
+```
+
+**Required Sections (in order):**
+1. Frontmatter (cssclasses)
+2. Title + intro paragraph + Type Classification
+3. TABLE (4 columns: Stage, Key Text(s), Theological Development, Text Analysis)
+4. Canonical Intertextuality Pairs section
+5. Four-Step Application
+6. Lexicon Findings
+
+### Step 2: Create Foundation Text Files
+
+**Location:** `Trajectory Tables - Foundation Texts/[TT Name]/##Book - Reference.md`
+
+**Naming Convention:** `03 - Leviticus 4.11-12.md` (book number - reference)
+
+**Required Format:**
+```markdown
+### [[Readable Bible/Book/Chapter#Verse|Reference]]
+
+**Hebrew/Greek Key Terms**:
+- [[Lexicon/H####|H####]] term (*transliteration*) - definition
+
+**Context**: Brief context of the passage
+
+**OT-to-OT Development** (or **NT-to-OT Development**):
+- [[Readable Bible link]] - description
+
+**Connections**:
+- **TO**: [[target link]] - description
+- **FROM OT/NT**: [[source link]] - description
+
+**Type Classification**: Classification type
+
+**Christological Connection**: Theological significance
+
+**Trajectory Table**: [[Trajectory Tables/### - Name]]
+```
+
+### Step 3: Create Intertextuality Pairs Files
+
+**Location:**
+- NT to OT: `Intertextuality Pairs/NT to OT/## - Book/NT Ref to OT Ref.md`
+- OT to OT: `Intertextuality Pairs/OT to OT/## - Book/Later Ref to Earlier Ref.md`
+
+**Required Format:**
+```markdown
+# NT Reference to OT Reference
+
+**NT Text**: [[Readable Bible link]]
+
+**OT Source(s)**:
+- [[Readable Bible link]] (description)
+
+**Type**: Allusion / Quotation / Echo / Explicit Contrast
+
+**Significance**: Detailed explanation of the connection
+
+---
+
+## Related Trajectory Tables
+  ▸ [[Trajectory Tables/### - Name|Display Name]]
+```
+
+### Step 4: Update TT with Foundation Text Links
+
+In the TT table, add links in the **Text Analysis** column:
+```markdown
+| [[Trajectory Tables - Foundation Texts/TT Name/## - Reference|Short Ref]] |
+```
+
+### Step 5: Add TT/IP Links to Readable Bible
+
+Add links at the end of relevant verse lines:
+```markdown
+| [[Trajectory Tables/### - Name|TT]] |
+| [[Intertextuality Pairs/Path/File|IP]] |
+```
+
+### Step 6: Update Existing IP Files
+
+Add new TT to Related Trajectory Tables section in relevant IP files.
+
+### Checklist for New TT Creation
+
+- [ ] TT file with correct frontmatter and 4-column table
+- [ ] Foundation Text folder created
+- [ ] Foundation Text files for key passages (minimum 3-4)
+- [ ] IP files for critical NT-to-OT connections
+- [ ] TT links added to Text Analysis column
+- [ ] IP links in TT Theological Development column
+- [ ] Readable Bible chapters updated with TT/IP links
+- [ ] Existing IP files updated with Related TT links
 
 ---
 

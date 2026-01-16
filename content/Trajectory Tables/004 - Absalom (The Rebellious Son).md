@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## ABSALOM (THE REBELLIOUS SON) TRAJECTORY TABLE

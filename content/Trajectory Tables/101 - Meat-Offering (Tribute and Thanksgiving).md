@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## MEAT-OFFERING (TRIBUTE AND THANKSGIVING) TRAJECTORY TABLE

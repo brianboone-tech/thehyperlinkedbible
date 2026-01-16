@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## DAY OF ATONEMENT (CHRIST'S ATONING SACRIFICE) TRAJECTORY TABLE
@@ -110,3 +109,25 @@ The Day of Atonement trajectory reveals a precise lexical network connecting Heb
 - [[Lexicon/G2401-2500#G2434|G2434]] - ἱλασμός (*hilasmos*) - propitiation
 - [[Lexicon/G2401-2500#G2435|G2435]] - ἱλαστήριον (*hilasterion*) - mercy seat, propitiation
 - [[Lexicon/G101-200#G129|G129]] - αἷμα (*haima*) - blood
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### The Two Goats as One Sacrifice
+
+Bonar emphasizes the unity of the two goats: "The two goats were in reality one sacrifice... They represent, not two Christs, but one Christ in two aspects: (1) dying for sin, (2) bearing away sin." The slain goat represented propitiation (God's wrath satisfied); the living goat represented removal (sin carried to the wilderness, never to return). Christ accomplished both in one act.
+
+### The Scapegoat and Azazel
+
+On the mysterious "Azazel" (עֲזָאזֵל), Bonar notes: "The name may signify 'the goat of removal' or 'entire removal'... The wilderness was the place of desolation and demons. The sins of Israel were sent back, as it were, to their author—the devil." Christ bearing our sins "outside the camp" fulfilled this—carrying sin to where it could never return.
+
+### Public and Private Confession
+
+Bonar distinguishes between the private confession for the priest's own sin and the public confession over the scapegoat for the nation: "The high priest confesses first his own sins and his household's over the bullock; then all the sins of Israel over the goat." Christ, being sinless, made no confession for Himself but bore the sins of the whole world.
+
+### The White Garments
+
+"The high priest laid aside his golden garments of 'glory and beauty' and put on the simple white linen... signifying Christ's humiliation when He laid aside His divine glory and took the form of a servant." The white linen represented purity without ornament—Christ in His humiliation, not displaying divine majesty but bearing sin in lowliness.

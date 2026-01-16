@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## BREASTPLATE OF JUDGMENT (BEARING THE NAMES ON THE HEART) TRAJECTORY TABLE

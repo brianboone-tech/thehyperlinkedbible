@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## LIVING WATER (SPIRIT AND LIFE) TRAJECTORY TABLE

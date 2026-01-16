@@ -1,7 +1,6 @@
 ---
 cssclasses:
   - trajectory-table
-  - trajectory-table-wide
 ---
 
 ## WISDOM AND FOOLISHNESS OF THE CROSS TRAJECTORY TABLE
