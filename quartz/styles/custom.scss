@@ -199,9 +199,9 @@ a.internal {
 // Hide right sidebar and expand center content for wide tables
 // Applied via cssclasses: trajectory-table-wide (now on body element)
 body.trajectory-table-wide {
-  // Expand page container so center can use the space freed by hiding right sidebar
+  // Expand page container to use nearly full viewport width
   .page {
-    max-width: calc(1500px + 320px);  // Original 1500px + former right sidebar width
+    max-width: 98vw;
   }
 
   // On desktop: change grid to 2 columns (hide right sidebar)
