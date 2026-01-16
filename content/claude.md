@@ -319,6 +319,38 @@ Burnt Offering, Peace-Offering, Sin Offering, Day of Atonement, Leprosy, Holy Ga
 - Deleted utility scripts from Admin/
 - Deleted `.gitignore.txt`, `check-broken-links.ps1`, `fix-tosk-links.ps1`
 
+**Spurgeon's Treasury of David Analysis:**
+
+Downloaded and analyzed Volume 2 (Psalms 27-52) for trajectory patterns:
+
+| Source | Focus | Result |
+|--------|-------|--------|
+| Treasury of David Vol 2 | Psalm expositions | 1 HIGH priority gap found |
+
+**Gap Identified:** "Lament to Praise" pattern - The arc from complaint to thanksgiving in Psalms, fulfilled in Christ (Ps 22:1 → Ps 22:22 → Heb 2:12).
+
+**New Trajectory Table Created: #181 - Lament to Praise (From Complaint to Thanksgiving)**
+
+Complete trajectory tracing the lament-to-praise pattern:
+- 8 stages: Ps 13 → Ps 22:1-21 → Ps 22:22-31 → Ps 30 → Ps 30:5/126:5 → Matt 27:46 → Heb 2:12 → Rev 7:14-17
+- Full lexicon analysis (קִינָה/θρῆνος, הָפַךְ, הָלַל/ὑμνέω)
+- 7 Foundation Text files created
+- Four-Step Application included
+
+**Files Created:**
+- `Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving).md`
+- `Trajectory Tables - Foundation Texts/Lament to Praise (From Complaint to Thanksgiving)/` (7 files)
+
+**Files Updated:**
+- `Intertextuality Pairs/NT to OT/40 - Matthew/Matthew 27.46 to Psalms 22.1.md` - Added Related TT section
+- `Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 2.12 to Psalms 22.22.md` - Added Related TT section
+- `Readable Bible/19 - Psalms/Psalm 13.md` - Added TT link to v.5
+- `Readable Bible/19 - Psalms/Psalm 22.md` - Added TT² link to v.22
+- `Readable Bible/19 - Psalms/Psalm 30.md` - Added TT link to v.11
+
+**Final Cleanup:**
+- Deleted `spurgeon_treasury_v2_raw.txt`
+
 ---
 
 ## Trajectory Table Creation Workflow
