@@ -25,7 +25,9 @@
       "Bash(ls:*)",
       "Bash(powershell -Command \"\\(Get-ChildItem ''C:/Obsidian Vaults/thehyperlinkedbible/content/Trajectory Tables/*.md''\\).Count\")",
       "Bash(python:*)",
-      "Bash(findstr:*)"
+      "Bash(findstr:*)",
+      "Bash(dir /s /b \"C:\\\\Obsidian Vaults\\\\*tmpclaude*\")",
+      "Bash(dir /s /b \"C:\\\\Users\\\\Boone\\\\*tmpclaude*\")"
     ]
   }
 }
