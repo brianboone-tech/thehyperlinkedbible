@@ -6,2242 +6,581 @@
 
 ---
 
-BOOK III 
+BOOK III
 
+CHAP. 1
 
 
-CHAP. 1 
+### Section 1: - Of the tidings of Christ
 
+In this period, as in the former, we shall first lay down the object; and, secondly, direct you how to look unto it.
 
+The object is Jesus, carrying on the work of man's salvation, in his first coming in the flesh, until his coming again.
 
-Sect. I. -- Of the tidings of Christ 
+But because in this long period we have many transactions, which we cannot with conveniency dispatch together; we shall therefore break it into smaller pieces, and present this object, Jesus Christ — 1. In his birth; 2. In his life; 3. In his death; 4. In his resurrection; 5. In his ascension, cession at God's right hand, and mission of his Holy Spirit; 6. In his intercession for his saints; in which business he will be employed till his second coming to judgment.
 
-In this period, as in the former, we shall first lay down the object; and, secondly, 
-direct you how to look unto it. 
+1. First, For the transactions of Jesus in his birth. Some things we must propound before, and some things after his birth; so that we shall continue this period till the time of John's baptism, or the exercise of his ministry upon earth.
 
-The object is Jesus, carrying on the work of man's salvation, in his first coming in 
-the flesh, until his coming again. But because in this long period we have many 
-transactions, which we cannot with conveniency dispatch together; we shall 
-therefore break it into smaller pieces, and present this object, Jesus Christ — 1. In 
-his birth; 2. In his life; 3. In his death; 4. In his resurrection; 5. In his ascension, 
-cession at God's right hand, and mission of his Holy Spirit; 6. In his intercession 
-for his saints; in which business he will be employed till his second coming to 
-judgment. 
+Now in all the transactions of this time, we shall especially handle these: 1. The tidings of Christ;
 
+2. The conception of Christ; 3. The duplicity of natures in Christ; 4. The wonderful union, notwithstanding that distinction; 5. The birth of Christ; 6. Some consequents after his birth, whilst yet a child of twelve years old.
 
+The first passage in relation to his birth, is, the tidings of Christ: this appears, Luke i. 26-28, &c. "And in the sixth month the angel Gabriel was sent from God," &c. I shall a little insist on some of these words.
 
-1. First, For the transactions of Jesus in his birth. Some things we must propound 
-before, and some things after his birth; so that we shall continue this period till the 
-time of John's baptism, or the exercise of his ministry upon earth. Now in all the 
-transactions of this time, we shall especially handle these: 1. The tidings of Christ; 
+1. The messenger is an angel. Man was too mean to carry the news of the conception of God. Never any business was conceived in heaven, that did so much concern the earth, as the conception of the God of heaven in a womb of earth; no less, therefore, than an angel was worthy to bear these tidings; and never angel received a greater honour, than of this embassage.
 
-2. The conception of Christ; 3. The duplicity of natures in Christ; 4. The wonderful 
-union, notwithstanding that distinction; 5. The birth of Christ; 6. Some consequents 
-after his birth, whilst yet a child of twelve years old. 
+2. This angel salutes the Virgin; "Hail, thou that art highly favoured, the Lord is with thee; blessed art thou among women." Many men and women have been, and are, the spiritual temples of God; but never was any the material temple of God, but only Mary; and therefore, blessed art thou amongst women: and yet we cannot say that she was so blessed in bearing Christ, as she was in believing in Christ; her bearing was more miraculous, but her believing was more beneficial to her soul.
 
-The first passage in relation to his birth, is, the tidings of Christ: this appears, Luke 
-i. 26-28, &c. "And in the sixth month the angel Gabriel was sent from God," &c. I 
-shall a little insist on some of these words. 
+3. This virgin is troubled at this salute. She might well be troubled; for 1. If it had been but a man that had come in so suddenly, when she expected none; or so secretly, when she had no other company; or so strongly, the doors being probably shut; she had cause to be troubled: how much more, when the glory of the angel heightened the astonishment? 2. Her sex was more subject to fear: if Zachary was amazed with the sight of this angel, how much more the Virgin ! But the angel comforts her; "Fear not, Mary, for thou hast found favour with God."
 
+4. Here is the foundation of her comfort, and our happiness; "Behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name Jesus." Never was mortal creature thus honoured, that her womb should yield that flesh, which was personally united to the godhead; that she should bear him that upholds the world. There is one wonder in the conception, another in the fruit; both are marvelous, but the latter is more mysterious, and fuller of admiration: the fruit of the womb is Jesus, a Saviour, the Son of the Highest, a King; God shall give him a throne, and he shall reign for ever; for "of his kingdom there shall be no end." Here was a Son, and such a Son as the world never had before; and here was the ground of Mary's joy: how could she but rejoice, to hear what her Son should be before he was? Surely, never was any mother so glad of her son born, as this virgin was of her son before he was conceived.
 
+The ground of this joy lay more especially in that name of Jesus. Here, Christians, is the object that you are to look unto. The first title that the angel gives our Saviour, is, Jesus Saviour. Oh come! let us dwell a little here. Without Jesus we had never known God our friend! and without Jesus, God had never known us for any other than his enemies. This name Jesus is better to us than all the titles of God. Indeed, there is goodness and greatness in the name Jehovah; but we merited so little good, and demerited so much evil, that in it alone there had been small comfort for us; but in the name of Jesus there is comfort, and with the name of Jesus there is comfort in the name of God. In old times, God was known by his names of power, and of majesty; but his name of mercy was reserved till now, when God did purpose to pour out the whole treasure of his mercy, by the mediation of his Son.
 
-1. The messenger is an angel. Man was too mean to carry the news of the 
-conception of God. Never any business was conceived in heaven, that did so much 
-concern the earth, as the conception of the God of heaven in a womb of earth; no 
-less, therefore, than an angel was worthy to bear these tidings; and never angel 
-received a greater honour, than of this embassage. 
+And as this name is exalted above all names; so are we to exalt his mercy above all his works. Oh, it is a useful name ! In all depths, distresses, miseries, perplexities, we beseech God by the name of Jesus, to make good his own name, — not to bear it for nought; but as he is a Saviour, to save us: and this is our comfort, that God will never so remember our sins, as to forget his own blessed name; and especially this name Jesus. It is the highest, the dearest, the sweetest name to us of all the names of God.
 
+The reason of this name was given by the angel to Joseph: "Thou shall call his name Jesus, for he shall save his people from their sins."
 
+But why from their sins? We seem rather willing to be saved from poverty, ignominy, prison, death, hell. Sin is a thing that troubles but few: alas! sin, if we understand it, is the very worst of evils; there is no poverty but sin, there is no shame but sin; there is no prison, but that prison is a paradise without sin; there is no death that has any sting in it, but for sin; "the sting of death is sin"; take out the sting, and you may put the serpent in your bosom; nay, I'll say more, there would be no hell, were it not for sin: sin first kindled the fire of hell, sin fuels it; take away sin, and that tormenting flame goes out. Had it not been for sin, the devil had no business in the world; were it not for sin, he could never hurt a soul.
 
-2. This angel salutes the Virgin; "Hail, thou that art highly favoured, the Lord is 
-with thee; blessed art thou among women." Many men and women have been, and 
+What abundance of benefits are here in one word, "He shall save his people from their sins" ! There is no evil incident to man, but it ceaseth to be evil when sin is gone. If Jesus takes away sin, he doth bless our very blessings, and sanctify our afflictions: he fetcheth peace out of trouble, riches out of poverty, honour out of contempt, liberty out of bondage: he pulls out the sting of death, puts out the fire of hell: as all evils are wrapt up in sin; so he that saves us from sin, saves us from all evils whatsoever.
 
+This is that Jesus, the Son of God's love, the author of our salvation, in whom alone God is well pleased; and whom the angel published before he was conceived:
 
+> "Thou shall conceive, and bring forth a Son, and shall call his name Jesus."
 
-are, the spiritual temples of God; but never was any the material temple of God, 
-but only Mary; and therefore, blessed art thou amongst women: and yet we cannot 
-say that she was so blessed in bearing Christ, as she was in believing in Christ; her 
-bearing was more miraculous, but her believing was more beneficial to her soul. 
 
+### Section 2: Of the Conception of Christ
 
+The conception of Christ, was the conclusion of the angel's message. No sooner had the Virgin said, "Be it to me according to thy word"; but according to that word it was: immediately the Holy Ghost overshadowed her, and forms our Saviour in her womb. Now! brethren, now was the time of life. Well may we say, Now was it that the day broke up, that the sun arose, that darkness vanished, that wrath gave place to favour and salvation: now was it, that free grace came down from heaven, thousands of angels waiting on her; the very clouds part, as it were, to give her way; the earth springs to welcome her; the floods clap their hands for joy; the heavenly hosts sing as she goes along, "Glory to God in the highest, peace upon earth, good will towards man": truth and righteousness go before her, peace and prosperity follow after her, pity and mercy wait on either hand; and when she first sets her foot on the earth, she cries, "A Jesus! a Saviour! — Hear, ye sons of men! — The Lord hath sent me down to bring you news of Jesus! — Grace and peace be unto you: I will live with you in this world, and you shall live with me in the world to come." Here was blessed news: this is gospel, pure gospel; this is glad tidings: free grace proclaims Jesus; and Jesus is made up as it were all of free grace. What eternal thanks do we owe to the eternal God ! How may we say with the angels, Glory to God for Jesus Christ!
 
-3. This virgin is troubled at this salute. She might well be troubled; for 1. If it had 
-been but a man that had come in so suddenly, when she expected none; or so 
-secretly, when she had no other company; or so strongly, the doors being probably 
-shut; she had cause to be troubled: how much more, when the glory of the angel 
-heightened the astonishment? 2. Her sex was more subject to fear: if Zachary was 
-amazed with the sight of this angel, how much more the Virgin ! But the angel 
-comforts her; "Fear not, Mary, for thou hast found favour with God." 
+But in this conception of Christ are so many wonders, that ere we begin to speak them, we may stand amazed: "Without controversy, great is the mystery of godliness: God manifest in the flesh." Say, is it not a wonder, a mystery, a great mystery, that the Son of God should be made of a woman, even made of that woman which was made by himself? Is it not a wonder, that her womb then, and that the heavens now, should contain him, "whom the heaven of heavens cannot contain!" — Concerning this conception of Christ, I shall speak but a little: what man can conceive much of this? Our greatest light we borrow from the angel, who describes it thus: "The Holy Ghost shall come upon thee, and the power of the highest shall overshadow thee."
 
+Out of these words, observe, 1. The agent; 2. The effect.
 
+1. The agent or efficient cause of Christ's conception, is the Holy Ghost. This agrees with that speech of the angel to Joseph: "That which is conceived in her, is of the Holy Ghost." This conception of Christ was by the operation, or virtue of the Holy Ghost; or by the energetical command and ordination of the Holy Ghost, whereby that part of the Virgin's blood, or seed whereof the body of Christ was to be framed, was so cleansed and sanctified, that in it there should be neither spot nor stain of original pollution.
 
-4. Here is the foundation of her comfort, and our happiness; "Behold, thou shalt 
-conceive in thy womb, and bring forth a son, and shalt call his name Jesus." Never 
-was mortal creature thus honoured, that her womb should yield that flesh, which 
-was personally united to the godhead; that she should bear him that upholds the 
-world. There is one wonder in the conception, another in the fruit; both are 
-marvelous, but the latter is more mysterious, and fuller of admiration: the fruit of 
-the womb is Jesus, a Saviour, the Son of the Highest, a King; God shall give him a 
+2. The effect was the framing of Christ's manhood, in which we may observe the matter and manner.
 
+1.
 
+For the matter: observe we the matter of the body, and of the soul, of Christ. (1 .) The matter of the body of Christ was the very flesh and blood of the Virgin: "he was made of a woman," saith the apostle, i.e. of the flesh and blood, and substance of the woman; and, "he was made of the seed of David," saith the apostle, "according to flesh"; otherwise he could not have been the Son of David according to the flesh. (2.) The soul of Christ was not derived from the soul of the Virgin, but it was made as the souls of other men be, i.e. of nothing, by the power of God; and so infused into the body by the hand of God.
 
-throne, and he shall reign for ever; for "of his kingdom there shall be no end." Here 
-was a Son, and such a Son as the world never had before; and here was the ground 
-of Mary's joy: how could she but rejoice, to hear what her Son should be before he 
-was? Surely, never was any mother so glad of her son born, as this virgin was of 
-her son before he was conceived. 
+2.
 
+For the manner of forming Christ's human nature, it was miraculous. The angel ascribes two actions to the Holy Ghost in this great work: the one, to come upon the Virgin; the other, to overshadow her: by the first is signified the extraordinary work of the Holy Ghost in fashioning the human nature of Christ.
 
+The second action ascribed to the Holy Ghost, is, overshadowing of the Virgin: this teacheth us that we should not search overmuch into this great mystery. Alas ! it is too high for us; if the course of ordinary generation be a secret, how past all comprehension is this extraordinary operation ! " I know the Word was made flesh," saith Chrysostom; "but how he was made, I know not."
 
-The ground of this joy lay more especially in that name of Jesus. Here, Christians, 
-is the object that you are to look unto. The first title that the angel gives our 
-Saviour, is, Jesus Saviour. Oh come! let us dwell a little here. Without Jesus we 
-had never known God our friend! and without Jesus, God had never known us for 
-any other than his enemies. This name Jesus is better to us than all the titles of 
-God. Indeed, there is goodness and greatness in the name Jehovah; but we merited 
-so little good, and demerited so much evil, that in it alone there had been small 
-comfort for us; but in the name of Jesus there is comfort, and with the name of 
-Jesus there is comfort in the name of God. In old times, God was known by his 
-names of power, and of majesty; but his name of mercy was reserved till now, 
-when God did purpose to pour out the whole treasure of his mercy, by the 
-mediation of his Son. And as this name is exalted above all names; so are we to 
-exalt his mercy above all his works. Oh, it is a useful name ! In all depths, 
-distresses, miseries, perplexities, we beseech God by the name of Jesus, to make 
 
+### Section 3: Of the Duplicity of Natures in Christ
 
+The duplicity of natures in Christ appears, in that he was truly God and truly man. "To us a child is born," saith the prophet; there is a nature human: "and he shall he called the mighty God"; there is a nature divine. "God sent his Son," saith the apostle, therefore truly God; and that Son "made of a woman," therefore truly man.
 
-good his own name, — not to bear it for nought; but as he is a Saviour, to save us: 
-and this is our comfort, that God will never so remember our sins, as to forget his 
-own blessed name; and especially this name Jesus. It is the highest, the dearest, the 
-sweetest name to us of all the names of God. 
+That Christ is true God, both apparent scriptures, and unanswerable reasons drawn from scriptures, evince.
 
+1 . The scriptures call him God. "In the beginning was the word, and the word was with God, and the word was God." - "And unto the Son he saith, Thy throne, O God, is for ever." - "And Thomas answered and said unto him, My Lord, and my God!" - "Take heed to yourselves, and to all the flock, to feed the church of God, which he hath purchased with his own blood," - "And hereby perceive we the love of God, because he laid down his life for us." - "And we know that the Son of God is come. This is the true God, and eternal life." - "And without controversy, great is the mystery of godliness, God was manifested in the flesh."
 
+2. Unanswerable reasons drawn from scriptures, prove him God: thus it appears —
 
-The reason of this name was given by the angel to Joseph: "Thou shall call his 
-name Jesus, for he shall save his people from their sins." But why from their sins? 
-We seem rather willing to be saved from poverty, ignominy, prison, death, hell. 
-Sin is a thing that troubles but few: alas! sin, if we understand it, is the very worst 
-of evils; there is no poverty but sin, there is no shame but sin; there is no prison, 
-but that prison is a paradise without sin; there is no death that has any sting in it, 
-but for sin; "the sting of death is sin"; take out the sting, and you may put the 
-serpent in your bosom; nay, I'll say more, there would be no hell, were it not for 
-sin: sin first kindled the fire of hell, sin fuels it; take away sin, and that tormenting 
-flame goes out. Had it not been for sin, the devil had no business in the world; 
-were it not for sin, he could never hurt a soul. 
+(1.) From those incommunicable properties of the Deity which are ascribed unto him: He is eternal as God, Rev. i.
 
+17. He is infinite as God, Matt, xxviii.
 
+20. He is omniscient as God, Matt. ix.
 
-What abundance of benefits are here in one word, "He shall save his people from 
-their sins" ! There is no evil incident to man, but it ceaseth to be evil when sin is 
-gone. If Jesus takes away sin, he doth bless our very blessings, and sanctify our 
+4. He is omnipotent as God; "He that cometh from above is above all" - "He is able to subdue all things unto himself '—"He hath the keys of hell and death."
 
+(2.) From those acts ascribed to him, which are only agreeable to the divine nature; as, to hear the prayers of the people, John xiv.
 
+14. To judge the quick and the dead, John v.
 
-afflictions: he fetcheth peace out of trouble, riches out of poverty, honour out of 
-contempt, liberty out of bondage: he pulls out the sting of death, puts out the fire of 
-hell: as all evils are wrapt up in sin; so he that saves us from sin, saves us from all 
-evils whatsoever. 
+22.
 
+And thus he creates as God, John i.
 
+4. He commands as God, Matt. viii.
 
-This is that Jesus, the Son of God's love, the author of our salvation, in whom 
-alone God is well pleased; and whom the angel published before he was conceived: 
-"Thou shall conceive, and bring forth a Son, and shall call his name Jesus." 
+26. He forgives as God, Matt. ix.
 
-Sect. II. — Of the Conception of Christ 
+6. He sanctifies as God, John i.
 
-The conception of Christ, was the conclusion of the angel's message. No sooner 
-had the Virgin said, "Be it to me according to thy word"; but according to that 
-word it was: immediately the Holy Ghost overshadowed her, and forms our 
-Saviour in her womb. Now! brethren, now was the time of life. Well may we say, 
-Now was it that the day broke up, that the sun arose, that darkness vanished, that 
-wrath gave place to favour and salvation: now was it, that free grace came down 
-from heaven, thousands of angels waiting on her; the very clouds part, as it were, 
-to give her way; the earth springs to welcome her; the floods clap their hands for 
-joy; the heavenly hosts sing as she goes along, "Glory to God in the highest, peace 
+12. He glorifies as God, Johnx. 21.
 
+(3.) From all those acknowledgments given to him by the saints, which are only proper unto God; and thus he is believed on as God, John iii.
 
+18. He is loved as God, 1 Cor. xvi.
 
-upon earth, good will towards man": truth and righteousness go before her, peace 
-and prosperity follow after her, pity and mercy wait on either hand; and when she 
-first sets her foot on the earth, she cries, "A Jesus! a Saviour! — Hear, ye sons of 
-men! — The Lord hath sent me down to bring you news of Jesus! — Grace and 
-peace be unto you: I will live with you in this world, and you shall live with me in 
-the world to come." Here was blessed news: this is gospel, pure gospel; this is glad 
-tidings: free grace proclaims Jesus; and Jesus is made up as it were all of free 
-grace. What eternal thanks do we owe to the eternal God ! How may we say with 
-the angels, Glory to God for Jesus Christ! 
+22. He is obeyed as God, Matt. xvii.
 
-But in this conception of Christ are so many wonders, that ere we begin to speak 
-them, we may stand amazed: "Without controversy, great is the mystery of 
-godliness: God manifest in the flesh." Say, is it not a wonder, a mystery, a great 
-mystery, that the Son of God should be made of a woman, even made of that 
-woman which was made by himself? Is it not a wonder, that her womb then, and 
-that the heavens now, should contain him, "whom the heaven of heavens cannot 
-contain!" — Concerning this conception of Christ, I shall speak but a little: what 
-man can conceive much of this? Our greatest light we borrow from the angel, who 
-describes it thus: "The Holy Ghost shall come upon thee, and the power of the 
-highest shall overshadow thee." 
+5. He is prayed to as God, Acts vii.
 
+59. He is praised as God, Rev. v.
 
+13. He is adored as God, Heb. i.
 
-Out of these words, observe, 1. The agent; 2. The effect. 
+6. Phil, ii.
 
+10. Surely all these are strong demonstrations, that Christ Jesus is God.
 
+But why was it requisite that our Saviour should be God? I answer,
 
-1. The agent or efficient cause of Christ's conception, is the Holy Ghost. This 
-agrees with that speech of the angel to Joseph: "That which is conceived in her, is 
-of the Holy Ghost." This conception of Christ was by the operation, or virtue of the 
-Holy Ghost; or by the energetical command and ordination of the Holy Ghost, 
-whereby that part of the Virgin's blood, or seed whereof the body of Christ was to 
-be framed, was so cleansed and sanctified, that in it there should be neither spot 
-nor stain of original pollution. 
+1. Because none can save souls, nor satisfy for sin, but God alone. "There is none," saith the Psalmist, "that can by any means redeem his brother, or give a ransom for him," - "But God will redeem my soul from the power of hell." 2. Because the satisfaction which is made for sin, must be infinitely meritorious: and infinite wrath cannot be appeased, but by an infinite merit; and hence our Saviour must needs be God, to the end that his obedience and sufferings might be of infinite worth.
 
-2. The effect was the framing of Christ's manhood, in which we may observe the 
-matter and manner. 1. For the matter: observe we the matter of the body, and of the 
-soul, of Christ. (1 .) The matter of the body of Christ was the very flesh and blood 
-of the Virgin: "he was made of a woman," saith the apostle, i.e. of the flesh and 
-blood, and substance of the woman; and, "he was made of the seed of David," saith 
-the apostle, "according to flesh"; otherwise he could not have been the Son of 
-David according to the flesh. (2.) The soul of Christ was not derived from the soul 
-of the Virgin, but it was made as the souls of other men be, i.e. of nothing, by the 
-power of God; and so infused into the body by the hand of God. 
+3. Because the burden of God's wrath cannot be endured by a finite creature: Christ therefore must be God, that he might abide the burden by his divine power.
 
+4. Because the enemies of our salvation were too strong for us: how could any creature overcome Satan, death, hell, damnation? Ah! this required the power of God; there's none but God that could destroy him that had the power of death, that is, the devil.
 
+2. As Christ is God, so he is true man. He was born as man, and bred as man, and fed as man, and slept as man, and wept as man, and sorrowed as man, and suffered as man, and died as man.
 
-2. For the manner of forming Christ's human nature, it was miraculous. The angel 
-ascribes two actions to the Holy Ghost in this great work: the one, to come upon 
-the Virgin; the other, to overshadow her: by the first is signified the extraordinary 
-work of the Holy Ghost in fashioning the human nature of Christ. 
+But more particularly, (1.) Christ had a human body: "Wherefore when he came into the world he said, Sacrifice and offering thou wouldst not, but a body hast thou prepared."
 
+(2.) Christ had an human reasonable soul: "My soul is heavy unto death," saith Christ; and again, "Father, into thy hands I commit my spirit." "Surely," saith Nazianzen, "either he had a soul, or he will never save a soul."
 
+(3.) Christ had all the properties that belong either to the soul or body of a man: nay, more than so, Christ had all the infirmities of our nature, sin only excepted: I
 
-The second action ascribed to the Holy Ghost, is, overshadowing of the Virgin: this 
-teacheth us that we should not search overmuch into this great mystery. Alas ! it is 
-too high for us; if the course of ordinary generation be a secret, how past all 
-comprehension is this extraordinary operation ! " I know the Word was made 
-flesh," saith Chrysostom; "but how he was made, I know not." 
+say the infirmities of our nature, as cold, and heat, and hunger, and thirst, and weariness, and weakness, and pain.
 
+But why was it requisite that our Saviour should be man? I answer, 1. Because our Saviour must suffer and die for our sins, which the godhead could not do.
 
+2. Because our Saviour must perform obedience to the law.
 
-Sect. III. — Of the Duplicity of Natures in Christ 
+3. Because our Saviour must satisfy the justice of God in the same nature wherein it was offended. 4.
 
+> "Because by this means we might have free access to the throne of grace, and might find help in our necessities, having such an High-priest as was in all things tempted like unto us," Heb. iv.
 
+15.
 
-The duplicity of natures in Christ appears, in that he was truly God and truly man. 
-"To us a child is born," saith the prophet; there is a nature human: "and he shall he 
-called the mighty God"; there is a nature divine. "God sent his Son," saith the 
-apostle, therefore truly God; and that Son "made of a woman," therefore truly man. 
+A real distinction of these two natures is evident: 1. In regard of essence; the godhead cannot be the manhood, nor can the manhood be the godhead.
 
+2. In regard of properties, the godhead is most wise, just, omnipotent, yea, wisdom, justice, omnipotence itself; and so is not the manhood, neither can it be.
 
+3. They have distinct wills: "Not my will but thy will be done, O Father," plainly differencing the will of a creature from the will of a Creator.
 
-That Christ is true God, both apparent scriptures, and unanswerable reasons drawn 
-from scriptures, evince. 
+4. The very actions in the work of redemption are inseparable, and yet distinguishable: "I lay down my life, and take it up again." To lay it down was the action of man, not of God; and to take it up, was the action of God, not of man: in these respects we say each nature remains in itself entire, without any conversion, commixtion, or confusion: there is no conversion of one into the other, as when he changed the water into wine; no composition of both, no abolition of either, no confusion at all. — It is easy to observe this real distinction of his two natures from first to last: as, 1. He was conceived as others, and so he was man; but he was conceived by the Holy Ghost, as never man was, and so he is God.
 
+2. He was born as others, and so he was man; but he was born of a virgin, as never man was, and this speaks him as God.
 
+3. He was crucified, died, and was buried, and so he was man; but he rose again from the dead, ascended into heaven, and from thence shall come at last to judge the quick and the dead, and so he is God.
 
-1 . The scriptures call him God. "In the beginning was the word, and the word was 
-with God, and the word was God." - "And unto the Son he saith, Thy throne, O 
-God, is for ever." - "And Thomas answered and said unto him, My Lord, and my 
-God!" - "Take heed to yourselves, and to all the flock, to feed the church of God, 
-which he hath purchased with his own blood," - "And hereby perceive we the love 
-of God, because he laid down his life for us." - "And we know that the Son of God 
-is come. This is the true God, and eternal life." - "And without controversy, great 
-is the mystery of godliness, God was manifested in the flesh." 
 
+### Section 4: - Of the Union of the two Natures of Christ in one and the same Person
 
+The union of two natures of Christ, in one and the self-same person, is that great wonder, which now we must speak of as we are able. But, alas ! how should we speak of this union, and not be confounded in ourselves? It is a great mystery, a secret, a wonder. Many wonders have been since the beginning of the world; but all the wonders that ever were must give place to this. Neither the creation of all things out of nothing, nor the restoration of all things into their perfect being; I mean, neither the first work, nor the last work, of God in this world (though most admirable) may be compared with this. This union of the two natures of Christ in one person, is the highest pitch of God's wisdom, goodness, power, and glory.
 
-2. Unanswerable reasons drawn from scriptures, prove him God: thus it appears — 
+In the explication of this union, that which I shall insist on, as the most necessary for our understanding, is, I. The union itself. II. The effects or benefits of it.
 
+I.
 
+For the union itself we shall discuss, 1 . Wherein this union consists.
 
-(1.) From those incommunicable properties of the Deity which are ascribed unto 
-him: He is eternal as God, Rev. i. 17. He is infinite as God, Matt, xxviii. 20. He is 
-omniscient as God, Matt. ix. 4. He is omnipotent as God; "He that cometh from 
-above is above all" - "He is able to subdue all things unto himself '—"He hath the 
-keys of hell and death." 
+2. The scriptural texts that confirm this union.
 
+3. The person assuming; and the nature assumed: and of these as briefly as I may.
 
+This union consists in that dependence of the human nature on the Word, and in that communicating of the person or substance of the Word, with the human nature that is assumed; so that it is such an union that both natures make one person of Christ.
 
-(2.) From those acts ascribed to him, which are only agreeable to the divine nature; 
-as, to hear the prayers of the people, John xiv. 14. To judge the quick and the dead, 
-John v. 22. And thus he creates as God, John i. 4. He commands as God, Matt. viii. 
-26. He forgives as God, Matt. ix. 6. He sanctifies as God, John i. 12. He glorifies as 
-God, Johnx. 21. 
+2.
 
+For the scriptural texts that confirm this union: among many I shall only cite these:
 
+When Christ asked his apostles, "Who do men say that I the Son of man am?" - "Simon Peter answered, Thou art the Christ, the Son of the living God."
 
-(3.) From all those acknowledgments given to him by the saints, which are only 
-proper unto God; and thus he is believed on as God, John iii. 18. He is loved as 
-God, 1 Cor. xvi. 22. He is obeyed as God, Matt. xvii. 5. He is prayed to as God, 
-Acts vii. 59. He is praised as God, Rev. v. 13. He is adored as God, Heb. i. 6. Phil, 
-ii. 10. Surely all these are strong demonstrations, that Christ Jesus is God. But why 
-was it requisite that our Saviour should be God? I answer, 
+Now if but one Christ, then surely but one person: and if the Son of man be the Son of the living God, then surely there are two natures in that one person. Observe how the Son of man and the Son of God, very man and very God, concentre in Christ; as the soul and the body make but one man, so the Son of man and the Son of God made but one Christ: thou art Christ, saith Peter, the Son of the living God.
 
+So Paul, speaking of Jesus the Son of God, tells us, "that he was made of the seed of David, according to the flesh; and declared to be the Son of God, according to the spirit." First, "made of the seed of David"; of the substance of the Virgin, who was David's posterity. Secondly, "declared to be the Son of God": the word in the original signifies a declaration by a solemn sentence or definitive judgment. "I will declare the decree: the Lord hath said unto me, thou art my Son." That which I point at: he is the son of David, in respect of his manhood; and he is the Son of God, in respect of his godhead; here be the two natures; but in the words before, these two natures make but one Son, Jesus Christ our Lord: and in the very words themselves he is declared to be the Son of God; he doth not say Sons, as of two; but his Son Jesus Christ, first before, and then after; to show unto us, that as before his making, so after his making, he is still but one Son, or one person of the two distinct natures subsisting.
 
+To the same purpose is that text; "In him dwelleth all the fullness of the godhead bodily"; by the union of the divine nature with the human in the unity of his person, the godhead dwelleth in Christ as the soul in the body: "it dwelleth in him bodily"; not seemingly, but really; not figuratively, and in a shadow, as he dwelleth in the temple; not by power and efficacy, as he dwells in all the creatures; not by grace, as in his people; nor by glory, as in the saints above; but essentially, substantially, personally, the human nature being assumed into union with the person of the Word. Observe the passages: he in whom that fullness dwells is the person; that fullness, which doth so dwell in him, is the nature: now there dwells in him not only the fullness of the godhead, but the fullness of the manhood also; for we believe him to be both perfect God, begotten of the substance of his Father before all worlds; and perfect man, made of the substance of his mother in this world: only he, in whom the fullness of the godhead dwelleth, is one; and he in whom the fullness of the manhood dwelleth, is another; but he in whom the fullness of both these natures dwelleth, is one and the same Immanuel, and consequently one and the same person; in him, i.e. in his person, dwelleth all the fullness of the godhead, and all the fullness of the manhood: "In him dwelleth all the fullness of the godhead bodily."
 
-1. Because none can save souls, nor satisfy for sin, but God alone. "There is none," 
-saith the Psalmist, "that can by any means redeem his brother, or give a ransom for 
-him," - "But God will redeem my soul from the power of hell." 2. Because the 
-satisfaction which is made for sin, must be infinitely meritorious: and infinite 
-wrath cannot be appeased, but by an infinite merit; and hence our Saviour must 
-needs be God, to the end that his obedience and sufferings might be of infinite 
-worth. 3. Because the burden of God's wrath cannot be endured by a finite 
+3.
 
+For the person assuming, and the nature assumed: (1.) The person assuming, was a divine person: it was not the divine nature that assumed an human person, but the divine person that assumed an human nature; and of the three divine persons, it was neither the first nor the third, neither the Father nor the Holy Ghost, that did assume this nature; but it was the Son, the middle person.
 
+(2.) The nature assumed was the seed of Abraham; "For verily he took not on him the nature of angels, but he took on him the seed of Abraham." Elsewhere the apostle calls it "the seed of David"; he is made the seed of David according to the flesh: and, elsewhere, he is called the seed of the woman: "I will put enmity between thy seed and her seed"; "and when the fullness of the time was come, God sent forth his Son, made of a woman." No question she was the material principle of which that precious flesh was made, and the Holy Ghost, the agent and efficient; that blessed womb of hers was the bridechamber, wherein the Holy Ghost did knit that indissoluble knot betwixt our human nature and his deity: the Son of God assuming into the unity of his person, that which before he was not, even our human nature. Oh ! with what astonishment may we behold our dust and ashes assumed into the unity of God's own person!
 
-creature: Christ therefore must be God, that he might abide the burden by his 
-divine power. 4. Because the enemies of our salvation were too strong for us: how 
-could any creature overcome Satan, death, hell, damnation? Ah! this required the 
-power of God; there's none but God that could destroy him that had the power of 
-death, that is, the devil. 
+These are the deep things of God, and indeed so exceedingly mystical, that they can never be perfectly declared by any man. Bernard compares this ineffable mystery of the union of the two natures, with that incomprehensible mystery of the trinity in unity. In the Trinity are three persons and one nature; in Christ are two natures and one person; that of the Trinity is indeed the greatest, and this of the incarnation is like unto it; they both far exceed man's capacity; "for his way is in the sea, and his path in the great waters, and his footsteps are not known."
 
+II.
 
+For the effects and benefits of this union; they are either in respect of Christ, or in respect of Christians.
 
-2. As Christ is God, so he is true man. He was born as man, and bred as man, and 
-fed as man, and slept as man, and wept as man, and sorrowed as man, and suffered 
-as man, and died as man. 
+1st. Those in respect of Christ, are, 1. An exemption of all sin.
 
+2. A collation of all graces.
 
+3. A communication of all the properties.
 
-But more particularly, (1.) Christ had a human body: "Wherefore when he came 
-into the world he said, Sacrifice and offering thou wouldst not, but a body hast 
-thou prepared." 
+1 . We find that although Christ appeared as a sinner, and that he was numbered among the wicked, or with the transgressors, Isa. liii. 12, yet in truth he did no sin, neither was any guile found in his mouth, 1 Pet. ii.
 
+22. The apostle tells us, he was holy, harmless, undefiled, and separate from sinners: he assumed the nature of man, yet by reason of this pure conception, and of this union, he was conceived, and born, and lived without sin; he took upon him the seed of man, but not the sin of man, save only by imputation.
 
+2. The graces collated unto the humanity of Christ by reason of his union, are very many: I shall instance in some:
 
-(2.) Christ had an human reasonable soul: "My soul is heavy unto death," saith 
-Christ; and again, "Father, into thy hands I commit my spirit." "Surely," saith 
-Nazianzen, "either he had a soul, or he will never save a soul." 
+(1.) That the manhood is a peculiar temple for the deity of Christ to dwell in: it is the place wherein the godhead shows itself more manifestly and more gloriously than in any other creature: it is true, that by his providence he shows himself in all his creatures, and by his grace in his saints; but he is most gloriously, eternally, according to the fullness of his deity, in the humanity of Jesus Christ: "in him dwelleth all the fullness of the godhead bodily." Some are of opinion, that as now in this life, no man cometh unto God but by Christ: so hereafter, in the next life, no man shall see God, but in the face of Jesus Christ.
 
+(2.) That the manhood of Christ, according to its measure, is a partner with the godhead in the work of redemption and mediation: as he is Immanuel in respect of his person, so he is Immanuel in respect of his office. He must needs be man as well as God, that he might be able to send this comfortable message to the sons of men; "Go to my brethren, and say unto them, I ascend unto my Father and your Father, and to my God and your God."
 
+(3.) That the manhood of Christ, together with the godhead, is adored and worshipped with divine honour: not that we worship the manhood alone, as merely a creature; but that we adore the person of Christ, which consisteth of the manhood and of the godhead.
 
-(3.) Christ had all the properties that belong either to the soul or body of a man: 
-nay, more than so, Christ had all the infirmities of our nature, sin only excepted: I 
+(4.) That the manhood hath an extraordinary measure of habitual graces poured into it. In this he excels the very angels, for to them was given grace only by measure; but to the humanity of Christ was given grace without measure; even so much as a creature is any ways capable of. Never was there any but Christ, whose graces were no way stinted, and was absolutely full of grace. Divines tell us of a double grace in Christ; the one of union, and that is infinite; the other of unction, (which is all one with grace habitual,) and that is in a sort infinite; for howsoever it be but a finite and created thing, yet in the nature of grace, it hath no limitation, no bounds, but includeth in itself whatsoever any way pertains to grace. The reason of this unlimited grace bestowed on the nature of man in Christ, was, for that grace was given to it as to the universal cause, whence it was derived unto all others. He is the fountain of grace, and of his fullness we receive grace for grace.
 
+3.
 
+For the communication of the properties. It is a kind of speech peculiar to the scriptures, when the properties of either nature of Christ considered singly are attributed to the person of Christ.
 
-say the infirmities of our nature, as cold, and heat, and hunger, and thirst, and 
-weariness, and weakness, and pain. 
+Thus we may say, that God was born of a virgin, and that God suffered, and God was crucified; not simply in respect of his godhead, but in respect of his person, or in respect of the human nature which God united to himself.
 
+And thus we may say, that the man Christ is almighty, omniscient, omnipresent, yet not in respect of his manhood, but in respect of the person which is God and man; or in respect of the divine nature of the man Christ Jesus: for here, man signifies the whole person of Christ, and not the human nature: but on the contrary, we may not say, that the godhead of Christ was born of a virgin, or suffered, or was crucified; nor may we say, that the manhood of Christ is almighty, omniscient, omnipresent; because the godhead and manhood are such words, as note to us the two natures of Christ, the one divine, and the other human, and not the person of Christ.
 
+2d. The effects or benefits of this hypostatical union, in respect of Christians, are their spiritual union and communion with God and Christ.
 
-But why was it requisite that our Saviour should be man? I answer, 1. Because our 
-Saviour must suffer and die for our sins, which the godhead could not do. 2. 
-Because our Saviour must perform obedience to the law. 3. Because our Saviour 
-must satisfy the justice of God in the same nature wherein it was offended. 4. 
-"Because by this means we might have free access to the throne of grace, and 
-might find help in our necessities, having such an High-priest as was in all things 
-tempted like unto us," Heb. iv. 15. 
+1 . There is a spiritual union of Christians with God in Christ. Oh, the wonder of these two blessed unions ! first, of the personal union; secondly, of the spiritual or mystical union. In the personal union, it pleased God to assume and unite our human nature to the deity; in this spiritual union, it pleased God to unite the person of every believer to the person of the Son of God. This union is mystical, and yet our very persons, natures, bodies, souls, are in a spiritual way conjoined to the body and soul of Christ; so that we are members of the body of Christ, and of the flesh of Christ, and of the bones of Christ; and as this conjunction is immediately made with his human nature, so thereby we are also united to the divine nature; yea, the person of the believer is united to the glorious person of the Son of God.
 
-A real distinction of these two natures is evident: 1. In regard of essence; the 
-godhead cannot be the manhood, nor can the manhood be the godhead. 2. In regard 
-of properties, the godhead is most wise, just, omnipotent, yea, wisdom, justice, 
-omnipotence itself; and so is not the manhood, neither can it be. 3. They have 
-distinct wills: "Not my will but thy will be done, O Father," plainly differencing 
-the will of a creature from the will of a Creator. 4. The very actions in the work of 
-redemption are inseparable, and yet distinguishable: "I lay down my life, and take 
-it up again." To lay it down was the action of man, not of God; and to take it up, 
-was the action of God, not of man: in these respects we say each nature remains in 
+Now, concerning this union, for our better understanding, observe these three things.
 
+(1.) It is a most real union: it is not a mere notional union, that consists only in the understanding; it is not an imaginary thing, that hath no other being but only in the brain; no, it is a true, real union. In natural unions, I confess, there may be more evidence, but there cannot be more truth.
 
+(2.) It is a very near union. You will say, how near? If an angel were to speak to you, he cannot satisfy you in this; only as far as our understanding can reach it, and the creatures can serve to illustrate these things, take it thus: whatsoever by way of comparison can be alleged concerning the combination of any one thing with another, that, and much more, may be said of our union with Jesus Christ. See how near the father and the child are, how near the husband and the wife are; see what union is between the branches and the vine, the members and the head; nay, one thing more, see what the soul is to the body: such is Christ and so near is Christ, and nearer, to the person of every true believer. "I live, yet not I," saith Paul, "but Christ liveth in me." As if he had said, As the soul is to the body of a natural man, so is Jesus Christ to my soul and body.
 
-itself entire, without any conversion, commixtion, or confusion: there is no 
-conversion of one into the other, as when he changed the water into wine; no 
-composition of both, no abolition of either, no confusion at all. — It is easy to 
-observe this real distinction of his two natures from first to last: as, 1. He was 
-conceived as others, and so he was man; but he was conceived by the Holy 
-Ghost, as never man was, and so he is God. 2. He was born as others, and so he 
-was man; but he was born of a virgin, as never man was, and this speaks him as 
-God. 3. He was crucified, died, and was buried, and so he was man; but he rose 
-again from the dead, ascended into heaven, and from thence shall come at last to 
-judge the quick and the dead, and so he is God. 
+(3.) It is a total union; that is, whole Christ is united to the whole believer, soul and body. If thou art united to Christ, thou hast all Christ; thou art one with him in his nature, in his name; thou hast the same image, grace, and spirit in thee, as he hath; the same precious promises, the same access to God by prayer as he; thou hast the same love of the Father; all that he did or suffered, thou hast a share in it; thou hast his life and death; all is thine. So, on thy part, he hath thee wholly, thy nature, thy sins, the punishment of thy sins, thy wrath, thy curse, thy shame; yea, thy wit, and wealth, and strength, all that thou art, or hast, or canst do possibly for him. It is a total union: "My beloved is mine, and I am his": whole Christ is mine, and all that I am, have, or can do, is his.
 
+2. There is a spiritual communion with God in Christ. Both these are the effects of Christ's personal union: first, union to his person, and then communion with his benefits. Union, in proper speaking, is not unto any of the benefits flowing to us from Christ; we are not united to forgiveness of sin, holiness, peace of conscience, but unto the person of the Son of God himself: and then, secondly, comes this communication of all the benefits arising from this union to the Lord Jesus — that as Christ was priest, prophet, and king; so we also by him are, after a sort, priests, prophets, and kings; for being made one with him, we are thereby possessed of all things that are his.
 
 
-Sect. IV. -- Of the Union of the two Natures of Christ in one and the same Person 
+### Section 5: Of the Birth of Christ
 
+The birth of Christ now follows. A thing so wonderful, that it was given for a sign unto believers seven hundred and forty years before it was accomplished: "Therefore the Lord himself shall give a sign; behold a virgin shall conceive and hear a son."
 
+But come a little nearer; let us go to Bethlehem, as the shepherds said, and see this thing which is come to pass ! If we step but one step into his lodging, heaven's wonder is before our eyes: now look upon Jesus! look on him as in fullness of time he carried on the great work of our salvation. Here you may read the meaning of Adam's covenant, Abraham's promise, Moses' revelation, David's succession; these were but veils, but now shall we draw aside the curtains. Come, take a view of the truth itself. What a strange birth is this ! Look on the babe, there is no cradle to rock him, no nurse to lull him, no linens to swaddle him, scarce a little food to nourish him. Look on the mother; there's no mid wives' help, no downy pillows, no linen hangings, scarce a little straw where she is brought a-bed. Look on Joseph, his supposed father; he rather begs than gives a blessing; poor carpenter! that makes them a chamber of an ox-stall. Mary must bear a Son; an angel tells her, the Holy Ghost overshadows her; the days are accomplished, and she is delivered.
 
-The union of two natures of Christ, in one and the self-same person, is that great 
-wonder, which now we must speak of as we are able. But, alas ! how should we 
-speak of this union, and not be confounded in ourselves? It is a great mystery, a 
-secret, a wonder. Many wonders have been since the beginning of the world; but 
-all the wonders that ever were must give place to this. Neither the creation of all 
-things out of nothing, nor the restoration of all things into their perfect being; I 
-mean, neither the first work, nor the last work, of God in this world (though most 
+No sooner was Christ born, but righteousness looked down from heaven; she cast her eye upon earth, and seeing truth freshly spring there, she looked and looked again: certainly it was a sight to draw all the eyes of heaven to it. It is said of the angels, that they "desired" to look into these things. They looked wishfully at them, as if they would look through them. No question but righteousness looked as narrowly and piercingly as the angels. Some observe, that the Hebrew word, "she looked down," signifies, that she beat out a window, so desirous was righteousness to behold the sight of Christ born, that she beats out a window in heaven. Before this time, she would not so much as look down towards the earth: righteousness had no prospect, no window open, this way.
 
+But now the case is altered: no sooner doth our vine bud upon the earth, but she is willing to condescend, and so willing, that she breaks a window through the walls of heaven to look down: and no marvel; for what could righteousness desire to see and satisfy herself in, that was not to be seen in Jesus Christ? He was all-righteous, there was not the least spot of sin in him: his birth was clean, his life was holy, and his death was innocent. Both his soul and body were without all sin; both his spirit and his mouth were without all guile: whatsoever satisfaction righteousness would have, she might have it in him. "Lay judgment to the line, and righteousness to the balance," and there is nothing in Jesus but straightness for the line, and full weight for the balance.
 
+For the meeting and agreement of all God's attributes as the effect of this, the verse before tells us, that "mercy and truth are met together, righteousness and peace have kissed each other." — Many means were made before Christ's time for this blessed meeting; but it would not be: "Sacrifice and burnt-offering thou wouldest not"; these means were not prevalent enough to cause it. Where stuck it? you will say: surely it was not long of mercy, she was easy to be entreated: she looked up to heaven, but righteousness would not look down; and indeed here was the business:
 
-admirable) may be compared with this. This union of the two natures of Christ in 
-one person, is the highest pitch of God's wisdom, goodness, power, and glory. 
+righteousness must and will have satisfaction; either some satisfaction for sin must be given to God, or she will never meet more; better that all the men in the world were damned, than that the righteousness of God should be unrighteous.
 
+But our Saviour is born; and this birth occasions a gracious meeting of the attributes: such an attractive is this birth, that all meet there; indeed they cannot but meet in him, Christ is mercy, and Christ is truth, and Christ is righteousness, and Christ is peace.
 
+1. Christ is mercy.
 
-In the explication of this union, that which I shall insist on, as the most necessary 
-for our understanding, is, I. The union itself. II. The effects or benefits of it. 
+Thus Zacharias prophesied; that through the tender mercy of our God the day-spring (or branch) from on high hath visited us: and God, the Father of Christ, is called the Father of mercies; as if mercy were his Son, who had no other Son but his dearly beloved Son, in whom he is well pleased.
 
+2. Christ is truth. "I am the way, and the truth, and the life"; that truth, in whom is accomplished whatsoever was prefigured of the Messiah.
 
+And this is his name, "The Lord, The Lord God, abundant in goodness and truth." - "He is a God of truth," said Moses; — "plenteous in mercy and truth," said David; — "full of grace and truth," said John. He is truth by name, and truth by nature, and truth by office.
 
-I. For the union itself we shall discuss, 1 . Wherein this union consists. 2. The 
-scriptural texts that confirm this union. 3. The person assuming; and the nature 
-assumed: and of these as briefly as I may. 
+3. Christ is righteousness. "This is his name whereby he shall be called, The Lord our righteousness."
 
-This union consists in that dependence of the human nature on the Word, and in 
-that communicating of the person or substance of the Word, with the human nature 
-that is assumed; so that it is such an union that both natures make one person of 
-Christ. 
+4. Christ is peace. "This is his name whereby he is called; Wonderful, Counsellor, the mighty God, the everlasting Father, the Prince of Peace."
 
+And according to his type, Melchisedec, as he was King of righteousness, so also he was King of Salem, which is King of peace.
 
+Thus Christ is mercy, and Christ is truth, and Christ is righteousness, and Christ is peace.
 
-2. For the scriptural texts that confirm this union: among many I shall only cite 
-these: 
+Now where should all these meet, but in him who is them all? Surely there they meet, and at the meeting they all ran first and kissed the Son; and that done, truth ran to mercy, and embraced her; and righteousness to peace, and kissed her: they that had so long been parted, now they meet, and are made friends again. O the blessed effects of this birth of Christ! It is Christ that reconciled them, and reconciled us to them. He reconciled all things, saith the apostle, "whether they be things in earth, or things in heaven."
 
+Now is heaven at peace with itself, and heaven and earth at peace one with another; and that which glues all, and makes the peace, is this birth of Christ.
 
 
-When Christ asked his apostles, "Who do men say that I the Son of man am?" - 
-"Simon Peter answered, Thou art the Christ, the Son of the living God." Now if but 
+### Section 6: Of some Consequents of Christ's Birth
 
+Some consequents of the birth of Christ may be touched, till he was a child of twelve years old.
 
+I. When he was but eight days old, he was circumcised, and named Jesus. In this early humiliation he plainly discovered the riches of his grace: now he sheds his blood in drops, and thereby gives an earnest of those rivers which he afterwards poured out for the cleansing of our nature, and extinguishing the wrath of God; and for a further discovery of his grace, at this time his name is given him, which was Jesus. This is the name which we should engrave on our hearts, rest our faith on, and place our help in, and love with the overflowings of charity, joy, and adoration; above all things, we had need of Jesus, a Saviour for our souls, both from our sins, and from The everlasting destruction which sin will otherwise bring upon our souls.
 
-one Christ, then surely but one person: and if the Son of man be the Son of the 
-living God, then surely there are two natures in that one person. Observe how the 
-Son of man and the Son of God, very man and very God, concentre in Christ; as 
-the soul and the body make but one man, so the Son of man and the Son of God 
-made but one Christ: thou art Christ, saith Peter, the Son of the living God. 
+Hence this name Jesus, and this sign circumcision, are joined together; for by the effusion of his blood he was to be our Jesus, our Saviour: "Without shedding of blood is no remission," no salvation. Circumcision was the seal, and now was it that our Jesus was under God's great seal to take his office:
 
+> "Him hath God the Father sealed," John vi.
 
+27. It is his office and his very profession to save, that all may repair unto him to that end: "Come unto me, all ye that are weary"; "and him that cometh unto me, I will in no wise cast out."
 
-So Paul, speaking of Jesus the Son of God, tells us, "that he was made of the seed 
-of David, according to the flesh; and declared to be the Son of God, according to 
-the spirit." First, "made of the seed of David"; of the substance of the Virgin, who 
-was David's posterity. Secondly, "declared to be the Son of God": the word in the 
-original signifies a declaration by a solemn sentence or definitive judgment. "I will 
-declare the decree: the Lord hath said unto me, thou art my Son." That which I 
-point at: he is the son of David, in respect of his manhood; and he is the Son of 
-God, in respect of his godhead; here be the two natures; but in the words before, 
-these two natures make but one Son, Jesus Christ our Lord: and in the very words 
-themselves he is declared to be the Son of God; he doth not say Sons, as of two; 
-but his Son Jesus Christ, first before, and then after; to show unto us, that as before 
-his making, so after his making, he is still but one Son, or one person of the two 
-distinct natures subsisting. 
+2. When he was forty days old, "he was brought to Jerusalem, and presented to the Lord; as it is written in the law of the Lord, Every male that openeth the womb shall be called holy to the Lord." O wonder! there was no impurity in the Son of God, and yet he is first circumcised; and then he is brought, and offered to the Lord. He that came to be sin for us, would in our persons be legally unclean, that by satisfying the law, he might take away our uncleanness. He that was above the law, would come under the law, that he might free us from the law. We are all born sinners; but O the unspeakable mercies of our Jesus, that provides a remedy as early as our sin: first, he is conceived; and then he is born, to sanctify our conceptions and our births: and after his birth, he is first circumcised, and then he is presented to the Lord; that by two holy acts, that which was naturally unholy might be hallowed unto God. Christ hath not left our very infancy without redress, but by himself thus offered he cleanseth us presently from our filthiness.
 
+Now is Christ brought in his mother's arms to his own house, the temple; and as man, he is presented to himself as God. You will say. What is this to me, or to my soul? O yes! Jerusalem is now everywhere; there is no church-assembly, no Christian heart, which is not a temple of the living God; and there is no temple of God, wherein Christ is not presented to his Father.
 
+Thus we have the benefit of Christ's fulfilling the law of righteousness: "God sent his Son, made of a woman, made under the law, that he might redeem them that were under the law, that we might receive the adoption of sons."
 
-To the same purpose is that text; "In him dwelleth all the fullness of the godhead 
-bodily"; by the union of the divine nature with the human in the unity of his 
-person, the godhead dwelleth in Christ as the soul in the body: "it dwelleth in him 
-bodily"; not seemingly, but really; not figuratively, and in a shadow, as he dwelleth 
-in the temple; not by power and efficacy, as he dwells in all the creatures; not by 
-grace, as in his people; nor by glory, as in the saints above; but essentially, 
-substantially, personally, the human nature being assumed into union with the 
-person of the Word. Observe the passages: he in whom that fullness dwells is the 
-person; that fullness, which doth so dwell in him, is the nature: now there dwells in 
-him not only the fullness of the godhead, but the fullness of the manhood also; for 
-we believe him to be both perfect God, begotten of the substance of his Father 
-before all worlds; and perfect man, made of the substance of his mother in this 
-world: only he, in whom the fullness of the godhead dwelleth, is one; and he in 
-whom the fullness of the manhood dwelleth, is another; but he in whom the 
-fullness of both these natures dwelleth, is one and the same Immanuel, and 
-consequently one and the same person; in him, i.e. in his person, dwelleth all the 
-fullness of the godhead, and all the fullness of the manhood: "In him dwelleth all 
-the fullness of the godhead bodily." 
+3. When he was yet under one year old, as some, or about two, as others, he fled into Egypt. As there was no room for him in Bethlehem, so now there is no room for him in all Judea. No sooner he came to his own, but he must fly from them: what a wonder is this ! Could not Christ have quit himself from Herod a thousand ways? What could an arm of flesh have done against the God of spirits? but hereby he taught us to bear the yoke even in our youth: thus would he suffer, that he might sanctify to us our earthly afflictions. What a change is here! Israel, the first-born of God, flies out of Egypt into Judea, and Christ, the first-born of all creatures, flies out of Judea into Egypt.
 
+Now is Egypt become the sanctuary, and Judea the inquisition-house, of the Son of God. Surely he that is everywhere the same, knows how to make all places alike to his. He knows how to preserve Daniel in the lion's den, the three children in the fiery furnace, Jonah in the whale's belly, and Christ in the midst of Egypt.
 
+4. When he was now five years old, say some, an angel appears again in a dream to Joseph, saying, "Arise, and take the young child and his mother, and return again into the land of Israel, for they are dead which sought the young child's life."
 
-3. For the person assuming, and the nature assumed: (1.) The person assuming, was 
-a divine person: it was not the divine nature that assumed an human person, but the 
-divine person that assumed an human nature; and of the three divine persons, it 
-was neither the first nor the third, neither the Father nor the Holy Ghost, that did 
-assume this nature; but it was the Son, the middle person. 
+Herod, that took away the lives of all the infants in or about Bethlehem, is now himself dead, and gone to his own place. O the wonderful dispensation of Christ in concealing himself from men! All this while he carries himself as an infant; "take the young child and his mother." He suppressed the manifestation and exercise of that godhead whereto the infant nature was conjoined: as the birth of Christ, so the infancy of Christ was exceedingly humble. O how should we magnify him, or deject ourselves for him, who himself became thus humble for our sakes !
 
+5. When he was twelve years old, he, with his parents, goes up to Jerusalem, after the custom of the feast. This pious act of his younger years intends to lead our first years into timely devotion: but I shall not insist on that; I would rather observe him
 
+> "sitting in the midst of the temple, both hearing them and asking them questions."
 
-(2.) The nature assumed was the seed of Abraham; "For verily he took not on him 
-the nature of angels, but he took on him the seed of Abraham." Elsewhere the 
-apostle calls it "the seed of David"; he is made the seed of David according to the 
-flesh: and, elsewhere, he is called the seed of the woman: "I will put enmity 
-between thy seed and her seed"; "and when the fullness of the time was come, God 
-sent forth his Son, made of a woman." No question she was the material principle 
-of which that precious flesh was made, and the Holy Ghost, the agent and efficient; 
-that blessed womb of hers was the bridechamber, wherein the Holy Ghost did knit 
-that indissoluble knot betwixt our human nature and his deity: the Son of God 
-assuming into the unity of his person, that which before he was not, even our 
-human nature. Oh ! with what astonishment may we behold our dust and ashes 
-assumed into the unity of God's own person! 
+He who, as God, gave them all the wisdom they had, doth now, as the Son of man, hearken to the wisdom he had given them; and when he had heard, then he asks; and after that, no doubt he answers: his very questions were instructions; for I cannot think that he meant so much to learn, as to teach those doctors of Israel. Surely these rabbins had never heard the voice of such a tutor; they could not but see the very wisdom of God in this child; and therefore saith the text, "they all wonder," or they were all astonished at his understanding and answers: their eyes saw nothing but a child, but their ears heard the wonderful things of God's law.
 
+But why did ye not, O ye Jewish teachers, remember now the star and the sages, the angels and the shepherds? why did ye not now bethink yourselves of Herod, and of his inquiry, and of your answer, that in Bethlehem of Judea Christ should be born? You cited the prophets, and why did you not mind that prophecy now, that unto us a child is born, and "unto us a Son is given, and his name shall be called Wonderful, Counsellor, the mighty God, the everlasting Father, the Prince of Peace?" Fruitless is the wonder that endeth not in faith. No light is sufficient, where the eyes are held through unbelief and prejudice.
 
+6. After this, from the twelfth to the thirtieth year of his age, we read nothing of the acts of Christ, but that he went down with his parents unto Nazareth, and was subject to them. As he went up to Jerusalem to worship God, so he goes down to Nazareth to attend his particular calling. This is the meaning of those words, "and he was subject to them." Christ's subjection to his parents extends to the profession and exercise of his life. Certainly Christ was not all that time, from twelve to thirty years, idle: as he was educated by his parents, so of his reputed father he learnt to be a carpenter; this, I take it, is plain in these words, "Is not this the carpenter , the Son of Mary?"
 
-These are the deep things of God, and indeed so exceedingly mystical, that they 
-can never be perfectly declared by any man. Bernard compares this ineffable 
-mystery of the union of the two natures, with that incomprehensible mystery of the 
-trinity in unity. In the Trinity are three persons and one nature; in Christ are two 
-natures and one person; that of the Trinity is indeed the greatest, and this of the 
-incarnation is like unto it; they both far exceed man's capacity; "for his way is in 
-the sea, and his path in the great waters, and his footsteps are not known." 
+Oh, the poverty, humility, severity, of Jesus ! It appears at this time especially, in his laboring, working, hewing of wood, or the like. Here's a sharp reproof to all those who spend their time in idleness, or without a particular calling. What! are they wiser than Christ? Our Jesus would not by any means thus spend his time.
 
-II. For the effects and benefits of this union; they are either in respect of Christ, or 
-in respect of Christians. 
+But concerning this time of his youth, because in scripture there is so deep a silence, I shall therefore pass it by.
 
-1st. Those in respect of Christ, are, 1. An exemption of all sin. 2. A collation of all 
-graces. 3. A communication of all the properties. 
+Thus far have I propounded the object we are to look unto; it is Jesus, in his first coming, or incarnation, whilst yet a child of twelve years old. Our next work is to direct you in the art or mystery, how we are to look unto him in this respect.
 
+CHAP. II
 
 
-1 . We find that although Christ appeared as a sinner, and that he was numbered 
-among the wicked, or with the transgressors, Isa. liii. 12, yet in truth he did no sin, 
-neither was any guile found in his mouth, 1 Pet. ii. 22. The apostle tells us, he was 
-holy, harmless, undefiled, and separate from sinners: he assumed the nature of 
-man, yet by reason of this pure conception, and of this union, he was conceived, 
+### Section 1: Of Knowing Jesus as carrying on the great Work of our Salvation in his
 
+Birth
 
+What looking comprehends, you have heard before: and that we may have an inward experimental look on him whom our souls pant after, let us practice all these particulars.
 
-and born, and lived without sin; he took upon him the seed of man, but not the sin 
-of man, save only by imputation. 
+1. Let us know Jesus carrying on the great work of our salvation in his incarnation. Let us learn what he did for us when he came amongst us. There is not one passage in his first appearing, but it is of mighty concernment unto us. Is it possible that the great God of heaven and earth should so infinitely condescend, but on some great design? And what design could there be but only his glory and the creatures ' good? O my soul! if thou hast any interest in Christ, all this concerns thee: the Lord Jesus, in these very transactions, had an eye to thee; he was incarnate for thee, he was conceived and born for thee. Look not on the bare history of things, for that is unprofitable; the main duty is eyeing the end, the meaning of Christ, and especially as it relates to thyself. Alas ! what comfort were it to a poor prisoner, if he should hear that the king, of his mere grace, visited all the prisoners in this or that dungeon, and that he made a jail-delivery, and set all free, but never came near the place where he lies bound in irons? or suppose he gives a visit to that very man, and offers him grace and pardon, if he will but accept of it; and, because of his waywardness, persuades, entreats, commands him to come out and take his liberty; and yet if he will not regard or apply it to himself, what comfort can he have? what benefit can he receive? Dear soul, this is thy case, if thou art not in Christ; if thou hast not heard the offer, and embraced and closed with it, then what is Christ's incarnation, conception, nativity, unto thee? Come, learn, not merely as a scholar, to gain some notional knowledge; but as a Christian, as one that feels virtue coming out of Christ in every of these respects. Study closely this great transaction in reference to thyself. I know not how it happens; this subject either savours not with some Christians, or it is seldom thought of by the most. O God forbid we should throw out of doors such a blessed necessary truth! If rightly applied, it is a Christian's joy: "Behold, I bring you glad tidings of great joy, that shall be to all people; for unto you is born in the city of David, a Saviour, which is Christ the Lord." Sure the birth of Christ is of mighty concernment unto thee; "unto us a child is born, unto us a Son is given." There is not any piece of this transaction but it is of special use. How many break their brains, and waste their spirits, in studying arts and sciences, things in comparison of no value? Whereas Paul determined not to know any thing but Jesus Christ. To know Jesus Christ in every point, whether in birth, or life, or death, is saving knowledge. O stand not upon cost, whether pains or study, tears or prayers, peace or wealth, goods or name, life or liberty; sell all for this pearl. Christ is of that worth that thou canst never over-buy him, though thou gavest thyself and all the world for him. The study of Christ is the study of studies; the knowledge of Christ is the knowledge of everything that is necessary, either for this world, or for the world to come. O study Christ in every of the aforesaid respects.
 
 
+### Section 2: Considering Jesus in that respect
 
-2. The graces collated unto the humanity of Christ by reason of his union, are very 
-many: I shall instance in some: 
+Let us consider Jesus carrying on this great work of our salvation, at his first coming or incarnation. It is not enough to study and know these great mysteries; but, according to the measure of knowledge we have, we must muse, meditate, ponder, and consider them. This consideration brings Christ closer to the soul. Consideration fastens Christ more strongly to the soul, and, as it were, rivets the soul to Jesus Christ. A soul that truly considers and meditates of Christ, thinks and talks of nothing else but Christ: it takes hold, and will not let him go. I will keep to thee (saith the soul in meditation) for thou art my life. Thus, O my soul, consider thou of Christ, and of what he did for thee when he was incarnate ! and that thou mayest not confound thyself in thy meditations, consider apart these particulars.
 
+1. Consider Jesus in his forerunner, and the blessed tidings of his coming in the flesh.
 
+Now the long-looked for time drew near, a glorious angel is sent from heaven, and he comes with an olive-branch of peace; first he presents himself to
 
-(1.) That the manhood is a peculiar temple for the deity of Christ to dwell in: it is 
-the place wherein the godhead shows itself more manifestly and more gloriously 
-than in any other creature: it is true, that by his providence he shows himself in all 
-his creatures, and by his grace in his saints; but he is most gloriously, eternally, 
-according to the fullness of his deity, in the humanity of Jesus Christ: "in him 
-dwelleth all the fullness of the godhead bodily." Some are of opinion, that as now 
-in this life, no man cometh unto God but by Christ: so hereafter, in the next life, no 
-man shall see God, but in the face of Jesus Christ. 
+Zachary, and then to Mary; to her he imparts the message on which God sent him into this world: "Behold, thou shalt conceive in thy womb, and bring forth a Son, and shalt call his name Jesus." Till now, human nature was less than that of angels; but by the incarnation of the Word, it was to be exalted above the cherubim. What blessed tidings was this message! The decree of old must now be accomplished, and an angel proclaims it upon earth. "Hear, O ye sons of Adam, this concerns you as much as the Virgin: were ye not all undone in the loins of your first father? was not my soul and thy soul in danger of hell-fire? was not this our condition, that after a little life upon earth, we should have been thrown into eternal torments, where had been nothing but weeping, wailing, and gnashing of teeth? And now that God and Christ should bid an angel tell the news - 'Ye shall not die: Lo, a virgin shall conceive and bear a Son,' and he shall be your Jesus: he shall save you from this hell, and death, and sin; he shall deliver your souls, he shall save to the utmost: his name is Jesus, and he shall not bear his name for nought: believe in him, and ye shall live with him in glory." O blessed news! Men may talk what they will of this and that news, but none is so welcome to one ready to perish, as to hear of a Saviour. Tell a man in his sickness of one that will make him well again; tell a man in captivity, of one that will set him free; tell a man in prison, condemned to die, of one with a pardon that will save his life; and every one of these will say, this is the best news that ever was heard. Oh ! then, if it be good tidings to hear of a saviour, where it is only a matter of loss of life, or of this earth; how much more when it comes to the loss of heaven, to the danger of hell; when our souls are at stake, and likely to be damned forever! what glad tidings would that be, to hear of one that could save our souls from that destroyer! Is not such a Saviour worth the hearkening after? were not the birth of such a one good news? O my soul, ponder on these words, as if an angel, seeing thee stand on the brim of hell, should speak to thee, even to thy soul.
 
+2. Consider Jesus in his conception. No sooner is the news heard, but Christ is conceived by the Holy Ghost in the Virgin's womb: this conception is worthy our consideration. What! that the great God of heaven should condescend so far as to take our nature upon him, and to take it in the same way, and after the same manner, as we do? We must not be too curious, to inquire after the manner of the Holy Ghost's operation. This is work for our hearts, and not merely for our heads. Humble faith, and not curious inquisition, shall find the sweetness of this mystery. It was David's complaint, "Behold I was shapen in iniquity, and in sin did my mother conceive me." O my soul, this was thy case in thy very first being, and hadst thou died in that condition, the word is express, that "nothing undefiled nor unclean should enter into the kingdom of glory."
 
+But here's the remedy, thy sinful conception is sanctified by Christ's holy conception: the holiness of thy Jesus serves to hide thy original pollutions from the eye of God. Oh ! consider this conception thus, till thou bringest it near and close to thy soul, till thou feelest some sweetness and power coming and flowing from Jesus in the womb.
 
-(2.) That the manhood of Christ, according to its measure, is a partner with the 
-godhead in the work of redemption and mediation: as he is Immanuel in respect of 
-his person, so he is Immanuel in respect of his office. He must needs be man as 
-well as God, that he might be able to send this comfortable message to the sons of 
+3. Consider the duplicity of natures in Jesus Christ: the Word made flesh. No sooner was he conceived, than he was God-man; he was perfectly framed, and instantly united to the eternal Word: "God sent his Son," there is the nature divine; "made of a woman," there is the nature human. Certainly great is this mystery, that the Word is made flesh; that the Son of God is made of a woman; that a star gives light to the sun; that a branch doth bear the vine; that a creature gives being to the Creator!
 
+Admire, O my soul, at this ! but withal consider, that all this was for us and our salvation: he was man, that he might die for us; and he was God, that his death might be sufficient to save us. Had he been man alone, not God, he might have suffered, but he could never have satisfied for sin; he could not have been Jesus, a Saviour of souls: had he been God alone, not man, he had not been akin to our nature offending; and so he could not have satisfied the justice of God in the same nature wherein it was offended; neither could he, as God alone, have died for sin; and the decree was, that our Redeemer must die for sin; "for without shedding of blood, there is no remission"; and no shedding of blood could possibly befall the godhead of Christ. O my soul, consider this in relation to thyself: he is God-man, that he might suffer and satisfy for thy sins; he is God-man, that he might be able and fit to finish the work of thy salvation. As God he is able, and as man he is fit, to discharge the office of Mediator: as God, he is able to bear the punishment of sin; and as man, he is fit to suffer for sin. Oh the wisdom of God in this ! man's nature can suffer death, but not overcome it; the divine nature can overcome death and all things, but he cannot suffer it: and hence there is a duplicity of natures in Jesus Christ. O muse on this; it is worthy thy serious consideration.
 
+4. Consider the real distinction of these two natures in Christ. As the unapproachable light of the godhead was put into human flesh, so these two natures remained entire, without any conversion or confusion. They were not as wine and water, that become one by mixing; there is no such blending the divine and human nature: they were not as snow and water, that become one by dissolving of the snow into water; there is no such changing of the human nature into the divine, or of the divine into the human. Look, as at the first moment of his conception he was God and man, so these two natures continued distinct in substance, properties, and actions. Consider this, O my soul, in reference to thyself: by this means thou hast free access unto the throne of grace; and as thou hast free access, so thou mayest boldly draw near. His deity indeed confounds, but his humanity comforts feeble souls: his divine nature amazeth, but his human nature encourageth us to come unto him. Even after his resurrection, he was pleased to send this comfortable message to the sons of men; "Go to my brethren, and say unto them, I ascend to my Father and your Father, and to my God and your God." Now, as long as he is not ashamed to call us brethren, God is not ashamed to be called our God. Oh, the sweet fruit that we may gather off this tree, the real distinctions of two natures in Christ! As long as Christ is man as well as God, we have a motive strong enough to appease his Father, and to turn his favourable countenance towards us. Here is our happiness, that there is one Mediator between God and man, the man Christ Jesus.
 
-men; "Go to my brethren, and say unto them, I ascend unto my Father and your 
-Father, and to my God and your God." 
+5. Consider the union of the two natures of Christ in one and the same person. As he was the branch of the Lord, and the fruit of the earth, so these two natures were tied with such a knot as sin, hell, and the grave were never able to disunite: yea, though in the death of Christ there was a separation of the soul from the body, yet in that separation the hypostatical union remained unshaken. In this meditation thou hast great cause, O my soul, to admire and adore ! Wonderful things are spoken of thee, O Christ! He is God, so as neither the Father nor the Holy Ghost were made flesh; and he is man, in the nature of man. This is a mystery that no angel is able to comprehend. We have not another example of such an union. If thou wilt consider this great mystery of godliness any further, review what hath been said in the object propounded, where this union is set forth more largely and particularly: but especially consider the blessed effects of this union in reference to thyself. As our nature in the person of Christ is united to the godhead, so our persons in and by this union of Christ are brought nigh to God.
 
+Hence it is that God doth set his sanctuary and tabernacle among us, and that he dwells with us; and, which is more, that he makes us houses and habitations, wherein he himself is pleased to dwell by his holy Spirit. By reason of this hypostatical union of Christ, the Spirit of Christ is given to us in the very moment of our regeneration. "And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father: and hereby we know that we dwell in him, and he in us, because he hath given us of his Spirit." As the members of the body, howsoever distinct amongst themselves, and all differing from the head, yet by reason of one soul informing both the head and members, all make one man; so all believers in Christ, howsoever distinct persons amongst themselves, and all distinct from the person of Christ, and especially from the godhead, which is incommunicable, yet by one and the same Spirit abiding in Christ and in all his members, they become one. "There is one body, and one Spirit": — "he that is joined to the Lord is one spirit." O my soul, consider this; and in considering, believe thy part in this; and the rather because the means of this union on thy part is a true and lively faith. Faith is the first effect and instrument of the Spirit of Christ, disposing and enabling thy soul to cleave unto Christ; "and for this cause I bow my knees unto the Father of our Lord Jesus Christ" - "that Christ may dwell in your hearts by faith."
 
+6. Consider the birth of Christ, who in his divine generation was the Son of God; in his human generation was born in a stable, for the saving of the children of men. Suppose the Holy Ghost came upon thee, to form and fashion thee in Jesus Christ, (thus Paul bespeaks the Galatians; "My little children, of whom I travel in birth again until Christ be formed in you,") would not this affect? would not the whole soul be taken up with this? Come, receive Christ into thy soul; or if that work be done, if Christ be formed in thee, O cherish him! (I speak of the spiritual birth,) O keep him in thy heart! Let him there bud, and blossom, and bear fruit; let him fill thy soul with his divine graces: O that thou couldst say it feelingly, "I live, yet not I, but Christ liveth in me." O that this were the issue of thy meditation on Christ's birth! even whilst thou art going with the shepherds to Bethlehem, and there findest thy Saviour lying in a cratch, that thou wouldst bring him thence, and make thy heart to be his cradle ! I would not give a farthing for a meditation merely on the history of Christ's birth: either draw virtue from him within, or thy meditation will be fruitless.
 
-(3.) That the manhood of Christ, together with the godhead, is adored and 
-worshipped with divine honour: not that we worship the manhood alone, as merely 
-a creature; but that we adore the person of Christ, which consisteth of the manhood 
-and of the godhead. 
+7. Consider those few consequents after Christ's birth; every action of Christ is our instruction. Here are many particulars, but none in vain. Christ is considered under much variety of notions, but he is still sweet under all. Is it possible, O my soul, that thou shouldst tire thyself in the contemplation of Jesus Christ? If one flower yield thee not pleasure or delight, go to a second, a third.
 
-(4.) That the manhood hath an extraordinary measure of habitual graces poured 
-into it. In this he excels the very angels, for to them was given grace only by 
-measure; but to the humanity of Christ was given grace without measure; even so 
-much as a creature is any ways capable of. Never was there any but Christ, whose 
-graces were no way stinted, and was absolutely full of grace. Divines tell us of a 
-double grace in Christ; the one of union, and that is infinite; the other of unction, 
-(which is all one with grace habitual,) and that is in a sort infinite; for howsoever it 
-be but a finite and created thing, yet in the nature of grace, it hath no limitation, no 
-bounds, but includeth in itself whatsoever any way pertains to grace. The reason of 
-this unlimited grace bestowed on the nature of man in Christ, was, for that grace 
-was given to it as to the universal cause, whence it was derived unto all others. He 
-is the fountain of grace, and of his fullness we receive grace for grace. 
+For a while observe the circumcision of Jesus Christ, and gather some honey out of that flower. Christ had never been circumcised, but that the same might be done to our souls that was done to his body. O that the same Christ would do that in us that was done to him for us !
 
+Again, observe Christ's presentation in the temple. This was the law of those that first opened the womb.
 
+Now Christ was the first-born of Mary, and indeed the first-born of all creatures; and he was consecrated unto God, that by him we might be consecrated and made holy, and that by him we might be accepted when we are offered unto the Lord.
 
-3. For the communication of the properties. It is a kind of speech peculiar to the 
-scriptures, when the properties of either nature of Christ considered singly are 
-attributed to the person of Christ. Thus we may say, that God was born of a virgin, 
-and that God suffered, and God was crucified; not simply in respect of his 
-godhead, but in respect of his person, or in respect of the human nature which God 
-united to himself. And thus we may say, that the man Christ is almighty, 
-omniscient, omnipresent, yet not in respect of his manhood, but in respect of the 
-person which is God and man; or in respect of the divine nature of the man Christ 
-Jesus: for here, man signifies the whole person of Christ, and not the human 
-nature: but on the contrary, we may not say, that the godhead of Christ was born of 
-a virgin, or suffered, or was crucified; nor may we say, that the manhood of Christ 
-is almighty, omniscient, omnipresent; because the godhead and manhood are such 
-words, as note to us the two natures of Christ, the one divine, and the other human, 
-and not the person of Christ. 
+Again, observe Christ's flight into Egypt: though the infancy is usually most quiet, yet here life and toil began together; and see how speedily this comes after Christ's dedication unto God. Alas ! we are no sooner born again, than we are persecuted. If the church travail, and bring forth a male, she is in danger of the dragon's streams.
 
+Again, observe Christ's return into Judea; he was "not sent but to the lost sheep of the house of Israel"; with them alone he was personally to converse in his ministry, in which respect he was called a minister of the circumcision.
 
+And where should he be trained, and show himself, but amongst them to whom God had sent him? The gospel first began there, and, as a preparation to it, Christ now in his childhood returns thither.
 
-2d. The effects or benefits of this hypostatical union, in respect of Christians, are 
-their spiritual union and communion with God and Christ. 
+Again, observe Christ disputing with the doctors in the temple. See how early his divine graces put forth themselves; "In him were hid," saith the apostle, "all the treasures of wisdom and knowledge": all the treasures were hid in him, and yet some of those treasures appeared very early; his wisdom in his very infancy is admired at, nor is it without our profit, for of God he is made wisdom unto us.
 
+Again, observe how he spent the remainder of his youth. In all his examples he meant our instruction; he went down with his parents, and was subject to them: he was not idle bred, but serves his generation in the poor way of a carpenter. It is every way good for a man to bear God's yoke, even from his infancy. Christ is inured betimes to the hardships of life, and the strict observation of the law, both of God and nature.
 
+See, O my soul, what a world of matter is before thee: here is the annunciation of Jesus, the conception of Jesus, the duplicity of natures in Jesus, the real distinction, the wonderful union, the nativity of Jesus, together with some consequents after it. Go over these with frequent thoughts; give not over till thou feelest thy heart warm. True meditation is as the bellows of the soul, that doth kindle and inflame holy affections; and by renewed thoughts, as by renewed and stronger blasts, it doth renew and increase the flame.
 
-1 . There is a spiritual union of Christians with God in Christ. Oh, the wonder of 
-these two blessed unions ! first, of the personal union; secondly, of the spiritual or 
-mystical union. In the personal union, it pleased God to assume and unite our 
-human nature to the deity; in this spiritual union, it pleased God to unite the person 
-of every believer to the person of the Son of God. This union is mystical, and yet 
-our very persons, natures, bodies, souls, are in a spiritual way conjoined to the 
-body and soul of Christ; so that we are members of the body of Christ, and of the 
-flesh of Christ, and of the bones of Christ; and as this conjunction is immediately 
-made with his human nature, so thereby we are also united to the divine nature; 
-yea, the person of the believer is united to the glorious person of the Son of God. 
 
-Now, concerning this union, for our better understanding, observe these three 
-things. 
+### Section 3: Of Desiring Jesus in that respect
 
+Let us desire Jesus carrying on the great work of our salvation at his first coming or incarnation. It is not enough to know and consider, but we must desire. Now, what is desire, but a certain motion of the appetite, by which the soul darts itself towards the absent good, purposely to draw near, and to unite itself thereunto? The incarnation of Christ, according to the letter, was the desire of all nations. O how they that lived before Christ, desired this coming of Christ ! Abraham desired to see that day, two thousand years and more before it came. It was the expectation of all the patriarchs: O when will that day come! And surely the incarnation of Christ in the fruit or application, is, or should be, the desire of all Christians. There is virtue in Jesus Christ, in every passage of Christ, in his conception, incarnation, in his birth, and in those consequents after his birth. Now, to make these ours, that we may have our share and interest in them, we must here begin. O my soul, do thou desire, do thou seek to possess thyself of Christ! Set thy desire (as the needle point) aright, and all the rest will follow: never will union be with the absent good, but the soul, by desire, must first dart itself towards it. True it is, millions of souls stand at a distance from Christ; and why? they have no desire towards him: but, O that my soul, and thy soul, whosoever thou art that readest, would desire ! O that we could desire and long after him until we languish, and be compelled to cry out with the spouse, "Comfort me, for I am sick of love."
 
+Is there not good reason for it? what is there in Christ that is not desirable? View over all those excellencies of his conception; of his two natures really distinguished, and yet wonderfully united; of his birth; of those few consequents after his birth: but above all, see the fruit of all; he was conceived, that our conceptions might be sanctified; he was the Son of man, that he might suffer for us; and the Son of God, that he might satisfy divine justice; he was God and man in one person, that we might be one with him, "members of his body, of his flesh, and of his bones." He was born of the Virgin, that there might be a spiritual birth of Christ in our virgin-hearts. Are not these desirable things? Never tell me of thy present enjoyments; for never was Christ so enjoyed in this life, but thou hast cause to desire more of Christ. It is worth thy observation, that spiritual desires after Christ do neither load nor cloy the heart, but rather open and enlarge it for more and more. Who was better acquainted with God than Moses? and yet who was more importunate to know him better? "I beseech thee, shew me thy glory."
 
-(1.) It is a most real union: it is not a mere notional union, that consists only in the 
-understanding; it is not an imaginary thing, that hath no other being but only in the 
-brain; no, it is a true, real union. In natural unions, I confess, there may be more 
-evidence, but there cannot be more truth. 
+And who was more acquainted with Christ than Paul? and yet who was more importunate to be with him nearer? "I desire to be dissolved, and to be with Christ." Further and further, union with Christy and communion with Christ, are most desirable things, and are not these the fruits of his incarnation, the effects of his personal union? More and more peace, and love, and reconciliation, betwixt God and us, are desirable things: and are not these the fruits of Christ's birth? was it not then that "righteousness looked down from heaven? that mercy and truth met together, and righteousness and peace kissed each other?" An higher degree of holiness, likeness to God and Christ, are desirable things: and are not these the fruits of circumcision, and presentation to the Lord, the effects of all those consequents that follow after his birth? Come, stir up thy desires: true desires are not wavering, but resolute and full of quickness. Observe how the nature of true desire in scripture, is set forth by the most strong similitudes of hunger and thirst;
 
+and those not common neither, but by the panting of a tired hart after the rivers of water, and by the gaping of dry ground after seasonable showers. O then! how is it that the passages of thy desires are so narrow, and almost shut up? Nay, how is it that thy vessels are so full of contrary qualities, that there is scarce any room in thy soul for Christ? Will not the desires of the patriarchs witness against thee? how cried they after Christ's coming in the flesh? "Bow the heavens, O Lord, and come down," Psal. cxliv. 5. "Oh, that thou wouldest rend the heavens, that thou wouldest come down," Isa. xliv. 1. "Drop down, ye heavens, from above, and let the skies pour down righteousness; let the earth open, and bring forth salvation," Isa. xlv.
 
+8. Is it possible that their desires should be more vehement after Christ than ours? They lived on the dark side of the cloud, but we on the bright side; the veil was upon their hearts, which veil is done away in Christ. They saw Christ afar off, and their sight was very dim; "but we all with open face, as in a glass, behold the glory of the Lord." One would think, the less anything is known, the less it should be desired. O my soul, either thou art more ignorant of Christ than the patriarchs of old, or thy heart is more out of frame than theirs: suspect the latter, and blame thy heart, it may be thy sluggish nature hath laid thy desires asleep. If an hungry man will sleep, his hunger will sleep with him: but, oh! stir up and awake thy desires. Present before them that glorious object, the incarnation of Jesus Christ: it is an object which the very angels desire to look into; and art not thou more concerned in it than the angels? Is not the fruit of the incarnation thine, more especially thine? Come then, stir up those motions of thy appetite, by which the soul darts itself towards the absent good. Draw nearer and nearer, till thou comest to union and enjoyment; cry after Christ, "Why is his chariot so long in coming? why tarry the wheels of his chariots?"
 
-(2.) It is a very near union. You will say, how near? If an angel were to speak to 
-you, he cannot satisfy you in this; only as far as our understanding can reach it, and 
-the creatures can serve to illustrate these things, take it thus: whatsoever by way of 
-comparison can be alleged concerning the combination of any one thing with 
-another, that, and much more, may be said of our union with Jesus Christ. See how 
-near the father and the child are, how near the husband and the wife are; see what 
-union is between the branches and the vine, the members and the head; nay, one 
-thing more, see what the soul is to the body: such is Christ and so near is Christ, 
-and nearer, to the person of every true believer. "I live, yet not I," saith Paul, "but 
-Christ liveth in me." As if he had said, As the soul is to the body of a natural man, 
-so is Jesus Christ to my soul and body. 
 
+### Section 4: Of Hoping in Jesus in that respect
 
+Let us hope in Jesus carrying on the great work of our salvation at his first coming. Only here remember, I speak not of every hope, but only of such an hope as is grounded on some certainty and knowledge. This is the main question, whether Christ's incarnation belongs unto me? The prophet tells us, that "unto us a child is born, unto us a son is given."
 
-(3.) It is a total union; that is, whole Christ is united to the whole believer, soul and 
-body. If thou art united to Christ, thou hast all Christ; thou art one with him in his 
-nature, in his name; thou hast the same image, grace, and spirit in thee, as he hath; 
-the same precious promises, the same access to God by prayer as he; thou hast the 
-same love of the Father; all that he did or suffered, thou hast a share in it; thou hast 
-his life and death; all is thine. So, on thy part, he hath thee wholly, thy nature, thy 
-sins, the punishment of thy sins, thy wrath, thy curse, thy shame; yea, thy wit, and 
-wealth, and strength, all that thou art, or hast, or canst do possibly for him. It is a 
+But how may I hope that this child is born to me? and that this Son is given to me? what ground for that? Out of these words of the prophet I shall draw a double evidence, which may be instead of all: our first evidence from the former words, "unto us a child is born"; our second evidence from the latter words, "unto us a Son is given."
 
+1. From the former words, I lay down this position, "unto us a child is born," if we are new-born. The surest way to know our interest in the birth of Christ, is to know
 
+Christ born in us, or "formed in us," as the apostle speaks. The new-birth is the effect of Christ's birth, and a sure sign that Christ is born in us. Say then, O my soul, art thou born anew? is there in thee a new nature, a new principle? is the image of God and of Christ in thy soul? so the apostle styles it, the bearing of "the image of the heavenly"; then was Christ incarnate for thee. Come then, look to it, my soul; what is thy principle within? Consider not so much the outward actions, the outward duties, of religion, as that root from whence they grow, that principle from whence they come: are they fixed ones, settled ones, by way of life, in thee? Clocks have their motions, but they are not motions of life, because they have no principles of life within. Is there life within? Then art thou born again, yea, even unto thee a child is born. This is one evidence.
 
-total union: "My beloved is mine, and I am his": whole Christ is mine, and all that 
-I am, have, or can do, is his. 
+2. From the latter words I lay down this position, "unto us a Son is given," if we are God's sons. The best way to know our interest in the Son of God, is to know ourselves to be God's sons by grace, as Christ was God's Son by nature. — Christians, to whom Christ is given, are co-heirs with Christ; only Christ is the first-born, and hath the pre-eminence in all things. Our sonship is an effect of Christ's Sonship, and a sure sign that unto us a son is given. Say then, O my soul, art thou a son of God? dost thou resemble God according to thy capacity, "being holy, even as he is holy"? Why then, Christ was incarnate for thee, he was given to thee. If thy sonship be not clear enough, thou by these following rules mayest try it further: —
 
+(1.) The sons of God fear God: "If I be a Father, where is mine honour?" saith God; "if I be a master, where is my fear?" If I be a son of God, there will be an holy fear and trembling upon me in all my approaches unto God. I know there is a servile fear, and that is unworthy and unbeseeming a son of God; but there is a filial fear, and that is an excellent check and bridle to all our wantonness. What son will not fear the frowns of his loving father? I dare not do this, (he will say,) my father will be offended. Agreeable to this is the apostle's advice, "If ye call on the Father, pass your sojourning here in fear."
 
+(2.) The sons of God love God, and obey God out of a principle of love. Suppose there were no heaven to bestow upon a regenerate person, yet would he obey God out of a principle of love? Not that it is unlawful for the child of God to have an eye unto the recompense of reward: Moses's reason of esteeming the reproach of Christ greater riches than the treasures of Egypt, was, for that he had respect unto the recompense of reward. He had respect; in the original, he had a fixed intent eye: there was in him a love of the reward, and yet withal a love of God; and therefore his love of the reward was not mercenary: but this, I say, though there were no reward at all, a child of God hath such a principle of love within him, that for love's sake he would obey his God. He is led by the Spirit, and therefore he obeys: now the Spirit that leads him is a spirit of love, and as many as are led by the Spirit of God are the sons of God.
 
-2. There is a spiritual communion with God in Christ. Both these are the effects of 
-Christ's personal union: first, union to his person, and then communion with his 
-benefits. Union, in proper speaking, is not unto any of the benefits flowing to us 
-from Christ; we are not united to forgiveness of sin, holiness, peace of conscience, 
-but unto the person of the Son of God himself: and then, secondly, comes this 
-communication of all the benefits arising from this union to the Lord Jesus — that 
-as Christ was priest, prophet, and king; so we also by him are, after a sort, priests, 
-prophets, and kings; for being made one with him, we are thereby possessed of all 
-things that are his. 
+(3.) The sons of God imitate God in his love and goodness to all men. Our Saviour amplifies this excellent property of God: "he causeth his sun to shine on the good and the bad."
 
+And thence he concludeth, "be ye perfect as your heavenly Father is perfect." Goodness to bad men, is as it were the perfection of all. Oh! my soul, canst thou imitate God in this? Consider how thy Father bears it, though the wicked provoke him day by day, yet for all that he doth not quickly revenge. God seeth all; and for all that, he doth not make the earth presently to gape and devour us: he puts not out the glorious light of the sun, he doth not dissolve the work of creation, he doth not for man's sin presently blast everything into dust: what an excellent pattern is this for thee to write after! Canst thou forgive thy enemies? do well to them that do evil to thee? This is a sure sign of grace and sonship. It is storied of some heathens, who beating a Christian almost to death, asked him, "What great matter did Christ ever do for him?" "Even this," said the Christian, "that I can forgive you, though you use me thus." Here was a child of God indeed! It is a sweet resemblance of our Father, and of our Saviour Jesus Christ, to "love our enemies, to bless them that curse us, to do good unto them that hate us, to pray for them that despitefully use us, and persecute us." Oh! my soul, look to this, consult this ground of hope; if this law be written in thy heart, write it down amongst the evidences that thou art God's son, yea, that even unto thee a Son is given.
 
+To review the grounds: — What! is a child born to me? and a Son given to me? What! am I new born? am I indeed God's son or daughter? Do I upon search find in my soul new desires, new comforts, new contentments? Are my words, my works, and affections, and conversation, new? Is there in me a new nature, a new principle? Hath the Spirit given me a new power, a seed of spiritual life, which I had not before? Do I upon search find that I fear God, and love God, and imitate God in his love and goodness towards all men? Can I really forgive an enemy, and according to my ability do good unto them that do evil unto me? Why should I not then confidently and comfortably hope, that I have my interest in the birth of Christ, in the blessed incarnation and conception of Jesus Christ? Away, all despair and dejection. If these be my grounds of hope, it is mine to hold up my head, and heart, and hands, and all with cheerfullness and confidence, and to say with the spouse, "I am my beloved's, and my beloved is mine."
 
-Sect. V.-Of the Birth of Christ 
 
+### Section 5: Of Believing in Jesus in that respect
 
+Let us believe in Jesus, carrying on the great work of our great salvation at his first coming or incarnation. I know many staggerings are oft in Christians, "What! is it likely that Christ should be incarnate for me? that God should do such a thing, for such a sinful abominable wretch as I am?" Ah ! poor soul, put thy property in Christ's incarnation out of dispute, that thou mayest be able to say, "As God was manifest in the flesh, and I may not doubt it; so God is manifest in me, and I dare not deny it."
 
-The birth of Christ now follows. A thing so wonderful, that it was given for a sign 
-unto believers seven hundred and forty years before it was accomplished: 
-"Therefore the Lord himself shall give a sign; behold a virgin shall conceive and 
-hear a son." But come a little nearer; let us go to Bethlehem, as the shepherds said, 
-and see this thing which is come to pass ! If we step but one step into his lodging, 
+To help the soul in this, I shall, 1. propose the hinderances of faith.
 
+2. The helps of faith in this respect.
 
+3. The manner how to act our faith.
 
-heaven's wonder is before our eyes: now look upon Jesus! look on him as in 
-fullness of time he carried on the great work of our salvation. Here you may read 
-the meaning of Adam's covenant, Abraham's promise, Moses' revelation, David's 
-succession; these were but veils, but now shall we draw aside the curtains. Come, 
-take a view of the truth itself. What a strange birth is this ! Look on the babe, there 
-is no cradle to rock him, no nurse to lull him, no linens to swaddle him, scarce a 
-little food to nourish him. Look on the mother; there's no mid wives' help, no 
-downy pillows, no linen hangings, scarce a little straw where she is brought a-bed. 
-Look on Joseph, his supposed father; he rather begs than gives a blessing; poor 
-carpenter! that makes them a chamber of an ox-stall. Mary must bear a Son; an 
-angel tells her, the Holy Ghost overshadows her; the days are accomplished, and 
-she is delivered. 
+4. The encouragements to bring on the soul to believe its part in the blessed incarnation of Jesus Christ.
 
+For the first, there are but three things that can hinder faith; (1.) The exceeding unworthiness of the soul; and to this purpose are those complaints, What! Christ incarnate for me? for such a dead dog as I am? I am less than the least of all God's mercies; I am fitter for hell and devils, than for union and communion with God and Christ; I dare not, I cannot believe."
 
+(2.) The infinite exactness of divine justice, which must be satisfied. A soul deeply considering of this, startles, and cries, Oh! what will become of my soul? One of the least sins that I stand guilty of, deserves death, and eternal wrath: the wages of sin is death; and I cannot satisfy. Though I have trespassed many millions of talents, I have not one mite to pay. Oh! then how should I believe? What thoughts can I entertain of God's mercy and love to me? God's law condemns me, my own conscience accuseth me, and justice will have its due.
 
-No sooner was Christ born, but righteousness looked down from heaven; she cast 
-her eye upon earth, and seeing truth freshly spring there, she looked and looked 
-again: certainly it was a sight to draw all the eyes of heaven to it. It is said of the 
-angels, that they "desired" to look into these things. They looked wishfully at 
-them, as if they would look through them. No question but righteousness looked as 
-narrowly and piercingly as the angels. Some observe, that the Hebrew word, "she 
-looked down," signifies, that she beat out a window, so desirous was righteousness 
+(3.) The want of a mediator, or some suitable person which may stand between the sinner and God. If on my part there be unworthiness, and on God's part severe justice; and withal I see no mediator, which I may go unto, before I deal with the infinite glory of God himself; how should I but despair, and cry out. Oh wretched man that I am! Oh that I never had been! I cannot believe; there is no room for faith in this case.
 
+2. The helps of faith, in this sad condition, are these:
 
+(1.) A consideration that God is pleased to overlook the unworthiness of his poor creatures. This we see plain in the very act of his incarnation; himself disdains not to be as his poor creatures, to wear their flesh, to take upon him human nature; and in all things to become like unto man, sin only excepted.
 
-to behold the sight of Christ born, that she beats out a window in heaven. Before 
-this time, she would not so much as look down towards the earth: righteousness 
-had no prospect, no window open, this way. But now the case is altered: no sooner 
-doth our vine bud upon the earth, but she is willing to condescend, and so willing, 
-that she breaks a window through the walls of heaven to look down: and no 
-marvel; for what could righteousness desire to see and satisfy herself in, that was 
-not to be seen in Jesus Christ? He was all-righteous, there was not the least spot of 
-sin in him: his birth was clean, his life was holy, and his death was innocent. Both 
-his soul and body were without all sin; both his spirit and his mouth were without 
-all guile: whatsoever satisfaction righteousness would have, she might have it in 
-him. "Lay judgment to the line, and righteousness to the balance," and there is 
-nothing in Jesus but straightness for the line, and full weight for the balance. 
+(2.) A consideration that God satisfies justice, by setting up Christ, who is justice itself.
 
+Now was it that mercy and truth met together, and righteousness and peace kissed each other; now was it that free grace and merit, that fullness and nothingness, were made one; now was it that truth ran to mercy, and embraced her; and righteousness to peace, and kissed her; in Christ they met, yea, in him was the infinite exactness of God's justice satisfied.
 
+(3.) A consideration that God hath set up Christ as a Mediator; that he was incarnate in order to reconciliation, and salvation of souls; and but for the accomplishment of this design, Christ had never been incarnate. The very end of his uniting flesh unto him, was in order to the reconciliation of us poor souls. Alas! we had sinned, and by sin deserved everlasting damnation; but to save us, and to satisfy himself, God takes our nature and joins it to his Son, and calls that Christ a Saviour. This is the gospel notion of Christ; for what is Christ but God himself in our nature, transacting our peace? In this Christ is fullness, and righteousness, and love, and bowels to receive the first acts of our faith; and to have immediate union and communion with us. Indeed we pitch our faith immediately on God himself; yet at last we come to him, and our faith lives in God, as one faith, before it is aware, through the intervention of that person, which is God himself, only called by another name — the Lord Jesus Christ: and these are the helps of faith, in reference to our unworthiness, God's justice, and the want of a Mediator betwixt God and us.
 
-For the meeting and agreement of all God's attributes as the effect of this, the verse 
-before tells us, that "mercy and truth are met together, righteousness and peace 
-have kissed each other." — Many means were made before Christ's time for this 
-blessed meeting; but it would not be: "Sacrifice and burnt-offering thou wouldest 
-not"; these means were not prevalent enough to cause it. Where stuck it? you will 
-say: surely it was not long of mercy, she was easy to be entreated: she looked up to 
-heaven, but righteousness would not look down; and indeed here was the business: 
+3. The manner how to act our faith on Christ incarnate, is this: (1.) Faith must directly go to Christ. We find indeed some particular promises of this and that grace; but the promises are not given without Christ: no, first Christ, and then all other things. "Incline your ears, and come unto me": Come unto Christ, and then "I will make an everlasting covenant," (which contains all the promises) "even the sure mercies of David." As in marriage, the woman first consents to have the man, and then all the benefits that follow; so the soul by faith first pitcheth upon Christ, and then on the privileges that flow from Christ. Say, dost thou want any temporal blessing; suppose it be the payment of debts, thy daily bread, health; look through the scripture for promises of these things, and let thy faith act thus, "If God hath given me Christ, the greatest blessing, then certainly he will give me all these things, so far as they may be for my good. In the twenty-third Psalm we find a bundle of promises; but he begins, "The Lord is my shepherd, therefore I shall not want." The believing patriarchs through faith subdued kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions, did wonders in the world; but what did they chiefly look to in this their faith?
 
+Surely to the promise to come, and to that better thing, Christ himself: and therefore the apostle concludes, "having such a cloud of witnesses, that thus lived and died by faith, let us look unto Jesus, the author and finisher of our faith."
 
+(2.) Faith must directly go to Christ as God in our flesh. Some think it a carnal apprehension of Jesus Christ, to know him as in flesh: I confess, to know him only so; to consider Jesus no other way but as having flesh, is no better than a carnal apprehension; but to consider Christ as God in flesh, and to consider that flesh as acted by God, and filled with God, is a true and spiritual apprehension of Jesus Christ; and hither is faith to be directed immediately. Suppose a case of danger by some enemies, and I find a promise of protection from my enemies; I look on that: but in the first place thus I argue. If the Lord hath given me Christ, (God in the flesh) to save me from, hell, then much more will he save me from these fleshly enemies.
 
-righteousness must and will have satisfaction; either some satisfaction for sin must 
-be given to God, or she will never meet more; better that all the men in the world 
-were damned, than that the righteousness of God should be unrighteous. But our 
-Saviour is born; and this birth occasions a gracious meeting of the attributes: such 
-an attractive is this birth, that all meet there; indeed they cannot but meet in him, 
-Christ is mercy, and Christ is truth, and Christ is righteousness, and Christ is peace. 
+(3.) Faith must go and lie at the feet of Christ; faith must fasten itself on this God in our flesh. Some go to Christ, and look on Jesus with loose and transient glances, they have but coarse and common apprehensions of Jesus Christ. Oh ! but we should come to Christ with solemn and serious spirits; we should look on Jesus piercingly, till we see him as God is in him, and as such a person thus and thus qualified from heaven; we should labor to apprehend what is the riches of this glorious mystery of Christ's incarnation; we should dive into the depths of his glorious actings; we should study this mystery above all other studies. Nothing is more pleasant, and nothing is more deep. That one person should be God and man; that blessedness should be made a curse; that heaven should be let down into hell; that the God of the world should shut himself up, as it were, in a body; that the invisible God should be made visible to sense; that God should make our nature, which had sinned against him, to be the great ordinance of reconciling us unto himself; that God should take our flesh, and dwell in it with all his fullness, and make that flesh more glorious than the angels, and advance that flesh into oneness with himself, and through that flesh open all his rich discoveries of love and free grace unto the sons of men; that this God-man should be our Saviour, Redeemer, Reconciler, Father, Friend; Oh what mysteries are these! No wonder if when Christ was born, the apostles cry, "We saw his glory , as of the only begotten Son of God"; noting, that at the first sight of him, so much glory sparkled from him as could appear from none, but a God walking up and down the world. Oh ! my soul, let not such a treasury be unlooked into. Set faith on work with a redoubled strength. Surely we live not like men under this great design, if our eye of faith be not firmly and steadfastly set on this. Oh, that we were but acquainted with these lively discoveries ! how blessedly might we live by the faith of the Son of God, who loved us, and gave himself for us.
 
-1. Christ is mercy. Thus Zacharias prophesied; that through the tender mercy of our 
-God the day-spring (or branch) from on high hath visited us: and God, the Father 
-of Christ, is called the Father of mercies; as if mercy were his Son, who had no 
-other Son but his dearly beloved Son, in whom he is well pleased. 
+(4.) Faith must look principally to the end of Christ, as God coming in the flesh.
 
+Now what was the design of Christ in this? The apostle answers, Rom. viii. 3, "God sent his Son in the likeness of sinful flesh, to condemn sin in the flesh," i.e. God the Father sent into the world his only begotten Son, to abolish in the first place original sin. Mark these two words: he condemned sin in the flesh. The first word condemned, is, by a metonymy, put for that which follows condemnation, namely, for the abolishing of sin; as condemned persons use to be cut off and to be taken out of the world, that they may be no more; so Christ hath condemned or abolished this sin. By the second word, in the flesh, is meant the human nature which Christ assumed. He abolished sin altogether in his own nature: and that flesh of his being perfectly holy, and the holiness of it being imputed unto us, it takes away our guilt in respect of the impureness of our nature also. Christ had not the least spot of original sin; and if we are Christ's, then is the sin in some measure taken out of their hearts.
 
+But howsoever the filth of this sin may remain in part, yet the guilt is removed: in this respect the purity of Christ's human nature is no less reckoned to us for the curing of our defiled nature, than the sufferings of Christ are to us, for the remission of our actual sins. O my soul, look to this end of Christ as
 
-2. Christ is truth. "I am the way, and the truth, and the life"; that truth, in whom is 
-accomplished whatsoever was prefigured of the Messiah. And this is his name, 
-"The Lord, The Lord God, abundant in goodness and truth." - "He is a God of 
-truth," said Moses; — "plenteous in mercy and truth," said David; — "full 
-of grace and truth," said John. He is truth by name, and truth by nature, and truth 
-by office. 
+God in the flesh. If thou consider him as made of flesh and blood, think withal, that his meaning was to condemn sin in our flesh. There flows from the holiness of Christ's nature such a power as countermands the power of our original sin, and acquits and discharges from the condemnation of the same sin. Not only the death and life, but also the conception and birth, of Christ, hath its influence in our justification.
 
+4. The encouragements to bring our souls to believe on Christ incarnate, we may draw —
 
+(1.) From the excellency of this object. This incarnation of Christ is the foundation of all other actings of God for us; it is the very hinge on which all turn; it is the cabinet wherein all the designs of God do lie, redemption, justification, glorification, all are wrapt up in it; it is the highest pitch of the declaration of God's wisdom, goodness, power, and glory. Oh, what a sweet object of faith is this ! I know there are some other things in Christ, which are most proper for some acts of faith; as, Christ dying is most proper for the pardon of actual sin; and Christ rising from the dead, is most proper for the evidencing of our justification; but the strongest and purest acts of faith are those which take in Christ as such a person, laid out in all this glory. Christ's incarnation is more general than Christ's passion or Christ's resurrection, and, as some would have it, includes all. Christ's incarnation holds forth Christ in his fullness, and so is the complete subject of our faith.
 
-3. Christ is righteousness. "This is his name whereby he shall be called, The Lord 
-our righteousness." 
+Come, poor soul, thy eyes are running to and fro the world, to find comfort and happiness on earth: O cast thy eyes back, and see heaven and earth in one object! Look fixedly on Christ incarnate ! There is more in this than in all the variety of this world, or of that world to come. Here is an object of faith, and love, and joy, and delight; here is a compendium of all glories.
 
+(2.) From the suitableness of this object. Christ incarnate is most suitable for our faith to act upon. We are indeed to believe on God, but we cannot come to God but in and through Christ. Alas ! God is offended, and therefore we cannot find ground immediately to go to God.
 
+Hence you heard, that faith must directly go to Christ as God in our flesh. O the infinite condescension of God in Christ ! God takes up our nature, and joins it to himself as one person, and lays that before our faith; so that here is God, and God suited to the particular state of the sinner.
 
-4. Christ is peace. "This is his name whereby he is called; Wonderful, Counsellor, 
-the mighty God, the everlasting Father, the Prince of Peace." And according to his 
-type, Melchisedec, as he was King of righteousness, so also he was King of Salem, 
-which is King of peace. Thus Christ is mercy, and Christ is truth, and Christ is 
-righteousness, and Christ is peace. Now where should all these meet, but in him 
-who is them all? Surely there they meet, and at the meeting they all ran first and 
-kissed the Son; and that done, truth ran to mercy, and embraced her; and 
-righteousness to peace, and kissed her: they that had so long been parted, now they 
-meet, and are made friends again. O the blessed effects of this birth of Christ! It is 
-Christ that reconciled them, and reconciled us to them. He reconciled all things, 
-saith the apostle, "whether they be things in earth, or things in heaven." Now is 
-heaven at peace with itself, and heaven and earth at peace one with another; and 
-that which glues all, and makes the peace, is this birth of Christ. 
+Now with what boldness may our souls draw nigh to God! Why art thou strange, poor soul? Why standest thou afar off, as if it were death to draw nigh? Of whom art thou afraid? Is God come down amongst men, and canst thou not see him, lest thou die and perish? Oh, look once more, and be not discouraged ! See, God is not come down in fire. God is not descended in the armour of justice and everlasting burnings; no, he is clothed with the garments of flesh, he desires to converse with thee after thy own form, he is come down to beseech thee to see with thine own eyes thy eternal happiness. Oh, the wonder of heaven! It is the cry of some poor souls, O that I might see God! Lo here God is come down in the likeness of man, he walks in our own shape amongst us. It is the cry of others, O that I might have my heart united to God ! Why, he is come down on this very purpose, and hath united our nature unto himself. Surely God hath left all the world without excuse: O that ever there should be an heart of unbelief, after these sensible demonstrations of divine glory and love ! Why wilt thou now stand off? Tell me, what wouldst thou have God do more? Can he manifest himself in a more suitable way to thy condition? Is there anything below flesh, wherein the great God can humble himself for thy good? Come, think of another and a better way, or else for ever believe. Methinks it is sad to see believers shy in their approaches to God, or doubtful of their acceptance with God, when God himself stoops first, and is so in love with our acquaintance, that he will be of the same nature that we are. Oh! let not such a rock of strength be slighted, but every day entertain precious thoughts of Christ being incarnate: inure thy heart to believing on this Jesus, as he carries on the great work of thy salvation at his first coming.
 
+(3.) From the offers of this blessed object to our souls. As Christ is come in our nature to satisfy, so he comes in the gospel freely and fully to offer the terms of love; therein are set out the most alluring expressions that possibly can be; therein is set out, that this incarnation of Christ was God's own acting, out of his own love, and grace, and glory; therein is set out the birth, and life, and death of Christ; and this he could not do but he must be incarnate: God takes our flesh, and he useth that as an instrument whereby to act; he was flesh to suffer, as he was spirit to satisfy, for our sins. Methinks I might challenge unbelief, and bid it come forth; let it appear, if it dare, before this consideration: what, is not God incarnate, enough to satisfy thy conscience? Come nigh, hear the voice of Christ inviting: "Come unto me, all ye that are weary and heavy laden" with sin. And, Oh ! let these rich and glorious openings of the heart of Christ overcome thy heart. What if God should have done no more than this ! Had he only looked down from heaven, and hearing sinners cry out, O woe, woe unto us forever! we have broken God's law, incurred the penalty, damned our own souls; O who should deliver us? Who will save us from the wrath to come? In this case, if God hearing sinners thus crying out; had he, I say, only looked down and told them, I will pardon your sins ; I made the law, and will dispense with it; fear not, I have the keys of life and death: what soul would not have been raised up, even from the bottom of hell at this very voice? I
 
+know a poor soul would have scrupled at this, and have said. What then should become of infinite justice? But, to remove all controversies, God hath not only spoken from heaven, but he himself is come down from heaven to speak unto us. O see this miracle of mercy! God is come down in flesh, he is come down as a price; he himself will pay himself according to all the demands of his justice; and all this done, now he offers and tenders himself to thy soul.
 
-Sect. VI. — Of some Consequents of Christ's Birth 
+O my soul, why shouldst thou fear to cast thyself upon thy God? I know thy objection of vileness: notwithstanding all thy vileness, God himself offers himself to lead thee by the hand, and to remove all doubts ; God himself hath put a price sufficient in the hands of justice; or if yet thou fearest to come to God, why come then to thy own flesh; go to Christ, as having thy own nature; it is he that calls thee. What can be said more to draw on thy trembling heart! If God himself, and God so fitted and qualified, as I may say, will not allure, must not men die and perish in unbelief? What! O my soul, is God come down so low to thee? and dost thou now stand questioning whether thou shouldst go or come to him? What is this but to say, All that God is, or does, or says, is too little to persuade me to faith? I cannot tell; but one would think that unbelief should be strangled, quite slain, upon this consideration. All this, O my soul, thou hearest in the gospel: there is Christ incarnate set forth to the life; there is Christ suing thy love, and offering himself as thy beloved in thy own nature; there it is written, that God is come down in flesh, with an olive branch of eternal peace in his hand, and bids you all be witness he is not come to destroy, but to save. Oh that this encouragement might be of force to improve Christ's glorious design to the supplying of all thy wants, and to the making up of all thy losses ! Believe, Oh, believe thy part in Christ incarnate.
 
 
+### Section 6: Of Loving Jesus in that respect
 
-Some consequents of the birth of Christ may be touched, till he was a child of 
-twelve years old. 
+Let us love Jesus, as carrying on the great work of our salvation at his first coming or incarnation. O my soul, canst thou possibly light on any object more attractive than the incarnation of Jesus Christ? If love be the loadstone of love, what an attractive is this before thee ! Methinks the very sight of Christ incarnate is enough to ravish thee with the apprehension of his infinite goodness. See how he calls out, or, as it were, draws out the soul to union, vision, and participation of his glory! O come and yield thyself up unto him: give him thyself, and conform all thy affections and actions to his will. O love him, not with a divided, but with all thy heart.
 
+But to excite this love, I shall only propound the object, which will be argument enough. Love causeth love: now as God's first love to man was in making man like himself, so his second great love was in making himself like to man. Stay then a while upon this love; for I take it, this is the greater love of the two. The evangelist expresseth it thus, "God so loved the world, that he gave his only begotten Son"; he gave him to be incarnate, to be made flesh, and to suffer death; but the extension of his love lies in that expression, he so loved. So ! how? why, so fully, so freely, as no tongue can tell, no heart can think.
 
+It is usually said, that it is a greater love of God to save a soul, than to make a world; and I think it was a greater love of God to take our nature, than simply to save our souls: for a king to dispense with the law, and by his own prerogative to save a murderer from the gallows, is not such an act of love and mercy as to take the murderer's clothes, and to wear them as his richest livery? Why, God in taking our nature, hath done thus, and more than thus: he would not save us by his mere prerogative, but he takes our clothes, our flesh, and in that flesh he personates us, and in that flesh he will die for us, that we might not die, but live through him for evermore. Surely this was love, that God will be no more God, as it were, simply, but he will take up another nature, rather than the brightness of his glory shall undo our souls.
 
-I. When he was but eight days old, he was circumcised, and named Jesus. In this 
-early humiliation he plainly discovered the riches of his grace: now he sheds his 
-blood in drops, and thereby gives an earnest of those rivers which he afterwards 
-poured out for the cleansing of our nature, and extinguishing the wrath of God; and 
-for a further discovery of his grace, at this time his name is given him, which was 
-Jesus. This is the name which we should engrave on our hearts, rest our faith on, 
-and place our help in, and love with the overflowings of charity, joy, and 
-adoration; above all things, we had need of Jesus, a Saviour for our souls, both 
-from our sins, and from The everlasting destruction which sin will otherwise bring 
-upon our souls. Hence this name Jesus, and this sign circumcision, are joined 
-together; for by the effusion of his blood he was to be our Jesus, our Saviour: 
-"Without shedding of blood is no remission," no salvation. Circumcision was the 
-seal, and now was it that our Jesus was under God's great seal to take his office: 
-"Him hath God the Father sealed," John vi. 27. It is his office and his very 
-profession to save, that all may repair unto him to that end: "Come unto me, all ye 
-that are weary"; "and him that cometh unto me, I will in no wise cast out." 
+It will not be amiss (whilst I am endeavoring to draw a line of God's love in Christ from first to last in saving souls) that here we look back a little, and summarily contract the passages of love from that eternity before all worlds unto this present.
 
+1 . God had an eternal design to discover his infinite love to some besides himself. Oh, the wonder of this! Was there any necessity of such a discovery? Though God was one, and in that respect alone, yet God was not solitary; in that eternity within his own essence there were three divine Persons, and betwixt them there was a blessed communication of love. Though in that eternity there was no creature to whom these three persons could communicate their love; yet was there a glorious communication and breaking out of love from one to another. Before there was a world, the Father, Son, and Holy Ghost did infinitely glorify themselves, John xvii.
 
+5. What need then was there of the discovery of God's love to any one besides himself? only thus was the pleasure of God; "Even so, Father, for so it seemed good in thy sight." Such was the love of God, that it would not contain itself within that infinite ocean of himself, but it would needs have rivers and channels, into which it might run and overflow.
 
-2. When he was forty days old, "he was brought to Jerusalem, and presented to the 
-Lord; as it is written in the law of the Lord, Every male that openeth the womb 
-shall be called holy to the Lord." O wonder! there was no impurity in the Son of 
-God, and yet he is first circumcised; and then he is brought, and offered to the 
-Lord. He that came to be sin for us, would in our persons be legally unclean, that 
-by satisfying the law, he might take away our uncleanness. He that was above the 
-law, would come under the law, that he might free us from the law. We are all born 
-sinners; but O the unspeakable mercies of our Jesus, that provides a remedy as 
-early as our sin: first, he is conceived; and then he is born, to sanctify our 
-conceptions and our births: and after his birth, he is first circumcised, and then he 
-is presented to the Lord; that by two holy acts, that which was naturally unholy 
-might be hallowed unto God. Christ hath not left our very infancy without redress, 
-but by himself thus offered he cleanseth us presently from our filthiness. Now is 
-Christ brought in his mother's arms to his own house, the temple; and as man, he is 
-presented to himself as God. You will say. What is this to me, or to my soul? O 
-yes! Jerusalem is now everywhere; there is no church-assembly, no Christian heart, 
-which is not a temple of the living God; and there is no temple of God, wherein 
-Christ is not presented to his Father. Thus we have the benefit of Christ's fulfilling 
-the law of righteousness: "God sent his Son, made of a woman, made under the 
+2. God, in prosecution of his design, creates a world of creatures; some rational, and only capable of love; others irrational, and serviceable to that one creature, which he makes the top of the whole creation; then it was that he set one man, Adam, as a common person, to represent the rest; to him he gives abundance of glorious qualifications, and him he sets over all the work of his hands. If we should view the excellency of this creature, either in the outward or inner man, who would not wonder? His body had its excellency, which made the psalmist say, "I will praise thee, for I am fearfully and wonderfully made, and curiously wrought in the lowest parts of the earth," Psalm cxxxix.
 
+14. It is a speech borrowed from those who work arras-work: the body of man is a piece of curious tapestry, consisting of skin, bones, muscles, sinews, and the like. What a goodly thing the body of man was before the fall, may be guessed from the excellent gifts found in the bodies of some men since the fall. If all these were but joined in one, as certainly they were in Adam, what a rare body would such a one be? But what was this body in comparison of that soul? The soul was it that was especially made after the image of God: the soul was it that was tempered in the same mortar with the heavenly spirits: the soul was God's sparkle, a beam of his divine glory, a ray or emanation of God himself: as man was the principal part of the creation, so the soul was the principal part of man. Here was it that God's love and glory were centred. Here was it that God's love fixed itself in a special manner, whence flowed that communion of God with Adam, and that familiarity of Adam with God.
 
+3. Within a while, this man, the object of God's love, fell away from God, and as he fell, so all that were in him, even the whole world, fell together with him; and hereupon God's face was hid. Not a sight of him but in flaming fire, ready to seize on the sons of men.
 
-law, that he might redeem them that were under the law, that we might receive the 
-adoption of sons." 
+And yet God's love would not thus leave the object: he had yet a further reach of love, and out of this dark cloud he lets fall some glimpses of another discovery: these glimpses were sweet; but, alas! they were so dark that very few could make any comfortable application of them; but by degrees God hints it out more, he points it out by types and shadows, he makes some model of it by outward ceremonies, and yet so dark, that in four thousand years men were but guessing and hoping through promises for a manifestation of God's love. This is the meaning of the apostle, who tells us of the mystery that was hid from ages and from generations, but now is made manifest to his saints. This love of God was hid in the breast of God from the sons of men for an age, so that they knew not what to make of this great design: I speak of the generality of men; for in respect of some particulars, the Lord made his love clear to them; and still the nearer to Christ, the clearer and clearer was the covenant of grace.
 
+4. At last, God fully opens himself; in the fullness of time, God takes the flesh of those poor sinners which he had so loved, and joins it to himself, and calls it Christ, a Saviour.
 
+Now was it that God descended, and lay in the womb of a virgin;
 
-3. When he was yet under one year old, as some, or about two, as others, he fled 
-into Egypt. As there was no room for him in Bethlehem, so now there is no room 
-for him in all Judea. No sooner he came to his own, but he must fly from them: 
-what a wonder is this ! Could not Christ have quit himself from Herod a thousand 
-ways? What could an arm of flesh have done against the God of spirits? but hereby 
-he taught us to bear the yoke even in our youth: thus would he suffer, that he might 
-sanctify to us our earthly afflictions. What a change is here! Israel, the first-born of 
-God, flies out of Egypt into Judea, and Christ, the first-born of all creatures, flies 
-out of Judea into Egypt. Now is Egypt become the sanctuary, and Judea the 
-inquisition-house, of the Son of God. Surely he that is everywhere the same, knows 
-how to make all places alike to his. He knows how to preserve Daniel in the lion's 
-den, the three children in the fiery furnace, Jonah in the whale's belly, and Christ 
-in the midst of Egypt. 
+now was it that he is born as we are born; now was it that he joined our flesh so nigh to himself, as that there is a communication of properties betwixt them both; that being attributed to God which is proper to flesh, as to be born, to suffer and that being attributed to flesh which is proper to God, as to create, to redeem. Who can choose but wonder, that God should be made flesh, and dwell amongst us? that flesh should infinitely provoke God, and yet God, in the same flesh, should be infinitely pleased? that God should veil himself, and darken his glory with our flesh, and yet unveil at the same time the deepest and darkest of his designs in a comfortable way to our souls? O my soul! how shouldst thou contain thyself within thyself? how shouldst thou but leap out of thyself, if I may so speak, as one that is lost in the admiration of this love? Surely God never manifested himself in such a strain of love as this before.
 
+Well, hitherto we have followed the passages of his love, and now we see it at full- sea. If anything will beget our love to God, surely Christ incarnate will do it. Come then, O my soul, I cannot but call on thee to love thy Jesus; and to provoke thy love, fix thy eye on this lovely object. Draw yet a little nearer; consider what an heart of love is in this design: God is in thy own nature, to take upon him all the miseries of thy nature.
 
+Oh! my heart, art thou yet cold in thy love to Jesus Christ? Canst thou love him but a little, who hath loved thee so much? How should I then but complain of thee to Christ! and for thy sake beg hard of God: O thou sweet Jesus, that clothest thyself with the clouds as with a garment, and now clothest thyself with the nature of a man; Oh! that nothing but thyself might be dear unto me, because it so pleased thee to vilify thyself for my sake.
 
-4. When he was now five years old, say some, an angel appears again in a dream to 
-Joseph, saying, "Arise, and take the young child and his mother, and return again 
-into the land of Israel, for they are dead which sought the young child's life." 
 
+### Section 7: Of Joying in Jesus in that respect
 
+Let us joy in Jesus, as carrying on the great work of our salvation for us at his incarnation. If it be so, that by our desire, and hope, and faith, and love, we have reached the object which our souls pant after, how should we but joy and delight therein? The end of our motion is to attain quiet and rest; now what is joy, but a sweet and delightful tranquillity of mind, resting in the fruition of good? What! hast thou in some measure attained the fruition of Christ, as God incarnate, in thy soul? It is then time to joy in Jesus; it is then time to keep a sabbath of thy thoughts, and to be quiet and calm in thy spirit.
 
-Herod, that took away the lives of all the infants in or about Bethlehem, is now 
-himself dead, and gone to his own place. O the wonderful dispensation of Christ in 
-concealing himself from men! All this while he carries himself as an infant; "take 
-the young child and his mother." He suppressed the manifestation and exercise of 
-that godhead whereto the infant nature was conjoined: as the birth of Christ, so the 
-infancy of Christ was exceedingly humble. O how should we magnify him, or 
-deject ourselves for him, who himself became thus humble for our sakes ! 
+But you will say, how should this be before we come to heaven? I answer, there is not indeed perfection of joy whilst we are here, because there is no perfection of union on this side heaven; but so far as union is, our joy must be. Examine the grounds of thy hope, and the actings of thy faith, and if thou art but satisfied in them, then lead up thy joy; here is matter for it to work upon: if thou canst rejoice in anything, rejoice in the Lord; and again I say, rejoice.
 
-5. When he was twelve years old, he, with his parents, goes up to Jerusalem, after 
-the custom of the feast. This pious act of his younger years intends to lead our first 
-years into timely devotion: but I shall not insist on that; I would rather observe him 
-"sitting in the midst of the temple, both hearing them and asking them questions." 
-He who, as God, gave them all the wisdom they had, doth now, as the Son of man, 
-hearken to the wisdom he had given them; and when he had heard, then he asks; 
-and after that, no doubt he answers: his very questions were instructions; for I 
-cannot think that he meant so much to learn, as to teach those doctors of Israel. 
-Surely these rabbins had never heard the voice of such a tutor; they could not but 
-see the very wisdom of God in this child; and therefore saith the text, "they all 
-wonder," or they were all astonished at his understanding and answers: their eyes 
-saw nothing but a child, but their ears heard the wonderful things of God's law. 
+Is there not cause? What is the meaning of the gospel of Christ? What is gospel, but good spell, or good tidings? And wherein lies the good tidings, according to its eminency? Is it not in the glorious incarnation of the Son of God? "Behold, I bring you a gospel," so it is in the original; or, "behold, I bring you good tidings of great joy, which shall be to all people; for unto you is born this day in the city of David, a Saviour, which is Christ the Lord." The birth of Christ is the comfort of comforts, and the sweetest balm that ever was. O my soul, what ails thee? Why art thou cast down and disquieted within me? Is it because thou art a sinner? Why, unto thee is born a Saviour; his name is Saviour, and therefore Saviour, because he will save his people from their sins. Come then, and bring out thy sins, and weigh them to the utmost aggravation, and take in every circumstance both of law and gospel, and set but this in the other scale, that unto thee is born a Saviour; surely all thy iniquities will seem lighter than vanity, yea, they will be as nothing in comparison thereof: "My soul doth magnify the Lord," said Mary, "and my spirit rejoiceth in God my Saviour." Her soul and her spirit within her rejoiced at this birth of Christ.
 
+There is cause that every soul and every spirit should rejoice, that hath any interest in this birth of Christ. O my soul, how shouldst thou but rejoice, if thou wilt consider these particulars:
 
+1. God himself is come down into the world. Because it was impossible for thee to come to him, he is come to thee. This consideration made the prophet cry out. "Rejoice greatly, O thou daughter of Zion, shout, O daughter of Jerusalem; behold thy King cometh unto thee": he is called a King, and therefore he is able; and he is thy King, and therefore he is willing: but in that thy King cometh unto thee, here is the marvelous love of God in Christ. Kings do not usually come to wait upon their subjects; it is well if poor subjects may come to them. Oh! but see the great King of heaven and earth, the King of kings, and Lord of lords, stooping, and bowing the heavens, come down to thee! Surely this is good tidings of great joy, and therefore rejoice greatly, O daughter of Zion!
 
-But why did ye not, O ye Jewish teachers, remember now the star and the sages, 
-the angels and the shepherds? why did ye not now bethink yourselves of Herod, 
-and of his inquiry, and of your answer, that in Bethlehem of Judea Christ should be 
-born? You cited the prophets, and why did you not mind that prophecy now, that 
-unto us a child is born, and "unto us a Son is given, and his name shall be called 
-Wonderful, Counsellor, the mighty God, the everlasting Father, the Prince of 
-Peace?" Fruitless is the wonder that endeth not in faith. No light is sufficient, 
-where the eyes are held through unbelief and prejudice. 
+2. God is come down in flesh. He hath laid aside, as it were, his own glory, whilst he converseth with thee. When God manifested himself on mount Sinai, he came down in thunder and lightning; and if now he had appeared in thunder and lightning, if now he had been guarded with an innumerable company of angels, all having their swords of justice drawn, well might poor souls have trembled, and have run into corners; for who could ever be able to endure his coming in this way? But God is come down in flesh, he hath made his appearance as a man, as one of us, and there is not in this regard the least distance betwixt him and us; surely this is fuel for joy to feed upon. O why should God come down so suitably, so lowly, as in our nature, if he would have thy poor soul to be afraid of him? Doth not this very design intend consolation to thy soul? O gather up thy spirit, anoint thy heart with the oil of gladness. See, God himself is come down in flesh to live amongst us ! he professeth he will have no other life but amongst the sons of men. See what a sweet way of familiarity and intercourse is made betwixt God and us.
 
-6. After this, from the twelfth to the thirtieth year of his age, we read nothing of the 
-acts of Christ, but that he went down with his parents unto Nazareth, and was 
-subject to them. As he went up to Jerusalem to worship God, so he goes down to 
-Nazareth to attend his particular calling. This is the meaning of those words, "and 
-he was subject to them." Christ's subjection to his parents extends to the profession 
-and exercise of his life. Certainly Christ was not all that time, from twelve to thirty 
-years, idle: as he was educated by his parents, so of his reputed father he learnt to 
-be a carpenter; this, I take it, is plain in these words, "Is not this the carpenter , the 
-Son of Mary?" 
+3. God hath taken on him our nature, that his godhead may flow out in all manner of sweetness upon our hearts. If God had come down in flesh, only to have been seen of us, it had been a wonderful condescension: "If I have found favour in thy eyes," said Moses, "shew me the way that I may know thee": but to come down in flesh, not only to be seen, but to dispatch the great business of our soul's salvation, here is comfort indeed: with what joy should we draw water out of this well of salvation.
 
+O my soul, thou art daily busy in eyeing this and that; but above all know, that the fullness of God lies in Christ incarnate, to be emptied upon thee. This was the meaning of Christ's taking upon him flesh, that through his flesh he might convey to thee whatsoever is in himself as God. As for instance, God in himself is good, and gracious, and powerful, and all-sufficient, and merciful, and what not? Now by his being in flesh, he conveys all this to thee. Observe this for thy eternal comfort; God in and through the flesh makes all his attributes and glory serviceable to thy soul.
 
+4. This discovering Christ incarnate is the first opening of all God's heart and glory unto the sons of men: and from this we may raise a world of comfort; for if God begins so gloriously, how will he end? If God be so full of love, as to come down in flesh now in this world, Oh what matter of hope is laid up before us, of what God will be to us in that world to come? If the glory of God be let out to our souls so fully at first, what glorious openings of all the glory of God will be let out to our souls at last? Christians! what do you think will God do with us, or bring us unto, when we shall be with him in heaven ! You see now he is manifested in flesh, and he hath laid out a world of glory in that: but the apostle tells us of another manifestation, for we "shall see him as he is"; he shall at last be manifest in himself: "Now we see through a glass darkly, but then face to face; now we know in part, but then we shall know even as we are known."
 
-Oh, the poverty, humility, severity, of Jesus ! It appears at this time especially, in 
-his laboring, working, hewing of wood, or the like. Here's a sharp reproof to all 
-those who spend their time in idleness, or without a particular calling. What! are 
-they wiser than Christ? Our Jesus would not by any means thus spend his time. 
+O my soul, weigh all these passages, and make an application of them to thyself; and then tell me if yet thou hast not matter enough to raise up thy heart, and fill it with joy unspeakable and full of glory. When the wise men saw but the star of Christ, they rejoiced with an exceeding great joy; how much more when they saw Christ himself? "Your father Abraham," said Christ to the Jews, "rejoiced to see my day, and he saw it, and was glad." He saw it indeed but afar off, with the eyes of faith; they before Christ had the promise, but we see the performance: how then should we rejoice! How glad shouldst thou be, O my soul, at the sight of Christ's incarnation? If the angels of God, yea, if the multitudes of angels, could sing for joy at his birth, "Glory to God in the highest, and on earth peace and good will towards men"; how much more shouldst thou, whom it concerns more than the angels, join with them in concert, and sing for joy this joyful song, of good will towards men? Awake, awake, O my soul, awake, awake, utter a song! tell over these passages, that God is come down into the world; that God is come down in flesh; in order to thy reconciliation; that God is come down in the likeness of man, that he may bring thee up into the likeness of God; and that all these are but the first openings of the grace, and goodness, and glory, of God in Christ unto thy soul: and Oh, what work will these make in thy soul, if the Spirit come in, who is the Comforter!
 
 
+### Section 8: Of Calling on Jesus as carrying on the great Work of our Salvation in
 
-But concerning this time of his youth, because in scripture there is so deep a 
-silence, I shall therefore pass it by. 
+his Birth
 
-Thus far have I propounded the object we are to look unto; it is Jesus, in his first 
-coming, or incarnation, whilst yet a child of twelve years old. Our next work is to 
-direct you in the art or mystery, how we are to look unto him in this respect. 
+Let us call on Jesus, or on God the Father in and through Jesus.
 
+Now this calling on Jesus contains prayer and praise.
 
+I. We must pray that all these transactions of Jesus at his first coming may be ours; and is not here encouragement for our prayers? This very point of Christ's incarnation opens a door of rich entrance into the presence of God: we may call it a blessed portal into heaven. This is that "new and living way which he hath consecrated for us through the veil, that is to say, his flesh." With what boldness may we now enter into the holiest, and draw near unto the throne of grace ! Why, Christ is incarnate, God is come down in the flesh; though his deity may confound us, if we should immediately and solely apply ourselves unto it, yet his humanity comforts our faint and feeble souls. God in his humility animates our souls to come unto him, and to seek of him whatsoever is needful for us. Go then to Christ; away, away, O my soul, to Jesus, or to God the Father in and through Jesus, and desire that the fruit, the benefit, of his conception, birth, and of the wonderful union of the two natures of Christ, may be all thine. What! dost thou hope in Jesus, and believe thy part in this incarnation of Christ? Why then, pray in hope, and pray in faith. What is prayer but the stream and river of faith, an issue of the desire of that which I joyfully believe? "Thou, O Lord God of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house, therefore hath thy servant found in his heart to pray this prayer unto thee."
 
-CHAP. II 
+2. We must praise. This was the special duty practised by all saints and angels at Christ's birth; "Blessed be the Lord God of Israel," said Zachary, "for he hath visited and redeemed his people." - And, "Glory to God in the highest," said the heavenly host: only one angel had before brought the news. "Unto you is born this day in the city of David, a Saviour, which is Christ the Lord"; but immediately after there were many to sing praises; not only six cherubims, as Isaiah saw; not only four and twenty elders, as John saw; but a multitude of angels, like armies, that by their hallelujahs gave glory to God. O my soul, do thou keep concert with those angels: O sing praises! sing praises. Never was the like case since the first creation; never was the wisdom, truth, justice, mercy, and goodness of God so manifest before. I shall never forget that last speech of a dying saint, "Blessed be God for Jesus Christ!" O my soul, living and dying, let this be thought on; What!
 
+Christ incarnate for me? Why "bless the Lord, O my soul, and all that is within me, bless his holy name."
 
 
-Sect. I. — Of Knowing Jesus as carrying on the great Work of our Salvation in his 
-Birth 
+### Section 9: Of Conforming to Jesus in that respect
 
+Let us conform to Jesus, in reference to this great transaction of his incarnation. Looking to Jesus is the cause of this; the sight of God will make us like to God, and the sight of Christ will make us like to Christ; for as a looking-glass cannot be exposed to the sun, but it will shine like the same, so God receives none to contemplate his face, but he transforms them into his own likeness; and Christ hath none that dive into these depths of his glorious incarnation, but they carry along with them sweet impressions of an abiding and transforming nature. Come then, let us once more look on Jesus in his incarnation, that we may conform to Jesus in that respect.
 
+But wherein lies this conformity to Jesus? I answer, in these and the like particulars:
 
-What looking comprehends, you have heard before: and that we may have an 
-inward experimental look on him whom our souls pant after, let us practice all 
-these particulars. 
+1. Christ was conceived in Mary by the Holy Ghost; so must Christ be conceived in us by the same Holy Ghost. To this purpose is the seed of the word cast in, and principles of grace are by the Holy Ghost infused; "he hath begotten us by the word," saith the apostle, James i.
 
+18. God hath appointed no other means to convey supernatural life, but after this manner. Where no preaching is, there is a worse judgment than that of Egypt, where there was one dead in every family. By the word and spirit the seeds of all grace are sown in the heart, and the heart closing with it, Christ is conceived in the heart.
 
+2. Christ was sanctified in the Virgin's womb; so must we be sanctified in ourselves: "Be ye holy as I am holy." Souls regenerate must be sanctified: "Everyman," saith the apostle, "that hath this hope in him, purifieth himself, even as he is pure." I know our hearts are, as it were, seas of corruptions, yet we must daily cleanse them. Christ could not have been a Saviour for us, unless first he had been sanctified; neither can we be fit members unto him, unless we be purged from our sins, and sanctified by his Spirit. To this purpose is that of the apostle; "I beseech you, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God." In the Old Testament they did kill beasts, presenting them unto the Lord; now we are to mortify the flesh with the affections and lusts; all our inordinate passions, all our evil affections of anger, love, joy, hatred, are to be crucified, and all that is ours must be given up to God: there must be no love in us but of God, and in reference to God; no joy in us, but in God, and in reference to God; no fear in us, but of God, and in reference to God; and thus of all other the like passions. O that we would look to Jesus, and be like unto Jesus in this thing! if there be any honour, any happiness, it is in this: we are not fit for any holy duty, or any religious approach unto God, without sanctification; "This is the will of God," saith the apostle, "even your sanctification." All the commands of God tend to this; and for the comfort of us Christians, we have, under the gospel, promises of sanctification to be in a larger measure made out unto us: "In that day there shall be upon the bells of the horses, Holiness unto the Lord"; — yea, "every pot in Jerusalem and Judah shall be holiness unto the Lord." Every vessel under Christ and the gospel must have written upon it "Holiness to the Lord": thus our spiritual services, figured by the ancient ceremonial services of the Jewish dispensation, are set out by a larger measure of holiness than was in former times.
 
-1. Let us know Jesus carrying on the great work of our salvation in his incarnation. 
-Let us learn what he did for us when he came amongst us. There is not one passage 
-in his first appearing, but it is of mighty concernment unto us. Is it possible that the 
-great God of heaven and earth should so infinitely condescend, but on some great 
-design? And what design could there be but only his glory and the creatures ' good? 
-O my soul! if thou hast any interest in Christ, all this concerns thee: the Lord Jesus, 
-in these very transactions, had an eye to thee; he was incarnate for thee, he was 
-conceived and born for thee. Look not on the bare history of things, for that is 
-unprofitable; the main duty is eyeing the end, the meaning of Christ, and especially 
-as it relates to thyself. Alas ! what comfort were it to a poor prisoner, if he should 
-hear that the king, of his mere grace, visited all the prisoners in this or that 
-dungeon, and that he made a jail-delivery, and set all free, but never came near the 
-place where he lies bound in irons? or suppose he gives a visit to that very man, 
-and offers him grace and pardon, if he will but accept of it; and, because of his 
-waywardness, persuades, entreats, commands him to come out and take his liberty; 
-and yet if he will not regard or apply it to himself, what comfort can he have? what 
+3. Christ the Son of man, is by nature the son of God; so we, poor sons of men, must, by grace, become the sons of God, even of the same God and Father of our Lord Jesus Christ: "For this end God sent his own Son, made of a woman, that we might receive the adoption of sons." - "Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ." This intimates, that what relation Christ hath unto the Father by nature, we should have the same by grace: by nature, "he is the only begotten Son of the Father"; — "and as many as received him," saith the apostle John, "to them gave he power to become the sons of God, even to them that believe on his name."
 
+4. Christ the Son of God was yet the son of man: there was in him a duplicity of natures really distinguished; and in this respect the greatest majesty, and the greatest humility, that ever was, are found in Christ: so we, though sons of God, must remember ourselves to be but sons of men: and our privileges are not so high, but our poor conditions, frailties, infirmities, sins, may make us low. Who was higher than the son of God? and who was lower than the son of man? As he is God, he is in the bosom of his Father; as he is man, he is in the womb of his mother: as he is God, his throne is in heaven, and he fills all things by his immensity; as he is man, he is circumcised in a manger. Well, "let this mind be in you, which was also in Christ Jesus; who being in the form of God, thought it not robbery to be equal with God; but made himself of no reputation, took upon him the form of a servant, and was made in the likeness of men; and being found in fashion as a man, he humbled himself: he that thought it no robbery to be equal with God, humbled himself to become man. We should have found it no robbery to be equal with devils, and are we too proud to learn of God? What an intolerable disproportion is this, to behold an humbled God, and a proud man! Shall the son of God be thus humbled for us, and shall not we be humbled for ourselves? I say, for ourselves, that deserve to be cast down among the lowest worms. What are we in our best condition on earth? Had we the best natures, purest conversations, happiest endowments, pride overthrows all; it thrust Nebuchadnezzar out of Babel, proud Saul out of his kingdom, proud Lucifer out of heaven. Poor man ! how ill it becomes thee to be proud, when God himself is become thus humble ! "Learn of me," saith Christ, "for I am meek and lowly in spirit, and you shall find rest unto your souls."
 
+5. The two natures of Christ, though really distinguished, yet were inseparably joined; so must our natures, though at great distance from God, be inseparably joined to Christ, and thereby to God. "I pray," saith Christ, "that they all may be one, as thou, Father, art in me, and I in thee, that they also may be one in us." That union of Christ's two natures, we call an hypo statical union; and this union of Christ with us, we call a mystical and spiritual union; yet though it be mystical and spiritual, this hinders not but that it is a true, real union, whereby the believer is united to the Son of God. O what a privilege is this; a poor believer, be he never so mean a man or miserable in the eye of the world, yet is one with Christ, as Christ is one with the Father. "Our fellowship is with the Father, and with his Son Jesus Christ." Every saint is Christ's fellow; there is a kind of proportion between Christ and his saints in everything; if we take a view of all Christ, what he is in his person, in his glory, in his spirit, in his graces, in his Father's love, and in the access he hath to the Father, in all these we are, in a sort, fellows with Christ; only with this difference, that Christ hath the pre-eminence in all things: all comes from the Father, first to Christ; Christ by his union hath all good things without measure, but we by our union have them only in measure, as it pleaseth him to distribute.
 
-benefit can he receive? Dear soul, this is thy case, if thou art not in Christ; if thou 
-hast not heard the offer, and embraced and closed with it, then what is Christ's 
-incarnation, conception, nativity, unto thee? Come, learn, not merely as a scholar, 
-to gain some notional knowledge; but as a Christian, as one that feels virtue 
-coming out of Christ in every of these respects. Study closely this great transaction 
-in reference to thyself. I know not how it happens; this subject either savours not 
-with some Christians, or it is seldom thought of by the most. O God forbid we 
-should throw out of doors such a blessed necessary truth! If rightly applied, it is a 
-Christian's joy: "Behold, I bring you glad tidings of great joy, that shall be to all 
-people; for unto you is born in the city of David, a Saviour, which is Christ the 
-Lord." Sure the birth of Christ is of mighty concernment unto thee; "unto us a child 
-is born, unto us a Son is given." There is not any piece of this transaction but it is 
-of special use. How many break their brains, and waste their spirits, in studying 
-arts and sciences, things in comparison of no value? Whereas Paul determined not 
-to know any thing but Jesus Christ. To know Jesus Christ in every point, whether 
-in birth, or life, or death, is saving knowledge. O stand not upon cost, whether 
-pains or study, tears or prayers, peace or wealth, goods or name, life or liberty; sell 
-all for this pearl. Christ is of that worth that thou canst never over-buy him, though 
-thou gavest thyself and all the world for him. The study of Christ is the study of 
-studies; the knowledge of Christ is the knowledge of everything that is necessary, 
+But herein if we resemble Christ, whether in his union with the Father, or in his union of the two natures in one person of a Mediator, if by looking on Christ, we come to this likeness, to be one with Christ, O what a privilege is this ! Had we not good warrant for so high a challenge, it could be no less than a blasphemous arrogance to lay claim to the royal blood of heaven; but the Lord is pleased to dignify a poor worm, that every believer may truly say, I am one with Jesus Christ, and Jesus Christ is one with me.
 
+Nay, yet more, my sufferings are Christ's, Col. i. 24, and Christ's sufferings are mine, Rom. viii. 17. 1 am in Christ an heir of glory. O my Christ, my life, what am I, or what is my father's house, that thou shouldst come down into me? that thou shouldst be conceived in my poor sinful heart, that thou shouldst give my soul a new, a spiritual life, a life begun in grace, and ending in eternal glory ! I shall not reckon up any more privileges of this union. Methinks I should not need. If I tell you of grace and glory, what can I more? Glory is the highest pitch, and Christ tells you concerning it. "The glory which thou gavest me, I have given them, that they may be one, even as we are one." Ah, my brethren, to be so like Christ, as to be one with Christ, it is near indeed! O let us conform to Christ in this: he is one with our nature in an hypostatical, personal union; let us be one with him in a spiritual, holy, and mystical union. If God be not in our persons as truly, though not as fully as in our nature, we have no particular comfort from this design of his personal, hypostatical, and wonderful union.
 
+6. When Christ was born, all Jerusalem was troubled; so when this new birth is, we must look that much commotion and much division of heart will be. The devil could not be cast out of the possessed person, but he would tear and torment him. We cannot expect that Christ should expel Satan from the dominion he hath over us, but he will be sure to put us to great fear and terror. Besides, not only the evil spirit, but God's Spirit is for a while a spirit of bondage. There are many pretenders to the grace of God in Christ, but they cannot abide to hear of any pains in this new birth. Oh, this is legal! But I pray thee tell me, dost thou know any woman bring forth in her sleep, or in a dream, without feeling any pain? And how then should the heart of man be thus changed and moulded without several pangs and troubles; "in sorrow shall thou bring forth children": so it is, and must be, in our spiritual birth; there is usually (I will not say always, to such or such a degree) many pangs and troubles, there is many a throb, and many a heartache, ere Christ can be formed in us.
 
-either for this world, or for the world to come. O study Christ in every of the 
-aforesaid respects. 
+7. Christ after his birth did and suffered many things in his childhood; so should we learn to bear God's yoke in our youth. O ye parents, do your duties, and in that respect imitate Joseph and Mary in their care of the holy child Jesus: and O ye children, do your duties, and imitate Jesus, the blessedest pattern that ever was, that as you grow in stature, you also might grow in favour with God and man.
 
-
-
-Sect. II. — Considering Jesus in that respect 
-
-
-
-Let us consider Jesus carrying on this great work of our salvation, at his first 
-coming or incarnation. It is not enough to study and know these great mysteries; 
-but, according to the measure of knowledge we have, we must muse, meditate, 
-ponder, and consider them. This consideration brings Christ closer to the soul. 
-Consideration fastens Christ more strongly to the soul, and, as it were, rivets the 
-soul to Jesus Christ. A soul that truly considers and meditates of Christ, thinks and 
-talks of nothing else but Christ: it takes hold, and will not let him go. I will keep to 
-thee (saith the soul in meditation) for thou art my life. Thus, O my soul, consider 
-thou of Christ, and of what he did for thee when he was incarnate ! and that thou 
-mayest not confound thyself in thy meditations, consider apart these 
-particulars. 
-
-
-
-1. Consider Jesus in his forerunner, and the blessed tidings of his coming in the 
-flesh. Now the long-looked for time drew near, a glorious angel is sent from 
-heaven, and he comes with an olive-branch of peace; first he presents himself to 
-
-
-
-Zachary, and then to Mary; to her he imparts the message on which God sent him 
-into this world: "Behold, thou shalt conceive in thy womb, and bring forth a Son, 
-and shalt call his name Jesus." Till now, human nature was less than that of angels; 
-but by the incarnation of the Word, it was to be exalted above the cherubim. What 
-blessed tidings was this message! The decree of old must now be accomplished, 
-and an angel proclaims it upon earth. "Hear, O ye sons of Adam, this concerns you 
-as much as the Virgin: were ye not all undone in the loins of your first father? was 
-not my soul and thy soul in danger of hell-fire? was not this our condition, that 
-after a little life upon earth, we should have been thrown into eternal torments, 
-where had been nothing but weeping, wailing, and gnashing of teeth? And now 
-that God and Christ should bid an angel tell the news - 'Ye shall not die: Lo, a 
-virgin shall conceive and bear a Son,' and he shall be your Jesus: he shall save you 
-from this hell, and death, and sin; he shall deliver your souls, he shall save to the 
-utmost: his name is Jesus, and he shall not bear his name for nought: believe in 
-him, and ye shall live with him in glory." O blessed news! Men may talk what they 
-will of this and that news, but none is so welcome to one ready to perish, as to hear 
-of a Saviour. Tell a man in his sickness of one that will make him well again; tell a 
-man in captivity, of one that will set him free; tell a man in prison, condemned to 
-die, of one with a pardon that will save his life; and every one of these will say, 
-this is the best news that ever was heard. Oh ! then, if it be good tidings to hear of a 
-
-
-
-saviour, where it is only a matter of loss of life, or of this earth; how much more 
-when it comes to the loss of heaven, to the danger of hell; when our souls are at 
-stake, and likely to be damned forever! what glad tidings would that be, to hear of 
-one that could save our souls from that destroyer! Is not such a Saviour worth the 
-hearkening after? were not the birth of such a one good news? O my soul, ponder 
-on these words, as if an angel, seeing thee stand on the brim of hell, should speak 
-to thee, even to thy soul. 
-
-2. Consider Jesus in his conception. No sooner is the news heard, but Christ is 
-conceived by the Holy Ghost in the Virgin's womb: this conception is worthy our 
-consideration. What! that the great God of heaven should condescend so far as to 
-take our nature upon him, and to take it in the same way, and after the same 
-manner, as we do? We must not be too curious, to inquire after the manner of the 
-Holy Ghost's operation. This is work for our hearts, and not merely for our heads. 
-Humble faith, and not curious inquisition, shall find the sweetness of this mystery. 
-It was David's complaint, "Behold I was shapen in iniquity, and in sin did my 
-mother conceive me." O my soul, this was thy case in thy very first being, and 
-hadst thou died in that condition, the word is express, that "nothing undefiled nor 
-unclean should enter into the kingdom of glory." But here's the remedy, thy sinful 
-conception is sanctified by Christ's holy conception: the holiness of thy Jesus 
-
-
-
-serves to hide thy original pollutions from the eye of God. Oh ! consider this 
-conception thus, till thou bringest it near and close to thy soul, till thou feelest 
-some sweetness and power coming and flowing from Jesus in the womb. 
-
-
-
-3. Consider the duplicity of natures in Jesus Christ: the Word made flesh. No 
-sooner was he conceived, than he was God-man; he was perfectly framed, and 
-instantly united to the eternal Word: "God sent his Son," there is the nature divine; 
-"made of a woman," there is the nature human. Certainly great is this mystery, that 
-the Word is made flesh; that the Son of God is made of a woman; that a star gives 
-light to the sun; that a branch doth bear the vine; that a creature gives being to the 
-Creator! 
-
-
-
-Admire, O my soul, at this ! but withal consider, that all this was for us and our 
-salvation: he was man, that he might die for us; and he was God, that his death 
-might be sufficient to save us. Had he been man alone, not God, he might have 
-suffered, but he could never have satisfied for sin; he could not have been Jesus, a 
-Saviour of souls: had he been God alone, not man, he had not been akin to our 
-nature offending; and so he could not have satisfied the justice of God in the same 
-nature wherein it was offended; neither could he, as God alone, have died for sin; 
-and the decree was, that our Redeemer must die for sin; "for without shedding of 
-
-
-
-blood, there is no remission"; and no shedding of blood could possibly befall the 
-godhead of Christ. O my soul, consider this in relation to thyself: he is God-man, 
-that he might suffer and satisfy for thy sins; he is God-man, that he might be able 
-and fit to finish the work of thy salvation. As God he is able, and as man he is fit, 
-to discharge the office of Mediator: as God, he is able to bear the punishment of 
-sin; and as man, he is fit to suffer for sin. Oh the wisdom of God in this ! man's 
-nature can suffer death, but not overcome it; the divine nature can overcome death 
-and all things, but he cannot suffer it: and hence there is a duplicity of natures in 
-Jesus Christ. O muse on this; it is worthy thy serious consideration. 
-
-4. Consider the real distinction of these two natures in Christ. As the 
-unapproachable light of the godhead was put into human flesh, so these two 
-natures remained entire, without any conversion or confusion. They were not as 
-wine and water, that become one by mixing; there is no such blending the divine 
-and human nature: they were not as snow and water, that become one by dissolving 
-of the snow into water; there is no such changing of the human nature into the 
-divine, or of the divine into the human. Look, as at the first moment of his 
-conception he was God and man, so these two natures continued distinct in 
-substance, properties, and actions. Consider this, O my soul, in reference to thyself: 
-by this means thou hast free access unto the throne of grace; and as thou hast free 
-
-
-
-access, so thou mayest boldly draw near. His deity indeed confounds, but his 
-humanity comforts feeble souls: his divine nature amazeth, but his human nature 
-encourageth us to come unto him. Even after his resurrection, he was pleased to 
-send this comfortable message to the sons of men; "Go to my brethren, and say 
-unto them, I ascend to my Father and your Father, and to my God and your God." 
-Now, as long as he is not ashamed to call us brethren, God is not ashamed to be 
-called our God. Oh, the sweet fruit that we may gather off this tree, the real 
-distinctions of two natures in Christ! As long as Christ is man as well as God, we 
-have a motive strong enough to appease his Father, and to turn his favourable 
-countenance towards us. Here is our happiness, that there is one Mediator between 
-God and man, the man Christ Jesus. 
-
-
-
-5. Consider the union of the two natures of Christ in one and the same person. As 
-he was the branch of the Lord, and the fruit of the earth, so these two natures were 
-tied with such a knot as sin, hell, and the grave were never able to disunite: yea, 
-though in the death of Christ there was a separation of the soul from the body, yet 
-in that separation the hypostatical union remained unshaken. In this meditation 
-thou hast great cause, O my soul, to admire and adore ! Wonderful things are 
-spoken of thee, O Christ! He is God, so as neither the Father nor the Holy Ghost 
-were made flesh; and he is man, in the nature of man. This is a mystery that no 
-
-
-
-angel is able to comprehend. We have not another example of such an union. If 
-thou wilt consider this great mystery of godliness any further, review what hath 
-been said in the object propounded, where this union is set forth more largely and 
-particularly: but especially consider the blessed effects of this union in reference to 
-thyself. As our nature in the person of Christ is united to the godhead, so our 
-persons in and by this union of Christ are brought nigh to God. Hence it is that God 
-doth set his sanctuary and tabernacle among us, and that he dwells with us; and, 
-which is more, that he makes us houses and habitations, wherein he himself is 
-pleased to dwell by his holy Spirit. By reason of this hypostatical union of Christ, 
-the Spirit of Christ is given to us in the very moment of our regeneration. "And 
-because ye are sons, God hath sent forth the Spirit of his Son into your hearts, 
-crying, Abba, Father: and hereby we know that we dwell in him, and he in us, 
-because he hath given us of his Spirit." As the members of the body, howsoever 
-distinct amongst themselves, and all differing from the head, yet by reason of one 
-soul informing both the head and members, all make one man; so all believers in 
-Christ, howsoever distinct persons amongst themselves, and all distinct from the 
-person of Christ, and especially from the godhead, which is incommunicable, yet 
-by one and the same Spirit abiding in Christ and in all his members, they become 
-one. "There is one body, and one Spirit": — "he that is joined to the Lord is one 
-spirit." O my soul, consider this; and in considering, believe thy part in this; and 
-
-
-
-the rather because the means of this union on thy part is a true and lively faith. 
-Faith is the first effect and instrument of the Spirit of Christ, disposing and 
-enabling thy soul to cleave unto Christ; "and for this cause I bow my knees unto 
-the Father of our Lord Jesus Christ" - "that Christ may dwell in your hearts by 
-faith." 
-
-
-
-6. Consider the birth of Christ, who in his divine generation was the Son of God; in 
-his human generation was born in a stable, for the saving of the children of men. 
-Suppose the Holy Ghost came upon thee, to form and fashion thee in Jesus Christ, 
-(thus Paul bespeaks the Galatians; "My little children, of whom I travel in birth 
-again until Christ be formed in you,") would not this affect? would not the whole 
-soul be taken up with this? Come, receive Christ into thy soul; or if that work be 
-done, if Christ be formed in thee, O cherish him! (I speak of the spiritual birth,) O 
-keep him in thy heart! Let him there bud, and blossom, and bear fruit; let him fill 
-thy soul with his divine graces: O that thou couldst say it feelingly, "I live, yet not 
-I, but Christ liveth in me." O that this were the issue of thy meditation on Christ's 
-birth! even whilst thou art going with the shepherds to Bethlehem, and there 
-findest thy Saviour lying in a cratch, that thou wouldst bring him thence, and make 
-thy heart to be his cradle ! I would not give a farthing for a meditation merely on 
-
-
-
-the history of Christ's birth: either draw virtue from him within, or thy meditation 
-will be fruitless. 
-
-
-
-7. Consider those few consequents after Christ's birth; every action of Christ is our 
-instruction. Here are many particulars, but none in vain. Christ is considered under 
-much variety of notions, but he is still sweet under all. Is it possible, O my soul, 
-that thou shouldst tire thyself in the contemplation of Jesus Christ? If one flower 
-yield thee not pleasure or delight, go to a second, a third. For a while observe the 
-circumcision of Jesus Christ, and gather some honey out of that flower. Christ had 
-never been circumcised, but that the same might be done to our souls that was done 
-to his body. O that the same Christ would do that in us that was done to him for us ! 
-
-
-
-Again, observe Christ's presentation in the temple. This was the law of those that 
-first opened the womb. Now Christ was the first-born of Mary, and indeed the 
-first-born of all creatures; and he was consecrated unto God, that by him we might 
-be consecrated and made holy, and that by him we might be accepted when we are 
-offered unto the Lord. 
-
-
-
-Again, observe Christ's flight into Egypt: though the infancy is usually most quiet, 
-yet here life and toil began together; and see how speedily this comes after Christ's 
-
-
-
-dedication unto God. Alas ! we are no sooner born again, than we are persecuted. If 
-the church travail, and bring forth a male, she is in danger of the dragon's streams. 
-
-
-
-Again, observe Christ's return into Judea; he was "not sent but to the lost sheep of 
-the house of Israel"; with them alone he was personally to converse in his ministry, 
-in which respect he was called a minister of the circumcision. And where should he 
-be trained, and show himself, but amongst them to whom God had sent him? The 
-gospel first began there, and, as a preparation to it, Christ now in his childhood 
-returns thither. 
-
-
-
-Again, observe Christ disputing with the doctors in the temple. See how early his 
-divine graces put forth themselves; "In him were hid," saith the apostle, "all the 
-treasures of wisdom and knowledge": all the treasures were hid in him, and yet 
-some of those treasures appeared very early; his wisdom in his very infancy is 
-admired at, nor is it without our profit, for of God he is made wisdom unto us. 
-
-
-
-Again, observe how he spent the remainder of his youth. In all his examples he 
-meant our instruction; he went down with his parents, and was subject to them: he 
-was not idle bred, but serves his generation in the poor way of a carpenter. It is 
-every way good for a man to bear God's yoke, even from his infancy. Christ is 
-
-
-
-inured betimes to the hardships of life, and the strict observation of the law, both of 
-God and nature. 
-
-
-
-See, O my soul, what a world of matter is before thee: here is the annunciation of 
-Jesus, the conception of Jesus, the duplicity of natures in Jesus, the real distinction, 
-the wonderful union, the nativity of Jesus, together with some consequents after it. 
-Go over these with frequent thoughts; give not over till thou feelest thy heart 
-warm. True meditation is as the bellows of the soul, that doth kindle and inflame 
-holy affections; and by renewed thoughts, as by renewed and stronger blasts, it 
-doth renew and increase the flame. 
-
-
-
-Sect. III. — Of Desiring Jesus in that respect 
-
-
-
-Let us desire Jesus carrying on the great work of our salvation at his first coming 
-or incarnation. It is not enough to know and consider, but we must desire. Now, 
-what is desire, but a certain motion of the appetite, by which the soul darts itself 
-towards the absent good, purposely to draw near, and to unite itself thereunto? The 
-incarnation of Christ, according to the letter, was the desire of all nations. O how 
-they that lived before Christ, desired this coming of Christ ! Abraham desired to see 
-that day, two thousand years and more before it came. It was the expectation of all 
-
-
-
-the patriarchs: O when will that day come! And surely the incarnation of Christ in 
-the fruit or application, is, or should be, the desire of all Christians. There is virtue 
-in Jesus Christ, in every passage of Christ, in his conception, incarnation, in his 
-birth, and in those consequents after his birth. Now, to make these ours, that we 
-may have our share and interest in them, we must here begin. O my soul, do thou 
-desire, do thou seek to possess thyself of Christ! Set thy desire (as the needle point) 
-aright, and all the rest will follow: never will union be with the absent good, but 
-the soul, by desire, must first dart itself towards it. True it is, millions of souls 
-stand at a distance from Christ; and why? they have no desire towards him: but, O 
-that my soul, and thy soul, whosoever thou art that readest, would desire ! O that 
-we could desire and long after him until we languish, and be compelled to cry out 
-with the spouse, "Comfort me, for I am sick of love." 
-
-
-
-Is there not good reason for it? what is there in Christ that is not desirable? View 
-over all those excellencies of his conception; of his two natures really 
-distinguished, and yet wonderfully united; of his birth; of those few consequents 
-after his birth: but above all, see the fruit of all; he was conceived, that our 
-conceptions might be sanctified; he was the Son of man, that he might suffer for 
-us; and the Son of God, that he might satisfy divine justice; he was God and man in 
-one person, that we might be one with him, "members of his body, of his flesh, and 
-
-
-
-of his bones." He was born of the Virgin, that there might be a spiritual birth of 
-Christ in our virgin-hearts. Are not these desirable things? Never tell me of thy 
-present enjoyments; for never was Christ so enjoyed in this life, but thou hast cause 
-to desire more of Christ. It is worth thy observation, that spiritual desires after 
-Christ do neither load nor cloy the heart, but rather open and enlarge it for more 
-and more. Who was better acquainted with God than Moses? and yet who was 
-more importunate to know him better? "I beseech thee, shew me thy glory." And 
-who was more acquainted with Christ than Paul? and yet who was more 
-importunate to be with him nearer? "I desire to be dissolved, and to be with 
-Christ." Further and further, union with Christy and communion with Christ, are 
-most desirable things, and are not these the fruits of his incarnation, the effects of 
-his personal union? More and more peace, and love, and reconciliation, betwixt 
-God and us, are desirable things: and are not these the fruits of Christ's birth? was 
-it not then that "righteousness looked down from heaven? that mercy and truth met 
-together, and righteousness and peace kissed each other?" An higher degree of 
-holiness, likeness to God and Christ, are desirable things: and are not these the 
-fruits of circumcision, and presentation to the Lord, the effects of all those 
-consequents that follow after his birth? Come, stir up thy desires: true desires are 
-not wavering, but resolute and full of quickness. Observe how the nature of true 
-desire in scripture, is set forth by the most strong similitudes of hunger and thirst; 
-
-
-
-and those not common neither, but by the panting of a tired hart after the rivers of 
-water, and by the gaping of dry ground after seasonable showers. O then! how is it 
-that the passages of thy desires are so narrow, and almost shut up? Nay, how is it 
-that thy vessels are so full of contrary qualities, that there is scarce any room in thy 
-soul for Christ? Will not the desires of the patriarchs witness against thee? how 
-cried they after Christ's coming in the flesh? "Bow the heavens, O Lord, and come 
-down," Psal. cxliv. 5. "Oh, that thou wouldest rend the heavens, that thou wouldest 
-come down," Isa. xliv. 1. "Drop down, ye heavens, from above, and let the skies 
-pour down righteousness; let the earth open, and bring forth salvation," Isa. xlv. 8. 
-Is it possible that their desires should be more vehement after Christ than ours? 
-They lived on the dark side of the cloud, but we on the bright side; the veil was 
-upon their hearts, which veil is done away in Christ. They saw Christ afar off, and 
-their sight was very dim; "but we all with open face, as in a glass, behold the glory 
-of the Lord." One would think, the less anything is known, the less it should be 
-desired. O my soul, either thou art more ignorant of Christ than the patriarchs of 
-old, or thy heart is more out of frame than theirs: suspect the latter, and blame thy 
-heart, it may be thy sluggish nature hath laid thy desires asleep. If an hungry man 
-will sleep, his hunger will sleep with him: but, oh! stir up and awake thy desires. 
-Present before them that glorious object, the incarnation of Jesus Christ: it is an 
-object which the very angels desire to look into; and art not thou more concerned 
-
-
-
-in it than the angels? Is not the fruit of the incarnation thine, more especially thine? 
-Come then, stir up those motions of thy appetite, by which the soul darts itself 
-towards the absent good. Draw nearer and nearer, till thou comest to union and 
-enjoyment; cry after Christ, "Why is his chariot so long in coming? why tarry the 
-wheels of his chariots?" 
-
-
-
-Sect. IV. — Of Hoping in Jesus in that respect 
-
-Let us hope in Jesus carrying on the great work of our salvation at his first coming. 
-Only here remember, I speak not of every hope, but only of such an hope as is 
-grounded on some certainty and knowledge. This is the main question, whether 
-Christ's incarnation belongs unto me? The prophet tells us, that "unto us a child is 
-born, unto us a son is given." But how may I hope that this child is born to me? and 
-that this Son is given to me? what ground for that? Out of these words of the 
-prophet I shall draw a double evidence, which may be instead of all: our first 
-evidence from the former words, "unto us a child is born"; our second evidence 
-from the latter words, "unto us a Son is given." 
-
-
-
-1. From the former words, I lay down this position, "unto us a child is born," if we 
-are new-born. The surest way to know our interest in the birth of Christ, is to know 
-
-
-
-Christ born in us, or "formed in us," as the apostle speaks. The new-birth is the 
-effect of Christ's birth, and a sure sign that Christ is born in us. Say then, O my 
-soul, art thou born anew? is there in thee a new nature, a new principle? is the 
-image of God and of Christ in thy soul? so the apostle styles it, the bearing of "the 
-image of the heavenly"; then was Christ incarnate for thee. Come then, look to it, 
-my soul; what is thy principle within? Consider not so much the outward actions, 
-the outward duties, of religion, as that root from whence they grow, that principle 
-from whence they come: are they fixed ones, settled ones, by way of life, in thee? 
-Clocks have their motions, but they are not motions of life, because they have no 
-principles of life within. Is there life within? Then art thou born again, yea, even 
-unto thee a child is born. This is one evidence. 
-
-
-
-2. From the latter words I lay down this position, "unto us a Son is given," if we 
-are God's sons. The best way to know our interest in the Son of God, is to know 
-ourselves to be God's sons by grace, as Christ was God's Son by nature. — 
-Christians, to whom Christ is given, are co-heirs with Christ; only Christ is the 
-first-born, and hath the pre-eminence in all things. Our sonship is an effect of 
-Christ's Sonship, and a sure sign that unto us a son is given. Say then, O my soul, 
-art thou a son of God? dost thou resemble God according to thy capacity, "being 
-holy, even as he is holy"? Why then, Christ was incarnate for thee, he was given to 
-
-
-
-thee. If thy sonship be not clear enough, thou by these following rules mayest try it 
-further: — 
-
-
-
-(1.) The sons of God fear God: "If I be a Father, where is mine honour?" saith 
-God; "if I be a master, where is my fear?" If I be a son of God, there will be an 
-holy fear and trembling upon me in all my approaches unto God. I know there is a 
-servile fear, and that is unworthy and unbeseeming a son of God; but there is a 
-filial fear, and that is an excellent check and bridle to all our wantonness. What son 
-will not fear the frowns of his loving father? I dare not do this, (he will say,) my 
-father will be offended. Agreeable to this is the apostle's advice, "If ye call on the 
-Father, pass your sojourning here in fear." 
-
-
-
-(2.) The sons of God love God, and obey God out of a principle of love. Suppose 
-there were no heaven to bestow upon a regenerate person, yet would he obey God 
-out of a principle of love? Not that it is unlawful for the child of God to have an 
-eye unto the recompense of reward: Moses's reason of esteeming the reproach of 
-Christ greater riches than the treasures of Egypt, was, for that he had respect unto 
-the recompense of reward. He had respect; in the original, he had a fixed intent 
-eye: there was in him a love of the reward, and yet withal a love of God; and 
-therefore his love of the reward was not mercenary: but this, I say, though there 
-
-
-
-were no reward at all, a child of God hath such a principle of love within him, that 
-for love's sake he would obey his God. He is led by the Spirit, and therefore he 
-obeys: now the Spirit that leads him is a spirit of love, and as many as are led by 
-the Spirit of God are the sons of God. 
-
-
-
-(3.) The sons of God imitate God in his love and goodness to all men. Our Saviour 
-amplifies this excellent property of God: "he causeth his sun to shine on the good 
-and the bad." And thence he concludeth, "be ye perfect as your heavenly Father is 
-perfect." Goodness to bad men, is as it were the perfection of all. Oh! my soul, 
-canst thou imitate God in this? Consider how thy Father bears it, though the 
-wicked provoke him day by day, yet for all that he doth not quickly revenge. God 
-seeth all; and for all that, he doth not make the earth presently to gape and devour 
-us: he puts not out the glorious light of the sun, he doth not dissolve the work of 
-creation, he doth not for man's sin presently blast everything into dust: what an 
-excellent pattern is this for thee to write after! Canst thou forgive thy enemies? do 
-well to them that do evil to thee? This is a sure sign of grace and sonship. It is 
-storied of some heathens, who beating a Christian almost to death, asked him, 
-"What great matter did Christ ever do for him?" "Even this," said the Christian, 
-"that I can forgive you, though you use me thus." Here was a child of God indeed! 
-It is a sweet resemblance of our Father, and of our Saviour Jesus Christ, to "love 
-
-
-
-our enemies, to bless them that curse us, to do good unto them that hate us, to pray 
-for them that despitefully use us, and persecute us." Oh! my soul, look to this, 
-consult this ground of hope; if this law be written in thy heart, write it down 
-amongst the evidences that thou art God's son, yea, that even unto thee a Son is 
-given. 
-
-To review the grounds: — What! is a child born to me? and a Son given to me? 
-What! am I new born? am I indeed God's son or daughter? Do I upon search find 
-in my soul new desires, new comforts, new contentments? Are my words, my 
-works, and affections, and conversation, new? Is there in me a new nature, a new 
-principle? Hath the Spirit given me a new power, a seed of spiritual life, which I 
-had not before? Do I upon search find that I fear God, and love God, and imitate 
-God in his love and goodness towards all men? Can I really forgive an enemy, and 
-according to my ability do good unto them that do evil unto me? Why should I not 
-then confidently and comfortably hope, that I have my interest in the birth of 
-Christ, in the blessed incarnation and conception of Jesus Christ? Away, all despair 
-and dejection. If these be my grounds of hope, it is mine to hold up my head, and 
-heart, and hands, and all with cheerfullness and confidence, and to say with the 
-spouse, "I am my beloved's, and my beloved is mine." 
-
-
-
-Sect. V. — Of Believing in Jesus in that respect 
-
-
-
-Let us believe in Jesus, carrying on the great work of our great salvation at his first 
-coming or incarnation. I know many staggerings are oft in Christians, "What! is it 
-likely that Christ should be incarnate for me? that God should do such a thing, for 
-such a sinful abominable wretch as I am?" Ah ! poor soul, put thy property in 
-Christ's incarnation out of dispute, that thou mayest be able to say, "As God was 
-manifest in the flesh, and I may not doubt it; so God is manifest in me, and I dare 
-not deny it." 
-
-To help the soul in this, I shall, 1. propose the hinderances of faith. 2. The helps of 
-faith in this respect. 3. The manner how to act our faith. 4. The encouragements to 
-bring on the soul to believe its part in the blessed incarnation of Jesus Christ. 
-
-
-
-For the first, there are but three things that can hinder faith; 
-(1.) The exceeding unworthiness of the soul; and to this purpose are those 
-complaints, What! Christ incarnate for me? for such a dead dog as I am? I am less 
-than the least of all God's mercies; I am fitter for hell and devils, than for union 
-and communion with God and Christ; I dare not, I cannot believe." 
-
-
-
-(2.) The infinite exactness of divine justice, which must be satisfied. A soul deeply 
-considering of this, startles, and cries, Oh! what will become of my soul? One of 
-the least sins that I stand guilty of, deserves death, and eternal wrath: the wages of 
-sin is death; and I cannot satisfy. Though I have trespassed many millions of 
-talents, I have not one mite to pay. Oh! then how should I believe? What thoughts 
-can I entertain of God's mercy and love to me? God's law condemns me, my own 
-conscience accuseth me, and justice will have its due. 
-
-(3.) The want of a mediator, or some suitable person which may stand between the 
-sinner and God. If on my part there be unworthiness, and on God's part severe 
-justice; and withal I see no mediator, which I may go unto, before I deal with the 
-infinite glory of God himself; how should I but despair, and cry out. Oh wretched 
-man that I am! Oh that I never had been! I cannot believe; there is no room for 
-faith in this case. 
-
-
-
-2. The helps of faith, in this sad condition, are these: 
-
-(1.) A consideration that God is pleased to overlook the unworthiness of his poor 
-creatures. This we see plain in the very act of his incarnation; himself disdains not 
-to be as his poor creatures, to wear their flesh, to take upon him human nature; and 
-in all things to become like unto man, sin only excepted. 
-
-
-
-(2.) A consideration that God satisfies justice, by setting up Christ, who is justice 
-itself. Now was it that mercy and truth met together, and righteousness and peace 
-kissed each other; now was it that free grace and merit, that fullness and 
-nothingness, were made one; now was it that truth ran to mercy, and embraced her; 
-and righteousness to peace, and kissed her; in Christ they met, yea, in him was the 
-infinite exactness of God's justice satisfied. 
-
-(3.) A consideration that God hath set up Christ as a Mediator; that he was 
-incarnate in order to reconciliation, and salvation of souls; and but for the 
-accomplishment of this design, Christ had never been incarnate. The very end of 
-his uniting flesh unto him, was in order to the reconciliation of us poor souls. Alas! 
-we had sinned, and by sin deserved everlasting damnation; but to save us, and to 
-satisfy himself, God takes our nature and joins it to his Son, and calls that Christ a 
-Saviour. This is the gospel notion of Christ; for what is Christ but God himself in 
-our nature, transacting our peace? In this Christ is fullness, and righteousness, and 
-love, and bowels to receive the first acts of our faith; and to have immediate union 
-and communion with us. Indeed we pitch our faith immediately on God himself; 
-yet at last we come to him, and our faith lives in God, as one faith, before it is 
-aware, through the intervention of that person, which is God himself, only called 
-
-
-
-by another name — the Lord Jesus Christ: and these are the helps of faith, in 
-reference to our unworthiness, God's justice, and the want of a Mediator betwixt 
-God and us. 
-
-
-
-3. The manner how to act our faith on Christ incarnate, is this: 
-(1.) Faith must directly go to Christ. We find indeed some particular promises of 
-this and that grace; but the promises are not given without Christ: no, first Christ, 
-and then all other things. "Incline your ears, and come unto me": Come unto 
-Christ, and then "I will make an everlasting covenant," (which contains all the 
-promises) "even the sure mercies of David." As in marriage, the woman first 
-consents to have the man, and then all the benefits that follow; so the soul by faith 
-first pitcheth upon Christ, and then on the privileges that flow from Christ. Say, 
-dost thou want any temporal blessing; suppose it be the payment of debts, thy daily 
-bread, health; look through the scripture for promises of these things, and let thy 
-faith act thus, "If God hath given me Christ, the greatest blessing, then certainly he 
-will give me all these things, so far as they may be for my good. In the twenty-third 
-Psalm we find a bundle of promises; but he begins, "The Lord is my shepherd, 
-therefore I shall not want." The believing patriarchs through faith subdued 
-kingdoms, wrought righteousness, obtained promises, stopped the mouths of lions, 
-did wonders in the world; but what did they chiefly look to in this their faith? 
-
-
-
-Surely to the promise to come, and to that better thing, Christ himself: and 
-therefore the apostle concludes, "having such a cloud of witnesses, that thus lived 
-and died by faith, let us look unto Jesus, the author and finisher of our faith." 
-
-
-
-(2.) Faith must directly go to Christ as God in our flesh. Some think it a carnal 
-apprehension of Jesus Christ, to know him as in flesh: I confess, to know him only 
-so; to consider Jesus no other way but as having flesh, is no better than a carnal 
-apprehension; but to consider Christ as God in flesh, and to consider that flesh as 
-acted by God, and filled with God, is a true and spiritual apprehension of Jesus 
-Christ; and hither is faith to be directed immediately. Suppose a case of danger by 
-some enemies, and I find a promise of protection from my enemies; I look on that: 
-but in the first place thus I argue. If the Lord hath given me Christ, (God in the 
-flesh) to save me from, hell, then much more will he save me from these fleshly 
-enemies. 
-
-
-
-(3.) Faith must go and lie at the feet of Christ; faith must fasten itself on this God 
-in our flesh. Some go to Christ, and look on Jesus with loose and transient glances, 
-they have but coarse and common apprehensions of Jesus Christ. Oh ! but we 
-should come to Christ with solemn and serious spirits; we should look on Jesus 
-piercingly, till we see him as God is in him, and as such a person thus and thus 
-
-
-
-qualified from heaven; we should labor to apprehend what is the riches of this 
-glorious mystery of Christ's incarnation; we should dive into the depths of his 
-glorious actings; we should study this mystery above all other studies. Nothing is 
-more pleasant, and nothing is more deep. That one person should be God and man; 
-that blessedness should be made a curse; that heaven should be let down into hell; 
-that the God of the world should shut himself up, as it were, in a body; that the 
-invisible God should be made visible to sense; that God should make our nature, 
-which had sinned against him, to be the great ordinance of reconciling us unto 
-himself; that God should take our flesh, and dwell in it with all his fullness, and 
-make that flesh more glorious than the angels, and advance that flesh into oneness 
-with himself, and through that flesh open all his rich discoveries of love and free 
-grace unto the sons of men; that this God-man should be our Saviour, Redeemer, 
-Reconciler, Father, Friend; Oh what mysteries are these! No wonder if when Christ 
-was born, the apostles cry, "We saw his glory , as of the only begotten Son of 
-God"; noting, that at the first sight of him, so much glory sparkled from him as 
-could appear from none, but a God walking up and down the world. Oh ! my soul, 
-let not such a treasury be unlooked into. Set faith on work with a redoubled 
-strength. Surely we live not like men under this great design, if our eye of faith be 
-not firmly and steadfastly set on this. Oh, that we were but acquainted with these 
-
-
-
-lively discoveries ! how blessedly might we live by the faith of the Son of God, 
-who loved us, and gave himself for us. 
-
-
-
-(4.) Faith must look principally to the end of Christ, as God coming in the flesh. 
-Now what was the design of Christ in this? The apostle answers, Rom. viii. 3, 
-"God sent his Son in the likeness of sinful flesh, to condemn sin in the flesh," i.e. 
-God the Father sent into the world his only begotten Son, to abolish in the first 
-place original sin. Mark these two words: he condemned sin in the flesh. The first 
-word condemned, is, by a metonymy, put for that which follows condemnation, 
-namely, for the abolishing of sin; as condemned persons use to be cut off and to be 
-taken out of the world, that they may be no more; so Christ hath condemned or 
-abolished this sin. By the second word, in the flesh, is meant the human nature 
-which Christ assumed. He abolished sin altogether in his own nature: and that flesh 
-of his being perfectly holy, and the holiness of it being imputed unto us, it takes 
-away our guilt in respect of the impureness of our nature also. Christ had not the 
-least spot of original sin; and if we are Christ's, then is the sin in some measure 
-taken out of their hearts. But howsoever the filth of this sin may remain in part, yet 
-the guilt is removed: in this respect the purity of Christ's human nature is no less 
-reckoned to us for the curing of our defiled nature, than the sufferings of Christ are 
-to us, for the remission of our actual sins. O my soul, look to this end of Christ as 
-
-
-
-God in the flesh. If thou consider him as made of flesh and blood, think withal, that 
-his meaning was to condemn sin in our flesh. There flows from the holiness of 
-Christ's nature such a power as countermands the power of our original sin, and 
-acquits and discharges from the condemnation of the same sin. Not only the death 
-and life, but also the conception and birth, of Christ, hath its influence in our 
-justification. 
-
-4. The encouragements to bring our souls to believe on Christ incarnate, we may 
-draw — 
-
-
-
-(1.) From the excellency of this object. This incarnation of Christ is the foundation 
-of all other actings of God for us; it is the very hinge on which all turn; it is the 
-cabinet wherein all the designs of God do lie, redemption, justification, 
-glorification, all are wrapt up in it; it is the highest pitch of the declaration of God's 
-wisdom, goodness, power, and glory. Oh, what a sweet object of faith is this ! I 
-know there are some other things in Christ, which are most proper for some acts of 
-faith; as, Christ dying is most proper for the pardon of actual sin; and Christ rising 
-from the dead, is most proper for the evidencing of our justification; but the 
-strongest and purest acts of faith are those which take in Christ as such a person, 
-laid out in all this glory. Christ's incarnation is more general than Christ's passion 
-
-
-
-or Christ's resurrection, and, as some would have it, includes all. Christ's 
-incarnation holds forth Christ in his fullness, and so is the complete subject of our 
-faith. 
-
-
-
-Come, poor soul, thy eyes are running to and fro the world, to find comfort and 
-happiness on earth: O cast thy eyes back, and see heaven and earth in one object! 
-Look fixedly on Christ incarnate ! There is more in this than in all the variety of 
-this world, or of that world to come. Here is an object of faith, and love, and joy, 
-and delight; here is a compendium of all glories. 
-
-(2.) From the suitableness of this object. Christ incarnate is most suitable for our 
-faith to act upon. We are indeed to believe on God, but we cannot come to God but 
-in and through Christ. Alas ! God is offended, and therefore we cannot find ground 
-immediately to go to God. Hence you heard, that faith must directly go to Christ as 
-God in our flesh. O the infinite condescension of God in Christ ! God takes up our 
-nature, and joins it to himself as one person, and lays that before our faith; so that 
-here is God, and God suited to the particular state of the sinner. Now with what 
-boldness may our souls draw nigh to God! Why art thou strange, poor soul? Why 
-standest thou afar off, as if it were death to draw nigh? Of whom art thou afraid? Is 
-God come down amongst men, and canst thou not see him, lest thou die and 
-
-
-
-perish? Oh, look once more, and be not discouraged ! See, God is not come down 
-in fire. God is not descended in the armour of justice and everlasting burnings; no, 
-he is clothed with the garments of flesh, he desires to converse with thee after thy 
-own form, he is come down to beseech thee to see with thine own eyes thy eternal 
-happiness. Oh, the wonder of heaven! It is the cry of some poor souls, O that I 
-might see God! Lo here God is come down in the likeness of man, he walks in our 
-own shape amongst us. It is the cry of others, O that I might have my heart united 
-to God ! Why, he is come down on this very purpose, and hath united our nature 
-unto himself. Surely God hath left all the world without excuse: O that ever there 
-should be an heart of unbelief, after these sensible demonstrations of divine glory 
-and love ! Why wilt thou now stand off? Tell me, what wouldst thou have God do 
-more? Can he manifest himself in a more suitable way to thy condition? Is there 
-anything below flesh, wherein the great God can humble himself for thy good? 
-Come, think of another and a better way, or else for ever believe. Methinks it is sad 
-to see believers shy in their approaches to God, or doubtful of their acceptance 
-with God, when God himself stoops first, and is so in love with our acquaintance, 
-that he will be of the same nature that we are. Oh! let not such a rock of strength be 
-slighted, but every day entertain precious thoughts of Christ being incarnate: inure 
-thy heart to believing on this Jesus, as he carries on the great work of thy salvation 
-at his first coming. 
-
-
-
-(3.) From the offers of this blessed object to our souls. As Christ is come in our 
-nature to satisfy, so he comes in the gospel freely and fully to offer the terms of 
-love; therein are set out the most alluring expressions that possibly can be; therein 
-is set out, that this incarnation of Christ was God's own acting, out of his own love, 
-and grace, and glory; therein is set out the birth, and life, and death of Christ; and 
-this he could not do but he must be incarnate: God takes our flesh, and he useth 
-that as an instrument whereby to act; he was flesh to suffer, as he was spirit to 
-satisfy, for our sins. Methinks I might challenge unbelief, and bid it come forth; let 
-it appear, if it dare, before this consideration: what, is not God incarnate, enough to 
-satisfy thy conscience? Come nigh, hear the voice of Christ inviting: "Come unto 
-me, all ye that are weary and heavy laden" with sin. And, Oh ! let these rich and 
-glorious openings of the heart of Christ overcome thy heart. What if God should 
-have done no more than this ! Had he only looked down from heaven, and hearing 
-sinners cry out, O woe, woe unto us forever! we have broken God's law, incurred 
-the penalty, damned our own souls; O who should deliver us? Who will save us 
-from the wrath to come? In this case, if God hearing sinners thus crying out; had 
-he, I say, only looked down and told them, I will pardon your sins ; I made the law, 
-and will dispense with it; fear not, I have the keys of life and death: what soul 
-would not have been raised up, even from the bottom of hell at this very voice? I 
-
-
-
-know a poor soul would have scrupled at this, and have said. What then should 
-become of infinite justice? But, to remove all controversies, God hath not only 
-spoken from heaven, but he himself is come down from heaven to speak unto us. O 
-see this miracle of mercy! God is come down in flesh, he is come down as a price; 
-he himself will pay himself according to all the demands of his justice; and all this 
-done, now he offers and tenders himself to thy soul. 
-
-O my soul, why shouldst thou fear to cast thyself upon thy God? I know thy 
-objection of vileness: notwithstanding all thy vileness, God himself offers himself 
-to lead thee by the hand, and to remove all doubts ; God himself hath put a price 
-sufficient in the hands of justice; or if yet thou fearest to come to God, why come 
-then to thy own flesh; go to Christ, as having thy own nature; it is he that calls 
-thee. What can be said more to draw on thy trembling heart! If God himself, and 
-God so fitted and qualified, as I may say, will not allure, must not men die and 
-perish in unbelief? What! O my soul, is God come down so low to thee? and dost 
-thou now stand questioning whether thou shouldst go or come to him? What is this 
-but to say, All that God is, or does, or says, is too little to persuade me to faith? I 
-cannot tell; but one would think that unbelief should be strangled, quite slain, upon 
-this consideration. All this, O my soul, thou hearest in the gospel: there is Christ 
-incarnate set forth to the life; there is Christ suing thy love, and offering himself as 
-
-
-
-thy beloved in thy own nature; there it is written, that God is come down in flesh, 
-with an olive branch of eternal peace in his hand, and bids you all be witness he is 
-not come to destroy, but to save. Oh that this encouragement might be of force to 
-improve Christ's glorious design to the supplying of all thy wants, and to the 
-making up of all thy losses ! Believe, Oh, believe thy part in Christ incarnate. 
-
-
-
-Sect. VI. — Of Loving Jesus in that respect 
-
-Let us love Jesus, as carrying on the great work of our salvation at his first coming 
-or incarnation. O my soul, canst thou possibly light on any object more attractive 
-than the incarnation of Jesus Christ? If love be the loadstone of love, what an 
-attractive is this before thee ! Methinks the very sight of Christ incarnate is enough 
-to ravish thee with the apprehension of his infinite goodness. See how he calls out, 
-or, as it were, draws out the soul to union, vision, and participation of his glory! O 
-come and yield thyself up unto him: give him thyself, and conform all thy 
-affections and actions to his will. O love him, not with a divided, but with all thy 
-heart. 
-
-
-
-But to excite this love, I shall only propound the object, which will be argument 
-enough. Love causeth love: now as God's first love to man was in making man like 
-
-
-
-himself, so his second great love was in making himself like to man. Stay then a 
-while upon this love; for I take it, this is the greater love of the two. The evangelist 
-expresseth it thus, "God so loved the world, that he gave his only begotten Son"; 
-he gave him to be incarnate, to be made flesh, and to suffer death; but the 
-extension of his love lies in that expression, he so loved. So ! how? why, so fully, 
-so freely, as no tongue can tell, no heart can think. 
-
-It is usually said, that it is a greater love of God to save a soul, than to make a 
-world; and I think it was a greater love of God to take our nature, than simply to 
-save our souls: for a king to dispense with the law, and by his own prerogative to 
-save a murderer from the gallows, is not such an act of love and mercy as to take 
-the murderer's clothes, and to wear them as his richest livery? Why, God in taking 
-our nature, hath done thus, and more than thus: he would not save us by his mere 
-prerogative, but he takes our clothes, our flesh, and in that flesh he personates us, 
-and in that flesh he will die for us, that we might not die, but live through him for 
-evermore. Surely this was love, that God will be no more God, as it were, simply, 
-but he will take up another nature, rather than the brightness of his glory shall undo 
-our souls. 
-
-
-
-It will not be amiss (whilst I am endeavoring to draw a line of God's love in Christ 
-from first to last in saving souls) that here we look back a little, and summarily 
-contract the passages of love from that eternity before all worlds unto this present. 
-
-
-
-1 . God had an eternal design to discover his infinite love to some besides himself. 
-Oh, the wonder of this! Was there any necessity of such a discovery? Though God 
-was one, and in that respect alone, yet God was not solitary; in that eternity within 
-his own essence there were three divine Persons, and betwixt them there was a 
-blessed communication of love. Though in that eternity there was no creature to 
-whom these three persons could communicate their love; yet was there a glorious 
-communication and breaking out of love from one to another. Before there was a 
-world, the Father, Son, and Holy Ghost did infinitely glorify themselves, John xvii. 
-5. What need then was there of the discovery of God's love to any one besides 
-himself? only thus was the pleasure of God; "Even so, Father, for so it seemed 
-good in thy sight." Such was the love of God, that it would not contain itself within 
-that infinite ocean of himself, but it would needs have rivers and channels, into 
-which it might run and overflow. 
-
-
-
-2. God, in prosecution of his design, creates a world of creatures; some rational, 
-and only capable of love; others irrational, and serviceable to that one creature, 
-
-
-
-which he makes the top of the whole creation; then it was that he set one man, 
-Adam, as a common person, to represent the rest; to him he gives abundance of 
-glorious qualifications, and him he sets over all the work of his hands. If we should 
-view the excellency of this creature, either in the outward or inner man, who would 
-not wonder? His body had its excellency, which made the psalmist say, "I will 
-praise thee, for I am fearfully and wonderfully made, and curiously wrought in the 
-lowest parts of the earth," Psalm cxxxix. 14. It is a speech borrowed from those 
-who work arras-work: the body of man is a piece of curious tapestry, consisting of 
-skin, bones, muscles, sinews, and the like. What a goodly thing the body of man 
-was before the fall, may be guessed from the excellent gifts found in the bodies of 
-some men since the fall. If all these were but joined in one, as certainly they were 
-in Adam, what a rare body would such a one be? But what was this body in 
-comparison of that soul? The soul was it that was especially made after the image 
-of God: the soul was it that was tempered in the same mortar with the heavenly 
-spirits: the soul was God's sparkle, a beam of his divine glory, a ray or emanation 
-of God himself: as man was the principal part of the creation, so the soul was the 
-principal part of man. Here was it that God's love and glory were centred. Here 
-was it that God's love fixed itself in a special manner, whence flowed that 
-communion of God with Adam, and that familiarity of Adam with God. 
-
-
-
-3. Within a while, this man, the object of God's love, fell away from God, and as 
-he fell, so all that were in him, even the whole world, fell together with him; and 
-hereupon God's face was hid. Not a sight of him but in flaming fire, ready to seize 
-on the sons of men. And yet God's love would not thus leave the object: he had yet 
-a further reach of love, and out of this dark cloud he lets fall some glimpses of 
-another discovery: these glimpses were sweet; but, alas! they were so dark that 
-very few could make any comfortable application of them; but by degrees God 
-hints it out more, he points it out by types and shadows, he makes some model of it 
-by outward ceremonies, and yet so dark, that in four thousand years men were but 
-guessing and hoping through promises for a manifestation of God's love. This is 
-the meaning of the apostle, who tells us of the mystery that was hid from ages and 
-from generations, but now is made manifest to his saints. This love of God was hid 
-in the breast of God from the sons of men for an age, so that they knew not what to 
-make of this great design: I speak of the generality of men; for in respect of some 
-particulars, the Lord made his love clear to them; and still the nearer to Christ, the 
-clearer and clearer was the covenant of grace. 
-
-
-
-4. At last, God fully opens himself; in the fullness of time, God takes the flesh of 
-those poor sinners which he had so loved, and joins it to himself, and calls it 
-Christ, a Saviour. Now was it that God descended, and lay in the womb of a virgin; 
-
-
-
-now was it that he is born as we are born; now was it that he joined our flesh so 
-nigh to himself, as that there is a communication of properties betwixt them both; 
-that being attributed to God which is proper to flesh, as to be born, to suffer and 
-that being attributed to flesh which is proper to God, as to create, to redeem. Who 
-can choose but wonder, that God should be made flesh, and dwell amongst us? that 
-flesh should infinitely provoke God, and yet God, in the same flesh, should be 
-infinitely pleased? that God should veil himself, and darken his glory with our 
-flesh, and yet unveil at the same time the deepest and darkest of his designs in a 
-comfortable way to our souls? O my soul! how shouldst thou contain thyself within 
-thyself? how shouldst thou but leap out of thyself, if I may so speak, as one that is 
-lost in the admiration of this love? Surely God never manifested himself in such a 
-strain of love as this before. 
-
-
-
-Well, hitherto we have followed the passages of his love, and now we see it at full- 
-sea. If anything will beget our love to God, surely Christ incarnate will do it. Come 
-then, O my soul, I cannot but call on thee to love thy Jesus; and to provoke thy 
-love, fix thy eye on this lovely object. Draw yet a little nearer; consider what an 
-heart of love is in this design: God is in thy own nature, to take upon him all the 
-miseries of thy nature. 
-
-
-
-Oh! my heart, art thou yet cold in thy love to Jesus Christ? Canst thou love him but 
-a little, who hath loved thee so much? How should I then but complain of thee to 
-Christ! and for thy sake beg hard of God: O thou sweet Jesus, that clothest thyself 
-with the clouds as with a garment, and now clothest thyself with the nature of a 
-man; Oh! that nothing but thyself might be dear unto me, because it so pleased thee 
-to vilify thyself for my sake. 
-
-Sect. VII. — Of Joying in Jesus in that respect 
-
-Let us joy in Jesus, as carrying on the great work of our salvation for us at his 
-incarnation. If it be so, that by our desire, and hope, and faith, and love, we have 
-reached the object which our souls pant after, how should we but joy and delight 
-therein? The end of our motion is to attain quiet and rest; now what is joy, but a 
-sweet and delightful tranquillity of mind, resting in the fruition of good? What! 
-hast thou in some measure attained the fruition of Christ, as God incarnate, in thy 
-soul? It is then time to joy in Jesus; it is then time to keep a sabbath of thy 
-thoughts, and to be quiet and calm in thy spirit. But you will say, how should this 
-be before we come to heaven? I answer, there is not indeed perfection of joy whilst 
-we are here, because there is no perfection of union on this side heaven; but so far 
-as union is, our joy must be. Examine the grounds of thy hope, and the actings of 
-
-
-
-thy faith, and if thou art but satisfied in them, then lead up thy joy; here is matter 
-for it to work upon: if thou canst rejoice in anything, rejoice in the Lord; and again 
-I say, rejoice. 
-
-
-
-Is there not cause? What is the meaning of the gospel of Christ? What is gospel, 
-but good spell, or good tidings? And wherein lies the good tidings, according to its 
-eminency? Is it not in the glorious incarnation of the Son of God? "Behold, I bring 
-you a gospel," so it is in the original; or, "behold, I bring you good tidings of great 
-joy, which shall be to all people; for unto you is born this day in the city of David, 
-a Saviour, which is Christ the Lord." The birth of Christ is the comfort of comforts, 
-and the sweetest balm that ever was. O my soul, what ails thee? Why art thou cast 
-down and disquieted within me? Is it because thou art a sinner? Why, unto thee is 
-born a Saviour; his name is Saviour, and therefore Saviour, because he will save 
-his people from their sins. Come then, and bring out thy sins, and weigh them to 
-the utmost aggravation, and take in every circumstance both of law and gospel, and 
-set but this in the other scale, that unto thee is born a Saviour; surely all thy 
-iniquities will seem lighter than vanity, yea, they will be as nothing in comparison 
-thereof: "My soul doth magnify the Lord," said Mary, "and my spirit rejoiceth in 
-God my Saviour." Her soul and her spirit within her rejoiced at this birth of Christ. 
-
-
-
-There is cause that every soul and every spirit should rejoice, that hath any interest 
-in this birth of Christ. O my soul, how shouldst thou but rejoice, if thou wilt 
-consider these particulars: 
-
-
-
-1. God himself is come down into the world. Because it was impossible for thee to 
-come to him, he is come to thee. This consideration made the prophet cry out. 
-"Rejoice greatly, O thou daughter of Zion, shout, O daughter of Jerusalem; behold 
-thy King cometh unto thee": he is called a King, and therefore he is able; and he is 
-thy King, and therefore he is willing: but in that thy King cometh unto thee, here is 
-the marvelous love of God in Christ. Kings do not usually come to wait upon their 
-subjects; it is well if poor subjects may come to them. Oh! but see the great King 
-of heaven and earth, the King of kings, and Lord of lords, stooping, and bowing the 
-heavens, come down to thee! Surely this is good tidings of great joy, and therefore 
-rejoice greatly, O daughter of Zion! 
-
-
-
-2. God is come down in flesh. He hath laid aside, as it were, his own glory, whilst 
-he converseth with thee. When God manifested himself on mount Sinai, he came 
-down in thunder and lightning; and if now he had appeared in thunder and 
-lightning, if now he had been guarded with an innumerable company of angels, all 
-having their swords of justice drawn, well might poor souls have trembled, and 
-
-
-
-have run into corners; for who could ever be able to endure his coming in this 
-way? But God is come down in flesh, he hath made his appearance as a man, as 
-one of us, and there is not in this regard the least distance betwixt him and us; 
-surely this is fuel for joy to feed upon. O why should God come down so suitably, 
-so lowly, as in our nature, if he would have thy poor soul to be afraid of him? 
-Doth not this very design intend consolation to thy soul? O gather up thy spirit, 
-anoint thy heart with the oil of gladness. See, God himself is come down in flesh to 
-live amongst us ! he professeth he will have no other life but amongst the sons of 
-men. See what a sweet way of familiarity and intercourse is made betwixt God and 
-us. 
-
-
-
-3. God hath taken on him our nature, that his godhead may flow out in all manner 
-of sweetness upon our hearts. If God had come down in flesh, only to have been 
-seen of us, it had been a wonderful condescension: "If I have found favour in thy 
-eyes," said Moses, "shew me the way that I may know thee": but to come down in 
-flesh, not only to be seen, but to dispatch the great business of our soul's salvation, 
-here is comfort indeed: with what joy should we draw water out of this well of 
-salvation. 
-
-
-
-O my soul, thou art daily busy in eyeing this and that; but above all know, that the 
-fullness of God lies in Christ incarnate, to be emptied upon thee. This was the 
-meaning of Christ's taking upon him flesh, that through his flesh he might convey 
-to thee whatsoever is in himself as God. As for instance, God in himself is good, 
-and gracious, and powerful, and all-sufficient, and merciful, and what not? Now by 
-his being in flesh, he conveys all this to thee. Observe this for thy eternal comfort; 
-God in and through the flesh makes all his attributes and glory serviceable to thy 
-soul. 
-
-
-
-4. This discovering Christ incarnate is the first opening of all God's heart and glory 
-unto the sons of men: and from this we may raise a world of comfort; for if God 
-begins so gloriously, how will he end? If God be so full of love, as to come down 
-in flesh now in this world, Oh what matter of hope is laid up before us, of what 
-God will be to us in that world to come? If the glory of God be let out to our souls 
-so fully at first, what glorious openings of all the glory of God will be let out to our 
-souls at last? Christians! what do you think will God do with us, or bring us unto, 
-when we shall be with him in heaven ! You see now he is manifested in flesh, and 
-he hath laid out a world of glory in that: but the apostle tells us of another 
-manifestation, for we "shall see him as he is"; he shall at last be manifest in 
-
-
-
-himself: "Now we see through a glass darkly, but then face to face; now we know 
-in part, but then we shall know even as we are known." 
-
-
-
-O my soul, weigh all these passages, and make an application of them to thyself; 
-and then tell me if yet thou hast not matter enough to raise up thy heart, and fill it 
-with joy unspeakable and full of glory. When the wise men saw but the star of 
-Christ, they rejoiced with an exceeding great joy; how much more when they saw 
-Christ himself? "Your father Abraham," said Christ to the Jews, "rejoiced to see 
-my day, and he saw it, and was glad." He saw it indeed but afar off, with the eyes 
-of faith; they before Christ had the promise, but we see the performance: how then 
-should we rejoice! How glad shouldst thou be, O my soul, at the sight of Christ's 
-incarnation? If the angels of God, yea, if the multitudes of angels, could sing for 
-joy at his birth, "Glory to God in the highest, and on earth peace and good 
-will towards men"; how much more shouldst thou, whom it concerns more than the 
-angels, join with them in concert, and sing for joy this joyful song, of good will 
-towards men? Awake, awake, O my soul, awake, awake, utter a song! tell over 
-these passages, that God is come down into the world; that God is come down in 
-flesh; in order to thy reconciliation; that God is come down in the likeness of man, 
-that he may bring thee up into the likeness of God; and that all these are but the 
-first openings of the grace, and goodness, and glory, of God in Christ unto thy 
-
-
-
-soul: and Oh, what work will these make in thy soul, if the Spirit come in, who is 
-the Comforter! 
-
-
-
-Sect. VIII. — Of Calling on Jesus as carrying on the great Work of our Salvation in 
-his Birth 
-
-
-
-Let us call on Jesus, or on God the Father in and through Jesus. Now this calling on 
-Jesus contains prayer and praise. 
-
-I. We must pray that all these transactions of Jesus at his first coming may be ours; 
-and is not here encouragement for our prayers? This very point of Christ's 
-incarnation opens a door of rich entrance into the presence of God: we may call it a 
-blessed portal into heaven. This is that "new and living way which he hath 
-consecrated for us through the veil, that is to say, his flesh." With what boldness 
-may we now enter into the holiest, and draw near unto the throne of grace ! Why, 
-Christ is incarnate, God is come down in the flesh; though his deity may confound 
-us, if we should immediately and solely apply ourselves unto it, yet his humanity 
-comforts our faint and feeble souls. God in his humility animates our souls to come 
-unto him, and to seek of him whatsoever is needful for us. Go then to Christ; away, 
-away, O my soul, to Jesus, or to God the Father in and through Jesus, and desire 
-that the fruit, the benefit, of his conception, birth, and of the wonderful union of the 
-
-
-
-two natures of Christ, may be all thine. What! dost thou hope in Jesus, and believe 
-thy part in this incarnation of Christ? Why then, pray in hope, and pray in faith. 
-What is prayer but the stream and river of faith, an issue of the desire of that which 
-I joyfully believe? "Thou, O Lord God of hosts, God of Israel, hast revealed to thy 
-servant, saying, I will build thee an house, therefore hath thy servant found in his 
-heart to pray this prayer unto thee." 
-
-2. We must praise. This was the special duty practised by all saints and angels at 
-Christ's birth; "Blessed be the Lord God of Israel," said Zachary, "for he hath 
-visited and redeemed his people." - And, "Glory to God in the highest," said the 
-heavenly host: only one angel had before brought the news. "Unto you is born this 
-day in the city of David, a Saviour, which is Christ the Lord"; but immediately 
-after there were many to sing praises; not only six cherubims, as Isaiah saw; not 
-only four and twenty elders, as John saw; but a multitude of angels, like armies, 
-that by their hallelujahs gave glory to God. O my soul, do thou keep concert with 
-those angels: O sing praises! sing praises. Never was the like case since the first 
-creation; never was the wisdom, truth, justice, mercy, and goodness of God so 
-manifest before. I shall never forget that last speech of a dying saint, "Blessed be 
-God for Jesus Christ!" O my soul, living and dying, let this be thought on; What! 
-
-
-
-Christ incarnate for me? Why "bless the Lord, O my soul, and all that is within me, 
-bless his holy name." 
-
-
-
-Sect. IX. — Of Conforming to Jesus in that respect 
-
-
-
-Let us conform to Jesus, in reference to this great transaction of his incarnation. 
-Looking to Jesus is the cause of this; the sight of God will make us like to God, 
-and the sight of Christ will make us like to Christ; for as a looking-glass cannot be 
-exposed to the sun, but it will shine like the same, so God receives none to 
-contemplate his face, but he transforms them into his own likeness; and Christ hath 
-none that dive into these depths of his glorious incarnation, but they carry along 
-with them sweet impressions of an abiding and transforming nature. Come then, let 
-us once more look on Jesus in his incarnation, that we may conform to Jesus in that 
-respect. 
-
-
-
-But wherein lies this conformity to Jesus? I answer, in these and the like 
-particulars: 
-
-
-
-1. Christ was conceived in Mary by the Holy Ghost; so must Christ be conceived 
-in us by the same Holy Ghost. To this purpose is the seed of the word cast in, and 
-
-
-
-principles of grace are by the Holy Ghost infused; "he hath begotten us by the 
-word," saith the apostle, James i. 18. God hath appointed no other means to convey 
-supernatural life, but after this manner. Where no preaching is, there is a worse 
-judgment than that of Egypt, where there was one dead in every family. By the 
-word and spirit the seeds of all grace are sown in the heart, and the heart closing 
-with it, Christ is conceived in the heart. 
-
-
-
-2. Christ was sanctified in the Virgin's womb; so must we be sanctified in 
-ourselves: "Be ye holy as I am holy." Souls regenerate must be sanctified: 
-"Everyman," saith the apostle, "that hath this hope in him, purifieth himself, even 
-as he is pure." I know our hearts are, as it were, seas of corruptions, yet we must 
-daily cleanse them. Christ could not have been a Saviour for us, unless first he had 
-been sanctified; neither can we be fit members unto him, unless we be purged from 
-our sins, and sanctified by his Spirit. To this purpose is that of the apostle; "I 
-beseech you, brethren, by the mercies of God, that ye present your bodies a living 
-sacrifice, holy, acceptable unto God." In the Old Testament they did kill beasts, 
-presenting them unto the Lord; now we are to mortify the flesh with the affections 
-and lusts; all our inordinate passions, all our evil affections of anger, love, joy, 
-hatred, are to be crucified, and all that is ours must be given up to God: there must 
-be no love in us but of God, and in reference to God; no joy in us, but in God, and 
-
-
-
-in reference to God; no fear in us, but of God, and in reference to God; and thus of 
-all other the like passions. O that we would look to Jesus, and be like unto Jesus in 
-this thing! if there be any honour, any happiness, it is in this: we are not fit for any 
-holy duty, or any religious approach unto God, without sanctification; "This is the 
-will of God," saith the apostle, "even your sanctification." All the commands of 
-God tend to this; and for the comfort of us Christians, we have, under the gospel, 
-promises of sanctification to be in a larger measure made out unto us: "In that day 
-there shall be upon the bells of the horses, Holiness unto the Lord"; — yea, "every 
-pot in Jerusalem and Judah shall be holiness unto the Lord." Every vessel under 
-Christ and the gospel must have written upon it "Holiness to the Lord": thus our 
-spiritual services, figured by the ancient ceremonial services of the Jewish 
-dispensation, are set out by a larger measure of holiness than was in former times. 
-
-
-
-3. Christ the Son of man, is by nature the son of God; so we, poor sons of men, 
-must, by grace, become the sons of God, even of the same God and Father of our 
-Lord Jesus Christ: "For this end God sent his own Son, made of a woman, that we 
-might receive the adoption of sons." - "Wherefore thou art no more a servant, but a 
-son; and if a son, then an heir of God through Christ." This intimates, that what 
-relation Christ hath unto the Father by nature, we should have the same by grace: 
-by nature, "he is the only begotten Son of the Father"; — "and as many as received 
-
-
-
-him," saith the apostle John, "to them gave he power to become the sons of God, 
-even to them that believe on his name." 
-
-
-
-4. Christ the Son of God was yet the son of man: there was in him a duplicity of 
-natures really distinguished; and in this respect the greatest majesty, and the 
-greatest humility, that ever was, are found in Christ: so we, though sons of God, 
-must remember ourselves to be but sons of men: and our privileges are not so high, 
-but our poor conditions, frailties, infirmities, sins, may make us low. Who was 
-higher than the son of God? and who was lower than the son of man? As he is God, 
-he is in the bosom of his Father; as he is man, he is in the womb of his mother: as 
-he is God, his throne is in heaven, and he fills all things by his immensity; as he is 
-man, he is circumcised in a manger. Well, "let this mind be in you, which was also 
-in Christ Jesus; who being in the form of God, thought it not robbery to be equal 
-with God; but made himself of no reputation, took upon him the form of a servant, 
-and was made in the likeness of men; and being found in fashion as a man, he 
-humbled himself: he that thought it no robbery to be equal with God, humbled 
-himself to become man. We should have found it no robbery to be equal with 
-devils, and are we too proud to learn of God? What an intolerable disproportion is 
-this, to behold an humbled God, and a proud man! Shall the son of God be thus 
-humbled for us, and shall not we be humbled for ourselves? I say, for ourselves, 
-
-
-
-that deserve to be cast down among the lowest worms. What are we in our best 
-condition on earth? Had we the best natures, purest conversations, happiest 
-endowments, pride overthrows all; it thrust Nebuchadnezzar out of Babel, proud 
-Saul out of his kingdom, proud Lucifer out of heaven. Poor man ! how ill it 
-becomes thee to be proud, when God himself is become thus humble ! "Learn of 
-me," saith Christ, "for I am meek and lowly in spirit, and you shall find rest unto 
-your souls." 
-
-5. The two natures of Christ, though really distinguished, yet were inseparably 
-joined; so must our natures, though at great distance from God, be inseparably 
-joined to Christ, and thereby to God. "I pray," saith Christ, "that they all may be 
-one, as thou, Father, art in me, and I in thee, that they also may be one in us." That 
-union of Christ's two natures, we call an hypo statical union; and this union of 
-Christ with us, we call a mystical and spiritual union; yet though it be mystical and 
-spiritual, this hinders not but that it is a true, real union, whereby the believer is 
-united to the Son of God. O what a privilege is this; a poor believer, be he never so 
-mean a man or miserable in the eye of the world, yet is one with Christ, as Christ is 
-one with the Father. "Our fellowship is with the Father, and with his Son Jesus 
-Christ." Every saint is Christ's fellow; there is a kind of proportion between Christ 
-and his saints in everything; if we take a view of all Christ, what he is in his 
-
-
-
-person, in his glory, in his spirit, in his graces, in his Father's love, and in the 
-access he hath to the Father, in all these we are, in a sort, fellows with Christ; only 
-with this difference, that Christ hath the pre-eminence in all things: all comes from 
-the Father, first to Christ; Christ by his union hath all good things without measure, 
-but we by our union have them only in measure, as it pleaseth him to distribute. 
-But herein if we resemble Christ, whether in his union with the Father, or in his 
-union of the two natures in one person of a Mediator, if by looking on Christ, we 
-come to this likeness, to be one with Christ, O what a privilege is this ! Had we not 
-good warrant for so high a challenge, it could be no less than a blasphemous 
-arrogance to lay claim to the royal blood of heaven; but the Lord is pleased to 
-dignify a poor worm, that every believer may truly say, I am one with Jesus Christ, 
-and Jesus Christ is one with me. 
-
-
-
-Nay, yet more, my sufferings are Christ's, Col. i. 24, and Christ's sufferings are 
-mine, Rom. viii. 17. 1 am in Christ an heir of glory. O my Christ, my life, what am 
-I, or what is my father's house, that thou shouldst come down into me? that thou 
-shouldst be conceived in my poor sinful heart, that thou shouldst give my soul a 
-new, a spiritual life, a life begun in grace, and ending in eternal glory ! I shall not 
-reckon up any more privileges of this union. Methinks I should not need. If I tell 
-you of grace and glory, what can I more? Glory is the highest pitch, and Christ tells 
-
-
-
-you concerning it. "The glory which thou gavest me, I have given them, that they 
-may be one, even as we are one." Ah, my brethren, to be so like Christ, as to be 
-one with Christ, it is near indeed! O let us conform to Christ in this: he is one with 
-our nature in an hypostatical, personal union; let us be one with him in a spiritual, 
-holy, and mystical union. If God be not in our persons as truly, though not as fully 
-as in our nature, we have no particular comfort from this design of his personal, 
-hypostatical, and wonderful union. 
-
-6. When Christ was born, all Jerusalem was troubled; so when this new birth is, we 
-must look that much commotion and much division of heart will be. The devil 
-could not be cast out of the possessed person, but he would tear and torment him. 
-We cannot expect that Christ should expel Satan from the dominion he hath over 
-us, but he will be sure to put us to great fear and terror. Besides, not only the evil 
-spirit, but God's Spirit is for a while a spirit of bondage. There are many pretenders 
-to the grace of God in Christ, but they cannot abide to hear of any pains in this new 
-birth. Oh, this is legal! But I pray thee tell me, dost thou know any woman bring 
-forth in her sleep, or in a dream, without feeling any pain? And how then should 
-the heart of man be thus changed and moulded without several pangs and troubles; 
-"in sorrow shall thou bring forth children": so it is, and must be, in our spiritual 
-birth; there is usually (I will not say always, to such or such a degree) many pangs 
-
-
-
-and troubles, there is many a throb, and many a heartache, ere Christ can be 
-formed in us. 
-
-
-
-7. Christ after his birth did and suffered many things in his childhood; so should 
-we learn to bear God's yoke in our youth. O ye parents, do your duties, and in that 
-respect imitate Joseph and Mary in their care of the holy child Jesus: and O ye 
-children, do your duties, and imitate Jesus, the blessedest pattern that ever was, that 
-as you grow in stature, you also might grow in favour with God and man. 
-
-Thus far we have looked on Jesus, as our Jesus in his incarnation. Our next work is 
-to look on Jesus carrying on the great work of man's salvation during his life, from 
-John's baptism until his dying on the cross. 
-
-
+Thus far we have looked on Jesus, as our Jesus in his incarnation. Our next work is to look on Jesus carrying on the great work of man's salvation during his life, from John's baptism until his dying on the cross.
 
 LOOKING UNTO JESUS IN HIS LIFE
