@@ -5,6 +5,10 @@ cssclasses:
 
 ## THE SINGING SUFFERER (CHRIST THE CHOIR MASTER) TRAJECTORY TABLE
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9X7ApwndJxY?si=ir_8Xd9doH5pFpCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/9X7ApwndJxY)
+
 The Singing Sufferer trajectory traces the remarkable biblical pattern of righteous suffering that produces praise. Beginning with the lament psalms where cries of anguish consistently resolve into declarations of praise "in the midst of the congregation" (Psalm 22:22), through Jonah's thanksgiving from the belly of Sheol, this pattern finds its ultimate fulfillment in Christ. Hebrews 2:12 explicitly quotes Psalm 22:22, identifying Jesus as the one who sings praise among His brothers. The sufferer who cries "My God, why have you forsaken me?" is revealed to be the same one who declares God's name and leads the redeemed assembly in worship. Christ is not only the subject of the psalms but their singer—the righteous sufferer who transforms anguish into adoration and becomes the choir master of the redeemed in eternal worship.
 
 **Type Classification**: **Backward-Looking** (recognized as typological from NT vantage point—Hebrews reveals Christ as the singer of Psalm 22) and **Providential Type** (the pattern of suffering-to-praise sovereignly arranged through David, Jonah, and ultimately Christ).
