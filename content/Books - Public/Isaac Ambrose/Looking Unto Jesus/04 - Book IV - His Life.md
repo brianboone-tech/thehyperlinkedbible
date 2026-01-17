@@ -1,0 +1,2557 @@
+# Book IV - His Life
+
+*Looking unto Jesus in His Life and Ministry*
+
+[[Books - Public/Isaac Ambrose/Looking Unto Jesus/03 - Book III - His Birth|← Book III - His Birth]] | [[Books - Public/Isaac Ambrose/Looking Unto Jesus/05 - Book V - His Death|Book V - His Death →]]
+
+---
+
+BOOK IV 
+
+
+
+1 John i. 2, "For the life was manifested, and we have seen it." 
+
+
+
+CHAP. I 
+
+
+
+Sect. I. — Of the Beginning of the Gospel 
+
+
+
+In this piece, as in the former, we must first lay down the object, and then direct 
+you how to look to it. 
+
+The object is Jesus carrying on the work of man's salvation during the time of his 
+life. — Now in all the transactions of this time, we shall observe them as they were 
+carried on successively in those three years and a half of his ministerial office. 
+
+For the first year, the evangelist Mark begins thus: "The beginning of the gospel of 
+Jesus Christ the Son of God"; q. d. the beginning of that age of the world, which 
+the prophets pointed out for the time of good things to come; or the beginning of 
+the completion of that gospel, which, in respect of the promise, was from the 
+beginning of the world. 
+
+
+
+That now was the beginning of the gospel, appears, in that baptism (which was 
+only used among the Jews, for the admission of heathens to their church,) is now 
+proposed to the Jews themselves; showing, that now they were to be transplanted 
+
+
+
+into a new profession; that the Gentiles and they were now to be knit into one 
+church and body. Indeed the doctrine of John was of a different strain from the 
+literal doctrine of the law, in the sense of the Jews; for that called all for works, "do 
+this and live": but John called for repentance, and for the renewing of the mind, 
+and for belief in him that was coming after, disclaiming all righteousness by the 
+works of the law. 
+
+
+
+Hence one observes that the evangelist Luke points out this year in a special 
+manner; it was the "fifteenth year of Tiberius Caesar; at which time," said he, 
+"Pilate was governor of Judea, Herod was tetrarch of Galilee, Philip was tetrarch of 
+Iturea, Lysanias was tetrarch of Abilene, and Annas and Caiaphas were high- 
+priests. And then, even then, the word of God came unto John the son of Zacharias, 
+in the wilderness. "See how exact the evangelist is, that so remarkable a year of the 
+beginning of the gospel might be made known to all the world. I shall begin the 
+first year of Christ's life with the beginning of John's preaching, which was six 
+months current before the ministry of Christ. 
+
+
+
+Sect. II. — Of the Preaching of John Baptist 
+
+
+
+Now was it that the gospel began to dawn; and John, like the morning star 
+springing from the windows of the east, foretells the approach of the Sun of 
+righteousness: now was it that he laid the first rough stone of the building in 
+mortification, self-denial, and doing violence to our natural affections. I read not 
+that ever John wrought a miracle, but good works convince more than miracles 
+themselves. To this purpose, I suppose, John the Baptist spent his time in prayer, 
+meditation, and colloquies with God, eating flies and wild honey in the wilderness, 
+that he might be made a fit instrument of preparation of the gospel of Christ. 
+
+John's sermons were to those of Jesus as a preface to a discourse: — 
+
+His usual note was repentance, the axe to the root, the fan to the floor, the chaff to 
+the fire. As his raiment was rough, so was his tongue; and thus must the way be 
+made for Christ, in obstinate hearts. Plausibility, or pleasing of the flesh, is no fit 
+preface to regeneration. If the heart of man had continued upright, Christ might 
+have been entertained without contradiction; but now violence must be offered to 
+our corruptions, ere we can make room for grace. If the great way-maker do not 
+cast down hills and raise up valleys in the bosoms of men, there is no passage for 
+Christ; never will Christ come into that soul, where the herald of repentance, either 
+in one motive or other, hath not been before him. 
+
+
+
+Shall we hear that sermon that John preached, in his own words? "Repent ye, for 
+the kingdom of heaven is at hand." These are the words when he first began to 
+preach the gospel of Christ; and indeed we find Christ himself doth preach the 
+same doctrine, in the same words: "Jesus began to preach, and to say, Repent; for 
+the kingdom of heaven is at hand." 
+
+O how seasonable is this sermon to Christians ! Hath not the kingdom of heaven 
+approached unto us? Take the kingdom of heaven for the kingdom of glory, are we 
+not near to the door of glory, to the confines of eternity? What is our life, but a 
+vapour that appeareth for a little time, and after it vanisheth away? We know not 
+but ere the sun have run one round, our souls may be in that world of souls, and so 
+either in heaven or hell. — Or take the kingdom of heaven for the church of Christ, 
+and what expectation have we now of the flourishing state of Christ's church here 
+upon earth? "Then shall the children of Israel and of Judah be gathered together, 
+for great shall be the day of Jezreel," Hos. i. 1 1. A time is at hand, that Israel and 
+Judah shall be called together, that the fullness of the Gentiles shall come in; and 
+what is this but the great day of Jezreel? Then what manner of persons ought we to 
+be; how spiritual, how heavenly-minded! Arise, arise, shake off thy dust, for thy 
+light is coming, and the glory of the Lord is rising upon thee. — But I will not dwell 
+
+
+
+on this; my design is to consider of Jesus, and of the transactions of Jesus in 
+reference to our souls' health: now, John's sermons were only a preparative to the 
+manifestation of Jesus. 
+
+
+
+Sect. III. — Of the Baptism of Jesus 
+
+
+
+He that formerly was circumcised, would now be baptized; he was circumcised to 
+sanctify his church that was, and he was baptized to sanctify his church that should 
+be; we find him in both testaments opening a way into heaven. This was the first 
+appearing of Christ in reference to his ministerial office; he that lay hid in the 
+counsel of God from all eternity, and he that lay hid in the womb of his mother for 
+the space of forty weeks, and he that lay hid in Nazareth for the space of thirty 
+years, now at last begins to show himself to the world: he comes from Galilee to 
+Jordan, to John, to be baptized of him. Now was the full time come that Jesus took 
+leave of his mother and his trade, to begin his Father's work, in order to the 
+redemption of the world. — For the clearer understanding of Christ's baptism, we 
+shall examine these particulars: 
+
+
+
+1 . What reason had Christ to be baptized? 
+
+
+
+2. How was it that John knew him to be Christ? 
+
+
+
+3. Why was it that the Holy Ghost descended on Jesus? 
+
+
+
+I. What reason had Christ to be baptized? We find John himself wondering at this; 
+"I have need to be baptized of thee, and comest thou to me?" Many reasons are 
+given for Christ's baptism: (1.) That he might bear witness to the preaching and 
+baptism of John, and might reciprocally receive a testimony from John. (2.) That 
+by his own baptism, he might sanctify the water of baptism to his own church. (3.) 
+That he might fulfill all righteousness not only the moral, but the figurative, 
+ceremonial, and typical. Some think, that the ceremony which our Saviour looked 
+at in these words, was their washing of the priests in water, when they entered into 
+their function: "And Aaron and his sons thou shalt bring to the door of the 
+tabernacle of the congregation, and shalt wash them with water." And surely this 
+was the main reason of Christ's being baptized, that by this baptism he might be 
+installed into his ministerial office. 
+
+
+
+2. How did John know him to be Christ? the Baptist speaks expressly, "I knew him 
+not, but he that sent me to baptize with water, the same said unto me, On 
+
+
+
+whomsoever thou shalt see the Spirit descending, and abiding on him, the same is 
+he that baptizeth with the Holy Ghost." Now, this descent of the Holy 
+Ghost was not till after baptism; how then did he know him to be Christ? 
+
+
+
+It is not unlikely but John knew Christ at his first arrival by revelation. Thus 
+Samuel knew Saul; and thus John might know Christ. That knowledge he had after 
+baptism, was a further confirmation of that knowledge that he had before baptism, 
+and that not so much for his own sake, as for the people's; "I saw, and bare record, 
+that this is the Son of God." 
+
+
+
+3. Why was it that the Holy Ghost descended on Jesus? I answer, For these 
+reasons, 1. That John the Baptist might be satisfied; for this token was given John, 
+when he first began to preach, That upon whom he should see the Spirit 
+descending and remaining on him, the same is he which baptizeth with the Holy 
+Ghost. (2.) That Christ himself might be anointed or installed to his function: "The 
+Spirit of the Lord is upon me, because the Lord hath anointed me to preach good 
+tidings unto the meek." As Aaron and his sons were anointed with material oil, 
+when they entered into their offices, so Christ was by the Spirit (as it were) 
+anointed, that so he might receive this consecration and institution for the office 
+that he was to enter on, viz. the preaching and ministry of the gospel. 
+
+
+
+4. Why in the form of a dove, rather than some other form? — Perhaps, 
+
+
+
+(1.) To show Christ's innocency, purity, and love. (2.) To answer the figure in 
+Noah's flood; for as a dove at that time brought tidings of the abating of the waters, 
+so now it brings tidings of the abating of God's wrath, upon the preaching of the 
+gospel. 
+
+Observe, the baptism we use, and the baptism of John, are in nature and substance 
+one and the same. 1. John preached the baptism of repentance, for the remission of 
+sins. They have therefore the same doctrine, and the same promise. 2. The baptism 
+ministered by John pertained to the fulfilling of all righteousness. And Luke 
+testifies, that the publicans and people being baptized of John, they justified God. 
+But the Pharisees despised the counsel of God against themselves, and were not 
+baptized. Only herein lies the difference, that John baptized in Christ that should 
+die and rise again; but we baptize in the name of Christ that is dead, and risen 
+again. It is a difference in respect of circumstance, but not of the substance: Oh, 
+take heed of throwing away the baptism of water, upon the pretence of baptism 
+only with fire! Christ, we see, hath joined them together, and let no man separate 
+
+
+
+them asunder: Christ himself was baptized with fire; and yet Christ himself was 
+baptized with water. 
+
+
+
+Sect. IV. — Of the Fasting and Temptation of Christ 
+
+
+
+No sooner is Christ come out of the water of baptism, but he enters into the fire of 
+temptation. No sooner is the Holy Spirit descended upon his head, but he is led by 
+the same Holy Spirit to be tempted in the wilderness. No sooner doth God say, 
+"This is my Son"; but Satan puts it to the question, "If thou be the Son of God?" 
+All these are but Christ's preparatives to his prophetical office. In the former, 
+Christ was prepared by a solemn consecration; now he is further prepared by 
+Satan's temptation. In the same method as the evangelist lays it down, Matt. iv. 1- 
+12, 1 shall proceed. "Then was Jesus led up of the Spirit into the wilderness, to be 
+tempted of the devil." In the whole, we may observe these several branches: First, 
+the place where the temptation was, the wilderness; Secondly, the cause of Christ's 
+going into the wilderness, the Spirit's leading; Thirdly, the end of the Spirit's 
+leading Christ into the wilderness, to be tempted of the devil; Fourthly, the time 
+and occasion of the devil's onset, at the end of forty days' fast, and when he was an 
+hungered; Fifthly, the temptations themselves, which are in number, three; to 
+which are added as many victories, which Christ had over the tempter; who 
+
+
+
+therefore "left him, and so the angels came and ministered unto him." — I shall 
+begin first with the place where the temptation was; to wit, in the wilderness. 
+
+
+
+This wilderness was not that same wilderness, or not that same place of the 
+wilderness, wherein John Baptist lived, Matt. iii. 1, for that wherein John Baptist 
+lived, was a place inhabited. There was in that place cities and towns, and a 
+number of people to whom John preached; but this wilderness was devoid of men, 
+full of wild beasts. So saith Mark - "He was tempted of Satan, and was with the 
+wild beasts." As Adam, in his innocency, lived with wild beasts, and they hurt him 
+not; so Christ, the second Adam, lives here in a wilderness with wild beasts, and 
+has no hurt at all. He is Adam-like in his safety and security; above Adam in the 
+resisting of temptation. Probably, during his forty days' abode, Christ was 
+continually exercised in prayer and fasting: but he knew he had the great work of 
+redemption to promote; and therefore his conversation for this interval must be 
+preparatory to it; in this respect, I know not but the wilderness might be an 
+advantage to Christ's design: in this solitary place he could not but breathe out 
+more pure inspiration. Heaven usually is more open, and God usually is more 
+familiar in his visits, to such places. 
+
+
+
+2. The cause of Christ's going into the wilderness, was, the Spirit's leading: "Then 
+was Jesus led of the Spirit into the wilderness." Christ was led by the good Spirit, 
+to be tempted by the evil spirit: O wonder! that same Spirit which was one with the 
+Father and the Son, that same Spirit whereby Christ was conceived, now drives 
+him or leads him into the wilderness, to be tempted of the devil. Christ himself 
+would not go into the combat uncalled, unwarranted; how then should we poor 
+weaklings presume upon any abilities of our own ! Who dares grapple with the 
+devil in his own strength? Oh, take heed! If we are to pray not to be led into 
+temptation, much more are we to pray not to run into temptation before we are led: 
+and yet for the comfort of God's people, if it be so that we are led — if by divine 
+permission, or by an inspiration of the Holy Spirit, we are engaged in an action, or 
+in a course of life, that is full of temptations — let us look upon it as an issue of 
+divine providence, in which we must glorify God. 
+
+
+
+3. The end of the Spirit's leading Christ into the wilderness, was either immediate, 
+or remote. 1. The immediate end was, to be tempted of the devil: to this purpose 
+was Christ brought thither, that Satan might tempt him. One would think it a very 
+strange design, that the Son of God should be brought into a wilderness to be set on 
+by all the devils in hell; but in this also, God had another remote end, i.e. his own 
+glory and our good. 1. His own glory appeared in this; had not Satan tempted 
+
+
+
+Christ, how should Christ have overcome Satan? Herein was the power of Christ 
+exceedingly manifested: the devil having the chain let loose, lets fly at Christ with 
+all his might; and Christ both overcomes him, and triumphs over him. And herein 
+were the graces of Christ exceedingly manifested: how was the faith, patience, 
+humility, zeal, and valour of Christ set forth; which they could not have been, if he 
+had always lain quietly in garrison, and never had come into the skirmish? (2.) As 
+it was for his glory, so also for our good. Now we see what manner of adversary 
+we have, how he fights, and how he is resisted, and how overcome; now we see, 
+the dearer we are to God, the more obnoxious we are to temptation; now we see 
+that the best of saints may be tempted or allured to the worst of evils, since 
+Christ himself is solicited to infidelity, covetousness, and idolatry: now we see that 
+we have not an High-priest that cannot be touched with the feeling of our 
+infirmities, but such a one as was in all things tempted in like sort, yet without sin; 
+and therefore we may go boldly to the throne of grace, that we may receive mercy, 
+and find grace in time of need. 
+
+
+
+4. The time and occasion of the devil's onset; it was "at the end of forty days' fast, 
+and when he was an hungered." Moses fasted forty days at the delivery of the law; 
+and Elias fasted forty days at the restitution of the law; and to fulfill the time of 
+both these types, Christ thinks it fit to fast forty days at the accomplishment of the 
+
+
+
+law, and the promulgation of the gospel. In fasting so long, Christ manifests his 
+almighty power; and in fasting no longer, Christ manifests the truth of his 
+manhood, and of his weakness: to show that he was man as well as God, and so a 
+fit Mediator betwixt God and man, he would both feed and fast; make use of the 
+creature, and withal fulfill hunger. — And now our Saviour is an hungered. This 
+gives occasion to Satan to set upon him with his fierce temptations. He knows well 
+what baits to fish withal, and when and how to lay them. He considers the temper 
+and constitution of the person he is to tempt. And he observes all exterior 
+accidents, occasions, and opportunities. 
+
+5. The temptations themselves are in number three; whereof the first was this: "If 
+thou be the Son of God, command that these stones be made bread." What an 
+horrible entrance is this: "If thou be the Son of God"! No question, Satan had heard 
+the glad tidings of the angel; he saw the star, and the journey and the offerings of 
+the sages; he could not but take notice of the gratulations of Zachary, Simeon, and 
+Anna. And of late, he saw the heavens open, and heard the voice that came down 
+from heaven: "This is my beloved Son, in whom I am well pleased." And yet, now 
+that he saw Christ fainting with hunger, as not comprehending how infirmities 
+could consist with a godhead, he puts it to the question, "If thou be the Son of 
+God." Here is a point in which lies all our happiness: how miserable were we, if 
+
+
+
+Christ were not indeed the Son of God? Satan strikes at the root, in this 
+supposition: surely, all the work of our redemption, and all the work of our 
+salvation, depends upon this, that Jesus Christ is the Son of God. If Christ had not 
+been the Son of God, how should he have ransomed the world? How should he 
+have done, or how should he have suffered, that which was satisfactory to his 
+Father's wrath? If Christ be not the Son of God, we are all gone; we are lost, we 
+are undone, we are damned forever. Farewell glory, farewell happiness, farewell 
+heaven. If Christ be not the Son of God, we must never come there. Well, Satan, 
+thou beginnest thy assault like a devil indeed: "If thou be the Son of God"; but 
+what then? "Command that these stones be made bread." He knew Jesus was 
+hungry; and therefore, he invites him to eat bread only of his own providing, that 
+so he might refresh his humanity, and prove his divinity. There is nothing more 
+ordinary with our spiritual enemy, than, by occasion of want, to move us to 
+unwarrantable courses: if thou art poor, then steal; if thou canst not rise by honest 
+means, then use indirect means. I know Christ might as lawfully have turned stones 
+into bread, as he turned water into wine; but to do this in a distrust of his Father's 
+providence, to work a miracle of Satan's choice, and at Satan's bidding, it could 
+not be agreeable with the Son of God. And hence Jesus refuseth to be relieved; he 
+would rather deny to manifest the divinity of his person, than he would do any act 
+which had in it the intimation of a different spirit. O Christians ! it is a sinful care to 
+
+
+
+take evil courses to provide for our necessities. Come, it may be thou hast found a 
+way to thrive, which thou couldst not do before. O take heed; was it not of the 
+devil's prompting, to change stones into bread? sadness, into sensual comforts? 
+If so, then Satan hath prevailed: alas, he cannot endure thou shouldst live a life of 
+austerity, or self-denial, or mortification; if he can but get thee to satisfy thy senses, 
+and to please thy natural desires, he then hath a fair field for the battle. It were a 
+thousand times better for us to make stones our meat, and tears our drink, than to 
+swim in our ill-gotten goods, and in the fullness of voluptuousness. 
+
+But what was Christ's answer? "It is written, Man shall not live by bread alone, but 
+by every word that proceedeth out of the mouth of God." 
+
+
+
+1 . It is written. He easily could have confounded Satan by the power of his 
+godhead; but he rather chooses to vanquish him by the sword of the Spirit. Surely 
+this was for our instruction. By this means he teacheth us how to resist, and to 
+overcome. Nothing in heaven or earth can beat the forces of hell, if the word of 
+God cannot do it: O then, how should we pray with David, "Teach me, O Lord, the 
+way of thy statutes — and take not from me the words of truth; let them be my 
+songs in the house of my pilgrimage — so shall I make answer to my blasphemers." 
+
+
+
+2. Man shall not live by bread. Whilst we are in God's work, God hath made us a 
+promise of the supply of all provisions necessary for us. Jesus was now in his 
+Father's work, therefore he was sure to be provided for, according to God's word. 
+Christians! are we in God's service? God will certainly give us bread; and till he 
+does, we can live by the breath of his mouth, by the light of his countenance, by 
+the refreshment of his promises, by every word that proceedeth out of the mouth of 
+God. Every word of God's mouth can create a grace, and every grace can supply 
+two necessities, both of the body, and of the spirit. I remember one kept straitly in 
+prison, and sorely threatened with famine: he replied, "That if he must have no 
+bread, God would so provide that he should have no stomach." If our stock be 
+spent, God can lessen our necessities: if a tyrant will take away our meat, God our 
+Father knows how to alter our feint, and feeble, and hungry appetites. 
+
+
+
+The-second temptation is not so sensual; the devil sees that was too low for Christ, 
+and therefore he comes again with a temptation something more spiritual: "He sets 
+him on a pinnacle of the temple, and saith unto him, If thou he the Son of God, cast 
+thyself down; for it is written, he shall give his angels charge concerning thee." He 
+that was content to be led from Jordan into the wilderness, yields to be led from the 
+wilderness to Jerusalem. The wilderness was fit for a temptation arising from want, 
+and Jerusalem for a temptation arising from vain-glory. 
+
+
+
+Methinks it is a sweet contemplation of an holy divine; he supposed as if he had 
+seen Christ on the highest battlements of the temple, and Satan standing by him 
+with this speech in his mouth: "Well then, since in the matter of nourishment thou 
+wilt needs depend upon thy Father's providence; take now a further trial of that 
+providence, in thy miraculous preservation: cast thyself from this height; and if 
+thou be God, now the eyes of all men are fixed upon thee, there cannot be devised 
+a more ready way to spread thy glory, and to proclaim thy deity: and for danger, if 
+thou art the Son of God, there can be none; what can hurt him that is the Son of 
+God?" Come, cast thyself down, saith Satan: but why did not Satan cast him 
+down? He carried him up thither; and was it not more easy to throw him down 
+thence? O no, the devil may persuade us to a fall, but he cannot precipitate us 
+without our own act; his malice is infinite, but his power is limited: he cannot do us 
+any harm, but by persuading us to do it ourselves; and therefore saith he to Christ, 
+"Cast thyself down." 
+
+
+
+To this Christ answers, "Thou, shall not tempt the Lord thy God." Though it is 
+true, that God must be trusted in, yet he must not be tempted; if means be allowed, 
+we must not throw them away upon a pretence of God's protection. Christ knew 
+well enough that there were ordinary descents by stairs from the top of the temple, 
+
+
+
+and therefore he would not so tempt God as to throw himself headlong. All the 
+devils in hell could not so tempt Christ, as to make him tempt his God. 
+
+
+
+The third temptation is yet more horrid; the temple was not high enough, so that 
+Satan takes him up to the top of an exceeding high mountain, and shews him all the 
+kingdoms of the world, and the glory of them, saying, "All these will I give thee, if 
+thou wilt fall down and worship me." In this temptation the devil united all his 
+power; by an angelical power he drew into one centre all the kingdoms and glories 
+of the worlds and made an admirable map of beauties, and represented them to the 
+eyes of Jesus: he thought ambition more likely to ruin him, because he knew it was 
+that which prevailed upon himself; therefore, "Come," saith Satan, "all these will I 
+give thee, if thou wilt fall down and worship me." How! God worship the devil? 
+Was ever the like blasphemy since the creation? The Lamb of God, that heard all 
+the former with patience, could by no means endure this : he commands him away, 
+and tells him, "It is written, Thou shall worship the Lord thy God, and him only 
+shall thou serve." Now was the devil put to flight, and, in his stead, the angels 
+came and ministered unto Jesus; i.e. after his fast they minister such things as his 
+necessities required. 
+
+
+
+O Christians! what shall we say to this? If Christ was thus tempted by Satan, what 
+may we look for? Sometimes it cheers my heart to think that Christ was tempted, 
+because thereby he knows how to succour those that are tempted; and sometimes it 
+affrights my soul to think that Satan durst be so bold with Jesus Christ. Oh what 
+may he do with me ! how easily may he prevail against my soul ! When he came to 
+tempt Christ, he found nothing in him to join with him in the temptation; but in my 
+heart is a world of corruptions, and, unless the Lord prevent, I am quickly gone. 
+
+
+
+Sect. V. — Of the First Manifestation of Christ 
+
+
+
+To manifest Christ were many witnesses. As, 1. From heaven the Father is witness: 
+"For see," saith Christ, "the Father that sent me, beareth witness of me: and the 
+Son is witness"; for so saith Christ, "I am one that bear witness of myself; and 
+though I bear record of myself, yet my record is true, for I know whence I came, 
+and whither I go": and the Holy Ghost is witness; so saith Paul, "TheHoly Ghost 
+also is a witness to us"; and to that purpose he descended like a dove, and lighted 
+upon him. 2. On earth, John the Baptist is witness; for so saith Christ: "Ye sent 
+unto John, and he bare witness unto the truth; he came for a witness, to bear 
+witness of the light, that all men through Christ might believe." No sooner was 
+John confirmed by a sign from heaven that Jesus was the Christ, but he 
+
+
+
+immediately manifests it to the Jews, and first to the priests and Levites sent from 
+the Sanhedrim; and secondly:, to all the people he professeth, wheresoever he saw 
+Jesus Christ, "This is he"; yea, he points him out with his finger, "Behold the 
+Lamb of God, that taketh away the sins of the world." Then he shows him to 
+Andrew, Simon Peter's brother, and then to another disciple with him, "who both 
+followed Jesus, and abode with him all night." Andrew brings his brother Simon 
+with him. Then Jesus himself finds out Philip of Bethsaida, and bade him follow 
+him; and Philip finds out Nathanael, and bids him come and see, for the Messiah 
+was found. Thus we see no less than five disciples found out at first, which must be 
+so many witnesses of Jesus Christ. 
+
+And yet we find more witnesses: "The works," saith Christ, "that I do in my 
+Father's name, they bear witness of me." These works or miracles of Christ were 
+many; but because we are speaking of his first manifestation, I shall instance only 
+in his first work, which was at a marriage in Cana of Galilee. The power of 
+miracles had now ceased since their return out of captivity; the last miracle that 
+was done by man until this very time, was Daniel tying up the mouths of the lions; 
+and now Christ begins. He that made the first marriage in paradise, bestows his 
+first miracle upon a marriage-feast. O happy feast where Christ is a guest! I believe 
+this was no rich or sumptuous bridal: who ever found Christ at the magnificent 
+
+
+
+feasts or triumphs of the great? The poor bridegroom wants drink for his guests; 
+and as soon as the holy virgin hath notice of it, she complains to her son: — 
+whether we want bread or wine, necessaries or comforts, whither should we go but 
+to Christ? But Jesus answered her, "Woman, what have I to do with thee? Mine 
+hour is not yet come." This shows, that the work he was to do must not be done to 
+satisfy her importunity, but to prosecute the great work. In works spiritual and 
+religious, all outward relation ceaseth: matters of miracle concerned the godhead 
+only; and in this case, "O woman, what have I to do with thee?" We must not deny 
+love and duty to relations; but in the things of God, natural endearments must pass 
+into spiritual; and like stars in the presence of the sun, must not appear. Paul could 
+say, "Henceforth know we no man after the flesh; yea, though we have known 
+Christ after the flesh, yet now henceforth know we him no more." 
+
+
+
+At the command of Jesus, the water-pots were filled with water, and the water by 
+his divine power is turned into wine; where the different dispensation of God and 
+the world is highly observable: "Every man sets forth good wine at first, and then 
+the worse": but Christ not only turns water into wine, but into such wine that at the 
+last draught is most pleasant. These were the first manifestations of Jesus; you see 
+he had several witnesses to set him forth; some from heaven, and some on earth: 
+the Father, Son, and Holy Ghost witness from heaven; the Baptist, disciples, and 
+
+
+
+his works, witness on earth; and there's no disagreement in their witness, but all 
+bring in this testimony of Jesus, that he is the Messiah; that is, being interpreted, 
+the Christ. 
+
+
+
+But what are those manifestations to us? or to that great design of Christ in 
+carrying on our souls' salvation? Much every way. For either must Christ be 
+manifested to us even by these witnesses, in the preaching of the gospel, and 
+manifested in us by that one witness, his Holy Spirit, or we are undone forever. 
+
+1 . Christ must be manifested to us in the preaching of the gospel. This mercy we 
+have this day; nay, you see every sabbath-day all the witnesses speak in us. What 
+do we, but in God's stead, in the Baptist's stead, in the disciples' stead, manifest 
+Christ to you in every sermon! It is the commission which Christ hath given us of 
+the ministry; "Go preach the gospel to every creature." 
+
+
+
+2. Christ must be manifested in us by his Holy Spirit. Christians ! look to your 
+hearts; what manifestations of Christ are there? When Paul speaks of the gospel in 
+general, he adds in particular, "that it pleased God to reveal Christ in me." And 
+when Peter speaks of the word of God, he adds, "That we take heed thereunto — 
+until the day dawn, and the day-star (that is, Christ, Rev. xxii. 16.) arise in your 
+
+
+
+hearts": until then, though we be circled with gospel-discoveries, our hearts will be 
+full of darkness; but when Christ (whom the prophet calls, "The Sun of 
+Righteousness," and Peter, "The Day-star") shall arise within us, we shall be full of 
+light. 
+
+
+
+Sect. VI. — Of Christ's Whipping the Buyers and Sellers out of the Temple 
+
+Concerning Christ's whipping the buyers and sellers out of the temple, we read in 
+the gospel, that "the Jews' passover being at hand, Jesus went up to Jerusalem": 
+thither, if we follow him, the first place that we find him in, is the temple; where, 
+by the occasion of the national assembly, was an opportune scene for Christ's 
+transactions, in that temple Christ first espies a mart; there were divers merchants 
+and exchangers of money, that brought beasts thither to be sold for sacrifice 
+against that great solemnity; at the sight of which Jesus being moved with 
+indignation, makes a whip of cords, and drives them all out of the temple, 
+overthrows the accounting tables, and commands them that sold the doves, to take 
+them from thence. 
+
+
+
+Sometimes I wonder at the irreverent carriage of some hearers; laughing, talking, 
+prating, sleeping, in our congregations: what! is this a demeanour beseeming the 
+
+
+
+presence of Christ? Wouldst thou carry thyself thus in the presence of a prince, or 
+of some earthly majesty; "If thou goest but into a king's palace," as Chrysostom 
+speaks, "thou composest thyself to a comeliness in thy habit, look, gait, and all thy 
+guise; and dost thou laugh?" I may add, dost thou any way carry thyself indecently 
+in God's presence? Some there are, that in the very midst of ordinances the devil 
+usually rocks them asleep: but O! dost thou not fear that thy damnation sleeps not? 
+How justly might Christ come against thee in his wrath, and whip thee out of the 
+temple into hell? Surely we should do well to behave ourselves in such a presence 
+with the thoughts of heaven about us; our business here is an errand of religion, 
+and God himself is the object of our worship: how then should our actions bear at 
+least some degrees of proportion to God and Christ? 
+
+
+
+And now was the first passover after Christ's baptism.— This was the first year of 
+Christ's ministry: whereof the one half was carried on by his forerunner, John the 
+Baptist; and the other half (betwixt his baptism and this first passover) was carried 
+on by himself. And now hath Christ three years to his death. I shall come on to the 
+second year, and to his actings therein in reference to our salvation. 
+
+
+
+CHAP. II 
+
+
+
+Sect. I. — Of the Second Year of Christ's Ministry 
+
+
+
+Now was it that the office of the Baptist was expired; and Christ beginning his 
+prophetical office, he appears like the sun in succession of the morning-star; he 
+preacheth the sum of the gospel, faith and repentance: "Repent ye, and believe the 
+gospel," Mark i. 15. Now, what this gospel was, the sum and series of all his 
+following sermons expressed. 
+
+By this time Jesus saw it convenient to choose more disciples: with this family he 
+goes up and down Galilee, "preaching the gospel of the kingdom, healing all 
+manner of diseases." 
+
+
+
+It is not my purpose to enlarge on all the sermons, miracles, or colloquies of Christ 
+with men: in this year, therefore, I shall limit myself to the consideration of Christ 
+in these two particulars: — 1. His preaching. 2. His miracles: both these relate to 
+the exercise of his prophetical office. 
+
+
+
+Sect. II. — Of Christ's Sermons this Year 
+
+
+
+1. His preaching this year was frequent; and, amongst others, now it was that he 
+delivered his first sermon, "Repent, for the kingdom of heaven is at hand." 
+
+
+
+2. Now was it that he delivered that spiritual and mystical sermon of regeneration, 
+at which Nicodemus wonders; "How can a man be born when he is old? Can he 
+enter a second time into his mother's womb, and be born?" But Jesus takes off the 
+wonder, in telling him, this was not a work of flesh and blood, but of the Spirit of 
+God; for "the Spirit bloweth where it listeth," and is as the wind, certain and 
+notorious in the effects, but secret in the principle and manner of production. 
+
+3. Now was it that the throng of auditors forced Christ to leave the shore. Whilst he 
+was upon land, he healed the sick bodies by his touch; and now he was upon sea, 
+he cured the sick souls by his doctrine: he that made both sea and land, causeth 
+both to conspire to the doing good to the souls and bodies of men. 
+
+
+
+4. Now it was that he preached that blessed sermon on that text. "The Spirit of the 
+Lord is upon me, because he hath anointed me to preach the gospel to the poor." 
+No question but he preached both to poor and rich, Christ preached to all; but for 
+the power and fruit of his preaching, it was only received by the poor in spirit. In 
+the following particulars, his office is set out still in an higher tenor: "To heal the 
+
+
+
+broken-hearted, to preach deliverance to the captives, and recovering of sight to the 
+blind"; or, as it is in Isaiah lxi. 1, "the opening of the prison to them that are 
+bound." A sad thing to be in captivity, but sadder to be bound in chains, or locked 
+up in a prison there; but 'tis most sad of all to be imprisoned, having one's eyes put 
+out, as was the case of Samson and Zedekiah. Now the evangelist, willing to render 
+the prophet to the highest sense that might be, useth an expression that meets with 
+the highest mystery; that is, when a man is not only shut up in a prison, but himself 
+also hath his eyes put out: to such Christ should preach, not only deliverance to the 
+captives, but also recovering of sight to blinded persons. 
+
+5. Now it was that he delivered the admirable sermon, called, The sermon on the 
+mount. It is a breviary of all those precepts which are truly called Christian; it 
+contains in it all the moral precepts given by Moses, and a more severe exposition 
+than the Scribes and Pharisees had given; it holds forth the doctrines of meekness, 
+poverty of spirit, Christian mourning, desire of holy things, mercy and purity, 
+peace and patience, and suffering of injuries; he teacheth us how to pray, how to 
+fast, how to give alms, how to contemn the world, and how to seek the kingdom of 
+God and its appendant righteousness. 
+
+
+
+And thus Christ being entered upon his prophetical office; in these and the rest of 
+his sermons he gives a clear testimony, that he was not only an interpreter of the 
+law, but a law-giver; and that this law of Christ might retain some proportion at 
+least with the law of Moses, Christ, in his last sermon, went up into a mountain, 
+and from thence gave the oracle. I cannot stand to paraphrase on this, or any other 
+of his sermons; but seeing now we find Christ in the exercise of his prophetical 
+office, let us observe, first, his titles in this respect. 2. The reasons of his being a 
+prophet. 3. The excellency of Christ above all other prophets. 
+
+Sect. III. -- Of Christ's Prophetical Office 
+
+1. The titles of Christ in respect of his prophetical office, were these; 1. Sometimes 
+he is called Doctor, or Master: "Be ye not called masters, for one is your Master, 
+even Christ." The word in the original signifies a doctor, moderator, teaching- 
+master, a guide of the way. 2. Sometimes he is called a Lawgiver: "There is one 
+Lawgiver, who is able to save and destroy." The apostle speaks of the internal 
+government of the conscience, in which case the Lord is our judge. 3. Sometimes 
+he is called a Counsellor; "and his name shall be called Wonderful, Counsellor": — 
+"Counsel is mine, and sound wisdom," saith Christ; "I am understanding, and I 
+have strength." 4. Sometimes he is called the Apostle of our profession: 
+
+
+
+"Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle 
+and High-priest of our profession, Christ Jesus." God sent him as an ambassador, 
+to make known his will; he came not unsent: the very word imports a mission, a 
+sending; "How shall they preach, except they be sent?" 5. Sometimes he is called 
+the Angel of the covenant: "even the Angel of the covenant, whom ye delight in." 
+Christ was the publisher of the gospel covenant; and in this respect he is called a 
+Prophet, Acts iii. 22, whose office it was to impart God's will unto the sons of 
+men, according unto the name, angel. 6. Sometimes he is called the Mediator of the 
+new covenant: "For this cause he is the Mediator of the new testament," saith the 
+apostle. Now, a mediator is such a one as goes betwixt two parties at variance, 
+imparting the mind of the one to the other, so as to breed a right understanding, and 
+thereby to work a compliance betwixt both: and thus Christ is a Mediator betwixt 
+God and us, an Interpreter, an inter-messenger betwixt God and his people. 
+
+
+
+2. The reasons of Christ's being a Prophet, were these: — 1. That he might reveal to 
+his people the will of his Father. 2. That he might open and expound the same, 
+being once delivered. 3. That he might make saints understand and believe the 
+same. 
+
+
+
+(1.) As a Prophet, he delivers to the people his Father's will, both in his own 
+person, and by his servants the ministers: in his own person, when he was upon 
+earth, as a minister of the circumcision; and by his servants the ministers, from the 
+beginning of their mission until the end of the world. 
+
+
+
+(2.) As a Prophet, he opens and expounds the gospel. Thus, being in the synagogue 
+on the sabbath-day, he "opened the book, and found the place where it was written. 
+The Spirit of the Lord is upon me, because he hath anointed me to preach the 
+gospel to the poor," &c. and then he closed the book, and said, "This day is this 
+scripture fulfilled in your ears." The gracious purpose of God towards lost 
+mankind, was a secret locked up in the breast of the Father; and so it had been even 
+to this day, had not Christ, who was in the bosom of the Father, revealed it unto us: 
+hence Christ is called the interpreter of God: no man knoweth the Father save the 
+Son, and he to whomsoever the Son will reveal him, by his interpretation. 
+
+
+
+(3.) As a Prophet, he gives us to understand and to believe the gospel. Then opened 
+he their understanding, that they might understand the scriptures; and thus was the 
+case of Lydia, whose heart the Lord opened. He that first opens scriptures, at last 
+opens hearts; he is that true light "which enlighteneth every man that cometh into 
+the world." He enlightens every man that cometh into the world. He enlightens 
+
+
+
+every believer, not only with a common natural light, but with a special 
+supernatural light, of saving, spiritual, and effectual knowledge. Now there is no 
+prophet can do this, save only Jesus Christ; he only is able to cause our hearts to 
+believe and to understand the matter which he doth teach and reveal: other 
+prophets may plant and water; "Paul may plant, and Apollos may water," but he, 
+and he only, can "give the increase." 
+
+3. The excellencies of Christ, above all other prophets, are in these respects: 
+
+(1.) Other prophets were but types and shadows of this great Prophet; even Moses 
+himself was but a figure of him: "A Prophet shall the Lord God raise up unto yon 
+of your brethren, like unto me," saith Moses. These words, like unto me, plainly 
+show that Moses was but an image and shadow of Christ. Now as substances far 
+excel shadows, so doth Christ far excel all the prophets. 
+
+
+
+(2.) Other prophets revealed but some part of God's will, and only at some times. 
+"God," saith the apostle, "at sundry times, and in divers manners, spake in time 
+past unto the fathers by the prophets"; i.e. he let out his light by little and little, till 
+the Day-star and Sun of righteousness arose; "but in these last days he hath spoken 
+by his Son," i.e. he hath spoken more fully and plainly; in this respect, saith the 
+
+
+
+apostle, the heirs of life and salvation were but children before Christ's 
+incarnation. - As now we see but through a glass darkly, towards what we shall do 
+in the life to come; so did they of old in comparison of us; their light, in 
+comparison of ours, was but an obscure and glimmering light. 
+
+
+
+(3.) Other prophets speak only to the ears of men, but Christ spake, and still 
+speaks, to the heart: "He hath the keys of David, that openeth and no man shutteth, 
+that shutteth, and no man openeth"; it is a similitude taken from them that keep the 
+keys of a city or castle, without whom none can open or shut; no more can any 
+man open the heart, or break in upon the spirit, but Christ; he only is able to open 
+the eyes of the mind by the secret, kindly, and powerful working of his own Spirit. 
+
+
+
+(4.) Other prophets had their commission and authority from him: "The words of 
+the wise are as goads, and as nails fastened by the masters of the assemblies, which 
+are given from one shepherd"; i.e. The words of the wise are divine and heavenly 
+instructions; the masters of assemblies are gospel-ministers; and Christ is that one 
+shepherd, from whom these words are given, and from whom these masters have 
+their authority. 
+
+
+
+Sect. IV. -- Of Christ's Miracles 
+
+
+
+1. The miracles of Christ this year were many: now what were these miracles but a 
+pursuance of the doctrines delivered in Christ's sermons? One calls them, "a 
+verification of Christ's doctrine, a signal of Christ's sermons." If we observe, we 
+shall find him to work most of his miracles in actions of mercy: indeed once he 
+turned water into wine, and sometimes he walked upon the waters; but all the rest 
+were actions of relief, according to the design of God, who would have him 
+manifest his power in showing mercy to men. 
+
+(1.) Amongst all his miracles done this year, now was that at Cana, where he 
+wrought the first miracle. He does a second; "A certain nobleman," or courtier, 
+"came to Jesus, and besought him to come down to his house, and to heal his son, 
+who was at the point of death." We do not find Christ often attended with nobility; 
+but here he is. This noble ruler listens after Christ in his necessity: happy was it for 
+him that his son was sick, for else he had not been so well acquainted with his 
+Saviour. The first answer Christ gives, is a word of reproof; "Except ye see signs 
+and wonders, ye will not believe." Incredulity was the common disease of the 
+Jews, which no receipt could cure but wonders: "A wicked and adulterous 
+generation seeketh after a sign." The doctrine of Christ, and all the words that he 
+spake, must be made up with miracles, or they will not believe. O what a sin is 
+
+
+
+this! Christ's next answer is a word of comfort: "go thy way, thy son liveth." O the 
+meekness and mercy of Jesus Christ! When we would have looked that he should 
+have punished this suitor for not believing, he condescends to him that he may 
+believe: "go thy way, thy son liveth." With one word doth Christ heal two patients, 
+the son and the father; the son's fever, and the father's unbelief. We cannot but 
+observe here the steps of faith, he that believed somewhat ere he came, and more 
+when he went, grew to more faith in the way, and when he came home he enlarged 
+his faith to all the skirts of his family. "And the man believed the word that Jesus 
+had spoken unto him, and he went his way"; and in the way one meets him and 
+tells him, "thy son liveth"; which recovery he understands to be at the same time 
+that Christ had spoken those healing words, and "himself believed, and his whole 
+house." 
+
+
+
+(2.) Now was it that a "centurion came unto Christ, beseeching him, and saying. 
+My servant lieth at home, sick of the palsy, grievously tormented." Many suitors 
+come to Christ, one for a son, another for a daughter, a third for himself, but I see 
+none come for his servant but this one centurion; and if we observe Christ's 
+answers to his suit, we see how well pleased Christ is with his request: "And Jesus 
+saith unto him, I will come and heal him." He is no respecter of persons, but he 
+that feareth him and worketh righteousness, is accepted of him. It may be this 
+
+
+
+servant had more grace, or he had more need, and therefore Christ will go down to 
+visit this poor sick servant. "Nay," says the centurion, "I am not worthy, Lord, that 
+thou shouldest come under my roof: q. d. Alas, Lord, I am a Gentile, an alien, a 
+man of blood, but thou art holy, thou art omnipotent; and therefore "only say the 
+word, and my servant shall be whole." The centurion knew this by the command 
+he had over his own servants: "I say to this man, go, and he goes; and to another, 
+come, and he comes; and to a third, do this, and he doth it." Oh that I were such a 
+servant to my heavenly Master! Alas! every of his commands says, do this, and I 
+do it not: every of his inhibitions say, do it not, and I do it. He says, Go from the 
+world, and I run to it. He says, Come to me, and I run from him. Woe is me! this is 
+not service, but enmity: Oh that I could come up to the faith and obedience of this 
+exemplar, that I could serve my Christ as these soldiers did their master! Jesus 
+marvels at the centurion's faith. We never find Christ wondering at gold, or silver, 
+or costly and curious works; but when he sees the acts of faith, he so approves of 
+them that he is ravished with wonder. And he that both wrought this faith, and 
+wondered at it, doth now reward it: "Go thy way, and as thou hast believed, so be it 
+unto thee; and his servant was healed in the self-same hour." 
+
+
+
+(3.) Now it was, even "the day after, that Jesus goes into the city of Nain." The 
+fruitful clouds are not ordained to fall all in one field; Nain must partake of the 
+
+
+
+bounty of Christ, as well as Cana or Capernaum. He no sooner enters the gate, but 
+he meets a funeral; a poor widow, with her weeping friends, is following her only 
+son to the grave; Jesus observing her sad condition, he pities her, comforts her, and 
+at last relieves her: here was no solicitor but his own compassion. In his former 
+miracles he was sued to: but now Christ offers a cure, to give us a lesson, that 
+"whilst we have to do with the Father of mercies, our miseries and afflictions are 
+the most powerful suitors." Christ sees and observes the widow's sadness, and 
+presently speaks comfortably to her, "Weep not: and he said, Young man, I say 
+unto thee, arise." See how the Lord of life speaks with command; the same voice 
+speaks to him, that shall one day speak to us, and raise us out of the dust of the 
+earth. So at the sound of the last trumpet, by the power of the same voice, we shall 
+arise out of the dust, and stand up gloriously: "This mortal shall put on 
+immortality, and this corruptible shall put on incorruption." And lest our weak 
+faith should stagger at so great a difficulty, by this he hath done, Christ gives us a 
+taste of what he will do; the same power that can raise one man, can raise a world. 
+
+
+
+(4.) Now it was that in the synagogue he finds "a man that had a spirit of an 
+unclean devil." This, I take it, is the first man that we read of as possessed with a 
+devil: "And he cried, Let us alone; what have we to do with thee?" &c. In these 
+words the devil dictates, the man speaks; and whereas the words are plural, let us 
+
+
+
+alone, it is probable he speaks of himself, and the rest of the men in the synagogue 
+with him. So high and dreadful things are spoken concerning the coming of Christ, 
+(Mai. iii. 2. "Who may abide the day of his coming? and who shall stand when he 
+appeareth?") that the devil by this takes opportunity to affright the men of the 
+synagogue with the presence of Christ; he would dissuade them from receiving 
+Christ by the terrors of Christ, as if Christ had come only to destroy them: "Thou 
+Jesus of Nazareth, art thou come to destroy us? I know thee who thou art, the Holy 
+One of God. And Jesus rebuked him, saying, Hold thy peace, and come out of 
+him." The word, hold thy peace, is, in the original, "he muzzled"; it was not a bare 
+command of silence, but there was such power in it, that it cast a muzzle upon the 
+mouth of Satan, that he could speak no more: "and when the unclean spirit had torn 
+him," not with any gashes in his flesh, or dismembering of his body, for he hurt 
+him not, but with some convulsion-fits, as it is supposed, then "he threw him in the 
+midst," and made an horrid cry, "and so came out." 
+
+
+
+They all take notice of the doctrine attested by so great a miracle. What a word is 
+this ! Surely this was the great design of all the miracles of Christ, to prove his 
+mission from God, to demonstrate his power unto men, to confirm his gospel, to 
+endear his precepts, to work in us faith to help us heavenward: These signs are 
+
+
+
+written that we might believe, — and that believing, we might have life through his 
+
+
+
+name. 
+
+
+
+I have given you several instances of the miracles of Christ in this second year of 
+his ministry; only a few words on this doctrine of miracles for our information: as 
+
+
+
+1. What they are? 
+
+2. Why they are? 
+
+3. Whether they are continued in this great transaction of our salvation? 
+
+For the first, What they are? Miracles are unusual events, wrought above the 
+course or possibility of nature: such were the miracles of Christ, and such were the 
+miracles of the prophets and of the apostles of Christ; for what they did was above 
+nature; and all the difference betwixt their miracles and the miracles of Christ, was 
+only in this, viz. they wrought them not in their own name and power, as Jesus 
+Christ did. 
+
+
+
+For the second, Why they are? many reasons are given, but this is the main: 
+"miracles are wrought for the grounding or confirming of some divine truth or 
+
+
+
+doctrine at its first settling." To this purpose, miracles were as the trumpets or 
+heralds by which the gospel was first commended unto us; as the law of Moses was 
+first authorized by manifold miracles wrought in Sinai, and in the desert, which 
+afterwards ceased when they were settled in the promised lands; so the gospel of 
+Christ was first authorized by manifold miracles, but the sound thereof having now 
+gone through all the world, these miracles cease. 
+
+For the third, Whether they are continued in this great transaction of our salvation? 
+I answer, yea; in this respect miracles cease not; 'tis without controversy that Jesus 
+Christ, in carrying on our salvation, is adding miracle to miracle: there is a chain of 
+miracles in the matter of our salvation from first to last: as — 
+
+
+
+1 . It was a miracle, that God, before we had a being, should have once thought of 
+us; especially that the blessed Trinity should contrive that astonishing plot of the 
+salvation of our souls: Oh what a miracle was this ! 
+
+
+
+2. It was a miracle that God for our sakes should create the world, and, after our 
+fall in Adam, should preserve the world, especially considering that our sin had 
+unpinned the whole frame of the creation; and that God, even then sitting on his 
+throne of judgment, ready to pass the doom of death for our first transgression, 
+
+
+
+should give a promise of a Saviour, when justly he might have given us to the 
+devil, and to hell, according to his own law: "In the day that thou eatest thereof, 
+thou shalt die." 
+
+
+
+3. It was a miracle that God's Son should take upon him our nature, and that in our 
+nature he should transact our peace; that he should preach salvation to us all, if we 
+would believe; and to the end that we might believe, that he would work so many 
+signs and miracles in the presence of his disciples, and of a world of men. 
+
+4. It was a miracle that God should look upon us in our blood: O miracle of 
+mercies ! If creation cannot be without a miracle, surely the new creature is a 
+miracle indeed. So contrary are our perverse natures to all possibilities of salvation, 
+that if salvation had not marched to us all the way in a miracle, we should have 
+perished in the ruins of a sad eternity. Indeed every man living in the state of grace, 
+is a perpetual miracle; in such a one his reason is turned into faith, his soul into 
+spirit, his body into a temple, his earth into heaven, his water into wine, his 
+aversations from Christ into intimate union with Christ. O what a chain of miracles 
+is this! Why, Lord, "if thou wilt, thou canst make me clean." Say thus, you that are 
+yet in your blood; Lord, "I believe, help thou my unbelief." 
+
+
+
+CHAP. Ill 
+
+
+
+Sect. I. — Of the third Year of Christ's Ministry 
+
+
+
+Hitherto all was quiet: neither the Jews nor the Samaritans, nor Galileans, did as 
+yet malign the doctrine or person of Jesus Christ; but he preached with much peace 
+on all hands, till the beginning of this year. I shall not yet speak of his sufferings, 
+neither shall I speak much of his doings; only such things as refer more principally 
+to the main business of our salvation, I shall touch in these particulars: — as, 1. The 
+ordination of the apostles. 2. His reception of sinners. 3. The easiness of his yoke, 
+and the lightness of his burden. 
+
+
+
+Sect. II. — Of Christ's Ordination of his Apostles 
+
+
+
+In the ordination of his apostles, are many considerable things. The evangelist 
+Luke lays it down thus: "And it came to pass in those days, that he went out into a 
+mountain to pray, and continued all night in prayer to God. And when it was day, 
+he called unto him his disciples, and of them he chose twelve, whom also he 
+named apostles." Till now Christ taught alone; but because after his ascension he 
+
+
+
+must needs have a ministry, until the end of the world — in the first place, he 
+chooseth out some, whom he would have on purpose to wait upon him all the time 
+of his ministry, till he was taken up into heaven. In this election, or ordination, here 
+is the first person by whom they are chosen, Jesus Christ. 2. The place where they 
+are chosen, in a mountain. 3. The time when they were chosen, after his watching 
+and praying all night. 4. The company out of whom they were chosen, they were 
+his disciples. 5. The number of them that were chosen, they were twelve. 6. The 
+end to which they were chosen, it was an apostleship; he chose twelve, whom he 
+also named apostles. 
+
+
+
+1 . The person by whom they are chosen is Jesus Christ. They chose not 
+themselves, but were chosen of Christ; this call was immediate, and therefore most 
+excellent. 
+
+
+
+2. The place where they were chosen, it was on a mountain. Mountains are open 
+and in view, which shows their ministry must be public; again, mountains are 
+subject to winds and tempests, which shows their callings must meet with many 
+oppositions. 
+
+
+
+3. The time when they are chosen; after he had continued all night in prayer to 
+God: he goes not to election, but first he watches and prays all the night before. 
+This shows the singular care that Christ had in this great employment: what! to set 
+men apart to witness his name, and to publish to the world the gospel of Christ? 
+This he would not do without much prayer. 
+
+
+
+4. The company out of whom they are chosen, "He called unto him his disciples, 
+and out of them he chose twelve." A disciple of Christ is one thing, and an apostle 
+of Christ is another thing. Those were Christ's disciples, that embraced Christ's 
+doctrine of faith and repentance. It was not material to the constituting of a disciple 
+of Christ, whether they followed Christ, as many did, or returned to their own 
+homes, as others did. The man out of whom the legion of devils were cast, 
+besought Christ that he might be with him; but Jesus sent him away, saying, 
+"Return to thine own house, and shew how great things God hath done to thee." I 
+make no question but Christ at the election of his apostles had many disciples both 
+waiting on him, and absent from him; and out of them that waited on him, his 
+apostles were chosen: Christ's ministers should be first disciples. O how unfit are 
+any to take upon them the ministry of Christ, that were never yet the disciples of 
+Christ! First, the grace of God must be within us, and then must that grace of God 
+be discovered by us. 
+
+
+
+5. The number of them that were chosen, they were twelve. Very probably the 
+number was figured out to us in twelve tribes of Israel. 
+
+
+
+6. The end to which they were chosen, it was to an apostleship; i.e. that they might 
+be Christ's legates to the sons of men, that they might be sent up and down the 
+world to persuade men to salvation. 
+
+Sect. III. — Of Christ's Reception of Sinners 
+
+I CANNOT limit this only to one year of Christ's ministry, but I shall only 
+mention it this year. Now this will appear — 1. In the doctrine of Christ; 2. In the 
+practice of Christ. 
+
+
+
+1. In his doctrine; Christ lays it down expressly: "Come unto me, all ye that labour 
+and are heavy laden, and I will give you rest." It is no more but, come, and 
+welcome. The gospel shuts none out of heaven, but those that by unbelief lock the 
+door against their own souls. Christ is so willing to receive sinners, as that he sets 
+all his doors open, and he casts out none that will but come in. And why so? For I 
+came down from heaven, not to do mine own will, but the will of him that sent me. 
+
+
+
+1. 1 came down from heaven. It was a great journey from heaven to earth; and this 
+great journey I undertook for no other purpose but to save sinners. "Great actions" 
+as one says well, "must needs have great ends." Now this was the greatest thing 
+that ever was done, that the Son of God should come down from heaven. And, 
+what was the end, but the reception and salvation of sinners? "For the Son of man 
+is come to seek and to save that which was lost." Had not Christ come down, 
+sinners could not have gone up into heaven; and therefore that they might ascend, 
+he descends. 2. 1 came down from heaven, not to do mine own will, but the will of 
+him that sent me. His Father had sent him on purpose to receive and to save sinners 
+and, to this purpose he is called the apostle of our profession, — who was faithful to 
+him that appointed him, as also Moses was faithful in all his house. His Father 
+could not send him on any errand, but he was sure to do it. His Father's mission 
+was a strong demonstration that Christ was willing to receive those sinners that 
+would come to him. 
+
+
+
+Again, Jesus stood and cried, saying, "If any man thirst, let him come unto me, and 
+drink." The very pith, heart, and marrow of the gospel is contained in these words: 
+the occasion of them was thus; on that last day of the feast of tabernacles, the Jews 
+were wont, with great solemnity, to draw water out of the fountain of Siloam, at 
+the foot of mount Sion, and to bring it to the altar, singing out of Isaiah, "With joy 
+
+
+
+shall ye draw water out of the wells of salvation." Now Christ takes them at this 
+custom, and recalls them from earthly to heavenly waters; alluding to that of 
+Isaiah, "Ho! every one that thirsteth, come ye to the waters." - "Incline your ears, 
+and come unto me, and your souls shall live." The Father saith, Come; the Son 
+saith, Come; the Spirit saith, Come; yea, "the Spirit and the bride say, Come; let 
+him that heareth say, Come; and let him that is athirst come; and whosoever will, 
+let him drink of the water of life freely." All the time of Christ's ministry, we see 
+him tiring himself, in going about from place to place, upon no other errand than 
+this, to cry at the markets, "Ho! every one that thirsteth, come ye to the waters! If 
+any sinners love life, if any will go to heaven, let them come to me, and I will show 
+them the way to my Father's bosom, and endear them to my Father's heart." 
+
+
+
+2. Christ's reception of sinners appears yet more in his practice. How welcome 
+were all sorts of sinners unto him! He cast out none that acknowledged him for the 
+Messiah; he turned none away that gave up their souls to be saved by him in his 
+own way. This he manifests — 1. Parabolically; 2. Really. 
+
+
+
+(1.) Parabolically, especially in those three parables, of the lost goat, and of the lost 
+sheep, and of the lost son; I shall instance in this last, which may serve for all the 
+rest. — When the prodigal was yet afar off, his father saw him, and had compassion 
+
+
+
+on him, and ran, and fell on his neck, and kissed him. In these words, observe, 1. 
+His father sees him, before he sees his father; no sooner a sinner thinks of heaven, 
+but the Lord spies him, and takes notice of him. 2. The Lord sees him while he was 
+yet a great way off; he was but in the beginning of his way: his father might have 
+let him alone until he had come quite home to his house, and it had been a singular 
+mercy to have bid him welcome then; but he takes notice of him yet a great way 
+off. Sinners may be far off from God in their own apprehensions, and yet the Lord 
+even then draws near; whilst thus they apprehend. 3. His father had pity or 
+compassion on him; the Lord's bowels yearn within him, at the sight of his 
+returning prodigals. 4. His father ran; there is much in this: as, (1.) It had been 
+mercy though his father had stood still until his son had come. (2.) What a mercy is 
+this, that his father will go, and give his son the meeting! (3.) But, above all, O 
+what abundant mercy call we this, that the father will not go, but run ! If he would 
+needs meet his son, might he not have walked towards him in a soft slow pace? O 
+no, if a sinner will but come, or creep towards Christ, mercy will not go a foot- 
+pace, but run to meet him: bowels full of mercy, out-pace bowels pinched with 
+hunger; God's mercy is over all his works, and so it is over all our needs, and over 
+all our sins. 5. He ran, and fell on his neck; i.e. he hugged and embraced him; O 
+wonder! who would not have been loth to have touched him? was he not in his 
+loathsome, stinking rags? we see mercy is not nice: "When I passed by, said God, I 
+
+
+
+saw thee polluted in thy own blood, and I said unto thee when thou wast in thy 
+bloody Live; yea, I said unto thee when thou wast in thy blood, Live": that very 
+time of her blood, was the time of love. 6. He ran, and fell on his neck, and kissed 
+him: there is a passage somewhat like this, "And Esau ran to meet Jacob, and he 
+embraced him, and fell on his neck, and kissed him"; before, he had thought to 
+have killed him, but now he kissed him: it is not to tell how dear the father was to 
+his prodigal son, when he ran, and fell on his neck, and embraced, and kissed him. 
+The scope of the parable is this, that Christ is willing and glad to receive sinners. 
+Turn ye, turn ye, from your evil ways; "for why will ye die, O house of Israel?" 
+
+Christ manifests this willingness in his practice really; amongst many instances I 
+shall insist only on one, a notable instance of this year: one of the Pharisees, named 
+Simon, invited Christ to eat with him, into whose house when he had entered, a 
+certain woman, that was a sinner, abiding there in the city, heard of it: she came to 
+Jesus in the Pharisee's house, and no sooner come, but she lays her burden at 
+Jesus' feet, and presents him with a broken heart and weeping eye, and an alabaster 
+box of ointment: "She stood at his feet behind him, weeping, and began to wash his 
+feet with her tears, and to wipe them with the hairs of her head; and she kissed his 
+feet, and anointed them with ointment." 1. She stands at his feet, a sign of her 
+humility. O what a change! She that was before a noble personage, a native of the 
+
+
+
+town and castle of Magdal, from whence she had her name of Magdalen — and 
+therefore took her liberty of pride and lust — comes in remorse and regret for her 
+sins; and throwing away her former pride, stoops, and waits, and humbly stands at 
+Jesus' feet. 2. She stood at his feet behind him; it comprehends a tacit confession 
+of her sins, she knew herself unworthy of Christ's presence: she durst not look him 
+in the face; but, she waits behind him; her shame speaks her repentance. 3. She 
+stood at his feet behind him weeping, her grief burst out in tears; she heeds not the 
+feast, or feaster, but, falling down, weeps bitterly for her sins. 4. She began to wash 
+his feet with tears; she wept a shower of tears, great enough to wash the feet of her 
+blessed Jesus. This was the manner of the Jews, to eat their meat lying down, and 
+leaning on their elbows; and in this posture, Jesus sitting or lying at meat, Mary 
+had the convenience to weep on his feet. 6. She wipes his feet with the hairs of her 
+head; her hair being added to her beauty, she made it a snare for men; but now she 
+consecrates it to her Lord; worthy fruit of serious repentance. 6. She kissed his feet, 
+in token of her new choice, and new affection; her kisses had formerly been to 
+wantons, but now she bestows them on the feet of Christ. 7. She anointed them 
+with ointment; which expression was so great an ecstasy of love and sorrow, that to 
+anoint the feet of the greatest monarch was long unknown, and in all the pomps of 
+Roman prodigality, it was never used until Otho taught it Nero. When Simon 
+observed this sinner so busy, he thought within himself, that Christ was no prophet, 
+
+
+
+that he did not know her to be a sinner; for although the Jews' religion did permit 
+harlots to live, yet the Pharisees would not admit them to the benefits of ordinary 
+society: and hence Simon made an objection within himself, which Jesus knowing, 
+(for he understood his thoughts as well as words,) first makes her apology, and 
+then his own; the scope gives us to understand, that Christ was not of the same 
+superciliousness with the Pharisees; but that repenting sinners should be welcome 
+unto him; and this welcome he publisheth first to Simon, Her sins which are many, 
+are forgiven; and then to the woman, "Thy sins are forgiven thee, thy faith hath 
+saved thee, go in peace." 
+
+What! is Christ most willing to receive sinners? O then! who would not come to 
+Jesus Christ? Methinks now all sinners, of all sorts, should say, though I have been 
+a drunkard, a swearer, an unclean person, yet now I hear Christ is willing to 
+receive sinners, and therefore I will go to Jesus Christ. This is my exhortation, O 
+come unto Christ, come unto Christ; behold here in the name of the Lord I stand, 
+and make invitation to poor sinners; O will you not come? How will ye answer it at 
+the great day, when it shall be said, The Lord Jesus made a tender of mercy to you, 
+and you would not accept of it? O come to Christ, and believe on Christ; as Christ 
+is willing to receive you, so be you willing to give up your souls to him. 
+
+
+
+Sect. IV. — Of Christ's easy Yoke and light Burden 
+
+
+
+For the easiness of Christ's yoke, and the lightness of Christ's burden, Christ 
+delivers it in these words: "Take my yoke upon you, and learn of me, — for my 
+yoke is easy, and my burden is light." 
+
+
+
+My yoke, i.e. my commandments, so the apostle John gives the interpretation, "His 
+commandments are not grievous." My yoke is easy, i.e. My commandments are 
+without any inconvenience: the trouble of a yoke, is not the weight, but the 
+uneasiness of it, and Christ speaks suitably, "My yoke is easy, and my burden," i.e. 
+my institutions: the word primarily signifies the freight or ballast of a ship, which 
+cuts through the waves, as if it had no burden; and without which burden there 
+were no safety in the ship. 
+
+
+
+The Christian religion, and the practice of it, is full of sweetness, easiness, and 
+pleasantness. 
+
+
+
+The reasons of the sweetness, easiness, and pleasantness of the Christian religion, 
+and the practice of it, I shall reduce to these heads: 
+
+
+
+1 . The Christian religion is most rational. If we should look into the best laws that 
+the wisest men in the world ever agreed upon, we shall find that Christ adopted the 
+quintessence of them all into his own law. The highest pitch of reason is but as a 
+spark, a taper, which is involved and swallowed up in the body of this great light, 
+that is made up by the Sun of righteousness. Some observe, that Christ's discipline 
+is the breviary of all the wisdom of the best men, and a fair copy and transcript of 
+his Father's wisdom; there is nothing in the laws of the Christian religion, but what 
+is perfective of our spirits. Indeed the Greeks, whom the world admired for their 
+wisdom, accounted the preaching of the gospel foolishness, and therefore God 
+blasted their wisdom, as it is written, "I will destroy the wisdom of the wise, and 
+bring to nothing the understanding of the prudent," 1 Cor. i. 19. The gospel may be 
+as foolishness unto some, "but unto them which are called," - "Christ the power of 
+God, and the wisdom of God." 
+
+
+
+The Christian religion is all composed of peace; "her ways are the ways of 
+pleasantness, and all her paths are peace," Prov. xvii. 3. Christ framed all his laws 
+in compliance of his design of peace; peace within, and peace at home, and peace 
+abroad. 1. It holds forth a certain heavenly peace and tranquility within: "Great 
+peace have they which love thy law, and nothing shall offend them." But on the 
+contrary: "the wicked are like the troubled sea, when it cannot rest; whose waters 
+
+
+
+cast up mire and dirt": — "there is no peace, saith my God to the wicked." Their 
+passions were never yet mortified; and such passions usually rage in wicked men 
+as are most contrary, and demand contrary things: the desire of honour cries, spend 
+here; but the passion of avarice cries, hold thy hands: lust cries, venture here; but 
+pride saith, no such thing, it may turn to thy dishonour: anger cries, revenge thyself 
+here; but ambition says, it is better to dissemble: and here is fulfilled that of the 
+psalmist, "I have seen violence and strife in the city." The vulgar renders it, "I have 
+seen iniquity and contradiction in the self-same city. First, Iniquity, for all the 
+demands of these passions are unjust. And, 2. Contradiction, for one passion cries 
+out against another. But, now, great peace have they that love thy law; for by the 
+aid of Christ and his grace, their passions are subdued, and they pass on their life 
+sweetly and calmly, without any perturbations much troubling their spirits; they 
+have that "peace which passeth all understanding," which the world can neither 
+give nor taste of. 
+
+
+
+2. It holds forth peace at home: the laws of Jesus teach us how to bear with the 
+infirmities of our relatives; and, indeed, whosoever obeys the laws of Jesus Christ, 
+he seeks with sweetness to remedy all differences, he throws water upon a spark, 
+he lives sweetly with his wife, affectionately with his children, discreetly with his 
+servants; and they all look upon him as their guardian, friend, and patron: but, look 
+
+
+
+upon an angry man, not subject to these Christian laws, and when he enters upon 
+his threshold, it gives an alarm to his house, every little accident is the matter of a 
+quarrel, and every quarrel discomposes the peace of the house, and sets it on fire, 
+and no man can tell how far it may burn. O the sweetness, easiness, and 
+pleasantness of the Christian religion! Where that is embraced and followed, the 
+man is peaceable, and charitable, and just, and loving, and forbearing, and 
+forgiving; and how should there be but content in this blessed family? 
+
+3. It holds out peace abroad; it commands all offices of kindness, gentleness, love, 
+meekness, humility; it prescribes an austere, and yet a sweet deportment; it 
+commands all those labors of love, to relieve the stranger, to visit the sick, to wash 
+the feet of the poor; it sends upon charitable embassies, to unclean prisons, nasty 
+dungeons, and, in the cause of Christ, to lay down our lives one for another: it 
+teacheth us how to return good for evil, kindness for injuries, a soft answer for the 
+rough words of an enemy. O ! when I think of this, I cannot but think of him who 
+said, "That either this was not the Christian religion, or we were not Christians." 
+For my part, I am easily persuaded, that if we would but live according to the 
+Christian religion, one of those great plagues that vex the world (I mean the plague 
+of war) would be no more. Certainly this was one of the designs of Christianity, 
+that there should be no wars, no jars, no discontents amongst men. And if all men 
+
+
+
+that are called Christians, were indeed charitable, peaceable, just, loving, 
+forbearing one another, and forgiving one another, what sweet peace should we 
+have? How would this world be an image of heaven, and of the society of saints 
+and angels in glory? 
+
+
+
+Thus far I have held forth Jesus in his life, or during the time of his ministry: and 
+now was it that Jesus "knew his hour was come, and that he should depart out of 
+this world unto the Father": but of that hereafter. Our next business is to direct you 
+in the art or mystery, how we are to look unto Jesus in respect of this life. 
+
+
+
+CHAP. IV 
+
+
+
+Sect. I. — Of Knowing Jesus as carrying on the great Work of our Salvation in his 
+Life 
+
+
+
+From the object considered, that we may pass to the act, — 
+1 . Let us know Jesus carrying on the great work of our salvation during his life. 
+We have many books of the lives of men; of the lives of heathens, of the lives of 
+Christians; and by this we come to know the generations of old: but above all, read 
+
+
+
+over the life of Jesus, for that is worth thy knowing. To this purpose we have four 
+Evangelists, who in blessed harmony set forth his life: these should be read over 
+and over; "then shall we know," saith the prophet, "if we follow on to know the 
+Lord." Ah! my soul, that which thou knowest of Christ already is but the least part 
+of what thou art ignorant of. "We know but in part," saith Paul of himself and 
+others. The highest knowledge which the most illuminate saints have of Jesus 
+Christ is but imperfect. Come then, and follow on to know the Lord: still inquire 
+after him; imitate the angels, who ever desire to stoop down and to pry into the 
+actings of Christ for our salvation. And for thy better knowledge, (1.) Study over 
+those passages in the first year of Christ's ministry: as, the preaching of John, the 
+baptism of Christ, his fasting and temptation in the wilderness, his first 
+manifestation by his several witnesses, his whipping of the buyers and sellers out 
+of the temple. (2.) Study over those passages in the second year of Christ's 
+ministry; as, those several sermons that he preached; and because his miracles were 
+as signals of his sermons, study the several miracles that he wrought: thou hast but 
+a few instances in comparison of all his miracles, and yet how fruitful are they of 
+spiritual instructions! (3.) Study over those passages in the third year of Christ's 
+ministry; as, his commissioning his apostles to call sinners, his readiness to receive 
+them that would come in, and his sweetening the ways of Christianity to them that 
+are come; "for his yoke is easy, and his burden is light." 
+
+
+
+O what rare matter is here for Christian study! Some have took such pains in the 
+study of these things, that they have writ large volumes. Men have been writing 
+and preaching a thousand six hundred years of the life of Christ, and they are 
+writing and preaching still. O, my soul, if thou dost not write, yet study what is 
+written. Come with fixed thoughts to that blessed subject, that will make thee wise 
+unto salvation. Paul accounted all things but dung for the excellency of the 
+knowledge of Christ Jesus our Lord. If thou didst truly understand the excellency 
+of this knowledge, thou couldst not but account all things loss in comparison of it. 
+
+Sect. II. — Of Considering Jesus in that respect 
+
+
+
+Let us consider Jesus carrying on the great work of our salvation during his life. It 
+is not enough to study and know, but we must muse and meditate, and consider it, 
+till we bring it to some profitable issue. By meditating on Christ, we may feel a 
+kind of insensible change; as those that stand in the sun for other purposes, they 
+find themselves lightened and heated; therefore, look further, O my soul, have 
+strong apprehensions of those several passages of the life of Christ. 
+
+
+
+1. Consider the preaching of John Baptist. We talk of strictness, but show me 
+among all the ministers or saints of this age, such a pattern of sanctity and singular 
+austerity. He had an excellent zeal, and a vehement spirit in preaching, and the 
+commentary upon all his sermons was his life; he was clothed in camels' hair, his 
+meat was locusts and wild honey. He contemned the world, resisted temptations, 
+despised honours, and in all passages was a rare example of self-denial and 
+mortification: and by this means made an excellent preparation for the Lord's 
+coming. O my soul, sit a while under this preacher. See, what effect doth it work 
+on thy heart and life? Dost thou feel in thee a spirit of mortification? Dost thou 
+with the Baptist die to the world? Dost thou deny thy will? Dost thou abstain from 
+pleasures, and sensual complacencies, that the flesh being subdued to the spirit, 
+both may join in the service of God? O my soul, so consider the preaching of this 
+forerunner of Christ, till thou feelest this consideration to have some warmth in thy 
+heart, and influence on thy life, in order to holiness, self-denial, and mortification. 
+
+
+
+2. Consider the baptism of Christ. He was baptized, that in the symbol he might 
+purify our nature, whose stains and guilt he had undertaken. Surely every soul that 
+lives the life of grace, is born of water and the Spirit; and to this purpose, Christ, 
+who is our life, went down into the waters of baptism, that we, who descend after 
+him, might find the effects of it, pardon of sin, and holiness of life. Had not Christ 
+
+
+
+been baptized, what virtue had there been in our baptism? As it became him to 
+fulfill all righteousness, and therefore he must needs be baptized, so he fulfilled it 
+not for himself, but for us. Christ's obedience in fulfilling the law is imputed to all 
+that believe unto righteousness, as if themselves had fulfilled; so that he was 
+baptized for us, and the virtue of his baptism is derived unto us; therefore, if thou 
+art in Christ, thou art baptized into his death, and baptized unto his baptism; thou 
+partakest of the fruit and efficacy both of his death, and life, and baptism, and all. 
+
+3. Consider the fasting and temptation of Christ in the wilderness. Now we see 
+what manner of adversary we have, how he fights, how he is resisted, how 
+overcome. In one assault, Satan moves Christ to doubt of his Father's providence; 
+in another, to presume on his Father's protection; and when neither diffidence nor 
+presumption can fasten upon Christ, he shall be tried with honour: and thus he 
+deals with us; if he cannot drive us to despair, he labors to lift us up to 
+presumption; and if neither of these prevail, then he brings out pleasures, profits, 
+honours, which are indeed most dangerous. O, my soul, whilst thou art in this 
+warfare, here is thy condition; temptations, like waves, break one in the neck of 
+another: if the devil was so busy with Christ, how shouldst thou hope to be free? 
+How mayst thou account that the repulse of one temptation will but invite to 
+another? But here is thy comfort, thou hast such a Saviour as was in all things 
+
+
+
+tempted in like sort, yet without sin. How boldly therefore mayst thou go to the 
+throne of grace to receive mercy, and to find grace to help in time of need ! Christ 
+was tempted, that he might succour them that are tempted. Never art thou tempted, 
+O my soul, but Christ is with thee in the temptation. He hath sent his Spirit into thy 
+heart, to make intercession for thee there; and he himself is in heaven, making 
+intercession, and praying for thee there; yea, his own experience of temptations 
+hath so wrought it in his heart, that his love and mercy is most of all at work when 
+thou art tempted most. As dear parents are ever tender of their children, but then 
+especially when they are sick and weak: so, though Christ be always tender of his 
+people, yet then especially when their souls are sick, and under temptation; then his 
+bowels yearn over them indeed. 
+
+
+
+4. Consider Christ's first manifestations by his several witnesses. We have heard of 
+his witnesses from heaven, the Father, Son, and Holy Ghost; and of his witnesses 
+on earth, the Baptist, his disciples, and the works that he did in his Father's name; 
+and all these witnesses being lively held forth in the preaching of the gospel, they 
+are witnesses to us; even to this day is Christ manifested to us; yea, and if we are 
+Christ's, even unto this day is Christ manifested within us. O my soul, consider this 
+above all! It is this manifestation within that concerns thee most; — because ye are 
+sons, God hath sent forth the Spirit of his Son into your hearts. If Christ be not 
+
+
+
+manifested in thy heart by his blessed Spirit, thou art no son of God; and therefore 
+the apostle puts thee seriously on this trial: "Examine yourselves, whether ye be in 
+the faith, prove yourselves; know ye not your own selves, how that Jesus Christ is 
+in you, except ye be reprobates?" Is Christ manifested in thee? Surely this is more 
+than Christ manifested to thee. The bare history is a manifestation of Christ unto 
+thee, but there is a mystery in the inward manifestation. The apostle speaking of 
+the saints, adds, "To whom God would make known what is the riches of the glory 
+of this mystery among the Gentiles, which is Christ in you, the hope of glory." O 
+the riches of the glory of this mystery! God might have shut thee up in blindness 
+with the world; but hath he revealed Christ in thee? Hath he let thee see into the 
+wonders of his glory? Hath he given thee the light of his glory within? This only 
+the experimental Christian feels. 
+
+
+
+5. Consider the preaching of Christ. O the admirable sermons of this great prophet! 
+Read and peruse those he hath left on record. How spiritual was that sermon of 
+Christ! "Except a man he born again, he cannot see the kingdom of God." It may 
+be thou art a doctor, a master of Israel, thou art a learned scholar, thou art a man of 
+parts and abilities in other things; it may be thou hast read so long in the Bible, 
+thou hast heard so many and so many sermons; but, ah! miserable soul, it may be 
+all the work is to do still within. Come, say this sermon of Christ to thine own soul: 
+
+
+
+"Unless I be born again, I cannot enter into heaven. Born again! O Lord, what is 
+that? Was ever such a thing done upon me? Was I ever cast into the pangs of a new 
+birth? and continued I in those pangs until Christ Jesus was formed in me? Are all 
+things done away, and all things now become new? Is the old man, the old lusts, 
+the old conversation, quite abandoned and left? Are my principles new? my aims 
+and ends new? my life and conversation new?" Thus might I paraphrase on all the 
+sermons; but I intend brevity. Only consider, O my soul, as if this sermon, and all 
+the rest, had been preached to thee; realize Christ standing by thee, and opening his 
+mouth, and teaching thee thus and thus. Surely there is a speaking of Christ from 
+heaven: "See that ye refuse not him" (saith the apostle) "that speaketh from 
+heaven." And besides, he hath his ministers here on earth, and they are daily 
+preaching over these sermons of Christ; they preach such things as were first 
+spoken by the Lord himself: they beseech and pray thee in Christ's stead. O then, 
+meditate on these things, and give thyself wholly to them, that thy profiting may 
+appear to all. 
+
+
+
+6. Consider the miracles of Christ in pursuance of the doctrine delivered in his 
+blessed sermons. Here is a world of matter to run over; such miracles as never man 
+did before. O my soul, consider of these miracles, and believe that doctrine which 
+
+
+
+was ratified with arguments from above. How shouldst thou but assent to all those 
+mysterious truths which are so strongly confirmed by an almighty hand. 
+
+
+
+7. Consider Christ's ordination of his apostles: "He chose twelve, whom he named 
+apostles." And what was the office of these apostles, but to go and teach all 
+nations? The gospel was first preached in Jewry, but afterwards the sound of it 
+came unto us. O the goodness of God in Christ! What! that repentance and 
+remission of sins should be preached in his name, beginning at Jerusalem, and 
+afterwards among all nations ! Of what near concernment, O my soul, is this to 
+thee! What art thou but a sinner of the Gentiles? Understand that term: when the 
+apostles would express the greatest sinners that the world had, he calls them 
+sinners of the Gentiles. Why? The Gentiles knew not God, the Gentiles were 
+unacquainted with Christ, the Gentiles walked in nothing but sin. O then what a 
+love is this, that God should ever have thought of goodwill towards thee? How 
+shouldst thou be ravished in this one meditation! What! that the sun of his gospel, 
+now in these latter times, when the sun is set in Zion where it first arose, should 
+make a noon with us, and shine more brightly here, for ought I know, or can yet 
+learn, than in any other nation, country, kingdom, throughout all the world ! O the 
+depth of the riches, both of the wisdom and counsel of God! How unsearchable are 
+his judgments, and his ways past finding out! 
+
+
+
+8. Consider Christ's reception of sinners. He sent forth his apostles to call them in; 
+and if they would but come, how ready was he to receive them! This was Christ's 
+errand from heaven: Ah, poor soul! why shouldst thou despair because of sin? 
+Look on Christ as spreading out his arms to receive thee. Look on the gracious 
+nature that is in Christ: look on the office of Christ; 'tis an office of saving, and 
+showing mercy, that Christ hath undertaken; 'tis an office to receive sinners; yea, 
+to seek and to save that which was lost; to bring home straying souls to God; to be 
+the great Peace-maker between God and man. 
+
+Certainly the devil strangely wrongeth many a poor troubled soul, that he can bring 
+them to have hard thoughts of Jesus Christ: how can they more contradict the 
+office of Christ? How can they more contradict the gospel-description of Christ, 
+than to think him a destroyer of his creatures, and one that hath more mind to hurt 
+than help them? Resolve, O my soul, to throw thyself on him for life and for 
+salvation: why, if thou wilt but come, he hath promised freely to make thee 
+welcome: all the day long he stretcheth out his arms, and would fain gather thee 
+and all others into his embraces. 
+
+
+
+9. Consider the easiness of his yoke, and the lightness of his burden. Many a one is 
+willing to take Jesus as their Saviour, but they are unwilling to take him on his own 
+terms; they imagine it an hard task, and a heavy burden: it is otherwise with 
+Christians; for his commandments are not grievous. O my soul, if thou canst but 
+taste, thou wilt find a world of sweetness in Christ's ways: there is sweetness in the 
+word, "How sweet are thy words to my taste, yea, sweeter than honey to my 
+mouth!" There is sweetness in prayer; hast thou not known the time that thou hast 
+tasted the joys of heaven in prayer? There is sweetness in meditation: now, O, my 
+soul, thou art in the exercise of this duty, now thou art in the meditation of the 
+easiness of Christ's burden, tell me, is there nothing of heaven in this meditation? 
+O if men did but know what ravishing sweetness were in the ways of God, they 
+could not but embrace them, and esteem one day's society with Jesus Christ better 
+than all the gold in the world! 
+
+
+
+10. Consider the holiness of Christ's nature, and the holiness of his life. 
+
+
+
+(1.) For the holiness of his nature; if thou couldst but clearly see it, what work 
+would it make in thy breast! Christ's inward beauty would ravish love out of the 
+devils, if they had but grace to see his beauty. This loveliness of Christ ravishes the 
+
+
+
+souls of the glorified. How is it, O my soul, that thou art not taken with this 
+meditation? But, — 
+
+
+
+(2.) Go from the holiness of his nature to the holiness of his life, it may be that will 
+make deep impressions on thy spirit. Consider his charity, his self-denial, his 
+contempt of the world, his mercy, his bounty, his meekness, his pity, his humility, 
+his obedience to his Father. A fruitful meditation on these particulars cannot but 
+make thee like Christ. O the wonder that any should disclaim the active obedience 
+of Christ, as to his own justification! Away, away with these cavils, and consider 
+the obedience of Christ in relation to thyself. "God sent forth his Son, made of a 
+woman, made under the law, to redeem them that were under the law, that we 
+might receive the adoption of sons." That is, under the whole law: the one half of 
+the law, which is the directive part, he was made under that, and satisfied it by the 
+innocency of his life, without breaking one jot or tittle of the law, and so he 
+answers that part, as it might be the principal; the other half of the law, which is the 
+penalty, he was under that also, and satisfied it by suffering a wrongful death, no 
+way deserved or due by him, and so he answered that part, as it might be the 
+forfeiture. But if we come now to ask, For whom is all this? It is only for us, that 
+we might be redeemed and adopted; redeemed from all evil, and adopted or 
+interested into all good. If this be so, O who would, for a world of gold, lose the 
+
+
+
+influence and the benefit of Christ's active obedience! Consider of this, O my soul, 
+until thou feelest some virtue to come out of Christ's life into thyself. 
+
+
+
+Sect. III. — Of Desiring Jesus in that respect 
+
+
+
+Let us desire Jesus, carrying on the work of salvation in his life: it is not enough to 
+know and consider, but we must desire; our meditation of Christ should draw forth 
+our affections to Christ; and amongst all affections I place this first of all, a desire 
+after Christ. 
+
+
+
+But what is it in Christ's life that is so desirable? I answer, every passage, 
+everything of Christ, is desirable. All that concerns Christ in any kind whatsoever 
+is very precious, and excellent, and necessary, and profitable, and comfortable, and 
+therefore desirable: but to put them in order, - 
+
+
+
+1. The meanest things of Christ are desirable things. The very filings of the gold, 
+the dust of precious stones, are of real value. Hence we read, that one poor woman 
+sought no more but to wash Christ's feet, and to kiss them: another breathes out 
+these desires; If I may but touch the hem of his garment, I shall be whole. John the 
+Baptist thinks it an honour to unloose the latchets of his shoes; David, to be a 
+
+
+
+doorkeeper of the house of God. Yea, he puts a happiness on the sparrow and the 
+swallow, that may build their nests beside the Lord's altar. 
+
+
+
+2. The more considerable actions of Christ are especially desirable. O my soul, run 
+through his life, and consider some of his more eminent actions. (1.) To his friends, 
+he was sweet and indulgent: where there was any beginning of grace, he did 
+encourage it; so was the prophecy, "A bruised reed shall he not break, and smoking 
+flax shall he not quench." And so the people that fainted, that were scattered 
+abroad as sheep having no shepherd; he was moved with compassion on them; he 
+was bowelled in heart, his very bowels were moved within him. (2.) To his 
+enemies he was kind and merciful: many a time he discovers himself most of all 
+unto sinners; he was never more familiar with any at first acquaintance, than with 
+the woman of Samaria, that was an adulteress: and Mary, that had been a sinner, 
+how sweetly did he appear to her at the very first view ! How ready was he to 
+receive sinners ! How ready to pardon sinners ! How gracious to sinners after 
+pardon ! See it in Peter: he never upbraided him; only he looks upon him, and 
+afterwards, "Lovest thou me?" Often he was wronged by men; but what then? Did 
+he call for fire down from heaven? indeed, his disciples would fain have had it so, 
+but he sweetly replies. "You know not what spirits you are of; the Son of man is 
+not come to destroy men's lives, but to save them." Sometimes we find him 
+
+
+
+shedding tears for those very persons that shed his blood: "O Jerusalem, Jerusalem, 
+— if thou hadst known, even thou, at least in this thy day, the things belonging to 
+thy peace." Well might they sing in that day in the land of Judah, — "In the way of 
+thy judgments, O Lord, have we waited for thee; the desire of our soul is to thy 
+name, and to the remembrance of thee." 
+
+
+
+3. The ever-blessed and holy person of Christ is desirable above all. "My beloved 
+is the chiefest of ten thousand; yea, he is altogether lovely," or desirable, so 
+Vatablus renders it, "Christus est totus desideria," Christ is all desires. If the 
+actions of Christ be desirable, what must himself be? he is the express image of the 
+person of his Father; as the print of the seal on the wax is the express image of the 
+seal itself, so is Christ the highest representation of God. And hence it is that 
+Christ is called the Standard-bearer of ten thousands: all excellencies are gathered 
+in Christ, as beams in the sun. Come, poor soul ! thy eyes run to and fro in the 
+world to find comfort and happiness; cast thy eyes back, and see heaven and earth 
+in one; look if thou wilt, at what thy vast thoughts can fancy, not only in this 
+world, but in the world to come; see that, and infinitely more, shining forth from 
+the person of Jesus Christ: no wonder if the saints adore him, no wonder if the 
+angels stand amazed at him, no wonder if all creatures vail all their glory to him. 
+
+
+
+O, what are things in the world to Jesus Christ ! Paul compares them together, with 
+this one thing: "And I account all things but loss for the excellency of the 
+knowledge of Christ." And I account all things: surely all things is the greatest 
+account that can be cast up; for it includeth all prices, all sums; it takes in earth and 
+heaven, and all therein; what are they in comparison of Christ, but as feathers, 
+dung, shadows, nothing? If there be any thing worthy a wish, it is eminently, 
+transcendently in the Lord Jesus Christ: there is no honour, no felicity, like that 
+which Christ hath; some are sons, Christ is an only Son; some are kings, but Christ 
+is King of kings; some are honourable, none above angels; Christ is above angels 
+and archangels: "To which of the angels said he at any time, Thou art my son, this 
+day have I begotten thee?" Some are wealthy, Christ hath all the sheep on a 
+thousand hills; the very uttermost parts of the earth are his: some are beautiful, 
+Christ is the fairest of all the children of men ! he is spiritually fair, he is all 
+glorious within. If the beauty of the angels (which I believe are the beautifullest 
+creatures the world has) should be compared with the beauty of Christ, they would 
+be but as lumps of darkness: the brightest cherub is forced to screen his face from 
+the dazzling brightness of Christ. Alas! the cherubim and seraphim are but as stars 
+in the canopy of heaven; but Christ is the Sun of righteousness, that at once 
+illuminates and drowns them all. 
+
+
+
+Come then, breathe, O my soul, after the enjoyment of this Christ; "O that this 
+Christ was mine! O that the actions of Christ and the person of Christ, were mine! 
+O that all he said, and all he did, and all he were, were mine ! O that I had the silver 
+wings of a dove, that in all my wants I might fly into the bosom of Christ; If I must 
+not sit at table, O that I might but gather up the crumbs ! Surely there is bread 
+enough in my Father's house; Christ is the bread of life; Christ is enough for all the 
+saints in heaven and earth to feed on; and what, must I pine away, and perish with 
+hunger? Thousands of instructions dropped from him while he was on earth; O that 
+some of that food might be my nourishment ! O that my ways were directed 
+according to his statutes ! Many a stream, and wave, and line, and precept, flowed 
+from this fountain, Christ; O that I might drink freely of this water of life! He hath 
+proclaimed it in my ears: 'If any man thirst, let him come unto me and drink.' O 
+that I might come and find welcome ! Sure I thirst, I feel in me such a burning 
+drought, that either I must drink or die; either the righteousness of Christ, the 
+holiness of Christ, the holiness of his nature, and the holiness of his life, must be 
+imputed unto me, or farewell happiness in another world. Come, Lord Jesus, come 
+quickly; I long to see the beauty of thy face! Such is thy beauty, that it steals away 
+my heart after thee, and I cannot be satisfied until, with Absalom, I see the King's 
+face. Come, Christ! or if thou wilt not come, T charge you, O daughters of 
+Jerusalem, if ye find my beloved, that ye tell him I am sick of love.'" 
+
+
+
+Sect. IV. — Of Hoping in Jesus in that respect 
+
+
+
+Let us hope in Jesus, carrying on the great work of our salvation in his life. By this 
+hope, I mean a hope well grounded. The main question is, whether Christ's life be 
+mine? whether all those passages of his life laid open, belong unto me? whether the 
+habitual righteousness, and actual holiness, of Christ be imputed to my 
+justification? and what are the grounds and foundations on which my hope is built? 
+The apostle tells us, that God gives good hopes through grace; if hope be right and 
+good, it will manifest itself by operation of saving grace; O look into thy soul! 
+what gracious effects of the life of Christ are there? Certainly his life is not without 
+some influence on our spirits, if we be his members, and he be our head. O the 
+glorious effects flowing out of Christ's life, into a believer's soul! 
+
+
+
+1. If Christ's life be mine, then am I freed from the law of sin; this was the 
+apostle's evidence: — for the law of the spirit of life in Christ Jesus, hath made me 
+free from the law of sin and death. Christ's life is called the spirit of life, because 
+of its perfection; and this spirit of life hath such a power in it, here termed a law, 
+that it works out, in believers, a freedom from the law or power of sin. Look to 
+
+
+
+this ! Doth the power of Christ's life throw out of thy heart and life the power of 
+sin? Here is one ground of hope. 
+
+
+
+2. If Christ's life be mine, then I live, yet not I, but Christ liveth in me. Paul speaks 
+out this evidence; "I am crucified with Christ, nevertheless I live," &c. He conjoins 
+the death of Christ, and the life of Christ, in one and the same soul: as if he had 
+said, No man knows the benefit of Christ's death, but he that feels the virtue of 
+Christ's life; there is no assurance of Christ's dying for us, but as we feel Christ 
+living in us; if the power of Christ's death mortify my lusts, then the virtue of 
+Christ's life will quicken my soul: "I live, yet not I, but Christ liveth in me": I live 
+to God, and not unto myself; I live to Christ, and not unto the world; I live 
+according to the will of God, and not after my own lust and fancy. O my soul ! 
+question thyself in these few particulars; dost thou live to God, and not thyself? 
+Dost thou live to Christ, and not to the world? Dost thou derive thy life from 
+Christ? And hath that life of Christ a special influence in thy soul? Dost thou feel 
+Christ living in thy understanding and will, in thy imagination and affections, in 
+thy duties and services? 1. In thy understanding, by prizing the knowledge of 
+Christ, by determining to know nothing in comparison of Christ. 2. In thy will, by 
+making thy will free to choose and embrace Christ; and by making his will to rule 
+in thy will. 3. In thy imagination, by thinking upon him with more frequency and 
+
+
+
+delight; by having more high, and honourable, and sweet apprehensions of Christ 
+than of all the creatures. 4. In thy affections, by fearing Christ above all earthly 
+powers, and by loving Christ above all earthly persons. 5. In thy duty and services, 
+by doing all thou doest in his name, by his assistance, and for his glory. Why then, 
+here is another ground of thy hope; surely thou hast thy part in Christ's life. 
+
+
+
+Away, away with all doubts and perplexing fears ! If thou findest the power of sin 
+dying in thee; if thou livest, and livest not, but in truth it is Christ that lives in thee; 
+then thou mayest assure thyself that Christ's habitual righteousness, and actual 
+holiness, is imputed to thy justification; thou mayest confidently resolve that every 
+passage of Christ's life belongs to thee. Would Christ have ever lived in thee, have 
+been the soul of thy soul, the all of thy understanding and will, imaginations and 
+affections, duties and services, if he had not purposed to have saved thee by his 
+life? Surely it is good that I both hope, and quietly wait for the salvation of God. I 
+cannot hope in vain, if these be the grounds of my hope. 
+
+
+
+Sect. V. — Of Believing in Jesus in that respect 
+
+
+
+Let us believe in Jesus carrying on the great work of our salvation in his life. Many 
+souls stand aloof, not daring to make a particular application of Christ and his life 
+
+
+
+to themselves; but, herein is the property of faith, it brings all home, and makes use 
+of whatsoever Christ is, or does, for himself. 
+
+
+
+1. In order to this, faith must directly go to Christ. Many poor souls, humbled for 
+sin, run immediately to the promise of pardon, and rest on it, not seeking for, or 
+closing with Christ in the promise; this is a common error, but we should observe, 
+that the first promise that was given, was not a bare word, simply promising 
+pardon, peace, or any other benefit; but, it was a promise of Christ's person, as 
+overcoming Satan, and purchasing those benefits: "The seed of the woman shall 
+bruise the serpent's head." So, when the promise was renewed to Abraham, it was 
+not a bare promise of blessedness and forgiveness, but of that seed, that is, Christ, 
+(Gal. iii. 6.) in whom that blessedness was conveyed: "In thee shall all the nations 
+of the earth be blessed." So that Abraham's faith first closed with Christ in the 
+promise, and therefore he is said to see Christ's day, and rejoice. Christ, in the first 
+place, is everywhere made the thing which faith embraced to salvation, and whom 
+it looks unto and respects, as it makes us righteous in the sight of God. "God so 
+loved the world, that he gave his only begotten Son, that whosoever believeth in 
+him, should not perish, but have everlasting life." And hence it is called the faith of 
+Christ, Gal. ii. 16. Phil. iii. 9. Because Christ is it whom faith apprehends 
+
+
+
+immediately; and, as for the other promises, they depend all on this, — "Whosoever 
+believeth on him, shall receive remission of sins"; and, "he that believeth on the 
+Son of God shall have life everlasting." O remember this, in the first place, faith 
+must go unto Christ; and yet I mean not to Christ, as nakedly considered, but to 
+Christ as compassed with all his promises, privileges, benefits. 
+
+
+
+2. Faith must go to Christ, as God in the flesh. But now under the New Testament, 
+our faith more usually and immediately addresseth itself unto Christ, as God 
+dwelling in our nature, than to the Father, who is merely God. God in the flesh is 
+more distinctly set forth in the New Testament, and so he is more distinctly to be 
+apprehended by the faith of all believers. Remember this; let our faith, in the more 
+direct and immediate exercise of it, be pitched upon Christ, as God in the flesh. 
+
+
+
+3. Faith must go to Christ, as God in the flesh, made under the law. And hence it is, 
+that the apostle joins these together; God sent his Son, made of a woman, made 
+under the law: if Christ had been out of the compass of the law, his being 
+incarnate, and made of a woman, had done us no good. Suppose one in debt, and 
+danger of the law, to have a brother of the same flesh and blood, of the same father 
+and mother; what will this avail, if that same brother will not come under the law, 
+that is, become his surety, and undertake for him? This is our case, — we are 
+
+
+
+debtors to God, and there is an hand-writing against us. Here is a bond of the law, 
+which we have forfeited; now, what will Christ avail, if he had not come under the 
+law, if he had not been our surety, and undertook for us? Our faith, therefore, must 
+go to Christ, as made under the law, not only taking our nature upon him, but our 
+debt also; our nature as men, and our debt as sinful men: "he hath made himself sin 
+for us, who knew no sin"; that is, he made him to be handled as a sinner for us 
+under the law, though he knew no sin on his part, but continued in all things 
+written in the book of the law, to do them. He both satisfied the curse, and fulfilled 
+the commandments! O remember this: as Christ, and as Christ in the flesh, so 
+Christ in the flesh made under the law, is principally to be in the eye of our faith. If 
+we put all together, our first view of faith is to look on Christ, God in the flesh, 
+made under the law. 
+
+
+
+4. Faith going to Christ as God in the flesh, and as made under the law, is 
+principally to look to the end of Christ, as being God in the flesh, and as fulfilling 
+the law. 
+
+
+
+The apostle tells us of a remote, and of a more immediate end. 
+
+
+
+(1.) Of a remote end. "God sent forth his Son, made of a woman, made under the 
+law, to redeem them that were under the law, that we might receive the adoption of 
+sons." This was the remote end of Christ. Alas ! we were strangers from the 
+adoption, and lay under the law, as men whom sentence had passed on. Now, from 
+this latter we are redeemed; he was under the law, that we might be redeemed from 
+under the law; nor is that all, but as we are redeemed, so are we adopted the 
+children of God: and, this end I rather attribute to the life of Christ, that we might 
+receive the adoption; that is, from the estate of prisoners Condemned, that we 
+might be translated into the estate of children adopted. O the mercy of God! who 
+ever heard of a condemned man to be afterwards adopted? Would not a condemned 
+prisoner think himself happy to escape with life? But the zeal of the Lord of hosts 
+hath performed this; we are in Christ both pardoned and adopted; and, by this 
+means, God's heavenly inheritance is estated upon us. O let our faith look mainly 
+to this design of Christ! "He was made under the law," yea, and under the directive 
+part of the law, by his life; he fulfilled every tittle of the law by his obedience, that 
+we might be entitled to glory. 
+
+
+
+(2.) For the more immediate end of Christ: the apostle tells us Christ was made 
+under the law, or fulfilled all righteousness, that the law might be fulfilled in us. O 
+my soul, look to this! Herein lies the pith and the marrow of thy justification. Of 
+
+
+
+thyself thou canst do nothing good; but Christ fulfilleth the law in thy stead; and if 
+now thou wilt but exercise thy faith, thou mayest feel the virtue and efficacy of 
+Christ's righteousness flowing into thy own soul. But here is the question, How 
+should I manage my faith, to feel Christ's righteousness my righteousness? I 
+answer, 1. Thy way is to discern this righteousness of Christ, this holy and perfect 
+life of the Lord Jesus, in the whole, and in all the parts of it, as it is laid down in 
+the written word. 2. Thy way is to believe and to receive this as sacred and 
+unquestionable in reference to thy own soul. 3. Thy way is to apply and improve 
+this discovery according to those ends, to which thou believest they were designed. 
+Yea, but there lies the question, how may that be done? I answer, — 
+
+[1.] Setting before thee that discovery, (that perfect life of Christ,) first endeavor to 
+be deeply humbled for thy great inconformity thereto in whole and in part. 
+
+
+
+[2.] Still keeping thy spirit intent on the pattern, quicken, provoke, and increase thy 
+sluggish soul, with renewed, redoubled vigilancy and industry, to come up higher 
+towards it, and (if it were possible) completely to it. 
+
+
+
+[3.] Yet having the same copy before thee, exercise faith thereupon, as that which 
+was performed, and is accepted on thy behalf. And so go to God, and offer Christ's 
+
+
+
+holy life and active obedience unto him. And that, first to fill up the defects of thy 
+utmost endeavor. Secondly, to put a value and worth upon what thou doest, and 
+attainest to. Thirdly, to make Christ's righteousness thy own, that thou mayest say 
+with the psalmist, in way of assurance: "O God my righteousness." 
+
+
+
+Sect. VI. — Of Loving Jesus in that respect 
+
+Let us love Jesus, as carrying on the great work of our salvation, during his life. O 
+what a lovely object is the life of Christ? Who can read over his life, who can think 
+over his worthiness, both in his person, relations, actions, and several 
+administrations, and not love him with a singular love? 
+
+
+
+O my soul, much has been said to persuade thee to faith; and if now thou believest 
+thy part in those several actings of Christ, let thy faith take thee by the hand, and 
+lead thee from one step to another; from his baptism to his temptations; from his 
+temptations to his manifestations; and so on. Is not here fuel enough for love? 
+Canst thou read the history of love, (for such is the history of Christ's life), and not 
+be all on a flame? Come, read again ! There is nothing in Christ but what is lovely, 
+winning, and drawing. 
+
+
+
+1 . When he saw thee full of filth, he goes down into the waters of baptism, that he 
+might prepare a way for the cleansing of thy polluted soul. 
+
+
+
+2. When he saw the devil ready to swallow thee up, he himself enters in the list, 
+and overcomes him, that thou mightest overcome, and triumph with Christ in his 
+glory. 
+
+3. When he saw thee in danger of death through thy unbelief, he condescends so 
+far to succour thy weakness, as to manifest himself by several witnesses. Three in 
+heaven, and three on earth; yea, he multiplies his three on earth to thousands of 
+thousands: so many were the signs witnessing Christ, that the disciples which 
+testified of them, could say, "If they should be written every one, the world could 
+not contain the books that should be written." 
+
+
+
+4. When he saw thee like the horse and mule, not having understanding, he came 
+with his instructions, adding line unto line, and precept on precept, teaching and 
+preaching the gospel of the kingdom; and sealing his truths with many miracles, 
+that thou mayest believe, and in believing mightest have life through his name. 
+
+
+
+5. When he saw thee a sinner of the Gentiles, stranger from the commonwealth of 
+Israel, and without God in the world, he sent his apostles and messengers abroad, 
+and bade them preach the gospel to thee: "Go to such a one in the dark corner of 
+the world, an isle at such a distance, and set up my throne amongst that people, 
+open the most precious cabinet of my love there; and amongst that people, tell such 
+a soul that Jesus Christ came into the world to save sinners, of whom he is one." 
+
+
+
+6. When he saw thee cast down, and refusing thy own mercy, crying and saying, 
+"What! is it possible that Jesus Christ should send a message to such a dead dog as 
+I am?" He then appeared, and even then spread his arms wide to receive thy soul: 
+he cried, "Come unto me, thou that art weary and heavy laden with sin, and I will 
+give thee rest." 
+
+
+
+7. When he saw thee in suspense, and heard thy complaint, "Oh it is a hard 
+passage, and a high ascent up to heaven! — Oh, what shall become of my poor 
+soul!" He told thee that all his ways were ways of pleasantness, and all his paths 
+peace; — that thou shouldst find by experience his yoke was easy, and his burden 
+light. 
+
+
+
+8. When he saw the wretchedness of thy nature, and original pollution, he took 
+upon him thy nature, and by this means took away thy original sin. Here is the 
+lovely object! What is it but the absolute holiness of the nature of Christ? This is 
+the fairest beauty that ever eye beheld: this is that compendium of all glories. Now 
+if love be a motion and union of the appetite to what is lovely, how shouldst thou 
+flame forth in love upon the Lord Jesus Christ ! — See, O my soul, here is the sum 
+of all the particulars thou hast heard, — Christ loves thee, and Christ is lovely; his 
+heart is set upon thee, who is a thousand times fairer than all the children of men. 
+Doth not this double consideration, like a mighty loadstone, snatch thy heart unto 
+it! "It pleased thee, my Lord, to say to thy poor church, 'Turn away thine eyes from 
+me, for they have overcome me': — But O let me say to thee, Turn thine eyes to 
+me, that they may overcome me: my Lord, I would be thus ravished, I would be 
+overcome; I would be thus out of myself, that I might be all in thee. — How chill 
+and cold art thou in thy converses with Jesus Christ! Surely, had Christ's love been 
+like this faint and feeble love of mine, I had been a damned wretch without all 
+hope. O Christ, I am ashamed that I love thee so little; I perceive that loves are 
+great, by all those actings in thy life: come, blow upon my garden, persuade me by 
+the Spirit, that I may love thee; many sins are forgiven me, O that I may love thee 
+much!" 
+
+
+
+Sect. VII. — Of Joying in Jesus in that respect 
+
+
+
+Let us joy in Jesus, as carrying on the great work of our salvation during his life. 
+
+
+
+1. In order to this, let us contemplate this life of Christ, let us spend our frequent 
+thoughts upon this blessed object; the reason we miss of our joys, is, because we 
+are so little in contemplations of our Christ. It is said, "that he pities us in our 
+sorrows; but he delights in us, when we delight in him.' Certainly he would have 
+us to delight in him; and to that purpose he way-lays our thoughts, that 
+wheresoever we look, we shall still think on him: O my soul, cast thine eyes which 
+way thou wilt, and thou shalt hardly look on anything, but Christ Jesus hath taken 
+the name of that very thing upon himself. What ! is it day, and dost thou behold the 
+sun? — he is called "the Sun of righteousness." Or is it night, and dost thou behold 
+the stars? — he is called a star; "there shall come a Star out of Jacob." Or is it 
+morning, and dost thou behold the morning star? — he is called, "the bright 
+morning Star." Or is it noon, and dost thou behold clear light all the world over? — 
+he is "that light that lighteth every man that cometh into the world." Come a little 
+nearer: If thou lookest on the earth, and takest a view of the creatures about thee; 
+seest thou the sheep? - "as a sheep before her shearers is dumb, so he openeth not 
+his mouth." Or, seest thou a lamb? - "behold the Lamb of God, which taketh away 
+
+
+
+the sins of the world." Seest thou a shepherd watching over his flock: — "I am the 
+good Shepherd, and know my sheep, and am known of mine." Or seest thou a 
+fountain, rivers, waters? — he is called a fountain: "In that day there shall be a 
+Fountain opened to the house of David." Or seest thou a tree, good for food, or 
+pleasant to the eye? — he is called "the Tree of life": and, "as the apple-tree among 
+the trees of the wood, so is my beloved among the sons." Seest thou a rose, a lily, 
+any fair flower in a garden? — he is called a Rose, a Lily: "I am the Rose of 
+Sharon, and the Lily of the valleys." To come a little nearer yet; art thou adorning 
+thyself, and takest a view of thy garments? — he is a garment: "put ye on the Lord 
+Jesus Christ." Art thou eating meat, and takest a view of what is on thy table? — he 
+is "the Bread of God," "true Bread from heaven," "the Bread of life." Thus Christ 
+way-lays our thoughts, that wheresoever we look, we should ever think of Christ. 
+Now, I cannot think of Christ, or the life of Christ, of Christ preaching, or of Christ 
+preached, but I must rejoice in Christ; as sometimes the apostle said, "Christ is 
+preached, I therein rejoice, yea, and will rejoice." 
+
+
+
+2. Let us upon good grounds hope our share in the life of Christ. Hope and joy go 
+together: if I have but assured hope that Christ's life is mine, I cannot but rejoice 
+therein. Look to this, O my soul: peruse again and again thy grounds of hope: do 
+not slightly run them over; thou canst not be too sure of Christ. When Zaccheus in 
+
+
+
+the sycamore tree heard but Christ's voice, "Zaccheus, make haste, and come 
+down, for to-day I must abide in thy house"; O what haste made Zaccheus to 
+receive Christ! He came down hastily, and received him joyfully. This offer of 
+Christ to Zaccheus is thine as well as his, if thy hope be right: — Come down, poor 
+soul, saith Christ, "This day must I abide in thy house." Then what joy should there 
+be in thy heart when Christ comes in, or when thou feelest Christ come in ! The 
+friend of the bridegroom rejoiceth greatly because of the bridegroom's voice. How 
+much more may the bride herself rejoice! 
+
+3. Let us come up to more and more fruition of Christ: all other things work our 
+delight but as they look towards this. Now in this fruition of Christ are contained 
+these things: (1.) A propriety unto Christ; for, as a sick man doth not feel the joy of 
+a sound man's health, so neither doth a stranger to Christ feel the joy of a believer 
+in Christ. How should he joy in Christ that can make no claim to him? (2.) A 
+possession of Christ. This exceedingly enlargeth our joy. O how sweet was Christ 
+to the spouse, when she could say, "I am my beloved's, and my Beloved is mine." 
+Many are taken up with the joy and comfort of outward possessions, but Christ is 
+better than all: in one Christ, is comprised every scattered comfort here below. 
+Christ mine, (saith the soul) and all mine. O the usefulness of Christ to all 
+believing souls? The scriptures are full of this, as appears by all his titles in 
+
+
+
+scripture: he is our life, our light, our bread, our water, our milk, our wine; "His 
+flesh is meat indeed, and his blood is drink indeed." He is our father, our brother, 
+our friend, our husband, our king, our priest, our prophet: he is our justification, 
+our sanctification, our wisdom, our redemption: he is our peace, our mediation, our 
+atonement, our reconciliation, our all in all. Alas ! I look on myself, and I see I am 
+nothing; I have nothing without Jesus Christ. Here is a temptation, I cannot resist 
+it; here is a corruption I cannot overcome; here is a persecution, I cannot down 
+with it: well, but Christ is mine, I have interest in Christ, and I have possession of 
+Christ, and I find enough in Christ to supply all my wants. 
+
+Those that lived with him, "all rejoiced for the glorious things that were done by 
+him." And doth not thy heart leap within thee, O my soul? I cannot but check thee 
+for thy deadness: it is said, that when "Christ was at the descent of the mount of 
+olives, the whole multitude of the disciples began to rejoice, and praise God with a 
+loud voice, for all the mighty works that they had seen." What! a multitude of 
+disciples rejoicing in Christ's acts? And art thou not one amongst the multitude? If 
+thou art a disciple, rejoice thou: surely it concerns thee as much as them; and 
+therefore rejoice, lift up thy voice in harmony with the rest, rejoice, and again 
+rejoice. 
+
+
+
+Sect. VIII. — Of Calling on Jesus in that respect 
+
+
+
+Let us call on Jesus, or on God the Father in and through Jesus. Thus we read, that 
+looking up to Jesus, or lifting up the eyes to Jesus, goes for prayer in God's book: 
+"My prayer will I direct to thee," saith David, "and will look up." Faith in prayer, 
+will often come out at the eye. Thus Stephen looked up to heaven; let us look up to 
+Jesus by calling on him: now this calling on him contains prayer and praise. 
+
+1 . We must pray that all these transactions of Jesus during his life, or during his 
+ministry upon earth, may be ours: we hope it so, and we believe it to be so; but for 
+all that, we must pray that it may be so. There is no contradiction betwixt hope, and 
+faith, and prayer; Lord, I believe, yet help my unbelief; be it to me according to my 
+faith, how weak soever. 
+
+
+
+2. We must praise God for all those passages in Christ's life. Thus did the 
+multitude: "They praised God with a loud voice, saying, Blessed be the King that 
+comes in the name of the Lord, peace in heaven, and glory in the highest!" What, 
+my soul, hath Christ done this for thee? Was he made under the law to redeem thy 
+soul, and adopt thee for his son, to the inheritance of heaven? Came he down from 
+heaven, and travelled so many miles on earth, to woo and win thy heart? Spent he 
+
+
+
+so many sermons, and so many miracles to work thee into faith? O how shouldst 
+thou bless, and praise, and magnify his name! How shouldst thou break out into 
+that blessed hymn; "To him that loved us, and hath made us kings and priests unto 
+God, and his Father, to him be glory and dominion for ever and ever. Amen." 
+
+
+
+Sect. IX. — Of Conforming to Jesus in that respect 
+
+Let us conform to Jesus, as he acted for us in his life. Looking to Jesus, intends this 
+especially: we must look as one looks to his pattern; as mariners at sea, that they 
+may run a right course, keep an eye on that ship that bears the light: so in the race 
+that is set before us, we must have our eye on Jesus, our blessed pattern. This must 
+be our constant query, "Is this the course that Jesus steered?" 
+
+
+
+In this particular I shall examine these three queries: 1. Wherein we must conform? 
+2. Why we must conform? 3. How we must conform to this life of Jesus? 
+
+
+
+For the first, I answer, — 
+
+
+
+We must not, cannot, conform to Christ in those works proper to his godhead; as in 
+working miracles. — Nor need we to conform to Christ in some other particulars: 
+as, in his voluntary poverty, and ceremonial performances. 
+
+
+
+But we must conform to Christ's life. 
+
+
+
+1. In respect of his judgment, will, affections; look we at his Spirit, observe what 
+mind was in Jesus Christ, "Let the same mind be in you which was in Christ," Phil. 
+ii. 5. 1 Cor. ii. 16. 
+
+
+
+2. In respect of his virtues, graces, holiness. "Learn of me," saith Christ, "for I am 
+meek and lowly in heart." I might instance in all other graces; for he had them all 
+in fullness: "And of his fullness have we all received, grace for grace." 
+
+
+
+3. In respect of his words. The very officers of the priest could say, "Never man 
+spake like this man": and sometimes "they all wondered at the gracious words 
+which proceeded out of his mouth"; "who, when he was reviled, reviled not again." 
+
+
+
+4. In respect of his carriage, conversation, close walking with God. The apostle sets 
+forth Christ as an high priest, who was "holy, harmless, undefiled, and separate 
+
+
+
+from sinners": and in like manner saith Peter; "Ye are a chosen generation, a royal 
+priesthood, an holy nation, a peculiar people, that ye should shew forth the virtues 
+of him who hath called you out of darkness into his marvellous light"; — that ye 
+should in your lives and conversations express those graces and virtues which were 
+so eminent in Jesus Christ; that you should, not only have them, but that you 
+should hold them forth. The word signifies properly, to preach: so clearly should 
+we express the virtues of Christ. As if our lives were so many sermons of the life 
+of Christ. 
+
+
+
+As for all other saints, though they are imitable, yet with limitation, only so far as 
+they express his life in their conversation; "Be ye followers of me, even as I am of 
+Christ." 
+
+
+
+For the second; — Why must we conform? upon what motives? I answer; 1. 
+Because Christ hath done and suffered much to that end. If it had not been for thy 
+imitation, I cannot think that Christ would have lived on earth so many years, to 
+have done so many glorious and meritorious works. 
+
+
+
+2. Because Christ is the best and highest exemplar of holiness that ever the world 
+had: hence we must needs conform to Christ. Christ is "the head of the body, the 
+
+
+
+beginning, the firstborn from the dead, in all things he hath the preeminence": and 
+the rule is general, that, that which is first and best in any kind, is the rule and 
+measure of all the rest. Why, such is Christ; O then let him be the guide of our life, 
+and of our manners. 
+
+
+
+3. Because Christ doth not only give us an example, but he doth succour and assist 
+us by its easiness. Some sweetly observe, that Christ's piety (which we must 
+imitate) was even, constant, unblamable, complying with civil society, without any 
+prodigious instances of actions greater than the imitation of men. We are not 
+commanded to imitate a life, whose story tells us of ecstasies in prayer, of 
+abstractions of senses, — no; but a life of justice, piety, and devotion: and it is very 
+remarkable, that besides the easiness of this imitation, there is a virtue and efficacy 
+in the life of Christ: it may be, we think our way to heaven is troublesome, obscure, 
+and full of objection: "Well," saith Christ, "but mark my footsteps; come on, and 
+tread where I have stood, and you shall find the virtue of my example will make all 
+smooth and easy; you shall find the comforts of my company, you shall feel the 
+virtue and influence of a perpetual guide." 
+
+
+
+4. Because Christ in his word hath commanded us to follow his steps: "Learn of 
+me, for I am meek and lowly in heart." - "And ye call me Master and Lord, and ye 
+
+
+
+say well, for so I am; if I then, your Lord and Master, have washed your feet, ye 
+also ought to wash one another's feet, for I have given you an example, that ye 
+should do as I have done to you." - "And as he which hath called you is holy, so be 
+ye holy in all manner of conversation; because it is written, Be ye holy, for I am 
+holy." We must be holy as Christ is holy, yet still we must look at the holiness of 
+Christ, as the sun, and root, and fountain; and that our holiness is but as a beam of 
+that sun, but as a branch of that root, but as a stream of that fountain. 
+
+
+
+For the third, How must we conform to this life? I answer: — 
+
+
+
+1 . Let us be humbled for our great unconformity to this copy. What an excellent 
+pattern is here before us; and how far, how infinitely, do we come short! Alas! if 
+Christ will not own me, unless he see his image written upon me, what will 
+become of my poor soul? Why, Christ was meek, and humble, and lowly in spirit; 
+Christ even went about doing good: and now, when I come to examine my own 
+heart according to this original, I am as opposite to Christ as hell to heaven. O woe 
+is me! what a vast disproportion there is betwixt Christ's life and mine! Thus, O 
+my soul, shouldst thou humble thyself; each morning, each prayer, each 
+meditation, each self-examination, shouldst thou fetch new, fresh, clear, particular 
+occasions of humiliation: as thus, lo there the evenness, gravity, holiness, 
+
+
+
+heavenliness, of Jesus Christ; lo there the dear love, tender pity, constant industry, 
+unwearied pains, self-denial, contempt of the world, in Jesus Christ; lo there those 
+continual devout breathings of soul after God his Father's glory, after the immortal 
+good of precious souls. O the sweet expressions, gracious conversation! O the 
+blessed lustre of his divine soul! O the sweet countenance, sacred discourse, 
+ravishing demeanour, winning deportment, of Jesus Christ! and now reflect I upon 
+myself; O the wide disproportion of mine therefrom! I should punctually answer, 
+perfectly resemble, accurately imitate, exactly conform to, this life of Christ: but, 
+ah! my unevenness, lightness, vanity! ah, my deformity, slightness, execrableness! 
+ah my sensuality, brutishness, devilishness ! how clearly are these, and all my other 
+enormities, discovered by the blessed life of Jesus ! 
+
+
+
+2. Let us quicken our sluggish souls to conform to Christ. If this was one of the 
+ends of Christ's coming, to destroy the works of the devil, to deface all Satan's 
+works, especially his work in me, and to set his own stamp on my soul; how then 
+should I but endeavor to conform! I read but of two ends of Christ's coming into 
+the world in relation to us; whereof the first was to redeem his people, and the 
+other was to purify his people: "He gave himself for us, that he might redeem its 
+from all iniquity, and purify unto himself a peculiar people, zealous of good 
+works." The one is the work of his merit, which goeth upwards to the sanctification 
+
+
+
+of his Father; the other is the work of his grace, which goeth downwards to the 
+sanctification of his church: in the one he bestoweth his righteousness on us by 
+imputation, in the other he fashioneth his image in us by renovation; and what, O 
+my soul, wouldst thou destroy the end of Christ's coming in the flesh? Thus let us 
+provoke our souls to this conformity; let us excite our faint, drooping, languishing 
+affections, desires, endeavors. Let us with enlarged industry engage and encourage 
+our backward spirits to fall upon this duty; let us come up higher towards it, or if 
+possibly we may, completely to it; that the same mind, and mouth, and life, may be 
+in us that was in Jesus Christ, that we may be found to walk after Christ, that we 
+may tread in the very prints of the feet of Christ, that we may climb up after him 
+into the same heavenly kingdom; that we may aspire continually towards him, and 
+grow up to him, even to the measure of the stature of the fullness of Christ. 
+
+
+
+3. Let us regulate ourselves by the life of Christ; whatsoever action we go about, 
+jet us do it by this rule, — would Christ have done this? It is true, some things are 
+expedient and lawful with us, which are not suitable to the person of Christ: 
+"Marriage is honourable with all men, and the bed undefiled," but it did not benefit 
+his person. Writing of books is commendable with men, because, like Abel, being 
+dead, they may still speak; but it would have been derogatory to the person and 
+office of Christ: for it is his prerogative to be in the midst of the seven golden 
+
+
+
+candlesticks, to be present to all his members; to teach by power, and not by 
+ministry; to write his law in the hearts of his people, and to make them his epistle. 
+In these things we must only respect the allowance of Christ, but in other things we 
+must reflect upon the example of Christ, as, 1 . In sinful acts eschewed by Christ. 2. 
+In moral duties that were done by him. 
+
+
+
+(1.) In sinful acts eschewed by Christ, as when I am tempted to sin, then am I to 
+reason thus with myself: would my blessed Saviour, if he were upon earth, do thus 
+and thus? If he were to live again, would he live after this manner? Would this be 
+his language? would such speech as this drop from his lips? 
+
+(2.) In case of moral obedience, concerning which we have both his pattern and 
+precept. I look upon Christ as my rule; and I question thus, Did Christ frequently 
+pray with his disciples, and alone? And shall I never in my family, or in my closet, 
+think upon God? Did Christ show mercy to his very enemies? And shall I be cruel 
+to Christ's members? O my soul, look in all thy sins, and in all thy duties, to thy 
+original, and measure them by the holiness of Christ! Whether in avoiding sin, or 
+in doing duty, think — what would my blessed Saviour do in this case, or what did 
+he in the like case, when he was upon earth? If we had these thoughts every day, if 
+Christ were continually before our eyes, if in all we do or speak we should still 
+
+
+
+muse on this — what would Jesus Christ say, if he were here? it would be a blessed 
+means of living in comfort, and spiritual conformity to the commands of God. 
+
+
+
+Let us look fixedly on Jesus Christ; let us keep our spiritual eyes still on the 
+pattern, until we feel ourselves conforming to it; let us set the copy of Christ's life 
+in our view, and let us look upon it with the eye of reason, and with the eye of 
+faith. 
+
+
+
+But how should we keep the eye of our faith on this blessed object, until we feel 
+this conformity in us? I answer, — 
+
+1. Let us set apart some times on purpose: the day begins to close; if together with 
+our closet prayer we would fall on this duty of looking unto Jesus by lively faith, 
+how blessed a season might this be? 
+
+
+
+2. Let us remove hinderances: Satan labors to hinder the soul from beholding 
+Christ with the dust of the world. The god of this world blinds the eyes of men: O 
+take heed of fixing our eyes on this world ! Our own corruptions are also great 
+hinderances to this view of Christ: away with all carnal passions, sinful desires; 
+unless the soul be spiritual, it can never behold spiritual things. 
+
+
+
+3. Let us fix our eyes only on this blessed object; a moving eye sees nothing 
+clearly: when the angels are said to look into these things, the word signifies, that 
+they look into them narrowly; as they who bowing or stooping down look into a 
+thing, so should we look narrowly into the life of Christ; our eye of faith should be 
+set upon it in a steady manner, as if we forgot all the things behind, and had no 
+other business in the world. 
+
+
+
+4. Let us look on Christ with a craving eye, with an humble expectation to receive 
+a supply of grace. Lord, thou art not only anointed with the oil of gladness above 
+thy fellows, but for thy fellows; I am earthly-minded, but thou art heavenly; I am 
+full of lusts, but the image of God is perfect in thee; thou art the fountain of all 
+grace, an head of all influence, as well as of eminence; thou art not only above me, 
+but thou hast all grace for me: O give me some portion of thy meekness, lowliness, 
+heavenly-mindedness, and of all the other graces of thy Spirit. Surely thou art an 
+heaven of grace, full of bright shining stars: O that of that fullness thou wouldst 
+give me to receive grace for grace. 
+
+
+
+5. Be ye assured that our prayer (if it be in faith) is even now heard; never any 
+came to Christ with strong expectations to receive grace, or any benefit prayed for, 
+
+
+
+that was turned empty away; besides, Christ hath engaged himself by promise, to 
+make us like himself: "as he which hath called us is holy, so should" (yea, and so 
+shall) "we be holy in all manner of conversation." O let us build on his gracious 
+promise: heaven and earth shall pass away before one tittle of his word shall fail; 
+only understand we that our conformity must be gradual: "We all with open face, 
+beholding as in a glass, the glory of the Lord, are changed into the same image 
+from glory to glory," i.e. from grace to grace; or from glory inchoate in obedience, 
+to glory consummate in heaven. 
+
+6. If, notwithstanding all this, we feel not for the present this conformity in us, at 
+least in such a degree; let us act over the same particulars again: the gifts of grace 
+are therefore communicated by degrees, that we might be taken off from living 
+upon a received stock of grace, and that we might still be running to the spring; we 
+have continual need of Christ's letting out grace into our hearts, and therefore we 
+must wait at the well-head, Christ; we must look on Christ as appointed on purpose 
+by his Father to be the beginner and finisher of our holiness; and we must believe 
+that he will never leave that work imperfect, whereunto he is ordained of the 
+Father. O then be not weary of this work until he accomplish the desires of thy 
+soul. 
+
+
+
+I have now done with this subject; only, before I finish, one word more. I deny not 
+other helps; but amongst them all, if I would make choice which to call upon, that I 
+may become more and more holy, I would set before me this glass; i.e. Christ's 
+holy life, the great exemplar of holiness; and this image we lost through our sin, 
+and to this image we should endeavor to be restored by imitation; and how should 
+this be done but by looking on Christ as our pattern? In this respect I charge thee, 
+
+my soul (for to what purpose should I charge others, if I begin not at home?) that 
+thou make conscience of this evangelical duty: O be much in the exercise of it; not 
+only in the day, but when night comes, and thou liest down on thy bed, let thy 
+pillow be as Christ's bosom, in which John the beloved disciple was said to lean; 
+there lean thou with John; thus mayest thou lie down in peace, and the Lord only 
+will make thee to dwell in safety; and when day returns again, have this in mind, 
+yea, in all thy thoughts, words, and deeds, even look unto Jesus as thy holy 
+exemplar: say to thyself. If Christ my Saviour were now upon earth, would these 
+be his thoughts, words, and deeds? would he be thus disposed as I now feel 
+myself? would he speak these words that I am now uttering? would he do this that 
+
+1 am now putting my hand unto? O let me not yield myself to any thought, word, or 
+action, which Jesus would be ashamed to own: yea, if it were possible, going and 
+standing, sitting and lying, eating and drinking, speaking and holding thy peace, by 
+thyself or in company, cast an eye upon Jesus, for by this means thou canst not 
+
+
+
+choose but love him more, and joy in him more, and trust in him more, and be 
+more and more familiar with him, and draw more and more grace, and virtue, and 
+sweetness, from him: O let this be thy wisdom, to think much of Christ, so as to 
+provoke thee to imitation; then shalt thou learn to contemn the world, to do good to 
+all, to injure no man, to suffer wrong patiently, yea, to pray for those that 
+despitefully use thee, and persecute thee; then shalt thou learn to 'bear about in thy 
+body the dying of our Lord Jesus Christ, that the life of Jesus may be made 
+manifest in thy body." This is to follow Christ's steps: he descended from heaven 
+to earth for thy sake; do thou trample on earthly things, "seek after the kingdom of 
+God and his righteousness," for thy own sake: though the world be sweet, yet 
+Christ is sweeter; though the world prove bitter, yet Christ sustained the bitterness 
+of it for thee: and now he speaks to thee, as he did to Peter, Andrew, James, and 
+John, "Come, follow me"; O do not faint in the way, lest thou lose thy place in thy 
+country, that kingdom of glory.

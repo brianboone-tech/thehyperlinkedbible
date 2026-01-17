@@ -1,0 +1,1704 @@
+# Book VII - His Ascension
+
+*Looking unto Jesus in His Ascension, Session, and Spirit's Mission*
+
+[[Books - Public/Isaac Ambrose/Looking Unto Jesus/06 - Book VI - His Resurrection|← Book VI - His Resurrection]] | [[Books - Public/Isaac Ambrose/Looking Unto Jesus/08 - Book VIII - His Intercession|Book VIII - His Intercession →]]
+
+---
+
+BOOK VII. 
+
+
+
+CHAP. I. 
+
+
+
+Sect. I. — Of Christ's Ascension 
+
+
+
+Thus far we have traced Jesus in his actings for us, until the day in which he was 
+taken up. That which immediately follows, is his ascension, session at God's right 
+hand, and mission of his holy Spirit; in prosecution of which, as in the former, I 
+shall first lay down the object; and secondly, direct you how to look upon it. 
+
+The object threefold. 1. He ascended into heaven. 2. He sat down at God's right 
+hand. 3. He sent down the Holy Ghost. 
+
+1. For the ascension of Christ; this was a glorious design, and contains in it a great 
+part of the salvation of our souls. In prosecution of this, I shall show: — 1. That he 
+ascended. 2. How he ascended. 3. Whither he ascended. 4. Why he ascended. 
+
+
+
+(1.) That he ascended. [1.] The prophets foresaw it: "I saw in the night, visions; 
+and behold one, like the Son of man, came with the clouds of heaven, and came to 
+the Ancient of days, and they brought him near before him; and there was given 
+him dominion, glory, and a kingdom." [2.] The evangelists relate it: "He was 
+received up into heaven," - "He was carried up into heaven." [3.] The eleven 
+
+
+
+witness it: "For while they beheld, he was taken up, and a cloud received him out 
+of their sight." [4.] The holy angels speak it: "For while they looked stedfastly 
+towards heaven, as he went up, behold two men stood by them in white apparel, 
+which also said, Ye men of Galilee, why stand ye gazing up into heaven? This 
+same Jesus, which is taken up from you into heaven, shall come in like manner as 
+ye have seen him go into heaven." 
+
+(2.) How he ascended. [1.] He ascended blessing his apostles: "While he blessed 
+them, he was parted from them, and carried up into heaven." It is some comfort to 
+Christ's ministers, that though the world hate them, Christ doth bless them; yea, he 
+parted with them in a way of blessing: as Jacob, leaving the world, blessed his 
+sons; so Christ, leaving the world, blessed his apostles, and all the faithful 
+ministers of Christ unto the end of the world. 
+
+
+
+[2.] He ascended visibly in the view of the apostles: "While they beheld, he was 
+taken up"; he was not suddenly snatched from them, as Elijah was, nor secretly and 
+privily taken away, as Enoch was; but in the presence of them all, both his apostles 
+and disciples, he ascended up into heaven. 
+
+
+
+[3.] He ascended principally by the mighty power of his godhead: thus never any 
+ascended up into heaven but Jesus Christ; for though Enoch and Elijah were 
+assumed into heaven, yet not by their power, nor by themselves; it was God's 
+power by which they ascended, and it was by the help and ministry of angels. 
+
+
+
+[4.] He ascended in a cloud: "While they beheld, he was taken up, and a cloud 
+received him out of their sight." Hereby he shows that he is Lord of all the 
+creatures; he had already trampled upon the earth, walked upon the sea, 
+vanquished hell or the grave, and now the clouds receive him, and the heavens are 
+opened to make way for this King of glory to enter in. 
+
+2. "When he ascended up on high, he led captivity captive, and gave gifts unto 
+men." (1.) He led them captive, who had captivated us. Death was led captive 
+without a sting; hell was led captive as one that had lost her victory; the serpent's 
+head being bruised, was led before him in triumph, as was Goliath's head by 
+David, returning from the victory. (2.) He gave gifts unto men; this was as the 
+shutting up Christ's triumph, in his ascension up to heaven: what these gifts were, 
+we shall speak in the mission of the Holy Ghost. 
+
+
+
+(3.) Whither he ascended, the gospel tells us, into heaven; only Paul saith, "that he 
+ascended far above all heavens." But the meaning is, he went above all those 
+visible heavens, into those heavenly mansions, where the angels and the spirits of 
+the just have their abode. 
+
+
+
+(4.) Why he ascended; the reasons are, 1. On Christ's part, that through his passion 
+he might pass to glory. "Ought not Christ to have suffered these things, and so to 
+enter into his glory?"— 
+
+2. On our part: 
+
+1 . That in our stead he might triumph over sin, death, and hell. In his resurrection 
+he conquered, but in his ascension he led sin, death, and the devil in triumph, at his 
+chariot wheels. And the meaning of the psalmist, and of the apostle, "When he 
+ascended up on high, he led captivity captive," is, he vanquished and triumphed 
+over all our enemies; he overcame the world, he bound the devil, he spoiled hell, 
+he weakened sin, he destroyed death, and now he makes a public triumphal show 
+of them in his own person. It is to the same purpose that the apostle speaks 
+elsewhere, "Having spoiled principalities and powers, he made a shew of them 
+openly, triumphing over them in himself; it is a manifest allusion to the manner of 
+triumphs, after victories, amongst the Romans: first, they spoiled the enemy upon 
+
+
+
+the place, ere they stirred off the field; and this was done by Christ on the cross: 
+and then they made a public triumphal show; they rode through the streets in the 
+greatest state, and had all their spoils carried before them; and the kings and nobles 
+whom they had taken, they tied to their chariots, and led them as captives: and this 
+did Christ at his ascension; "then he openly triumphed in himself," that is, in his 
+own power and strength. 
+
+2. That he might lead us the way, and open to us the doors of glory. 
+
+3. That he might assure us that now he had run through all those offices which he 
+was to perform here on earth for our redemption. First, he was to act as our surety, 
+and then he was to ascend as our head, our advocate, as the first-fruits, the captain, 
+the prince of life, the author of salvation, the forerunner of his people. 
+
+
+
+4. That he might thoroughly convince believers, of their perfect righteousness. 
+"The Spirit, when he comes," saith Christ, "shall convince the world of sin, of 
+righteousness, and of judgment": — "of sin, because they believe not on me"; — "of 
+righteousness, because I go to my Father, and ye see me no more." If Christ had 
+not fulfilled all righteousness, there had been no going to heaven for him, nor 
+remaining there; but his ascension to heaven proclaims openly — 1. That he hath 
+
+
+
+completely finished the work he had to do for us here. 2. That God was well 
+pleased with Jesus Christ, and with what he had done and suffered for us. 3. That 
+we have our share in heaven with him; he went not up as a single person, but 
+virtually, or mystically, he carried up all believers with him into glory. 4. That he 
+hath a new design to be acted in heaven for us: he is taken up into glory, that he 
+may act gloriously the second part of our righteousness; I mean that he might apply 
+it, and send down his Spirit to convince us of it. Three great things, Christ acts for 
+us now in glory. First, he is in place of an advocate for us, he liveth to intercede for 
+us. Secondly, he is the great provider for us; he is laying in a stock of glory for us 
+against we come there: "In my Father's house are many mansions." - "I go to 
+prepare a place for you." Thirdly, he sends down his Spirit to convince us, that 
+Christ's righteousness is ours. Indeed the means of procuring this, was the life and 
+death of Christ; but the means of applying this righteousness, are those following 
+acts of Christ's resurrection, ascension, session, intercession. By his death he 
+obtained righteousness for us, but by his ascension he applies righteousness to us. 
+
+
+
+Sect. II. — Of God's Right Hand and of Christ's Session there 
+
+
+
+For the session of Christ at God's right hand, I shall examine, —I. What is God's 
+right hand? 2. What is it to sit there? 3. According to what nature doth Christ sit 
+there? 4. Why is it that he sits at the right hand of God? 
+
+
+
+1. What is this right hand of God? I answer, The right hand of God is the majesty, 
+dignity, dominion, power, and glory of God. "The right hand of the Lord is 
+exalted; the right hand of the Lord doeth valiantly." - "Thy right hand, O Lord, is 
+become glorious in power: thy right hand, O Lord, hath dashed in pieces the 
+enemy." 
+
+2. What is it to sit at the right hand of God? I answer, it is not any corporal session 
+at God's right hand; which Stephen contradicts, saying, "I see the heavens opened, 
+and the Son of man standing on the right hand of God." The words sitting or 
+standing, are both metaphorical, and borrowed from the custom of kings, who 
+place those they honour, and to whom they commit the power of government, at 
+their right hand; more particularly, this sitting at God's right hand implies two 
+things: 1. His glorious exaltation. 2. The actual administration of his kingdom. 
+
+
+
+(1.) Christ is exalted: "Wherefore God also hath highly exalted him, and given him 
+a name above every name, that at the name of Jesus every knee shall bow." This 
+
+
+
+session is the supreme dignity and glory given by the Father unto Christ, after his 
+ascension; this session is the peerless exaltation of the Mediator in his kingdom of 
+glory. But how was Christ exalted? I answer: 1. In the regard of his divine nature; 
+not really, or in itself. Impossible it was that the divine nature should receive any 
+intrinsical glory, because all fullness of glory essentially belonged unto it; but 
+declaratory, or by way of manifestation; so it was, that his divinity, during the time 
+of his humiliation, lay hidden and overshadowed: but now, in his session, that 
+divinity and glory which he had always with the Father, was shewed forth and 
+declared: "He was declared to be the Son of God with power," both at his 
+resurrection and at his session. 2. In regard of his human nature; and yet that must 
+be understood soberly, for I cannot think that Christ's human nature was at all 
+exalted in regard of the grace of personal union, or in regard of the habitual 
+perfections of his human soul, because he possessed all these from the beginning; 
+but in regard of those interceptions of the beams of the godhead and divine glory, 
+and in respect of the restraints of that sense and sweetness, and feeling operations 
+of the beatifical vision, during his humiliation: in these respects Christ was exalted 
+in his human nature, and had all the glory from the Deity communicated to it, 
+which possibly in any way it was capable of. 
+
+
+
+(2.) Christ reigns, or actually administers his glorious kingdom; and this is the 
+principal part of Christ's sitting at God's right hand. So the psalmist: "The Lord 
+said unto my Lord, Sit thou at my right hand, until I make thine enemies thy 
+footstool: the Lord shall send the rod of thy strength out of Zion, rule thou in the 
+midst of thy enemies." The apostle is yet more large: "God set him at his own right 
+hand in the heavenly places, far above all principality, and power, and might, and 
+dominion, and every name that is named, not only in this world, but also in that 
+which is to come; and hath put all things under his feet, and gave him to be the 
+head over all things to the church, which is his body, the fullness of him that filleth 
+all in all." Some describe this session at God's right hand, to be all one with his 
+reigning in equal power and glory with the Father; but the Son hath always so 
+reigned, and the Holy Ghost hath always so reigned, who yet is not said in 
+scripture to sit at the right hand of the Father: I believe therefore there is something 
+in this session or reign of Christ, which doth difference it from that reigning power 
+and glory of the Father, and of the Son as only God, and of the Holy Ghost; and if 
+we would know what that is, I would call it an actual administration of his 
+kingdom, or an immediate executing of his power and glory over every creature as 
+Mediator. And this made Christ say, "The Father judgeth no man, but hath 
+committed all judgment unto the Son," as Mediator. You may object, Christ was 
+Mediator immediately after his incarnation, but he did not actually administer his 
+
+
+
+kingdom then. I answer, it is true; Christ for a time did empty himself, and laid 
+aside the actual administration of his kingdom; but immediately after his 
+ascension, the Father, by a voluntary dispensation, resigned it to the Son again: 
+"Come now," saith the Father, "and take thou power over every creature, till the 
+time that all things shall be subdued under thee." This right the one relinquished in 
+the time of that humiliation of himself, and this right the other conferred at the time 
+of the exaltation of his Son. 
+
+
+
+3. According to what nature is Christ said to sit at the right hand of God? I answer, 
+according to both natures: first, he sits at God's right hand as God; hereby his 
+divinity was declared, and his kingdom is such, that none that is a poor creature 
+can possibly execute. 2. He sits at God's right hand as man too; hereby his 
+humanity was exalted, and a power is given to Christ as man: "He hath given him 
+power to execute judgment, in as much as he is the Son of man." 
+
+
+
+Sect. III. — Of the Reasons why Christ doth sit on God's Right Hand 
+
+
+
+Why doth Christ sit at the right hand of God? I answer: 1. On Christ's part, that he 
+might receive power and dominion over all the creatures. "All power is given unto 
+
+
+
+me in heaven and in earth": he speaks of it as done, because it was immediately to 
+be performed; Christ at his session received a power imperial over every creature. 
+
+
+
+2. On our part, many reasons might be given: 
+
+1. That he might be the head of his church; in a strict sense, as the head is 
+conjoined with the body and members, so is Christ the head of his church. To this 
+purpose he sits at God's right hand, that having now fullness of grace and glory in 
+himself, he might be ready to communicate the same to his church, who are as the 
+members of his body, that he might give them grace here, and glory hereafter; 
+when he shall deliver up his kingdom to his Father, and be all in all. 
+
+2. That he might be the object of divine adoration; then especially it was said and 
+accomplished, "Let all the angels of God worship him: and let all men honour the 
+Son, as they honour the Father." After Christ's session, Stephen looked up into 
+heaven, and saw the glory of God, and Jesus standing on the right hand of God, 
+and then he worshipped; and called upon God, saying, "Lord Jesus, receive my 
+spirit." It is true, the ground of this divine adoration, is the union of the two natures 
+of Christ, and therefore the Magi worshipped him at his birth; and as soon as ever 
+he came into the world, the angels of God worshipped him; but because by his 
+session at God's right hand, the divine nature was manifested, and the human 
+
+
+
+nature was exalted to that glory which it never had before; therefore now 
+especially, and from this time, was the honour and dignity of worship 
+communicated to him as God and man. "God highly exalted him, and gave him a 
+name which is above every name, that at the name of Jesus every knee shall bow, 
+of things in heaven, and things in earth, and things under the earth, and that every 
+tongue shall confess that Jesus is Lord, to the glory of God the Father." 
+
+3. That he might intercede for his saints. "Now of the things which we have 
+spoken, this is the sum: We have such an High Priest, who is set on the right hand 
+of the throne of the Majesty in the heavens; a minister of the sanctuary, and of the 
+true tabernacle, which the Lord pitched, and not man." He is set on the right hand 
+of God, as an high priest or minister to intercede for us: "for as Christ is not 
+entered into the holy place made with hands, which are the figures of the true; but 
+into heaven itself, now to appear in the presence of God for us." 
+
+
+
+4. That true believers may assuredly hope, by virtue of Christ's session, to sit 
+themselves in the kingdom of glory. Christ living in heaven is the very figure of us; 
+Christ's person is the great model and first draught of all that shall be done to his 
+body, the saints: therefore he is said to be the captain of our salvation, that leads us 
+
+
+
+on; he is said to be our forerunner into glory. He breaks the clouds first, he appears 
+first before God, he sits down first, and is glorified first, and then we follow. 
+
+
+
+5. That he might defend the church against her enemies; and at last destroy all the 
+enemies of the church. 
+
+
+
+6. That he might send down the Holy Ghost: to this purpose Christ told his 
+disciples whilst he was yet on earthy that he must ascend into heaven, and reign 
+there: "It is expedient for you that I go away, for if I go not away, the Comforter 
+will not come unto you; but if I depart, I will send him to you." Christ is now in 
+heaven, and sits at God's right hand, that he may send us his Spirit, by whose 
+forcible working we seek after heaven, and heavenly things, where now Christ sits. 
+
+
+
+Sect. IV. — Of the Time when, and the Persons to whom, the Holy Ghost was sent. 
+
+
+
+No sooner was Christ set down at God's right hand, but he sends down the Holy 
+Ghost. It was an use amongst the ancients, in days of great joy and solemnity, to 
+give gifts and to send presents unto men: thus Christ, in the day of his majesty and 
+inauguration, in that great and solemn triumph, when he ascended up on high, led 
+captivity captive, and gave gifts unto men. 
+
+
+
+"And when the day of the Pentecost was fully come, they were all with one accord 
+in one place; and suddenly there came a sound from heaven, as of a rushing mighty 
+wind, and it filled all the house where they were sitting; and there appeared unto 
+them cloven tongues like as of fire, and it sat upon each of them; and they were all 
+filled with the Holy Ghost, and began to speak with other tongues, as the spirit 
+gave them utterance." Out of these words I shall observe these particulars: The 
+time when — the persons to whom — the manner how — the measure what — and 
+the reasons why, the Holy Ghost was sent. 
+
+1 . For the time when the Holy Ghost was sent, it is said, "When the day of 
+Pentecost was fully come." This was a feast of the Jews, called nevxr\Koqxy]\ 
+because it was ever kept on the fiftieth day after the second of the passover. Fifty 
+days were the appointed time of the Jews' harvest: their harvest being bounded, as 
+it were, with two remarkable days, the one being the beginning, and the other the 
+end thereof: the beginning was the second of the passover; the end was the fiftieth 
+after, called Pentecost; upon the beginning they offered a sheaf of the first-fruits of 
+their harvest. Upon the Pentecost they offered two wave loaves; the sheaf being 
+offered, all the after-fruits throughout the land were sanctified; and the two loaves 
+being offered, it was a sign of the harvest being ended; and now we find, that as 
+
+
+
+there were fifty days betwixt the beginning and the Pentecost, so there were fifty 
+days betwixt Christ's resurrection, and the coming down of the Holy Ghost. As on 
+the day of Pentecost, the Israelites came to mount Sinai, and received the law; so 
+the very same day is accomplished that prophecy, "Out of Zion shall go forth the 
+law, and the word of the Lord from Jerusalem": now was the promulgation of the 
+gospel, called by James, the royal law, as given by Christ our King, and written in 
+the hearts of his servants by this Holy Ghost; it seems to shadow out the great 
+difference betwixt the law and the gospel; the law is given with terror, in lightning 
+and thunder; but the gospel is given without terror, there was no lightning and 
+thunder now; no, the Holy Ghost slides down from heaven, and with joy sits on the 
+heads, and in the hearts, of his saints. 
+
+
+
+2. For the persons to whom the Holy Ghost was sent; it is said, "To all that were 
+with one accord in one place": who they were, it is not here expressed; yet from the 
+former chapter we may conjecture, they were the twelve apostles, together with 
+Joseph, called Barsabas, and the women, and Mary the mother of Jesus, and his 
+brethren; these all continued with one accord in one place, for so was Christ's 
+command, "that they should not depart from Jerusalem, but wait for the promise of 
+the Father, which, saith he, ye have heard of me." It was the great promise of the 
+Old Testament, that Christ should partake of our human nature; and it was the great 
+
+
+
+promise of the New Testament, that we should partake of his divine nature; he was 
+clothed with our flesh according to the former, and we are invested with his Spirit 
+according to the latter promise. For this promise the apostles and others had long 
+waited, and for the accomplishment they were now fitted and disposed. 1 . They 
+had waited for it from the ascension day, till the feast of Pentecost; he told them at 
+the very instant of his ascension, that he would send the Holy Ghost, and therefore 
+bid them stay together until that hour; upon which command they continued 
+waiting until the day of Pentecost was fully come. "He that believeth shall not 
+make haste," saith Isaiah. But, 2. As they waited for the Spirit, so they were rightly 
+disposed to receive the Spirit, for they were all with one accord in one place. To 
+those that accord, is the Spirit given; where is discord, jars, divisions, factions, 
+there is no Spirit of God; for the Spirit is the author of concord, peace, unity, and 
+amity: and can we imagine that essential unity will enter but where there is unity? 
+Can the Spirit of unity come, or remain, but where there is unity of spirit? Verily 
+there is not, there cannot be, a more certain disposition to make us meet for the 
+Spirit, than that quality in us that is likest to his nature; and that is unity, love, 
+concord. Do we marvel that the Spirit doth scarcely pant in us? Alas, we are not all 
+of one accord; the very first point is wanting to make us meet for the coming of the 
+Holy Ghost upon us. 
+
+
+
+Sect. V. — Of the Manner how the Holy Ghost was sent. 
+
+
+
+For the manner how he was sent, or how he came to these apostles; we may 
+observe these particulars: — 
+
+
+
+He came suddenly; which either shows the majesty of the miracle that is gloriously 
+done, which is suddenly done; or the truth of the miracle, there could be no 
+imposture or fraud in it, when the motion of it was so sudden; or the purpose of the 
+miracle, which was to awake and affect them to whom it came; usually sudden 
+things startle us, and make us look up. We may learn to receive those holy motions 
+of the Spirit, which sometimes come suddenly, and we know not how; I am 
+persuaded the man breathes not amongst us Christians, that sometimes feels not the 
+stirrings, movings, breathings, of the Spirit of God; O that men would take the 
+wind while it blows, and the water while the angel moves it; as not knowing when 
+it will, or whether ever it will blow again. 
+
+
+
+2. He came from heaven. The place seems here to commend the gift: as from earth, 
+earthly things arise; so from heaven, heavenly, spiritual, eternal things. 
+
+
+
+3. He comes down from heaven like a wind; the comparison is most apt. Of all 
+bodily things, the wind is least bodily; it is invisible, and comes nearest to the 
+nature of a spirit: it is quick and active as the spirit is. But more especially the Holy 
+Ghost is compared to a wind in respect of its irresistible workings; as nothing can 
+resist the wind, so nothing can resist the Spirit of God. Again, the Holy Ghost is 
+compared to wind, in respect of its free actings; the wind bloweth where it listeth, 
+and so the Spirit bloweth where it listeth: grace makes no gain of man's work; free- 
+will may indeed move and run, but if it be too good, it must be moved, and driven, 
+and breathed upon by God's free grace. 
+
+4. He came like a rushing mighty wind: as the wind is sometimes of that strength, 
+that it rends in sunder mountains and rocks, it pulls up trees, it blows down 
+buildings; so are the operations of the Holy Spirit; it takes down all before it, it 
+made a conquest of the world, beginning at Jerusalem, and spreading itself over all 
+the earth. 
+
+
+
+5. He filled all the house where they were sitting; there were none there that were 
+not filled with the Holy Ghost; all the men and women (an hundred and twenty) in 
+this room were visited from on high, for the Holy Ghost came upon them, and 
+dwelt in them; it filled all the house where they were sitting, to signify that all the 
+
+
+
+other houses of Jerusalem felt none of this mighty rushing wind: have we not 
+sometimes experience of this in our very congregations? One sound is heard, one 
+breath doth blow, and it may be one or two, and no more hears the sound, or feels 
+the breath inwardly, saving; it may be one here, and another there, shall feel the 
+Spirit, shall be touched with it sensibly; but twenty on this side them, and forty on 
+that side them, all becalmed, and go their way no more moved, than when they 
+came into God's presence. O that this Spirit of the Lord would come daily and 
+constantly into our congregations! O that it would blow through them and through! 
+O that it would fill every soul in the assembly with the breath of heaven! Come, 
+Holy Spirit; "awake, O north wind, and come, thou south, and blow upon our 
+gardens, that the spices thereof may flow out." 
+
+
+
+6. He came down in the form of tongues. The apostles were not only inspired for 
+their own benefit, but they had gifts bestowed on them, to impart the benefit to 
+more than themselves. But why did the Holy Ghost appear like tongues? I answer, 
+the tongue is the sole instrument of knowledge, which conveys the same from man 
+to man: though the soul be the fountain from whence all wisdom springs, yet the 
+tongue is that channel whereby this wisdom and knowledge is communicated. In 
+the like manner the Holy Ghost is the sole teacher of all truth; though Christ be the 
+
+
+
+wisdom of God, yet the Holy Ghost is the teacher of this wisdom to men; and 
+hence it is, that the Holy Ghost appeared in the form of tongues. 
+
+
+
+And yet not merely in the form of tongues, but, 1 . They were cloven tongues, to 
+signify that the apostles should speak in divers languages: if there must be a calling 
+of the Gentiles, they must needs have the tongues of the Gentiles wherewith to call 
+them: if they were debtors not only to the Jews but to the Grecians, nor only to the 
+Grecians but to the Barbarians also, then must they have the tongues not only of 
+the Jews, but of the Grecians and Barbarians, to go and teach all nations. 2. They 
+were fiery tongues; to signify that there should be an efficacy or fervour in their 
+speaking; the world was so overwhelmed with ignorance and error, that the 
+apostles' lips had need to be touched with a coal from the altar: tongues of flesh 
+would not serve the turn, nor words of air, but there must be fire put into the 
+tongue, and life into the words they speak: O that we of the ministry had these fiery 
+tongues ! O that the Spirit would put live coal into our speeches ! may we not fear 
+that the Spirit is gone while the people are dead, and we are no more lively in our 
+ministry? It is said of Luther, that when he heard one preach very faintly, "Cold, 
+cold," says he, "this is cold preaching, here's no heat at all to be gotten." O, when 
+the Spirit comes, it comes with a tongue of fire; instead of words, sparks of fire 
+will fall from us on the hearts of hearers. 
+
+
+
+3. These cloven tongues sat upon each of them, to signify their constancy and 
+continuance; they abode still, they continued steady, without any stirring or 
+starting. 
+
+
+
+Sect. VI. — Of the Measure of the Holy Ghost now given, and the Reasons why he 
+was sent. 
+
+
+
+For the measure, what or how much of the Spirit was now given? This question is 
+necessary, because we bring in the Spirit's mission after Christ's ascension, as if 
+the Holy Ghost had not been given before his time. That this was the time of the 
+coming of the Holy Ghost, is very plain; but that the Holy Ghost was not given 
+before this time, we cannot say; certainly the prophets spake by him, and the 
+apostles had him, not only when they were first called, but more fully when "he 
+breathed on them, and said unto them, receive ye the Holy Ghost." So that if ye 
+study the reconciliation of these things, I know not any way better, than to put it on 
+the measure or degrees of the Spirit: here was the difference; before this the Spirit 
+was but sprinkled, as it were, upon them, but now they were all blown upon with a 
+mighty wind. 
+
+
+
+3. At first he was sent only in drops and dew, but now he was poured out in 
+showers and abundance: "The Holy Ghost," saith Paul, "was shed on us 
+abundantly." As there are degrees in the wind — a breath, or a blast, or a stiff gale; 
+we cannot deny degrees in the Spirit, — the apostles at Christ's resurrection 
+received the Spirit, but now they were filled with the Spirit of Christ. 
+
+
+
+4. For the reasons why the Holy Ghost was sent, they are several. 
+
+1. That all the prophecies concerning this mission be accomplished. Isaiah speaks 
+of a time when "the Spirit should be poured upon us from on high, and the 
+wilderness should be a fruitful field." And Zachary prophecies, that "in that day I 
+will pour upon the house of David, and upon the inhabitants of Jerusalem, the spirit 
+of grace and supplication." And Joel prophesies yet more expressly: "It shall come 
+to pass, that I will pour out my Spirit upon all flesh, and your sons and your 
+daughters shall prophesy; your old men shall dream dreams, your young men shall 
+see visions; and also upon the servants, and upon the handmaids, in those days I 
+will pour out my Spirit, and they shall prophesy." But of all the prophecies 
+concerning the mission of the Holy Ghost, our Saviour gives the clearest and most 
+particular: "I will pray the Father, and he shall give you another Comforter, that he 
+may abide with you for ever, even the Spirit of truth. Behold, I send the promise of 
+
+
+
+my Father upon you, but tarry ye in the city of Jerusalem, until ye be endued with 
+power from on high. It is expedient for you that I go away; for if I go not away, the 
+Comforter will not come unto you: but if I depart, I will send him unto you." It was 
+of necessity that all these prophecies and promises must be accomplished, and 
+therefore was the Holy Ghost sent amongst us. 
+
+
+
+2. That the holy apostles might be furnished with gifts and graces suitable to their 
+estates, conditions, stations, places. To this purpose, no sooner was the Spirit sent, 
+but "they were filled with the Holy Ghost, and began to speak with other tongues, 
+as the Spirit gave them utterance." They were filled with the Holy Ghost; not that 
+they were before empty, but now they were more full of the Spirit than ever, and 
+they spake with other tongues, other than they had learned; probably they 
+understood no tongue but the Syriac, till this time, but now on a sudden they could 
+speak Greek, Latin, Arabic, Persian, Parthian, and what not ! the wisdom and mercy 
+of God is very observable herein, that the same means of divers tongues, which 
+was the destroying of Babel, should be the means conferred on the apostles, to 
+work the building of Sion; that confusion of tongues would be united to God's 
+glory. 
+
+
+
+3. That he might fill the hearts of all the saints, and make them temples for the 
+Holy Ghost: "Know you not that your body is the temple of the Holy Ghost which 
+is in you, which ye have of God: and ye are not your own?" It is said, that after the 
+mighty rushing wind and cloven fiery tongues, "they were all filled with the Holy 
+Ghost, and began to speak with other tongues." First, they were filled with the 
+Holy Ghost, and when they spake with other tongues: the Holy Ghost begins 
+inward, and works outward: it first alters the mind, before it changes the speech; it 
+first works on the spirit, before on the phrase of utterance; this was the first work 
+of the Spirit, it filled them. And thus for the daily ministration, such must be 
+appointed as were full of the Holy Ghost. And Stephen is said to be full of the 
+Holy Ghost; and Barnabas is called a good man, and full of the Holy Ghost. The 
+Holy Ghost is usually said to fill the saints: only whether it be the person of the 
+Holy Ghost, or the impressions of the Holy Ghost, is a very great question; for my 
+part, I am apt to incline to their mind, who say, not only the impressions of the 
+Spirit, the qualities of holiness, the gifts and graces of the Holy Ghost, or as some 
+think habitual; the Holy Ghost himself doth fill, and dwell, and reign, in the hearts 
+of all regenerate men. 
+
+
+
+CHAP. II. 
+
+
+
+Sect. I. — Of Knowing Jesus as carrying on the great Work of our Salvation in his 
+Ascension, Session, and Mission of the Spirit. 
+
+
+
+Let us know Jesus, carrying on the great work of our salvation in his ascension into 
+heaven, in his session at God's right hand, and in his mission of the Holy Ghost: 
+these are points of great use; if these transactions had not been, where had we 
+been? Here is an object of admiration indeed; the very angels at the sight of it 
+stood admiring and adoring; it took up their heart, astonished their understanding. 
+Come then, and, O my soul, do thou take a view of that which they admire, the 
+design concerns thee in particular; and therefore study close this argument, and 
+know it for thyself. Study first the ascension of Christ, how, and whither, and why 
+he ascended. Secondly, study the session of Christ at God's right hand: O the 
+riches of that spiritual, heavenly knowledge! 
+
+
+
+3. Study the mission of the Holy Ghost; not a circumstance in it, but deserves thy 
+study: what endeavors have there been to dive into the secrets of nature! what 
+vobmies have been written of physic, metaphysics, mathematics ! and is not this 
+subject Christ? Is not every of these subjects, Christ's ascension, Christ's mission 
+
+
+
+of the Holy Spirit, of more value and benefit than all those! Come, study that piece 
+of the Bible, wherein these are written; there is not a line or expression of Christ in 
+the Scripture, but 'tis matter enough for a whole age to comment on; thou needest 
+not to leave old principles for new discoveries, for in these very particulars thou 
+mightest find successive sweetness unto all eternity. 
+
+
+
+Sect. II. — Of considering Jesus in that respect. 
+
+
+
+Let us consider Jesus, carrying on this work of our salvation in these particulars: 
+
+
+
+And to take them in order, — 
+
+
+
+1. Consider Christ's ascension into heaven. What, shall he ascend, and shall we not 
+in our contemplations follow after him? Gaze, O my soul, on this wonderful object; 
+thou needest not fear any check from God or angel, so that thy contemplation be 
+spiritual and divine. No sooner had Christ finished his work of redemption here on 
+earth, but on the mount called Olivet he assembles with his disciples, where having 
+given them commands, he begins to mount; and being a little lifted up into the air, 
+presently a cloud receives him into her lap. Herein is a clear demonstration of his 
+godhead; clouds are usually in scripture put for the house, or temple, or receptacle 
+
+
+
+of God himself. How often is it said, that "the glory of the Lord appeared in the 
+cloud"? and that "he called unto Moses out of the midst of the cloud"? and that 
+"the Lord descended in the cloud"? is not the clouds God's own chariot? "Behold, 
+the Lord rideth on a swift cloud! And O my Lord my God, thou art very great," 
+saith David; great indeed, and he proves it thus, who maketh the clouds his chariot. 
+Jesus Christ in his ascension to heaven enters by the way into a cloud; this was his 
+chariot, led by ten thousands of his angels. "The chariots of God are twenty 
+thousand, even thousands of angels; the Lord is among them in Sinai in the holy 
+place: thou hast ascended on high, thou hast led captivity captive, thou hast 
+received gifts for men." 
+
+But stay not thy contemplation in the cloud, he ascends yet higher, through the air, 
+and through the clouds, and through that heaven of fixed stars, nor stood he still till 
+he came to the heaven of heavens. In all this triumphant march, some tell us of an 
+heavenly harmony made by the blessed angels; and that this is the meaning of the 
+psalmist: "God is gone up with a shout, the Lord with the sound of a trumpet." In 
+this meditation pass not over thy duty, which immediately follows: "Sing praises 
+unto God, sing praises; sing praises unto our King, sing praises"; — "sing unto 
+God, sing praises to his name, extol him that rideth upon the heavens, by his name 
+JAH, and rejoice before him." Thou hast cause, O my soul, to praise him, and to 
+
+
+
+rejoice before him, especially if thou considerest that Christ ascended not for 
+himself, but for thee; it is God in our nature that is gone up to heaven, Christ as a 
+public person ascended up to heaven; thy interest is in this very ascension of Jesus 
+Christ, and therefore dost thou consider thy head as soaring up? O let every 
+member praise his name! 
+
+
+
+And yet stay not by the way, but consider further; Christ being now arrived at 
+heaven doors, those heavenly spirits that accompanied him began to say, "Lift up 
+your heads, O ye gates, even lift up yourselves, ye everlasting doors, and the King 
+of glory shall come in!" To whom some of the angels that were within, not 
+ignorant of his person, but admiring his majesty and glory, said again, "Who is the 
+King of glory?" And then they answered, "The Lord strong and mighty, the Lord 
+mighty in battle"; and thereupon those "twelve gates of the holy city of New 
+Jerusalem" opened of their own accord, and Jesus Christ with all his ministering 
+spirits entered in. O my soul, how should this heighten thy joy, and enlarge thy 
+comforts, in that Christ is now received up into glory! every sight of Christ is 
+glorious, and in every sight thou shouldest wait on the Lord Jesus Christ for some 
+glorious manifestations of himself. Come, live up to the rate of this great mystery; 
+view Christ as entering into glory, and thou wilt find the same sparkles of glory on 
+thy heart. 
+
+
+
+2. Consider Christ's session at God's right hand: no sooner was Christ entered into 
+heaven, but he is brought before his heavenly Father; and a dominion was given 
+him above all creatures, above the hierarchy of all the angels: O the glory of Christ 
+at his first entrance into glory! immediately all the angels fell down and 
+worshipped him, immediately his Father welcomed him with the highest grace that 
+ever was shown. "Come," said he, "sit thou at my right hand, until I make thine 
+enemies thy footstool." O my soul, meditate on this session of, Christ at God's 
+right hand, and thence draw some virtue into thyself: what! was Christ exalted? 
+had he a name given him above every name? walk then as becomes those that have 
+so glorious ahead: O defile not that nature which in thy Christ was so highly 
+honoured ! 
+
+
+
+3. Consider the mission of the Holy Ghost: "When he ascended on high, he led 
+captivity captive, and gave gifts unto men." He gave gifts, or the gift of gifts, the 
+gift of the Holy Ghost: O my soul, consider this princely gift of Christ! Such a gift 
+was never before, but when God gave his Son: "God so loved the world, that he 
+gave his Son"; and Christ so loved the world, that he gave his Spirit. But consider 
+especially to whom this Spirit was given; the application of the gift is the very soul 
+of thy meditation: "Unto us a Son is given," said the prophet; and, "unto us the 
+
+
+
+Holy Ghost is given," saith the apostle. And yet above all, consider the reasons of 
+this gift in reference to thyself; was it not to make thee a temple of the Holy Ghost? 
+Stand a while on this ! admire, O my soul, at the unspeakable love of Christ in this ! 
+It was infinite love to come down into our nature; but this is more, to come down 
+into thy heart by his Holy Spirit: he came near to us then, but he comes nearer now, 
+for now he unites himself unto thy person, now he comes and dwells in thy soul by 
+his Spirit; come! here's that which will content thy vast desires: "Christ is in thee 
+by his Spirit"; will not this content the utmost capacity of an heart? surely he is too 
+covetous whom God himself cannot suffice: if thou hast Christ, thou hast all 
+things; and if thou hast the Spirit of Christ, thou hast Christ himself, not notionally, 
+but really, essentially, substantially, by his Spirit; it is the very Spirit of Christ, the 
+Spirit itself, the Holy Ghost itself in his own person, that is united to thee, and 
+dwells in thee; nor only comes he in person, but he brings along with him all his 
+train: hath he not endowed thee with gifts? hath he not divided a portion to thee in 
+thy place and calling? observe it, and be thankful, if thou hast a gift of prayer, of 
+prophecy, of wisdom, of knowledge, it flows from this Holy Spirit: "Unto every 
+one of us is given grace according to the measure of the gift of Christ," or 
+according to the measure of the Spirit, who is the gift of Christ. And, "all these 
+worketh that one and the same Spirit, dividing to every man severally as he will." 
+But besides a gift, hath he not endowed thee with his grace? hath he not planted in 
+
+
+
+thy soul the power, the principle, of grace? hast thou not felt the quickenings, 
+stirrings, of the Spirit of God, commanding thy faith, love, zeal, and other graces? 
+hath he not many a time, at some mighty streight, at some prevailing temptation, 
+when thou wast even ready to yield to Satan, come in as betwixt the bridge and 
+water, and given thee grace to help in time of need? O the sweet incomes of the 
+Spirit of God! as he is a holy Spirit, so he makes holy hearts; and if there be 
+holiness in thy heart, what is it but an emanation of the Spirit of God? hast thou not 
+sometimes felt the joy unspeakable and full of glory? a drop of heaven's joy, as the 
+earnest of thy inheritance? why, all these are but the workings of the promised 
+Comforter: "I will pray the Father, and he shall give you another Comforter, that 
+he may abide with you for ever." Another effect is, the seal of the Spirit stamped 
+on thee. I will not say this is absolutely necessary, but hast thou not sometime been 
+assured of thy salvation, by an irradiation of the Spirit on thy graces? Sometimes 
+the Spirit is pleased to shine with its bright, and glorious, and heavenly beams into 
+our souls, and then we are assured: hence the apostle prays for the Ephesians, "that 
+they might have the Spirit of revelation." If the Spirit shine upon our graces, then it 
+seals: O consider this shining-sealing work, and leave not till the Spirit dart in a 
+spiritual light, and give thee a revelation, knowledge, and persuasion, of thy 
+effectual calling. 
+
+
+
+Sect. III. — Of Desiring Jesus in that respect. 
+
+
+
+Let us desire Jesus carrying on the great work of our salvation in these particulars: 
+who seeing Christ ascending into heaven, would not be glad to ascend up with 
+him? seeing Christ, to sit down with him? Who seeing Christ scatter his gifts and 
+spirit amongst his saints, would not cry, "Come, Holy Spirit; O Christ, give me thy 
+Spirit; thou that givest gifts unto men, come, and bestow these gifts on me ! even 
+upon me!" The believing soul cannot hear of Christ in any true discovery of his 
+grace and glory, but it must needs send out many breathings after him. - "O that 
+Christ were mine! O that I had any interest in this transaction!" It is true, these 
+transactions are past, but the virtue of them continues still; and accordingly the 
+virtue, power, and influence of these transactions must be the object of our desires; 
+now what is the virtue of Christ's ascension, but that we might ascend? And what 
+the virtue of Christ's session, but that we might sit down with him in his throne? 
+And what the virtue of the mission of his Spirit, but that we might partake of the 
+Holy Ghost? O let these be the objects of our desires; let us pant and breathe 
+after these things. 
+
+
+
+1 . Let us see Christ ascending, and so desire to ascend with him: when Christ 
+ascended, it was not merely for himself, but also in our stead: he ascended as a 
+
+
+
+common person; as the high priest ascending into the holy of holies, he carried all 
+the names of the twelve tribes on his breast; so Jesus Christ ascending into heaven, 
+carried the names of all believers in the world on his breast, thereby showing that 
+they were likewise to come after him: in this case how should we long after him, 
+and cry after him, as Elisha after Elijah when he saw him ascending, "My father! 
+my father! the chariots of Israel, and the horsemen thereof!" How should we cry 
+after him, "O my Lord and my God! see that my name be written on thy breast! O 
+that virtually I may ascend with thee, and that really and bodily I may at last 
+ascend after thee!" A desire after Christ, and his ascension is the way to heaven; if 
+thou wilt ascend after Christ, set thy desires upon Christ; if thou wilt arrive at true 
+glory, breathe after Christ ascending up into his glory. O when will it once be, that 
+by the virtue of Christ's ascension I shall ascend! 
+
+
+
+2. Let us see Christ sitting down at the right hand of God, and so desire to sit with 
+him; when Christ sat down, it was not in his own right simply, as it is his 
+inheritance, but with relation to his members: "He hath quickened us together with 
+Christ, and hath raised us up together, and made us sit together in heavenly places 
+in Christ Jesus." He sat down as a common person, thereby showing that we were 
+to sit down with him in our proportion: "Him that overcometh, I will grant to sit 
+with me in my throne, even as I also overcame, and am set down with my Father in 
+
+
+
+his throne." O my soul, desire this, for this is worthy of thy desire: this is a great 
+thing, an high exaltation, another manner of honour than any this world affords ; 
+only take heed of apprehending it after a carnal way. This very exaltation consists 
+in the image of God, and communion with God; whatever thou givest or deniest. 
+Lord, give me this, and I have enough for ever. 
+
+
+
+3. Let us see Christ's mission of his Holy Spirit, and desire a share in that gift. We 
+cannot expect to sit with Christ, but we must first have the spirit of Christ. 
+Consider, O my soul, all things here below are either temporal or spiritual; and of 
+things spiritual this is the sum, "the indwelling of the Spirit." O Lord, give me 
+thyself, and that contains all gifts; O give me thy Spirit, and thou canst not but with 
+him give me all things. O what longings! O what pantings and gaspings should 
+there be in thy spirit after this Spirit ! Come, Holy Spirit, O come and dwell in my 
+soul! I know thou wilt make the place of thy feet glorious; if I have but thy 
+presence, I shall be all glorious within. 
+
+
+
+Sect. IV. — Of Hoping in Jesus in that respect. 
+
+
+
+Let us hope in Jesus, carrying on the great work of our salvation in these 
+particulars; this was the apostle's prayer: "Now the God of hope fill you with all 
+
+
+
+joy and peace in believing; that ye may abound in hope, through the power of the 
+Holy Ghost": could we abound in hope that Christ's ascension, session, and 
+mission of his Spirit did belong to us, we should never be ashamed: O then let us 
+look to our hope, and be sure that it be of the right stamp ! which in reference to 
+every of these passages, we may examine thus: 
+
+
+
+1. If Christ's ascension be mine, then am I ascended with Christ: for we may 
+ascend into heaven by faith and love, though for the present we are on earth: "If ye 
+be risen with Christ, seek those things which are above, where Christ sitteth at the 
+right hand of God: set your affections on things above, and not on things on the 
+earth." If Christ our head be ascended, then we that are his members must follow 
+after him in our affections. Christ tells us, "where our treasure is, there will our 
+hearts be also." If Christ our treasure be ascended into heaven, our loves, our 
+affections, our hearts, will follow after him; and if our hearts be in heaven, no 
+question but we ourselves, both souls and bodies, shall at last ascend. 
+
+
+
+2. If Christ's session be mine, then am I set down with Christ in heavenly places; I 
+mean not bodily, but by faith, which faith makes it as sure to my soul as if I had a 
+foot already in heaven: "Faith is the substance of things hoped for, and the 
+evidence of things not seen." By faith I now sit in heavenly places, in that I verily 
+
+
+
+believe I shall do it one day; my hope is now certain, in that I am as sure of that I 
+look for, as I am of that I have already received. The apostle said of Christ, "We 
+see not yet all things put under him"; but he presently answers, "We see Jesus, who 
+was made a little lower than the angels, crowned with glory and honour": and so 
+we may be sure the thing is as good as done; for if he be above, all must come 
+under; in like manner we see not ourselves in present possession, but we see Christ 
+crowned, and ourselves sitting with him virtually; and therefore at last we shall see 
+ourselves actually crowned, and sitting together with Christ in heavenly places. 
+
+3. If Christ's Spirit be mine, and sent to me, then have I both the person and train 
+of the Spirit of Christ. It is the having the Spirit, and the working of the Spirit in 
+me, that is my evidence of the Spirit's mission: I look upon this as the greatest 
+question, and the weightiest case of conscience, that can be propounded — whether 
+the Spirit of Christ doth reside in us? or whether we have a well-grounded hope to 
+say of ourselves, that we have the indwelling of the Spirit of God? "Know ye not 
+that ye are the temple of God," saith the apostle, "and that the Spirit of God 
+dwelleth in you?" And again, "Know ye not that your bodies are the temples of the 
+Holy Ghost?" In this he seems to put it out of question, that true Christians know 
+the Spirit of God dwells in them; if we know not this, we cannot know that we 
+have any part in Christ, because the Holy Spirit is the principal bond of our union; 
+
+
+
+if we know not this, we cannot know that we are justified, for we have nothing to 
+do with Christ's righteousness, by which we are justified, until by our spiritual 
+union Christ is made ours; if we know not this, we cannot know that we are the 
+adopted children of God, for it is the Spirit of adoption, whereby "we cry in our 
+hearts, Abba, Father": if we know not this, we cannot know that we are sanctified, 
+for it is the Spirit which is the beginner and perfecter of our sanctification: if we 
+know not this, we cannot know that our prayers are heard, for it is "the Spirit that 
+helps our infirmities, and that makes intercession for us with groanings which 
+cannot be uttered": if we know not this, we cannot know whether we are in error or 
+truth, or whether our religion be true or false, for it is the Spirit who enlightens, 
+and leads us into all truth: if we know not this, we cannot know our own comforts, 
+for he is the only true comforter. Come then, and put we ourselves to the trial; let 
+us search whether we have the Spirit of Christ; which we may resolve, (if we will 
+not deal deceitfully with our own hearts,) by these following signs: - 
+
+
+
+1. The Spirit of Christ is the spirit of illumination. If he dwell in us, he will 
+enlighten our eyes, reveal to us those saving truths of God as they are in Jesus: 
+"But the Comforter, which is the Holy Ghost, whom the Father will send in my 
+name, he shall teach you all things." - "But ye have an unction from the Holy 
+
+
+
+One, and ye know all things." - "But the anointing which ye have received of him 
+abideth in you, and ye need not that any men teach you, but as the same anointing 
+teacheth you all things"; and hence it is that this Holy Spirit is called "the Spirit of 
+wisdom and revelation in the knowledge of God." 
+
+
+
+2. The Spirit of Christ is a spirit of prayer. "I will pour upon the house of David, 
+and upon the inhabitants of Jerusalem, the spirit of grace and of supplication." - 
+"Likewise the Spirit also helpeth our infirmities; for we know not what we should 
+pray for as we ought, but the Spirit itself maketh intercession for us with groanings 
+that cannot be uttered." It is not said that the Spirit teaches us words, and fluent 
+phrases, but it teaches us to pray in the heart with sighs and groans. 
+
+
+
+3. The Spirit of Christ is a spirit of sanctification. The apostle having told the 
+Corinthians that they had been notorious sinners, saith further, that "they were 
+washed and sanctified by the Spirit of God." Hence the Holy Spirit is called "the 
+Spirit of holiness," because he makes us holy. If we have this Spirit, it inclines our 
+hearts to things above, it mortifies our lusts, it brings us nearer to God: the spirit 
+therefore that is impure, and encourages men in sin, and cries up carnal liberty, is 
+certainly none of the Spirit of Christ; and by this one sign many carnal pretenders 
+of our times may be convicted. 
+
+
+
+4. The Spirit of Christ is a spirit of love. "God is love; and he that dwelleth in love 
+dwelleth in God, and God in him": as the Spirit is love, so it begets love in the 
+hearts of his people: "The fruit of the Spirit is love, joy, peace, long-suffering, 
+gentleness, goodness, faith, meekness, temperance." All these graces are the fruits 
+of the Spirit, but the first grace in the link is love: by his Spirit we are taught to 
+love God, not only for his benefits, but in respect of his nature; for his goodness, 
+justice, holiness; by his Spirit we are taught to love anything that hath the stamp 
+and image of God upon it: "but as touching brotherly love, ye need not that I write 
+unto you, for ye yourselves are taught of God to love one another." 
+
+5. The Spirit of Christ is a witnessing Spirit. "The Spirit itself beareth witness with 
+our spirit, that we are the children of God": and "every one that belie veth hath the 
+witness in himself." 
+
+
+
+The witnessing of the Spirit is an office of the Spirit, whereby it works the soul 
+into a knowledge, persuasion, or conclusion of its acceptance with God in Christ. 
+
+
+
+2. How doth the Spirit thus witness? I answer, 1. Immediately. 2. Mediately. 
+
+
+
+1. Concerning the immediate testimony of the Spirit there is some controversy: 
+Antinomians would have no other testimony but this ; all other evidences (say they) 
+are deceiving evidences; or if not deceiving, yet to make use of them were but to 
+light a candle to the sun; for what are the graces of the Spirit in comparison of the 
+Spirit's own testimony? and it may be the running into this extreme hath caused 
+others absolutely to deny any such testimony, or at least to say, —for these 
+enthusiasms or inspirations, let them boast of them that have them, we know no 
+such thing. Methinks a middle betwixt these is most consonant to truth, for neither 
+can I reject the graces of our assurance, neither dare I deny but there is something 
+of the work of the Spirit's testimony which is an immediate work. 
+
+Certainly there is a work, wherein the Spirit acts as in illumination; and infusion of 
+good motions into us, wherein by a secret influence upon the heart, he quiets and 
+calms the troubled soul concerning its condition by his own immediate power, 
+without any grounds from scripture without, or graces within. 
+
+
+
+There is a threefold work of the Spirit, saith Mr. Caryl: 
+
+
+
+1 . To convey and plant grace in the soul. 2. To help us to exercise the graces which 
+are planted there. 3. To shine upon and enlighten those graces: this last work the 
+
+
+
+Spirit fulfils two ways; 1. By arguments and inferences, which is a mediate work, 
+2. By presence and influence, which is an immediate work; this the apostle calls, 
+"witness-bearing"; "there are three that bear witness in earth, the Spirit, and water, 
+and blood": the Spirit brings in the witness of water and blood, which is a mediate 
+work: but besides and above these, he gives a distinct witness of his own, which is 
+his immediate work, and is, in a way of peculiarity and transcendency, called the 
+witness of the Spirit. As it is with the motions of the Spirit, many a time the Spirit 
+excites a man to such or such duties, by laying his hand immediately upon the 
+heart, and thereby inclining it to obey those motions: so in this case, when a poor 
+soul sits in darkness, and sees no light, sometimes it is, as it were, taken up into the 
+third heaven; and this is in such a way, that though the spirit of a man is 
+immediately calmed by it, yet it cannot tell how it came to pass. 
+
+
+
+But for fear of mistakes, in this case observe we these rules: 
+
+
+
+1 . That although the Spirit may immediately testify without express or formal 
+application of a word, yet he never testifies but according to the word. If a man that 
+never felt sin a burden, that throws away all duties of religion, that never prays, 
+reads, hears, or meditates, shall say, that he is filled with joy, peace, and the 
+assurance of God's word, it is certain the holy Spirit is not the author of this, 
+
+
+
+because the promise of peace belongs to none of his stamp; see Mat. xi. 28. Isaiah 
+lvii. 15. Mat. v. 3, 4, 5, 6, 7, 8. 
+
+
+
+2. That ordinarily the Spirit brings in his testimony either in duty, or after duty: "I 
+have seen his ways, and I will heal him; I will lead him also, and restore comforts 
+to him and to his mourners: I create the fruit of the lips, peace, peace to him that is 
+far off, and to him that is near, saith the Lord, and I will heal him." I know there 
+may be a case of grievous temptations, and at such time the Spirit of God may 
+come in by a sudden irradiation, and cheer the soul wonderfully, though it knows 
+not how; yet usually the Spirit brings in his testimony either in duty, or not long 
+after duty. 
+
+
+
+3. That such testimonies of the Spirit beget only an actual assurance during the 
+present exigency, or in order to some present design that God is working thereby. 
+
+
+
+2. The Spirit witnesseth immediately; and that either without, or with 
+argumentation, — but both from the word. 
+
+
+
+1. Without argumentation; and that is when the Spirit applies some suitable word 
+to the soul, and without more ado enables the soul to close with that word. As for 
+
+
+
+instance; thou art burdened for sin, and thou hast prayed earnestly for pardon of 
+sin, and even then a secret whisper of the Spirit casts that word into thy heart, "I 
+will heal thy backslidings, and love thee freely"; or such a voice as that, "Come 
+unto me, all ye that labour, and are heavy laden, and I will give you rest." Now this 
+is a direct testimony; only I dare not leave it without a caution. Some can relate 
+extraordinary passages of providence attending the coming in of such and such a 
+word: as, that they did not know there was any such scripture, nor did they know 
+where it was; and yet in opening the book, it was the very first place they cast their 
+eye upon; or they wanted a book, and in the use of some other means unexpectedly 
+a word was spoken, or remembered, so pat to the case, as if it had been a message 
+from heaven: certainly the Spirit's hinting of words thus is very observable; yet a 
+bare giving in of a word is no warrant that it comes from the Spirit, unless the soul 
+come up to some end which the word itself pointeth at; for the ends it aimeth at, as 
+quickening, comforting, supporting, acting of some graces, or such like; and by 
+this we may know that the testimony is true, and proceeds from the Spirit of God. 
+
+
+
+2. With argumentation; and that is, when the Spirit brings in the testimony of blood 
+and water: I may call it a testimony of graces, written in our hearts, and brought 
+out by the Spirit in a way of argument; as thus - "He that believeth hath everlasting 
+
+
+
+life: but I believe, therefore I have everlasting life." The first proposition is the 
+gospel; and in this way it is the first work of the Spirit to open our eyes for the 
+understanding thereof. The second proposition is thy case, or my case; and here the 
+Spirit enlightens the soul to see itself under that condition. But I believe — 
+
+
+
+In all cases, the assurance that the Spirit gives, maintains a soul in a way of 
+reliance and dependence, when it sees no reason why he should do so; or it may be, 
+when he sees reason why it should not be so: as it is said of Abraham in another 
+case, that "he believed in hope against hope"; faith told him there was hope that he 
+should be the father of many nations, when reason told him there was none. Again, 
+the assurance that the Spirit gives, is attended with an high esteem of prayer, 
+duties, ordinances; and in the issue (which is the most sure mark) it purifies the 
+soul; "he that hath this hope purifieth himself, even as he is pure"; he is ever 
+washing himself from sin, and watching against sin, and taking all possible care to 
+keep himself pure and unspotted in this world; it keeps the soul humble and lowly, 
+it being impossible that such a testimony of the Spirit, and so intimate a converse 
+with God, and the light of his countenance, should not reflect low thoughts upon a 
+man concerning himself; such a man cannot but say, "Lord, what am I that thou 
+hast brought me hitherto? What, for such a peevish, unbelieving, impatient soul as 
+
+
+
+mine, to be carried in thy arms, and cheered with thy smiles, and to enjoy the 
+comforts of thy Spirit? O what a wonderful, merciful, gracious God have I?" 
+
+
+
+O my soul, try now the hope of the Spirit's indwelling by these several signs: Art 
+thou enlightened savingly in the knowledge of God, and of Christ? Hast thou a 
+spirit of knowledge and supplication? a spirit of sanctification? a spirit of love? 
+Hast thou ever had the immediate testimony of the Spirit? Hast thou ever had the 
+mediate testimony of the Spirit without any argumentation? Hast thou 
+unexpectedly lighted on some places of scripture that hath satisfied thy soul as with 
+marrow and fatness? Or if not so neither, hast thou the immediate testimony of the 
+Spirit with argumentation? Canst thou argue thus; "He that believeth shall be 
+saved: but I believe, therefore I shall be saved." Or if any doubt be made of the 
+assumption; canst thou prove it by such other graces as accompany faith, and are 
+the fruits of faith? Canst thou say, by the help and shinings of the Spirit, that these 
+and these graces are in me, I love God and Christ, I repent of my sins: — surely 
+then thy hope is well grounded; thou hast the indwelling of the Spirit; it is thine; 
+even thine. 
+
+
+
+Sect. V. — Of Believing in Jesus in this respect. 
+
+
+
+Let us believe on Jesus, as carrying on the great work of our salvation in these 
+particulars. Many scruples are in many hearts: "What! is it possible that I should 
+have any share in Christ's ascension, Christ's session, Christ's mission of his 
+Spirit! Was it ever in God's heart that I should partake with Christ in all these 
+glories? What is this, that earth should go up to heaven, that men should ascend to 
+God? yea, that my soul with Christ, and by Christ, should ascend to God, and sit 
+down with God in heavenly places? that my soul should have for its inmate the 
+very same Spirit that Christ himself hath? O, I cannot, I dare not believe." 
+
+Scrupulous souls, be not faithless, but believing; there is none of these particulars 
+for which we have not a warrant out of the word of God; and therefore believe: I 
+shall lay down, 1. Some directions, and 2. Some encouragements of faith. 
+
+
+
+1st. For directions of faith, observe, as before, these particulars. 
+
+
+
+1 . Faith must directly go to Christ. 
+
+2. Faith must go to Christ as God in the flesh. 
+
+3. Faith must go to Christ as God in the flesh made under the law. 
+
+4. Faith must go to Christ, not only as made under the directive part of the law by 
+his life, but under the penal part of the law, by his death. 
+
+
+
+5. Faith must go to Christ, not only as put to death in the flesh, but as quickened by 
+the Spirit. 
+
+6. Faith must not only go to Christ as quickened by the Spirit, but as going into 
+glory, as sitting down at God's right hand, and as sending the Holy Ghost. Faith 
+should eye Christ as far as he goes: if he be ascended, so should faith; if he go into 
+glory, and sit down there, and act there for his people, so should faith; and so 
+should we in a way of believing follow after him, and take a view of all his 
+transactions where he is: we have heard before how faith should go to Christ as 
+dying, and as rising again; but yet faith is low, while it doth not go within the vail, 
+and see him in glory; it is not enough to have only a faith of justification, but of 
+glorification. O come let us see Christ in heaven, and we can have no less than a 
+glorious faith! how many are there that never yet came to Christ as a glorified 
+Christ! We are still in the lower form; many of us take in no more of Christ than 
+what was done on the cross, we seldom follow Christ into heaven, to see what he is 
+doing for us. O my soul! O my faith! mount up, and be upon the wing: Christ is 
+gone up to heaven, Christ is sat down at God's right hand; Christ hath sent down 
+his holy Spirit. He gave the gift of gifts, even the gift of the Holy Ghost himself. 
+What! art not thou a partaker of this gift? O then look up unto Jesus in reference to 
+all this, set him before thee: Christ in all these particulars is a right object for thy 
+faith. 
+
+
+
+7. Faith in going to Christ, his ascension, session, and mission of the holy Spirit, is 
+principally to look to the design of Christ, in each of these particulars: Christ did 
+nothing, but he had an end in it for our good; and here is the life of faith, to eye the 
+meaning of Christ in all his doings. Now the ends of Christ's ascension, session, 
+and mission of his Spirit, were several; I shall instance only in these few. 
+
+
+
+1. Christ ascended, that we might ascend. Look, whatever God acted on Christ's 
+person, that he did as on our behalf, and he means to act the same on us. Was 
+Christ crucified? So are we. Is Christ risen again? So we are risen with him. Is 
+Christ gone up into glory? So are we: heaven is now opened and possessed by 
+Jesus Christ for us, and at last we shall ascend even as he ascended. How should 
+faith pry into this? As we must go through all ordinances and creatures till we 
+come to Christ, so through all conditions of Christ until we come to glory. 
+
+
+
+2. Christ sat down, that we might sit with him in heavenly places: what is the end 
+of Christ's session, but that he might invest all his saints with the same privilege? 
+In this height of glory, Christ is the pattern of what we shall be; surely this is the 
+very top of heaven; Christ is exalted above the heavens, that we might in our 
+measure be exalted with Christ: it was Christ's prayer, that his Father, and he, and 
+we, might be one, "as thou Father art in Me, and I in Thee, that they also may he 
+
+
+
+one in us." O how should faith stand, and gaze on Christ in that respect? What! is 
+he on God's right hand? and is he there preparing a mansion for my soul? What, 
+shall I sit at the right hand of Christ? Admire, O my soul, this aim of Christ, the 
+meaning of his exalting himself, it was to exalt thee; and the meaning of his 
+exalting thee on this manner, is to manifest to all the world, what the Son of God is 
+able to do, in raising so poor a creature to so rich a glory. 
+
+3. Christ sent down the Holy Ghost, that he might dwell in our souls, endow us 
+with gifts and graces; that he might comfort us, seal us unto the day of redemption; 
+fit us for glory. Amongst the many ends for which Christ sent down his holy 
+Spirit, I shall insist only on these two — 
+
+
+
+1. That he might help us to "cry, Abba Father"; and make us come boldly to the 
+throne of grace, as children to a father. It is the Spirit that takes us by the hand and 
+leads us to the Father, when others stand at a distance, and cannot come near. 
+Though others are kept out, yet the adopted child, who hath received the Spirit of 
+adoption, can say, "Let me come to my Father; guards are appointed to keep out 
+strangers, but not sons." 
+
+
+
+2. That he might guide us into all truth; I mean into all necessary, fundamental, 
+saving truths: In this respect we have need of the Spirit. He it is that dictates to us 
+which is the true religion; he it is that transcribes upon our hearts that which was 
+before only written in our books; he it is that not only reveals truth from without, 
+but imprints it also upon the soul, as a man doth a seal by impressing it on the wax; 
+as the written word is the testimony without us, so are these impressions of the 
+Spirit the testimony within us, by which we may know every necessary truth as it 
+is in Jesus: unbelievers have a testimony without them, but believers have a double 
+testimony, one without, and one within; and this witness within us will go with us 
+and accompany us through all streights and difficulties. Men may take from us our 
+bibles, teachers, friends, or imprison us where we cannot enjoy them; but they 
+cannot take from us the Spirit of Christ; this witness; O what an excellent help is 
+here to a poor Christian, beyond all the furniture of the most learned men, that 
+want this testimony of the Spirit of Christ! surely this advantage will exceedingly 
+furnish us against all temptations to any error, that is plainly contrary to the 
+essentials of religion. 
+
+
+
+2d. For the encouragement of our faith to believe in Christ in reference to his 
+ascension, session, and mission of his Spirit. 
+
+
+
+1. Consider the excellency of this object. What is it but Christ? Christ in his 
+ascendant, regnant power? Christ in his marching, conquering, triumphing 
+postures? in his free, and large, and magnificent gifts? "When he ascended on high, 
+he led captivity captive, and gave gifts unto men." O the glory, O the excellency, 
+of Christ in these respects; I believe this is the top of heaven's glory, to see and 
+wonder at the virtues of him that sits on the throne at the right hand of God; to be 
+filled, but never satiated, with the glory of Christ. 
+
+2. Consider the power, virtue, and influence of this object unto our souls' salvation. 
+O what a stately tower have we here erected to see heaven on? Faith may stand, as 
+it were, on this mount, and see itself in glory; O the flowings, the rich emanations 
+of grace and glory that come from hence ! O why do we toil ourselves in gathering 
+sticks, when to-morrow we shall be out of this world, and go to Christ. 
+
+
+
+3. Consider of the suitableness of these objects to our several conditions; "Behold 
+he comes leaping upon the mountains, and skipping upon the hills," Cant. ii. 8. 
+Gregory, that measured his leaps, thus gives them: he first leaps from his Father's 
+mansion to his mother's womb; from her womb to the manger; from his manger to 
+his cross; from his cross to his grave; from his grave up again to heaven: great 
+leaps indeed, that showed both his readiness to love, and willingness to save. O 
+
+
+
+believe! believe thy part in Christ's ascension, Christ's session, Christ's mission of 
+his holy Spirit, and thou mayest go singing to thy grave ! a lively faith in such 
+particulars would set a soul in heaven, even whilst on earth. 
+
+
+
+Sect. VI. — Of Loving Jesus in that respect. 
+
+
+
+Let us love Jesus, as carrying on the great work of our salvation in these 
+particulars. Much has been said already of Christ's conception, birth, life, death, 
+resurrection; such arguments of love as are enough to swallow up souls in love; but 
+as if all those were not enough for God, see here new mines, never known in the 
+world before, opened in Jesus Christ. See ! Christ for us and for our salvation is 
+gone up to heaven, is set down at God's right hand, and hath sent down the Holy 
+Ghost into our hearts. In the pouring out of these springs of heaven's love, how 
+should our souls but open the mouth wide, and take in the streams of Christ's 
+honey and milk; I mean his precious love breathings? 
+
+
+
+Two things I shall instance in, which may be as the loadstones of our love to 
+Christ; the first is his glory, and the second his bounty. 
+
+
+
+1. For his glory: No sooner was he ascended, and sat at God's right hand, but John 
+the divine had a sight of him, and O what a glorious sight! "He was clothed with a 
+garment down to the feet, and girt about the paps with a golden girdle; his head and 
+his hairs were white like wool, as white as snow, and his eyes were as aflame of 
+fire, and his feet like unto fine brass, as if they burned in a furnace, and his voice as 
+the sound of many waters; and he had in his right-hand seven stars, and out of his 
+mouth went a sharp two-edged sword, and his countenance was as the sun that 
+shineth in his strength:" when John saw him thus, he swoons at his feet. But Christ, 
+for all his glory, holds his head, "saying, Fear not; I am the first and the last; I am 
+he that liveth, and was dead, and behold I am alive for evermore, amen, and have 
+the keys of hell and death." A glorious Christ is good for dying sinners: would 
+sinners but draw near and come and see this King in the chariot of love, and come 
+and see his beauty, he would certainly draw their souls unto him: nay, say that all 
+the damned in hell were brought up with their fiery chains to the door of heaven; 
+could we let them look in, and behold the throne, and the Lamb, and the troops of 
+glorified spirits clothed in white, with crowns of gold upon their heads, and palms 
+in their hands, singing the eternal praises of their King; O how would they be 
+sweetened in their pain, and ravished with those joys that are in Christ's face for 
+evermore! O who can think of the glory that is in this delightful one, and not be 
+swallowed up in love? Who can think of Christ's sitting at God's right hand, and 
+
+
+
+sparkling in his glory round about, and casting out beams of glory through east, 
+and west, and north, and south, through heaven, and earth, and hell, and not love 
+him with a whole heart? I remember one dying, and hearing some discourse of 
+Jesus Christ: "O (said she) speak more of this, let me hear more of this; be not 
+weary of telling his praise; I long to see him, how should I but long to hear of 
+him!" Surely I cannot say too much of Jesus Christ: O the loveliness, beauty, and 
+glory of his countenance! can I speak or you hear of such a Christ? and are we not 
+all in a burning love? O my heart! how is it thou art not love-sick? how is it thou 
+dost not charge the daughters of Jerusalem as the spouse did; "I charge ye, O 
+daughters of Jerusalem, if ye find my beloved, that ye tell him I am sick of love?" 
+
+2. For his bounty: No sooner was he ascended, and sat down at God's right hand, 
+but "he gives gifts unto men"; and he sends down the Holy Ghost. I shall only 
+weigh two circumstances in this gift, either whereof both dignifies, and casts a 
+beam of bounty from the giver, into the heart of the receiver, to move him to love. 
+
+
+
+(1.) One circumstance is, the greatness of the giver: O my soul, how shouldest thou 
+but love Christ, the great emperor of heaven and earth: It was he that gave thee his 
+Spirit, it was he that took of the Spirit which is upon him, (so is the expression of 
+God to Moses, and put it upon thee; and doth not the person of Christ, the dignity 
+
+
+
+of Christ,) enhance the value of the gift? As all gifts are signs of love, so the love 
+of a great personage, and the gifts issuing from such a love, ought more to be 
+accounted than any gifts of any meaner person whatsoever. 
+
+
+
+(2.) Another circumstance is, the greatness of the gift: this argueth the greatness of 
+the good will; and consequently deserveth a correspondence of affection. Now, 
+what greater gift had Christ in store, than to give his own Spirit? The Spirit 
+proceedeth from him, and is the same essence with himself; the Spirit is the third 
+Person of the true and only Godhead, proceeding from the Father and the Son, and 
+co-eternal, co-equal, and consubstantial with the Father and the Son; this appears 
+by those divine attributes and properties which are attributed to the holy Spirit: as 
+1. Eternity; "In the beginning God created heaven and earth, and the Spirit of God 
+moved upon the face of the waters." 2. Omnipotency; because he, together with the 
+Father and the Son, createth and preserveth all things: "By his Spirit he hath 
+garnished the heavens; the Spirit of God hath made me; and all these things 
+worketh that one and the self-same Spirit, dividing to every man severally as he 
+will." 3. Omnisciency, or the knowledge of all things; "For the Spirit searcheth all 
+things, yea, the deep things of God." I might add miracles, and the institution of 
+sacraments, and prophecies, and gifts, and graces, as the effects of his divinity: "I 
+cast out devils (saith Christ) by the Spirit of God; and baptize in the name of the 
+
+
+
+Father, and of the Holy Ghost." "And the Spirit speaketh expressly, that in the 
+latter times some shall depart from the faith." "And we are changed into the same 
+image from glory to glory, even as by the Spirit of the Lord." See now how the 
+holy Spirit is God, co-eternal, co-equal, consubstantial with God the Father, and 
+God the Son; is not this a great gift? Yea, as great a gift as possibly can be given; 
+what can he do more, than to give himself, and to give his Spirit? O the bonds of 
+love that are upon man towards Christ in this respect ! 
+
+Come, my soul, and take a view of The glory and bounty of Jesus Christ! if thy 
+heart be not all brass and iron, how shouldest thou but choose to love? If either 
+beauty or bounty, if either majesty or magnificence, can draw thy affection, Christ 
+will have it; for in him is all: O let him be thy all! surely if thou hast anything 
+besides himself, he is the donor of all, he is the beauty of all, the sum of all, the 
+perfection of all, yea, is the author, preserver, and finisher of all. 
+
+
+
+SECT. VII. — Of Joying in Jesus in that respect. 
+
+
+
+Let us joy in Jesus as carrying on the great work of our salvation in these 
+particulars; there is not a particular under consideration, but it is the object of a 
+Christian's joy. — 
+
+
+
+1. How should it heighten my joys, and enlarge my comforts, when I consider that 
+Christ is ascended into glory! By this it is clear that Christ is accepted of the Father 
+for me, or otherwise he should never have been received into heaven: O what joy is 
+in this ! 
+
+
+
+2. How should it heighten my joys, and enlarge my comforts, when I consider that 
+Christ is set down at God's right hand. Now he hath the keys of heaven delivered 
+into his hands; "All power is given unto him in heaven and in earth," and now he 
+can do what he will: God the Father hath given away (as it were) all his prerogative 
+unto Jesus Christ: "All judgment is committed to the Son, for the Father judgeth no 
+man." Now he is in a capacity of acting all his love to me in the most glorious way; 
+he is highly advanced, and thereby he hath the advantage to advance me, and to 
+glorify me: O what joy may enter into this poor, dark, disconsolate soul of mine, 
+whilst I think over these glorious passages of Christ in glory! 
+
+
+
+3. How should it heighten my joys, when I consider that Christ hath sent down his 
+holy Spirit into my heart! O what comfort is this, to know that the Spirit of Christ 
+is my inmate ! that my soul is the temple, the house and dwelling, of the Spirit of 
+God ! that Christ is in me of a truth, and that not only by the infusion of his grace, 
+
+
+
+but by the indwelling of his Spirit! Christ in his bodily presence went away, but 
+Christ, in his Spirit continues still: "Lo, I am with you always, even unto the end of 
+the world": He is with us, and, which is more, he is in us; "Christ in you, the hope 
+of glory." Not Christ in sermons which we hear, nor Christ in chapters which we 
+read, nor Christ in sacraments which we receive, but Christ in our hearts by his 
+Spirit, is unto us "the hope of glory." 
+
+And now, O my soul, spread thyself on this great good, Christ's ascension, Christ's 
+session, and Christ's mission of his holy Spirit. There is not any particular here 
+before thee, but it is fuel for joy. O what joy was in heaven when Christ ascended, 
+and when Christ sat down at God's right-hand, and when Christ sent down the 
+Holy Spirit! Suppose thyself to have been in heaven, when he first entered into it, 
+and when he first sat down at God's right hand, and sent down the Comforter to his 
+saints; was not heaven full of joy? Methinks the very thought of Christ's bright 
+face, and white throne, and Christ's harpers, and heavenly troop, surrounding the 
+throne, and Christ's welcome to his Father, both for himself and all his saints, and 
+his carrying thy name upon his breast before his Father, should fill thy soul as full 
+of joy, as possibly it can hold. O the first-fruits of Emmanuel's land, that lies 
+beyond time and death? O the joys that were in heaven at Christ's first entrance 
+into heaven! O my soul, why dost thou not check thyself, and lay aside thy sad 
+
+
+
+complaints, and forget this earth, and earthly troubles ! Why dost thou not look up 
+to Jesus Christ, and rejoice in him who hath done all this for thy salvation? Either 
+the Spirit of God is not thy comforter, or thou canst not but receive comfort in 
+these passages. 
+
+
+
+Sect. VIII. — Of Calling on Jesus in that respect. 
+
+
+
+Let us call on Jesus: I mean 
+
+
+
+1. Let us pray that we may have our part in these transactions; or let us pray for 
+more and more assurance thereof unto our souls, for though we do believe, yet may 
+we not be without our doubts; and in case of doubts, if once we are but assured, 
+what better means than prayer? 
+
+
+
+2. Praise God for these great transactions of his Son! Are they not mercies, like 
+mountains, lying one upon another, and reaching up to the very heavens? Did not 
+love break out first in a direct line, and as it went along, hath it not wound up itself 
+in such a variety of unthought of discoveries, as that it amazeth men and angels? 
+What! that Jesus Christ should not only act for us here on earth, but also ascend for 
+us into heaven, and sit down there at God's right hand, above the heavens; that all 
+
+
+
+this should be done for us and our salvation, and to that purpose that he should 
+send down his Spirit into our hearts, to prepare us for his glory? Now "bless the 
+Lord, O my soul; and all that is within me, bless his holy name: bless the Lord, O 
+my soul, and forget not all his benefits." 
+
+
+
+Sect. IX. — Of Conforming to Jesus in that respect. 
+
+Let us conform to Jesus in the aforesaid respect. A serious beholding of Jesus in 
+his ascension, session, mission of his Spirit, is enough to change us into the same 
+image from glory to glory. It was the sweet saying of an experienced saint, "View 
+a glorified Christ, see him as in that relation and condition, and you will soon have 
+the sparkles of the same glory on your hearts." Christ is now exalted; he is now in 
+glory at the right-hand of God: O let all our actions be glorious, let all our walking, 
+joys, breathings, be as in glory. I shall not in this transaction lay out many 
+particular conformities to Christ, but gather all into one, which is, heavenly 
+conversation; seek things above, set your affection on things above: Christ is gone 
+up, and Christ is sat down at God's right-hand; and herein if you will conform, let 
+your hearts be in heaven, let your affections be in heaven, let your conversations be 
+in heaven. 
+
+
+
+In prosecution of this, I shall examine, 
+
+
+
+1st. What do we mean by our conversation in heaven? 
+
+2. Why must our conversation be in heaven? 
+
+3. By what means must we come up to this conversation in heaven? 
+
+
+
+1. By our conversation in heaven, I mean our aim at heaven: as heaven is our 
+home, so our eye is there; whatever we do, our end, our scope, is to fit us for 
+heaven, and to lay in heaven: "We look not at things which are seen, but at things 
+which are not seen; for the things which are seen are temporal, but the things 
+which are not seen are eternal." 
+
+
+
+By our conversation in heaven, I mean, our communion with Christ in heaven: 
+"Truly our fellowship is with the Father, and with his Son Jesus Christ." As it is 
+among friends that converse together, they act mutually for the comfort one of 
+another; there is a communion, or a mutual acting of the soul upon Christ, and of 
+Christ upon the soul. 
+
+
+
+By our conversation in heaven, I mean, our affections on heaven, or on Christ in 
+heaven: "Set your affections on things above," that is, set your desires, loves, 
+
+
+
+hopes, joys, on heavenly things. Our affections are precious things, and are only to 
+be set on precious objects. O what a shame is it to set our affections on the things 
+in this life ! Have we not a kingdom, a God, a Christ, a crown, in heaven, to set our 
+affections upon? And shall we set them upon dross, and dung? Are not all our 
+pleasures and vanities base in comparison of Christ? O be not we so base as to set 
+our affections on earthly things, but rather on God and Christ, and this is our 
+heavenly conversation. 
+
+By our conversation in heaven, I mean, we carry and behave ourselves in this life 
+as free denizens of the city of heaven: our city, whereof we are citizens, and 
+whereunto we have a right, is in heaven above: in this respect we trade not in 
+trifles, as other men do, but we trade for great things, for high things; we 
+merchandise for goodly pearls, even for God, and for Christ, who sitteth at the 
+right-hand of God. We see now what is meant by our conversation in heaven. 
+
+
+
+2. Why is the conversation of the saints in heaven? 
+
+
+
+1. Because they know that the original of their souls came from God in heaven: the 
+body indeed was of the dust of the ground, but the soul was the breath of God; so it 
+is said of the first man, "God breathed into his nostrils the breath of life, and man 
+
+
+
+became a living soul." The soul had a more heavenly original than any of the other 
+creatures that are in the world; and when God works grace in the soul, and it begins 
+to know itself, it looks on all things here below as vile and contemptible; it then 
+looks upward, and begins to converse with things suitable to its original. 
+
+
+
+2. Because their best and choice things are already in heaven. As their Father is in 
+heaven, and their Saviour in heaven, their husband is in heaven, their elder brother 
+is in heaven, and their king is in heaven, their treasure is in heaven, their 
+inheritance is in heaven, their hope is in heaven, their mansion is in heaven, their 
+chief friends are in heaven, their substance is in heaven, their reward is in heaven, 
+their wages are in heaven: and all these things being in heaven, no marvel their 
+conversations be in heaven. 
+
+
+
+3. Because they are going towards heaven even whiles yet they are on earth. If the 
+nobleman do once know his condition, and begin his travel homeward towards his 
+father's court, will he not, every morning that he rises, converse with them that 
+come from his father to conduct him home? Doth it not do him good to hear any 
+man speak of his father's country? Is it not in his thoughts, in his talk, in his eye, at 
+every step? O my soul, if thou art indeed travelling towards heaven, how shouldst 
+thou but have it in thy motions, affections, and conversations? 
+
+
+
+3d. By what means should we come to have our conversation in heaven? 
+
+
+
+1. Let us watch opportunities for heavenly exercises. God now by his ministers 
+calls, "Come ye to the waters, come buy and eat; come, buy wine and milk without 
+money; come to me, and your souls shall live." Why, "now is the accepted time, 
+behold now is the day of salvation": whilst ministers call, and we live under the 
+droppings of the word; these are opportunities from heaven: O then, he that never 
+prayed, let him pray; and he that never heard, let him hear: the Lord is now near to 
+us, Christ Jesus is calling, and mercy is entreating, and love is beseeching, and 
+wisdom is crying after us; O lay hold on these opportunities for heavenly exercises, 
+and then we shall come to heavenly conversations. 
+
+
+
+2. Take heed of resting in the formality of duties. Many souls that have 
+enlightenings of conscience, dare not but take opportunities for heavenly duties; 
+but then comes in the temptations of the devil, and corruptions of their own hearts, 
+and then they say, "Now the duty is done, and what needs more?" Alas! It is not 
+"what have we done?" but, "where have we been?" What, have our souls been in 
+heaven, with God and with Christ? Have we had communion with the Father, and 
+with the Son, in our duties? O take heed of formality; it will exceedingly hinder 
+
+
+
+our conversation in heaven! O keep our eye still upon our heart! ask in duty, what 
+affections have been? How much are we got nearer heaven thereby? And by this 
+means we shall come to an heavenly conversation. 
+
+
+
+2. Look up unto Jesus as hanging on the cross, and as sitting on the throne; this is 
+the apostle's rule: "Looking unto Jesus, the author and finisher of our faith, who 
+for the joy that was set before him, endured the cross, despising the shame, and is 
+set down at the right-hand of the throne of God." These two are the objects of a 
+Christian's look, who studies an heavenly conversation, viz. Christ's cross, and 
+Christ's session: by the cross he is author, and by the throne he is the finisher, of 
+our faith; in the first is set down his love to us, in the second is set down our hope 
+of him: come then, and settle your thoughts and looks on this blessed object; a 
+sight of Christ's cross, but especially of Christ's throne, is a blessed means to wean 
+us from the world, and to raise our affections to things above, yea, to form our 
+conversation towards heaven. 
+
+
+
+4. Let us wait for the appearing of Jesus Christ: "Our conversation is in heaven 
+(saith the apostle) from whence also we look for the Saviour, the Lord Jesus 
+Christ." Where his expectations are, there a man's conversation will be; if we 
+expect ere long that the Lord Jesus will appear in glory, and that we shall see him, 
+
+
+
+not with other, but with the same eyes, the very waiting for these things will help 
+our conversation to be heavenward. Certainly the day is coming, when Jesus Christ 
+shall come with his angels in his glory, and then shall the bodies of the saints shine 
+gloriously before the face of God, and Jesus Christ: O the wonder of this day ! the 
+glory of Christ shall then darken the glory of the sun, and moon, and stars; but my 
+body shall not be darkened, but rather it shall shine like the glorious body of Christ 
+Jesus. 
+
+
+
+5. Let us observe the drawings and movings of the Spirit, and follow his dictates: 
+to this purpose Christ ascended, and sat down at God's right-hand, and sent down 
+the holy Spirit, that the Holy Ghost being come down, he might do his office, in 
+bringing our souls towards salvation; and if ever our souls get above this earth, and 
+get acquaintance in heaven, it is the Spirit of God that must be the chariot of Elijah, 
+yea the very living principle, by which we must move and ascend; O then take 
+heed of quenching its motions, or resisting its workings. Take we heed of grieving 
+our guide, or of knocking off the chariot wheels of his Holy Spirit. We little think 
+how much the life of grace, and the happiness of souls, doth depend upon our 
+ready and cordial obedience to the Spirit of God: when he forbids us, and we will 
+go on, when he tells us which is the way, and we will not regard; no wonder if we 
+are strangers to an heavenly conversation; if we will not follow the Spirit, how 
+
+
+
+should it lead us to heaven, or bring our hearts unto the presence of God? O learn 
+we this lesson, and let not only the motions of our bodies, but the very thoughts of 
+our hearts, be at the Spirit's beck! if we cherish these motions, and hearken to the 
+Spirit, O what a help should we find to this heavenly conversation ! 
+
+
+
+LOOKING UNTO JESUS, IN HIS INTERCESSION.
