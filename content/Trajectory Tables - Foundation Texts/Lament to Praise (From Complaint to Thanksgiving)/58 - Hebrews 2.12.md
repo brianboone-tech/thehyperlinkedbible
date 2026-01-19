@@ -21,4 +21,4 @@
 
 **Christological Connection**: This is the hermeneutical key to the lament-to-praise trajectory. The same voice that cried "forsaken" now sings "praise." The same person who endured the lament now leads the worship. Christ's completed arc becomes the pattern for all who are in him.
 
-**Trajectory Table**: [[Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]
+**Trajectory Table**: [[182 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]

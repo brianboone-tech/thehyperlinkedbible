@@ -24,4 +24,4 @@
 
 **Christological Connection**: Hebrews 2:12 applies v.22 directly to the risen Christ. He is the one who declares God's name to his "brothers" (the redeemed) and leads praise in the congregation. His lament became their anthem.
 
-**Trajectory Table**: [[Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]
+**Trajectory Table**: [[182 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]

@@ -23,4 +23,4 @@
 
 **Christological Connection**: Jesus quotes this psalm's opening from the cross (Matt 27:46), identifying Himself as its speaker. The vivid crucifixion imagery (pierced hands/feet, garments divided, surrounded by mockers) finds literal fulfillment in Christ's passion. This is not merely a psalm Jesus appropriates but one He authored through David and now fulfills personally.
 
-**Trajectory Table**: [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)]]
+**Trajectory Table**: [[181 - The Singing Sufferer (Christ the Choir Master)]]

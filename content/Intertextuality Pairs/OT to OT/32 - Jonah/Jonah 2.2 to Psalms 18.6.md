@@ -13,5 +13,5 @@
 ---
 
 ## Related Trajectory Tables
-  ▸ [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)|The Singing Sufferer (Christ the Choir Master)]]
+  ▸ [[181 - The Singing Sufferer (Christ the Choir Master)|The Singing Sufferer (Christ the Choir Master)]]
   ▸ [[Trajectory Tables/083 - Jonah (Death, Resurrection, and Mission to Gentiles)|Jonah (Death, Resurrection, and Mission to Gentiles)]]

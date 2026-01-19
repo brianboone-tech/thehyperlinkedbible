@@ -24,4 +24,4 @@
 
 **Christological Connection**: The singing sufferer trajectory reaches its climax: the Lamb who was slain now receives the worship of all creation. The One who cried "Why have you forsaken me?" is now surrounded by myriads singing "Worthy is the Lamb!" The congregation (ἐκκλησία) He addressed in Hebrews 2:12 has expanded to include angels and all creatures. Christ is the eternal choir master—His cross-initiated song continues forever in the new creation.
 
-**Trajectory Table**: [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)]]
+**Trajectory Table**: [[181 - The Singing Sufferer (Christ the Choir Master)]]

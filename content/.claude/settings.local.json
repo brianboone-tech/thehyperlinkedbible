@@ -28,7 +28,16 @@
       "Bash(findstr:*)",
       "Bash(dir /s /b \"C:\\\\Obsidian Vaults\\\\*tmpclaude*\")",
       "Bash(dir /s /b \"C:\\\\Users\\\\Boone\\\\*tmpclaude*\")",
-      "Bash(dir /B *.md)"
+      "Bash(dir /B *.md)",
+      "Bash(powershell -Command \"\\(Get-ChildItem ''C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\\\\Trajectory Tables\\\\*.md''\\).Count\")",
+      "Bash(powershell -Command \"\\(Get-ChildItem ''C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\\\\Trajectory Tables\\\\[0-9]*.md''\\).Count\")",
+      "Bash(powershell -Command:*)",
+      "WebFetch(domain:reformedbooksonline.com)",
+      "Bash(dir:*)",
+      "WebFetch(domain:ccel.org)",
+      "WebFetch(domain:www.ccel.org)",
+      "WebFetch(domain:www.spurgeon.org)",
+      "WebFetch(domain:www.stempublishing.com)"
     ]
   }
 }

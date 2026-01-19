@@ -24,4 +24,4 @@
 
 **Christological Connection**: Christ's resurrection is the ultimate "turning"—mourning of the cross transformed into the dancing joy of Easter. His sackcloth of humiliation exchanged for robes of glory. His silent tomb burst open into eternal praise.
 
-**Trajectory Table**: [[Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]
+**Trajectory Table**: [[182 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]

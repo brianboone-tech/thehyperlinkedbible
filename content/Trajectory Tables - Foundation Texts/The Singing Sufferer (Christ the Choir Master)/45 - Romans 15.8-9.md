@@ -23,4 +23,4 @@
 
 **Christological Connection**: Paul presents Christ as the one who fulfills David's promise to "praise among the Gentiles" and "sing to your name." The singing sufferer's praise is not limited to Israel's congregation but extends to all nations. Christ's suffering produced a song that Gentiles now join. The trajectory moves from David's personal thanksgiving through Christ's atonement to universal worship.
 
-**Trajectory Table**: [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)]]
+**Trajectory Table**: [[181 - The Singing Sufferer (Christ the Choir Master)]]

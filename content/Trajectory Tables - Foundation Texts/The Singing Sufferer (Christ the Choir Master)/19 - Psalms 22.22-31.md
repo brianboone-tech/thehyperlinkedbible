@@ -23,4 +23,4 @@
 
 **Christological Connection**: Hebrews 2:12 makes the identification explicit: Jesus is the one who declares God's name to His brothers and sings praise in the midst of the congregation. The ἐκκλησία Christ addresses is the church—the assembly of those He has sanctified (Heb 2:11). Christ is not only the psalm's subject but its singer; the suffering One becomes the worship leader.
 
-**Trajectory Table**: [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)]]
+**Trajectory Table**: [[181 - The Singing Sufferer (Christ the Choir Master)]]

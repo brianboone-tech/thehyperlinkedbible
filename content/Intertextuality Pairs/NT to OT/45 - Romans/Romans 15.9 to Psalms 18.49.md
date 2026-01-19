@@ -12,4 +12,4 @@
 ---
 
 ## Related Trajectory Tables
-  ▸ [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)|The Singing Sufferer (Christ the Choir Master)]]
+  ▸ [[181 - The Singing Sufferer (Christ the Choir Master)|The Singing Sufferer (Christ the Choir Master)]]

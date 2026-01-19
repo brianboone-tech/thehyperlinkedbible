@@ -21,4 +21,4 @@
 
 **Christological Connection**: Jesus is not playacting; he genuinely experiences the forsakenness the psalm describes. Yet because he is the one speaking both the lament (Ps 22:1) and the praise (Ps 22:22), his cry on the cross is already pregnant with resurrection joy. The lament is real, but so is the coming praise.
 
-**Trajectory Table**: [[Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]
+**Trajectory Table**: [[182 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]

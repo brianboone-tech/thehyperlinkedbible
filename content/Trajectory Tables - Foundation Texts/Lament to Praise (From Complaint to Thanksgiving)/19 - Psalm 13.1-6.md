@@ -22,4 +22,4 @@
 
 **Christological Connection**: Jesus entered the "How long?" experience on behalf of his people. His trust in the Father through abandonment enables believers to make the same pivot from lament to praise.
 
-**Trajectory Table**: [[Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]
+**Trajectory Table**: [[182 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]

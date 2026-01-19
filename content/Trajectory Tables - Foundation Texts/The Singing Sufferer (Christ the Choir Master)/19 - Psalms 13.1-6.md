@@ -21,4 +21,4 @@
 
 **Christological Connection**: Christ experienced the "How long?" of divine hiddenness on the cross, yet His suffering resolved in the ultimate "singing to the LORD"—first in resurrection triumph, then in leading the eternal congregation in praise.
 
-**Trajectory Table**: [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)]]
+**Trajectory Table**: [[181 - The Singing Sufferer (Christ the Choir Master)]]

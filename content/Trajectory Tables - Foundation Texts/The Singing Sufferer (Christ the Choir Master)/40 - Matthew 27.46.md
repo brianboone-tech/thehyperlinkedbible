@@ -22,4 +22,4 @@
 
 **Christological Connection**: By quoting Psalm 22:1, Jesus identifies Himself as the psalm's true speaker—not merely one who appropriates ancient words, but the one for whom the psalm was written. The cry of forsakenness is real (He bears the sin that separates from God), yet it begins a psalm that ends in triumph. The singing sufferer experiences ultimate suffering, but His cry initiates ultimate praise.
 
-**Trajectory Table**: [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)]]
+**Trajectory Table**: [[181 - The Singing Sufferer (Christ the Choir Master)]]

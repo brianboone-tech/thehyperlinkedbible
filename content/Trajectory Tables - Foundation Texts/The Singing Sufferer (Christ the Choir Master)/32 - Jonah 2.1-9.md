@@ -22,4 +22,4 @@
 
 **Christological Connection**: Jesus explicitly identifies His death and resurrection with Jonah's three days: "For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth" (Matt 12:40). Jonah's thanksgiving from the realm of death prefigures Christ's triumph over death itself—the ultimate singing from the grave.
 
-**Trajectory Table**: [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)]]
+**Trajectory Table**: [[181 - The Singing Sufferer (Christ the Choir Master)]]

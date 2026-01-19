@@ -24,4 +24,4 @@
 
 **Christological Connection**: This is the trajectory's interpretive key. Hebrews 2:12 explicitly identifies Jesus as the one who speaks Psalm 22:22. Christ declares God's name to His brothers and sings praise (ὑμνέω) in the midst of the congregation (ἐκκλησία). The suffering One (Psalm 22:1-21) is the same as the singing One (Psalm 22:22-31), and that One is Jesus. He is both the subject of the psalms and their singer—the choir master of the redeemed.
 
-**Trajectory Table**: [[Trajectory Tables/-- The Singing Sufferer (Christ the Choir Master)]]
+**Trajectory Table**: [[181 - The Singing Sufferer (Christ the Choir Master)]]

@@ -41,6 +41,6 @@ cssClasses: lexicon
 [[Reference Bible/19 - Psalms/Psalm 30#Psalm 30 - 10|10]] Hear me, O LORD, and have mercy; O LORD, be my helper.”  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 30 - TOSK#Verse 10|TOSK]] |
 
 ##### Psalm 30 . 11
-[[Reference Bible/19 - Psalms/Psalm 30#Psalm 30 - 11|11]] You turned my mourning into dancing; You peeled off my sackcloth and clothed me with joy,  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 30 - TOSK#Verse 11|TOSK]] | [[Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving)|TT]] |
+[[Reference Bible/19 - Psalms/Psalm 30#Psalm 30 - 11|11]] You turned my mourning into dancing; You peeled off my sackcloth and clothed me with joy,  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 30 - TOSK#Verse 11|TOSK]] | [[182 - Lament to Praise (From Complaint to Thanksgiving)|TT]] |
 ##### Psalm 30 . 12
 [[Reference Bible/19 - Psalms/Psalm 30#Psalm 30 - 12|12]] that my heart may sing Your praises and not be silent. O LORD my God, I will give thanks forever.  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 30 - TOSK#Verse 12|TOSK]] |

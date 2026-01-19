@@ -25,4 +25,4 @@
 
 **Christological Connection**: Christ the Lamb stands at the center of the throne, shepherding those who passed through tribulation into eternal praise. The lament is over; the praise is unending. The arc that began with David's "How long?" finds its answer: the morning has come, and joy is eternal.
 
-**Trajectory Table**: [[Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]
+**Trajectory Table**: [[182 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]

@@ -26,4 +26,4 @@
 
 **Christological Connection**: Jesus quotes v.1 on the cross, entering fully into the experience of divine abandonment. The physical details (pierced hands/feet, casting lots for garments) are precisely fulfilled. Yet the psalm does not end in v.21—the turn comes.
 
-**Trajectory Table**: [[Trajectory Tables/181 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]
+**Trajectory Table**: [[182 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]]

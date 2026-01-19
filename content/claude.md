@@ -351,6 +351,29 @@ Complete trajectory tracing the lament-to-praise pattern:
 **Final Cleanup:**
 - Deleted `spurgeon_treasury_v2_raw.txt`
 
+### Session 15 (January 17, 2026) - Reference Bible Link Fix
+
+**Issue Discovered:** Reference Bible files in Genesis through Deuteronomy (and possibly others) had broken wiki links using `((` and `))` instead of proper Obsidian syntax `[[` and `]]`.
+
+**Root Cause:** A previous script intended to fix bracket issues incorrectly replaced `[[` with `((` in many files, causing Obsidian wiki links to not render.
+
+**Example:**
+- **Broken:** `((Lexicon/H701-800#H776|Now the earth))`
+- **Fixed:** `[[Lexicon/H701-800#H776|Now the earth]]`
+
+**Solution:** Created Python script to:
+1. Replace all `((` with `[[`
+2. Replace all `))` with `]]`
+3. Fix edge cases where display text contained parentheses (e.g., `(He)`, `(land)`) by correcting `]])` to `)]]`
+
+**Results:**
+- **1,322 files checked** in Reference Bible folder
+- **204 files fixed** (Genesis 1-50, Exodus, and other affected books)
+
+**Files Created:**
+- `Admin/fix_genesis_links.py` - Initial fix for Genesis only
+- `Admin/fix_reference_bible_links.py` - Full Reference Bible fix
+
 ---
 
 ## Trajectory Table Creation Workflow
@@ -467,6 +490,119 @@ Add new TT to Related Trajectory Tables section in relevant IP files.
 - [ ] IP links in TT Theological Development column
 - [ ] Readable Bible chapters updated with TT/IP links
 - [ ] Existing IP files updated with Related TT links
+
+---
+
+## Spurgeon Sermon Formatting Standard
+
+**Location:** `Books - Public/C.H. Spurgeon/Volume ##/#### - Title.md`
+
+### Color Usage
+
+Use colored text sparingly—**only for scripture quotations and hymns/songs**. All of Spurgeon's own words should be plain black text.
+
+| Color | Hex Code | Use For |
+|-------|----------|---------|
+| Blue | `#1e90ff` | Scripture quotations only |
+| Teal | `#008080` | Hymns and songs only |
+
+### What Gets Color
+
+**KEEP colored (blue #1e90ff):**
+- Direct scripture quotations: `<span style="color: #1e90ff;">"I am the LORD, I change not"</span>`
+- Scripture references embedded in text
+
+**KEEP colored (teal #008080):**
+- Hymn stanzas (multi-line poetry)
+- Song lyrics
+
+### What Does NOT Get Color
+
+**REMOVE color from:**
+- Spurgeon's emphatic points or key phrases
+- Spurgeon's summaries or applications
+- Single-word emphasis (like "powerful", "justice", "love")
+- Rhetorical flourishes
+- Any text that is Spurgeon's own words, not scripture
+
+### Example
+
+**Before (too much color):**
+```markdown
+I believe it is equally true that <span style="color: #dc143c;">the proper study of God's elect is God</span>
+```
+
+**After (correct):**
+```markdown
+I believe it is equally true that the proper study of God's elect is God
+```
+
+**Scripture quote (keep color):**
+```markdown
+<span style="color: #1e90ff;">"I am the LORD, I change not; therefore ye sons of Jacob are not consumed."</span>
+```
+
+**Hymn (keep color):**
+```markdown
+<span style="color: #008080;">*"Great God, how infinite art Thou,
+What worthless worms are we!"*</span>
+```
+
+### Colors to Remove
+
+When cleaning up a sermon, remove these color codes (Spurgeon emphasis):
+- `#dc143c` (crimson)
+- `#9932cc` (purple)
+- `#ffa500` (orange)
+- `#32cd32` (green)
+
+### Paragraph and Line Break Rules
+
+**Goal:** Short, readable paragraphs with natural thought breaks. Each paragraph should be one distinct thought or argument.
+
+**Add blank line BEFORE these transitional words/phrases:**
+- `But`, `And`, `Then`, `Now`, `Yet`, `Still`
+- `However`, `Therefore`, `Thus`, `Hence`
+- `So,`, `Oh!`, `Ah!`
+- `Christian,` (direct address)
+- `Lastly`, `Firstly`, `Secondly`, `Thirdly`, `Fourthly`, `Next`
+
+**Example - Before:**
+```markdown
+...reckon surely that trouble cometh.
+But then, look within thee. There is a little world...
+```
+
+**Example - After:**
+```markdown
+...reckon surely that trouble cometh.
+
+But then, look within thee. There is a little world...
+```
+
+**Fix orphaned periods:** If a line starts with `. ` followed by a capital letter, the period belongs at the end of the previous line. Remove the leading period and add a blank line.
+
+**Target paragraph length:** ~500-680 characters maximum. Break at sentence boundaries when paragraphs exceed this.
+
+### Volume 01 Formatting Status
+
+| Sermons | Color Fix | Paragraph Breaks | Status |
+|---------|-----------|------------------|--------|
+| 0001-0006 | Done | Done (reference) | Complete |
+| 0007-0053 | Done | Done | Complete |
+
+**Applied January 17, 2026:**
+- Removed non-scripture colored text from all 53 sermons
+- Added 175 paragraph breaks before transitional sentences
+- Fixed orphaned periods
+- Cleaned HTML remnants (images, tables, duplicate headers)
+- Restored missing drop-cap first letters
+
+### Volume 02 Status
+
+| Sermons | Status |
+|---------|--------|
+| 0054-0106 | Placeholder (awaiting content) |
 
 ---
 
