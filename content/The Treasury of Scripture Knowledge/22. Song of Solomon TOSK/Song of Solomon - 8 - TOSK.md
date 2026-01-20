@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Song of Solomon 8 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/22 - Song of Solomon|← Song of Solomon]]** | [[The Treasury of Scripture Knowledge/22. Song of Solomon TOSK/Song of Solomon - 7 - TOSK|← Ch 7]]
+**[[Home/Scripture/22 - Song of Solomon|← Song of Solomon]]** | [[The Treasury of Scripture Knowledge/22. Song of Solomon TOSK/Song of Solomon - 7 - TOSK|← Ch 7]]
 
 ---
 

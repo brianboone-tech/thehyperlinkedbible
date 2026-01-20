@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Micah 4
+# Micah-R 4
 
-[[Readable Bible/33 - Micah/Micah 3|← Micah 3]] | [[Readable Bible/33 - Micah/Micah 5|Micah 5 →]]
+**[[Home/Scripture/33 - Micah|Micah]]**
+
+[[Readable Bible/33 - Micah/Micah 3#Micah-R 3| Micah 3]] - [[Readable Bible/33 - Micah/Micah 5#Micah-R 5| Micah 5]]
 
 ---
 
 ##### Micah 4 . 1
-[[Reference Bible/33 - Micah/Micah 4#Micah 4 - 1|1]] In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and the peoples will stream to it.  | | [[Intertextuality Pairs/OT to OT/33 - Micah/Micah 4.1 to Isaiah 2.1|IP]] | [[Chiasm/Chiasm - 33 - Micah 4 . 1 - 5 . 15|C]] | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 4 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)|TT²]] | [[Trajectory Tables/093 - Last Days Eschatology|TT³]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT⁴]] | [[Trajectory Tables/090 - Kingdom of God (Stone Kingdom)|TT⁴]] | [[Trajectory Tables/093 - Last Days Eschatology|TT⁵]] |
+[[Reference Bible/33 - Micah/Micah 4#Micah 4 - 1|1]] In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and the peoples will stream to it.   || [[Intertextuality Pairs/OT to OT/33 - Micah/Micah 4.1 to Isaiah 2.1|IP]] | [[Chiasm/Chiasm - 33 - Micah 4 . 1 - 5 . 15|C]] | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 4 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)|TT²]] | [[Trajectory Tables/093 - Last Days Eschatology|TT³]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT⁴]] | [[Trajectory Tables/090 - Kingdom of God (Stone Kingdom)|TT⁴]] | [[Trajectory Tables/093 - Last Days Eschatology|TT⁵]] |
 
 ##### Micah 4 . 2
 [[Reference Bible/33 - Micah/Micah 4#Micah 4 - 2|2]] And many nations will come and say: "Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us His ways, so that we may walk in His paths." For the law will go forth from Zion and the word of the LORD from Jerusalem.  | [[Intertextuality Pairs/OT to OT/33 - Micah/Micah 4.2 to Zechariah 8.21|IP¹]] | [[Intertextuality Pairs/OT to OT/33 - Micah/Micah 4.2-3 to Zechariah 8.21-22|IP²]] | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 4 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)|TT¹]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT²]] |

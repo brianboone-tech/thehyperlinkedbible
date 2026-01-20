@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 20
+# Ezekiel-R 20
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 19|← Ezekiel 19]] | [[Readable Bible/26 - Ezekiel/Ezekiel 21|Ezekiel 21 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 19#Ezekiel-R 19| Ezekiel 19]] - [[Readable Bible/26 - Ezekiel/Ezekiel 21#Ezekiel-R 21| Ezekiel 21]]
 
 ---
 
@@ -154,5 +156,5 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 20#Ezekiel 20 - 48|48]] Then all people will see that I, the LORD, have kindled it; it will not be quenched.”  | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 20 - TOSK#Verse 48|TOSK]] |
 
 ##### Ezekiel 20 . 49
-[[Reference Bible/26 - Ezekiel/Ezekiel 20#Ezekiel 20 - 49|49]] Then I said, “Ah, Lord GOD, they are saying of me, ‘Is he not just telling parables?’”  | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 20 - TOSK#Verse 49|TOSK]] ||
+[[Reference Bible/26 - Ezekiel/Ezekiel 20#Ezekiel 20 - 49|49]] Then I said, “Ah, Lord GOD, they are saying of me, ‘Is he not just telling parables?’”  | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 20 - TOSK#Verse 49|TOSK]] | |
 

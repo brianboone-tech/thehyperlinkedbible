@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew 7
+# Matthew-R 7
 
-[[Readable Bible/40 - Matthew/Matthew 6|← Matthew 6]] | [[Readable Bible/40 - Matthew/Matthew 8|Matthew 8 →]]
+**[[Home/Scripture/40 - Matthew|Matthew]]**
+
+[[Readable Bible/40 - Matthew/Matthew 6#Matthew-R 6| Matthew 6]] - [[Readable Bible/40 - Matthew/Matthew 8#Matthew-R 8| Matthew 8]]
 
 ---
 

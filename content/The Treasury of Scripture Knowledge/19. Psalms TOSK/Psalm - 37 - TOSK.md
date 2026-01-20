@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 37 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 36 - TOSK|← Ch 36]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 38 - TOSK|Ch 38 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 36 - TOSK|← Ch 36]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 38 - TOSK|Ch 38 →]]
 
 ---
 

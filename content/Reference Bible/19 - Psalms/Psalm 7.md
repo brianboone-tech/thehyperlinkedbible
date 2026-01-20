@@ -62,7 +62,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 7#Psalm 7 - 13|LXX]] |
 
 ##### Psalm 7 - 14
-[[Lexicon/H2001-2100#H2009|Behold ,]] [[Lexicon/H2201-2300#H2254|(the wicked man) travails]] [[Lexicon/H201-300#H205|with evil ;]] [[Lexicon/H2001-2100#H2029|he conceives]] [[Lexicon/H5901-6000#H5999|trouble]] [[Lexicon/H3201-3300#H3205|and births]] [[Lexicon/H8201-8300#H8267|falsehood.]]
+[[Lexicon/H2001-2100#H2009|Behold ,]] [[Lexicon/H2201-2300#H2254|[the wicked man] travails]] [[Lexicon/H201-300#H205|with evil ;]] [[Lexicon/H2001-2100#H2029|he conceives]] [[Lexicon/H5901-6000#H5999|trouble]] [[Lexicon/H3201-3300#H3205|and births]] [[Lexicon/H8201-8300#H8267|falsehood.]]
 | [[LXX Reference/19 - Psalms/Psalms 7#Psalm 7 - 14|LXX]] |
 
 ##### Psalm 7 - 15

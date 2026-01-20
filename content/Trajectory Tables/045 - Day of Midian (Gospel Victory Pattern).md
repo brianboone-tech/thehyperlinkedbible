@@ -1,8 +1,3 @@
----
-cssclasses:
-  - trajectory-table
----
-
 ## DAY OF MIDIAN (GOSPEL VICTORY PATTERN) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tCh_cpdMKQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -14,38 +9,6 @@ cssclasses:
 Isaiah 9:4 prophesies that the Messiah will break the "yoke of burden" and "rod of oppressor" **"as on the day of Midian"**—an explicit reference to Gideon's victory in Judges 6-7. This remarkable typological connection reveals that God's method of victory in the gospel age mirrors Gideon's unconventional battle: trumpets (proclamation), torches (light of Christ), and clay jars (weak human vessels). When Matthew 4:15-16 records Jesus beginning His ministry in Zebulun and Naphtali—the very region of Gideon's victory—it fulfills Isaiah 9:1-2 and signals that the "day of Midian" pattern is now being enacted spiritually. Paul explicitly draws on this imagery in 2 Corinthians 4:5-7: "We have this treasure in jars of clay, to show that the surpassing power belongs to God and not to us." The purpose is identical to Judges 7:2: "lest Israel boast over me, saying, 'My own hand has saved me.'" The gospel conquers spiritual darkness not through human wisdom or strength, but through weak vessels proclaiming Christ's light—clay jars smashed to reveal the treasure within.
 
 **Type Classification**: Providential (sovereignly arranged pattern); Forward-Looking (Isaiah 9:4 explicitly prophesies fulfillment "as on the day of Midian"); Direct Type (the pattern is divinely intended, not merely coincidental)
-
-
-
-## Canonical Intertextuality Pairs
-
-### OT to OT
-
-**07 - Judges**
-- [[Intertextuality Pairs/OT to OT/07 - Judges/Judges 7.2 to Deuteronomy 8.17-18\|Judges 7:2 to Deuteronomy 8:17-18]] - **CRITICAL:** God's explicit purpose in reducing Gideon's army—"lest Israel boast"—echoes Moses' warning against saying "My power and the might of my hand have gotten me this wealth." Both texts establish that God structures salvation to exclude human boasting and display divine power alone.
-
-**23 - Isaiah**
-- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 9.4 to Judges 7.19-22\|Isaiah 9:4 to Judges 7:19-22]] - **CRITICAL:** Isaiah's explicit reference to "the day of Midian" identifies Gideon's victory as a divinely intended type of Messianic deliverance. The breaking of oppression "as on the day of Midian" signals that Christ's victory will follow the same unconventional pattern: divine power through weak means.
-
-### NT to OT
-
-**40 - Matthew**
-- [[Intertextuality Pairs/NT to OT/40 - Matthew/Matthew 4.15-16 to Isaiah 9.1-2\|Matthew 4:15-16 to Isaiah 9:1-2]] - **CRITICAL:** Matthew's quotation of Isaiah 9:1-2 places Jesus' ministry in the exact geography of Gideon's victory—Zebulun and Naphtali. The "great light" dawning fulfills both Isaiah's prophecy and completes the Gideon typology: light shining in the region of darkness.
-
-**47 - 2 Corinthians**
-- [[Intertextuality Pairs/NT to OT/47 - 2 Corinthians/2 Corinthians 4.7 to Judges 7.16-20\|2 Corinthians 4:7 to Judges 7:16-20]] - **CRITICAL:** Paul's "jars of clay" language directly echoes Gideon's clay jars containing torches. The purpose is identical: "to show that the surpassing power belongs to God and not to us" mirrors "lest Israel boast over me." Gospel proclamation follows the Gideon pattern—weak vessels, divine light, power displayed through brokenness.
-
----
-
-## Relationship to Other Trajectory Tables
-
-This trajectory complements [[Trajectory Tables/064 - Gideon (Weak Made Strong)\|Gideon (Weak Made Strong)]] which focuses on the personal pattern of strength perfected in weakness. The "Day of Midian" trajectory focuses on the **method** of victory—how God conquers through proclamation, light, and weak vessels—and its explicit fulfillment in gospel ministry through Isaiah 9:4 and 2 Corinthians 4.
-
-See also:
-- [[Trajectory Tables/047 - Divine Warrior (God Who Fights)\|Divine Warrior (God Who Fights)]]
-- [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)\|Gentile Inclusion (Light to the Nations)]]
-
----
 
 | # | Stage | Key Text(s) | Theological Development | Text Analysis |
 |---|-------|-------------|------------------------|---------------|
@@ -79,6 +42,17 @@ See also:
 
 **47 - 2 Corinthians**
 - [[Intertextuality Pairs/NT to OT/47 - 2 Corinthians/2 Corinthians 4.7 to Judges 7.16-20\|2 Corinthians 4:7 to Judges 7:16-20]] - **CRITICAL:** Paul's "jars of clay" language directly echoes Gideon's clay jars containing torches. The purpose is identical: "to show that the surpassing power belongs to God and not to us" mirrors "lest Israel boast over me." Gospel proclamation follows the Gideon pattern—weak vessels, divine light, power displayed through brokenness.
+
+---
+
+## Relationship to Other Trajectory Tables
+
+This trajectory complements [[Trajectory Tables/064 - Gideon (Weak Made Strong)\|Gideon (Weak Made Strong)]] which focuses on the personal pattern of strength perfected in weakness. The "Day of Midian" trajectory focuses on the **method** of victory—how God conquers through proclamation, light, and weak vessels—and its explicit fulfillment in gospel ministry through Isaiah 9:4 and 2 Corinthians 4.
+
+See also:
+- [[Trajectory Tables/047 - Divine Warrior (God Who Fights)\|Divine Warrior (God Who Fights)]]
+- [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)\|Gentile Inclusion (Light to the Nations)]]
+
 ---
 
 ## Four-Step Application
@@ -94,7 +68,6 @@ But there is One who conquered not through conventional warfare but through appa
 
 **4. How Through Christ You Can:**
 Now, united to Christ, you participate in His victory through the same pattern: weakness displaying divine strength. When you embrace your inadequacy rather than hiding it, you become the kind of vessel God uses. Your affliction, perplexity, and persecution become the breaking of the jar that reveals the treasure. "Always carrying in the body the death of Jesus, so that the life of Jesus may also be manifested in our bodies." You no longer need impressive credentials because the power is God's, not yours. You can faithfully proclaim the gospel without results-based anxiety because the victory belongs to Him. Your weakness excludes boasting ("My own hand has saved me") and guarantees that God alone gets glory. This frees you from both the pride of success and the despair of failure—you are simply a clay jar holding treasure, a torch-bearer in the night, a trumpet-blower announcing the King.
-
 
 ---
 
@@ -122,4 +95,3 @@ The Day of Midian trajectory reveals a remarkable lexical network tracing from H
 - [[Lexicon/G2701-2800#G2766|G2766]] - κέραμος (keramos) - clay, earthenware
 - [[Lexicon/G2701-2800#G2744|G2744]] - καυχάομαι (kauchaomai) - to boast, glory
 - [[Lexicon/G2601-2700#G2620|G2620]] - κατακαυχάομαι (katakauchaomai) - to boast against
-

@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 1
+# Ezekiel-R 1
 
-[[Readable Bible/25 - Lamentations/Lamentations 5|←]] | [[Readable Bible/26 - Ezekiel/Ezekiel 2|→]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Lamentations-R 5|←]] • [[Ezekiel-R 2|→]]
 
 ---
 
 ##### Ezekiel 1 . 1
-[[Reference Bible/26 - Ezekiel/Ezekiel 1#Ezekiel 1 - 1|1]] In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens opened and I saw visions of God. | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 1 - TOSK#Verse 1|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 1 - TOSK#Verse 1|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 1 - TOSK#Verse 1|TOSK]] | | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 38 to Ezekiel 1|IP]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 1#Ezekiel 1 - 1|1]] In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens opened and I saw visions of God. | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 1 - TOSK#Verse 1|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 1 - TOSK#Verse 1|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 1 - TOSK#Verse 1|TOSK]] |  | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 38 to Ezekiel 1|IP]] |
 
 ##### Ezekiel 1 . 2
 [[Reference Bible/26 - Ezekiel/Ezekiel 1#Ezekiel 1 - 2|2]] On the fifth day of the month—it was the fifth year of the exile of King Jehoiachin—  | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 1 - TOSK#Verse 2|TOSK]] |

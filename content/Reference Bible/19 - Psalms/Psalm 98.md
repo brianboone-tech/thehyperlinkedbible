@@ -14,7 +14,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 98#Psalm 98 - 1|LXX]] |
 
 ##### Psalm 98 - 2
-[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H3001-3100#H3045|has proclaimed]] [[Lexicon/H3401-3500#H3444|His salvation]] [[Lexicon/H1501-1600#H1540|(and) revealed]] [[Lexicon/H6601-6700#H6666|His righteousness]] [[Lexicon/H5801-5900#H5869|to]] [[Lexicon/H1401-1500#H1471|the nations.]]
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H3001-3100#H3045|has proclaimed]] [[Lexicon/H3401-3500#H3444|His salvation]] [[Lexicon/H1501-1600#H1540|[and] revealed]] [[Lexicon/H6601-6700#H6666|His righteousness]] [[Lexicon/H5801-5900#H5869|to]] [[Lexicon/H1401-1500#H1471|the nations.]]
 | [[LXX Reference/19 - Psalms/Psalms 98#Psalm 98 - 2|LXX]] |
 
 ##### Psalm 98 - 3

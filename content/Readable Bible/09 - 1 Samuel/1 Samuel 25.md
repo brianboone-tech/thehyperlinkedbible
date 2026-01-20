@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Samuel 25
+# 1 Samuel-R 25
 
-[[Readable Bible/09 - 1 Samuel/1 Samuel 24|← 1 Samuel 24]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 26|1 Samuel 26 →]]
+**[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 24#1 Samuel-R 24| 1 Samuel 24]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 26#1 Samuel-R 26| 1 Samuel 26]]
 
 ---
 

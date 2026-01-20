@@ -45,10 +45,10 @@ Testament: Old
 [[Lexicon/G2901-3000#G2944|In encircling,]] [[Lexicon/G2901-3000#G2944|they encircled]] [[Lexicon/G1401-1500#G1473|me;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G3601-3700#G3686|name]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G201-300#G0292|I repulsed]] [[Lexicon/G1401-1500#G1473|them.]]
 
 #### Psalms 118 - 12
-[[Lexicon/G2901-3000#G2944|They encircled]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G3101-3200#G3192|bees]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1572|they burned away]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G101-200#G0173|thorn-bushes;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G3601-3700#G3686|name]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G201-300#G0292|I repulsed]] [[Lexicon/G1401-1500#G1473|them.]]
+[[Lexicon/G2901-3000#G2944|They encircled]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G3101-3200#G3192|bees]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1572|they burned away]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G101-200#G0173|thorn-bushes;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G3601-3700#G3686|name]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G201-300#G0292|I repulsed]] [[Lexicon/G1401-1500#G1473|them.]]
 
 #### Psalms 118 - 13
-[[Lexicon/G5601-5624#G5605|Being thrust through,]] [[Lexicon/G301-400#G0396|I was prostrated]] [[Lexicon/G4001-4100#G4098|to fall,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0482|took hold of]] [[Lexicon/G1401-1500#G1473|me.]]
+[[Lexicon/G5601-5700#G5605|Being thrust through,]] [[Lexicon/G301-400#G0396|I was prostrated]] [[Lexicon/G4001-4100#G4098|to fall,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0482|took hold of]] [[Lexicon/G1401-1500#G1473|me.]]
 
 #### Psalms 118 - 14
 [[Lexicon/G2401-2500#G2479| is my strength]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1096|he became]] [[Lexicon/G1401-1500#G1473|to me]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G4901-5000#G4991|deliverance;]]

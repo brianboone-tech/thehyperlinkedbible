@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Proverbs 7
+# Proverbs-R 7
 
-[[Readable Bible/20 - Proverbs/Proverbs 6|← Proverbs 6]] | [[Readable Bible/20 - Proverbs/Proverbs 8|Proverbs 8 →]]
+**[[Home/Scripture/20 - Proverbs|Proverbs]]**
+
+[[Readable Bible/20 - Proverbs/Proverbs 6#Proverbs-R 6| Proverbs 6]] - [[Readable Bible/20 - Proverbs/Proverbs 8#Proverbs-R 8| Proverbs 8]]
 
 ---
 
@@ -90,4 +92,4 @@ cssClasses: lexicon
 [[Reference Bible/20 - Proverbs/Proverbs 7#Proverbs 7 - 26|26]] For she has brought many down to death; her slain are many in number.  | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 7 - TOSK#Verse 26|TOSK]] |
 
 ##### Proverbs 7 . 27
-[[Reference Bible/20 - Proverbs/Proverbs 7#Proverbs 7 - 27|27]] Her house is the road to Sheol, descending to the chambers of death.  | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 7 - TOSK#Verse 27|TOSK]] |
+[[Reference Bible/20 - Proverbs/Proverbs 7#Proverbs 7 - 27|27]] Her house is the road to Sheol, descending to the chambers of death.  | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 7 - TOSK#Verse 27|TOSK]] | 

@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Isaiah 23 - 1
-[[Lexicon/H4801-4900#H4853|(This is) the burden]] [[Lexicon/H6801-6900#H6865|against Tyre :]] [[Lexicon/H3201-3300#H3213|Wail ,]] [[Lexicon/H501-600#H591|O ships]] [[Lexicon/H8601-8674#H8659|of Tarshish ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H7701-7800#H7703|(Tyre) is laid waste ,]] [[Lexicon/H1001-1100#H1004|without house]] [[Lexicon/H901-1000#H935|(or) harbor.]] [[Lexicon/H1501-1600#H1540|Word has reached]] [[Lexicon/H701-800#H776|from the land]] [[Lexicon/H3701-3800#H3794|of Cyprus.]]
+[[Lexicon/H4801-4900#H4853|[This is] the burden]] [[Lexicon/H6801-6900#H6865|against Tyre :]] [[Lexicon/H3201-3300#H3213|Wail ,]] [[Lexicon/H501-600#H591|O ships]] [[Lexicon/H8601-8674#H8659|of Tarshish ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H7701-7800#H7703|[Tyre] is laid waste ,]] [[Lexicon/H1001-1100#H1004|without house]] [[Lexicon/H901-1000#H935|[or] harbor.]] [[Lexicon/H1501-1600#H1540|Word has reached]] [[Lexicon/H701-800#H776|from the land]] [[Lexicon/H3701-3800#H3794|of Cyprus.]]
 
 ##### Isaiah 23 - 2
 [[Lexicon/H1801-1900#H1826|Be silent ,]] [[Lexicon/H3401-3500#H3427|O dwellers]] [[Lexicon/H301-400#H339|of the coastland ,]] [[Lexicon/H5501-5600#H5503|you merchants]] [[Lexicon/H6701-6800#H6721|of Sidon ,]] [[Lexicon/H5601-5700#H5674|whose traders]] [[Lexicon/H4301-4400#H4390|have crossed]] [[Lexicon/H3201-3300#H3220|the sea.]]
@@ -22,7 +22,7 @@ cssClasses: lexicon
 [[Lexicon/H901-1000#H954|Be ashamed ,]] [[Lexicon/H6701-6800#H6721|O Sidon ,]] [[Lexicon/H4501-4600#H4581|the stronghold]] [[Lexicon/H3201-3300#H3220|of the sea ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3201-3300#H3220|the sea]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H501-600#H559|has spoken :]] [[Lexicon/H3801-3900#H3808|“ I have not]] [[Lexicon/H2301-2400#H2342|been in labor]] [[Lexicon/H3201-3300#H3205|or given birth]] [[Lexicon/H3801-3900#H3808|....]] [[Lexicon/H3801-3900#H3808|I have not]] [[Lexicon/H1401-1500#H1431|raised]] [[Lexicon/H901-1000#H970|young men]] [[Lexicon/H7301-7400#H7311|or brought up]] [[Lexicon/H1301-1400#H1330|young women. ”]]
 
 ##### Isaiah 23 - 5
-[[Lexicon/H801-900#H834|When]] [[Lexicon/H8001-8100#H8088|the report (reaches)]] [[Lexicon/H4701-4800#H4714|Egypt ,]] [[Lexicon/H2301-2400#H2342|they will writhe in agony]] [[Lexicon/H8001-8100#H8088|over the news]] [[Lexicon/H6801-6900#H6865|of Tyre.]]
+[[Lexicon/H801-900#H834|When]] [[Lexicon/H8001-8100#H8088|the report [reaches]]] [[Lexicon/H4701-4800#H4714|Egypt ,]] [[Lexicon/H2301-2400#H2342|they will writhe in agony]] [[Lexicon/H8001-8100#H8088|over the news]] [[Lexicon/H6801-6900#H6865|of Tyre.]]
 
 ##### Isaiah 23 - 6
 [[Lexicon/H5601-5700#H5674|Cross over]] [[Lexicon/H8601-8674#H8659|to Tarshish ;]] [[Lexicon/H3201-3300#H3213|wail ,]] [[Lexicon/H3401-3500#H3427|O inhabitants]] [[Lexicon/H301-400#H339|of the coastland !]]
@@ -40,7 +40,7 @@ cssClasses: lexicon
 [[Lexicon/H5601-5700#H5674|Cultivate]] [[Lexicon/H701-800#H776|your land]] [[Lexicon/H2901-3000#H2975|like the Nile ,]] [[Lexicon/H1301-1400#H1323|O Daughter]] [[Lexicon/H8601-8674#H8659|of Tarshish ;]] [[Lexicon/H301-400#H369|there is no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H4201-4300#H4206|a harbor.]]
 
 ##### Isaiah 23 - 11
-[[Lexicon/H5101-5200#H5186|(The LORD) has stretched out]] [[Lexicon/H3001-3100#H3027|His hand]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3201-3300#H3220|the sea ;]] [[Lexicon/H4401-4500#H4467|He has made kingdoms]] [[Lexicon/H7201-7300#H7264|tremble.]] [[Lexicon/H3001-3100#H3068|(He)]] [[Lexicon/H6601-6700#H6680|has given a command]] [[Lexicon/H401-500#H413|that]] [[Lexicon/H4501-4600#H4581|the strongholds]] [[Lexicon/H3601-3700#H3667|of Canaan]] [[Lexicon/H8001-8100#H8045|be destroyed.]]
+[[Lexicon/H5101-5200#H5186|[The LORD] has stretched out]] [[Lexicon/H3001-3100#H3027|His hand]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3201-3300#H3220|the sea ;]] [[Lexicon/H4401-4500#H4467|He has made kingdoms]] [[Lexicon/H7201-7300#H7264|tremble.]] [[Lexicon/H3001-3100#H3068|[He]]] [[Lexicon/H6601-6700#H6680|has given a command]] [[Lexicon/H401-500#H413|that]] [[Lexicon/H4501-4600#H4581|the strongholds]] [[Lexicon/H3601-3700#H3667|of Canaan]] [[Lexicon/H8001-8100#H8045|be destroyed.]]
 
 ##### Isaiah 23 - 12
 [[Lexicon/H501-600#H559|He said ,]] [[Lexicon/H5901-6000#H5937|“ You shall rejoice]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H3201-3300#H3254|more]] [[Lexicon/H5701-5800#H5750|... ,]] [[Lexicon/H6201-6300#H6231|O oppressed]] [[Lexicon/H1301-1400#H1330|Virgin]] [[Lexicon/H1301-1400#H1323|Daughter]] [[Lexicon/H6701-6800#H6721|of Sidon.]] [[Lexicon/H6901-7000#H6965|Get up]] [[Lexicon/H5601-5700#H5674|and cross over]] [[Lexicon/H3701-3800#H3794|to Cyprus —]] [[Lexicon/H1501-1600#H1571|even]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H3801-3900#H3808|you will find no]] [[Lexicon/H5101-5200#H5117|rest]]

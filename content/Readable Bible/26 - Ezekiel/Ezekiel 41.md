@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 41
+# Ezekiel-R 41
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 40|← Ezekiel 40]] | [[Readable Bible/26 - Ezekiel/Ezekiel 42|Ezekiel 42 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 40#Ezekiel-R 40| Ezekiel 40]] - [[Readable Bible/26 - Ezekiel/Ezekiel 42#Ezekiel-R 42| Ezekiel 42]]
 
 ---
 

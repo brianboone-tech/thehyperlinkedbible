@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/38 - Zechariah|← Zechariah]]**
+**[[Home/Scripture/38 - Zechariah|← Zechariah]]**
 
 ---
 

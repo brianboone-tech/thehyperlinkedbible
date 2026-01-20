@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 66
+# Isaiah-R 66
 
-[[Readable Bible/23 - Isaiah/Isaiah 65|← Isaiah 65]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 65#Isaiah-R 65| Isaiah 65]]
 
 ---
 

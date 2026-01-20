@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Acts 4 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 5 - TOSK|Ch 5 →]]
+**[[Home/Scripture/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 5 - TOSK|Ch 5 →]]
 
 ---
 

@@ -30,7 +30,7 @@ Testament: Old
 [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3301-3400#G3384|of my mother]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1401-1500#G1473|are my]] [[Lexicon/G4601-4700#G4629|shelterer.]] [[Lexicon/G1701-1800#G1722|about]]
 
 #### Psalms 71 - 7
-[[Lexicon/G5601-5624#G5616|as it were]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G4101-4200#G4183|many;]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G1401-1500#G1473|you are]] [[Lexicon/G901-1000#G0998|helper]]
+[[Lexicon/G5601-5700#G5616|as it were]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G4101-4200#G4183|many;]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G1401-1500#G1473|you are]] [[Lexicon/G901-1000#G0998|helper]]
 
 #### Psalms 71 - 8
 [[Lexicon/G4101-4200#G4137|Let be filled]] [[Lexicon/G101-200#G0133|of praise!]] [[Lexicon/G3701-3800#G3704|that]] [[Lexicon/G5201-5300#G5214|I may praise in song]] [[Lexicon/G1301-1400#G1391|of your glory;]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G3101-3200#G3168|of your majesty.]]

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Colossians 3 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/51 - Colossians|← Colossians]]** | [[The Treasury of Scripture Knowledge/51. Colossians TOSK/Colossians - 2 - TOSK|← Ch 2]] | [[The Treasury of Scripture Knowledge/51. Colossians TOSK/Colossians - 4 - TOSK|Ch 4 →]]
+**[[Home/Scripture/51 - Colossians|← Colossians]]** | [[The Treasury of Scripture Knowledge/51. Colossians TOSK/Colossians - 2 - TOSK|← Ch 2]] | [[The Treasury of Scripture Knowledge/51. Colossians TOSK/Colossians - 4 - TOSK|Ch 4 →]]
 
 ---
 

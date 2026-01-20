@@ -17,7 +17,7 @@ Chapter: "15"
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 1|LXX]] |
 
 ##### Exodus 15 - 2
-[[Lexicon/H3001-3100#H3050|The LORD]] [[Lexicon/H5701-5800#H5797|is my strength]] [[Lexicon/H2101-2200#H2176|and my song ,]] [[Lexicon/H1901-2000#H1961|and He has become]] [[Lexicon/H3401-3500#H3444|salvation.]] [[Lexicon/H2001-2100#H2088|He (is)]] [[Lexicon/H401-500#H410|my God ,]] [[Lexicon/H5101-5200#H5115|and I will praise Him ,]] [[Lexicon/H1-100#H1|my father’s]] [[Lexicon/H401-500#H430|God ,]] [[Lexicon/H7301-7400#H7311|and I will exalt Him.]]
+[[Lexicon/H3001-3100#H3050|The LORD]] [[Lexicon/H5701-5800#H5797|is my strength]] [[Lexicon/H2101-2200#H2176|and my song ,]] [[Lexicon/H1901-2000#H1961|and He has become]] [[Lexicon/H3401-3500#H3444|salvation.]] [[Lexicon/H2001-2100#H2088|He [is]]] [[Lexicon/H401-500#H410|my God ,]] [[Lexicon/H5101-5200#H5115|and I will praise Him ,]] [[Lexicon/H1-100#H1|my father’s]] [[Lexicon/H401-500#H430|God ,]] [[Lexicon/H7301-7400#H7311|and I will exalt Him.]]
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 2|LXX]] |
 
 ##### Exodus 15 - 3
@@ -29,7 +29,7 @@ Chapter: "15"
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 4|LXX]] |
 
 ##### Exodus 15 - 5
-[[Lexicon/H8401-8500#H8415|The depths]] [[Lexicon/H3601-3700#H3680|have covered them ;]] [[Lexicon/H3301-3400#H3381|they sank]] [[Lexicon/H4601-4700#H4688|(there)]] [[Lexicon/H3601-3700#H3644|like]] [[Lexicon/H1-100#H68|a stone.]]
+[[Lexicon/H8401-8500#H8415|The depths]] [[Lexicon/H3601-3700#H3680|have covered them ;]] [[Lexicon/H3301-3400#H3381|they sank]] [[Lexicon/H4601-4700#H4688|[there]]] [[Lexicon/H3601-3700#H3644|like]] [[Lexicon/H1-100#H68|a stone.]]
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 5|LXX]] |
 
 ##### Exodus 15 - 6
@@ -65,7 +65,7 @@ Chapter: "15"
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 13|LXX]] |
 
 ##### Exodus 15 - 14
-[[Lexicon/H5901-6000#H5971|The nations]] [[Lexicon/H8001-8100#H8085|will hear]] [[Lexicon/H7201-7300#H7264|(and) tremble ;]] [[Lexicon/H2401-2500#H2427|anguish]] [[Lexicon/H201-300#H270|will grip]] [[Lexicon/H3401-3500#H3427|the dwellers]] [[Lexicon/H6401-6500#H6429|of Philistia.]]
+[[Lexicon/H5901-6000#H5971|The nations]] [[Lexicon/H8001-8100#H8085|will hear]] [[Lexicon/H7201-7300#H7264|[and] tremble ;]] [[Lexicon/H2401-2500#H2427|anguish]] [[Lexicon/H201-300#H270|will grip]] [[Lexicon/H3401-3500#H3427|the dwellers]] [[Lexicon/H6401-6500#H6429|of Philistia.]]
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 14|LXX]] |
 
 ##### Exodus 15 - 15
@@ -101,7 +101,7 @@ Chapter: "15"
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 22|LXX]] |
 
 ##### Exodus 15 - 23
-[[Lexicon/H901-1000#H935|And when they came]] [[Lexicon/H4701-4800#H4785|to Marah ,]] [[Lexicon/H3201-3300#H3201|they could]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H4701-4800#H4785|(there)]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1992|it]] [[Lexicon/H4701-4800#H4751|was bitter.]] [[Lexicon/H5901-6000#H5921|( That is why]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H7101-7200#H7121|it was named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H4701-4800#H4785|Marah. )]]
+[[Lexicon/H901-1000#H935|And when they came]] [[Lexicon/H4701-4800#H4785|to Marah ,]] [[Lexicon/H3201-3300#H3201|they could]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H4701-4800#H4785|[there]]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1992|it]] [[Lexicon/H4701-4800#H4751|was bitter.]] [[Lexicon/H5901-6000#H5921|( That is why]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H7101-7200#H7121|it was named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H4701-4800#H4785|Marah. )]]
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 23|LXX]] |
 
 ##### Exodus 15 - 24
@@ -109,11 +109,11 @@ Chapter: "15"
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 24|LXX]] |
 
 ##### Exodus 15 - 25
-[[Lexicon/H6801-6900#H6817|And (Moses) cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3001-3100#H3068|and the LORD]] [[Lexicon/H3301-3400#H3384|showed him]] [[Lexicon/H6001-6100#H6086|a log.]] [[Lexicon/H7901-8000#H7993|And when he cast it]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H4301-4400#H4325|the waters ,]] [[Lexicon/H4301-4400#H4325|(they)]] [[Lexicon/H4901-5000#H4985|were sweetened.]] [[Lexicon/H8001-8100#H8033|There]] [[Lexicon/H7701-7800#H7760|(the LORD) made]] [[Lexicon/H2701-2800#H2706|a statute]] [[Lexicon/H4901-5000#H4941|and an ordinance ,]] [[Lexicon/H8001-8100#H8033|and there]] [[Lexicon/H5201-5300#H5254|He tested them ,]]
+[[Lexicon/H6801-6900#H6817|And [Moses] cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3001-3100#H3068|and the LORD]] [[Lexicon/H3301-3400#H3384|showed him]] [[Lexicon/H6001-6100#H6086|a log.]] [[Lexicon/H7901-8000#H7993|And when he cast it]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H4301-4400#H4325|the waters ,]] [[Lexicon/H4301-4400#H4325|[they]]] [[Lexicon/H4901-5000#H4985|were sweetened.]] [[Lexicon/H8001-8100#H8033|There]] [[Lexicon/H7701-7800#H7760|[the LORD] made]] [[Lexicon/H2701-2800#H2706|a statute]] [[Lexicon/H4901-5000#H4941|and an ordinance ,]] [[Lexicon/H8001-8100#H8033|and there]] [[Lexicon/H5201-5300#H5254|He tested them ,]]
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 25|LXX]] |
 
 ##### Exodus 15 - 26
-[[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H501-600#H518|“ If]] [[Lexicon/H8001-8100#H8085|you will listen carefully]] [[Lexicon/H8001-8100#H8085|...]] [[Lexicon/H6901-7000#H6963|to the voice]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H430|your God ,]] [[Lexicon/H6201-6300#H6213|and do]] [[Lexicon/H3401-3500#H3477|what is right]] [[Lexicon/H5801-5900#H5869|in His eyes ,]] [[Lexicon/H201-300#H238|and pay attention]] [[Lexicon/H4601-4700#H4687|to His commands ,]] [[Lexicon/H8101-8200#H8104|and keep]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2701-2800#H2706|His statutes ,]] [[Lexicon/H3801-3900#H3808|(then) I will not]] [[Lexicon/H7701-7800#H7760|bring]] [[Lexicon/H5901-6000#H5921|on you]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H4201-4300#H4245|of the diseases]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7701-7800#H7760|I inflicted]] [[Lexicon/H4701-4800#H4714|on the Egyptians.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H7401-7500#H7495|who heals you. ”]]
+[[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H501-600#H518|“ If]] [[Lexicon/H8001-8100#H8085|you will listen carefully]] [[Lexicon/H8001-8100#H8085|...]] [[Lexicon/H6901-7000#H6963|to the voice]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H430|your God ,]] [[Lexicon/H6201-6300#H6213|and do]] [[Lexicon/H3401-3500#H3477|what is right]] [[Lexicon/H5801-5900#H5869|in His eyes ,]] [[Lexicon/H201-300#H238|and pay attention]] [[Lexicon/H4601-4700#H4687|to His commands ,]] [[Lexicon/H8101-8200#H8104|and keep]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2701-2800#H2706|His statutes ,]] [[Lexicon/H3801-3900#H3808|[then] I will not]] [[Lexicon/H7701-7800#H7760|bring]] [[Lexicon/H5901-6000#H5921|on you]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H4201-4300#H4245|of the diseases]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7701-7800#H7760|I inflicted]] [[Lexicon/H4701-4800#H4714|on the Egyptians.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H7401-7500#H7495|who heals you. ”]]
 | [[LXX Reference/2 - Exodus/Exodus 15#Exodus 15 - 26|LXX]] |
 
 ##### Exodus 15 - 27

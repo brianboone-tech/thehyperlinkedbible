@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 75 - 1
-[[Lexicon/H5301-5400#H5329|For the choirmaster :]] [[Lexicon/H501-600#H516|vvv]] [[Lexicon/H501-600#H516|(To the tune of) “Do Not Destroy. ”]] [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H601-700#H623|of Asaph.]] [[Lexicon/H7801-7900#H7892|A song.]] [[Lexicon/H3001-3100#H3034|We give thanks]] [[Lexicon/H401-500#H430|O God ;]] [[Lexicon/H3001-3100#H3034|we give thanks ,]] [[Lexicon/H8001-8100#H8034|for Your Name]] [[Lexicon/H7101-7200#H7138|is near.]] [[Lexicon/H5601-5700#H5608|The people declare]] [[Lexicon/H6301-6400#H6381|Your wondrous works.]]
+[[Lexicon/H5301-5400#H5329|For the choirmaster :]] [[Lexicon/H501-600#H516|vvv]] [[Lexicon/H501-600#H516|[To the tune of] “Do Not Destroy. ”]] [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H601-700#H623|of Asaph.]] [[Lexicon/H7801-7900#H7892|A song.]] [[Lexicon/H3001-3100#H3034|We give thanks]] [[Lexicon/H401-500#H430|O God ;]] [[Lexicon/H3001-3100#H3034|we give thanks ,]] [[Lexicon/H8001-8100#H8034|for Your Name]] [[Lexicon/H7101-7200#H7138|is near.]] [[Lexicon/H5601-5700#H5608|The people declare]] [[Lexicon/H6301-6400#H6381|Your wondrous works.]]
 | [[LXX Reference/19 - Psalms/Psalms 75#Psalm 75 - 1|LXX]] |
 
 ##### Psalm 75 - 2
@@ -38,7 +38,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 75#Psalm 75 - 7|LXX]] |
 
 ##### Psalm 75 - 8
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3501-3600#H3563|a cup]] [[Lexicon/H3001-3100#H3027|is in the hand]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H4301-4400#H4392|full of]] [[Lexicon/H2501-2600#H2560|foaming]] [[Lexicon/H3101-3200#H3196|wine]] [[Lexicon/H4501-4600#H4538|mixed with spices.]] [[Lexicon/H5001-5100#H5064|He pours]] [[Lexicon/H2001-2100#H2088|from (His cup) ,]] [[Lexicon/H301-400#H389|and]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H8301-8400#H8354|drink it down]] [[Lexicon/H4601-4700#H4680|...]] [[Lexicon/H8101-8200#H8105|to the dregs.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3501-3600#H3563|a cup]] [[Lexicon/H3001-3100#H3027|is in the hand]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H4301-4400#H4392|full of]] [[Lexicon/H2501-2600#H2560|foaming]] [[Lexicon/H3101-3200#H3196|wine]] [[Lexicon/H4501-4600#H4538|mixed with spices.]] [[Lexicon/H5001-5100#H5064|He pours]] [[Lexicon/H2001-2100#H2088|from [His cup] ,]] [[Lexicon/H301-400#H389|and]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H8301-8400#H8354|drink it down]] [[Lexicon/H4601-4700#H4680|...]] [[Lexicon/H8101-8200#H8105|to the dregs.]]
 | [[LXX Reference/19 - Psalms/Psalms 75#Psalm 75 - 8|LXX]] |
 
 ##### Psalm 75 - 9

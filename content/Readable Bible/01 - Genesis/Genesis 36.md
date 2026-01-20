@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Genesis 36
+# Genesis-R 36
 
-[[Readable Bible/01 - Genesis/Genesis 35|← Genesis 35]] | [[Readable Bible/01 - Genesis/Genesis 37|Genesis 37 →]]
+**[[Home/Scripture/01 - Genesis|Genesis]]**
+
+[[Readable Bible/01 - Genesis/Genesis 35#Genesis-R 35| Genesis 35]] - [[Readable Bible/01 - Genesis/Genesis 37#Genesis-R 37| Genesis 37]]
 
 ---
 

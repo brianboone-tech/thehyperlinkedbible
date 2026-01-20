@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Joel 2 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/29 - Joel|← Joel]]** | [[The Treasury of Scripture Knowledge/29. Joel TOSK/Joel - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/29. Joel TOSK/Joel - 3 - TOSK|Ch 3 →]]
+**[[Home/Scripture/29 - Joel|← Joel]]** | [[The Treasury of Scripture Knowledge/29. Joel TOSK/Joel - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/29. Joel TOSK/Joel - 3 - TOSK|Ch 3 →]]
 
 ---
 

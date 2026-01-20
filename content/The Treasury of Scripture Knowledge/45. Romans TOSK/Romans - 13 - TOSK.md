@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Romans 13 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/45 - Romans|← Romans]]** | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 12 - TOSK|← Ch 12]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 14 - TOSK|Ch 14 →]]
+**[[Home/Scripture/45 - Romans|← Romans]]** | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 12 - TOSK|← Ch 12]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 14 - TOSK|Ch 14 →]]
 
 ---
 

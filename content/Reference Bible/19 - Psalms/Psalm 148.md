@@ -46,7 +46,7 @@ cssClasses: lexicon
 [[Lexicon/H901-1000#H970|young men]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H1301-1400#H1330|maidens ,]] [[Lexicon/H2201-2300#H2205|old]] [[Lexicon/H5901-6000#H5973|and]] [[Lexicon/H5201-5300#H5288|young together.]]
 
 ##### Psalm 148 - 13
-[[Lexicon/H1901-2000#H1984|Let them praise]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8034|the name]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H8001-8100#H8034|His name]] [[Lexicon/H901-1000#H905|alone]] [[Lexicon/H7601-7700#H7682|is exalted ;]] [[Lexicon/H1901-2000#H1935|His splendor]] [[Lexicon/H5901-6000#H5921|(is) above]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H8001-8100#H8064|and the heavens.]]
+[[Lexicon/H1901-2000#H1984|Let them praise]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8034|the name]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H8001-8100#H8034|His name]] [[Lexicon/H901-1000#H905|alone]] [[Lexicon/H7601-7700#H7682|is exalted ;]] [[Lexicon/H1901-2000#H1935|His splendor]] [[Lexicon/H5901-6000#H5921|[is] above]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H8001-8100#H8064|and the heavens.]]
 
 ##### Psalm 148 - 14
 [[Lexicon/H7301-7400#H7311|He has raised up]] [[Lexicon/H7101-7200#H7161|a horn]] [[Lexicon/H5901-6000#H5971|for His people ,]] [[Lexicon/H8401-8500#H8416|the praise]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H2601-2700#H2623|His saints ,]] [[Lexicon/H1101-1200#H1121|of Israel]] [[Lexicon/H3401-3500#H3478|... ,]] [[Lexicon/H5901-6000#H5971|a people]] [[Lexicon/H7101-7200#H7138|near to Him.]] [[Lexicon/H1901-2000#H1984|Hallelujah]] [[Lexicon/H3001-3100#H3050|... !]]

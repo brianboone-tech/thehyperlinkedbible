@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus 20
+# Exodus-R 20
 
-[[Readable Bible/02 - Exodus/Exodus 19|← Exodus 19]] | [[Readable Bible/02 - Exodus/Exodus 21|Exodus 21 →]]
+**[[Home/Scripture/02 - Exodus|Exodus]]**
+
+[[Readable Bible/02 - Exodus/Exodus 19#Exodus-R 19| Exodus 19]] - [[Readable Bible/02 - Exodus/Exodus 21#Exodus-R 21| Exodus 21]]
 
 ---
 

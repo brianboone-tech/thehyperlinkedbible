@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/13 - 1 Chronicles|← 1 Chronicles]]**
+**[[Home/Scripture/13 - 1 Chronicles|← 1 Chronicles]]**
 
 ---
 

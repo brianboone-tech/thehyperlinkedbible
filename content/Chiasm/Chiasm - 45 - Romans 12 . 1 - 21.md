@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/45 - Romans|← Romans]]**
+**[[Home/Scripture/45 - Romans|← Romans]]**
 
 ---
 

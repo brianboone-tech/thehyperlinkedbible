@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 41 - 1
-[[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H7901-8000#H7919|(is) the one who cares]] [[Lexicon/H401-500#H413|for]] [[Lexicon/H1701-1800#H1800|the poor ;]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H4401-4500#H4422|will deliver him]] [[Lexicon/H3101-3200#H3117|in the day]] [[Lexicon/H7401-7500#H7451|of trouble.]]
+[[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H7901-8000#H7919|[is] the one who cares]] [[Lexicon/H401-500#H413|for]] [[Lexicon/H1701-1800#H1800|the poor ;]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H4401-4500#H4422|will deliver him]] [[Lexicon/H3101-3200#H3117|in the day]] [[Lexicon/H7401-7500#H7451|of trouble.]]
 
 ##### Psalm 41 - 2
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H8101-8200#H8104|will protect]] [[Lexicon/H2401-2500#H2421|and preserve him ;]] [[Lexicon/H801-900#H833|He will bless him]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H401-500#H408|and refuse]] [[Lexicon/H5401-5500#H5414|to surrender him]] [[Lexicon/H5301-5400#H5315|to the will]] [[Lexicon/H301-400#H341|of his foes.]]
@@ -34,7 +34,7 @@ cssClasses: lexicon
 [[Lexicon/H1001-1100#H1100|“ A vile]] [[Lexicon/H1601-1700#H1697|disease]] [[Lexicon/H3301-3400#H3332|has been poured]] [[Lexicon/H3801-3900#H3808|he will never]] [[Lexicon/H3201-3300#H3254|...]] [[Lexicon/H6901-7000#H6965|get up]] [[Lexicon/H801-900#H834|from where]] [[Lexicon/H7901-8000#H7901|he lies ! ”]]
 
 ##### Psalm 41 - 9
-[[Lexicon/H1501-1600#H1571|Even]] [[Lexicon/H301-400#H376|my close friend]] [[Lexicon/H7901-8000#H7965|...]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H901-1000#H982|I trusted]] [[Lexicon/H301-400#H398|the one who shared]] [[Lexicon/H3801-3900#H3899|my bread ,]] [[Lexicon/H1401-1500#H1431|has lifted up]] [[Lexicon/H6101-6200#H6119|(his) heel]] [[Lexicon/H5901-6000#H5921|against me.]]
+[[Lexicon/H1501-1600#H1571|Even]] [[Lexicon/H301-400#H376|my close friend]] [[Lexicon/H7901-8000#H7965|...]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H901-1000#H982|I trusted]] [[Lexicon/H301-400#H398|the one who shared]] [[Lexicon/H3801-3900#H3899|my bread ,]] [[Lexicon/H1401-1500#H1431|has lifted up]] [[Lexicon/H6101-6200#H6119|[his] heel]] [[Lexicon/H5901-6000#H5921|against me.]]
 
 ##### Psalm 41 - 10
 [[Lexicon/H801-900#H859|But You ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H2601-2700#H2603|be gracious to me]] [[Lexicon/H6901-7000#H6965|and raise me up ,]] [[Lexicon/H7901-8000#H7999|that I may repay]]

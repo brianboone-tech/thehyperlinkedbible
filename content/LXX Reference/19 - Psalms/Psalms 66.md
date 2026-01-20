@@ -18,13 +18,13 @@ Testament: Old
 [[Lexicon/G5501-5600#G5567|Strum]] [[Lexicon/G1201-1300#G1211|indeed]] [[Lexicon/G3601-3700#G3686|his name!]] [[Lexicon/G1301-1400#G1325|Give]] [[Lexicon/G1301-1400#G1391|glory]] [[Lexicon/G101-200#G0133|of his praise!]]
 
 #### Psalms 66 - 3
-[[Lexicon/G2001-2100#G2036|Say]] [[Lexicon/G2301-2400#G2316|to God!]] [[Lexicon/G5601-5624#G5613|How]] [[Lexicon/G5301-5400#G5398|fearful]] [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4128|magnitude]] [[Lexicon/G1401-1500#G1411|of your power]] [[Lexicon/G5501-5600#G5574|shall lie]]
+[[Lexicon/G2001-2100#G2036|Say]] [[Lexicon/G2301-2400#G2316|to God!]] [[Lexicon/G5601-5700#G5613|How]] [[Lexicon/G5301-5400#G5398|fearful]] [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4128|magnitude]] [[Lexicon/G1401-1500#G1411|of your power]] [[Lexicon/G5501-5600#G5574|shall lie]]
 
 #### Psalms 66 - 4
 [[Lexicon/G3901-4000#G3956|Let all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth]] [[Lexicon/G4301-4400#G4352|do obeisance]] [[Lexicon/G1401-1500#G1473|to you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5567|strum]] [[Lexicon/G1401-1500#G1473|unto you!]] [[Lexicon/G5501-5600#G5567|Let them strum]] [[Lexicon/G3601-3700#G3686|your name]] [[Lexicon/G1301-1400#G1316|PAUSE.]]
 
 #### Psalms 66 - 5
-[[Lexicon/G1201-1300#G1205|Come]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1492|see]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2041|works]] [[Lexicon/G2301-2400#G2316|of God!]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5301-5400#G5398|fearful]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1012|counsels]] [[Lexicon/G5201-5300#G5228|above]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G401-500#G0444|of men.]]
+[[Lexicon/G1201-1300#G1205|Come]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1492|see]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2041|works]] [[Lexicon/G2301-2400#G2316|of God!]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5301-5400#G5398|fearful]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1012|counsels]] [[Lexicon/G5201-5300#G5228|above]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G401-500#G0444|of men.]]
 
 #### Psalms 66 - 6
 [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G3301-3400#G3344|one converting]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2281|sea]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3584|dry land;]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1301-1400#G1330|they shall go through]] [[Lexicon/G4201-4300#G4228|on foot.]] [[Lexicon/G1501-1600#G1563|There]] [[Lexicon/G2101-2200#G2165|we shall be glad]] [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G1401-1500#G1473|him]]
@@ -39,7 +39,7 @@ Testament: Old
 [[Lexicon/G5001-5100#G5087|who establishes]] [[Lexicon/G5501-5600#G5590|my soul]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2201-2300#G2222|life,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|not]] [[Lexicon/G1301-1400#G1325|granting]] [[Lexicon/G1501-1600#G1519|for]]
 
 #### Psalms 66 - 10
-[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1301-1400#G1381|you tried]] [[Lexicon/G1401-1500#G1473|us,]] [[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God;]] [[Lexicon/G4401-4500#G4448|you set us on fire]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4401-4500#G4448| is set to the fire]]
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1301-1400#G1381|you tried]] [[Lexicon/G1401-1500#G1473|us,]] [[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God;]] [[Lexicon/G4401-4500#G4448|you set us on fire]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4401-4500#G4448| is set to the fire]]
 
 #### Psalms 66 - 11
 [[Lexicon/G1501-1600#G1521|You brought]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3801-3900#G3803|snare;]] [[Lexicon/G5001-5100#G5087|you put]] [[Lexicon/G2301-2400#G2347|afflictions]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3577|our back.]]

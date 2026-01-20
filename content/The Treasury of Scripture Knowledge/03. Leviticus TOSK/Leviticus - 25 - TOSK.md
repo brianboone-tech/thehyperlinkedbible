@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Leviticus 25 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 24 - TOSK|← Ch 24]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 26 - TOSK|Ch 26 →]]
+**[[Home/Scripture/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 24 - TOSK|← Ch 24]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 26 - TOSK|Ch 26 →]]
 
 ---
 

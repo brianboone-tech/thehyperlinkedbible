@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 35
+# Isaiah-R 35
 
-[[Readable Bible/23 - Isaiah/Isaiah 34|← Isaiah 34]] | [[Readable Bible/23 - Isaiah/Isaiah 36|Isaiah 36 →]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 34#Isaiah-R 34| Isaiah 34]] - [[Readable Bible/23 - Isaiah/Isaiah 36#Isaiah-R 36| Isaiah 36]]
 
 ---
 

@@ -18,7 +18,7 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|For even]] [[Lexicon/G1401-1500#G1473|he is]] [[Lexicon/G2301-2400#G2316|my God,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4901-5000#G4990|my deliverer,]] [[Lexicon/G401-500#G0483|my shielder.]] [[Lexicon/G3701-3800#G3766|In no way]] [[Lexicon/G4501-4600#G4531|should I be shaken]] [[Lexicon/G1901-2000#G1909|by]] [[Lexicon/G4101-4200#G4183|many.]]
 
 #### Psalms 62 - 3
-[[Lexicon/G2101-2200#G2193|For]] [[Lexicon/G4201-4300#G4219|how long]] [[Lexicon/G2001-2100#G2007|do you put]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G401-500#G0444|a man?]] [[Lexicon/G5401-5500#G5407|slaughter]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5101-5200#G5109|a wall]] [[Lexicon/G2801-2900#G2827|leaning]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5418|a fence]] [[Lexicon/G5601-5624#G5605|thrusting through.]]
+[[Lexicon/G2101-2200#G2193|For]] [[Lexicon/G4201-4300#G4219|how long]] [[Lexicon/G2001-2100#G2007|do you put]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G401-500#G0444|a man?]] [[Lexicon/G5401-5500#G5407|slaughter]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5101-5200#G5109|a wall]] [[Lexicon/G2801-2900#G2827|leaning]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5418|a fence]] [[Lexicon/G5601-5700#G5605|thrusting through.]]
 
 #### Psalms 62 - 4
 [[Lexicon/G4101-4200#G4133|But]] [[Lexicon/G5001-5100#G5092|my honor]] [[Lexicon/G5101-5200#G5143|I ran]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1301-1400#G1371|thirst;]] [[Lexicon/G3501-3600#G3588|with]] [[Lexicon/G4701-4800#G4750|their mouth]] [[Lexicon/G2101-2200#G2127|blessing,]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G2501-2600#G2588|their heart]] [[Lexicon/G2601-2700#G2672|they cursed.]]

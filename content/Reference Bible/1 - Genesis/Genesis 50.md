@@ -33,7 +33,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 50#Genesis 50 - 5|LXX]] |
 
 ##### Genesis 50 - 6
-[[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H501-600#H559|replied ,]] [[Lexicon/H5901-6000#H5927|“ Go up]] [[Lexicon/H6901-7000#H6912|and bury]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H1|your father ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H7601-7700#H7650|he made you swear (to do). ”]]
+[[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H501-600#H559|replied ,]] [[Lexicon/H5901-6000#H5927|“ Go up]] [[Lexicon/H6901-7000#H6912|and bury]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H1|your father ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H7601-7700#H7650|he made you swear [to do]. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 50#Genesis 50 - 6|LXX]] |
 
 ##### Genesis 50 - 7
@@ -77,7 +77,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 50#Genesis 50 - 16|LXX]] |
 
 ##### Genesis 50 - 17
-[[Lexicon/H3501-3600#H3541|‘ This is what]] [[Lexicon/H501-600#H559|you are to say]] [[Lexicon/H3101-3200#H3130|to Joseph :]] [[Lexicon/H501-600#H577|I beg you ,]] [[Lexicon/H4901-5000#H4994|please]] [[Lexicon/H5301-5400#H5375|forgive]] [[Lexicon/H6501-6600#H6588|the transgression]] [[Lexicon/H2401-2500#H2403|and sin]] [[Lexicon/H201-300#H251|of your brothers ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1501-1600#H1580|they did]] [[Lexicon/H7401-7500#H7451|you wrong. ’]] [[Lexicon/H6201-6300#H6258|So now, (Joseph) ,]] [[Lexicon/H4901-5000#H4994|please]] [[Lexicon/H5301-5400#H5375|forgive]] [[Lexicon/H6501-6600#H6588|the transgression]] [[Lexicon/H5601-5700#H5650|of the servants]] [[Lexicon/H401-500#H430|of the God]] [[Lexicon/H1-100#H1|of your father. ”]] [[Lexicon/H1601-1700#H1696|When their message]] [[Lexicon/H401-500#H413|came to him ,]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H1001-1100#H1058|wept.]]
+[[Lexicon/H3501-3600#H3541|‘ This is what]] [[Lexicon/H501-600#H559|you are to say]] [[Lexicon/H3101-3200#H3130|to Joseph :]] [[Lexicon/H501-600#H577|I beg you ,]] [[Lexicon/H4901-5000#H4994|please]] [[Lexicon/H5301-5400#H5375|forgive]] [[Lexicon/H6501-6600#H6588|the transgression]] [[Lexicon/H2401-2500#H2403|and sin]] [[Lexicon/H201-300#H251|of your brothers ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1501-1600#H1580|they did]] [[Lexicon/H7401-7500#H7451|you wrong. ’]] [[Lexicon/H6201-6300#H6258|So now, [Joseph] ,]] [[Lexicon/H4901-5000#H4994|please]] [[Lexicon/H5301-5400#H5375|forgive]] [[Lexicon/H6501-6600#H6588|the transgression]] [[Lexicon/H5601-5700#H5650|of the servants]] [[Lexicon/H401-500#H430|of the God]] [[Lexicon/H1-100#H1|of your father. ”]] [[Lexicon/H1601-1700#H1696|When their message]] [[Lexicon/H401-500#H413|came to him ,]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H1001-1100#H1058|wept.]]
 | [[LXX Reference/1 - Genesis/Genesis 50#Genesis 50 - 17|LXX]] |
 
 ##### Genesis 50 - 18
@@ -93,7 +93,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 50#Genesis 50 - 20|LXX]] |
 
 ##### Genesis 50 - 21
-[[Lexicon/H6201-6300#H6258|Therefore]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H3301-3400#H3372|be afraid.]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H3501-3600#H3557|will provide for]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2901-3000#H2945|and your little ones. ”]] [[Lexicon/H5101-5200#H5162|So (Joseph) reassured]] [[Lexicon/H801-900#H853|(his brothers)]] [[Lexicon/H1601-1700#H1696|and spoke]] [[Lexicon/H5901-6000#H5921|kindly to them]] [[Lexicon/H3801-3900#H3820|....]]
+[[Lexicon/H6201-6300#H6258|Therefore]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H3301-3400#H3372|be afraid.]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H3501-3600#H3557|will provide for]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2901-3000#H2945|and your little ones. ”]] [[Lexicon/H5101-5200#H5162|So [Joseph] reassured]] [[Lexicon/H801-900#H853|[his brothers]]] [[Lexicon/H1601-1700#H1696|and spoke]] [[Lexicon/H5901-6000#H5921|kindly to them]] [[Lexicon/H3801-3900#H3820|....]]
 | [[LXX Reference/1 - Genesis/Genesis 50#Genesis 50 - 21|LXX]] |
 
 ##### Genesis 50 - 22
@@ -113,5 +113,5 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 50#Genesis 50 - 25|LXX]] |
 
 ##### Genesis 50 - 26
-[[Lexicon/H3101-3200#H3130|So Joseph]] [[Lexicon/H4101-4200#H4191|died]] [[Lexicon/H1101-1200#H1121|at the age]] [[Lexicon/H3901-4000#H3967|of 110]] [[Lexicon/H6201-6300#H6235|...]] [[Lexicon/H8101-8200#H8141|....]] [[Lexicon/H2501-2600#H2590|And they embalmed]] [[Lexicon/H801-900#H853|(his body)]] [[Lexicon/H3401-3500#H3455|and placed it]] [[Lexicon/H701-800#H727|in a coffin]] [[Lexicon/H4701-4800#H4714|in Egypt.]]
+[[Lexicon/H3101-3200#H3130|So Joseph]] [[Lexicon/H4101-4200#H4191|died]] [[Lexicon/H1101-1200#H1121|at the age]] [[Lexicon/H3901-4000#H3967|of 110]] [[Lexicon/H6201-6300#H6235|...]] [[Lexicon/H8101-8200#H8141|....]] [[Lexicon/H2501-2600#H2590|And they embalmed]] [[Lexicon/H801-900#H853|[his body]]] [[Lexicon/H3401-3500#H3455|and placed it]] [[Lexicon/H701-800#H727|in a coffin]] [[Lexicon/H4701-4800#H4714|in Egypt.]]
 | [[LXX Reference/1 - Genesis/Genesis 50#Genesis 50 - 26|LXX]] |

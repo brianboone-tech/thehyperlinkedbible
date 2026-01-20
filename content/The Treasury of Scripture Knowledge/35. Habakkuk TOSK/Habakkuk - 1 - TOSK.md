@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Habakkuk 1 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/35 - Habakkuk|← Habakkuk]]** | [[The Treasury of Scripture Knowledge/35. Habakkuk TOSK/Habakkuk - 2 - TOSK|Ch 2 →]]
+**[[Home/Scripture/35 - Habakkuk|← Habakkuk]]** | [[The Treasury of Scripture Knowledge/35. Habakkuk TOSK/Habakkuk - 2 - TOSK|Ch 2 →]]
 
 ---
 

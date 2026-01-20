@@ -37,7 +37,7 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H518|-]] [[Lexicon/H2201-2300#H2220|Do you have an arm]] [[Lexicon/H401-500#H410|like God’s]] [[Lexicon/H7401-7500#H7481|Can you thunder]] [[Lexicon/H6901-7000#H6963|with a voice]] [[Lexicon/H3601-3700#H3644|like His ?]]
 
 ##### Job 40 - 10
-[[Lexicon/H4901-5000#H4994|Then]] [[Lexicon/H5701-5800#H5710|adorn yourself]] [[Lexicon/H1301-1400#H1347|(with) majesty]] [[Lexicon/H1301-1400#H1363|and splendor ,]] [[Lexicon/H3801-3900#H3847|and clothe]] [[Lexicon/H1901-2000#H1935|yourself with honor]] [[Lexicon/H1901-2000#H1926|and glory.]]
+[[Lexicon/H4901-5000#H4994|Then]] [[Lexicon/H5701-5800#H5710|adorn yourself]] [[Lexicon/H1301-1400#H1347|[with] majesty]] [[Lexicon/H1301-1400#H1363|and splendor ,]] [[Lexicon/H3801-3900#H3847|and clothe]] [[Lexicon/H1901-2000#H1935|yourself with honor]] [[Lexicon/H1901-2000#H1926|and glory.]]
 
 ##### Job 40 - 11
 [[Lexicon/H6301-6400#H6327|Unleash]] [[Lexicon/H5601-5700#H5678|the fury]] [[Lexicon/H601-700#H639|of your wrath ;]] [[Lexicon/H7101-7200#H7200|look on]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H1301-1400#H1343|proud man]] [[Lexicon/H8201-8300#H8213|and bring him low.]]
@@ -52,7 +52,7 @@ cssClasses: lexicon
 [[Lexicon/H1501-1600#H1571|Then]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3034|will confess to you]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3201-3300#H3225|your own right hand]] [[Lexicon/H3401-3500#H3467|can save]]
 
 ##### Job 40 - 15
-[[Lexicon/H2001-2100#H2009|Look at]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H901-1000#H930|Behemoth ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H6201-6300#H6213|I made]] [[Lexicon/H5901-6000#H5973|(along) with you.]] [[Lexicon/H301-400#H398|He feeds on]] [[Lexicon/H2601-2700#H2682|grass]] [[Lexicon/H1201-1300#H1241|like an ox.]]
+[[Lexicon/H2001-2100#H2009|Look at]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H901-1000#H930|Behemoth ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H6201-6300#H6213|I made]] [[Lexicon/H5901-6000#H5973|[along] with you.]] [[Lexicon/H301-400#H398|He feeds on]] [[Lexicon/H2601-2700#H2682|grass]] [[Lexicon/H1201-1300#H1241|like an ox.]]
 
 ##### Job 40 - 16
 [[Lexicon/H2001-2100#H2009|See]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H3501-3600#H3581|the strength]] [[Lexicon/H4901-5000#H4975|of his loins]] [[Lexicon/H201-300#H202|and the power]] [[Lexicon/H8301-8400#H8306|in the muscles]] [[Lexicon/H901-1000#H990|of his belly.]]
@@ -79,4 +79,4 @@ cssClasses: lexicon
 [[Lexicon/H2001-2100#H2005|Though]] [[Lexicon/H5101-5200#H5104|the river]] [[Lexicon/H6201-6300#H6231|rages ,]] [[Lexicon/H3801-3900#H3808|Behemoth is unafraid]] [[Lexicon/H2601-2700#H2648|... ;]] [[Lexicon/H901-1000#H982|he remains secure ,]] [[Lexicon/H3501-3600#H3588|though]] [[Lexicon/H3301-3400#H3383|the Jordan]] [[Lexicon/H1501-1600#H1518|surges]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6301-6400#H6310|his mouth.]]
 
 ##### Job 40 - 24
-[[Lexicon/H3901-4000#H3947|Can anyone capture him]] [[Lexicon/H5801-5900#H5869|as he looks on ,]] [[Lexicon/H5301-5400#H5344|or pierce]] [[Lexicon/H601-700#H639|his nose]] [[Lexicon/H4101-4200#H4170|with a snare ? (’’)]]
+[[Lexicon/H3901-4000#H3947|Can anyone capture him]] [[Lexicon/H5801-5900#H5869|as he looks on ,]] [[Lexicon/H5301-5400#H5344|or pierce]] [[Lexicon/H601-700#H639|his nose]] [[Lexicon/H4101-4200#H4170|with a snare ? [’’]]]

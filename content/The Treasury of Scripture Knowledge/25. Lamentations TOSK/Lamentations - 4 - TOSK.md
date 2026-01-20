@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Lamentations 4 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/25 - Lamentations|← Lamentations]]** | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 5 - TOSK|Ch 5 →]]
+**[[Home/Scripture/25 - Lamentations|← Lamentations]]** | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 5 - TOSK|Ch 5 →]]
 
 ---
 

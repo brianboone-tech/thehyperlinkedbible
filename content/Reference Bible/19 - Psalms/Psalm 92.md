@@ -66,5 +66,5 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 92#Psalm 92 - 14|LXX]] |
 
 ##### Psalm 92 - 15
-[[Lexicon/H5001-5100#H5046|to proclaim]] [[Lexicon/H3501-3600#H3588|... ,]] [[Lexicon/H3001-3100#H3068|“ The LORD]] [[Lexicon/H3401-3500#H3477|(is) upright ;]] [[Lexicon/H6601-6700#H6697|He is my Rock ,]] [[Lexicon/H3801-3900#H3808|there is no]] [[Lexicon/H5701-5800#H5766|unrighteousness. ”]]
+[[Lexicon/H5001-5100#H5046|to proclaim]] [[Lexicon/H3501-3600#H3588|... ,]] [[Lexicon/H3001-3100#H3068|“ The LORD]] [[Lexicon/H3401-3500#H3477|[is] upright ;]] [[Lexicon/H6601-6700#H6697|He is my Rock ,]] [[Lexicon/H3801-3900#H3808|there is no]] [[Lexicon/H5701-5800#H5766|unrighteousness. ”]]
 | [[LXX Reference/19 - Psalms/Psalms 92#Psalm 92 - 15|LXX]] |

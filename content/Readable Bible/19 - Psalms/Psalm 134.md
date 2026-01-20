@@ -5,9 +5,12 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 134
+# Psalm-R 134
 
-[[Readable Bible/19 - Psalms/Psalm 133|← Psalm 133]] | [[Readable Bible/19 - Psalms/Psalm 135|Psalm 135 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+
+[[Readable Bible/19 - Psalms/Psalm 133#Psalm-R 133| Psalm 133]] - [[Readable Bible/19 - Psalms/Psalm 135#Psalm-R 135| Psalm 135]]
 
 ---
 

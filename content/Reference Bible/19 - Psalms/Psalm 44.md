@@ -14,7 +14,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 44#Psalm 44 - 1|LXX]] |
 
 ##### Psalm 44 - 2
-[[Lexicon/H3001-3100#H3027|With Your hand]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H3401-3500#H3423|drove out]] [[Lexicon/H1401-1500#H1471|the nations]] [[Lexicon/H5101-5200#H5193|and planted (our fathers) there ;]] [[Lexicon/H7401-7500#H7489|You crushed]] [[Lexicon/H3801-3900#H3816|the peoples]] [[Lexicon/H7901-8000#H7971|and cast them out.]]
+[[Lexicon/H3001-3100#H3027|With Your hand]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H3401-3500#H3423|drove out]] [[Lexicon/H1401-1500#H1471|the nations]] [[Lexicon/H5101-5200#H5193|and planted [our fathers] there ;]] [[Lexicon/H7401-7500#H7489|You crushed]] [[Lexicon/H3801-3900#H3816|the peoples]] [[Lexicon/H7901-8000#H7971|and cast them out.]]
 | [[LXX Reference/19 - Psalms/Psalms 44#Psalm 44 - 2|LXX]] |
 
 ##### Psalm 44 - 3

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Esther 3
+# Esther-R 3
 
-[[Readable Bible/17 - Esther/Esther 2|← Esther 2]] | [[Readable Bible/17 - Esther/Esther 4|Esther 4 →]]
+**[[Home/Scripture/17 - Esther|Esther]]**
+
+[[Readable Bible/17 - Esther/Esther 2#Esther-R 2| Esther 2]] - [[Readable Bible/17 - Esther/Esther 4#Esther-R 4| Esther 4]]
 
 ---
 

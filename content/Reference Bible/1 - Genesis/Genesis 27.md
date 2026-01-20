@@ -13,11 +13,11 @@ Testament: Old
 ---
 
 ##### Genesis 27 - 1
-[[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H3301-3400#H3327|Isaac]] [[Lexicon/H1901-2000#H1961|was]] [[Lexicon/H2201-2300#H2204|old]] [[Lexicon/H5801-5900#H5869|and his eyes]] [[Lexicon/H3501-3600#H3543|were so weak]] [[Lexicon/H7101-7200#H7200|that he could no longer see ,]] [[Lexicon/H7101-7200#H7121|he called]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1401-1500#H1419|his older]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H401-500#H413|to him ,]] [[Lexicon/H1101-1200#H1121|“ My son. ”]] [[Lexicon/H2001-2100#H2009|“ Here I am , ”]] [[Lexicon/H501-600#H559|(Esau) replied]] [[Lexicon/H401-500#H413|....]]
+[[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H3301-3400#H3327|Isaac]] [[Lexicon/H1901-2000#H1961|was]] [[Lexicon/H2201-2300#H2204|old]] [[Lexicon/H5801-5900#H5869|and his eyes]] [[Lexicon/H3501-3600#H3543|were so weak]] [[Lexicon/H7101-7200#H7200|that he could no longer see ,]] [[Lexicon/H7101-7200#H7121|he called]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1401-1500#H1419|his older]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H401-500#H413|to him ,]] [[Lexicon/H1101-1200#H1121|“ My son. ”]] [[Lexicon/H2001-2100#H2009|“ Here I am , ”]] [[Lexicon/H501-600#H559|[Esau] replied]] [[Lexicon/H401-500#H413|....]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 1|LXX]] |
 
 ##### Genesis 27 - 2
-[[Lexicon/H2001-2100#H2009|“ Look , ”]] [[Lexicon/H501-600#H559|said (Isaac) ,]] [[Lexicon/H4901-5000#H4994|“ I am now]] [[Lexicon/H2201-2300#H2204|old ,]] [[Lexicon/H3801-3900#H3808|and I do not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H3101-3200#H3117|the day]] [[Lexicon/H4101-4200#H4194|of my death.]]
+[[Lexicon/H2001-2100#H2009|“ Look , ”]] [[Lexicon/H501-600#H559|said [Isaac] ,]] [[Lexicon/H4901-5000#H4994|“ I am now]] [[Lexicon/H2201-2300#H2204|old ,]] [[Lexicon/H3801-3900#H3808|and I do not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H3101-3200#H3117|the day]] [[Lexicon/H4101-4200#H4194|of my death.]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 2|LXX]] |
 
 ##### Genesis 27 - 3
@@ -29,7 +29,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 4|LXX]] |
 
 ##### Genesis 27 - 5
-[[Lexicon/H7201-7300#H7259|Now Rebekah]] [[Lexicon/H8001-8100#H8085|was listening]] [[Lexicon/H3301-3400#H3327|to what Isaac]] [[Lexicon/H1601-1700#H1696|told]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1101-1200#H1121|his son]] [[Lexicon/H6201-6300#H6215|Esau.]] [[Lexicon/H6201-6300#H6215|So when Esau]] [[Lexicon/H1901-2000#H1980|went]] [[Lexicon/H7701-7800#H7704|into the field]] [[Lexicon/H6601-6700#H6679|to hunt]] [[Lexicon/H6701-6800#H6718|game]] [[Lexicon/H901-1000#H935|(and) bring (it back) ,]]
+[[Lexicon/H7201-7300#H7259|Now Rebekah]] [[Lexicon/H8001-8100#H8085|was listening]] [[Lexicon/H3301-3400#H3327|to what Isaac]] [[Lexicon/H1601-1700#H1696|told]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1101-1200#H1121|his son]] [[Lexicon/H6201-6300#H6215|Esau.]] [[Lexicon/H6201-6300#H6215|So when Esau]] [[Lexicon/H1901-2000#H1980|went]] [[Lexicon/H7701-7800#H7704|into the field]] [[Lexicon/H6601-6700#H6679|to hunt]] [[Lexicon/H6701-6800#H6718|game]] [[Lexicon/H901-1000#H935|[and] bring [it back] ,]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 5|LXX]] |
 
 ##### Genesis 27 - 6
@@ -65,7 +65,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 13|LXX]] |
 
 ##### Genesis 27 - 14
-[[Lexicon/H1901-2000#H1980|So (Jacob) went]] [[Lexicon/H3901-4000#H3947|and got (two goats)]] [[Lexicon/H901-1000#H935|and brought them]] [[Lexicon/H501-600#H517|to his mother ,]] [[Lexicon/H501-600#H517|who]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H4301-4400#H4303|the tasty food]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H101-200#H157|loved.]]
+[[Lexicon/H1901-2000#H1980|So [Jacob] went]] [[Lexicon/H3901-4000#H3947|and got [two goats]]] [[Lexicon/H901-1000#H935|and brought them]] [[Lexicon/H501-600#H517|to his mother ,]] [[Lexicon/H501-600#H517|who]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H4301-4400#H4303|the tasty food]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H101-200#H157|loved.]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 14|LXX]] |
 
 ##### Genesis 27 - 15
@@ -81,7 +81,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 17|LXX]] |
 
 ##### Genesis 27 - 18
-[[Lexicon/H901-1000#H935|So (Jacob) went]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H1-100#H1|“ My father. ”]] [[Lexicon/H2001-2100#H2009|“ Here I am ! ”]] [[Lexicon/H501-600#H559|he answered.]] [[Lexicon/H4301-4400#H4310|“ Which one]] [[Lexicon/H801-900#H859|are you ,]] [[Lexicon/H1101-1200#H1121|my son ? ”]]
+[[Lexicon/H901-1000#H935|So [Jacob] went]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H1-100#H1|“ My father. ”]] [[Lexicon/H2001-2100#H2009|“ Here I am ! ”]] [[Lexicon/H501-600#H559|he answered.]] [[Lexicon/H4301-4400#H4310|“ Which one]] [[Lexicon/H801-900#H859|are you ,]] [[Lexicon/H1101-1200#H1121|my son ? ”]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 18|LXX]] |
 
 ##### Genesis 27 - 19
@@ -89,7 +89,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 19|LXX]] |
 
 ##### Genesis 27 - 20
-[[Lexicon/H3301-3400#H3327|But Isaac]] [[Lexicon/H501-600#H559|asked]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1101-1200#H1121|his son ,]] [[Lexicon/H4001-4100#H4100|“ How]] [[Lexicon/H4601-4700#H4672|did you ever find]] [[Lexicon/H2001-2100#H2088|it so]] [[Lexicon/H4101-4200#H4116|quickly ,]] [[Lexicon/H1101-1200#H1121|my son ? ”]] [[Lexicon/H3501-3600#H3588|“ Because]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God]] [[Lexicon/H7101-7200#H7136|brought (it)]] [[Lexicon/H6401-6500#H6440|to me , ”]] [[Lexicon/H501-600#H559|he replied.]]
+[[Lexicon/H3301-3400#H3327|But Isaac]] [[Lexicon/H501-600#H559|asked]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1101-1200#H1121|his son ,]] [[Lexicon/H4001-4100#H4100|“ How]] [[Lexicon/H4601-4700#H4672|did you ever find]] [[Lexicon/H2001-2100#H2088|it so]] [[Lexicon/H4101-4200#H4116|quickly ,]] [[Lexicon/H1101-1200#H1121|my son ? ”]] [[Lexicon/H3501-3600#H3588|“ Because]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God]] [[Lexicon/H7101-7200#H7136|brought [it]]] [[Lexicon/H6401-6500#H6440|to me , ”]] [[Lexicon/H501-600#H559|he replied.]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 20|LXX]] |
 
 ##### Genesis 27 - 21
@@ -101,7 +101,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 22|LXX]] |
 
 ##### Genesis 27 - 23
-[[Lexicon/H3801-3900#H3808|(Isaac) did not]] [[Lexicon/H5201-5300#H5234|recognize him ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3001-3100#H3027|his hands]] [[Lexicon/H1901-2000#H1961|were]] [[Lexicon/H8101-8200#H8163|hairy]] [[Lexicon/H3001-3100#H3027|like those]] [[Lexicon/H201-300#H251|of his brother]] [[Lexicon/H6201-6300#H6215|Esau ;]] [[Lexicon/H1201-1300#H1288|so he blessed him.]]
+[[Lexicon/H3801-3900#H3808|[Isaac] did not]] [[Lexicon/H5201-5300#H5234|recognize him ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3001-3100#H3027|his hands]] [[Lexicon/H1901-2000#H1961|were]] [[Lexicon/H8101-8200#H8163|hairy]] [[Lexicon/H3001-3100#H3027|like those]] [[Lexicon/H201-300#H251|of his brother]] [[Lexicon/H6201-6300#H6215|Esau ;]] [[Lexicon/H1201-1300#H1288|so he blessed him.]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 23|LXX]] |
 
 ##### Genesis 27 - 24
@@ -109,7 +109,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 24|LXX]] |
 
 ##### Genesis 27 - 25
-[[Lexicon/H5001-5100#H5066|“ Serve]] [[Lexicon/H501-600#H559|said (Isaac) ,]] [[Lexicon/H301-400#H398|“ and let me eat]] [[Lexicon/H1101-1200#H1121|some of my son’s]] [[Lexicon/H6701-6800#H6718|game ,]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H5301-5400#H5315|I]] [[Lexicon/H1201-1300#H1288|may bless you. ”]] [[Lexicon/H5001-5100#H5066|Jacob brought it]] [[Lexicon/H301-400#H398|and he ate ;]] [[Lexicon/H901-1000#H935|then he brought]] [[Lexicon/H3101-3200#H3196|wine ,]] [[Lexicon/H8301-8400#H8354|and he drank.]]
+[[Lexicon/H5001-5100#H5066|“ Serve]] [[Lexicon/H501-600#H559|said [Isaac] ,]] [[Lexicon/H301-400#H398|“ and let me eat]] [[Lexicon/H1101-1200#H1121|some of my son’s]] [[Lexicon/H6701-6800#H6718|game ,]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H5301-5400#H5315|I]] [[Lexicon/H1201-1300#H1288|may bless you. ”]] [[Lexicon/H5001-5100#H5066|Jacob brought it]] [[Lexicon/H301-400#H398|and he ate ;]] [[Lexicon/H901-1000#H935|then he brought]] [[Lexicon/H3101-3200#H3196|wine ,]] [[Lexicon/H8301-8400#H8354|and he drank.]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 25|LXX]] |
 
 ##### Genesis 27 - 26
@@ -129,11 +129,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 29|LXX]] |
 
 ##### Genesis 27 - 30
-[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H801-900#H834|As soon as]] [[Lexicon/H3301-3400#H3327|Isaac]] [[Lexicon/H3601-3700#H3615|had finished]] [[Lexicon/H1201-1300#H1288|blessing]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3290|(him)]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H301-400#H389|...]] [[Lexicon/H3201-3300#H3290|and Jacob]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H3301-3400#H3318|had left]] [[Lexicon/H3301-3400#H3318|...]] [[Lexicon/H1-100#H1|his father’s]] [[Lexicon/H6401-6500#H6440|presence]] [[Lexicon/H3301-3400#H3327|... ,]] [[Lexicon/H201-300#H251|his brother]] [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H901-1000#H935|returned]] [[Lexicon/H6701-6800#H6718|from the hunt.]]
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H801-900#H834|As soon as]] [[Lexicon/H3301-3400#H3327|Isaac]] [[Lexicon/H3601-3700#H3615|had finished]] [[Lexicon/H1201-1300#H1288|blessing]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3290|[him]]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H301-400#H389|...]] [[Lexicon/H3201-3300#H3290|and Jacob]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H3301-3400#H3318|had left]] [[Lexicon/H3301-3400#H3318|...]] [[Lexicon/H1-100#H1|his father’s]] [[Lexicon/H6401-6500#H6440|presence]] [[Lexicon/H3301-3400#H3327|... ,]] [[Lexicon/H201-300#H251|his brother]] [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H901-1000#H935|returned]] [[Lexicon/H6701-6800#H6718|from the hunt.]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 30|LXX]] |
 
 ##### Genesis 27 - 31
-[[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H1501-1600#H1571|too]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H4301-4400#H4303|some tasty food ,]] [[Lexicon/H901-1000#H935|brought]] [[Lexicon/H1-100#H1|it to his father ,]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H1-100#H1|to (him) ,]] [[Lexicon/H1-100#H1|“ My father ,]] [[Lexicon/H6901-7000#H6965|sit up]] [[Lexicon/H301-400#H398|and eat]] [[Lexicon/H1101-1200#H1121|of your son’s]] [[Lexicon/H6701-6800#H6718|game ,]] [[Lexicon/H5601-5700#H5668|so that]] [[Lexicon/H5301-5400#H5315|you]] [[Lexicon/H1201-1300#H1288|may bless me. ”]]
+[[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H1501-1600#H1571|too]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H4301-4400#H4303|some tasty food ,]] [[Lexicon/H901-1000#H935|brought]] [[Lexicon/H1-100#H1|it to his father ,]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H1-100#H1|to [him] ,]] [[Lexicon/H1-100#H1|“ My father ,]] [[Lexicon/H6901-7000#H6965|sit up]] [[Lexicon/H301-400#H398|and eat]] [[Lexicon/H1101-1200#H1121|of your son’s]] [[Lexicon/H6701-6800#H6718|game ,]] [[Lexicon/H5601-5700#H5668|so that]] [[Lexicon/H5301-5400#H5315|you]] [[Lexicon/H1201-1300#H1288|may bless me. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 31|LXX]] |
 
 ##### Genesis 27 - 32
@@ -149,11 +149,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 34|LXX]] |
 
 ##### Genesis 27 - 35
-[[Lexicon/H501-600#H559|But (Isaac) replied ,]] [[Lexicon/H201-300#H251|“ Your brother]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H4801-4900#H4820|deceitfully]] [[Lexicon/H3901-4000#H3947|and took]] [[Lexicon/H1201-1300#H1293|your blessing. ”]]
+[[Lexicon/H501-600#H559|But [Isaac] replied ,]] [[Lexicon/H201-300#H251|“ Your brother]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H4801-4900#H4820|deceitfully]] [[Lexicon/H3901-4000#H3947|and took]] [[Lexicon/H1201-1300#H1293|your blessing. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 35|LXX]] |
 
 ##### Genesis 27 - 36
-[[Lexicon/H501-600#H559|So (Esau) declared ,]] [[Lexicon/H3501-3600#H3588|“ Is he not rightly]] [[Lexicon/H7101-7200#H7121|named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H3201-3300#H3290|Jacob ?]] [[Lexicon/H6101-6200#H6117|For he has cheated me]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H6401-6500#H6471|twice]] [[Lexicon/H801-900#H853|-.]] [[Lexicon/H3901-4000#H3947|He took]] [[Lexicon/H1001-1100#H1062|my birthright ,]] [[Lexicon/H2001-2100#H2009|and]] [[Lexicon/H6201-6300#H6258|now]] [[Lexicon/H3901-4000#H3947|he has taken]] [[Lexicon/H1201-1300#H1293|my blessing. ”]] [[Lexicon/H501-600#H559|Then he asked ,]] [[Lexicon/H3801-3900#H3808|“ Haven’t]] [[Lexicon/H601-700#H680|you saved]] [[Lexicon/H1201-1300#H1293|a blessing]]
+[[Lexicon/H501-600#H559|So [Esau] declared ,]] [[Lexicon/H3501-3600#H3588|“ Is he not rightly]] [[Lexicon/H7101-7200#H7121|named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H3201-3300#H3290|Jacob ?]] [[Lexicon/H6101-6200#H6117|For he has cheated me]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H6401-6500#H6471|twice]] [[Lexicon/H801-900#H853|-.]] [[Lexicon/H3901-4000#H3947|He took]] [[Lexicon/H1001-1100#H1062|my birthright ,]] [[Lexicon/H2001-2100#H2009|and]] [[Lexicon/H6201-6300#H6258|now]] [[Lexicon/H3901-4000#H3947|he has taken]] [[Lexicon/H1201-1300#H1293|my blessing. ”]] [[Lexicon/H501-600#H559|Then he asked ,]] [[Lexicon/H3801-3900#H3808|“ Haven’t]] [[Lexicon/H601-700#H680|you saved]] [[Lexicon/H1201-1300#H1293|a blessing]]
 | [[LXX Reference/1 - Genesis/Genesis 27#Genesis 27 - 36|LXX]] |
 
 ##### Genesis 27 - 37

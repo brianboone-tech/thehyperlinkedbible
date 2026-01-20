@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/54 - 1 Timothy|← 1 Timothy]]**
+**[[Home/Scripture/54 - 1 Timothy|← 1 Timothy]]**
 
 ---
 

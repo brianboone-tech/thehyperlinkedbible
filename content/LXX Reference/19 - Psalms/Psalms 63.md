@@ -24,7 +24,7 @@ Testament: Old
 [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G2101-2200#G2127|will I bless]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2222|my life;]] [[Lexicon/G1701-1800#G1722|in]]
 
 #### Psalms 63 - 5
-[[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G4701-4800#G4720|fat]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4001-4100#G4096|fatness]] [[Lexicon/G1701-1800#G1705|may be filled]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0020|of exultation]] [[Lexicon/G101-200#G0134|shall praise]]
+[[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G4701-4800#G4720|fat]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4001-4100#G4096|fatness]] [[Lexicon/G1701-1800#G1705|may be filled]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0020|of exultation]] [[Lexicon/G101-200#G0134|shall praise]]
 
 #### Psalms 63 - 6
 [[Lexicon/G1401-1500#G1487|Forasmuch as]] [[Lexicon/G3401-3500#G3421|I remembered]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G4701-4800#G4765|my strewn bed;]] [[Lexicon/G1701-1800#G1722|at]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3722|dawns]] [[Lexicon/G3101-3200#G3191|I meditated]] [[Lexicon/G1501-1600#G1519|on]] [[Lexicon/G1401-1500#G1473|you.]]

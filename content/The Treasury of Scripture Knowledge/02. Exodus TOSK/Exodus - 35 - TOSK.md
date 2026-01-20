@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 35 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 34 - TOSK|← Ch 34]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 36 - TOSK|Ch 36 →]]
+**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 34 - TOSK|← Ch 34]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 36 - TOSK|Ch 36 →]]
 
 ---
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Job 36
+# Job-R 36
 
-[[Readable Bible/18 - Job/Job 35|← Job 35]] | [[Readable Bible/18 - Job/Job 37|Job 37 →]]
+**[[Home/Scripture/18 - Job|Job]]**
+
+[[Readable Bible/18 - Job/Job 35#Job-R 35| Job 35]] - [[Readable Bible/18 - Job/Job 37#Job-R 37| Job 37]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: John 5 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/43 - John|← John]]** | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 4 - TOSK|← Ch 4]] | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 6 - TOSK|Ch 6 →]]
+**[[Home/Scripture/43 - John|← John]]** | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 4 - TOSK|← Ch 4]] | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 6 - TOSK|Ch 6 →]]
 
 ---
 

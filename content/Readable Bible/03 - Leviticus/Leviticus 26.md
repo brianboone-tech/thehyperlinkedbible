@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus 26
+# Leviticus-R 26
 
-[[Readable Bible/03 - Leviticus/Leviticus 25|← Leviticus 25]] | [[Readable Bible/03 - Leviticus/Leviticus 27|Leviticus 27 →]]
+**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+
+[[Readable Bible/03 - Leviticus/Leviticus 25#Leviticus-R 25| Leviticus 25]] - [[Readable Bible/03 - Leviticus/Leviticus 27#Leviticus-R 27| Leviticus 27]]
 
 ---
 

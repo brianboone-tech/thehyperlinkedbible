@@ -17,7 +17,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 1|LXX]] |
 
 ##### Genesis 37 - 2
-[[Lexicon/H401-500#H428|This]] [[Lexicon/H8401-8500#H8435|is the account]] [[Lexicon/H3201-3300#H3290|of Jacob.]] [[Lexicon/H3101-3200#H3130|When Joseph]] [[Lexicon/H7601-7700#H7651|(was) seventeen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H8101-8200#H8141|years]] [[Lexicon/H1101-1200#H1121|old ,]] [[Lexicon/H1901-2000#H1961|he was]] [[Lexicon/H7401-7500#H7462|tending]] [[Lexicon/H6601-6700#H6629|the flock]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H201-300#H251|his brothers ,]] [[Lexicon/H5201-5300#H5288|-]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H1-100#H1|of his father’s]] [[Lexicon/H801-900#H802|wives]] [[Lexicon/H1001-1100#H1090|Bilhah]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H2101-2200#H2153|and Zilpah ,]] [[Lexicon/H3101-3200#H3130|and he]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H935|brought]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H7401-7500#H7451|a bad]] [[Lexicon/H1601-1700#H1681|report]] [[Lexicon/H401-500#H413|about them.]]
+[[Lexicon/H401-500#H428|This]] [[Lexicon/H8401-8500#H8435|is the account]] [[Lexicon/H3201-3300#H3290|of Jacob.]] [[Lexicon/H3101-3200#H3130|When Joseph]] [[Lexicon/H7601-7700#H7651|[was] seventeen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H8101-8200#H8141|years]] [[Lexicon/H1101-1200#H1121|old ,]] [[Lexicon/H1901-2000#H1961|he was]] [[Lexicon/H7401-7500#H7462|tending]] [[Lexicon/H6601-6700#H6629|the flock]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H201-300#H251|his brothers ,]] [[Lexicon/H5201-5300#H5288|-]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H1-100#H1|of his father’s]] [[Lexicon/H801-900#H802|wives]] [[Lexicon/H1001-1100#H1090|Bilhah]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H2101-2200#H2153|and Zilpah ,]] [[Lexicon/H3101-3200#H3130|and he]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H935|brought]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H7401-7500#H7451|a bad]] [[Lexicon/H1601-1700#H1681|report]] [[Lexicon/H401-500#H413|about them.]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 2|LXX]] |
 
 ##### Genesis 37 - 3
@@ -25,7 +25,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 3|LXX]] |
 
 ##### Genesis 37 - 4
-[[Lexicon/H201-300#H251|When (Joseph’s) brothers]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H101-200#H157|loved]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H3601-3700#H3605|more than any]] [[Lexicon/H201-300#H251|(of them) ,]] [[Lexicon/H8101-8200#H8130|they hated]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H3201-3300#H3201|and could]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H1601-1700#H1696|speak]] [[Lexicon/H7901-8000#H7965|a kind word to him.]]
+[[Lexicon/H201-300#H251|When [Joseph’s] brothers]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H101-200#H157|loved]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H3601-3700#H3605|more than any]] [[Lexicon/H201-300#H251|[of them] ,]] [[Lexicon/H8101-8200#H8130|they hated]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H3201-3300#H3201|and could]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H1601-1700#H1696|speak]] [[Lexicon/H7901-8000#H7965|a kind word to him.]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 4|LXX]] |
 
 ##### Genesis 37 - 5
@@ -37,7 +37,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 6|LXX]] |
 
 ##### Genesis 37 - 7
-[[Lexicon/H2001-2100#H2009|-]] [[Lexicon/H501-600#H587|We]] [[Lexicon/H401-500#H481|were binding]] [[Lexicon/H401-500#H485|sheaves of grain]] [[Lexicon/H8401-8500#H8432|in]] [[Lexicon/H7701-7800#H7704|the field ,]] [[Lexicon/H2001-2100#H2009|and suddenly]] [[Lexicon/H401-500#H485|my sheaf]] [[Lexicon/H6901-7000#H6965|rose]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H5301-5400#H5324|stood upright]] [[Lexicon/H2001-2100#H2009|... ,]] [[Lexicon/H401-500#H485|while your sheaves]] [[Lexicon/H5401-5500#H5437|gathered around]] [[Lexicon/H7801-7900#H7812|and bowed down]] [[Lexicon/H401-500#H485|to (mine). ”]]
+[[Lexicon/H2001-2100#H2009|-]] [[Lexicon/H501-600#H587|We]] [[Lexicon/H401-500#H481|were binding]] [[Lexicon/H401-500#H485|sheaves of grain]] [[Lexicon/H8401-8500#H8432|in]] [[Lexicon/H7701-7800#H7704|the field ,]] [[Lexicon/H2001-2100#H2009|and suddenly]] [[Lexicon/H401-500#H485|my sheaf]] [[Lexicon/H6901-7000#H6965|rose]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H5301-5400#H5324|stood upright]] [[Lexicon/H2001-2100#H2009|... ,]] [[Lexicon/H401-500#H485|while your sheaves]] [[Lexicon/H5401-5500#H5437|gathered around]] [[Lexicon/H7801-7900#H7812|and bowed down]] [[Lexicon/H401-500#H485|to [mine]. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 7|LXX]] |
 
 ##### Genesis 37 - 8
@@ -45,7 +45,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 8|LXX]] |
 
 ##### Genesis 37 - 9
-[[Lexicon/H5701-5800#H5750|Then (Joseph) had another]] [[Lexicon/H301-400#H312|...]] [[Lexicon/H2401-2500#H2492|dream]] [[Lexicon/H2401-2500#H2472|...]] [[Lexicon/H5601-5700#H5608|and told]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H251|it to his brothers.]] [[Lexicon/H2001-2100#H2009|“ Look , ”]] [[Lexicon/H501-600#H559|he said ,]] [[Lexicon/H5701-5800#H5750|“ I had another]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H2401-2500#H2492|dream]] [[Lexicon/H2401-2500#H2472|... ,]] [[Lexicon/H8101-8200#H8121|and this time the sun]] [[Lexicon/H3301-3400#H3394|and moon]] [[Lexicon/H201-300#H259|and eleven]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3556|stars]] [[Lexicon/H7801-7900#H7812|were bowing down]]
+[[Lexicon/H5701-5800#H5750|Then [Joseph] had another]] [[Lexicon/H301-400#H312|...]] [[Lexicon/H2401-2500#H2492|dream]] [[Lexicon/H2401-2500#H2472|...]] [[Lexicon/H5601-5700#H5608|and told]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H251|it to his brothers.]] [[Lexicon/H2001-2100#H2009|“ Look , ”]] [[Lexicon/H501-600#H559|he said ,]] [[Lexicon/H5701-5800#H5750|“ I had another]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H2401-2500#H2492|dream]] [[Lexicon/H2401-2500#H2472|... ,]] [[Lexicon/H8101-8200#H8121|and this time the sun]] [[Lexicon/H3301-3400#H3394|and moon]] [[Lexicon/H201-300#H259|and eleven]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3556|stars]] [[Lexicon/H7801-7900#H7812|were bowing down]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 9|LXX]] |
 
 ##### Genesis 37 - 10
@@ -57,15 +57,15 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 11|LXX]] |
 
 ##### Genesis 37 - 12
-[[Lexicon/H201-300#H251|Some time later, (Joseph’s) brothers]] [[Lexicon/H1901-2000#H1980|had gone]] [[Lexicon/H7401-7500#H7462|to pasture]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H1|their father’s]] [[Lexicon/H6601-6700#H6629|flocks]] [[Lexicon/H7901-8000#H7927|near Shechem.]]
+[[Lexicon/H201-300#H251|Some time later, [Joseph’s] brothers]] [[Lexicon/H1901-2000#H1980|had gone]] [[Lexicon/H7401-7500#H7462|to pasture]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H1|their father’s]] [[Lexicon/H6601-6700#H6629|flocks]] [[Lexicon/H7901-8000#H7927|near Shechem.]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 12|LXX]] |
 
 ##### Genesis 37 - 13
-[[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3101-3200#H3130|(him) ,]] [[Lexicon/H3801-3900#H3808|“ Are not]] [[Lexicon/H201-300#H251|your brothers]] [[Lexicon/H7401-7500#H7462|pasturing]] [[Lexicon/H7901-8000#H7927|the flocks at Shechem ?]] [[Lexicon/H1901-2000#H1980|Get ready ;]] [[Lexicon/H7901-8000#H7971|I am sending]] [[Lexicon/H401-500#H413|you to them. ”]] [[Lexicon/H2001-2100#H2009|“ I am ready , ”]] [[Lexicon/H501-600#H559|Joseph replied]]
+[[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3101-3200#H3130|[him] ,]] [[Lexicon/H3801-3900#H3808|“ Are not]] [[Lexicon/H201-300#H251|your brothers]] [[Lexicon/H7401-7500#H7462|pasturing]] [[Lexicon/H7901-8000#H7927|the flocks at Shechem ?]] [[Lexicon/H1901-2000#H1980|Get ready ;]] [[Lexicon/H7901-8000#H7971|I am sending]] [[Lexicon/H401-500#H413|you to them. ”]] [[Lexicon/H2001-2100#H2009|“ I am ready , ”]] [[Lexicon/H501-600#H559|Joseph replied]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 13|LXX]] |
 
 ##### Genesis 37 - 14
-[[Lexicon/H501-600#H559|Then (Israel) told]] [[Lexicon/H1901-2000#H1980|“ Go]] [[Lexicon/H4901-5000#H4994|now]] [[Lexicon/H7101-7200#H7200|and see]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7965|-]] [[Lexicon/H201-300#H251|how your brothers]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6629|and the flocks]] [[Lexicon/H7901-8000#H7965|are faring ,]] [[Lexicon/H1601-1700#H1697|and bring word]] [[Lexicon/H7701-7800#H7725|back to me. ”]] [[Lexicon/H7901-8000#H7971|So he sent him off]] [[Lexicon/H6001-6100#H6010|from the Valley]] [[Lexicon/H2201-2300#H2275|of Hebron.]] [[Lexicon/H901-1000#H935|And when (Joseph) arrived]] [[Lexicon/H7901-8000#H7927|in Shechem ,]]
+[[Lexicon/H501-600#H559|Then [Israel] told]] [[Lexicon/H1901-2000#H1980|“ Go]] [[Lexicon/H4901-5000#H4994|now]] [[Lexicon/H7101-7200#H7200|and see]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7965|-]] [[Lexicon/H201-300#H251|how your brothers]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6629|and the flocks]] [[Lexicon/H7901-8000#H7965|are faring ,]] [[Lexicon/H1601-1700#H1697|and bring word]] [[Lexicon/H7701-7800#H7725|back to me. ”]] [[Lexicon/H7901-8000#H7971|So he sent him off]] [[Lexicon/H6001-6100#H6010|from the Valley]] [[Lexicon/H2201-2300#H2275|of Hebron.]] [[Lexicon/H901-1000#H935|And when [Joseph] arrived]] [[Lexicon/H7901-8000#H7927|in Shechem ,]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 14|LXX]] |
 
 ##### Genesis 37 - 15
@@ -81,7 +81,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 17|LXX]] |
 
 ##### Genesis 37 - 18
-[[Lexicon/H7101-7200#H7200|Now (Joseph’s brothers) saw]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H7301-7400#H7350|in the distance ,]] [[Lexicon/H2901-3000#H2962|and before]] [[Lexicon/H7101-7200#H7126|he arrived ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5201-5300#H5230|they plotted]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4101-4200#H4191|to kill him.]]
+[[Lexicon/H7101-7200#H7200|Now [Joseph’s brothers] saw]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H7301-7400#H7350|in the distance ,]] [[Lexicon/H2901-3000#H2962|and before]] [[Lexicon/H7101-7200#H7126|he arrived ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5201-5300#H5230|they plotted]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4101-4200#H4191|to kill him.]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 18|LXX]] |
 
 ##### Genesis 37 - 19
@@ -93,15 +93,15 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 20|LXX]] |
 
 ##### Genesis 37 - 21
-[[Lexicon/H7201-7300#H7205|When Reuben]] [[Lexicon/H8001-8100#H8085|heard (this) ,]] [[Lexicon/H5301-5400#H5337|he tried to rescue (Joseph)]] [[Lexicon/H3001-3100#H3027|from their hands.]] [[Lexicon/H3801-3900#H3808|“ Let us not]] [[Lexicon/H5201-5300#H5221|take]] [[Lexicon/H5301-5400#H5315|his life , ”]] [[Lexicon/H501-600#H559|he said.]]
+[[Lexicon/H7201-7300#H7205|When Reuben]] [[Lexicon/H8001-8100#H8085|heard [this] ,]] [[Lexicon/H5301-5400#H5337|he tried to rescue [Joseph]]] [[Lexicon/H3001-3100#H3027|from their hands.]] [[Lexicon/H3801-3900#H3808|“ Let us not]] [[Lexicon/H5201-5300#H5221|take]] [[Lexicon/H5301-5400#H5315|his life , ”]] [[Lexicon/H501-600#H559|he said.]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 21|LXX]] |
 
 ##### Genesis 37 - 22
-[[Lexicon/H8201-8300#H8210|“ Do not shed]] [[Lexicon/H1801-1900#H1818|(his) blood.]] [[Lexicon/H7901-8000#H7993|Throw]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H901-1000#H953|pit]] [[Lexicon/H4001-4100#H4057|in the wilderness ,]] [[Lexicon/H401-500#H408|but do not]] [[Lexicon/H7901-8000#H7971|lay]] [[Lexicon/H3001-3100#H3027|a hand]] [[Lexicon/H7201-7300#H7205|Reuben]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H501-600#H559|said this]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H5301-5400#H5337|he could rescue]] [[Lexicon/H801-900#H853|(Joseph)]] [[Lexicon/H3001-3100#H3027|from their hands]] [[Lexicon/H7701-7800#H7725|and return him]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|his father.]]
+[[Lexicon/H8201-8300#H8210|“ Do not shed]] [[Lexicon/H1801-1900#H1818|[his] blood.]] [[Lexicon/H7901-8000#H7993|Throw]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H901-1000#H953|pit]] [[Lexicon/H4001-4100#H4057|in the wilderness ,]] [[Lexicon/H401-500#H408|but do not]] [[Lexicon/H7901-8000#H7971|lay]] [[Lexicon/H3001-3100#H3027|a hand]] [[Lexicon/H7201-7300#H7205|Reuben]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H501-600#H559|said this]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H5301-5400#H5337|he could rescue]] [[Lexicon/H801-900#H853|[Joseph]]] [[Lexicon/H3001-3100#H3027|from their hands]] [[Lexicon/H7701-7800#H7725|and return him]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|his father.]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 22|LXX]] |
 
 ##### Genesis 37 - 23
-[[Lexicon/H1901-2000#H1961|So]] [[Lexicon/H801-900#H834|when]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H201-300#H251|his brothers ,]] [[Lexicon/H6501-6600#H6584|they stripped]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3130|(him)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3801|of his robe —]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3801|the robe]] [[Lexicon/H6401-6500#H6446|of many colors]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5921|he was wearing —]]
+[[Lexicon/H1901-2000#H1961|So]] [[Lexicon/H801-900#H834|when]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H201-300#H251|his brothers ,]] [[Lexicon/H6501-6600#H6584|they stripped]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3130|[him]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3801|of his robe —]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3801|the robe]] [[Lexicon/H6401-6500#H6446|of many colors]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5921|he was wearing —]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 23|LXX]] |
 
 ##### Genesis 37 - 24
@@ -121,7 +121,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 27|LXX]] |
 
 ##### Genesis 37 - 28
-[[Lexicon/H4001-4100#H4084|So when the Midianite]] [[Lexicon/H5501-5600#H5503|traders]] [[Lexicon/H5601-5700#H5674|passed by ,]] [[Lexicon/H501-600#H582|...]] [[Lexicon/H4801-4900#H4900|his brothers pulled]] [[Lexicon/H5901-6000#H5927|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H4401-4500#H4480|out of]] [[Lexicon/H901-1000#H953|the pit]] [[Lexicon/H4301-4400#H4376|and sold]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3130|him]] [[Lexicon/H6201-6300#H6242|for twenty (shekels)]] [[Lexicon/H3701-3800#H3701|of silver]] [[Lexicon/H3401-3500#H3459|to the Ishmaelites ,]] [[Lexicon/H901-1000#H935|who took]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3130|(him)]] [[Lexicon/H4701-4800#H4714|to Egypt.]]
+[[Lexicon/H4001-4100#H4084|So when the Midianite]] [[Lexicon/H5501-5600#H5503|traders]] [[Lexicon/H5601-5700#H5674|passed by ,]] [[Lexicon/H501-600#H582|...]] [[Lexicon/H4801-4900#H4900|his brothers pulled]] [[Lexicon/H5901-6000#H5927|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H4401-4500#H4480|out of]] [[Lexicon/H901-1000#H953|the pit]] [[Lexicon/H4301-4400#H4376|and sold]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3130|him]] [[Lexicon/H6201-6300#H6242|for twenty [shekels]]] [[Lexicon/H3701-3800#H3701|of silver]] [[Lexicon/H3401-3500#H3459|to the Ishmaelites ,]] [[Lexicon/H901-1000#H935|who took]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3130|[him]]] [[Lexicon/H4701-4800#H4714|to Egypt.]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 28|LXX]] |
 
 ##### Genesis 37 - 29
@@ -137,7 +137,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 31|LXX]] |
 
 ##### Genesis 37 - 32
-[[Lexicon/H7901-8000#H7971|They sent]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3801|the robe]] [[Lexicon/H6401-6500#H6446|of many colors]] [[Lexicon/H901-1000#H935|...]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H4601-4700#H4672|“ We found]] [[Lexicon/H2001-2100#H2063|this.]] [[Lexicon/H5201-5300#H5234|Examine it]] [[Lexicon/H4901-5000#H4994|to see whether]] [[Lexicon/H1901-2000#H1931|it (is)]] [[Lexicon/H1101-1200#H1121|your son’s]] [[Lexicon/H3801-3900#H3801|robe]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H3801-3900#H3808|not. ”]]
+[[Lexicon/H7901-8000#H7971|They sent]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3801|the robe]] [[Lexicon/H6401-6500#H6446|of many colors]] [[Lexicon/H901-1000#H935|...]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H4601-4700#H4672|“ We found]] [[Lexicon/H2001-2100#H2063|this.]] [[Lexicon/H5201-5300#H5234|Examine it]] [[Lexicon/H4901-5000#H4994|to see whether]] [[Lexicon/H1901-2000#H1931|it [is]]] [[Lexicon/H1101-1200#H1121|your son’s]] [[Lexicon/H3801-3900#H3801|robe]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H3801-3900#H3808|not. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 32|LXX]] |
 
 ##### Genesis 37 - 33
@@ -153,5 +153,5 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 35|LXX]] |
 
 ##### Genesis 37 - 36
-[[Lexicon/H4001-4100#H4092|Meanwhile, the Midianites]] [[Lexicon/H4301-4400#H4376|sold]] [[Lexicon/H801-900#H853|(Joseph)]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H4701-4800#H4714|Egypt]] [[Lexicon/H6301-6400#H6318|to Potiphar ,]] [[Lexicon/H5601-5700#H5631|an officer]] [[Lexicon/H6501-6600#H6547|of Pharaoh]] [[Lexicon/H8201-8300#H8269|(and) captain]] [[Lexicon/H2801-2900#H2876|of the guard.]]
+[[Lexicon/H4001-4100#H4092|Meanwhile, the Midianites]] [[Lexicon/H4301-4400#H4376|sold]] [[Lexicon/H801-900#H853|[Joseph]]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H4701-4800#H4714|Egypt]] [[Lexicon/H6301-6400#H6318|to Potiphar ,]] [[Lexicon/H5601-5700#H5631|an officer]] [[Lexicon/H6501-6600#H6547|of Pharaoh]] [[Lexicon/H8201-8300#H8269|[and] captain]] [[Lexicon/H2801-2900#H2876|of the guard.]]
 | [[LXX Reference/1 - Genesis/Genesis 37#Genesis 37 - 36|LXX]] |

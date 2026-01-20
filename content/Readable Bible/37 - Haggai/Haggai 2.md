@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Haggai 2
+# Haggai-R 2
 
-[[Readable Bible/37 - Haggai/Haggai 1|← Haggai 1]]
+**[[Home/Scripture/37 - Haggai|Haggai]]**
+
+[[Readable Bible/37 - Haggai/Haggai 1#Haggai-R 1| Haggai 1]]
 
 ---
 

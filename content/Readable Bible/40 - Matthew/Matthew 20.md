@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew 20
+# Matthew-R 20
 
-[[Readable Bible/40 - Matthew/Matthew 19|← Matthew 19]] | [[Readable Bible/40 - Matthew/Matthew 21|Matthew 21 →]]
+**[[Home/Scripture/40 - Matthew|Matthew]]**
+
+[[Readable Bible/40 - Matthew/Matthew 19#Matthew-R 19| Matthew 19]] - [[Readable Bible/40 - Matthew/Matthew 21#Matthew-R 21| Matthew 21]]
 
 ---
 

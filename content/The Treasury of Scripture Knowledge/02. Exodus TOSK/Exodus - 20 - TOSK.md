@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 20 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 21 - TOSK|Ch 21 →]]
+**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 21 - TOSK|Ch 21 →]]
 
 ---
 

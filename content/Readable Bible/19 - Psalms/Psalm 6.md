@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 6
+# Psalm-R 6
 
-[[Readable Bible/19 - Psalms/Psalm 5|← Psalm 5]] | [[Readable Bible/19 - Psalms/Psalm 7|Psalm 7 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 5#Psalm-R 5| Psalm 5]] - [[Readable Bible/19 - Psalms/Psalm 7#Psalm-R 7| Psalm 7]]
 
 ---
 

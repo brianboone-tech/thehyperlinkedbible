@@ -30,7 +30,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 64#Psalm 64 - 5|LXX]] |
 
 ##### Psalm 64 - 6
-[[Lexicon/H2601-2700#H2664|They devise]] [[Lexicon/H5701-5800#H5766|injustice (and say) ,]] [[Lexicon/H8501-8600#H8552|“ We have perfected]] [[Lexicon/H2601-2700#H2665|a secret]] [[Lexicon/H2601-2700#H2664|plan. ”]] [[Lexicon/H7101-7200#H7130|For the inner]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H3801-3900#H3820|and the heart]] [[Lexicon/H6001-6100#H6013|are mysterious.]]
+[[Lexicon/H2601-2700#H2664|They devise]] [[Lexicon/H5701-5800#H5766|injustice [and say] ,]] [[Lexicon/H8501-8600#H8552|“ We have perfected]] [[Lexicon/H2601-2700#H2665|a secret]] [[Lexicon/H2601-2700#H2664|plan. ”]] [[Lexicon/H7101-7200#H7130|For the inner]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H3801-3900#H3820|and the heart]] [[Lexicon/H6001-6100#H6013|are mysterious.]]
 | [[LXX Reference/19 - Psalms/Psalms 64#Psalm 64 - 6|LXX]] |
 
 ##### Psalm 64 - 7

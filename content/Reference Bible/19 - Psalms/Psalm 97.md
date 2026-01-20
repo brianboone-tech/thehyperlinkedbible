@@ -34,7 +34,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 97#Psalm 97 - 6|LXX]] |
 
 ##### Psalm 97 - 7
-[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H5601-5700#H5647|worshipers]] [[Lexicon/H6401-6500#H6459|of images]] [[Lexicon/H901-1000#H954|are put to shame —]] [[Lexicon/H1901-2000#H1984|those who boast]] [[Lexicon/H401-500#H457|in idols.]] [[Lexicon/H7801-7900#H7812|Worship]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H430|(you) gods !]]
+[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H5601-5700#H5647|worshipers]] [[Lexicon/H6401-6500#H6459|of images]] [[Lexicon/H901-1000#H954|are put to shame —]] [[Lexicon/H1901-2000#H1984|those who boast]] [[Lexicon/H401-500#H457|in idols.]] [[Lexicon/H7801-7900#H7812|Worship]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H430|[you] gods !]]
 | [[LXX Reference/19 - Psalms/Psalms 97#Psalm 97 - 7|LXX]] |
 
 ##### Psalm 97 - 8

@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Nehemiah 1
+# Nehemiah-R 1
 
-[[Readable Bible/15 - Ezra/Ezra 10|← Ezra 10]] | [[Readable Bible/16 - Nehemiah/Nehemiah 2|Nehemiah 2 →]]
+**[[Home/Scripture/16 - Nehemiah|Nehemiah]]**
+
+[[Readable Bible/15 - Ezra/Ezra 10#Ezra-R 10|Ezra 10]] • [[Readable Bible/16 - Nehemiah/Nehemiah 2#Nehemiah-R 2|Nehemiah 2]]
 
 ---
 
 ##### Nehemiah 1 . 1
-[[Reference Bible/16 - Nehemiah/Nehemiah 1#Nehemiah 1 - 1|1]] These are the words of Nehemiah son of Hacaliah: In the month of Chislev, in the twentieth year, while I was in the citadel of Susa,  | | [[Chiasm/Chiasm - 16 - Nehemiah 1 . 1 - 2 . 10|C¹]] | [[Chiasm/Chiasm - 16 - Nehemiah 1 . 1 - 2 . 5|C²]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 1 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/16 - Nehemiah/Nehemiah 1#Nehemiah 1 - 1|1]] These are the words of Nehemiah son of Hacaliah: In the month of Chislev, in the twentieth year, while I was in the citadel of Susa,   || [[Chiasm/Chiasm - 16 - Nehemiah 1 . 1 - 2 . 10|C¹]] | [[Chiasm/Chiasm - 16 - Nehemiah 1 . 1 - 2 . 5|C²]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 1 - TOSK#Verse 1|TOSK]] |
 
 ##### Nehemiah 1 . 2
 [[Reference Bible/16 - Nehemiah/Nehemiah 1#Nehemiah 1 - 2|2]] Hanani, one of my brothers, arrived with men from Judah. So I questioned them about the remnant of the Jews who had survived the exile, and also about Jerusalem.  | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 1 - TOSK#Verse 2|TOSK]] |

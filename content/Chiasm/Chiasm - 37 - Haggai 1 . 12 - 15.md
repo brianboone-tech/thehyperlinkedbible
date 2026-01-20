@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/37 - Haggai|← Haggai]]**
+**[[Home/Scripture/37 - Haggai|← Haggai]]**
 
 ---
 

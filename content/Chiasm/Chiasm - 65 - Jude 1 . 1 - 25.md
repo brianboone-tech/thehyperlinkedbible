@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/65 - Jude|← Jude]]**
+**[[Home/Scripture/65 - Jude|← Jude]]**
 
 ---
 

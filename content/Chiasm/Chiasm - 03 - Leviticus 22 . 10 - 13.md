@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]**
+**[[Home/Scripture/03 - Leviticus|← Leviticus]]**
 
 ---
 

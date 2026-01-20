@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 5
+# Isaiah-R 5
 
-[[Readable Bible/23 - Isaiah/Isaiah 4|← Isaiah 4]] | [[Readable Bible/23 - Isaiah/Isaiah 6|Isaiah 6 →]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 4#Isaiah-R 4| Isaiah 4]] - [[Readable Bible/23 - Isaiah/Isaiah 6#Isaiah-R 6| Isaiah 6]]
 
 ---
 

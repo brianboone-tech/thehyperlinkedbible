@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 139
+# Psalm-R 139
 
-[[Readable Bible/19 - Psalms/Psalm 138|← Psalm 138]] | [[Readable Bible/19 - Psalms/Psalm 140|Psalm 140 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 138#Psalm-R 138| Psalm 138]] - [[Readable Bible/19 - Psalms/Psalm 140#Psalm-R 140| Psalm 140]]
 
 ---
 

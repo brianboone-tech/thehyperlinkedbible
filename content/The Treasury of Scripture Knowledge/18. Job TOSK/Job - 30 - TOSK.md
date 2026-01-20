@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Job 30 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 29 - TOSK|← Ch 29]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 31 - TOSK|Ch 31 →]]
+**[[Home/Scripture/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 29 - TOSK|← Ch 29]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 31 - TOSK|Ch 31 →]]
 
 ---
 

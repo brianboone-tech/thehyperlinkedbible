@@ -11,8 +11,3 @@
 
 ---
 
-## Related Trajectory Tables
-
-- [[182 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]] - The risen Christ leads praise after passing through lament
-- [[181 - The Singing Sufferer (Christ the Choir Master)|The Singing Sufferer (Christ the Choir Master)]] - Christ declares and sings in the congregation
-

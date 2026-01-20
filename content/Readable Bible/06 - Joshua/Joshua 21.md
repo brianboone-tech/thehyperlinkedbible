@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Joshua 21
+# Joshua-R 21
 
-[[Readable Bible/06 - Joshua/Joshua 20|← Joshua 20]] | [[Readable Bible/06 - Joshua/Joshua 22|Joshua 22 →]]
+**[[Home/Scripture/06 - Joshua|Joshua]]**
+
+[[Readable Bible/06 - Joshua/Joshua 20#Joshua-R 20| Joshua 20]] - [[Readable Bible/06 - Joshua/Joshua 22#Joshua-R 22| Joshua 22]]
 
 ---
 
@@ -144,4 +146,4 @@ cssClasses: lexicon
 [[Reference Bible/6 - Joshua/Joshua 21#Joshua 21 - 44|44]] And the LORD gave them rest on every side, just as He had sworn to their fathers. None of their enemies could stand against them, for the LORD delivered all their enemies into their hand.  | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 21 - TOSK#Verse 44|TOSK]] |
 
 ##### Joshua 21 . 45
-[[Reference Bible/6 - Joshua/Joshua 21#Joshua 21 - 45|45]] Not one of all the LORD’s good promises to the house of Israel had failed; everything was fulfilled.  | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 21 - TOSK#Verse 45|TOSK]] |
+[[Reference Bible/6 - Joshua/Joshua 21#Joshua 21 - 45|45]] Not one of all the LORD’s good promises to the house of Israel had failed; everything was fulfilled.  | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 21 - TOSK#Verse 45|TOSK]] | 

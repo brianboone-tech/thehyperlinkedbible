@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Proverbs 26 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/20 - Proverbs|← Proverbs]]** | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 25 - TOSK|← Ch 25]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 27 - TOSK|Ch 27 →]]
+**[[Home/Scripture/20 - Proverbs|← Proverbs]]** | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 25 - TOSK|← Ch 25]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 27 - TOSK|Ch 27 →]]
 
 ---
 

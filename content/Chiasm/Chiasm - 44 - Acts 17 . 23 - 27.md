@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/44 - Acts|← Acts]]**
+**[[Home/Scripture/44 - Acts|← Acts]]**
 
 ---
 

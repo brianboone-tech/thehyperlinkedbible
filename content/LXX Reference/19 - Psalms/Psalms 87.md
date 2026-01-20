@@ -30,4 +30,4 @@ Testament: Old
 [[Lexicon/G1301-1400#G1334|shall describe]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2901-3000#G2992|of peoples,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G701-800#G0758|of these rulers]] [[Lexicon/G1001-1100#G1096|being born]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|her.]] [[Lexicon/G1301-1400#G1316|PAUSE.]]
 
 #### Psalms 87 - 7
-[[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G2101-2200#G2165|ones being glad]] [[Lexicon/G2701-2800#G2733|dwelling]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|you.]]
+[[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G2101-2200#G2165|ones being glad]] [[Lexicon/G2701-2800#G2733|dwelling]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|you.]]

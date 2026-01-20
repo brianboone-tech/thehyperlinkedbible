@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 70 - 1
-[[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H1701-1800#H1732|Of David.]] [[Lexicon/H2101-2200#H2142|To bring remembrance.]] [[Lexicon/H401-500#H430|(Make haste), O God ,]] [[Lexicon/H5301-5400#H5337|to deliver me !]] [[Lexicon/H2301-2400#H2363|Hurry ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H5801-5900#H5833|to help me !]]
+[[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H1701-1800#H1732|Of David.]] [[Lexicon/H2101-2200#H2142|To bring remembrance.]] [[Lexicon/H401-500#H430|[Make haste], O God ,]] [[Lexicon/H5301-5400#H5337|to deliver me !]] [[Lexicon/H2301-2400#H2363|Hurry ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H5801-5900#H5833|to help me !]]
 | [[LXX Reference/19 - Psalms/Psalms 70#Psalm 70 - 1|LXX]] |
 
 ##### Psalm 70 - 2
@@ -26,5 +26,5 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 70#Psalm 70 - 4|LXX]] |
 
 ##### Psalm 70 - 5
-[[Lexicon/H501-600#H589|But I (am)]] [[Lexicon/H6001-6100#H6041|poor]] [[Lexicon/H1-100#H34|and needy ;]] [[Lexicon/H2301-2400#H2363|hurry]] [[Lexicon/H401-500#H430|O God.]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H5801-5900#H5828|are my help]] [[Lexicon/H6401-6500#H6403|and my deliverer ;]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H301-400#H309|delay.]]
+[[Lexicon/H501-600#H589|But I [am]]] [[Lexicon/H6001-6100#H6041|poor]] [[Lexicon/H1-100#H34|and needy ;]] [[Lexicon/H2301-2400#H2363|hurry]] [[Lexicon/H401-500#H430|O God.]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H5801-5900#H5828|are my help]] [[Lexicon/H6401-6500#H6403|and my deliverer ;]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H301-400#H309|delay.]]
 | [[LXX Reference/19 - Psalms/Psalms 70#Psalm 70 - 5|LXX]] |

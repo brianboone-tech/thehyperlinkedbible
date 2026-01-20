@@ -32,7 +32,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 5|LXX]] |
 
 ##### Leviticus 23 - 6
-[[Lexicon/H2501-2600#H2568|On the fifteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2001-2100#H2088|of the same]] [[Lexicon/H2301-2400#H2320|month (begins)]] [[Lexicon/H2201-2300#H2282|the Feast]] [[Lexicon/H4601-4700#H4682|of Unleavened Bread]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H7601-7700#H7651|For seven]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H301-400#H398|you must eat]] [[Lexicon/H4601-4700#H4682|unleavened bread.]]
+[[Lexicon/H2501-2600#H2568|On the fifteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2001-2100#H2088|of the same]] [[Lexicon/H2301-2400#H2320|month [begins]]] [[Lexicon/H2201-2300#H2282|the Feast]] [[Lexicon/H4601-4700#H4682|of Unleavened Bread]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H7601-7700#H7651|For seven]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H301-400#H398|you must eat]] [[Lexicon/H4601-4700#H4682|unleavened bread.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 6|LXX]] |
 
 ##### Leviticus 23 - 7
@@ -76,7 +76,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 16|LXX]] |
 
 ##### Leviticus 23 - 17
-[[Lexicon/H901-1000#H935|Bring]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H3801-3900#H3899|loaves of bread]] [[Lexicon/H4101-4200#H4186|from your dwellings]] [[Lexicon/H8501-8600#H8573|as a wave offering ,]] [[Lexicon/H8101-8200#H8147|(each made) from two-tenths of an ephah]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour ,]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H601-700#H644|baked]] [[Lexicon/H2501-2600#H2557|with leaven ,]] [[Lexicon/H1001-1100#H1061|as the firstfruits]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+[[Lexicon/H901-1000#H935|Bring]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H3801-3900#H3899|loaves of bread]] [[Lexicon/H4101-4200#H4186|from your dwellings]] [[Lexicon/H8501-8600#H8573|as a wave offering ,]] [[Lexicon/H8101-8200#H8147|[each made] from two-tenths of an ephah]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour ,]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H601-700#H644|baked]] [[Lexicon/H2501-2600#H2557|with leaven ,]] [[Lexicon/H1001-1100#H1061|as the firstfruits]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 17|LXX]] |
 
 ##### Leviticus 23 - 18
@@ -88,7 +88,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 19|LXX]] |
 
 ##### Leviticus 23 - 20
-[[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H5101-5200#H5130|is to wave]] [[Lexicon/H801-900#H853|(the lambs)]] [[Lexicon/H8501-8600#H8573|as a wave offering]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H5901-6000#H5921|together with]] [[Lexicon/H3801-3900#H3899|the bread]] [[Lexicon/H1001-1100#H1061|of the firstfruits.]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H8101-8200#H8147|The bread and the two]] [[Lexicon/H3501-3600#H3532|lambs]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H3501-3600#H3548|for the priest.]]
+[[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H5101-5200#H5130|is to wave]] [[Lexicon/H801-900#H853|[the lambs]]] [[Lexicon/H8501-8600#H8573|as a wave offering]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H5901-6000#H5921|together with]] [[Lexicon/H3801-3900#H3899|the bread]] [[Lexicon/H1001-1100#H1061|of the firstfruits.]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H8101-8200#H8147|The bread and the two]] [[Lexicon/H3501-3600#H3532|lambs]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H3501-3600#H3548|for the priest.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 20|LXX]] |
 
 ##### Leviticus 23 - 21
@@ -104,7 +104,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 23|LXX]] |
 
 ##### Leviticus 23 - 24
-[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|(and) say ,]] [[Lexicon/H201-300#H259|‘ On the first]] [[Lexicon/H2301-2400#H2320|day]] [[Lexicon/H7601-7700#H7637|of the seventh]] [[Lexicon/H2301-2400#H2320|month]] [[Lexicon/H1901-2000#H1961|you are to have]] [[Lexicon/H7601-7700#H7677|a day of rest ,]] [[Lexicon/H6901-7000#H6944|a sacred]] [[Lexicon/H4701-4800#H4744|assembly]] [[Lexicon/H2101-2200#H2146|announced]] [[Lexicon/H8601-8674#H8643|by (trumpet) blasts.]]
+[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|[and] say ,]] [[Lexicon/H201-300#H259|‘ On the first]] [[Lexicon/H2301-2400#H2320|day]] [[Lexicon/H7601-7700#H7637|of the seventh]] [[Lexicon/H2301-2400#H2320|month]] [[Lexicon/H1901-2000#H1961|you are to have]] [[Lexicon/H7601-7700#H7677|a day of rest ,]] [[Lexicon/H6901-7000#H6944|a sacred]] [[Lexicon/H4701-4800#H4744|assembly]] [[Lexicon/H2101-2200#H2146|announced]] [[Lexicon/H8601-8674#H8643|by [trumpet] blasts.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 24|LXX]] |
 
 ##### Leviticus 23 - 25
@@ -144,15 +144,15 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 33|LXX]] |
 
 ##### Leviticus 23 - 34
-[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|(and) say ,]] [[Lexicon/H2501-2600#H2568|‘ On the fifteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2001-2100#H2088|of the]] [[Lexicon/H7601-7700#H7637|seventh]] [[Lexicon/H2301-2400#H2320|month]] [[Lexicon/H2201-2300#H2282|the Feast]] [[Lexicon/H5501-5600#H5521|of Tabernacles]] [[Lexicon/H3001-3100#H3068|to the LORD (begins) ,]] [[Lexicon/H7601-7700#H7651|and it continues for seven]] [[Lexicon/H3101-3200#H3117|days.]]
+[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|[and] say ,]] [[Lexicon/H2501-2600#H2568|‘ On the fifteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2001-2100#H2088|of the]] [[Lexicon/H7601-7700#H7637|seventh]] [[Lexicon/H2301-2400#H2320|month]] [[Lexicon/H2201-2300#H2282|the Feast]] [[Lexicon/H5501-5600#H5521|of Tabernacles]] [[Lexicon/H3001-3100#H3068|to the LORD [begins] ,]] [[Lexicon/H7601-7700#H7651|and it continues for seven]] [[Lexicon/H3101-3200#H3117|days.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 34|LXX]] |
 
 ##### Leviticus 23 - 35
-[[Lexicon/H7201-7300#H7223|On the first]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6901-7000#H6944|(there shall be) a sacred]] [[Lexicon/H4701-4800#H4744|assembly.]] [[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H6201-6300#H6213|do]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H4301-4400#H4399|regular work]] [[Lexicon/H5601-5700#H5656|....]]
+[[Lexicon/H7201-7300#H7223|On the first]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6901-7000#H6944|[there shall be] a sacred]] [[Lexicon/H4701-4800#H4744|assembly.]] [[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H6201-6300#H6213|do]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H4301-4400#H4399|regular work]] [[Lexicon/H5601-5700#H5656|....]]
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 35|LXX]] |
 
 ##### Leviticus 23 - 36
-[[Lexicon/H7601-7700#H7651|For seven]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H7101-7200#H7126|you are to present]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H8001-8100#H8066|On the eighth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H1901-2000#H1961|you are to hold]] [[Lexicon/H6901-7000#H6944|a sacred]] [[Lexicon/H4701-4800#H4744|assembly]] [[Lexicon/H7101-7200#H7126|and present]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H1901-2000#H1931|It (is)]] [[Lexicon/H6101-6200#H6116|a solemn assembly ;]] [[Lexicon/H3801-3900#H3808|you must not]] [[Lexicon/H6201-6300#H6213|do]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H4301-4400#H4399|regular work]] [[Lexicon/H5601-5700#H5656|....]]
+[[Lexicon/H7601-7700#H7651|For seven]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H7101-7200#H7126|you are to present]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H8001-8100#H8066|On the eighth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H1901-2000#H1961|you are to hold]] [[Lexicon/H6901-7000#H6944|a sacred]] [[Lexicon/H4701-4800#H4744|assembly]] [[Lexicon/H7101-7200#H7126|and present]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H1901-2000#H1931|It [is]]] [[Lexicon/H6101-6200#H6116|a solemn assembly ;]] [[Lexicon/H3801-3900#H3808|you must not]] [[Lexicon/H6201-6300#H6213|do]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H4301-4400#H4399|regular work]] [[Lexicon/H5601-5700#H5656|....]]
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 36|LXX]] |
 
 ##### Leviticus 23 - 37
@@ -160,11 +160,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 37|LXX]] |
 
 ##### Leviticus 23 - 38
-[[Lexicon/H901-1000#H905|(These offerings are) in addition to]] [[Lexicon/H3001-3100#H3068|the offerings for the LORD’s]] [[Lexicon/H901-1000#H905|...]] [[Lexicon/H7601-7700#H7676|Sabbaths ,]] [[Lexicon/H4901-5000#H4979|(and in addition) to your gifts ,]] [[Lexicon/H901-1000#H905|...]] [[Lexicon/H3601-3700#H3605|to all]] [[Lexicon/H5001-5100#H5088|your vow offerings ,]] [[Lexicon/H901-1000#H905|...]] [[Lexicon/H3601-3700#H3605|and to all]] [[Lexicon/H5001-5100#H5071|the freewill offerings]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|you give]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+[[Lexicon/H901-1000#H905|[These offerings are] in addition to]] [[Lexicon/H3001-3100#H3068|the offerings for the LORD’s]] [[Lexicon/H901-1000#H905|...]] [[Lexicon/H7601-7700#H7676|Sabbaths ,]] [[Lexicon/H4901-5000#H4979|[and in addition] to your gifts ,]] [[Lexicon/H901-1000#H905|...]] [[Lexicon/H3601-3700#H3605|to all]] [[Lexicon/H5001-5100#H5088|your vow offerings ,]] [[Lexicon/H901-1000#H905|...]] [[Lexicon/H3601-3700#H3605|and to all]] [[Lexicon/H5001-5100#H5071|the freewill offerings]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|you give]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 38|LXX]] |
 
 ##### Leviticus 23 - 39
-[[Lexicon/H301-400#H389|-]] [[Lexicon/H2501-2600#H2568|On the fifteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7637|of the seventh]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H601-700#H622|after you have gathered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8393|the produce]] [[Lexicon/H701-800#H776|of the land ,]] [[Lexicon/H2201-2300#H2287|you are to celebrate]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2201-2300#H2282|a feast]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H7601-7700#H7651|for seven]] [[Lexicon/H3101-3200#H3117|days.]] [[Lexicon/H7601-7700#H7677|There shall be complete rest]] [[Lexicon/H7201-7300#H7223|on the first]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7677|and (also)]] [[Lexicon/H8001-8100#H8066|on the eighth]] [[Lexicon/H3101-3200#H3117|day.]]
+[[Lexicon/H301-400#H389|-]] [[Lexicon/H2501-2600#H2568|On the fifteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7637|of the seventh]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H601-700#H622|after you have gathered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8393|the produce]] [[Lexicon/H701-800#H776|of the land ,]] [[Lexicon/H2201-2300#H2287|you are to celebrate]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2201-2300#H2282|a feast]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H7601-7700#H7651|for seven]] [[Lexicon/H3101-3200#H3117|days.]] [[Lexicon/H7601-7700#H7677|There shall be complete rest]] [[Lexicon/H7201-7300#H7223|on the first]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7677|and [also]]] [[Lexicon/H8001-8100#H8066|on the eighth]] [[Lexicon/H3101-3200#H3117|day.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 39|LXX]] |
 
 ##### Leviticus 23 - 40
@@ -184,5 +184,5 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 43|LXX]] |
 
 ##### Leviticus 23 - 44
-[[Lexicon/H4801-4900#H4872|So Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1696|announced]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H4101-4200#H4150|the appointed (feasts)]] [[Lexicon/H3001-3100#H3068|of the LORD.]]
+[[Lexicon/H4801-4900#H4872|So Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1696|announced]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H4101-4200#H4150|the appointed [feasts]]] [[Lexicon/H3001-3100#H3068|of the LORD.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 23#Leviticus 23 - 44|LXX]] |

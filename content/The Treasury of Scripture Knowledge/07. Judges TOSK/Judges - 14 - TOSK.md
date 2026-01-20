@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Judges 14 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/07 - Judges|← Judges]]** | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 15 - TOSK|Ch 15 →]]
+**[[Home/Scripture/07 - Judges|← Judges]]** | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 15 - TOSK|Ch 15 →]]
 
 ---
 

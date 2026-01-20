@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/40 - Matthew|← Matthew]]**
+**[[Home/Scripture/40 - Matthew|← Matthew]]**
 
 ---
 

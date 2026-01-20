@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Corinthians 2
+# 2 Corinthians-R 2
 
-[[Readable Bible/47 - 2 Corinthians/2 Corinthians 1|← 2 Corinthians 1]] | [[Readable Bible/47 - 2 Corinthians/2 Corinthians 3|2 Corinthians 3 →]]
+**[[Home/Scripture/47 - 2 Corinthians|2 Corinthians]]**
+
+[[Readable Bible/47 - 2 Corinthians/2 Corinthians 1#2 Corinthians-R 1| 2 Corinthians 1]] - [[Readable Bible/47 - 2 Corinthians/2 Corinthians 3#2 Corinthians-R 3| 2 Corinthians 3]]
 
 ---
 

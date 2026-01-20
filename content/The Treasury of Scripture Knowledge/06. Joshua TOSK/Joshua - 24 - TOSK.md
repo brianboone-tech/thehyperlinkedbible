@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Joshua 24 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/06 - Joshua|← Joshua]]** | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 23 - TOSK|← Ch 23]]
+**[[Home/Scripture/06 - Joshua|← Joshua]]** | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 23 - TOSK|← Ch 23]]
 
 ---
 

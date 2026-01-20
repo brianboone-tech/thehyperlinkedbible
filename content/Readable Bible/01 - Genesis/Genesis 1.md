@@ -6,9 +6,11 @@ Book: Genesis
 Chapter: "1"
 ---
       
-# Genesis 1
+# Genesis-R 1 
 
-[[Readable Bible/01 - Genesis/Genesis 2|Genesis 2 →]]
+**[[Home/Scripture/01 - Genesis|Genesis]]**
+
+[[Readable Bible/01 - Genesis/Genesis 2#Genesis-R 2| Genesis 2]]
 
 ---
 ##### Genesis 1 . 1

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Timothy 4 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/55 - 2 Timothy|← 2 Timothy]]** | [[The Treasury of Scripture Knowledge/55. 2 Timothy TOSK/2 Timothy - 3 - TOSK|← Ch 3]]
+**[[Home/Scripture/55 - 2 Timothy|← 2 Timothy]]** | [[The Treasury of Scripture Knowledge/55. 2 Timothy TOSK/2 Timothy - 3 - TOSK|← Ch 3]]
 
 ---
 

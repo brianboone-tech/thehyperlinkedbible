@@ -18,7 +18,7 @@ Testament: Old
 [[Lexicon/G5001-5100#G5100|To whom]] [[Lexicon/G3601-3700#G3664|likened]] [[Lexicon/G3301-3400#G3328|traders]] of Phoenicia [[Lexicon/G1201-1300#G1276|passing through]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2281|sea;]]
 
 #### Isaiah 23 - 3
-[[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G4601-4700#G4690|a seed]] [[Lexicon/G3301-3400#G3328|of traders;]] [[Lexicon/G5601-5624#G5613|as]]
+[[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G4601-4700#G4690|a seed]] [[Lexicon/G3301-3400#G3328|of traders;]] [[Lexicon/G5601-5700#G5613|as]]
 
 #### Isaiah 23 - 4
 [[Lexicon/G101-200#G0153|Be ashamed,]] O Sidon, [[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2281|sea!]] [[Lexicon/G3501-3600#G3588|Even the]] [[Lexicon/G2401-2500#G2479|strength]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2201-2300#G2281|sea]] [[Lexicon/G2001-2100#G2036|said,]] [[Lexicon/G3701-3800#G3756|I travailed not,]] [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G5001-5100#G5088|gave birth,]] [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G1601-1700#G1625|nourished]] [[Lexicon/G3401-3500#G3495|young ones,]] [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G5301-5400#G5312|raised up]] [[Lexicon/G3901-4000#G3933|virgins.]]
@@ -54,7 +54,7 @@ Testament: Old
 [[Lexicon/G3601-3700#G3649|Shriek!]] [[Lexicon/G4101-4200#G4143|boats]] of Carthage, [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G601-700#G0622|is destroyed]]
 
 #### Isaiah 23 - 15
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|it will be]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|that day,]] [[Lexicon/G2601-2700#G2641|Tyre shall be forsaken]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G401-500#G0444|of a man.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3301-3400#G3326|after]] [[Lexicon/G1401-1500#G1440|seventy]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G1501-1600#G1510|Tyre will be]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4201-4300#G4204|of a harlot.]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|it will be]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|that day,]] [[Lexicon/G2601-2700#G2641|Tyre shall be forsaken]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G401-500#G0444|of a man.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3301-3400#G3326|after]] [[Lexicon/G1401-1500#G1440|seventy]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G1501-1600#G1510|Tyre will be]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4201-4300#G4204|of a harlot.]]
 
 #### Isaiah 23 - 16
 [[Lexicon/G2901-3000#G2983|Take]] [[Lexicon/G2701-2800#G2788|a harp!]] [[Lexicon/G4401-4500#G4480|Stray!]] [[Lexicon/G4101-4200#G4172|city]] [[Lexicon/G1901-2000#G1950|being forgotten.]] [[Lexicon/G2501-2600#G2573|well]] [[Lexicon/G4101-4200#G4183|much]] [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G1001-1100#G1096|takes place.]]

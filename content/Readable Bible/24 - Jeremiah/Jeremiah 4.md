@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah 4
+# Jeremiah-R 4
 
-[[Readable Bible/24 - Jeremiah/Jeremiah 3|← Jeremiah 3]] | [[Readable Bible/24 - Jeremiah/Jeremiah 5|Jeremiah 5 →]]
+**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 3#Jeremiah-R 3| Jeremiah 3]] - [[Readable Bible/24 - Jeremiah/Jeremiah 5#Jeremiah-R 5| Jeremiah 5]]
 
 ---
 
@@ -127,5 +129,5 @@ cssClasses: lexicon
 
 
 ##### Jeremiah 4 . 31
-[[Reference Bible/24 - Jeremiah/Jeremiah 4#Jeremiah 4 - 31|31]] For I hear a cry like a woman in labor, a cry of anguish like one bearing her first child—the cry of the Daughter of Zion gasping for breath, stretching out her hands to say, “Woe is me, for my soul faints before the murderers!”  | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 4 - TOSK#Verse 31|TOSK]] ||
+[[Reference Bible/24 - Jeremiah/Jeremiah 4#Jeremiah 4 - 31|31]] For I hear a cry like a woman in labor, a cry of anguish like one bearing her first child—the cry of the Daughter of Zion gasping for breath, stretching out her hands to say, “Woe is me, for my soul faints before the murderers!”  | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 4 - TOSK#Verse 31|TOSK]] | |
 

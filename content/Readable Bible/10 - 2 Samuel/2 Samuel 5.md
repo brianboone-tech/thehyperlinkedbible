@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Samuel 5
+# 2 Samuel-R 5
 
-[[Readable Bible/10 - 2 Samuel/2 Samuel 4|← 2 Samuel 4]] | [[Readable Bible/10 - 2 Samuel/2 Samuel 6|2 Samuel 6 →]]
+**[[Home/Scripture/10 - 2 Samuel|2 Samuel]]**
+
+[[Readable Bible/10 - 2 Samuel/2 Samuel 4#2 Samuel-R 4| 2 Samuel 4]] - [[Readable Bible/10 - 2 Samuel/2 Samuel 6#2 Samuel-R 6| 2 Samuel 6]]
 
 ---
 

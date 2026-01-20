@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Numbers 10 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 11 - TOSK|Ch 11 →]]
+**[[Home/Scripture/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 11 - TOSK|Ch 11 →]]
 
 ---
 

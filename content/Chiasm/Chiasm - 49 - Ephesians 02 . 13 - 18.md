@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/49 - Ephesians|← Ephesians]]**
+**[[Home/Scripture/49 - Ephesians|← Ephesians]]**
 
 ---
 

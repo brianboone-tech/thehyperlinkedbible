@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Proverbs 16 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/20 - Proverbs|← Proverbs]]** | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 15 - TOSK|← Ch 15]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 17 - TOSK|Ch 17 →]]
+**[[Home/Scripture/20 - Proverbs|← Proverbs]]** | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 15 - TOSK|← Ch 15]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 17 - TOSK|Ch 17 →]]
 
 ---
 

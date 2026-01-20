@@ -34,7 +34,7 @@ cssClasses: lexicon
 [[Lexicon/H6801-6900#H6887|Like binding]] [[Lexicon/H1-100#H68|a stone]] [[Lexicon/H4701-4800#H4773|into a sling]] [[Lexicon/H3601-3700#H3651|is]] [[Lexicon/H5401-5500#H5414|the giving]] [[Lexicon/H3501-3600#H3519|of honor]] [[Lexicon/H3601-3700#H3684|to a fool.]]
 
 ##### Proverbs 26 - 9
-[[Lexicon/H2301-2400#H2336|(Like) a thorn]] [[Lexicon/H5901-6000#H5927|(that) falls]] [[Lexicon/H3001-3100#H3027|into the hand]] [[Lexicon/H7901-8000#H7910|of a drunkard]] [[Lexicon/H4901-5000#H4912|is a proverb]] [[Lexicon/H6301-6400#H6310|in the mouth]] [[Lexicon/H3601-3700#H3684|of a fool.]]
+[[Lexicon/H2301-2400#H2336|[Like] a thorn]] [[Lexicon/H5901-6000#H5927|[that] falls]] [[Lexicon/H3001-3100#H3027|into the hand]] [[Lexicon/H7901-8000#H7910|of a drunkard]] [[Lexicon/H4901-5000#H4912|is a proverb]] [[Lexicon/H6301-6400#H6310|in the mouth]] [[Lexicon/H3601-3700#H3684|of a fool.]]
 
 ##### Proverbs 26 - 10
 [[Lexicon/H7201-7300#H7228|Like an archer]] [[Lexicon/H2401-2500#H2490|who wounds]] [[Lexicon/H3601-3700#H3605|at random]] [[Lexicon/H7901-8000#H7936|is he who hires]] [[Lexicon/H3601-3700#H3684|a fool]] [[Lexicon/H7901-8000#H7936|or]] [[Lexicon/H5601-5700#H5674|passerby.]]
@@ -46,16 +46,16 @@ cssClasses: lexicon
 [[Lexicon/H7101-7200#H7200|Do you see]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H2401-2500#H2450|who is wise]] [[Lexicon/H5801-5900#H5869|in his own eyes ?]] [[Lexicon/H8601-8674#H8615|There is more hope]] [[Lexicon/H3601-3700#H3684|for a fool]] [[Lexicon/H4401-4500#H4480|than for him.]]
 
 ##### Proverbs 26 - 13
-[[Lexicon/H6101-6200#H6102|The slacker]] [[Lexicon/H501-600#H559|says ,]] [[Lexicon/H7801-7900#H7826|“ A lion]] [[Lexicon/H1801-1900#H1870|(is) in the road !]] [[Lexicon/H701-800#H738|A fierce lion]] [[Lexicon/H901-1000#H996|(roams)]] [[Lexicon/H7301-7400#H7339|the public square ! ”]]
+[[Lexicon/H6101-6200#H6102|The slacker]] [[Lexicon/H501-600#H559|says ,]] [[Lexicon/H7801-7900#H7826|“ A lion]] [[Lexicon/H1801-1900#H1870|[is] in the road !]] [[Lexicon/H701-800#H738|A fierce lion]] [[Lexicon/H901-1000#H996|[roams]]] [[Lexicon/H7301-7400#H7339|the public square ! ”]]
 
 ##### Proverbs 26 - 14
-[[Lexicon/H1801-1900#H1817|(As) a door]] [[Lexicon/H5401-5500#H5437|turns]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H6701-6800#H6735|its hinges ,]] [[Lexicon/H6101-6200#H6102|so the slacker]] [[Lexicon/H5901-6000#H5921|(turns) on]] [[Lexicon/H4201-4300#H4296|his bed.]]
+[[Lexicon/H1801-1900#H1817|[As] a door]] [[Lexicon/H5401-5500#H5437|turns]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H6701-6800#H6735|its hinges ,]] [[Lexicon/H6101-6200#H6102|so the slacker]] [[Lexicon/H5901-6000#H5921|[turns] on]] [[Lexicon/H4201-4300#H4296|his bed.]]
 
 ##### Proverbs 26 - 15
 [[Lexicon/H6101-6200#H6102|The slacker]] [[Lexicon/H2901-3000#H2934|buries]] [[Lexicon/H3001-3100#H3027|his hand]] [[Lexicon/H6701-6800#H6747|in the dish ;]] [[Lexicon/H3801-3900#H3811|it wearies him]] [[Lexicon/H7701-7800#H7725|to bring it back]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6301-6400#H6310|his mouth.]]
 
 ##### Proverbs 26 - 16
-[[Lexicon/H6101-6200#H6102|The slacker]] [[Lexicon/H2401-2500#H2450|(is) wiser]] [[Lexicon/H5801-5900#H5869|in his own eyes]] [[Lexicon/H7601-7700#H7651|than seven men]] [[Lexicon/H7701-7800#H7725|who answer]] [[Lexicon/H2901-3000#H2940|discreetly.]]
+[[Lexicon/H6101-6200#H6102|The slacker]] [[Lexicon/H2401-2500#H2450|[is] wiser]] [[Lexicon/H5801-5900#H5869|in his own eyes]] [[Lexicon/H7601-7700#H7651|than seven men]] [[Lexicon/H7701-7800#H7725|who answer]] [[Lexicon/H2901-3000#H2940|discreetly.]]
 
 ##### Proverbs 26 - 17
 [[Lexicon/H2301-2400#H2388|Like one who grabs]] [[Lexicon/H3601-3700#H3611|a dog]] [[Lexicon/H201-300#H241|by the ears]] [[Lexicon/H5601-5700#H5674|is a passerby]] [[Lexicon/H5601-5700#H5674|who meddles]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H7301-7400#H7379|a quarrel]] [[Lexicon/H3801-3900#H3808|not]]
@@ -82,7 +82,7 @@ cssClasses: lexicon
 [[Lexicon/H8101-8200#H8130|A hateful man]] [[Lexicon/H5201-5300#H5234|disguises himself]] [[Lexicon/H8101-8200#H8193|with his speech ,]] [[Lexicon/H7801-7900#H7896|but he lays up]] [[Lexicon/H4801-4900#H4820|deceit]] [[Lexicon/H7101-7200#H7130|in his heart.]]
 
 ##### Proverbs 26 - 25
-[[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H6901-7000#H6963|he speaks]] [[Lexicon/H2601-2700#H2603|graciously ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H501-600#H539|believe]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H8401-8500#H8441|abominations]] [[Lexicon/H3801-3900#H3820|(fill) his heart.]]
+[[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H6901-7000#H6963|he speaks]] [[Lexicon/H2601-2700#H2603|graciously ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H501-600#H539|believe]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H8401-8500#H8441|abominations]] [[Lexicon/H3801-3900#H3820|[fill] his heart.]]
 
 ##### Proverbs 26 - 26
 [[Lexicon/H8101-8200#H8135|Though his hatred]] [[Lexicon/H3601-3700#H3680|is concealed]] [[Lexicon/H4801-4900#H4860|by deception ,]] [[Lexicon/H7401-7500#H7451|his wickedness]] [[Lexicon/H1501-1600#H1540|will be exposed]] [[Lexicon/H6901-7000#H6951|in the assembly.]]

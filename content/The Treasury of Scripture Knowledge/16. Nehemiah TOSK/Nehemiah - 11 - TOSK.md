@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Nehemiah 11 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/16 - Nehemiah|← Nehemiah]]** | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 10 - TOSK|← Ch 10]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 12 - TOSK|Ch 12 →]]
+**[[Home/Scripture/16 - Nehemiah|← Nehemiah]]** | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 10 - TOSK|← Ch 10]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 12 - TOSK|Ch 12 →]]
 
 ---
 

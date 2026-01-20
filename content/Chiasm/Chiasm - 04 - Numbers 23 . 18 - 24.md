@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/04 - Numbers|← Numbers]]**
+**[[Home/Scripture/04 - Numbers|← Numbers]]**
 
 ---
 

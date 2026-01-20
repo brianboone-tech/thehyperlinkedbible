@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew 22
+# Matthew-R 22
 
-[[Readable Bible/40 - Matthew/Matthew 21|← Matthew 21]] | [[Readable Bible/40 - Matthew/Matthew 23|Matthew 23 →]]
+**[[Home/Scripture/40 - Matthew|Matthew]]**
+
+[[Readable Bible/40 - Matthew/Matthew 21#Matthew-R 21| Matthew 21]] - [[Readable Bible/40 - Matthew/Matthew 23#Matthew-R 23| Matthew 23]]
 
 ---
 
 ##### Matthew 22 . 1
-[[Reference Bible/40 - Matthew/Matthew 22#Matthew 22 - 1|1]] Once again, Jesus spoke to them in parables:  | | [[Chiasm/Chiasm - 40 - Matthew 22 . 01 - 14|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 22 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/40 - Matthew/Matthew 22#Matthew 22 - 1|1]] Once again, Jesus spoke to them in parables:   || [[Chiasm/Chiasm - 40 - Matthew 22 . 01 - 14|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 22 - TOSK#Verse 1|TOSK]] |
 
 ##### Matthew 22 . 2
 [[Reference Bible/40 - Matthew/Matthew 22#Matthew 22 - 2|2]] “The kingdom of heaven is like a king who prepared a wedding banquet for his son.  | [[Chiasm/Chiasm - 40 - Matthew 22 . 01 - 14|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 22 - TOSK#Verse 2|TOSK]] |

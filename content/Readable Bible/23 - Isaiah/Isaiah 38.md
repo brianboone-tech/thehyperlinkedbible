@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 38
+# Isaiah-R 38
 
-[[Readable Bible/23 - Isaiah/Isaiah 37|← Isaiah 37]] | [[Readable Bible/23 - Isaiah/Isaiah 39|Isaiah 39 →]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 37#Isaiah-R 37| Isaiah 37]] - [[Readable Bible/23 - Isaiah/Isaiah 39#Isaiah-R 39| Isaiah 39]]
 
 ---
 

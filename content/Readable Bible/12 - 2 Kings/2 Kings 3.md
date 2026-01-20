@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Kings 3
+# 2 Kings-R 3
 
-[[Readable Bible/12 - 2 Kings/2 Kings 2|← 2 Kings 2]] | [[Readable Bible/12 - 2 Kings/2 Kings 4|2 Kings 4 →]]
+**[[Home/Scripture/12 - 2 Kings|2 Kings]]**
+
+[[Readable Bible/12 - 2 Kings/2 Kings 2#2 Kings-R 2| 2 Kings 2]] - [[Readable Bible/12 - 2 Kings/2 Kings 4#2 Kings-R 4| 2 Kings 4]]
 
 ---
 

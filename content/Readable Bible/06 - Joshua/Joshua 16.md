@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Joshua 16
+# Joshua-R 16
 
-[[Readable Bible/06 - Joshua/Joshua 15|← Joshua 15]] | [[Readable Bible/06 - Joshua/Joshua 17|Joshua 17 →]]
+**[[Home/Scripture/06 - Joshua|Joshua]]**
+
+[[Readable Bible/06 - Joshua/Joshua 15#Joshua-R 15| Joshua 15]] - [[Readable Bible/06 - Joshua/Joshua 17#Joshua-R 17| Joshua 17]]
 
 ---
 

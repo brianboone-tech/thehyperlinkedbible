@@ -18,7 +18,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 77#Psalm 77 - 2|LXX]] |
 
 ##### Psalm 77 - 3
-[[Lexicon/H2101-2200#H2142|I remembered You ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H1901-2000#H1993|and I groaned ;]] [[Lexicon/H7801-7900#H7878|I mused]] [[Lexicon/H7301-7400#H7307|(and) my spirit]] [[Lexicon/H5801-5900#H5848|grew faint.]] [[Lexicon/H5501-5600#H5542|Selah]]
+[[Lexicon/H2101-2200#H2142|I remembered You ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H1901-2000#H1993|and I groaned ;]] [[Lexicon/H7801-7900#H7878|I mused]] [[Lexicon/H7301-7400#H7307|[and] my spirit]] [[Lexicon/H5801-5900#H5848|grew faint.]] [[Lexicon/H5501-5600#H5542|Selah]]
 | [[LXX Reference/19 - Psalms/Psalms 77#Psalm 77 - 3|LXX]] |
 
 ##### Psalm 77 - 4
@@ -30,11 +30,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 77#Psalm 77 - 5|LXX]] |
 
 ##### Psalm 77 - 6
-[[Lexicon/H3901-4000#H3915|At night]] [[Lexicon/H2101-2200#H2142|I remembered]] [[Lexicon/H5001-5100#H5058|my song ;]] [[Lexicon/H5901-6000#H5973|in]] [[Lexicon/H3801-3900#H3824|my heart]] [[Lexicon/H7801-7900#H7878|I mused ,]] [[Lexicon/H7301-7400#H7307|(and) my spirit]] [[Lexicon/H2601-2700#H2664|pondered :]]
+[[Lexicon/H3901-4000#H3915|At night]] [[Lexicon/H2101-2200#H2142|I remembered]] [[Lexicon/H5001-5100#H5058|my song ;]] [[Lexicon/H5901-6000#H5973|in]] [[Lexicon/H3801-3900#H3824|my heart]] [[Lexicon/H7801-7900#H7878|I mused ,]] [[Lexicon/H7301-7400#H7307|[and] my spirit]] [[Lexicon/H2601-2700#H2664|pondered :]]
 | [[LXX Reference/19 - Psalms/Psalms 77#Psalm 77 - 6|LXX]] |
 
 ##### Psalm 77 - 7
-[[Lexicon/H101-200#H136|“ Will the Lord]] [[Lexicon/H2101-2200#H2186|spurn (us)]] [[Lexicon/H5701-5800#H5769|forever]] [[Lexicon/H3801-3900#H3808|and never]] [[Lexicon/H3201-3300#H3254|...]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H7501-7600#H7521|show His favor again ?]]
+[[Lexicon/H101-200#H136|“ Will the Lord]] [[Lexicon/H2101-2200#H2186|spurn [us]]] [[Lexicon/H5701-5800#H5769|forever]] [[Lexicon/H3801-3900#H3808|and never]] [[Lexicon/H3201-3300#H3254|...]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H7501-7600#H7521|show His favor again ?]]
 | [[LXX Reference/19 - Psalms/Psalms 77#Psalm 77 - 7|LXX]] |
 
 ##### Psalm 77 - 8
@@ -58,7 +58,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 77#Psalm 77 - 12|LXX]] |
 
 ##### Psalm 77 - 13
-[[Lexicon/H1801-1900#H1870|Your way ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H6901-7000#H6944|is holy.]] [[Lexicon/H4301-4400#H4310|What]] [[Lexicon/H401-500#H410|god]] [[Lexicon/H1401-1500#H1419|(is so) great]] [[Lexicon/H401-500#H430|as (our) God ?]]
+[[Lexicon/H1801-1900#H1870|Your way ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H6901-7000#H6944|is holy.]] [[Lexicon/H4301-4400#H4310|What]] [[Lexicon/H401-500#H410|god]] [[Lexicon/H1401-1500#H1419|[is so] great]] [[Lexicon/H401-500#H430|as [our] God ?]]
 | [[LXX Reference/19 - Psalms/Psalms 77#Psalm 77 - 13|LXX]] |
 
 ##### Psalm 77 - 14

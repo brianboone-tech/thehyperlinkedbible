@@ -74,7 +74,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 51#Psalm 51 - 16|LXX]] |
 
 ##### Psalm 51 - 17
-[[Lexicon/H2001-2100#H2077|The sacrifices]] [[Lexicon/H401-500#H430|of God]] [[Lexicon/H7601-7700#H7665|(are) a broken]] [[Lexicon/H7301-7400#H7307|spirit ;]] [[Lexicon/H7601-7700#H7665|a broken]] [[Lexicon/H1701-1800#H1794|and a contrite]] [[Lexicon/H3801-3900#H3820|heart ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H3801-3900#H3808|You will not]] [[Lexicon/H901-1000#H959|despise.]]
+[[Lexicon/H2001-2100#H2077|The sacrifices]] [[Lexicon/H401-500#H430|of God]] [[Lexicon/H7601-7700#H7665|[are] a broken]] [[Lexicon/H7301-7400#H7307|spirit ;]] [[Lexicon/H7601-7700#H7665|a broken]] [[Lexicon/H1701-1800#H1794|and a contrite]] [[Lexicon/H3801-3900#H3820|heart ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H3801-3900#H3808|You will not]] [[Lexicon/H901-1000#H959|despise.]]
 | [[LXX Reference/19 - Psalms/Psalms 51#Psalm 51 - 17|LXX]] |
 
 ##### Psalm 51 - 18

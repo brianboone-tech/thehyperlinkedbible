@@ -89,11 +89,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 10#Genesis 10 - 19|LXX]] |
 
 ##### Genesis 10 - 20
-[[Lexicon/H401-500#H428|These (are)]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H2501-2600#H2526|of Ham]] [[Lexicon/H4901-5000#H4940|according to their clans ,]] [[Lexicon/H3901-4000#H3956|languages ,]] [[Lexicon/H701-800#H776|lands ,]] [[Lexicon/H1401-1500#H1471|and nations.]]
+[[Lexicon/H401-500#H428|These [are]]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H2501-2600#H2526|of Ham]] [[Lexicon/H4901-5000#H4940|according to their clans ,]] [[Lexicon/H3901-4000#H3956|languages ,]] [[Lexicon/H701-800#H776|lands ,]] [[Lexicon/H1401-1500#H1471|and nations.]]
 | [[LXX Reference/1 - Genesis/Genesis 10#Genesis 10 - 20|LXX]] |
 
 ##### Genesis 10 - 21
-[[Lexicon/H3201-3300#H3205|And sons were also born]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H8001-8100#H8035|to Shem ,]] [[Lexicon/H1401-1500#H1419|the older]] [[Lexicon/H201-300#H251|brother]] [[Lexicon/H3301-3400#H3315|(of) Japheth ;]] [[Lexicon/H1901-2000#H1931|(Shem)]] [[Lexicon/H1-100#H1|was the forefather]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H5601-5700#H5677|of Eber.]]
+[[Lexicon/H3201-3300#H3205|And sons were also born]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H8001-8100#H8035|to Shem ,]] [[Lexicon/H1401-1500#H1419|the older]] [[Lexicon/H201-300#H251|brother]] [[Lexicon/H3301-3400#H3315|[of] Japheth ;]] [[Lexicon/H1901-2000#H1931|[Shem]]] [[Lexicon/H1-100#H1|was the forefather]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H5601-5700#H5677|of Eber.]]
 | [[LXX Reference/1 - Genesis/Genesis 10#Genesis 10 - 21|LXX]] |
 
 ##### Genesis 10 - 22
@@ -125,7 +125,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 10#Genesis 10 - 28|LXX]] |
 
 ##### Genesis 10 - 29
-[[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H211|Ophir ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2301-2400#H2341|Havilah ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3103|and Job -ab.]] [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H1101-1200#H1121|(were) sons]] [[Lexicon/H3301-3400#H3355|of Joktan.]]
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H211|Ophir ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2301-2400#H2341|Havilah ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3103|and Job -ab.]] [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H1101-1200#H1121|[were] sons]] [[Lexicon/H3301-3400#H3355|of Joktan.]]
 | [[LXX Reference/1 - Genesis/Genesis 10#Genesis 10 - 29|LXX]] |
 
 ##### Genesis 10 - 30

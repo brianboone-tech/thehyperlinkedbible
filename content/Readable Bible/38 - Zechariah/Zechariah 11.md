@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Zechariah 11
+# Zechariah-R 11
 
-[[Readable Bible/38 - Zechariah/Zechariah 10|← Zechariah 10]] | [[Readable Bible/38 - Zechariah/Zechariah 12|Zechariah 12 →]]
+**[[Home/Scripture/38 - Zechariah|Zechariah]]**
+
+[[Readable Bible/38 - Zechariah/Zechariah 10#Zechariah-R 10| Zechariah 10]] - [[Readable Bible/38 - Zechariah/Zechariah 12#Zechariah-R 12| Zechariah 12]]
 
 ---
 
 ##### Zechariah 11 . 1
-[[Reference Bible/38 - Zechariah/Zechariah 11#Zechariah 11 - 1|1]] Open your doors, O Lebanon, that the fire may consume your cedars!  | | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 11 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/38 - Zechariah/Zechariah 11#Zechariah 11 - 1|1]] Open your doors, O Lebanon, that the fire may consume your cedars!   || [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 11 - TOSK#Verse 1|TOSK]] |
 
 ##### Zechariah 11 . 2
 [[Reference Bible/38 - Zechariah/Zechariah 11#Zechariah 11 - 2|2]] Wail, O cypress, for the cedar has fallen; the majestic trees are ruined! Wail, O oaks of Bashan, for the dense forest has been cut down!  | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 11 - TOSK#Verse 2|TOSK]] |

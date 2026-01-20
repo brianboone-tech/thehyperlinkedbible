@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Samuel 7
+# 1 Samuel-R 7
 
-[[Readable Bible/09 - 1 Samuel/1 Samuel 6|← 1 Samuel 6]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 8|1 Samuel 8 →]]
+**[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 6#1 Samuel-R 6| 1 Samuel 6]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 8#1 Samuel-R 8| 1 Samuel 8]]
 
 ---
 

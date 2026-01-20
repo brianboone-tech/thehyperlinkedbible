@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Zephaniah 3
+# Zephaniah-R 3
 
-[[Readable Bible/36 - Zephaniah/Zephaniah 2|← Zephaniah 2]]
+**[[Home/Scripture/36 - Zephaniah|Zephaniah]]**
+
+[[Readable Bible/36 - Zephaniah/Zephaniah 2#Zephaniah-R 2| Zephaniah 2]]
 
 ---
 
@@ -69,4 +71,4 @@ cssClasses: lexicon
 [[Reference Bible/36 - Zephaniah/Zephaniah 3#Zephaniah 3 - 19|19]] Behold, at that time, I will deal with all who afflict you. I will save the lame and gather the scattered; and I will appoint praise and fame for the disgraced throughout the earth.  | [[The Treasury of Scripture Knowledge/36. Zephaniah TOSK/Zephaniah - 3 - TOSK#Verse 19|TOSK]] |
 
 ##### Zephaniah 3 . 20
-[[Reference Bible/36 - Zephaniah/Zephaniah 3#Zephaniah 3 - 20|20]] At that time I will bring you in; yes, at that time I will gather you. For I will give you fame and praise among all the peoples of the earth when I restore your captives before your very eyes," says the LORD.  | [[Chiasm/Chiasm - 36 - Zephaniah 1 . 2 - 3 . 20|C]] | [[The Treasury of Scripture Knowledge/36. Zephaniah TOSK/Zephaniah - 3 - TOSK#Verse 20|TOSK]] |
+[[Reference Bible/36 - Zephaniah/Zephaniah 3#Zephaniah 3 - 20|20]] At that time I will bring you in; yes, at that time I will gather you. For I will give you fame and praise among all the peoples of the earth when I restore your captives before your very eyes," says the LORD.  | [[Chiasm/Chiasm - 36 - Zephaniah 1 . 2 - 3 . 20|C]] | [[The Treasury of Scripture Knowledge/36. Zephaniah TOSK/Zephaniah - 3 - TOSK#Verse 20|TOSK]] | 

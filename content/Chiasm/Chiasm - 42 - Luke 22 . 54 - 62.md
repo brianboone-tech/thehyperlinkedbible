@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/42 - Luke|← Luke]]**
+**[[Home/Scripture/42 - Luke|← Luke]]**
 
 ---
 

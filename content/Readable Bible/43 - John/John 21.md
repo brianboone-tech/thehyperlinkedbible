@@ -5,9 +5,12 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# John 21
+# John-R 21
 
-[[Readable Bible/43 - John/John 20|← John 20]]
+**[[Home/Scripture/43 - John|John]]**
+
+
+[[Readable Bible/43 - John/John 20#John-R 20| John 20]]
 
 ---
 

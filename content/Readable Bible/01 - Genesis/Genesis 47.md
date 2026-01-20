@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Genesis 47
+# Genesis-R 47
 
-[[Readable Bible/01 - Genesis/Genesis 46|← Genesis 46]] | [[Readable Bible/01 - Genesis/Genesis 48|Genesis 48 →]]
+**[[Home/Scripture/01 - Genesis|Genesis]]**
+
+[[Readable Bible/01 - Genesis/Genesis 46#Genesis-R 46| Genesis 46]] - [[Readable Bible/01 - Genesis/Genesis 48#Genesis-R 48| Genesis 48]]
 
 ---
 

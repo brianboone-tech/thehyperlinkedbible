@@ -25,7 +25,7 @@ cssClasses: lexicon
 [[Lexicon/H6601-6700#H6696|You hem me in]] [[Lexicon/H201-300#H268|behind]] [[Lexicon/H6901-7000#H6924|and before ;]] [[Lexicon/H7801-7900#H7896|You have laid]] [[Lexicon/H3701-3800#H3709|Your hand]] [[Lexicon/H5901-6000#H5921|upon me.]]
 
 ##### Psalm 139 - 6
-[[Lexicon/H1801-1900#H1847|(Such) knowledge]] [[Lexicon/H6301-6400#H6383|(is) too wonderful]] [[Lexicon/H4401-4500#H4480|for me ,]] [[Lexicon/H7601-7700#H7682|too lofty]] [[Lexicon/H3801-3900#H3808|]] [[Lexicon/H3201-3300#H3201|for me to attain]]
+[[Lexicon/H1801-1900#H1847|[Such] knowledge]] [[Lexicon/H6301-6400#H6383|[is] too wonderful]] [[Lexicon/H4401-4500#H4480|for me ,]] [[Lexicon/H7601-7700#H7682|too lofty]] [[Lexicon/H3801-3900#H3808|]] [[Lexicon/H3201-3300#H3201|for me to attain]]
 
 ##### Psalm 139 - 7
 [[Lexicon/H501-600#H575|Where]] [[Lexicon/H1901-2000#H1980|can I go]] [[Lexicon/H7301-7400#H7307|to escape Your Spirit ?]] [[Lexicon/H501-600#H575|Where]] [[Lexicon/H1201-1300#H1272|can I flee]] [[Lexicon/H6401-6500#H6440|from Your presence ?]]
@@ -49,7 +49,7 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H7001-7100#H7069|formed]] [[Lexicon/H3601-3700#H3629|my inmost being ;]] [[Lexicon/H5501-5600#H5526|You knit me together]] [[Lexicon/H501-600#H517|in my mother’s]] [[Lexicon/H901-1000#H990|womb.]]
 
 ##### Psalm 139 - 14
-[[Lexicon/H3001-3100#H3034|I praise]] [[Lexicon/H5901-6000#H5921|You ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3301-3400#H3372|I am fearfully]] [[Lexicon/H6301-6400#H6395|and wonderfully made.]] [[Lexicon/H6301-6400#H6381|Marvelous]] [[Lexicon/H4601-4700#H4639|(are) Your works ,]] [[Lexicon/H5301-5400#H5315|and I]] [[Lexicon/H3001-3100#H3045|know this]] [[Lexicon/H3901-4000#H3966|very well.]]
+[[Lexicon/H3001-3100#H3034|I praise]] [[Lexicon/H5901-6000#H5921|You ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3301-3400#H3372|I am fearfully]] [[Lexicon/H6301-6400#H6395|and wonderfully made.]] [[Lexicon/H6301-6400#H6381|Marvelous]] [[Lexicon/H4601-4700#H4639|[are] Your works ,]] [[Lexicon/H5301-5400#H5315|and I]] [[Lexicon/H3001-3100#H3045|know this]] [[Lexicon/H3901-4000#H3966|very well.]]
 
 ##### Psalm 139 - 15
 [[Lexicon/H6101-6200#H6108|My frame]] [[Lexicon/H3801-3900#H3808|was not]] [[Lexicon/H3501-3600#H3582|hidden]] [[Lexicon/H4401-4500#H4480|from You]] [[Lexicon/H801-900#H834|when]] [[Lexicon/H6201-6300#H6213|I was made]] [[Lexicon/H5601-5700#H5643|in secret ,]] [[Lexicon/H7501-7600#H7551|when I was woven together]] [[Lexicon/H8401-8500#H8482|in the depths]] [[Lexicon/H701-800#H776|of the earth.]]
@@ -61,13 +61,13 @@ cssClasses: lexicon
 [[Lexicon/H4001-4100#H4100|How]] [[Lexicon/H3301-3400#H3365|precious to me]] [[Lexicon/H7401-7500#H7454|are Your thoughts ,]] [[Lexicon/H401-500#H410|O God ,]] [[Lexicon/H4001-4100#H4100|how]] [[Lexicon/H6101-6200#H6105|vast]] [[Lexicon/H7201-7300#H7218|is their sum !]]
 
 ##### Psalm 139 - 18
-[[Lexicon/H5601-5700#H5608|(If) I were to count them ,]] [[Lexicon/H7201-7300#H7235|they would outnumber]] [[Lexicon/H2301-2400#H2344|the grains of sand ;]] [[Lexicon/H6901-7000#H6974|and when I awake ,]] [[Lexicon/H5701-5800#H5750|I am still]] [[Lexicon/H5901-6000#H5973|with You.]]
+[[Lexicon/H5601-5700#H5608|[If] I were to count them ,]] [[Lexicon/H7201-7300#H7235|they would outnumber]] [[Lexicon/H2301-2400#H2344|the grains of sand ;]] [[Lexicon/H6901-7000#H6974|and when I awake ,]] [[Lexicon/H5701-5800#H5750|I am still]] [[Lexicon/H5901-6000#H5973|with You.]]
 
 ##### Psalm 139 - 19
 [[Lexicon/H501-600#H518|O]] [[Lexicon/H401-500#H433|God ,]] [[Lexicon/H6901-7000#H6991|that You would slay]] [[Lexicon/H7501-7600#H7563|the wicked —]] [[Lexicon/H5401-5500#H5493|away]] [[Lexicon/H4401-4500#H4480|from me ,]] [[Lexicon/H1801-1900#H1818|you bloodthirsty]] [[Lexicon/H501-600#H582|men —]]
 
 ##### Psalm 139 - 20
-[[Lexicon/H801-900#H834|who]] [[Lexicon/H501-600#H559|speak of You]] [[Lexicon/H4201-4300#H4209|deceitfully ;]] [[Lexicon/H6101-6200#H6145|Your enemies]] [[Lexicon/H5301-5400#H5375|take]] [[Lexicon/H7701-7800#H7723|(Your name) in vain.]]
+[[Lexicon/H801-900#H834|who]] [[Lexicon/H501-600#H559|speak of You]] [[Lexicon/H4201-4300#H4209|deceitfully ;]] [[Lexicon/H6101-6200#H6145|Your enemies]] [[Lexicon/H5301-5400#H5375|take]] [[Lexicon/H7701-7800#H7723|[Your name] in vain.]]
 
 ##### Psalm 139 - 21
 [[Lexicon/H3801-3900#H3808|Do I not]] [[Lexicon/H8101-8200#H8130|hate]] [[Lexicon/H8101-8200#H8130|those who hate You ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H6901-7000#H6962|and detest]] [[Lexicon/H8601-8674#H8618|those who rise against You ?]]

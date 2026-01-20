@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Genesis 38 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 37 - TOSK|← Ch 37]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 39 - TOSK|Ch 39 →]]
+**[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 37 - TOSK|← Ch 37]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 39 - TOSK|Ch 39 →]]
 
 ---
 

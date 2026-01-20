@@ -14,7 +14,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 86#Psalm 86 - 1|LXX]] |
 
 ##### Psalm 86 - 2
-[[Lexicon/H8101-8200#H8104|Preserve]] [[Lexicon/H5301-5400#H5315|my soul ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H589|I (am)]] [[Lexicon/H2601-2700#H2623|godly.]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H401-500#H430|are my God ;]] [[Lexicon/H3401-3500#H3467|save]] [[Lexicon/H5601-5700#H5650|Your servant]] [[Lexicon/H901-1000#H982|who trusts]] [[Lexicon/H401-500#H413|in You.]]
+[[Lexicon/H8101-8200#H8104|Preserve]] [[Lexicon/H5301-5400#H5315|my soul ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H589|I [am]]] [[Lexicon/H2601-2700#H2623|godly.]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H401-500#H430|are my God ;]] [[Lexicon/H3401-3500#H3467|save]] [[Lexicon/H5601-5700#H5650|Your servant]] [[Lexicon/H901-1000#H982|who trusts]] [[Lexicon/H401-500#H413|in You.]]
 | [[LXX Reference/19 - Psalms/Psalms 86#Psalm 86 - 2|LXX]] |
 
 ##### Psalm 86 - 3
@@ -38,7 +38,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 86#Psalm 86 - 7|LXX]] |
 
 ##### Psalm 86 - 8
-[[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H301-400#H369|(there is) none]] [[Lexicon/H3601-3700#H3644|like You]] [[Lexicon/H401-500#H430|among the gods ,]] [[Lexicon/H301-400#H369|nor any]] [[Lexicon/H4601-4700#H4639|works like Yours.]]
+[[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H301-400#H369|[there is] none]] [[Lexicon/H3601-3700#H3644|like You]] [[Lexicon/H401-500#H430|among the gods ,]] [[Lexicon/H301-400#H369|nor any]] [[Lexicon/H4601-4700#H4639|works like Yours.]]
 | [[LXX Reference/19 - Psalms/Psalms 86#Psalm 86 - 8|LXX]] |
 
 ##### Psalm 86 - 9

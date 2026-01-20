@@ -34,7 +34,7 @@ cssClasses: lexicon
 [[Lexicon/H8001-8100#H8085|I will listen]] [[Lexicon/H4001-4100#H4100|to what]] [[Lexicon/H401-500#H410|God]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|will say ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1601-1700#H1696|He will surely speak]] [[Lexicon/H7901-8000#H7965|peace]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|His people]] [[Lexicon/H401-500#H413|and]] [[Lexicon/H2601-2700#H2623|His saints ;]] [[Lexicon/H401-500#H408|He will not]] [[Lexicon/H7701-7800#H7725|let them return]] [[Lexicon/H3601-3700#H3690|to folly.]]
 
 ##### Psalm 85 - 9
-[[Lexicon/H301-400#H389|Surely]] [[Lexicon/H3401-3500#H3468|His salvation]] [[Lexicon/H7101-7200#H7138|(is) near]] [[Lexicon/H3301-3400#H3373|to those who fear Him ,]] [[Lexicon/H3501-3600#H3519|that His glory]] [[Lexicon/H7901-8000#H7931|may dwell]] [[Lexicon/H701-800#H776|in our land.]]
+[[Lexicon/H301-400#H389|Surely]] [[Lexicon/H3401-3500#H3468|His salvation]] [[Lexicon/H7101-7200#H7138|[is] near]] [[Lexicon/H3301-3400#H3373|to those who fear Him ,]] [[Lexicon/H3501-3600#H3519|that His glory]] [[Lexicon/H7901-8000#H7931|may dwell]] [[Lexicon/H701-800#H776|in our land.]]
 
 ##### Psalm 85 - 10
 [[Lexicon/H2601-2700#H2617|Loving devotion]] [[Lexicon/H501-600#H571|and faithfulness]] [[Lexicon/H6201-6300#H6298|have joined together ;]] [[Lexicon/H6601-6700#H6664|righteousness]] [[Lexicon/H7901-8000#H7965|and peace]] [[Lexicon/H5401-5500#H5401|have kissed.]]

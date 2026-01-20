@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Zephaniah 2
+# Zephaniah-R 2
 
-[[Readable Bible/36 - Zephaniah/Zephaniah 1|← Zephaniah 1]] | [[Readable Bible/36 - Zephaniah/Zephaniah 3|Zephaniah 3 →]]
+**[[Home/Scripture/36 - Zephaniah|Zephaniah]]**
+
+[[Readable Bible/36 - Zephaniah/Zephaniah 1#Zephaniah-R 1| Zephaniah 1]] - [[Readable Bible/36 - Zephaniah/Zephaniah 3#Zephaniah-R 3| Zephaniah 3]]
 
 ---
 

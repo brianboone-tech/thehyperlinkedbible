@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Genesis 50
+# Genesis-R 50
 
-[[Readable Bible/01 - Genesis/Genesis 49|← Genesis 49]]
+**[[Home/Scripture/01 - Genesis|Genesis]]**
+
+[[Readable Bible/01 - Genesis/Genesis 49#Genesis-R 49| Genesis 49]]
 
 ---
 

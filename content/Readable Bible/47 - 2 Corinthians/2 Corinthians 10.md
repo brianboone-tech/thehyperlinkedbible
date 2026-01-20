@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Corinthians 10
+# 2 Corinthians-R 10
 
-[[Readable Bible/47 - 2 Corinthians/2 Corinthians 9|← 2 Corinthians 9]] | [[Readable Bible/47 - 2 Corinthians/2 Corinthians 11|2 Corinthians 11 →]]
+**[[Home/Scripture/47 - 2 Corinthians|2 Corinthians]]**
+
+[[Readable Bible/47 - 2 Corinthians/2 Corinthians 9#2 Corinthians-R 9| 2 Corinthians 9]] - [[Readable Bible/47 - 2 Corinthians/2 Corinthians 11#2 Corinthians-R 11| 2 Corinthians 11]]
 
 ---
 
 ##### 2 Corinthians 10 . 1
-[[Reference Bible/47 - 2 Corinthians/2 Corinthians 10#2 Corinthians 10 - 1|1]] Now by the mildness and gentleness of Christ, I appeal to you—I, Paul, who am humble when face to face with you, but bold when away.  | | [[Chiasm/Chiasm - 47 - 2 Corinthians 10 . 1 - 11|C]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 10 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/47 - 2 Corinthians/2 Corinthians 10#2 Corinthians 10 - 1|1]] Now by the mildness and gentleness of Christ, I appeal to you—I, Paul, who am humble when face to face with you, but bold when away.   || [[Chiasm/Chiasm - 47 - 2 Corinthians 10 . 1 - 11|C]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 10 - TOSK#Verse 1|TOSK]] |
 
 ##### 2 Corinthians 10 . 2
 [[Reference Bible/47 - 2 Corinthians/2 Corinthians 10#2 Corinthians 10 - 2|2]] I beg you that when I come I may not need to be as bold as I expect toward those who presume that we live according to the flesh.  | [[Chiasm/Chiasm - 47 - 2 Corinthians 10 . 1 - 11|C]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 10 - TOSK#Verse 2|TOSK]] |

@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/50 - Philippians|← Philippians]]**
+**[[Home/Scripture/50 - Philippians|← Philippians]]**
 
 ---
 

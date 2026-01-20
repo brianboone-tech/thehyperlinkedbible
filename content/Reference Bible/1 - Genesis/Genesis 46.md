@@ -37,7 +37,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 46#Genesis 46 - 6|LXX]] |
 
 ##### Genesis 46 - 7
-[[Lexicon/H901-1000#H935|(Jacob) took]] [[Lexicon/H801-900#H854|with him]] [[Lexicon/H4701-4800#H4714|to Egypt]] [[Lexicon/H1101-1200#H1121|his sons]] [[Lexicon/H1101-1200#H1121|and grandsons]] [[Lexicon/H1101-1200#H1121|... ,]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H1301-1400#H1323|(and) his daughters]] [[Lexicon/H1301-1400#H1323|and granddaughters]] [[Lexicon/H1101-1200#H1121|... —]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2201-2300#H2233|his offspring.]]
+[[Lexicon/H901-1000#H935|[Jacob] took]] [[Lexicon/H801-900#H854|with him]] [[Lexicon/H4701-4800#H4714|to Egypt]] [[Lexicon/H1101-1200#H1121|his sons]] [[Lexicon/H1101-1200#H1121|and grandsons]] [[Lexicon/H1101-1200#H1121|... ,]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H1301-1400#H1323|[and] his daughters]] [[Lexicon/H1301-1400#H1323|and granddaughters]] [[Lexicon/H1101-1200#H1121|... —]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2201-2300#H2233|his offspring.]]
 | [[LXX Reference/1 - Genesis/Genesis 46#Genesis 46 - 7|LXX]] |
 
 ##### Genesis 46 - 8
@@ -69,7 +69,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 46#Genesis 46 - 14|LXX]] |
 
 ##### Genesis 46 - 15
-[[Lexicon/H401-500#H428|These]] [[Lexicon/H1101-1200#H1121|are the sons]] [[Lexicon/H3801-3900#H3812|of Leah]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3201-3300#H3205|born]] [[Lexicon/H3201-3300#H3290|to Jacob]] [[Lexicon/H6301-6400#H6307|in]] [[Lexicon/H701-800#H758|Paddan-aram ,]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H1301-1400#H1323|in addition to his daughter]] [[Lexicon/H1701-1800#H1783|Dinah.]] [[Lexicon/H3601-3700#H3605|The total]] [[Lexicon/H5301-5400#H5315|number]] [[Lexicon/H1101-1200#H1121|of sons]] [[Lexicon/H1301-1400#H1323|and daughters]] [[Lexicon/H7901-8000#H7970|(was) thirty-three]] [[Lexicon/H7901-8000#H7969|....]]
+[[Lexicon/H401-500#H428|These]] [[Lexicon/H1101-1200#H1121|are the sons]] [[Lexicon/H3801-3900#H3812|of Leah]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3201-3300#H3205|born]] [[Lexicon/H3201-3300#H3290|to Jacob]] [[Lexicon/H6301-6400#H6307|in]] [[Lexicon/H701-800#H758|Paddan-aram ,]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H1301-1400#H1323|in addition to his daughter]] [[Lexicon/H1701-1800#H1783|Dinah.]] [[Lexicon/H3601-3700#H3605|The total]] [[Lexicon/H5301-5400#H5315|number]] [[Lexicon/H1101-1200#H1121|of sons]] [[Lexicon/H1301-1400#H1323|and daughters]] [[Lexicon/H7901-8000#H7970|[was] thirty-three]] [[Lexicon/H7901-8000#H7969|....]]
 | [[LXX Reference/1 - Genesis/Genesis 46#Genesis 46 - 15|LXX]] |
 
 ##### Genesis 46 - 16
@@ -113,23 +113,23 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 46#Genesis 46 - 25|LXX]] |
 
 ##### Genesis 46 - 26
-[[Lexicon/H3601-3700#H3605|All those]] [[Lexicon/H3201-3300#H3290|belonging to Jacob]] [[Lexicon/H901-1000#H935|who came]] [[Lexicon/H4701-4800#H4714|to Egypt —]] [[Lexicon/H3301-3400#H3318|his direct descendants]] [[Lexicon/H3401-3500#H3409|... ,]] [[Lexicon/H901-1000#H905|besides]] [[Lexicon/H801-900#H802|the wives]] [[Lexicon/H3201-3300#H3290|of Jacob’s]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H5301-5400#H5315|...]] [[Lexicon/H1101-1200#H1121|sons —]] [[Lexicon/H8301-8400#H8346|(numbered) sixty-six]] [[Lexicon/H8301-8400#H8337|...]] [[Lexicon/H5301-5400#H5315|persons.]]
+[[Lexicon/H3601-3700#H3605|All those]] [[Lexicon/H3201-3300#H3290|belonging to Jacob]] [[Lexicon/H901-1000#H935|who came]] [[Lexicon/H4701-4800#H4714|to Egypt —]] [[Lexicon/H3301-3400#H3318|his direct descendants]] [[Lexicon/H3401-3500#H3409|... ,]] [[Lexicon/H901-1000#H905|besides]] [[Lexicon/H801-900#H802|the wives]] [[Lexicon/H3201-3300#H3290|of Jacob’s]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H5301-5400#H5315|...]] [[Lexicon/H1101-1200#H1121|sons —]] [[Lexicon/H8301-8400#H8346|[numbered] sixty-six]] [[Lexicon/H8301-8400#H8337|...]] [[Lexicon/H5301-5400#H5315|persons.]]
 | [[LXX Reference/1 - Genesis/Genesis 46#Genesis 46 - 26|LXX]] |
 
 ##### Genesis 46 - 27
-[[Lexicon/H8101-8200#H8147|And with the two]] [[Lexicon/H5301-5400#H5315|-]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3201-3300#H3205|had been born]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H4701-4800#H4714|in Egypt ,]] [[Lexicon/H5301-5400#H5315|the members]] [[Lexicon/H3201-3300#H3290|of Jacob’s]] [[Lexicon/H1001-1100#H1004|family]] [[Lexicon/H901-1000#H935|who went]] [[Lexicon/H4701-4800#H4714|to Egypt (were)]] [[Lexicon/H7601-7700#H7657|seventy]] [[Lexicon/H3601-3700#H3605|in all.]]
+[[Lexicon/H8101-8200#H8147|And with the two]] [[Lexicon/H5301-5400#H5315|-]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3201-3300#H3205|had been born]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H4701-4800#H4714|in Egypt ,]] [[Lexicon/H5301-5400#H5315|the members]] [[Lexicon/H3201-3300#H3290|of Jacob’s]] [[Lexicon/H1001-1100#H1004|family]] [[Lexicon/H901-1000#H935|who went]] [[Lexicon/H4701-4800#H4714|to Egypt [were]]] [[Lexicon/H7601-7700#H7657|seventy]] [[Lexicon/H3601-3700#H3605|in all.]]
 | [[LXX Reference/1 - Genesis/Genesis 46#Genesis 46 - 27|LXX]] |
 
 ##### Genesis 46 - 28
-[[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|Now Jacob had sent]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H6401-6500#H6440|ahead of him]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H3301-3400#H3384|to get directions]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H1601-1700#H1657|to Goshen.]] [[Lexicon/H901-1000#H935|When (Jacob’s family) arrived]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H1601-1700#H1657|of Goshen ,]]
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|Now Jacob had sent]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H6401-6500#H6440|ahead of him]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H3301-3400#H3384|to get directions]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H1601-1700#H1657|to Goshen.]] [[Lexicon/H901-1000#H935|When [Jacob’s family] arrived]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H1601-1700#H1657|of Goshen ,]]
 | [[LXX Reference/1 - Genesis/Genesis 46#Genesis 46 - 28|LXX]] |
 
 ##### Genesis 46 - 29
-[[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H601-700#H631|prepared]] [[Lexicon/H4801-4900#H4818|his chariot]] [[Lexicon/H5901-6000#H5927|and went]] [[Lexicon/H1601-1700#H1657|(there)]] [[Lexicon/H7101-7200#H7122|to meet]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H3401-3500#H3478|Israel.]] [[Lexicon/H7101-7200#H7200|Joseph presented himself]] [[Lexicon/H401-500#H413|to him ,]] [[Lexicon/H5301-5400#H5307|embraced]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6601-6700#H6677|him ,]] [[Lexicon/H1001-1100#H1058|and wept]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6601-6700#H6677|...]] [[Lexicon/H5701-5800#H5750|profusely.]]
+[[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H601-700#H631|prepared]] [[Lexicon/H4801-4900#H4818|his chariot]] [[Lexicon/H5901-6000#H5927|and went]] [[Lexicon/H1601-1700#H1657|[there]]] [[Lexicon/H7101-7200#H7122|to meet]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H3401-3500#H3478|Israel.]] [[Lexicon/H7101-7200#H7200|Joseph presented himself]] [[Lexicon/H401-500#H413|to him ,]] [[Lexicon/H5301-5400#H5307|embraced]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6601-6700#H6677|him ,]] [[Lexicon/H1001-1100#H1058|and wept]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6601-6700#H6677|...]] [[Lexicon/H5701-5800#H5750|profusely.]]
 | [[LXX Reference/1 - Genesis/Genesis 46#Genesis 46 - 29|LXX]] |
 
 ##### Genesis 46 - 30
-[[Lexicon/H3401-3500#H3478|Then Israel]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3101-3200#H3130|Joseph ,]] [[Lexicon/H4101-4200#H4191|“ Finally I can die ,]] [[Lexicon/H6401-6500#H6471|now]] [[Lexicon/H301-400#H310|...]] [[Lexicon/H7101-7200#H7200|that I have seen]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6440|your face]] [[Lexicon/H3501-3600#H3588|(and know) that]] [[Lexicon/H5701-5800#H5750|you are still]] [[Lexicon/H2401-2500#H2416|alive ! ”]]
+[[Lexicon/H3401-3500#H3478|Then Israel]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3101-3200#H3130|Joseph ,]] [[Lexicon/H4101-4200#H4191|“ Finally I can die ,]] [[Lexicon/H6401-6500#H6471|now]] [[Lexicon/H301-400#H310|...]] [[Lexicon/H7101-7200#H7200|that I have seen]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6440|your face]] [[Lexicon/H3501-3600#H3588|[and know] that]] [[Lexicon/H5701-5800#H5750|you are still]] [[Lexicon/H2401-2500#H2416|alive ! ”]]
 | [[LXX Reference/1 - Genesis/Genesis 46#Genesis 46 - 30|LXX]] |
 
 ##### Genesis 46 - 31

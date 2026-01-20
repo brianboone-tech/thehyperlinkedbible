@@ -34,4 +34,4 @@ cssClasses: lexicon
 [[Lexicon/H601-700#H631|to bind]] [[Lexicon/H4401-4500#H4428|their kings]] [[Lexicon/H2101-2200#H2131|with chains]] [[Lexicon/H3501-3600#H3513|and their nobles]] [[Lexicon/H3501-3600#H3525|with shackles]] [[Lexicon/H1201-1300#H1270|of iron ,]]
 
 ##### Psalm 149 - 9
-[[Lexicon/H6201-6300#H6213|to execute]] [[Lexicon/H4901-5000#H4941|the judgment]] [[Lexicon/H3701-3800#H3789|written (against them).]] [[Lexicon/H1901-2000#H1931|This]] [[Lexicon/H1901-2000#H1926|honor]] [[Lexicon/H3601-3700#H3605|is for all]] [[Lexicon/H2601-2700#H2623|His saints.]] [[Lexicon/H1901-2000#H1984|Hallelujah]] [[Lexicon/H3001-3100#H3050|... !]]
+[[Lexicon/H6201-6300#H6213|to execute]] [[Lexicon/H4901-5000#H4941|the judgment]] [[Lexicon/H3701-3800#H3789|written [against them].]] [[Lexicon/H1901-2000#H1931|This]] [[Lexicon/H1901-2000#H1926|honor]] [[Lexicon/H3601-3700#H3605|is for all]] [[Lexicon/H2601-2700#H2623|His saints.]] [[Lexicon/H1901-2000#H1984|Hallelujah]] [[Lexicon/H3001-3100#H3050|... !]]

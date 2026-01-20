@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Revelation 18
+# Revelation-R 18
 
-[[Readable Bible/66 - Revelation/Revelation 17|← Revelation 17]] | [[Readable Bible/66 - Revelation/Revelation 19|Revelation 19 →]]
+**[[Home/Scripture/66 - Revelation|Revelation]]**
+
+[[Readable Bible/66 - Revelation/Revelation 17#Revelation-R 17| Revelation 17]] - [[Readable Bible/66 - Revelation/Revelation 19#Revelation-R 19| Revelation 19]]
 
 ---
 

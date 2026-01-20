@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Revelation 16 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/66 - Revelation|← Revelation]]** | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 15 - TOSK|← Ch 15]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 17 - TOSK|Ch 17 →]]
+**[[Home/Scripture/66 - Revelation|← Revelation]]** | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 15 - TOSK|← Ch 15]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 17 - TOSK|Ch 17 →]]
 
 ---
 

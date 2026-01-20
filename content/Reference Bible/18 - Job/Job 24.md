@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Job 24 - 1
-[[Lexicon/H4001-4100#H4069|(“) Why]] [[Lexicon/H7701-7800#H7706|does the Almighty]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H6801-6900#H6845|reserve]] [[Lexicon/H6201-6300#H6256|times for judgment ?]] [[Lexicon/H3001-3100#H3045|Why may those who know Him]] [[Lexicon/H3801-3900#H3808|never]] [[Lexicon/H2301-2400#H2372|see]] [[Lexicon/H3101-3200#H3117|His days ?]]
+[[Lexicon/H4001-4100#H4069|[“] Why]] [[Lexicon/H7701-7800#H7706|does the Almighty]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H6801-6900#H6845|reserve]] [[Lexicon/H6201-6300#H6256|times for judgment ?]] [[Lexicon/H3001-3100#H3045|Why may those who know Him]] [[Lexicon/H3801-3900#H3808|never]] [[Lexicon/H2301-2400#H2372|see]] [[Lexicon/H3101-3200#H3117|His days ?]]
 
 ##### Job 24 - 2
 [[Lexicon/H5301-5400#H5381|Men move]] [[Lexicon/H1301-1400#H1367|boundary stones ;]] [[Lexicon/H7401-7500#H7462|they pasture]] [[Lexicon/H1401-1500#H1497|stolen]] [[Lexicon/H5701-5800#H5739|flocks.]]
@@ -22,7 +22,7 @@ cssClasses: lexicon
 [[Lexicon/H5101-5200#H5186|They push]] [[Lexicon/H1-100#H34|the needy]] [[Lexicon/H1801-1900#H1870|off the road]] [[Lexicon/H3101-3200#H3162|and force all]] [[Lexicon/H6001-6100#H6035|the poor]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H2201-2300#H2244|into hiding.]]
 
 ##### Job 24 - 5
-[[Lexicon/H2001-2100#H2005|Indeed ,]] [[Lexicon/H6501-6600#H6501|(like) wild donkeys]] [[Lexicon/H4001-4100#H4057|in the desert ,]] [[Lexicon/H3301-3400#H3318|the poor go]] [[Lexicon/H6401-6500#H6467|to work]] [[Lexicon/H7801-7900#H7836|foraging]] [[Lexicon/H2901-3000#H2964|for food ;]] [[Lexicon/H6101-6200#H6160|the wasteland]] [[Lexicon/H3801-3900#H3899|is food]] [[Lexicon/H5201-5300#H5288|for their children.]]
+[[Lexicon/H2001-2100#H2005|Indeed ,]] [[Lexicon/H6501-6600#H6501|[like] wild donkeys]] [[Lexicon/H4001-4100#H4057|in the desert ,]] [[Lexicon/H3301-3400#H3318|the poor go]] [[Lexicon/H6401-6500#H6467|to work]] [[Lexicon/H7801-7900#H7836|foraging]] [[Lexicon/H2901-3000#H2964|for food ;]] [[Lexicon/H6101-6200#H6160|the wasteland]] [[Lexicon/H3801-3900#H3899|is food]] [[Lexicon/H5201-5300#H5288|for their children.]]
 
 ##### Job 24 - 6
 [[Lexicon/H7101-7200#H7114|They gather]] [[Lexicon/H1001-1100#H1098|fodder]] [[Lexicon/H7701-7800#H7704|in the fields]] [[Lexicon/H3901-4000#H3953|and glean]] [[Lexicon/H3701-3800#H3754|the vineyards]] [[Lexicon/H7501-7600#H7563|of the wicked.]]
@@ -49,7 +49,7 @@ cssClasses: lexicon
 [[Lexicon/H1901-2000#H1992|Then there]] [[Lexicon/H1901-2000#H1961|are]] [[Lexicon/H4701-4800#H4775|those who rebel]] [[Lexicon/H201-300#H216|against the light ,]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H5201-5300#H5234|knowing]] [[Lexicon/H1801-1900#H1870|its ways]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H3401-3500#H3427|or staying]] [[Lexicon/H5401-5500#H5410|on its paths.]]
 
 ##### Job 24 - 14
-[[Lexicon/H201-300#H216|When daylight (is gone) ,]] [[Lexicon/H7501-7600#H7523|the murderer]] [[Lexicon/H6901-7000#H6965|rises]] [[Lexicon/H6901-7000#H6991|to kill]] [[Lexicon/H6001-6100#H6041|the poor]] [[Lexicon/H1-100#H34|and needy ;]] [[Lexicon/H3901-4000#H3915|in the night]] [[Lexicon/H1901-2000#H1961|he is]] [[Lexicon/H1501-1600#H1590|like a thief.]]
+[[Lexicon/H201-300#H216|When daylight [is gone] ,]] [[Lexicon/H7501-7600#H7523|the murderer]] [[Lexicon/H6901-7000#H6965|rises]] [[Lexicon/H6901-7000#H6991|to kill]] [[Lexicon/H6001-6100#H6041|the poor]] [[Lexicon/H1-100#H34|and needy ;]] [[Lexicon/H3901-4000#H3915|in the night]] [[Lexicon/H1901-2000#H1961|he is]] [[Lexicon/H1501-1600#H1590|like a thief.]]
 
 ##### Job 24 - 15
 [[Lexicon/H5801-5900#H5869|The eye]] [[Lexicon/H5001-5100#H5003|of the adulterer]] [[Lexicon/H8101-8200#H8104|watches]] [[Lexicon/H5301-5400#H5399|for twilight.]] [[Lexicon/H501-600#H559|Thinking ,]] [[Lexicon/H3801-3900#H3808|‘ No]] [[Lexicon/H5801-5900#H5869|eye]] [[Lexicon/H7701-7800#H7789|will see me , ’]] [[Lexicon/H5601-5700#H5643|he covers]] [[Lexicon/H7701-7800#H7760|...]] [[Lexicon/H6401-6500#H6440|his face.]]

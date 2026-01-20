@@ -40,7 +40,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 15#Leviticus 15 - 7|LXX]] |
 
 ##### Leviticus 15 - 8
-[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H2001-2100#H2100|the man with the discharge]] [[Lexicon/H7501-7600#H7556|spits]] [[Lexicon/H2801-2900#H2889|on one who is clean ,]] [[Lexicon/H3501-3600#H3526|(that person) must wash]] [[Lexicon/H801-900#H899|his clothes]] [[Lexicon/H7301-7400#H7364|and bathe]] [[Lexicon/H4301-4400#H4325|with water ,]] [[Lexicon/H2901-3000#H2930|and he will be unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening.]]
+[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H2001-2100#H2100|the man with the discharge]] [[Lexicon/H7501-7600#H7556|spits]] [[Lexicon/H2801-2900#H2889|on one who is clean ,]] [[Lexicon/H3501-3600#H3526|[that person] must wash]] [[Lexicon/H801-900#H899|his clothes]] [[Lexicon/H7301-7400#H7364|and bathe]] [[Lexicon/H4301-4400#H4325|with water ,]] [[Lexicon/H2901-3000#H2930|and he will be unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 15#Leviticus 15 - 8|LXX]] |
 
 ##### Leviticus 15 - 9
@@ -68,7 +68,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 15#Leviticus 15 - 14|LXX]] |
 
 ##### Leviticus 15 - 15
-[[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H6201-6300#H6213|is to sacrifice]] [[Lexicon/H801-900#H853|them ,]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H2401-2500#H2403|as a sin offering]] [[Lexicon/H201-300#H259|and the other]] [[Lexicon/H5901-6000#H5930|as a burnt offering.]] [[Lexicon/H3501-3600#H3548|In this way the priest]] [[Lexicon/H3701-3800#H3722|will make atonement]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H6401-6500#H6440|(the man) before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H2101-2200#H2101|because of his discharge.]]
+[[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H6201-6300#H6213|is to sacrifice]] [[Lexicon/H801-900#H853|them ,]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H2401-2500#H2403|as a sin offering]] [[Lexicon/H201-300#H259|and the other]] [[Lexicon/H5901-6000#H5930|as a burnt offering.]] [[Lexicon/H3501-3600#H3548|In this way the priest]] [[Lexicon/H3701-3800#H3722|will make atonement]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H6401-6500#H6440|[the man] before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H2101-2200#H2101|because of his discharge.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 15#Leviticus 15 - 15|LXX]] |
 
 ##### Leviticus 15 - 16
@@ -120,7 +120,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 15#Leviticus 15 - 27|LXX]] |
 
 ##### Leviticus 15 - 28
-[[Lexicon/H501-600#H518|When]] [[Lexicon/H2801-2900#H2891|(a woman) is cleansed]] [[Lexicon/H2101-2200#H2101|of her discharge ,]] [[Lexicon/H5601-5700#H5608|she must count off]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H3101-3200#H3117|days ,]] [[Lexicon/H301-400#H310|and after that]] [[Lexicon/H2801-2900#H2891|she will be ceremonially clean.]]
+[[Lexicon/H501-600#H518|When]] [[Lexicon/H2801-2900#H2891|[a woman] is cleansed]] [[Lexicon/H2101-2200#H2101|of her discharge ,]] [[Lexicon/H5601-5700#H5608|she must count off]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H3101-3200#H3117|days ,]] [[Lexicon/H301-400#H310|and after that]] [[Lexicon/H2801-2900#H2891|she will be ceremonially clean.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 15#Leviticus 15 - 28|LXX]] |
 
 ##### Leviticus 15 - 29

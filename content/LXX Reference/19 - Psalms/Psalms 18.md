@@ -24,7 +24,7 @@ Testament: Old
 [[Lexicon/G4001-4100#G4023|compassed]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5493|rushing streams]] [[Lexicon/G401-500#G0458|of lawlessness]] [[Lexicon/G1601-1700#G1613|disturbed]] [[Lexicon/G1401-1500#G1473|me.]]
 
 #### Psalms 18 - 5
-[[Lexicon/G5601-5624#G5604|Pangs]] [[Lexicon/G1-100#G0086|of Hades]] [[Lexicon/G4001-4100#G4033|surrounded]] [[Lexicon/G1401-1500#G1473|me;]] [[Lexicon/G4301-4400#G4399|anticipated]]
+[[Lexicon/G5601-5700#G5604|Pangs]] [[Lexicon/G1-100#G0086|of Hades]] [[Lexicon/G4001-4100#G4033|surrounded]] [[Lexicon/G1401-1500#G1473|me;]] [[Lexicon/G4301-4400#G4399|anticipated]]
 
 #### Psalms 18 - 6
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2301-2400#G2346|my being afflicted]] [[Lexicon/G1901-2000#G1941|I called upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G2301-2400#G2316|my God]] [[Lexicon/G2801-2900#G2896|I cried out.]] [[Lexicon/G101-200#G0191|He heard]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2906|my cry]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1501-1600#G1525|shall enter]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3701-3800#G3775|his ears.]]
@@ -108,7 +108,7 @@ Testament: Old
 [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G4001-4100#G4024|one girding]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5087|makes]] [[Lexicon/G201-300#G0299|unblemished]]
 
 #### Psalms 18 - 33
-[[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2601-2700#G2675|readying]] [[Lexicon/G4201-4300#G4228|my feet]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G1601-1700#G1643|a stag,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|upon]]
+[[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2601-2700#G2675|readying]] [[Lexicon/G4201-4300#G4228|my feet]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G1601-1700#G1643|a stag,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|upon]]
 
 #### Psalms 18 - 34
 [[Lexicon/G1301-1400#G1321|teaching]] [[Lexicon/G5401-5500#G5495|my hands]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G4101-4200#G4171|war;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5087|you made]] [[Lexicon/G5101-5200#G5115|as the bow]]
@@ -135,13 +135,13 @@ Testament: Old
 [[Lexicon/G2801-2900#G2896|They cried out]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|he did not]] [[Lexicon/G1501-1600#G1522|hear]] [[Lexicon/G1401-1500#G1473|them.]]
 
 #### Psalms 18 - 42
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3001-3100#G3016|I will make them as fine]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5501-5600#G5522|dust]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G401-500#G0417|of the wind;]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4001-4100#G4081|mud]] [[Lexicon/G4101-4200#G4113|in the squares]] [[Lexicon/G3001-3100#G3001|I will grind]] [[Lexicon/G1401-1500#G1473|them.]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3001-3100#G3016|I will make them as fine]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5501-5600#G5522|dust]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G401-500#G0417|of the wind;]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4001-4100#G4081|mud]] [[Lexicon/G4101-4200#G4113|in the squares]] [[Lexicon/G3001-3100#G3001|I will grind]] [[Lexicon/G1401-1500#G1473|them.]]
 
 #### Psalms 18 - 43
 [[Lexicon/G4501-4600#G4506|You shall rescue]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G401-500#G0485|a dispute]] [[Lexicon/G2901-3000#G2992|of people;]] [[Lexicon/G2501-2600#G2525|you shall place]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1519|at]] [[Lexicon/G1401-1500#G1484|of nations;]] [[Lexicon/G2901-3000#G2992|a people]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G3701-3800#G3756|I knew not]] [[Lexicon/G1301-1400#G1398|shall serve]] [[Lexicon/G1401-1500#G1473|to me;]]
 
 #### Psalms 18 - 44
-[[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G5601-5624#G5621|of the ear]] [[Lexicon/G5201-5300#G5219|they obeyed me.]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G5501-5600#G5574|lied]] [[Lexicon/G1401-1500#G1473|to me.]]
+[[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G5601-5700#G5621|of the ear]] [[Lexicon/G5201-5300#G5219|they obeyed me.]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G5501-5600#G5574|lied]] [[Lexicon/G1401-1500#G1473|to me.]]
 
 #### Psalms 18 - 45
 [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G3801-3900#G3822|grew old]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5559|became lame]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G5101-5200#G5147|their paths.]]

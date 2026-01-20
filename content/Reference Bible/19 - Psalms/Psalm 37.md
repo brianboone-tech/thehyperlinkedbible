@@ -34,7 +34,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 6|LXX]] |
 
 ##### Psalm 37 - 7
-[[Lexicon/H1801-1900#H1826|Be still]] [[Lexicon/H3001-3100#H3068|before the LORD]] [[Lexicon/H2301-2400#H2342|and wait patiently]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H2701-2800#H2734|fret]] [[Lexicon/H6701-6800#H6743|when men prosper]] [[Lexicon/H1801-1900#H1870|in their ways ,]] [[Lexicon/H301-400#H376|(when they)]] [[Lexicon/H6201-6300#H6213|carry out]] [[Lexicon/H4201-4300#H4209|wicked schemes.]]
+[[Lexicon/H1801-1900#H1826|Be still]] [[Lexicon/H3001-3100#H3068|before the LORD]] [[Lexicon/H2301-2400#H2342|and wait patiently]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H2701-2800#H2734|fret]] [[Lexicon/H6701-6800#H6743|when men prosper]] [[Lexicon/H1801-1900#H1870|in their ways ,]] [[Lexicon/H301-400#H376|[when they]]] [[Lexicon/H6201-6300#H6213|carry out]] [[Lexicon/H4201-4300#H4209|wicked schemes.]]
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 7|LXX]] |
 
 ##### Psalm 37 - 8
@@ -62,15 +62,15 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 13|LXX]] |
 
 ##### Psalm 37 - 14
-[[Lexicon/H7501-7600#H7563|The wicked]] [[Lexicon/H6601-6700#H6605|have drawn]] [[Lexicon/H2701-2800#H2719|the sword]] [[Lexicon/H1801-1900#H1869|and bent]] [[Lexicon/H7101-7200#H7198|the bow]] [[Lexicon/H5301-5400#H5307|to bring down]] [[Lexicon/H6001-6100#H6041|the poor]] [[Lexicon/H1-100#H34|and needy ,]] [[Lexicon/H2801-2900#H2873|to slay]] [[Lexicon/H1801-1900#H1870|those whose ways]] [[Lexicon/H3401-3500#H3477|(are) upright.]]
+[[Lexicon/H7501-7600#H7563|The wicked]] [[Lexicon/H6601-6700#H6605|have drawn]] [[Lexicon/H2701-2800#H2719|the sword]] [[Lexicon/H1801-1900#H1869|and bent]] [[Lexicon/H7101-7200#H7198|the bow]] [[Lexicon/H5301-5400#H5307|to bring down]] [[Lexicon/H6001-6100#H6041|the poor]] [[Lexicon/H1-100#H34|and needy ,]] [[Lexicon/H2801-2900#H2873|to slay]] [[Lexicon/H1801-1900#H1870|those whose ways]] [[Lexicon/H3401-3500#H3477|[are] upright.]]
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 14|LXX]] |
 
 ##### Psalm 37 - 15
-[[Lexicon/H2701-2800#H2719|(But) their swords]] [[Lexicon/H901-1000#H935|will pierce]] [[Lexicon/H3801-3900#H3820|their own hearts ,]] [[Lexicon/H7101-7200#H7198|and their bows]] [[Lexicon/H7601-7700#H7665|will be broken.]]
+[[Lexicon/H2701-2800#H2719|[But] their swords]] [[Lexicon/H901-1000#H935|will pierce]] [[Lexicon/H3801-3900#H3820|their own hearts ,]] [[Lexicon/H7101-7200#H7198|and their bows]] [[Lexicon/H7601-7700#H7665|will be broken.]]
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 15|LXX]] |
 
 ##### Psalm 37 - 16
-[[Lexicon/H2801-2900#H2896|Better (is)]] [[Lexicon/H4501-4600#H4592|the little]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H1901-2000#H1995|than the abundance]] [[Lexicon/H7201-7300#H7227|of many]] [[Lexicon/H7501-7600#H7563|(who are) wicked.]]
+[[Lexicon/H2801-2900#H2896|Better [is]]] [[Lexicon/H4501-4600#H4592|the little]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H1901-2000#H1995|than the abundance]] [[Lexicon/H7201-7300#H7227|of many]] [[Lexicon/H7501-7600#H7563|[who are] wicked.]]
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 16|LXX]] |
 
 ##### Psalm 37 - 17
@@ -98,7 +98,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 22|LXX]] |
 
 ##### Psalm 37 - 23
-[[Lexicon/H4701-4800#H4703|The steps]] [[Lexicon/H1301-1400#H1397|of a man]] [[Lexicon/H3501-3600#H3559|are ordered]] [[Lexicon/H3001-3100#H3068|by the LORD]] [[Lexicon/H2601-2700#H2654|(who) takes delight]] [[Lexicon/H1801-1900#H1870|in his journey.]]
+[[Lexicon/H4701-4800#H4703|The steps]] [[Lexicon/H1301-1400#H1397|of a man]] [[Lexicon/H3501-3600#H3559|are ordered]] [[Lexicon/H3001-3100#H3068|by the LORD]] [[Lexicon/H2601-2700#H2654|[who] takes delight]] [[Lexicon/H1801-1900#H1870|in his journey.]]
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 23|LXX]] |
 
 ##### Psalm 37 - 24
@@ -142,7 +142,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 33|LXX]] |
 
 ##### Psalm 37 - 34
-[[Lexicon/H6901-7000#H6960|Wait]] [[Lexicon/H401-500#H413|for]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8101-8200#H8104|and keep]] [[Lexicon/H1801-1900#H1870|His way ,]] [[Lexicon/H7301-7400#H7311|and He will raise you up]] [[Lexicon/H3401-3500#H3423|to inherit]] [[Lexicon/H701-800#H776|the land.]] [[Lexicon/H7501-7600#H7563|When the wicked]] [[Lexicon/H3701-3800#H3772|are cut off ,]] [[Lexicon/H7101-7200#H7200|you will see (it).]]
+[[Lexicon/H6901-7000#H6960|Wait]] [[Lexicon/H401-500#H413|for]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8101-8200#H8104|and keep]] [[Lexicon/H1801-1900#H1870|His way ,]] [[Lexicon/H7301-7400#H7311|and He will raise you up]] [[Lexicon/H3401-3500#H3423|to inherit]] [[Lexicon/H701-800#H776|the land.]] [[Lexicon/H7501-7600#H7563|When the wicked]] [[Lexicon/H3701-3800#H3772|are cut off ,]] [[Lexicon/H7101-7200#H7200|you will see [it].]]
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 34|LXX]] |
 
 ##### Psalm 37 - 35
@@ -154,7 +154,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 36|LXX]] |
 
 ##### Psalm 37 - 37
-[[Lexicon/H8101-8200#H8104|Consider]] [[Lexicon/H8501-8600#H8535|the blameless]] [[Lexicon/H7101-7200#H7200|and observe]] [[Lexicon/H3401-3500#H3477|the upright ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H301-400#H319|posterity (awaits)]] [[Lexicon/H301-400#H376|the man]] [[Lexicon/H7901-8000#H7965|of peace.]]
+[[Lexicon/H8101-8200#H8104|Consider]] [[Lexicon/H8501-8600#H8535|the blameless]] [[Lexicon/H7101-7200#H7200|and observe]] [[Lexicon/H3401-3500#H3477|the upright ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H301-400#H319|posterity [awaits]]] [[Lexicon/H301-400#H376|the man]] [[Lexicon/H7901-8000#H7965|of peace.]]
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 37|LXX]] |
 
 ##### Psalm 37 - 38
@@ -162,7 +162,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 38|LXX]] |
 
 ##### Psalm 37 - 39
-[[Lexicon/H8601-8674#H8668|The salvation]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H3001-3100#H3068|(is) from the LORD ;]] [[Lexicon/H4501-4600#H4581|(He is) their stronghold]] [[Lexicon/H6201-6300#H6256|in time]] [[Lexicon/H6801-6900#H6869|of trouble.]]
+[[Lexicon/H8601-8674#H8668|The salvation]] [[Lexicon/H6601-6700#H6662|of the righteous]] [[Lexicon/H3001-3100#H3068|[is] from the LORD ;]] [[Lexicon/H4501-4600#H4581|[He is] their stronghold]] [[Lexicon/H6201-6300#H6256|in time]] [[Lexicon/H6801-6900#H6869|of trouble.]]
 | [[LXX Reference/19 - Psalms/Psalms 37#Psalm 37 - 39|LXX]] |
 
 ##### Psalm 37 - 40

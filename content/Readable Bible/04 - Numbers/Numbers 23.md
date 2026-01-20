@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Numbers 23
+# Numbers-R 23
 
-[[Readable Bible/04 - Numbers/Numbers 22|← Numbers 22]] | [[Readable Bible/04 - Numbers/Numbers 24|Numbers 24 →]]
+**[[Home/Scripture/04 - Numbers|Numbers]]**
+
+[[Readable Bible/04 - Numbers/Numbers 22#Numbers-R 22| Numbers 22]] - [[Readable Bible/04 - Numbers/Numbers 24#Numbers-R 24| Numbers 24]]
 
 ---
 

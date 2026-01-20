@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 1 Thessalonians 4 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/52 - 1 Thessalonians|← 1 Thessalonians]]** | [[The Treasury of Scripture Knowledge/52. 1 Thessalonians TOSK/1 Thessalonians - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/52. 1 Thessalonians TOSK/1 Thessalonians - 5 - TOSK|Ch 5 →]]
+**[[Home/Scripture/52 - 1 Thessalonians|← 1 Thessalonians]]** | [[The Treasury of Scripture Knowledge/52. 1 Thessalonians TOSK/1 Thessalonians - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/52. 1 Thessalonians TOSK/1 Thessalonians - 5 - TOSK|Ch 5 →]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 1 Kings 12 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/11 - 1 Kings|← 1 Kings]]** | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 13 - TOSK|Ch 13 →]]
+**[[Home/Scripture/11 - 1 Kings|← 1 Kings]]** | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 13 - TOSK|Ch 13 →]]
 
 ---
 

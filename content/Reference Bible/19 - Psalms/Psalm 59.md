@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 59 - 1
-[[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H501-600#H516|To the tune of]] [[Lexicon/H501-600#H516|“ Do Not Destroy. ”]] [[Lexicon/H4301-4400#H4387|A Miktam]] [[Lexicon/H1701-1800#H1732|of David ,]] [[Lexicon/H7501-7600#H7586|when Saul]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H8101-8200#H8104|men to watch]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1001-1100#H1004|(David’s) house]] [[Lexicon/H4101-4200#H4191|in order to kill him.]] [[Lexicon/H5301-5400#H5337|Deliver me]] [[Lexicon/H301-400#H341|from my enemies ,]] [[Lexicon/H401-500#H430|O my God ;]] [[Lexicon/H7601-7700#H7682|protect me]] [[Lexicon/H6901-7000#H6965|from those who rise against me.]]
+[[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H501-600#H516|To the tune of]] [[Lexicon/H501-600#H516|“ Do Not Destroy. ”]] [[Lexicon/H4301-4400#H4387|A Miktam]] [[Lexicon/H1701-1800#H1732|of David ,]] [[Lexicon/H7501-7600#H7586|when Saul]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H8101-8200#H8104|men to watch]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1001-1100#H1004|[David’s] house]] [[Lexicon/H4101-4200#H4191|in order to kill him.]] [[Lexicon/H5301-5400#H5337|Deliver me]] [[Lexicon/H301-400#H341|from my enemies ,]] [[Lexicon/H401-500#H430|O my God ;]] [[Lexicon/H7601-7700#H7682|protect me]] [[Lexicon/H6901-7000#H6965|from those who rise against me.]]
 | [[LXX Reference/19 - Psalms/Psalms 59#Psalm 59 - 1|LXX]] |
 
 ##### Psalm 59 - 2
@@ -18,7 +18,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 59#Psalm 59 - 2|LXX]] |
 
 ##### Psalm 59 - 3
-[[Lexicon/H3501-3600#H3588|vvv]] [[Lexicon/H2001-2100#H2009|See]] [[Lexicon/H601-700#H693|how they lie in wait]] [[Lexicon/H5301-5400#H5315|for me.]] [[Lexicon/H5701-5800#H5794|Fierce men]] [[Lexicon/H1401-1500#H1481|conspire]] [[Lexicon/H5901-6000#H5921|against me]] [[Lexicon/H3801-3900#H3808|for no]] [[Lexicon/H6501-6600#H6588|transgression]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H2401-2500#H2403|sin (of my own) ,]] [[Lexicon/H3001-3100#H3068|O LORD.]]
+[[Lexicon/H3501-3600#H3588|vvv]] [[Lexicon/H2001-2100#H2009|See]] [[Lexicon/H601-700#H693|how they lie in wait]] [[Lexicon/H5301-5400#H5315|for me.]] [[Lexicon/H5701-5800#H5794|Fierce men]] [[Lexicon/H1401-1500#H1481|conspire]] [[Lexicon/H5901-6000#H5921|against me]] [[Lexicon/H3801-3900#H3808|for no]] [[Lexicon/H6501-6600#H6588|transgression]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H2401-2500#H2403|sin [of my own] ,]] [[Lexicon/H3001-3100#H3068|O LORD.]]
 | [[LXX Reference/19 - Psalms/Psalms 59#Psalm 59 - 3|LXX]] |
 
 ##### Psalm 59 - 4
@@ -42,7 +42,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 59#Psalm 59 - 8|LXX]] |
 
 ##### Psalm 59 - 9
-[[Lexicon/H8101-8200#H8104|I will keep watch]] [[Lexicon/H401-500#H413|for You ,]] [[Lexicon/H5701-5800#H5797|O my strength ,]] [[Lexicon/H3501-3600#H3588|because (You) ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H4801-4900#H4869|are my fortress.]]
+[[Lexicon/H8101-8200#H8104|I will keep watch]] [[Lexicon/H401-500#H413|for You ,]] [[Lexicon/H5701-5800#H5797|O my strength ,]] [[Lexicon/H3501-3600#H3588|because [You] ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H4801-4900#H4869|are my fortress.]]
 | [[LXX Reference/19 - Psalms/Psalms 59#Psalm 59 - 9|LXX]] |
 
 ##### Psalm 59 - 10
@@ -58,7 +58,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 59#Psalm 59 - 12|LXX]] |
 
 ##### Psalm 59 - 13
-[[Lexicon/H3601-3700#H3615|Consume]] [[Lexicon/H2501-2600#H2534|(them) in wrath ;]] [[Lexicon/H3601-3700#H3615|consume them]] [[Lexicon/H301-400#H369|till they are no more ,]] [[Lexicon/H3001-3100#H3045|so it may be known]] [[Lexicon/H601-700#H657|to the ends]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H4901-5000#H4910|rules]] [[Lexicon/H3201-3300#H3290|over Jacob.]] [[Lexicon/H5501-5600#H5542|Selah]]
+[[Lexicon/H3601-3700#H3615|Consume]] [[Lexicon/H2501-2600#H2534|[them] in wrath ;]] [[Lexicon/H3601-3700#H3615|consume them]] [[Lexicon/H301-400#H369|till they are no more ,]] [[Lexicon/H3001-3100#H3045|so it may be known]] [[Lexicon/H601-700#H657|to the ends]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H4901-5000#H4910|rules]] [[Lexicon/H3201-3300#H3290|over Jacob.]] [[Lexicon/H5501-5600#H5542|Selah]]
 | [[LXX Reference/19 - Psalms/Psalms 59#Psalm 59 - 13|LXX]] |
 
 ##### Psalm 59 - 14

@@ -25,7 +25,7 @@ Chapter: "9"
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 3|LXX]] |
 
 ##### Exodus 9 - 4
-[[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H6301-6400#H6395|will make a distinction]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H4701-4800#H4735|the livestock]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H901-1000#H996|...]] [[Lexicon/H4701-4800#H4735|and the livestock]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H3801-3900#H3808|so that no (animal)]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H3601-3700#H3605|belonging to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H4101-4200#H4191|will die. ’”]]
+[[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H6301-6400#H6395|will make a distinction]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H4701-4800#H4735|the livestock]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H901-1000#H996|...]] [[Lexicon/H4701-4800#H4735|and the livestock]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H3801-3900#H3808|so that no [animal]]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H3601-3700#H3605|belonging to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H4101-4200#H4191|will die. ’”]]
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 4|LXX]] |
 
 ##### Exodus 9 - 5
@@ -53,7 +53,7 @@ Chapter: "9"
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 10|LXX]] |
 
 ##### Exodus 9 - 11
-[[Lexicon/H2701-2800#H2748|The magicians]] [[Lexicon/H3201-3300#H3201|could]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H5901-6000#H5975|stand]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H6401-6500#H6440|because]] [[Lexicon/H7801-7900#H7822|the boils]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H7801-7900#H7822|-]] [[Lexicon/H1901-2000#H1961|had broken out]] [[Lexicon/H2701-2800#H2748|on (them)]] [[Lexicon/H3601-3700#H3605|and on all]] [[Lexicon/H4701-4800#H4713|the Egyptians.]]
+[[Lexicon/H2701-2800#H2748|The magicians]] [[Lexicon/H3201-3300#H3201|could]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H5901-6000#H5975|stand]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H6401-6500#H6440|because]] [[Lexicon/H7801-7900#H7822|the boils]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H7801-7900#H7822|-]] [[Lexicon/H1901-2000#H1961|had broken out]] [[Lexicon/H2701-2800#H2748|on [them]]] [[Lexicon/H3601-3700#H3605|and on all]] [[Lexicon/H4701-4800#H4713|the Egyptians.]]
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 11|LXX]] |
 
 ##### Exodus 9 - 12
@@ -65,7 +65,7 @@ Chapter: "9"
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 13|LXX]] |
 
 ##### Exodus 9 - 14
-[[Lexicon/H3501-3600#H3588|Otherwise]] [[Lexicon/H6401-6500#H6471|...]] [[Lexicon/H2001-2100#H2063|... ,]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H7901-8000#H7971|will send]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4001-4100#H4046|My plagues]] [[Lexicon/H401-500#H413|against]] [[Lexicon/H3801-3900#H3820|you]] [[Lexicon/H5601-5700#H5650|and your officials]] [[Lexicon/H5901-6000#H5971|and your people ,]] [[Lexicon/H5601-5700#H5668|so]] [[Lexicon/H3001-3100#H3045|you may know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H301-400#H369|(there is) no one]] [[Lexicon/H3601-3700#H3644|like Me]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H701-800#H776|the earth.]]
+[[Lexicon/H3501-3600#H3588|Otherwise]] [[Lexicon/H6401-6500#H6471|...]] [[Lexicon/H2001-2100#H2063|... ,]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H7901-8000#H7971|will send]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4001-4100#H4046|My plagues]] [[Lexicon/H401-500#H413|against]] [[Lexicon/H3801-3900#H3820|you]] [[Lexicon/H5601-5700#H5650|and your officials]] [[Lexicon/H5901-6000#H5971|and your people ,]] [[Lexicon/H5601-5700#H5668|so]] [[Lexicon/H3001-3100#H3045|you may know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H301-400#H369|[there is] no one]] [[Lexicon/H3601-3700#H3644|like Me]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H701-800#H776|the earth.]]
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 14|LXX]] |
 
 ##### Exodus 9 - 15
@@ -105,19 +105,19 @@ Chapter: "9"
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 23|LXX]] |
 
 ##### Exodus 9 - 24
-[[Lexicon/H1201-1300#H1259|The hail]] [[Lexicon/H1901-2000#H1961|fell]] [[Lexicon/H701-800#H784|and the lightning]] [[Lexicon/H3901-4000#H3947|continued flashing]] [[Lexicon/H8401-8500#H8432|through it.]] [[Lexicon/H1201-1300#H1259|The hail]] [[Lexicon/H3901-4000#H3966|was so]] [[Lexicon/H3501-3600#H3515|severe]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3801-3900#H3808|nothing]] [[Lexicon/H3601-3700#H3644|like it]] [[Lexicon/H1901-2000#H1961|had ever been (seen)]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H201-300#H227|from the time]] [[Lexicon/H1901-2000#H1961|it became]] [[Lexicon/H1401-1500#H1471|a nation.]]
+[[Lexicon/H1201-1300#H1259|The hail]] [[Lexicon/H1901-2000#H1961|fell]] [[Lexicon/H701-800#H784|and the lightning]] [[Lexicon/H3901-4000#H3947|continued flashing]] [[Lexicon/H8401-8500#H8432|through it.]] [[Lexicon/H1201-1300#H1259|The hail]] [[Lexicon/H3901-4000#H3966|was so]] [[Lexicon/H3501-3600#H3515|severe]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3801-3900#H3808|nothing]] [[Lexicon/H3601-3700#H3644|like it]] [[Lexicon/H1901-2000#H1961|had ever been [seen]]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H201-300#H227|from the time]] [[Lexicon/H1901-2000#H1961|it became]] [[Lexicon/H1401-1500#H1471|a nation.]]
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 24|LXX]] |
 
 ##### Exodus 9 - 25
-[[Lexicon/H3601-3700#H3605|Throughout]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1259|the hail]] [[Lexicon/H5201-5300#H5221|struck down]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7701-7800#H7704|in the field ,]] [[Lexicon/H101-200#H120|both man]] [[Lexicon/H5701-5800#H5704|and]] [[Lexicon/H901-1000#H929|beast ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1259|(it)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5221|beat down]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H6201-6300#H6212|plant]] [[Lexicon/H7701-7800#H7704|of the field]] [[Lexicon/H7601-7700#H7665|and stripped]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H6001-6100#H6086|tree]] [[Lexicon/H7701-7800#H7704|....]]
+[[Lexicon/H3601-3700#H3605|Throughout]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1259|the hail]] [[Lexicon/H5201-5300#H5221|struck down]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7701-7800#H7704|in the field ,]] [[Lexicon/H101-200#H120|both man]] [[Lexicon/H5701-5800#H5704|and]] [[Lexicon/H901-1000#H929|beast ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1259|[it]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5221|beat down]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H6201-6300#H6212|plant]] [[Lexicon/H7701-7800#H7704|of the field]] [[Lexicon/H7601-7700#H7665|and stripped]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H6001-6100#H6086|tree]] [[Lexicon/H7701-7800#H7704|....]]
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 25|LXX]] |
 
 ##### Exodus 9 - 26
-[[Lexicon/H7501-7600#H7535|The only]] [[Lexicon/H3801-3900#H3808|place where it did not]] [[Lexicon/H1201-1300#H1259|hail]] [[Lexicon/H1901-2000#H1961|was]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H1601-1700#H1657|of Goshen ,]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H8001-8100#H8033|(lived).]]
+[[Lexicon/H7501-7600#H7535|The only]] [[Lexicon/H3801-3900#H3808|place where it did not]] [[Lexicon/H1201-1300#H1259|hail]] [[Lexicon/H1901-2000#H1961|was]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H1601-1700#H1657|of Goshen ,]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H8001-8100#H8033|[lived].]]
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 26|LXX]] |
 
 ##### Exodus 9 - 27
-[[Lexicon/H6501-6600#H6547|Then Pharaoh]] [[Lexicon/H7901-8000#H7971|summoned]] [[Lexicon/H7101-7200#H7121|...]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H101-200#H175|and Aaron.]] [[Lexicon/H6401-6500#H6471|“ This time]] [[Lexicon/H2301-2400#H2398|I have sinned , ”]] [[Lexicon/H501-600#H559|he said]] [[Lexicon/H401-500#H413|....]] [[Lexicon/H3001-3100#H3068|“ The LORD]] [[Lexicon/H6601-6700#H6662|(is) righteous ,]] [[Lexicon/H501-600#H589|and I]] [[Lexicon/H5901-6000#H5971|and my people]] [[Lexicon/H7501-7600#H7563|(are) wicked.]]
+[[Lexicon/H6501-6600#H6547|Then Pharaoh]] [[Lexicon/H7901-8000#H7971|summoned]] [[Lexicon/H7101-7200#H7121|...]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H101-200#H175|and Aaron.]] [[Lexicon/H6401-6500#H6471|“ This time]] [[Lexicon/H2301-2400#H2398|I have sinned , ”]] [[Lexicon/H501-600#H559|he said]] [[Lexicon/H401-500#H413|....]] [[Lexicon/H3001-3100#H3068|“ The LORD]] [[Lexicon/H6601-6700#H6662|[is] righteous ,]] [[Lexicon/H501-600#H589|and I]] [[Lexicon/H5901-6000#H5971|and my people]] [[Lexicon/H7501-7600#H7563|[are] wicked.]]
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 27|LXX]] |
 
 ##### Exodus 9 - 28
@@ -125,7 +125,7 @@ Chapter: "9"
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 28|LXX]] |
 
 ##### Exodus 9 - 29
-[[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to him ,]] [[Lexicon/H3301-3400#H3318|“ When I have left]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5892|the city ,]] [[Lexicon/H6501-6600#H6566|I will spread out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3701-3800#H3709|my hands]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD.]] [[Lexicon/H6901-7000#H6963|The thunder]] [[Lexicon/H2301-2400#H2308|will cease ,]] [[Lexicon/H1901-2000#H1961|and there will be]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H5701-5800#H5750|more]] [[Lexicon/H1201-1300#H1259|hail ,]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H3001-3100#H3045|you may know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H3001-3100#H3068|(is) the LORD’s.]]
+[[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to him ,]] [[Lexicon/H3301-3400#H3318|“ When I have left]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5892|the city ,]] [[Lexicon/H6501-6600#H6566|I will spread out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3701-3800#H3709|my hands]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD.]] [[Lexicon/H6901-7000#H6963|The thunder]] [[Lexicon/H2301-2400#H2308|will cease ,]] [[Lexicon/H1901-2000#H1961|and there will be]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H5701-5800#H5750|more]] [[Lexicon/H1201-1300#H1259|hail ,]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H3001-3100#H3045|you may know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H3001-3100#H3068|[is] the LORD’s.]]
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 29|LXX]] |
 
 ##### Exodus 9 - 30
@@ -133,7 +133,7 @@ Chapter: "9"
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 30|LXX]] |
 
 ##### Exodus 9 - 31
-[[Lexicon/H6501-6600#H6594|( Now the flax]] [[Lexicon/H8101-8200#H8184|and barley]] [[Lexicon/H5201-5300#H5221|were destroyed ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H8101-8200#H8184|the barley]] [[Lexicon/H1-100#H24|...]] [[Lexicon/H6501-6600#H6594|was ripe and the flax]] [[Lexicon/H1301-1400#H1392|(was) in bloom ;]]
+[[Lexicon/H6501-6600#H6594|( Now the flax]] [[Lexicon/H8101-8200#H8184|and barley]] [[Lexicon/H5201-5300#H5221|were destroyed ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H8101-8200#H8184|the barley]] [[Lexicon/H1-100#H24|...]] [[Lexicon/H6501-6600#H6594|was ripe and the flax]] [[Lexicon/H1301-1400#H1392|[was] in bloom ;]]
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 31|LXX]] |
 
 ##### Exodus 9 - 32
@@ -141,7 +141,7 @@ Chapter: "9"
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 32|LXX]] |
 
 ##### Exodus 9 - 33
-[[Lexicon/H4801-4900#H4872|Then Moses]] [[Lexicon/H3301-3400#H3318|departed]] [[Lexicon/H5901-6000#H5973|from]] [[Lexicon/H6501-6600#H6547|Pharaoh ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5892|(went) out of the city ,]] [[Lexicon/H6501-6600#H6566|and spread out]] [[Lexicon/H3701-3800#H3709|his hands]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD.]] [[Lexicon/H6901-7000#H6963|The thunder]] [[Lexicon/H1201-1300#H1259|and hail]] [[Lexicon/H2301-2400#H2308|ceased ,]] [[Lexicon/H4301-4400#H4306|and the rain]] [[Lexicon/H3801-3900#H3808|no longer]] [[Lexicon/H5401-5500#H5413|poured down]] [[Lexicon/H701-800#H776|on the land.]]
+[[Lexicon/H4801-4900#H4872|Then Moses]] [[Lexicon/H3301-3400#H3318|departed]] [[Lexicon/H5901-6000#H5973|from]] [[Lexicon/H6501-6600#H6547|Pharaoh ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5892|[went] out of the city ,]] [[Lexicon/H6501-6600#H6566|and spread out]] [[Lexicon/H3701-3800#H3709|his hands]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD.]] [[Lexicon/H6901-7000#H6963|The thunder]] [[Lexicon/H1201-1300#H1259|and hail]] [[Lexicon/H2301-2400#H2308|ceased ,]] [[Lexicon/H4301-4400#H4306|and the rain]] [[Lexicon/H3801-3900#H3808|no longer]] [[Lexicon/H5401-5500#H5413|poured down]] [[Lexicon/H701-800#H776|on the land.]]
 | [[LXX Reference/2 - Exodus/Exodus 9#Exodus 9 - 33|LXX]] |
 
 ##### Exodus 9 - 34

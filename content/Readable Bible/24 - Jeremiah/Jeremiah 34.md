@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah 34
+# Jeremiah-R 34
 
-[[Readable Bible/24 - Jeremiah/Jeremiah 33|← Jeremiah 33]] | [[Readable Bible/24 - Jeremiah/Jeremiah 35|Jeremiah 35 →]]
+**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 33#Jeremiah-R 33| Jeremiah 33]] - [[Readable Bible/24 - Jeremiah/Jeremiah 35#Jeremiah-R 35| Jeremiah 35]]
 
 ---
 
@@ -96,5 +98,5 @@ cssClasses: lexicon
 
 
 ##### Jeremiah 34 . 22
-[[Reference Bible/24 - Jeremiah/Jeremiah 34#Jeremiah 34 - 22|22]] Behold, I am going to give the command, declares the LORD, and I will bring them back to this city. They will fight against it, capture it, and burn it down. And I will make the cities of Judah a desolation, without inhabitant.”  | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 34 - TOSK#Verse 22|TOSK]] ||
+[[Reference Bible/24 - Jeremiah/Jeremiah 34#Jeremiah 34 - 22|22]] Behold, I am going to give the command, declares the LORD, and I will bring them back to this city. They will fight against it, capture it, and burn it down. And I will make the cities of Judah a desolation, without inhabitant.”  | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 34 - TOSK#Verse 22|TOSK]] | |
 

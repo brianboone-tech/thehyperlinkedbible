@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]**
+**[[Home/Scripture/26 - Ezekiel|← Ezekiel]]**
 
 ---
 

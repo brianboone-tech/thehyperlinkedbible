@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Joshua 4
+# Joshua-R 4
 
-[[Readable Bible/06 - Joshua/Joshua 3|← Joshua 3]] | [[Readable Bible/06 - Joshua/Joshua 5|Joshua 5 →]]
+**[[Home/Scripture/06 - Joshua|Joshua]]**
+
+[[Readable Bible/06 - Joshua/Joshua 3#Joshua-R 3| Joshua 3]] - [[Readable Bible/06 - Joshua/Joshua 5#Joshua-R 5| Joshua 5]]
 
 ---
 
 ##### Joshua 4 . 1
-[[Reference Bible/6 - Joshua/Joshua 4#Joshua 4 - 1|1]] When the whole nation had finished crossing the Jordan, the LORD said to Joshua,  | | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 4 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/6 - Joshua/Joshua 4#Joshua 4 - 1|1]] When the whole nation had finished crossing the Jordan, the LORD said to Joshua,   || [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 4 - TOSK#Verse 1|TOSK]] |
 
 ##### Joshua 4 . 2
 [[Reference Bible/6 - Joshua/Joshua 4#Joshua 4 - 2|2]] "Choose twelve men from among the people, one from each tribe,  | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 4 - TOSK#Verse 2|TOSK]] |

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Joshua 23
+# Joshua-R 23
 
-[[Readable Bible/06 - Joshua/Joshua 22|← Joshua 22]] | [[Readable Bible/06 - Joshua/Joshua 24|Joshua 24 →]]
+**[[Home/Scripture/06 - Joshua|Joshua]]**
+
+[[Readable Bible/06 - Joshua/Joshua 22#Joshua-R 22| Joshua 22]] - [[Readable Bible/06 - Joshua/Joshua 24#Joshua-R 24| Joshua 24]]
 
 ---
 

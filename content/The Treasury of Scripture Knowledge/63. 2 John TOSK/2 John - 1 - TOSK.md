@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 John 1 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/63 - 2 John|← 2 John]]**
+**[[Home/Scripture/63 - 2 John|← 2 John]]**
 
 ---
 

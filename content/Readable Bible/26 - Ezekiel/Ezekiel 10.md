@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 10
+# Ezekiel-R 10
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 9|← Ezekiel 9]] | [[Readable Bible/26 - Ezekiel/Ezekiel 11|Ezekiel 11 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 9#Ezekiel-R 9| Ezekiel 9]] - [[Readable Bible/26 - Ezekiel/Ezekiel 11#Ezekiel-R 11| Ezekiel 11]]
 
 ---
 
@@ -51,7 +53,7 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 10#Ezekiel 10 - 13|13]] I heard the wheels being called “the whirling wheels.”  | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 10 - TOSK#Verse 13|TOSK]] |
 
 ##### Ezekiel 10 . 14
-[[Reference Bible/26 - Ezekiel/Ezekiel 10#Ezekiel 10 - 14|14]] Each of the cherubim had four faces: the first face was that of a cherub, the second that of a man, the third that of a lion, and the fourth that of an eagle.| | [[Chiasm/Chiasm - 26 - Ezekiel 10 . 14 - 22|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 10 - TOSK#Verse 14|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 10#Ezekiel 10 - 14|14]] Each of the cherubim had four faces: the first face was that of a cherub, the second that of a man, the third that of a lion, and the fourth that of an eagle.|  | [[Chiasm/Chiasm - 26 - Ezekiel 10 . 14 - 22|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 10 - TOSK#Verse 14|TOSK]] |
 
 ##### Ezekiel 10 . 15
 [[Reference Bible/26 - Ezekiel/Ezekiel 10#Ezekiel 10 - 15|15]] Then the cherubim rose upward. These were the living creatures I had seen by the River Kebar.  | [[Chiasm/Chiasm - 26 - Ezekiel 10 . 14 - 22|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 10 - TOSK#Verse 15|TOSK]] |

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Genesis 31
+# Genesis-R 31
 
-[[Readable Bible/01 - Genesis/Genesis 30|← Genesis 30]] | [[Readable Bible/01 - Genesis/Genesis 32|Genesis 32 →]]
+**[[Home/Scripture/01 - Genesis|Genesis]]**
+
+[[Readable Bible/01 - Genesis/Genesis 30#Genesis-R 30| Genesis 30]] - [[Readable Bible/01 - Genesis/Genesis 32#Genesis-R 32| Genesis 32]]
 
 ---
 

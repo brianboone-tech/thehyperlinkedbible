@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hosea 4
+# Hosea-R 4
 
-[[Readable Bible/28 - Hosea/Hosea 3|← Hosea 3]] | [[Readable Bible/28 - Hosea/Hosea 5|Hosea 5 →]]
+**[[Home/Scripture/28 - Hosea|Hosea]]**
+
+[[Readable Bible/28 - Hosea/Hosea 3#Hosea-R 3| Hosea 3]] - [[Readable Bible/28 - Hosea/Hosea 5#Hosea-R 5| Hosea 5]]
 
 ---
 
 ##### Hosea 4 . 1
-[[Reference Bible/28 - Hosea/Hosea 4#Hosea 4 - 1|1]] Hear the word of the LORD, O children of Israel, for the LORD has a case against the people of the land: “There is no truth, no loving devotion, and no knowledge of God in the land!  | | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 4 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/037 - Covenant Violations (Prophetic Indictments)|TT]] |
+[[Reference Bible/28 - Hosea/Hosea 4#Hosea 4 - 1|1]] Hear the word of the LORD, O children of Israel, for the LORD has a case against the people of the land: “There is no truth, no loving devotion, and no knowledge of God in the land!   || [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 4 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/037 - Covenant Violations (Prophetic Indictments)|TT]] |
 
 ##### Hosea 4 . 2
 [[Reference Bible/28 - Hosea/Hosea 4#Hosea 4 - 2|2]] Cursing and lying, murder and stealing, and adultery are rampant; one act of bloodshed follows another.  | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 4 - TOSK#Verse 2|TOSK]] |

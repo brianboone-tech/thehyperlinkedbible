@@ -14,7 +14,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 47#Psalm 47 - 1|LXX]] |
 
 ##### Psalm 47 - 2
-[[Lexicon/H3501-3600#H3588|How]] [[Lexicon/H3301-3400#H3372|awesome (is)]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5901-6000#H5945|Most High ,]] [[Lexicon/H1401-1500#H1419|the great]] [[Lexicon/H4401-4500#H4428|King]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H701-800#H776|the earth !]]
+[[Lexicon/H3501-3600#H3588|How]] [[Lexicon/H3301-3400#H3372|awesome [is]]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5901-6000#H5945|Most High ,]] [[Lexicon/H1401-1500#H1419|the great]] [[Lexicon/H4401-4500#H4428|King]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H701-800#H776|the earth !]]
 | [[LXX Reference/19 - Psalms/Psalms 47#Psalm 47 - 2|LXX]] |
 
 ##### Psalm 47 - 3

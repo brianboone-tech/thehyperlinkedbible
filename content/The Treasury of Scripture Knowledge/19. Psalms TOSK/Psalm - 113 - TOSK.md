@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 113 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 112 - TOSK|← Ch 112]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 114 - TOSK|Ch 114 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 112 - TOSK|← Ch 112]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 114 - TOSK|Ch 114 →]]
 
 ---
 

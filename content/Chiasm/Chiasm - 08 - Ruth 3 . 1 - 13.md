@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/08 - Ruth|← Ruth]]**
+**[[Home/Scripture/08 - Ruth|← Ruth]]**
 
 ---
 

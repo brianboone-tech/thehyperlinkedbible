@@ -21,7 +21,7 @@ Chapter: "21"
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 2|LXX]] |
 
 ##### Numbers 21 - 3
-[[Lexicon/H3001-3100#H3068|And the LORD]] [[Lexicon/H8001-8100#H8085|heard]] [[Lexicon/H3401-3500#H3478|Israel’s]] [[Lexicon/H6901-7000#H6963|plea]] [[Lexicon/H5401-5500#H5414|and delivered up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3669|the Canaanites.]] [[Lexicon/H2701-2800#H2763|(Israel) devoted]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H5801-5900#H5892|their cities {to destruction} ;]] [[Lexicon/H7101-7200#H7121|so they named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H4701-4800#H4725|the place]] [[Lexicon/H2701-2800#H2767|Hormah.]]
+[[Lexicon/H3001-3100#H3068|And the LORD]] [[Lexicon/H8001-8100#H8085|heard]] [[Lexicon/H3401-3500#H3478|Israel’s]] [[Lexicon/H6901-7000#H6963|plea]] [[Lexicon/H5401-5500#H5414|and delivered up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3669|the Canaanites.]] [[Lexicon/H2701-2800#H2763|[Israel] devoted]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H5801-5900#H5892|their cities {to destruction} ;]] [[Lexicon/H7101-7200#H7121|so they named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H4701-4800#H4725|the place]] [[Lexicon/H2701-2800#H2767|Hormah.]]
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 3|LXX]] |
 
 ##### Numbers 21 - 4
@@ -33,7 +33,7 @@ Chapter: "21"
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 5|LXX]] |
 
 ##### Numbers 21 - 6
-[[Lexicon/H3001-3100#H3068|So the LORD]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H8301-8400#H8314|venomous]] [[Lexicon/H5101-5200#H5175|snakes]] [[Lexicon/H5901-6000#H5971|among (the people) ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7227|and many]] [[Lexicon/H5901-6000#H5971|vvv]] [[Lexicon/H3401-3500#H3478|of the Israelites]] [[Lexicon/H5301-5400#H5391|were bitten]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|-]] [[Lexicon/H4101-4200#H4191|and died.]]
+[[Lexicon/H3001-3100#H3068|So the LORD]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H8301-8400#H8314|venomous]] [[Lexicon/H5101-5200#H5175|snakes]] [[Lexicon/H5901-6000#H5971|among [the people] ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7227|and many]] [[Lexicon/H5901-6000#H5971|vvv]] [[Lexicon/H3401-3500#H3478|of the Israelites]] [[Lexicon/H5301-5400#H5391|were bitten]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|-]] [[Lexicon/H4101-4200#H4191|and died.]]
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 6|LXX]] |
 
 ##### Numbers 21 - 7
@@ -73,7 +73,7 @@ Chapter: "21"
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 15|LXX]] |
 
 ##### Numbers 21 - 16
-[[Lexicon/H8001-8100#H8033|From there]] [[Lexicon/H801-900#H876|(they went on) to Beer ,]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H801-900#H875|the well]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H4801-4900#H4872|to Moses ,]] [[Lexicon/H601-700#H622|“ Gather]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H5401-5500#H5414|so that I may give]] [[Lexicon/H4301-4400#H4325|water. ”]]
+[[Lexicon/H8001-8100#H8033|From there]] [[Lexicon/H801-900#H876|[they went on] to Beer ,]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H801-900#H875|the well]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H4801-4900#H4872|to Moses ,]] [[Lexicon/H601-700#H622|“ Gather]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H5401-5500#H5414|so that I may give]] [[Lexicon/H4301-4400#H4325|water. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 16|LXX]] |
 
 ##### Numbers 21 - 17
@@ -81,7 +81,7 @@ Chapter: "21"
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 17|LXX]] |
 
 ##### Numbers 21 - 18
-[[Lexicon/H8201-8300#H8269|The princes]] [[Lexicon/H2601-2700#H2658|dug]] [[Lexicon/H801-900#H875|the well ;]] [[Lexicon/H5001-5100#H5081|the nobles]] [[Lexicon/H5901-6000#H5971|of the people]] [[Lexicon/H3701-3800#H3738|hollowed it out]] [[Lexicon/H2701-2800#H2710|with their scepters]] [[Lexicon/H4901-5000#H4938|and with their staffs. ”]] [[Lexicon/H4001-4100#H4057|From the wilderness (the Israelites went on)]] [[Lexicon/H4901-5000#H4980|to Mattanah ,]]
+[[Lexicon/H8201-8300#H8269|The princes]] [[Lexicon/H2601-2700#H2658|dug]] [[Lexicon/H801-900#H875|the well ;]] [[Lexicon/H5001-5100#H5081|the nobles]] [[Lexicon/H5901-6000#H5971|of the people]] [[Lexicon/H3701-3800#H3738|hollowed it out]] [[Lexicon/H2701-2800#H2710|with their scepters]] [[Lexicon/H4901-5000#H4938|and with their staffs. ”]] [[Lexicon/H4001-4100#H4057|From the wilderness [the Israelites went on]]] [[Lexicon/H4901-5000#H4980|to Mattanah ,]]
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 18|LXX]] |
 
 ##### Numbers 21 - 19
@@ -89,7 +89,7 @@ Chapter: "21"
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 19|LXX]] |
 
 ##### Numbers 21 - 20
-[[Lexicon/H1101-1200#H1120|and from Bamoth]] [[Lexicon/H1501-1600#H1516|to the valley]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7701-7800#H7704|(in)]] [[Lexicon/H4101-4200#H4124|Moab]] [[Lexicon/H7201-7300#H7218|where the top]] [[Lexicon/H6401-6500#H6449|of Pisgah]] [[Lexicon/H8201-8300#H8259|overlooks]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H3401-3500#H3452|the wasteland.]]
+[[Lexicon/H1101-1200#H1120|and from Bamoth]] [[Lexicon/H1501-1600#H1516|to the valley]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7701-7800#H7704|[in]]] [[Lexicon/H4101-4200#H4124|Moab]] [[Lexicon/H7201-7300#H7218|where the top]] [[Lexicon/H6401-6500#H6449|of Pisgah]] [[Lexicon/H8201-8300#H8259|overlooks]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H3401-3500#H3452|the wasteland.]]
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 20|LXX]] |
 
 ##### Numbers 21 - 21
@@ -97,7 +97,7 @@ Chapter: "21"
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 21|LXX]] |
 
 ##### Numbers 21 - 22
-[[Lexicon/H5601-5700#H5674|“ Let us pass]] [[Lexicon/H701-800#H776|through your land.]] [[Lexicon/H3801-3900#H3808|We will not]] [[Lexicon/H5101-5200#H5186|cut through]] [[Lexicon/H7701-7800#H7704|any field]] [[Lexicon/H3701-3800#H3754|or vineyard ,]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H801-900#H875|from any well.]] [[Lexicon/H1901-2000#H1980|We will stay on]] [[Lexicon/H4401-4500#H4428|the King’s]] [[Lexicon/H1801-1900#H1870|Highway]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5601-5700#H5674|we have passed through]] [[Lexicon/H1301-1400#H1366|your territory. ”]]
+[[Lexicon/H5601-5700#H5674|“ Let us pass]] [[Lexicon/H701-800#H776|through your land.]] [[Lexicon/H3801-3900#H3808|We will not]] [[Lexicon/H5101-5200#H5186|cut through]] [[Lexicon/H7701-7800#H7704|any field]] [[Lexicon/H3701-3800#H3754|or vineyard ,]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H801-900#H875|from any well.]] [[Lexicon/H1901-2000#H1980|We will stay on]] [[Lexicon/H4401-4500#H4428|the King’s]] [[Lexicon/H1801-1900#H1870|Highway]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5601-5700#H5674|we have passed through]] [[Lexicon/H1301-1400#H1366|your territory. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 22|LXX]] |
 
 ##### Numbers 21 - 23
@@ -109,7 +109,7 @@ Chapter: "21"
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 24|LXX]] |
 
 ##### Numbers 21 - 25
-[[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|captured]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5801-5900#H5892|the cities]] [[Lexicon/H401-500#H428|...]] [[Lexicon/H501-600#H567|of the Amorites]] [[Lexicon/H5801-5900#H5892|-]] [[Lexicon/H3401-3500#H3427|and occupied]] [[Lexicon/H3401-3500#H3478|-]] [[Lexicon/H3601-3700#H3605|(them) ,]] [[Lexicon/H2801-2900#H2809|including Heshbon]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H1301-1400#H1323|its villages.]]
+[[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|captured]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5801-5900#H5892|the cities]] [[Lexicon/H401-500#H428|...]] [[Lexicon/H501-600#H567|of the Amorites]] [[Lexicon/H5801-5900#H5892|-]] [[Lexicon/H3401-3500#H3427|and occupied]] [[Lexicon/H3401-3500#H3478|-]] [[Lexicon/H3601-3700#H3605|[them] ,]] [[Lexicon/H2801-2900#H2809|including Heshbon]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H1301-1400#H1323|its villages.]]
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 25|LXX]] |
 
 ##### Numbers 21 - 26
@@ -149,6 +149,6 @@ Chapter: "21"
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 34|LXX]] |
 
 ##### Numbers 21 - 35
-[[Lexicon/H5201-5300#H5221|So they struck down (Og) ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H853|along with]] [[Lexicon/H1101-1200#H1121|his sons]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and his whole]] [[Lexicon/H5901-6000#H5971|army ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H1101-1200#H1115|no]] [[Lexicon/H7601-7700#H7604|remnant was left]] [[Lexicon/H8201-8300#H8300|-]] [[Lexicon/H3401-3500#H3423|And they took possession of]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|his land.]]
+[[Lexicon/H5201-5300#H5221|So they struck down [Og] ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H853|along with]] [[Lexicon/H1101-1200#H1121|his sons]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and his whole]] [[Lexicon/H5901-6000#H5971|army ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H1101-1200#H1115|no]] [[Lexicon/H7601-7700#H7604|remnant was left]] [[Lexicon/H8201-8300#H8300|-]] [[Lexicon/H3401-3500#H3423|And they took possession of]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|his land.]]
 | [[LXX Reference/4 - Numbers/Numbers 21#Numbers 21 - 35|LXX]] |
 

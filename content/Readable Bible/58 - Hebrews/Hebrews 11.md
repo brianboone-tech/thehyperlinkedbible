@@ -5,9 +5,12 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hebrews 11
+# Hebrews-R 11
 
-[[Readable Bible/58 - Hebrews/Hebrews 10|← Hebrews 10]] | [[Readable Bible/58 - Hebrews/Hebrews 12|Hebrews 12 →]]
+**[[Home/Scripture/58 - Hebrews|Hebrews]]**
+
+
+[[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews-R 10| Hebrews 10]] - [[Readable Bible/58 - Hebrews/Hebrews 12#Hebrews-R 12| Hebrews 12]]
 
 ---
 

@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]**
+**[[Home/Scripture/02 - Exodus|← Exodus]]**
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Leviticus 21 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 20 - TOSK|← Ch 20]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 22 - TOSK|Ch 22 →]]
+**[[Home/Scripture/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 20 - TOSK|← Ch 20]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 22 - TOSK|Ch 22 →]]
 
 ---
 

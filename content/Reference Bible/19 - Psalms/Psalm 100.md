@@ -18,11 +18,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 100#Psalm 100 - 2|LXX]] |
 
 ##### Psalm 100 - 3
-[[Lexicon/H3001-3100#H3045|Know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1901-2000#H1931|]] [[Lexicon/H401-500#H430|is God.]] [[Lexicon/H1901-2000#H1931|(It is) He]] [[Lexicon/H6201-6300#H6213|(who) made us ,]] [[Lexicon/H3801-3900#H3808|-]] [[Lexicon/H501-600#H587|and we are His ;]] [[Lexicon/H5901-6000#H5971|(we are) His people ,]] [[Lexicon/H6601-6700#H6629|and the sheep]] [[Lexicon/H4801-4900#H4830|of His pasture.]]
+[[Lexicon/H3001-3100#H3045|Know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1901-2000#H1931|]] [[Lexicon/H401-500#H430|is God.]] [[Lexicon/H1901-2000#H1931|[It is] He]] [[Lexicon/H6201-6300#H6213|[who] made us ,]] [[Lexicon/H3801-3900#H3808|-]] [[Lexicon/H501-600#H587|and we are His ;]] [[Lexicon/H5901-6000#H5971|[we are] His people ,]] [[Lexicon/H6601-6700#H6629|and the sheep]] [[Lexicon/H4801-4900#H4830|of His pasture.]]
 | [[LXX Reference/19 - Psalms/Psalms 100#Psalm 100 - 3|LXX]] |
 
 ##### Psalm 100 - 4
-[[Lexicon/H901-1000#H935|Enter]] [[Lexicon/H8101-8200#H8179|His gates]] [[Lexicon/H8401-8500#H8426|with thanksgiving]] [[Lexicon/H2601-2700#H2691|and His courts]] [[Lexicon/H8401-8500#H8416|with praise ;]] [[Lexicon/H3001-3100#H3034|give thanks]] [[Lexicon/H1201-1300#H1288|(and) bless]] [[Lexicon/H8001-8100#H8034|His name.]]
+[[Lexicon/H901-1000#H935|Enter]] [[Lexicon/H8101-8200#H8179|His gates]] [[Lexicon/H8401-8500#H8426|with thanksgiving]] [[Lexicon/H2601-2700#H2691|and His courts]] [[Lexicon/H8401-8500#H8416|with praise ;]] [[Lexicon/H3001-3100#H3034|give thanks]] [[Lexicon/H1201-1300#H1288|[and] bless]] [[Lexicon/H8001-8100#H8034|His name.]]
 | [[LXX Reference/19 - Psalms/Psalms 100#Psalm 100 - 4|LXX]] |
 
 ##### Psalm 100 - 5

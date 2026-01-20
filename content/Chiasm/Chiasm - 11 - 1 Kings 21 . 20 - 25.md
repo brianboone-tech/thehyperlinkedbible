@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/11 - 1 Kings|← 1 Kings]]**
+**[[Home/Scripture/11 - 1 Kings|← 1 Kings]]**
 
 ---
 

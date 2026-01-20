@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Romans 14
+# Romans-R 14
 
-[[Readable Bible/45 - Romans/Romans 13|← Romans 13]] | [[Readable Bible/45 - Romans/Romans 15|Romans 15 →]]
+**[[Home/Scripture/45 - Romans|Romans]]**
+
+[[Readable Bible/45 - Romans/Romans 13#Romans-R 13| Romans 13]] - [[Readable Bible/45 - Romans/Romans 15#Romans-R 15| Romans 15]]
 
 ---
 
 ##### Romans 14 . 1
-[[Reference Bible/45 - Romans/Romans 14#Romans 14 - 1|1]] Accept him whose faith is weak, without passing judgment on his opinions.  | | [[Chiasm/Chiasm - 45 - Romans 14 . 1 - 23|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 14 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/45 - Romans/Romans 14#Romans 14 - 1|1]] Accept him whose faith is weak, without passing judgment on his opinions.   || [[Chiasm/Chiasm - 45 - Romans 14 . 1 - 23|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 14 - TOSK#Verse 1|TOSK]] |
 ##### Romans 14 . 2
 [[Reference Bible/45 - Romans/Romans 14#Romans 14 - 2|2]] For one person has faith to eat all things, while another, who is weak, eats only vegetables.  | [[Chiasm/Chiasm - 45 - Romans 14 . 1 - 23|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 14 - TOSK#Verse 2|TOSK]] |
 ##### Romans 14 . 3

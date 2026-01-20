@@ -13,7 +13,7 @@ Testament: Old
 ---
 
 ##### Genesis 19 - 1
-[[Lexicon/H8101-8200#H8147|Now the two]] [[Lexicon/H4301-4400#H4397|angels]] [[Lexicon/H901-1000#H935|arrived]] [[Lexicon/H5401-5500#H5467|at Sodom]] [[Lexicon/H6101-6200#H6153|in the evening ,]] [[Lexicon/H3801-3900#H3876|and Lot]] [[Lexicon/H3401-3500#H3427|was sitting]] [[Lexicon/H8101-8200#H8179|in the gateway]] [[Lexicon/H5401-5500#H5467|of (the city).]] [[Lexicon/H3801-3900#H3876|When Lot]] [[Lexicon/H7101-7200#H7200|saw them ,]] [[Lexicon/H6901-7000#H6965|he got up]] [[Lexicon/H7101-7200#H7122|to meet them ,]] [[Lexicon/H7801-7900#H7812|bowed]] [[Lexicon/H601-700#H639|facedown]] [[Lexicon/H701-800#H776|... ,]]
+[[Lexicon/H8101-8200#H8147|Now the two]] [[Lexicon/H4301-4400#H4397|angels]] [[Lexicon/H901-1000#H935|arrived]] [[Lexicon/H5401-5500#H5467|at Sodom]] [[Lexicon/H6101-6200#H6153|in the evening ,]] [[Lexicon/H3801-3900#H3876|and Lot]] [[Lexicon/H3401-3500#H3427|was sitting]] [[Lexicon/H8101-8200#H8179|in the gateway]] [[Lexicon/H5401-5500#H5467|of [the city].]] [[Lexicon/H3801-3900#H3876|When Lot]] [[Lexicon/H7101-7200#H7200|saw them ,]] [[Lexicon/H6901-7000#H6965|he got up]] [[Lexicon/H7101-7200#H7122|to meet them ,]] [[Lexicon/H7801-7900#H7812|bowed]] [[Lexicon/H601-700#H639|facedown]] [[Lexicon/H701-800#H776|... ,]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 1|LXX]] |
 
 ##### Genesis 19 - 2
@@ -21,7 +21,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 2|LXX]] |
 
 ##### Genesis 19 - 3
-[[Lexicon/H6401-6500#H6484|But (Lot) insisted]] [[Lexicon/H3901-4000#H3966|so strongly]] [[Lexicon/H5401-5500#H5493|that they followed]] [[Lexicon/H401-500#H413|him]] [[Lexicon/H901-1000#H935|vvv]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H1001-1100#H1004|his house.]] [[Lexicon/H6201-6300#H6213|He prepared]] [[Lexicon/H4901-5000#H4960|a feast]] [[Lexicon/H601-700#H644|and baked]] [[Lexicon/H4601-4700#H4682|unleavened bread ,]] [[Lexicon/H301-400#H398|and they ate.]]
+[[Lexicon/H6401-6500#H6484|But [Lot] insisted]] [[Lexicon/H3901-4000#H3966|so strongly]] [[Lexicon/H5401-5500#H5493|that they followed]] [[Lexicon/H401-500#H413|him]] [[Lexicon/H901-1000#H935|vvv]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H1001-1100#H1004|his house.]] [[Lexicon/H6201-6300#H6213|He prepared]] [[Lexicon/H4901-5000#H4960|a feast]] [[Lexicon/H601-700#H644|and baked]] [[Lexicon/H4601-4700#H4682|unleavened bread ,]] [[Lexicon/H301-400#H398|and they ate.]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 3|LXX]] |
 
 ##### Genesis 19 - 4
@@ -49,19 +49,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 9|LXX]] |
 
 ##### Genesis 19 - 10
-[[Lexicon/H501-600#H582|But the men (inside)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|reached out]] [[Lexicon/H3001-3100#H3027|... ,]] [[Lexicon/H901-1000#H935|pulled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3876|Lot]] [[Lexicon/H1001-1100#H1004|into the house]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H413|with them ,]] [[Lexicon/H5401-5500#H5462|and shut]] [[Lexicon/H1801-1900#H1817|the door.]]
+[[Lexicon/H501-600#H582|But the men [inside]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|reached out]] [[Lexicon/H3001-3100#H3027|... ,]] [[Lexicon/H901-1000#H935|pulled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3876|Lot]] [[Lexicon/H1001-1100#H1004|into the house]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H413|with them ,]] [[Lexicon/H5401-5500#H5462|and shut]] [[Lexicon/H1801-1900#H1817|the door.]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 10|LXX]] |
 
 ##### Genesis 19 - 11
-[[Lexicon/H801-900#H853|And]] [[Lexicon/H5201-5300#H5221|they struck]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6601-6700#H6607|at the entrance]] [[Lexicon/H1001-1100#H1004|... ,]] [[Lexicon/H6901-7000#H6996|young]] [[Lexicon/H5701-5800#H5704|and]] [[Lexicon/H1401-1500#H1419|old ,]] [[Lexicon/H5501-5600#H5575|with blindness ,]] [[Lexicon/H3801-3900#H3811|so that they wearied themselves]] [[Lexicon/H4601-4700#H4672|(trying) to find]] [[Lexicon/H6601-6700#H6607|the door.]]
+[[Lexicon/H801-900#H853|And]] [[Lexicon/H5201-5300#H5221|they struck]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6601-6700#H6607|at the entrance]] [[Lexicon/H1001-1100#H1004|... ,]] [[Lexicon/H6901-7000#H6996|young]] [[Lexicon/H5701-5800#H5704|and]] [[Lexicon/H1401-1500#H1419|old ,]] [[Lexicon/H5501-5600#H5575|with blindness ,]] [[Lexicon/H3801-3900#H3811|so that they wearied themselves]] [[Lexicon/H4601-4700#H4672|[trying] to find]] [[Lexicon/H6601-6700#H6607|the door.]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 11|LXX]] |
 
 ##### Genesis 19 - 12
-[[Lexicon/H501-600#H582|Then the (two) men]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3801-3900#H3876|Lot ,]] [[Lexicon/H4301-4400#H4310|“ Do]] [[Lexicon/H5701-5800#H5750|else]] [[Lexicon/H6301-6400#H6311|here —]] [[Lexicon/H2801-2900#H2860|a son-in-law ,]] [[Lexicon/H1101-1200#H1121|your sons]] [[Lexicon/H1301-1400#H1323|or daughters ,]] [[Lexicon/H3601-3700#H3605|or anyone]] [[Lexicon/H5801-5900#H5892|else in the city]] [[Lexicon/H801-900#H834|who belongs]] [[Lexicon/H3301-3400#H3318|Get them out]] [[Lexicon/H4401-4500#H4480|of]] [[Lexicon/H4701-4800#H4725|here ,]]
+[[Lexicon/H501-600#H582|Then the [two] men]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3801-3900#H3876|Lot ,]] [[Lexicon/H4301-4400#H4310|“ Do]] [[Lexicon/H5701-5800#H5750|else]] [[Lexicon/H6301-6400#H6311|here —]] [[Lexicon/H2801-2900#H2860|a son-in-law ,]] [[Lexicon/H1101-1200#H1121|your sons]] [[Lexicon/H1301-1400#H1323|or daughters ,]] [[Lexicon/H3601-3700#H3605|or anyone]] [[Lexicon/H5801-5900#H5892|else in the city]] [[Lexicon/H801-900#H834|who belongs]] [[Lexicon/H3301-3400#H3318|Get them out]] [[Lexicon/H4401-4500#H4480|of]] [[Lexicon/H4701-4800#H4725|here ,]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 12|LXX]] |
 
 ##### Genesis 19 - 13
-[[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H501-600#H587|we]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7801-7900#H7843|are about to destroy]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H4701-4800#H4725|place.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H6801-6900#H6818|the outcry]] [[Lexicon/H801-900#H854|to]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1401-1500#H1431|(against its people) is so great]] [[Lexicon/H3001-3100#H3068|that (He)]] [[Lexicon/H7901-8000#H7971|has sent us]] [[Lexicon/H7801-7900#H7843|to destroy it. ”]]
+[[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H501-600#H587|we]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7801-7900#H7843|are about to destroy]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H4701-4800#H4725|place.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H6801-6900#H6818|the outcry]] [[Lexicon/H801-900#H854|to]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1401-1500#H1431|[against its people] is so great]] [[Lexicon/H3001-3100#H3068|that [He]]] [[Lexicon/H7901-8000#H7971|has sent us]] [[Lexicon/H7801-7900#H7843|to destroy it. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 13|LXX]] |
 
 ##### Genesis 19 - 14
@@ -73,7 +73,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 15|LXX]] |
 
 ##### Genesis 19 - 16
-[[Lexicon/H4101-4200#H4102|But when (Lot) hesitated ,]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H2301-2400#H2388|grabbed]] [[Lexicon/H3001-3100#H3027|his hand]] [[Lexicon/H3001-3100#H3027|and the hands]] [[Lexicon/H801-900#H802|of his wife]] [[Lexicon/H3001-3100#H3027|and]] [[Lexicon/H8101-8200#H8147|his two]] [[Lexicon/H1301-1400#H1323|daughters.]] [[Lexicon/H3301-3400#H3318|And they led them]] [[Lexicon/H5101-5200#H5117|safely]] [[Lexicon/H2301-2400#H2351|out of]] [[Lexicon/H5801-5900#H5892|the city ,]] [[Lexicon/H3001-3100#H3068|because of the LORD’s]] [[Lexicon/H2501-2600#H2551|compassion]] [[Lexicon/H5901-6000#H5921|for them.]]
+[[Lexicon/H4101-4200#H4102|But when [Lot] hesitated ,]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H2301-2400#H2388|grabbed]] [[Lexicon/H3001-3100#H3027|his hand]] [[Lexicon/H3001-3100#H3027|and the hands]] [[Lexicon/H801-900#H802|of his wife]] [[Lexicon/H3001-3100#H3027|and]] [[Lexicon/H8101-8200#H8147|his two]] [[Lexicon/H1301-1400#H1323|daughters.]] [[Lexicon/H3301-3400#H3318|And they led them]] [[Lexicon/H5101-5200#H5117|safely]] [[Lexicon/H2301-2400#H2351|out of]] [[Lexicon/H5801-5900#H5892|the city ,]] [[Lexicon/H3001-3100#H3068|because of the LORD’s]] [[Lexicon/H2501-2600#H2551|compassion]] [[Lexicon/H5901-6000#H5921|for them.]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 16|LXX]] |
 
 ##### Genesis 19 - 17
@@ -89,7 +89,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 19|LXX]] |
 
 ##### Genesis 19 - 20
-[[Lexicon/H2001-2100#H2009|Look ,]] [[Lexicon/H2001-2100#H2063|there (is)]] [[Lexicon/H5801-5900#H5892|a town]] [[Lexicon/H7101-7200#H7138|nearby]] [[Lexicon/H8001-8100#H8033|where]] [[Lexicon/H5101-5200#H5127|I can flee ,]] [[Lexicon/H1901-2000#H1931|and it]] [[Lexicon/H4701-4800#H4705|is a small place.]] [[Lexicon/H4901-5000#H4994|Please]] [[Lexicon/H4401-4500#H4422|let me flee]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H8001-8100#H8033|there —]] [[Lexicon/H1901-2000#H1931|is it]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H4701-4800#H4705|a small place ?]] [[Lexicon/H5301-5400#H5315|Then my life]] [[Lexicon/H2401-2500#H2421|will be saved. ”]]
+[[Lexicon/H2001-2100#H2009|Look ,]] [[Lexicon/H2001-2100#H2063|there [is]]] [[Lexicon/H5801-5900#H5892|a town]] [[Lexicon/H7101-7200#H7138|nearby]] [[Lexicon/H8001-8100#H8033|where]] [[Lexicon/H5101-5200#H5127|I can flee ,]] [[Lexicon/H1901-2000#H1931|and it]] [[Lexicon/H4701-4800#H4705|is a small place.]] [[Lexicon/H4901-5000#H4994|Please]] [[Lexicon/H4401-4500#H4422|let me flee]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H8001-8100#H8033|there —]] [[Lexicon/H1901-2000#H1931|is it]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H4701-4800#H4705|a small place ?]] [[Lexicon/H5301-5400#H5315|Then my life]] [[Lexicon/H2401-2500#H2421|will be saved. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 20|LXX]] |
 
 ##### Genesis 19 - 21
@@ -113,7 +113,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 25|LXX]] |
 
 ##### Genesis 19 - 26
-[[Lexicon/H801-900#H802|But (Lot’s) wife]] [[Lexicon/H5001-5100#H5027|looked]] [[Lexicon/H301-400#H310|back ,]] [[Lexicon/H1901-2000#H1961|and she became]] [[Lexicon/H5301-5400#H5333|a pillar]] [[Lexicon/H4401-4500#H4417|of salt.]]
+[[Lexicon/H801-900#H802|But [Lot’s] wife]] [[Lexicon/H5001-5100#H5027|looked]] [[Lexicon/H301-400#H310|back ,]] [[Lexicon/H1901-2000#H1961|and she became]] [[Lexicon/H5301-5400#H5333|a pillar]] [[Lexicon/H4401-4500#H4417|of salt.]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 26|LXX]] |
 
 ##### Genesis 19 - 27
@@ -125,19 +125,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 28|LXX]] |
 
 ##### Genesis 19 - 29
-[[Lexicon/H1901-2000#H1961|So]] [[Lexicon/H401-500#H430|when God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7801-7900#H7843|destroyed]] [[Lexicon/H5801-5900#H5892|the cities]] [[Lexicon/H3601-3700#H3603|of the plain ,]] [[Lexicon/H401-500#H430|He]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2101-2200#H2142|remembered]] [[Lexicon/H1-100#H85|Abraham ,]] [[Lexicon/H7901-8000#H7971|and He brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3876|Lot]] [[Lexicon/H8401-8500#H8432|out of the]] [[Lexicon/H2001-2100#H2018|catastrophe]] [[Lexicon/H2001-2100#H2015|that destroyed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5892|the cities]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H3801-3900#H3876|(he)]] [[Lexicon/H3401-3500#H3427|had lived]]
+[[Lexicon/H1901-2000#H1961|So]] [[Lexicon/H401-500#H430|when God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7801-7900#H7843|destroyed]] [[Lexicon/H5801-5900#H5892|the cities]] [[Lexicon/H3601-3700#H3603|of the plain ,]] [[Lexicon/H401-500#H430|He]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2101-2200#H2142|remembered]] [[Lexicon/H1-100#H85|Abraham ,]] [[Lexicon/H7901-8000#H7971|and He brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3876|Lot]] [[Lexicon/H8401-8500#H8432|out of the]] [[Lexicon/H2001-2100#H2018|catastrophe]] [[Lexicon/H2001-2100#H2015|that destroyed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5892|the cities]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H3801-3900#H3876|[he]]] [[Lexicon/H3401-3500#H3427|had lived]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 29|LXX]] |
 
 ##### Genesis 19 - 30
-[[Lexicon/H3801-3900#H3876|Lot]] [[Lexicon/H5901-6000#H5973|and]] [[Lexicon/H8101-8200#H8147|his two]] [[Lexicon/H1301-1400#H1323|daughters]] [[Lexicon/H5901-6000#H5927|left]] [[Lexicon/H6801-6900#H6820|Zoar]] [[Lexicon/H3401-3500#H3427|and settled]] [[Lexicon/H2001-2100#H2022|in the mountains —]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3301-3400#H3372|he was afraid]] [[Lexicon/H3401-3500#H3427|to stay]] [[Lexicon/H6801-6900#H6820|in Zoar —]] [[Lexicon/H1901-2000#H1931|where (they)]] [[Lexicon/H8101-8200#H8147|...]] [[Lexicon/H1301-1400#H1323|...]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H4601-4700#H4631|in a cave.]]
+[[Lexicon/H3801-3900#H3876|Lot]] [[Lexicon/H5901-6000#H5973|and]] [[Lexicon/H8101-8200#H8147|his two]] [[Lexicon/H1301-1400#H1323|daughters]] [[Lexicon/H5901-6000#H5927|left]] [[Lexicon/H6801-6900#H6820|Zoar]] [[Lexicon/H3401-3500#H3427|and settled]] [[Lexicon/H2001-2100#H2022|in the mountains —]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3301-3400#H3372|he was afraid]] [[Lexicon/H3401-3500#H3427|to stay]] [[Lexicon/H6801-6900#H6820|in Zoar —]] [[Lexicon/H1901-2000#H1931|where [they]]] [[Lexicon/H8101-8200#H8147|...]] [[Lexicon/H1301-1400#H1323|...]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H4601-4700#H4631|in a cave.]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 30|LXX]] |
 
 ##### Genesis 19 - 31
-[[Lexicon/H1001-1100#H1067|One day the older (daughter)]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6801-6900#H6810|the younger ,]] [[Lexicon/H1-100#H1|“ Our father]] [[Lexicon/H2201-2300#H2204|is old ,]] [[Lexicon/H301-400#H369|and there is no]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H901-1000#H935|to sleep with]] [[Lexicon/H5901-6000#H5921|us ,]] [[Lexicon/H1801-1900#H1870|as is the custom]] [[Lexicon/H3601-3700#H3605|over all]] [[Lexicon/H701-800#H776|the earth.]]
+[[Lexicon/H1001-1100#H1067|One day the older [daughter]]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6801-6900#H6810|the younger ,]] [[Lexicon/H1-100#H1|“ Our father]] [[Lexicon/H2201-2300#H2204|is old ,]] [[Lexicon/H301-400#H369|and there is no]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H901-1000#H935|to sleep with]] [[Lexicon/H5901-6000#H5921|us ,]] [[Lexicon/H1801-1900#H1870|as is the custom]] [[Lexicon/H3601-3700#H3605|over all]] [[Lexicon/H701-800#H776|the earth.]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 31|LXX]] |
 
 ##### Genesis 19 - 32
-[[Lexicon/H1901-2000#H1980|Come ,]] [[Lexicon/H1-100#H1|let us get our father]] [[Lexicon/H8201-8300#H8248|drunk]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3196|with wine]] [[Lexicon/H7901-8000#H7901|so we can sleep]] [[Lexicon/H5901-6000#H5973|with him]] [[Lexicon/H2401-2500#H2421|and preserve]] [[Lexicon/H1-100#H1|(his)]] [[Lexicon/H2201-2300#H2233|line. ”]]
+[[Lexicon/H1901-2000#H1980|Come ,]] [[Lexicon/H1-100#H1|let us get our father]] [[Lexicon/H8201-8300#H8248|drunk]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3196|with wine]] [[Lexicon/H7901-8000#H7901|so we can sleep]] [[Lexicon/H5901-6000#H5973|with him]] [[Lexicon/H2401-2500#H2421|and preserve]] [[Lexicon/H1-100#H1|[his]]] [[Lexicon/H2201-2300#H2233|line. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 32|LXX]] |
 
 ##### Genesis 19 - 33
@@ -145,11 +145,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 33|LXX]] |
 
 ##### Genesis 19 - 34
-[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H4201-4300#H4283|The next day]] [[Lexicon/H1001-1100#H1067|the older (daughter)]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6801-6900#H6810|the younger ,]] [[Lexicon/H2001-2100#H2005|“ Look ,]] [[Lexicon/H7901-8000#H7901|I slept with]] [[Lexicon/H1-100#H1|my father]] [[Lexicon/H501-600#H570|last night.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8201-8300#H8248|Let us get him drunk]] [[Lexicon/H3101-3200#H3196|with wine]] [[Lexicon/H1501-1600#H1571|again]] [[Lexicon/H3901-4000#H3915|tonight]] [[Lexicon/H901-1000#H935|so you can go in]] [[Lexicon/H7901-8000#H7901|(and) sleep]] [[Lexicon/H5901-6000#H5973|with him]] [[Lexicon/H2401-2500#H2421|and we can preserve]] [[Lexicon/H1-100#H1|our father’s]] [[Lexicon/H2201-2300#H2233|line. ”]]
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H4201-4300#H4283|The next day]] [[Lexicon/H1001-1100#H1067|the older [daughter]]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6801-6900#H6810|the younger ,]] [[Lexicon/H2001-2100#H2005|“ Look ,]] [[Lexicon/H7901-8000#H7901|I slept with]] [[Lexicon/H1-100#H1|my father]] [[Lexicon/H501-600#H570|last night.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8201-8300#H8248|Let us get him drunk]] [[Lexicon/H3101-3200#H3196|with wine]] [[Lexicon/H1501-1600#H1571|again]] [[Lexicon/H3901-4000#H3915|tonight]] [[Lexicon/H901-1000#H935|so you can go in]] [[Lexicon/H7901-8000#H7901|[and] sleep]] [[Lexicon/H5901-6000#H5973|with him]] [[Lexicon/H2401-2500#H2421|and we can preserve]] [[Lexicon/H1-100#H1|our father’s]] [[Lexicon/H2201-2300#H2233|line. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 34|LXX]] |
 
 ##### Genesis 19 - 35
-[[Lexicon/H1501-1600#H1571|So again]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H1-100#H1|they got their father]] [[Lexicon/H8201-8300#H8248|drunk]] [[Lexicon/H3101-3200#H3196|with wine ,]] [[Lexicon/H6801-6900#H6810|and the younger (daughter)]] [[Lexicon/H6901-7000#H6965|went in]] [[Lexicon/H7901-8000#H7901|and slept]] [[Lexicon/H5901-6000#H5973|with him ;]] [[Lexicon/H3801-3900#H3808|he was not]] [[Lexicon/H3001-3100#H3045|aware]] [[Lexicon/H7901-8000#H7901|when she lay down]] [[Lexicon/H6901-7000#H6965|or when she got up.]]
+[[Lexicon/H1501-1600#H1571|So again]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H1-100#H1|they got their father]] [[Lexicon/H8201-8300#H8248|drunk]] [[Lexicon/H3101-3200#H3196|with wine ,]] [[Lexicon/H6801-6900#H6810|and the younger [daughter]]] [[Lexicon/H6901-7000#H6965|went in]] [[Lexicon/H7901-8000#H7901|and slept]] [[Lexicon/H5901-6000#H5973|with him ;]] [[Lexicon/H3801-3900#H3808|he was not]] [[Lexicon/H3001-3100#H3045|aware]] [[Lexicon/H7901-8000#H7901|when she lay down]] [[Lexicon/H6901-7000#H6965|or when she got up.]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 35|LXX]] |
 
 ##### Genesis 19 - 36
@@ -157,9 +157,9 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 36|LXX]] |
 
 ##### Genesis 19 - 37
-[[Lexicon/H1001-1100#H1067|The older (daughter)]] [[Lexicon/H3201-3300#H3205|gave birth to]] [[Lexicon/H1101-1200#H1121|a son]] [[Lexicon/H7101-7200#H7121|and named him]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H4101-4200#H4124|Moab.]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H1-100#H1|is the father]] [[Lexicon/H4101-4200#H4124|of the Moabites]] [[Lexicon/H5701-5800#H5704|of]] [[Lexicon/H3101-3200#H3117|today.]]
+[[Lexicon/H1001-1100#H1067|The older [daughter]]] [[Lexicon/H3201-3300#H3205|gave birth to]] [[Lexicon/H1101-1200#H1121|a son]] [[Lexicon/H7101-7200#H7121|and named him]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H4101-4200#H4124|Moab.]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H1-100#H1|is the father]] [[Lexicon/H4101-4200#H4124|of the Moabites]] [[Lexicon/H5701-5800#H5704|of]] [[Lexicon/H3101-3200#H3117|today.]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 37|LXX]] |
 
 ##### Genesis 19 - 38
-[[Lexicon/H6801-6900#H6810|The younger (daughter)]] [[Lexicon/H1901-2000#H1931|]] [[Lexicon/H1501-1600#H1571|also]] [[Lexicon/H3201-3300#H3205|gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H7101-7200#H7121|and she named]] [[Lexicon/H8001-8100#H8034|him]] [[Lexicon/H1101-1200#H1151|vvv]] [[Lexicon/H1101-1200#H1151|Ben-ammi.]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H1-100#H1|He is the father]] [[Lexicon/H1101-1200#H1121|of the Ammonites]] [[Lexicon/H5901-6000#H5983|...]] [[Lexicon/H5701-5800#H5704|of]] [[Lexicon/H3101-3200#H3117|today.]]
+[[Lexicon/H6801-6900#H6810|The younger [daughter]]] [[Lexicon/H1901-2000#H1931|]] [[Lexicon/H1501-1600#H1571|also]] [[Lexicon/H3201-3300#H3205|gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H7101-7200#H7121|and she named]] [[Lexicon/H8001-8100#H8034|him]] [[Lexicon/H1101-1200#H1151|vvv]] [[Lexicon/H1101-1200#H1151|Ben-ammi.]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H1-100#H1|He is the father]] [[Lexicon/H1101-1200#H1121|of the Ammonites]] [[Lexicon/H5901-6000#H5983|...]] [[Lexicon/H5701-5800#H5704|of]] [[Lexicon/H3101-3200#H3117|today.]]
 | [[LXX Reference/1 - Genesis/Genesis 19#Genesis 19 - 38|LXX]] |

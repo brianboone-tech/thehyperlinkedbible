@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 40 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 39 - TOSK|← Ch 39]]
+**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 39 - TOSK|← Ch 39]]
 
 ---
 

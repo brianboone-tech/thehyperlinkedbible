@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus 17
+# Leviticus-R 17
 
-[[Readable Bible/03 - Leviticus/Leviticus 16|← Leviticus 16]] | [[Readable Bible/03 - Leviticus/Leviticus 18|Leviticus 18 →]]
+**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+
+[[Readable Bible/03 - Leviticus/Leviticus 16#Leviticus-R 16| Leviticus 16]] - [[Readable Bible/03 - Leviticus/Leviticus 18#Leviticus-R 18| Leviticus 18]]
 
 ---
 
 ##### Leviticus 17 . 1
-[[Reference Bible/3 - Leviticus/Leviticus 17#Leviticus 17 - 1|1]] Then the LORD said to Moses,  | | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 17 to Ezekiel 14.1|IP¹]] | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 17.1 to Deuteronomy 12.2|IP²]] | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 17.1-9 to Deuteronomy 12.2-28|IP³]] | [[Chiasm/Chiasm - 03 - Leviticus 17 . 1 - 9|C]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT]] |
+[[Reference Bible/3 - Leviticus/Leviticus 17#Leviticus 17 - 1|1]] Then the LORD said to Moses,   || [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 17 to Ezekiel 14.1|IP¹]] | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 17.1 to Deuteronomy 12.2|IP²]] | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 17.1-9 to Deuteronomy 12.2-28|IP³]] | [[Chiasm/Chiasm - 03 - Leviticus 17 . 1 - 9|C]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT]] |
 
 ##### Leviticus 17 . 2
 [[Reference Bible/3 - Leviticus/Leviticus 17#Leviticus 17 - 2|2]] "Speak to Aaron, his sons, and all the Israelites and tell them this is what the LORD has commanded:  | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 17.1-9 to Deuteronomy 12.2-28|IP]] | [[Chiasm/Chiasm - 03 - Leviticus 17 . 1 - 9|C]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 17 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/074 - Holy Places (Access to God's Presence)|TT]] |

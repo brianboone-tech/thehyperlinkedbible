@@ -13,7 +13,7 @@ Chapter: "24"
 ---
 
 ##### Exodus 24 - 1
-[[Lexicon/H501-600#H559|Then (the LORD) said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H5901-6000#H5927|“ Come up]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD —]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H101-200#H175|and Aaron ,]] [[Lexicon/H5001-5100#H5070|Nadab]] [[Lexicon/H1-100#H30|and Abihu ,]] [[Lexicon/H7601-7700#H7657|and seventy]] [[Lexicon/H3401-3500#H3478|of Israel’s]] [[Lexicon/H2201-2300#H2205|elders —]] [[Lexicon/H7801-7900#H7812|and you are to worship]] [[Lexicon/H7301-7400#H7350|at a distance.]]
+[[Lexicon/H501-600#H559|Then [the LORD] said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H5901-6000#H5927|“ Come up]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD —]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H101-200#H175|and Aaron ,]] [[Lexicon/H5001-5100#H5070|Nadab]] [[Lexicon/H1-100#H30|and Abihu ,]] [[Lexicon/H7601-7700#H7657|and seventy]] [[Lexicon/H3401-3500#H3478|of Israel’s]] [[Lexicon/H2201-2300#H2205|elders —]] [[Lexicon/H7801-7900#H7812|and you are to worship]] [[Lexicon/H7301-7400#H7350|at a distance.]]
 | [[LXX Reference/2 - Exodus/Exodus 24#Exodus 24 - 1|LXX]] |
 
 ##### Exodus 24 - 2
@@ -21,7 +21,7 @@ Chapter: "24"
 | [[LXX Reference/2 - Exodus/Exodus 24#Exodus 24 - 2|LXX]] |
 
 ##### Exodus 24 - 3
-[[Lexicon/H4801-4900#H4872|When Moses]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H5601-5700#H5608|and told]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1601-1700#H1697|the words]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and]] [[Lexicon/H4901-5000#H4941|ordinances]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H5901-6000#H5971|(they)]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6001-6100#H6030|responded]] [[Lexicon/H201-300#H259|with one]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H6901-7000#H6963|voice :]] [[Lexicon/H3601-3700#H3605|“ All]] [[Lexicon/H1601-1700#H1697|the words]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|has spoken ,]] [[Lexicon/H6201-6300#H6213|we will do. ”]]
+[[Lexicon/H4801-4900#H4872|When Moses]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H5601-5700#H5608|and told]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1601-1700#H1697|the words]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and]] [[Lexicon/H4901-5000#H4941|ordinances]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H5901-6000#H5971|[they]]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6001-6100#H6030|responded]] [[Lexicon/H201-300#H259|with one]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H6901-7000#H6963|voice :]] [[Lexicon/H3601-3700#H3605|“ All]] [[Lexicon/H1601-1700#H1697|the words]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|has spoken ,]] [[Lexicon/H6201-6300#H6213|we will do. ”]]
 | [[LXX Reference/2 - Exodus/Exodus 24#Exodus 24 - 3|LXX]] |
 
 ##### Exodus 24 - 4
@@ -33,7 +33,7 @@ Chapter: "24"
 | [[LXX Reference/2 - Exodus/Exodus 24#Exodus 24 - 5|LXX]] |
 
 ##### Exodus 24 - 6
-[[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H3901-4000#H3947|took]] [[Lexicon/H2601-2700#H2677|half]] [[Lexicon/H1801-1900#H1818|of the blood]] [[Lexicon/H7701-7800#H7760|and put (it)]] [[Lexicon/H101-200#H101|in bowls ,]] [[Lexicon/H2601-2700#H2677|and the other half]] [[Lexicon/H1801-1900#H1818|...]] [[Lexicon/H2201-2300#H2236|he sprinkled]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H4101-4200#H4196|the altar.]]
+[[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H3901-4000#H3947|took]] [[Lexicon/H2601-2700#H2677|half]] [[Lexicon/H1801-1900#H1818|of the blood]] [[Lexicon/H7701-7800#H7760|and put [it]]] [[Lexicon/H101-200#H101|in bowls ,]] [[Lexicon/H2601-2700#H2677|and the other half]] [[Lexicon/H1801-1900#H1818|...]] [[Lexicon/H2201-2300#H2236|he sprinkled]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H4101-4200#H4196|the altar.]]
 | [[LXX Reference/2 - Exodus/Exodus 24#Exodus 24 - 6|LXX]] |
 
 ##### Exodus 24 - 7
@@ -73,7 +73,7 @@ Chapter: "24"
 | [[LXX Reference/2 - Exodus/Exodus 24#Exodus 24 - 15|LXX]] |
 
 ##### Exodus 24 - 16
-[[Lexicon/H3501-3600#H3519|and the glory]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H7901-8000#H7931|settled]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H2001-2100#H2022|Mount]] [[Lexicon/H5501-5600#H5514|Sinai.]] [[Lexicon/H8301-8400#H8337|For six]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H6001-6100#H6051|the cloud]] [[Lexicon/H3601-3700#H3680|covered it ,]] [[Lexicon/H7601-7700#H7637|and on the seventh]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7101-7200#H7121|(the LORD) called]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H8401-8500#H8432|from within]] [[Lexicon/H6001-6100#H6051|the cloud.]]
+[[Lexicon/H3501-3600#H3519|and the glory]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H7901-8000#H7931|settled]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H2001-2100#H2022|Mount]] [[Lexicon/H5501-5600#H5514|Sinai.]] [[Lexicon/H8301-8400#H8337|For six]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H6001-6100#H6051|the cloud]] [[Lexicon/H3601-3700#H3680|covered it ,]] [[Lexicon/H7601-7700#H7637|and on the seventh]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7101-7200#H7121|[the LORD] called]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H8401-8500#H8432|from within]] [[Lexicon/H6001-6100#H6051|the cloud.]]
 
 ##### Exodus 24 - 17
 [[Lexicon/H4701-4800#H4758|And the sight]] [[Lexicon/H3501-3600#H3519|of the glory]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H301-400#H398|was like a consuming]] [[Lexicon/H701-800#H784|fire]] [[Lexicon/H7201-7300#H7218|on the mountaintop]] [[Lexicon/H2001-2100#H2022|...]] [[Lexicon/H5801-5900#H5869|in the eyes]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|of the Israelites.]]

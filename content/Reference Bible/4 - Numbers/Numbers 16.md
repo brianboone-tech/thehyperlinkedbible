@@ -21,7 +21,7 @@ Chapter: "16"
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 2|LXX]] |
 
 ##### Numbers 16 - 3
-[[Lexicon/H6901-7000#H6950|They came together]] [[Lexicon/H5901-6000#H5921|against]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H5901-6000#H5921|and]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H501-600#H559|and told them ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7201-7300#H7227|“ (You have taken) too much]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3605|everyone]] [[Lexicon/H3601-3700#H3605|in the entire]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H6901-7000#H6918|is holy ,]] [[Lexicon/H3001-3100#H3068|and the LORD]] [[Lexicon/H8401-8500#H8432|is in their midst.]] [[Lexicon/H4001-4100#H4069|Why]] [[Lexicon/H5301-5400#H5375|then do you exalt]] [[Lexicon/H5901-6000#H5921|yourselves above]] [[Lexicon/H6901-7000#H6951|the assembly]] [[Lexicon/H3001-3100#H3068|of the LORD ? ”]]
+[[Lexicon/H6901-7000#H6950|They came together]] [[Lexicon/H5901-6000#H5921|against]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H5901-6000#H5921|and]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H501-600#H559|and told them ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7201-7300#H7227|“ [You have taken] too much]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3605|everyone]] [[Lexicon/H3601-3700#H3605|in the entire]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H6901-7000#H6918|is holy ,]] [[Lexicon/H3001-3100#H3068|and the LORD]] [[Lexicon/H8401-8500#H8432|is in their midst.]] [[Lexicon/H4001-4100#H4069|Why]] [[Lexicon/H5301-5400#H5375|then do you exalt]] [[Lexicon/H5901-6000#H5921|yourselves above]] [[Lexicon/H6901-7000#H6951|the assembly]] [[Lexicon/H3001-3100#H3068|of the LORD ? ”]]
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 3|LXX]] |
 
 ##### Numbers 16 - 4
@@ -33,7 +33,7 @@ Chapter: "16"
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 5|LXX]] |
 
 ##### Numbers 16 - 6
-[[Lexicon/H7101-7200#H7141|(You,) Korah ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H5701-5800#H5712|your followers]] [[Lexicon/H6201-6300#H6213|are to do]] [[Lexicon/H2001-2100#H2063|as follows :]] [[Lexicon/H3901-4000#H3947|Take]] [[Lexicon/H4201-4300#H4289|censers ,]]
+[[Lexicon/H7101-7200#H7141|[You,] Korah ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H5701-5800#H5712|your followers]] [[Lexicon/H6201-6300#H6213|are to do]] [[Lexicon/H2001-2100#H2063|as follows :]] [[Lexicon/H3901-4000#H3947|Take]] [[Lexicon/H4201-4300#H4289|censers ,]]
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 6|LXX]] |
 
 ##### Numbers 16 - 7
@@ -49,7 +49,7 @@ Chapter: "16"
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 9|LXX]] |
 
 ##### Numbers 16 - 10
-[[Lexicon/H7101-7200#H7126|He has brought you near ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|(you) and all]] [[Lexicon/H201-300#H251|your fellow]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H1101-1200#H1121|Levites]] [[Lexicon/H3801-3900#H3878|... ,]] [[Lexicon/H1201-1300#H1245|but you are seeking]] [[Lexicon/H3501-3600#H3550|the priesthood]] [[Lexicon/H1501-1600#H1571|as well.]]
+[[Lexicon/H7101-7200#H7126|He has brought you near ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|[you] and all]] [[Lexicon/H201-300#H251|your fellow]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H1101-1200#H1121|Levites]] [[Lexicon/H3801-3900#H3878|... ,]] [[Lexicon/H1201-1300#H1245|but you are seeking]] [[Lexicon/H3501-3600#H3550|the priesthood]] [[Lexicon/H1501-1600#H1571|as well.]]
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 10|LXX]] |
 
 ##### Numbers 16 - 11
@@ -77,7 +77,7 @@ Chapter: "16"
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 16|LXX]] |
 
 ##### Numbers 16 - 17
-[[Lexicon/H301-400#H376|Each man]] [[Lexicon/H3901-4000#H3947|is to take]] [[Lexicon/H4201-4300#H4289|his censer ,]] [[Lexicon/H5401-5500#H5414|place]] [[Lexicon/H7001-7100#H7004|incense]] [[Lexicon/H5901-6000#H5921|in it ,]] [[Lexicon/H7101-7200#H7126|and present]] [[Lexicon/H301-400#H376|-]] [[Lexicon/H4201-4300#H4289|(it)]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD —]] [[Lexicon/H2501-2600#H2572|250]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H4201-4300#H4289|censers.]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H101-200#H175|and Aaron]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H4201-4300#H4289|are to present your censers as well. ”]]
+[[Lexicon/H301-400#H376|Each man]] [[Lexicon/H3901-4000#H3947|is to take]] [[Lexicon/H4201-4300#H4289|his censer ,]] [[Lexicon/H5401-5500#H5414|place]] [[Lexicon/H7001-7100#H7004|incense]] [[Lexicon/H5901-6000#H5921|in it ,]] [[Lexicon/H7101-7200#H7126|and present]] [[Lexicon/H301-400#H376|-]] [[Lexicon/H4201-4300#H4289|[it]]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD —]] [[Lexicon/H2501-2600#H2572|250]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H4201-4300#H4289|censers.]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H101-200#H175|and Aaron]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H4201-4300#H4289|are to present your censers as well. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 17|LXX]] |
 
 ##### Numbers 16 - 18
@@ -133,7 +133,7 @@ Chapter: "16"
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 30|LXX]] |
 
 ##### Numbers 16 - 31
-[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H3601-3700#H3615|As soon as (Moses) had finished]] [[Lexicon/H1601-1700#H1696|saying]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H428|this]] [[Lexicon/H1601-1700#H1697|... ,]] [[Lexicon/H101-200#H127|the ground]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8401-8500#H8478|beneath them]] [[Lexicon/H1201-1300#H1234|split open ,]]
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H3601-3700#H3615|As soon as [Moses] had finished]] [[Lexicon/H1601-1700#H1696|saying]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H428|this]] [[Lexicon/H1601-1700#H1697|... ,]] [[Lexicon/H101-200#H127|the ground]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8401-8500#H8478|beneath them]] [[Lexicon/H1201-1300#H1234|split open ,]]
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 31|LXX]] |
 
 ##### Numbers 16 - 32
@@ -145,7 +145,7 @@ Chapter: "16"
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 33|LXX]] |
 
 ##### Numbers 16 - 34
-[[Lexicon/H6901-7000#H6963|At their cries ,]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3401-3500#H3478|the people of Israel]] [[Lexicon/H801-900#H834|who (were)]] [[Lexicon/H5401-5500#H5439|around them]] [[Lexicon/H5101-5200#H5127|fled ,]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H701-800#H776|“ The earth]] [[Lexicon/H6401-6500#H6435|may]] [[Lexicon/H1101-1200#H1104|swallow us too ! ”]]
+[[Lexicon/H6901-7000#H6963|At their cries ,]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3401-3500#H3478|the people of Israel]] [[Lexicon/H801-900#H834|who [were]]] [[Lexicon/H5401-5500#H5439|around them]] [[Lexicon/H5101-5200#H5127|fled ,]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H701-800#H776|“ The earth]] [[Lexicon/H6401-6500#H6435|may]] [[Lexicon/H1101-1200#H1104|swallow us too ! ”]]
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 34|LXX]] |
 
 ##### Numbers 16 - 35
@@ -157,7 +157,7 @@ Chapter: "16"
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 36|LXX]] |
 
 ##### Numbers 16 - 37
-[[Lexicon/H501-600#H559|“ Tell]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H401-500#H499|Eleazar]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H101-200#H175|of Aaron]] [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H7301-7400#H7311|to remove]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4289|the censers]] [[Lexicon/H901-1000#H996|from]] [[Lexicon/H8301-8400#H8316|the flames]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H2201-2300#H2219|to scatter]] [[Lexicon/H701-800#H784|the coals]] [[Lexicon/H1901-2000#H1973|far away ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H6901-7000#H6942|(the censers) are holy.]]
+[[Lexicon/H501-600#H559|“ Tell]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H401-500#H499|Eleazar]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H101-200#H175|of Aaron]] [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H7301-7400#H7311|to remove]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4289|the censers]] [[Lexicon/H901-1000#H996|from]] [[Lexicon/H8301-8400#H8316|the flames]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H2201-2300#H2219|to scatter]] [[Lexicon/H701-800#H784|the coals]] [[Lexicon/H1901-2000#H1973|far away ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H6901-7000#H6942|[the censers] are holy.]]
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 37|LXX]] |
 
 ##### Numbers 16 - 38
@@ -189,7 +189,7 @@ Chapter: "16"
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 44|LXX]] |
 
 ##### Numbers 16 - 45
-[[Lexicon/H7401-7500#H7426|“ Get away]] [[Lexicon/H8401-8500#H8432|from]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H3601-3700#H3615|so that I may consume]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H7201-7300#H7281|in an instant. ”]] [[Lexicon/H5301-5400#H5307|And (Moses and Aaron) fell]] [[Lexicon/H5901-6000#H5921|facedown]] [[Lexicon/H6401-6500#H6440|....]]
+[[Lexicon/H7401-7500#H7426|“ Get away]] [[Lexicon/H8401-8500#H8432|from]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H3601-3700#H3615|so that I may consume]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H7201-7300#H7281|in an instant. ”]] [[Lexicon/H5301-5400#H5307|And [Moses and Aaron] fell]] [[Lexicon/H5901-6000#H5921|facedown]] [[Lexicon/H6401-6500#H6440|....]]
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 45|LXX]] |
 
 ##### Numbers 16 - 46
@@ -197,7 +197,7 @@ Chapter: "16"
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 46|LXX]] |
 
 ##### Numbers 16 - 47
-[[Lexicon/H101-200#H175|So Aaron]] [[Lexicon/H3901-4000#H3947|took (the censer)]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H1601-1700#H1696|had ordered]] [[Lexicon/H7301-7400#H7323|and ran]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H8401-8500#H8432|the midst]] [[Lexicon/H6901-7000#H6951|of the assembly.]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H5001-5100#H5063|And seeing that the plague]] [[Lexicon/H2401-2500#H2490|had begun]] [[Lexicon/H5901-6000#H5971|among the people ,]] [[Lexicon/H5401-5500#H5414|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7001-7100#H7004|he offered the incense]] [[Lexicon/H3701-3800#H3722|and made atonement]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H5901-6000#H5971|the people.]]
+[[Lexicon/H101-200#H175|So Aaron]] [[Lexicon/H3901-4000#H3947|took [the censer]]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H1601-1700#H1696|had ordered]] [[Lexicon/H7301-7400#H7323|and ran]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H8401-8500#H8432|the midst]] [[Lexicon/H6901-7000#H6951|of the assembly.]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H5001-5100#H5063|And seeing that the plague]] [[Lexicon/H2401-2500#H2490|had begun]] [[Lexicon/H5901-6000#H5971|among the people ,]] [[Lexicon/H5401-5500#H5414|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7001-7100#H7004|he offered the incense]] [[Lexicon/H3701-3800#H3722|and made atonement]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H5901-6000#H5971|the people.]]
 | [[LXX Reference/4 - Numbers/Numbers 16#Numbers 16 - 47|LXX]] |
 
 ##### Numbers 16 - 48

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Proverbs 14
+# Proverbs-R 14
 
-[[Readable Bible/20 - Proverbs/Proverbs 13|← Proverbs 13]] | [[Readable Bible/20 - Proverbs/Proverbs 15|Proverbs 15 →]]
+**[[Home/Scripture/20 - Proverbs|Proverbs]]**
+
+[[Readable Bible/20 - Proverbs/Proverbs 13#Proverbs-R 13| Proverbs 13]] - [[Readable Bible/20 - Proverbs/Proverbs 15#Proverbs-R 15| Proverbs 15]]
 
 ---
 

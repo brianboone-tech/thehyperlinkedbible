@@ -18,7 +18,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 13#Psalm 13 - 2|LXX]] |
 
 ##### Psalm 13 - 3
-[[Lexicon/H5001-5100#H5027|Consider me]] [[Lexicon/H6001-6100#H6030|(and) respond ,]] [[Lexicon/H3001-3100#H3068|O LORD]] [[Lexicon/H401-500#H430|my God.]] [[Lexicon/H201-300#H215|Give light]] [[Lexicon/H5801-5900#H5869|to my eyes ,]] [[Lexicon/H6401-6500#H6435|lest]] [[Lexicon/H3401-3500#H3462|I sleep]] [[Lexicon/H4101-4200#H4194|in death ,]]
+[[Lexicon/H5001-5100#H5027|Consider me]] [[Lexicon/H6001-6100#H6030|[and] respond ,]] [[Lexicon/H3001-3100#H3068|O LORD]] [[Lexicon/H401-500#H430|my God.]] [[Lexicon/H201-300#H215|Give light]] [[Lexicon/H5801-5900#H5869|to my eyes ,]] [[Lexicon/H6401-6500#H6435|lest]] [[Lexicon/H3401-3500#H3462|I sleep]] [[Lexicon/H4101-4200#H4194|in death ,]]
 | [[LXX Reference/19 - Psalms/Psalms 13#Psalm 13 - 3|LXX]] |
 
 ##### Psalm 13 - 4

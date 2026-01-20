@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/52 - 1 Thessalonians|← 1 Thessalonians]]**
+**[[Home/Scripture/52 - 1 Thessalonians|← 1 Thessalonians]]**
 
 ---
 

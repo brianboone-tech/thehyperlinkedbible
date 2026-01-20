@@ -88,11 +88,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 19#Leviticus 19 - 19|LXX]] |
 
 ##### Leviticus 19 - 20
-[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H7901-8000#H7901|lies]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7902|-]] [[Lexicon/H2201-2300#H2233|carnally]] [[Lexicon/H801-900#H802|-]] [[Lexicon/H1901-2000#H1931|vvv]] [[Lexicon/H8101-8200#H8198|with a slave girl]] [[Lexicon/H2701-2800#H2778|promised]] [[Lexicon/H301-400#H376|to another man]] [[Lexicon/H3801-3900#H3808|but who has not]] [[Lexicon/H6201-6300#H6299|...]] [[Lexicon/H6201-6300#H6299|been redeemed]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H5401-5500#H5414|given]] [[Lexicon/H2601-2700#H2668|freedom ,]] [[Lexicon/H1901-2000#H1961|there must be]] [[Lexicon/H1201-1300#H1244|due punishment.]] [[Lexicon/H3801-3900#H3808|(But) they are not]] [[Lexicon/H4101-4200#H4191|to be put to death ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H3801-3900#H3808|she had not]] [[Lexicon/H2601-2700#H2666|been freed.]]
+[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H7901-8000#H7901|lies]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7902|-]] [[Lexicon/H2201-2300#H2233|carnally]] [[Lexicon/H801-900#H802|-]] [[Lexicon/H1901-2000#H1931|vvv]] [[Lexicon/H8101-8200#H8198|with a slave girl]] [[Lexicon/H2701-2800#H2778|promised]] [[Lexicon/H301-400#H376|to another man]] [[Lexicon/H3801-3900#H3808|but who has not]] [[Lexicon/H6201-6300#H6299|...]] [[Lexicon/H6201-6300#H6299|been redeemed]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H5401-5500#H5414|given]] [[Lexicon/H2601-2700#H2668|freedom ,]] [[Lexicon/H1901-2000#H1961|there must be]] [[Lexicon/H1201-1300#H1244|due punishment.]] [[Lexicon/H3801-3900#H3808|[But] they are not]] [[Lexicon/H4101-4200#H4191|to be put to death ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H3801-3900#H3808|she had not]] [[Lexicon/H2601-2700#H2666|been freed.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 19#Leviticus 19 - 20|LXX]] |
 
 ##### Leviticus 19 - 21
-[[Lexicon/H901-1000#H935|(The man,) however, must bring]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H352|a ram]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6601-6700#H6607|the entrance]] [[Lexicon/H101-200#H168|to the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H801-900#H817|as his guilt offering]] [[Lexicon/H801-900#H817|...]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+[[Lexicon/H901-1000#H935|[The man,] however, must bring]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H352|a ram]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6601-6700#H6607|the entrance]] [[Lexicon/H101-200#H168|to the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H801-900#H817|as his guilt offering]] [[Lexicon/H801-900#H817|...]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 19#Leviticus 19 - 21|LXX]] |
 
 ##### Leviticus 19 - 22
@@ -132,7 +132,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 19#Leviticus 19 - 30|LXX]] |
 
 ##### Leviticus 19 - 31
-[[Lexicon/H401-500#H408|You must not]] [[Lexicon/H6401-6500#H6437|turn]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H178|mediums]] [[Lexicon/H401-500#H413|(or)]] [[Lexicon/H3001-3100#H3049|spiritists ;]] [[Lexicon/H1201-1300#H1245|do not seek them out]] [[Lexicon/H401-500#H408|... ,]] [[Lexicon/H2901-3000#H2930|or you will be defiled]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God.]]
+[[Lexicon/H401-500#H408|You must not]] [[Lexicon/H6401-6500#H6437|turn]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H178|mediums]] [[Lexicon/H401-500#H413|[or]]] [[Lexicon/H3001-3100#H3049|spiritists ;]] [[Lexicon/H1201-1300#H1245|do not seek them out]] [[Lexicon/H401-500#H408|... ,]] [[Lexicon/H2901-3000#H2930|or you will be defiled]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 19#Leviticus 19 - 31|LXX]] |
 
 ##### Leviticus 19 - 32
@@ -152,7 +152,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 19#Leviticus 19 - 35|LXX]] |
 
 ##### Leviticus 19 - 36
-[[Lexicon/H1901-2000#H1961|You shall maintain]] [[Lexicon/H6601-6700#H6664|honest]] [[Lexicon/H3901-4000#H3976|scales]] [[Lexicon/H6601-6700#H6664|(and)]] [[Lexicon/H1-100#H68|weights ,]] [[Lexicon/H6601-6700#H6664|an honest]] [[Lexicon/H301-400#H374|ephah ,]] [[Lexicon/H6601-6700#H6664|(and) an honest]] [[Lexicon/H1901-2000#H1969|hin.]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3301-3400#H3318|brought]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H701-800#H776|out of the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
+[[Lexicon/H1901-2000#H1961|You shall maintain]] [[Lexicon/H6601-6700#H6664|honest]] [[Lexicon/H3901-4000#H3976|scales]] [[Lexicon/H6601-6700#H6664|[and]]] [[Lexicon/H1-100#H68|weights ,]] [[Lexicon/H6601-6700#H6664|an honest]] [[Lexicon/H301-400#H374|ephah ,]] [[Lexicon/H6601-6700#H6664|[and] an honest]] [[Lexicon/H1901-2000#H1969|hin.]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3301-3400#H3318|brought]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H701-800#H776|out of the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 19#Leviticus 19 - 36|LXX]] |
 
 ##### Leviticus 19 - 37

@@ -7,9 +7,11 @@ cssClasses: lexicon
 
 
 
-# Exodus 8
+# Exodus-R 8
 
-[[Readable Bible/02 - Exodus/Exodus 7|← Exodus 7]] | [[Readable Bible/02 - Exodus/Exodus 9|Exodus 9 →]]
+**[[Home/Scripture/02 - Exodus|Exodus]]**
+
+[[Readable Bible/02 - Exodus/Exodus 7#Exodus-R 7| Exodus 7]] - [[Readable Bible/02 - Exodus/Exodus 9#Exodus-R 9| Exodus 9]]
 
 ---
 

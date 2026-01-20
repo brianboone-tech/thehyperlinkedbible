@@ -6,9 +6,11 @@ cssclasses:
   - lexicon
 ---
 
-# 1 Samuel 15
+# 1 Samuel-R 15
 
-[[Readable Bible/09 - 1 Samuel/1 Samuel 14|← 1 Samuel 14]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 16|1 Samuel 16 →]]
+**[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 14#1 Samuel-R 14| 1 Samuel 14]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 16#1 Samuel-R 16| 1 Samuel 16]]
 
 ---
 

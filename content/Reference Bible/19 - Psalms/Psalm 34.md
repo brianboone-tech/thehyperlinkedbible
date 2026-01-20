@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 34 - 1
-[[Lexicon/H1701-1800#H1732|Of David ,]] [[Lexicon/H8101-8200#H8138|when he pretended]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2901-3000#H2940|to be insane]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H1-100#H40|Abimelech ,]] [[Lexicon/H1601-1700#H1644|so that (the king) drove him]] [[Lexicon/H1901-2000#H1980|away.]] [[Lexicon/H1201-1300#H1288|I will bless]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3601-3700#H3605|at all]] [[Lexicon/H6201-6300#H6256|times ;]] [[Lexicon/H8401-8500#H8416|His praise]] [[Lexicon/H8501-8600#H8548|will always]] [[Lexicon/H6301-6400#H6310|be on my lips.]]
+[[Lexicon/H1701-1800#H1732|Of David ,]] [[Lexicon/H8101-8200#H8138|when he pretended]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2901-3000#H2940|to be insane]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H1-100#H40|Abimelech ,]] [[Lexicon/H1601-1700#H1644|so that [the king] drove him]] [[Lexicon/H1901-2000#H1980|away.]] [[Lexicon/H1201-1300#H1288|I will bless]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3601-3700#H3605|at all]] [[Lexicon/H6201-6300#H6256|times ;]] [[Lexicon/H8401-8500#H8416|His praise]] [[Lexicon/H8501-8600#H8548|will always]] [[Lexicon/H6301-6400#H6310|be on my lips.]]
 | [[LXX Reference/19 - Psalms/Psalms 34#Psalm 34 - 1|LXX]] |
 
 ##### Psalm 34 - 2
@@ -70,7 +70,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 34#Psalm 34 - 15|LXX]] |
 
 ##### Psalm 34 - 16
-[[Lexicon/H6401-6500#H6440|(But) the face]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H6201-6300#H6213|is against]] [[Lexicon/H7401-7500#H7451|those who do evil ,]] [[Lexicon/H3701-3800#H3772|to wipe out]] [[Lexicon/H2101-2200#H2143|(all) memory of them]] [[Lexicon/H701-800#H776|from the earth.]]
+[[Lexicon/H6401-6500#H6440|[But] the face]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H6201-6300#H6213|is against]] [[Lexicon/H7401-7500#H7451|those who do evil ,]] [[Lexicon/H3701-3800#H3772|to wipe out]] [[Lexicon/H2101-2200#H2143|[all] memory of them]] [[Lexicon/H701-800#H776|from the earth.]]
 | [[LXX Reference/19 - Psalms/Psalms 34#Psalm 34 - 16|LXX]] |
 
 ##### Psalm 34 - 17
@@ -82,7 +82,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 34#Psalm 34 - 18|LXX]] |
 
 ##### Psalm 34 - 19
-[[Lexicon/H7201-7300#H7227|Many]] [[Lexicon/H7401-7500#H7451|(are) the afflictions]] [[Lexicon/H6601-6700#H6662|of the righteous ,]] [[Lexicon/H3001-3100#H3068|but the LORD]] [[Lexicon/H5301-5400#H5337|delivers him]] [[Lexicon/H3601-3700#H3605|from them all.]]
+[[Lexicon/H7201-7300#H7227|Many]] [[Lexicon/H7401-7500#H7451|[are] the afflictions]] [[Lexicon/H6601-6700#H6662|of the righteous ,]] [[Lexicon/H3001-3100#H3068|but the LORD]] [[Lexicon/H5301-5400#H5337|delivers him]] [[Lexicon/H3601-3700#H3605|from them all.]]
 | [[LXX Reference/19 - Psalms/Psalms 34#Psalm 34 - 19|LXX]] |
 
 ##### Psalm 34 - 20

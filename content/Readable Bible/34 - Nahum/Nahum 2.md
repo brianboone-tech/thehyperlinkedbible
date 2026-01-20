@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Nahum 2
+# Nahum-R 2
 
-[[Readable Bible/34 - Nahum/Nahum 1|← Nahum 1]] | [[Readable Bible/34 - Nahum/Nahum 3|Nahum 3 →]]
+**[[Home/Scripture/34 - Nahum|Nahum]]**
+
+[[Readable Bible/34 - Nahum/Nahum 1#Nahum-R 1| Nahum 1]] - [[Readable Bible/34 - Nahum/Nahum 3#Nahum-R 3| Nahum 3]]
 
 ---
 

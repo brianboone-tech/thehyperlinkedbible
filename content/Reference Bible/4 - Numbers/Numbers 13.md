@@ -69,7 +69,7 @@ Chapter: "13"
 | [[LXX Reference/4 - Numbers/Numbers 13#Numbers 13 - 14|LXX]] |
 
 ##### Numbers 13 - 15
-[[Lexicon/H4201-4300#H4294|(and) from the tribe]] [[Lexicon/H1401-1500#H1410|of Gad ,]] [[Lexicon/H1301-1400#H1345|Geuel]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H4301-4400#H4352|of Machi.]]
+[[Lexicon/H4201-4300#H4294|[and] from the tribe]] [[Lexicon/H1401-1500#H1410|of Gad ,]] [[Lexicon/H1301-1400#H1345|Geuel]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H4301-4400#H4352|of Machi.]]
 | [[LXX Reference/4 - Numbers/Numbers 13#Numbers 13 - 15|LXX]] |
 
 ##### Numbers 13 - 16
@@ -109,7 +109,7 @@ Chapter: "13"
 | [[LXX Reference/4 - Numbers/Numbers 13#Numbers 13 - 24|LXX]] |
 
 ##### Numbers 13 - 25
-[[Lexicon/H7001-7100#H7093|After]] [[Lexicon/H701-800#H705|forty]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H7701-7800#H7725|(the men) returned]] [[Lexicon/H8401-8500#H8446|from spying out]] [[Lexicon/H701-800#H776|the land ,]]
+[[Lexicon/H7001-7100#H7093|After]] [[Lexicon/H701-800#H705|forty]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H7701-7800#H7725|[the men] returned]] [[Lexicon/H8401-8500#H8446|from spying out]] [[Lexicon/H701-800#H776|the land ,]]
 | [[LXX Reference/4 - Numbers/Numbers 13#Numbers 13 - 25|LXX]] |
 
 ##### Numbers 13 - 26
@@ -129,7 +129,7 @@ Chapter: "13"
 | [[LXX Reference/4 - Numbers/Numbers 13#Numbers 13 - 29|LXX]] |
 
 ##### Numbers 13 - 30
-[[Lexicon/H3601-3700#H3612|Then Caleb]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2013|quieted]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H401-500#H413|before]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H5901-6000#H5927|“ We must go up]] [[Lexicon/H5901-6000#H5927|...]] [[Lexicon/H3401-3500#H3423|and take possession of]] [[Lexicon/H801-900#H853|(the land) ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3201-3300#H3201|we can certainly conquer]] [[Lexicon/H3201-3300#H3201|...]]
+[[Lexicon/H3601-3700#H3612|Then Caleb]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2013|quieted]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H401-500#H413|before]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H5901-6000#H5927|“ We must go up]] [[Lexicon/H5901-6000#H5927|...]] [[Lexicon/H3401-3500#H3423|and take possession of]] [[Lexicon/H801-900#H853|[the land] ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3201-3300#H3201|we can certainly conquer]] [[Lexicon/H3201-3300#H3201|...]]
 | [[LXX Reference/4 - Numbers/Numbers 13#Numbers 13 - 30|LXX]] |
 
 ##### Numbers 13 - 31

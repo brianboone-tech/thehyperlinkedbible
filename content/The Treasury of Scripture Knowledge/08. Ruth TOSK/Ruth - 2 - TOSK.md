@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Ruth 2 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/08 - Ruth|← Ruth]]** | [[The Treasury of Scripture Knowledge/08. Ruth TOSK/Ruth - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/08. Ruth TOSK/Ruth - 3 - TOSK|Ch 3 →]]
+**[[Home/Scripture/08 - Ruth|← Ruth]]** | [[The Treasury of Scripture Knowledge/08. Ruth TOSK/Ruth - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/08. Ruth TOSK/Ruth - 3 - TOSK|Ch 3 →]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Genesis 9 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 10 - TOSK|Ch 10 →]]
+**[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 10 - TOSK|Ch 10 →]]
 
 ---
 

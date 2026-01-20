@@ -50,7 +50,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 19#Psalm 19 - 10|LXX]] |
 
 ##### Psalm 19 - 11
-[[Lexicon/H1501-1600#H1571|By them indeed]] [[Lexicon/H5601-5700#H5650|Your servant]] [[Lexicon/H2001-2100#H2094|is warned ;]] [[Lexicon/H8101-8200#H8104|keeping them]] [[Lexicon/H7201-7300#H7227|(is) great]] [[Lexicon/H6101-6200#H6118|reward.]]
+[[Lexicon/H1501-1600#H1571|By them indeed]] [[Lexicon/H5601-5700#H5650|Your servant]] [[Lexicon/H2001-2100#H2094|is warned ;]] [[Lexicon/H8101-8200#H8104|keeping them]] [[Lexicon/H7201-7300#H7227|[is] great]] [[Lexicon/H6101-6200#H6118|reward.]]
 | [[LXX Reference/19 - Psalms/Psalms 19#Psalm 19 - 11|LXX]] |
 
 ##### Psalm 19 - 12

@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/48 - Galatians|← Galatians]]**
+**[[Home/Scripture/48 - Galatians|← Galatians]]**
 
 ---
 

@@ -18,7 +18,7 @@ Testament: Old
 [[Lexicon/G3301-3400#G3361|You should not]] [[Lexicon/G601-700#G0654|turn]] [[Lexicon/G4301-4400#G4383|your face]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G2301-2400#G2346|I should be afflicted.]] [[Lexicon/G2801-2900#G2827|Lean]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G3701-3800#G3775|your ear!]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G1901-2000#G1941|I should call upon]] [[Lexicon/G1401-1500#G1473|you.]] [[Lexicon/G5001-5100#G5036|Quickly]] [[Lexicon/G1801-1900#G1873|heed]] [[Lexicon/G1401-1500#G1473|me!]]
 
 #### Psalms 102 - 3
-[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1501-1600#G1587|dissipated]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3747|my bones]] [[Lexicon/G5601-5624#G5616|as]]
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1501-1600#G1587|dissipated]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3747|my bones]] [[Lexicon/G5601-5700#G5616|as]]
 
 #### Psalms 102 - 4
 [[Lexicon/G4101-4200#G4141| is struck down]] [[Lexicon/G3701-3800#G3754|so that]] [[Lexicon/G1901-2000#G1950|I forgot]] [[Lexicon/G2001-2100#G2068|to eat]] [[Lexicon/G701-800#G0740|my bread.]]
@@ -27,10 +27,10 @@ Testament: Old
 [[Lexicon/G501-600#G0575|From]] [[Lexicon/G4701-4800#G4726|of my moaning]] [[Lexicon/G2801-2900#G2853|cleaves]] [[Lexicon/G3501-3600#G3588|to]] [[Lexicon/G4501-4600#G4561|my flesh.]]
 
 #### Psalms 102 - 6
-[[Lexicon/G3601-3700#G3666|I became like]] [[Lexicon/G3901-4000#G3989|pelican]] [[Lexicon/G1001-1100#G1096|I became]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G1701-1800#G1722|in]]
+[[Lexicon/G3601-3700#G3666|I became like]] [[Lexicon/G3901-4000#G3989|pelican]] [[Lexicon/G1001-1100#G1096|I became]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G1701-1800#G1722|in]]
 
 #### Psalms 102 - 7
-[[Lexicon/G1-100#G0069|I was sleepless]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1096|I became]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G4701-4800#G4765|a sparrow]] [[Lexicon/G3401-3500#G3437|living alone]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1430|a roof.]]
+[[Lexicon/G1-100#G0069|I was sleepless]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1096|I became]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G4701-4800#G4765|a sparrow]] [[Lexicon/G3401-3500#G3437|living alone]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1430|a roof.]]
 
 #### Psalms 102 - 8
 [[Lexicon/G3601-3700#G3650|All]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G3601-3700#G3679|berated]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1801-1900#G1867|ones praising]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G2501-2600#G2596|against]]
@@ -42,7 +42,7 @@ Testament: Old
 [[Lexicon/G501-600#G0575|because of]] [[Lexicon/G3701-3800#G3709|of your anger,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2372|your rage;]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1801-1900#G1869|having lifted me up]] [[Lexicon/G2601-2700#G2674|you broke me down.]]
 
 #### Psalms 102 - 11
-[[Lexicon/G2201-2300#G2250|My days]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G2501-2600#G2504|and I]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G3501-3600#G3583|am dried up.]]
+[[Lexicon/G2201-2300#G2250|My days]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G2501-2600#G2504|and I]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G3501-3600#G3583|am dried up.]]
 
 #### Psalms 102 - 12
 [[Lexicon/G1401-1500#G1473|But you,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3401-3500#G3422|your memorial]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G1001-1100#G1074|generation]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1074|generation.]]
@@ -87,7 +87,7 @@ Testament: Old
 [[Lexicon/G2501-2600#G2596|At]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5495|of your hands]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heavens.]]
 
 #### Psalms 102 - 26
-[[Lexicon/G1401-1500#G1473|They]] [[Lexicon/G601-700#G0622|shall perish,]] [[Lexicon/G1401-1500#G1473|but you]] [[Lexicon/G1201-1300#G1265|shall abide.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2401-2500#G2440|a garment]] [[Lexicon/G3801-3900#G3822|shall become old;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G4001-4100#G4018|a wrap-around garment]] [[Lexicon/G1601-1700#G1667|you shall coil]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G201-300#G0236|they shall be changed.]]
+[[Lexicon/G1401-1500#G1473|They]] [[Lexicon/G601-700#G0622|shall perish,]] [[Lexicon/G1401-1500#G1473|but you]] [[Lexicon/G1201-1300#G1265|shall abide.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2401-2500#G2440|a garment]] [[Lexicon/G3801-3900#G3822|shall become old;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G4001-4100#G4018|a wrap-around garment]] [[Lexicon/G1601-1700#G1667|you shall coil]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G201-300#G0236|they shall be changed.]]
 
 #### Psalms 102 - 27
 [[Lexicon/G1401-1500#G1473|But you]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2094|your years]] [[Lexicon/G3701-3800#G3756|shall not]] [[Lexicon/G1501-1600#G1587|cease.]]

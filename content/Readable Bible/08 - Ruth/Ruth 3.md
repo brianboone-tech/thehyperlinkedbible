@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ruth 3
+# Ruth-R 3
 
-[[Readable Bible/08 - Ruth/Ruth 2|← Ruth 2]] | [[Readable Bible/08 - Ruth/Ruth 4|Ruth 4 →]]
+**[[Home/Scripture/08 - Ruth|Ruth]]**
+
+[[Readable Bible/08 - Ruth/Ruth 2#Ruth-R 2| Ruth 2]] - [[Readable Bible/08 - Ruth/Ruth 4#Ruth-R 4| Ruth 4]]
 
 ---
 

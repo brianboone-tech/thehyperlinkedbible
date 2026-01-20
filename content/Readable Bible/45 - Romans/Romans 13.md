@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Romans 13
+# Romans-R 13
 
-[[Readable Bible/45 - Romans/Romans 12|← Romans 12]] | [[Readable Bible/45 - Romans/Romans 14|Romans 14 →]]
+**[[Home/Scripture/45 - Romans|Romans]]**
+
+[[Readable Bible/45 - Romans/Romans 12#Romans-R 12| Romans 12]] - [[Readable Bible/45 - Romans/Romans 14#Romans-R 14| Romans 14]]
 
 ---
 

@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/20 - Proverbs|← Proverbs]]**
+**[[Home/Scripture/20 - Proverbs|← Proverbs]]**
 
 ---
 

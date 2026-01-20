@@ -31,11 +31,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 2#Psalm 2 - 5|LXX]] |
 
 ##### Psalm 2 - 6
-[[Lexicon/H501-600#H589|“ I have]] [[Lexicon/H5201-5300#H5258|installed]] [[Lexicon/H4401-4500#H4428|My King]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H6701-6800#H6726|Zion ,]] [[Lexicon/H6901-7000#H6944|(upon) My holy]] [[Lexicon/H2001-2100#H2022|mountain. ”]]
+[[Lexicon/H501-600#H589|“ I have]] [[Lexicon/H5201-5300#H5258|installed]] [[Lexicon/H4401-4500#H4428|My King]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H6701-6800#H6726|Zion ,]] [[Lexicon/H6901-7000#H6944|[upon] My holy]] [[Lexicon/H2001-2100#H2022|mountain. ”]]
 | [[LXX Reference/19 - Psalms/Psalms 2#Psalm 2 - 6|LXX]] |
 
 ##### Psalm 2 - 7
-[[Lexicon/H5601-5700#H5608|I will proclaim]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H2701-2800#H2706|the decree]] [[Lexicon/H501-600#H559|spoken]] [[Lexicon/H401-500#H413|to Me]] [[Lexicon/H3001-3100#H3068|by the LORD :]] [[Lexicon/H801-900#H859|“ You]] [[Lexicon/H1101-1200#H1121|(are) My Son ;]] [[Lexicon/H3101-3200#H3117|today]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3201-3300#H3205|have become Your Father.]]
+[[Lexicon/H5601-5700#H5608|I will proclaim]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H2701-2800#H2706|the decree]] [[Lexicon/H501-600#H559|spoken]] [[Lexicon/H401-500#H413|to Me]] [[Lexicon/H3001-3100#H3068|by the LORD :]] [[Lexicon/H801-900#H859|“ You]] [[Lexicon/H1101-1200#H1121|[are] My Son ;]] [[Lexicon/H3101-3200#H3117|today]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3201-3300#H3205|have become Your Father.]]
 | [[LXX Reference/19 - Psalms/Psalms 2#Psalm 2 - 7|LXX]] |
 
 ##### Psalm 2 - 8
@@ -55,5 +55,5 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 2#Psalm 2 - 11|LXX]] |
 
 ##### Psalm 2 - 12
-[[Lexicon/H5401-5500#H5401|Kiss]] [[Lexicon/H1201-1300#H1248|the Son ,]] [[Lexicon/H6401-6500#H6435|lest]] [[Lexicon/H501-600#H599|He be angry]] [[Lexicon/H1-100#H6|and you perish]] [[Lexicon/H1801-1900#H1870|in your rebellion ,]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H601-700#H639|His wrath]] [[Lexicon/H1101-1200#H1197|ignites]] [[Lexicon/H4501-4600#H4592|in an instant.]] [[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H3601-3700#H3605|(are) all]] [[Lexicon/H2601-2700#H2620|who take refuge]]
+[[Lexicon/H5401-5500#H5401|Kiss]] [[Lexicon/H1201-1300#H1248|the Son ,]] [[Lexicon/H6401-6500#H6435|lest]] [[Lexicon/H501-600#H599|He be angry]] [[Lexicon/H1-100#H6|and you perish]] [[Lexicon/H1801-1900#H1870|in your rebellion ,]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H601-700#H639|His wrath]] [[Lexicon/H1101-1200#H1197|ignites]] [[Lexicon/H4501-4600#H4592|in an instant.]] [[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H3601-3700#H3605|[are] all]] [[Lexicon/H2601-2700#H2620|who take refuge]]
 | [[LXX Reference/19 - Psalms/Psalms 2#Psalm 2 - 12|LXX]] |

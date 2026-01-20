@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Philippians 4
+# Philippians-R 4
 
-[[Readable Bible/50 - Philippians/Philippians 3|← Philippians 3]]
+**[[Home/Scripture/50 - Philippians|Philippians]]**
+
+[[Readable Bible/50 - Philippians/Philippians 3#Philippians-R 3| Philippians 3]]
 
 ---
 

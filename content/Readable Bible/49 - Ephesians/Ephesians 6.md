@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ephesians 6
+# Ephesians-R 6
 
-[[Readable Bible/49 - Ephesians/Ephesians 5|← Ephesians 5]]
+**[[Home/Scripture/49 - Ephesians|Ephesians]]**
+
+[[Readable Bible/49 - Ephesians/Ephesians 5#Ephesians-R 5| Ephesians 5]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Samuel 22 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/10 - 2 Samuel|← 2 Samuel]]** | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 21 - TOSK|← Ch 21]] | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 23 - TOSK|Ch 23 →]]
+**[[Home/Scripture/10 - 2 Samuel|← 2 Samuel]]** | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 21 - TOSK|← Ch 21]] | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 23 - TOSK|Ch 23 →]]
 
 ---
 

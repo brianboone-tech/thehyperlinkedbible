@@ -6,9 +6,11 @@ cssclasses:
   - lexicon
 ---
 
-# Genesis 20
+# Genesis-R 20
 
-[[Readable Bible/01 - Genesis/Genesis 19|← Genesis 19]] | [[Readable Bible/01 - Genesis/Genesis 21|Genesis 21 →]]
+**[[Home/Scripture/01 - Genesis|Genesis]]**
+
+[[Readable Bible/01 - Genesis/Genesis 19#Genesis-R 19| Genesis 19]] - [[Readable Bible/01 - Genesis/Genesis 21#Genesis-R 21| Genesis 21]]
 
 ---
 

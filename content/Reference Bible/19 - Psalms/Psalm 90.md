@@ -25,13 +25,13 @@ cssClasses: lexicon
 [[Lexicon/H2201-2300#H2229|You whisk them away]] [[Lexicon/H8101-8200#H8142|in their sleep ;]] [[Lexicon/H1901-2000#H1961|they are]] [[Lexicon/H2601-2700#H2682|like the new grass]] [[Lexicon/H2401-2500#H2498|...]] [[Lexicon/H1201-1300#H1242|of the morning —]]
 
 ##### Psalm 90 - 6
-[[Lexicon/H1201-1300#H1242|in the morning]] [[Lexicon/H6601-6700#H6692|it springs up]] [[Lexicon/H2401-2500#H2498|new ,]] [[Lexicon/H6101-6200#H6153|(but) by evening]] [[Lexicon/H4101-4200#H4135|it fades]] [[Lexicon/H3001-3100#H3001|and withers.]]
+[[Lexicon/H1201-1300#H1242|in the morning]] [[Lexicon/H6601-6700#H6692|it springs up]] [[Lexicon/H2401-2500#H2498|new ,]] [[Lexicon/H6101-6200#H6153|[but] by evening]] [[Lexicon/H4101-4200#H4135|it fades]] [[Lexicon/H3001-3100#H3001|and withers.]]
 
 ##### Psalm 90 - 7
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3615|we are consumed]] [[Lexicon/H601-700#H639|by Your anger]] [[Lexicon/H901-1000#H926|and terrified]] [[Lexicon/H2501-2600#H2534|by Your wrath.]]
 
 ##### Psalm 90 - 8
-[[Lexicon/H7801-7900#H7896|You have set]] [[Lexicon/H5701-5800#H5771|our iniquities]] [[Lexicon/H5001-5100#H5048|before You ,]] [[Lexicon/H5901-6000#H5956|our secret (sins)]] [[Lexicon/H3901-4000#H3974|in the light]] [[Lexicon/H6401-6500#H6440|of Your presence.]]
+[[Lexicon/H7801-7900#H7896|You have set]] [[Lexicon/H5701-5800#H5771|our iniquities]] [[Lexicon/H5001-5100#H5048|before You ,]] [[Lexicon/H5901-6000#H5956|our secret [sins]]] [[Lexicon/H3901-4000#H3974|in the light]] [[Lexicon/H6401-6500#H6440|of Your presence.]]
 
 ##### Psalm 90 - 9
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3101-3200#H3117|our days]] [[Lexicon/H6401-6500#H6437|decline]] [[Lexicon/H5601-5700#H5678|in Your fury ;]] [[Lexicon/H3601-3700#H3615|we finish]] [[Lexicon/H8101-8200#H8141|our years]] [[Lexicon/H3601-3700#H3644|with]] [[Lexicon/H1801-1900#H1899|a sigh.]]

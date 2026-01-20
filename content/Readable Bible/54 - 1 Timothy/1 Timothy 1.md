@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Timothy 1
+# 1 Timothy-R 1
 
-[[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 3|←]] | [[Readable Bible/54 - 1 Timothy/1 Timothy 2|→]]
+**[[Home/Scripture/54 - 1 Timothy|1 Timothy]]**
+
+[[2 Thessalonians-R 3|←]] • [[1 Timothy-R 2|→]]
 
 ---
 

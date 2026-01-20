@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 45 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 44 - TOSK|← Ch 44]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 46 - TOSK|Ch 46 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 44 - TOSK|← Ch 44]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 46 - TOSK|Ch 46 →]]
 
 ---
 

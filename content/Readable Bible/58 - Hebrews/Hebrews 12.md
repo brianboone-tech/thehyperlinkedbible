@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hebrews 12
+# Hebrews-R 12
 
-[[Readable Bible/58 - Hebrews/Hebrews 11|← Hebrews 11]] | [[Readable Bible/58 - Hebrews/Hebrews 13|Hebrews 13 →]]
+**[[Home/Scripture/58 - Hebrews|Hebrews]]**
+
+[[Readable Bible/58 - Hebrews/Hebrews 11#Hebrews-R 11| Hebrews 11]] - [[Readable Bible/58 - Hebrews/Hebrews 13#Hebrews-R 13| Hebrews 13]]
 
 ---
 
@@ -59,7 +61,7 @@ cssClasses: lexicon
 ##### Hebrews 12 . 23
 [[Reference Bible/58 - Hebrews/Hebrews 12#Hebrews 12 - 23|23]] in joyful assembly, to the congregation of the firstborn, enrolled in heaven. You have come to God the Judge of all, to the spirits of the righteous made perfect,  | [[Chiasm/Chiasm - 58 - Hebrews 12 . 1 - 29|C]] | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 12 - TOSK#Verse 23|TOSK]] | [[Trajectory Tables/061 - First-Born Redemption (Consecration to God)|TT¹]] | [[Trajectory Tables/016 - Book of Life (God's Record of the Elect)|TT¹]] |
 ##### Hebrews 12 . 24
-[[Reference Bible/58 - Hebrews/Hebrews 12#Hebrews 12 - 24|24]] to Jesus the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.  | [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 12.24 to Genesis 4.10|IP]] | [[Chiasm/Chiasm - 58 - Hebrews 12 . 1 - 29|C]] | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 12 - TOSK#Verse 24|TOSK]] | [[Trajectory Tables/180 - Voice of Blood (Blood That Speaks)|TT]] | [[Trajectory Tables/002 - Abel (First Martyr)|TT¹]] | [[Trajectory Tables/066 - Golden Calf (Idolatry and Intercession)|TT²]] |
+[[Reference Bible/58 - Hebrews/Hebrews 12#Hebrews 12 - 24|24]] to Jesus the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.  | [[Chiasm/Chiasm - 58 - Hebrews 12 . 1 - 29|C]] | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 12 - TOSK#Verse 24|TOSK]] | [[Trajectory Tables/002 - Abel (First Martyr)|TT¹]] | [[Trajectory Tables/066 - Golden Calf (Idolatry and Intercession)|TT¹]] |
 ##### Hebrews 12 . 25
 [[Reference Bible/58 - Hebrews/Hebrews 12#Hebrews 12 - 25|25]] See to it that you do not refuse Him who speaks. For if the people did not escape when they refused Him who warned them on earth, how much less will we escape if we reject Him who warns us from heaven?  | [[Chiasm/Chiasm - 58 - Hebrews 12 . 1 - 29|C]] | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 12 - TOSK#Verse 25|TOSK]] |
 ##### Hebrews 12 . 26

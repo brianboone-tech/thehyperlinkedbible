@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Judges 3
+# Judges-R 3
 
-[[Readable Bible/07 - Judges/Judges 2|← Judges 2]] | [[Readable Bible/07 - Judges/Judges 4|Judges 4 →]]
+**[[Home/Scripture/07 - Judges|Judges]]**
+
+[[Readable Bible/07 - Judges/Judges 2#Judges-R 2| Judges 2]] - [[Readable Bible/07 - Judges/Judges 4#Judges-R 4| Judges 4]]
 
 ---
 

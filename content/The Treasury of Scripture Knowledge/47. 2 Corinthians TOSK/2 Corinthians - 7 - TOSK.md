@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Corinthians 7 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/47 - 2 Corinthians|← 2 Corinthians]]** | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 6 - TOSK|← Ch 6]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 8 - TOSK|Ch 8 →]]
+**[[Home/Scripture/47 - 2 Corinthians|← 2 Corinthians]]** | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 6 - TOSK|← Ch 6]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 8 - TOSK|Ch 8 →]]
 
 ---
 

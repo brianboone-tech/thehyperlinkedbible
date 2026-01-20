@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/15 - Ezra|← Ezra]]**
+**[[Home/Scripture/15 - Ezra|← Ezra]]**
 
 ---
 

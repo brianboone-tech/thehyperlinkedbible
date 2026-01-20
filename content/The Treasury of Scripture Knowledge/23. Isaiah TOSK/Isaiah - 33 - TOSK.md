@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Isaiah 33 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 32 - TOSK|← Ch 32]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 34 - TOSK|Ch 34 →]]
+**[[Home/Scripture/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 32 - TOSK|← Ch 32]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 34 - TOSK|Ch 34 →]]
 
 ---
 

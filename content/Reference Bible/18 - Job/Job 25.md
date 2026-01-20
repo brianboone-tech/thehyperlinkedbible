@@ -13,7 +13,7 @@ cssClasses: lexicon
 [[Lexicon/H1001-1100#H1085|Then Bildad]] [[Lexicon/H7701-7800#H7747|the Shuhite]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H6001-6100#H6030|replied :]]
 
 ##### Job 25 - 2
-[[Lexicon/H4901-5000#H4910|“ Dominion]] [[Lexicon/H6301-6400#H6343|and awe]] [[Lexicon/H5901-6000#H5973|belong to (God) ;]] [[Lexicon/H6201-6300#H6213|He establishes]] [[Lexicon/H7901-8000#H7965|harmony]] [[Lexicon/H4701-4800#H4791|in the heights of heaven.]]
+[[Lexicon/H4901-5000#H4910|“ Dominion]] [[Lexicon/H6301-6400#H6343|and awe]] [[Lexicon/H5901-6000#H5973|belong to [God] ;]] [[Lexicon/H6201-6300#H6213|He establishes]] [[Lexicon/H7901-8000#H7965|harmony]] [[Lexicon/H4701-4800#H4791|in the heights of heaven.]]
 
 ##### Job 25 - 3
 [[Lexicon/H3401-3500#H3426|-]] [[Lexicon/H1401-1500#H1416|Can His troops]] [[Lexicon/H4501-4600#H4557|be numbered ?]] [[Lexicon/H5901-6000#H5921|On]] [[Lexicon/H4301-4400#H4310|whom]] [[Lexicon/H201-300#H216|does His light]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H6901-7000#H6965|rise ?]]

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ecclesiastes 11
+# Ecclesiastes-R 11
 
-[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 10|← Ecclesiastes 10]] | [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 12|Ecclesiastes 12 →]]
+**[[Home/Scripture/21 - Ecclesiastes|Ecclesiastes]]**
+
+[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 10#Ecclesiastes-R 10| Ecclesiastes 10]] - [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 12#Ecclesiastes-R 12| Ecclesiastes 12]]
 
 ---
 

@@ -37,13 +37,13 @@ cssClasses: lexicon
 [[Lexicon/H3601-3700#H3680|Whoever conceals]] [[Lexicon/H6501-6600#H6588|an offense]] [[Lexicon/H1201-1300#H1245|promotes]] [[Lexicon/H101-200#H160|love ,]] [[Lexicon/H8101-8200#H8138|but he who brings it up]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H6501-6600#H6504|separates]] [[Lexicon/H401-500#H441|friends.]]
 
 ##### Proverbs 17 - 10
-[[Lexicon/H1601-1700#H1606|A rebuke]] [[Lexicon/H5101-5200#H5181|cuts into]] [[Lexicon/H901-1000#H995|a man of discernment]] [[Lexicon/H3901-4000#H3967|deeper than a hundred]] [[Lexicon/H5201-5300#H5221|lashes (cut into)]] [[Lexicon/H3601-3700#H3684|a fool.]]
+[[Lexicon/H1601-1700#H1606|A rebuke]] [[Lexicon/H5101-5200#H5181|cuts into]] [[Lexicon/H901-1000#H995|a man of discernment]] [[Lexicon/H3901-4000#H3967|deeper than a hundred]] [[Lexicon/H5201-5300#H5221|lashes [cut into]]] [[Lexicon/H3601-3700#H3684|a fool.]]
 
 ##### Proverbs 17 - 11
-[[Lexicon/H7401-7500#H7451|An evil (man)]] [[Lexicon/H1201-1300#H1245|seeks]] [[Lexicon/H301-400#H389|only]] [[Lexicon/H4801-4900#H4805|rebellion ;]] [[Lexicon/H301-400#H394|a cruel]] [[Lexicon/H4301-4400#H4397|messenger]] [[Lexicon/H7901-8000#H7971|will be sent against him.]]
+[[Lexicon/H7401-7500#H7451|An evil [man]]] [[Lexicon/H1201-1300#H1245|seeks]] [[Lexicon/H301-400#H389|only]] [[Lexicon/H4801-4900#H4805|rebellion ;]] [[Lexicon/H301-400#H394|a cruel]] [[Lexicon/H4301-4400#H4397|messenger]] [[Lexicon/H7901-8000#H7971|will be sent against him.]]
 
 ##### Proverbs 17 - 12
-[[Lexicon/H301-400#H376|(It is better)]] [[Lexicon/H6201-6300#H6298|to meet]] [[Lexicon/H1601-1700#H1677|a bear]] [[Lexicon/H7901-8000#H7909|robbed of her cubs]] [[Lexicon/H401-500#H408|than]] [[Lexicon/H3601-3700#H3684|a fool]] [[Lexicon/H101-200#H200|in his folly.]]
+[[Lexicon/H301-400#H376|[It is better]]] [[Lexicon/H6201-6300#H6298|to meet]] [[Lexicon/H1601-1700#H1677|a bear]] [[Lexicon/H7901-8000#H7909|robbed of her cubs]] [[Lexicon/H401-500#H408|than]] [[Lexicon/H3601-3700#H3684|a fool]] [[Lexicon/H101-200#H200|in his folly.]]
 
 ##### Proverbs 17 - 13
 [[Lexicon/H7701-7800#H7725|If anyone returns]] [[Lexicon/H7401-7500#H7451|evil]] [[Lexicon/H8401-8500#H8478|for]] [[Lexicon/H2801-2900#H2896|good ,]] [[Lexicon/H7401-7500#H7451|evil]] [[Lexicon/H3801-3900#H3808|will never]] [[Lexicon/H4101-4200#H4185|leave]] [[Lexicon/H1001-1100#H1004|his house.]]
@@ -76,7 +76,7 @@ cssClasses: lexicon
 [[Lexicon/H8001-8100#H8056|A joyful]] [[Lexicon/H3801-3900#H3820|heart]] [[Lexicon/H3101-3200#H3190|is good]] [[Lexicon/H1401-1500#H1456|medicine ,]] [[Lexicon/H5201-5300#H5218|but a broken]] [[Lexicon/H7301-7400#H7307|spirit]] [[Lexicon/H3001-3100#H3001|dries up]] [[Lexicon/H1601-1700#H1634|the bones.]]
 
 ##### Proverbs 17 - 23
-[[Lexicon/H7501-7600#H7563|A wicked (man)]] [[Lexicon/H3901-4000#H3947|takes]] [[Lexicon/H2401-2500#H2436|a covert]] [[Lexicon/H7801-7900#H7810|bribe]] [[Lexicon/H5101-5200#H5186|to subvert]] [[Lexicon/H701-800#H734|the course]] [[Lexicon/H4901-5000#H4941|of justice.]]
+[[Lexicon/H7501-7600#H7563|A wicked [man]]] [[Lexicon/H3901-4000#H3947|takes]] [[Lexicon/H2401-2500#H2436|a covert]] [[Lexicon/H7801-7900#H7810|bribe]] [[Lexicon/H5101-5200#H5186|to subvert]] [[Lexicon/H701-800#H734|the course]] [[Lexicon/H4901-5000#H4941|of justice.]]
 
 ##### Proverbs 17 - 24
 [[Lexicon/H2401-2500#H2451|Wisdom]] [[Lexicon/H801-900#H854|vvv]] [[Lexicon/H6401-6500#H6440|is the focus]] [[Lexicon/H901-1000#H995|of the discerning ,]] [[Lexicon/H5801-5900#H5869|but the eyes]] [[Lexicon/H3601-3700#H3684|of a fool]] [[Lexicon/H7001-7100#H7097|wander to the ends]] [[Lexicon/H701-800#H776|of the earth.]]
@@ -91,4 +91,4 @@ cssClasses: lexicon
 [[Lexicon/H3001-3100#H3045|A man of knowledge]] [[Lexicon/H1801-1900#H1847|...]] [[Lexicon/H2801-2900#H2820|restrains]] [[Lexicon/H501-600#H561|his words ,]] [[Lexicon/H301-400#H376|and a man]] [[Lexicon/H8301-8400#H8394|of understanding]] [[Lexicon/H7101-7200#H7119|maintains a calm]] [[Lexicon/H7301-7400#H7307|spirit.]]
 
 ##### Proverbs 17 - 28
-[[Lexicon/H1501-1600#H1571|Even]] [[Lexicon/H101-200#H191|a fool]] [[Lexicon/H2801-2900#H2803|is considered]] [[Lexicon/H2401-2500#H2450|wise]] [[Lexicon/H2701-2800#H2790|if he keeps silent ,]] [[Lexicon/H901-1000#H995|(and) discerning]] [[Lexicon/H301-400#H331|when he holds]] [[Lexicon/H8101-8200#H8193|his tongue.]]
+[[Lexicon/H1501-1600#H1571|Even]] [[Lexicon/H101-200#H191|a fool]] [[Lexicon/H2801-2900#H2803|is considered]] [[Lexicon/H2401-2500#H2450|wise]] [[Lexicon/H2701-2800#H2790|if he keeps silent ,]] [[Lexicon/H901-1000#H995|[and] discerning]] [[Lexicon/H301-400#H331|when he holds]] [[Lexicon/H8101-8200#H8193|his tongue.]]

@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Amos 2
+# Amos-R 2
 
-[[Readable Bible/30 - Amos/Amos 1|← Amos 1]] | [[Readable Bible/30 - Amos/Amos 3|Amos 3 →]]
+**[[Home/Scripture/30 - Amos|Amos]]**
+
+[[Readable Bible/30 - Amos/Amos 1#Amos-R 1| Amos 1]] - [[Readable Bible/30 - Amos/Amos 3#Amos-R 3| Amos 3]]
 
 ---
 
 ##### Amos 2 . 1
-[[Reference Bible/30 - Amos/Amos 2#Amos 2 - 1|1]] This is what the LORD says: "For three transgressions of Moab, even four, I will not revoke My judgment, because he burned to lime the bones of Edom's king.  | | [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 2 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/30 - Amos/Amos 2#Amos 2 - 1|1]] This is what the LORD says: "For three transgressions of Moab, even four, I will not revoke My judgment, because he burned to lime the bones of Edom's king.   || [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 2 - TOSK#Verse 1|TOSK]] |
 
 ##### Amos 2 . 2
 [[Reference Bible/30 - Amos/Amos 2#Amos 2 - 2|2]] So I will send fire against Moab to consume the citadels of Kerioth. Moab will die in tumult, amid war cries and the sound of the ram's horn.  | [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 2 - TOSK#Verse 2|TOSK]] |

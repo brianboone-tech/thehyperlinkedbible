@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 42
+# Psalm-R 42
 
-[[Readable Bible/19 - Psalms/Psalm 41|← Psalm 41]] | [[Readable Bible/19 - Psalms/Psalm 43|Psalm 43 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 41#Psalm-R 41| Psalm 41]] - [[Readable Bible/19 - Psalms/Psalm 43#Psalm-R 43| Psalm 43]]
 
 ---
 

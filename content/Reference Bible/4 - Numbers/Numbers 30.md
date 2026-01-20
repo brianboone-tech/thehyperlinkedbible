@@ -25,7 +25,7 @@ Chapter: "30"
 | [[LXX Reference/4 - Numbers/Numbers 30#Numbers 30 - 3|LXX]] |
 
 ##### Numbers 30 - 4
-[[Lexicon/H1-100#H1|and her father]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8085|hears about]] [[Lexicon/H5001-5100#H5088|her vow]] [[Lexicon/H601-700#H632|or pledge]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H601-700#H631|-]] [[Lexicon/H5301-5400#H5315|-]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H1-100#H1|(but)]] [[Lexicon/H2701-2800#H2790|says nothing]] [[Lexicon/H3601-3700#H3605|then all]] [[Lexicon/H5001-5100#H5088|the vows]] [[Lexicon/H3601-3700#H3605|or]] [[Lexicon/H601-700#H632|pledges]] [[Lexicon/H801-900#H834|by which]] [[Lexicon/H601-700#H631|she has bound]] [[Lexicon/H5301-5400#H5315|herself]] [[Lexicon/H6901-7000#H6965|...]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6901-7000#H6965|shall stand.]]
+[[Lexicon/H1-100#H1|and her father]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8085|hears about]] [[Lexicon/H5001-5100#H5088|her vow]] [[Lexicon/H601-700#H632|or pledge]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H601-700#H631|-]] [[Lexicon/H5301-5400#H5315|-]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H1-100#H1|[but]]] [[Lexicon/H2701-2800#H2790|says nothing]] [[Lexicon/H3601-3700#H3605|then all]] [[Lexicon/H5001-5100#H5088|the vows]] [[Lexicon/H3601-3700#H3605|or]] [[Lexicon/H601-700#H632|pledges]] [[Lexicon/H801-900#H834|by which]] [[Lexicon/H601-700#H631|she has bound]] [[Lexicon/H5301-5400#H5315|herself]] [[Lexicon/H6901-7000#H6965|...]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6901-7000#H6965|shall stand.]]
 | [[LXX Reference/4 - Numbers/Numbers 30#Numbers 30 - 4|LXX]] |
 
 ##### Numbers 30 - 5

@@ -1,3 +1,0 @@
-
-
-Please create a video which does not contain any images of Jesus Christ.   I find it offensive to make any image of God and I believe Jesus is God. Please make sure you focus on the stages of "theological development" with about 80% of your time and make 20% of the video the application.  Focus on the texts marked (Critical). Only use the "Canonical Intertextuality Pairs" as supplemental support the theological development.  Please add in some of the lexicon connections that run through the Thematic development. 

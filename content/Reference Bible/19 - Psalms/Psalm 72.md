@@ -18,7 +18,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 2|LXX]] |
 
 ##### Psalm 72 - 3
-[[Lexicon/H2001-2100#H2022|May the mountains]] [[Lexicon/H5301-5400#H5375|bring]] [[Lexicon/H7901-8000#H7965|peace]] [[Lexicon/H5901-6000#H5971|to the people ,]] [[Lexicon/H1301-1400#H1389|and the hills]] [[Lexicon/H6601-6700#H6666|(bring) righteousness.]]
+[[Lexicon/H2001-2100#H2022|May the mountains]] [[Lexicon/H5301-5400#H5375|bring]] [[Lexicon/H7901-8000#H7965|peace]] [[Lexicon/H5901-6000#H5971|to the people ,]] [[Lexicon/H1301-1400#H1389|and the hills]] [[Lexicon/H6601-6700#H6666|[bring] righteousness.]]
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 3|LXX]] |
 
 ##### Psalm 72 - 4
@@ -26,7 +26,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 4|LXX]] |
 
 ##### Psalm 72 - 5
-[[Lexicon/H3301-3400#H3372|May they fear him]] [[Lexicon/H5901-6000#H5973|as long as]] [[Lexicon/H8101-8200#H8121|the sun (shines) ,]] [[Lexicon/H6401-6500#H6440|as long as]] [[Lexicon/H3301-3400#H3394|the moon (remains) ,]] [[Lexicon/H1701-1800#H1755|through all]] [[Lexicon/H1701-1800#H1755|generations.]]
+[[Lexicon/H3301-3400#H3372|May they fear him]] [[Lexicon/H5901-6000#H5973|as long as]] [[Lexicon/H8101-8200#H8121|the sun [shines] ,]] [[Lexicon/H6401-6500#H6440|as long as]] [[Lexicon/H3301-3400#H3394|the moon [remains] ,]] [[Lexicon/H1701-1800#H1755|through all]] [[Lexicon/H1701-1800#H1755|generations.]]
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 5|LXX]] |
 
 ##### Psalm 72 - 6
@@ -38,7 +38,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 7|LXX]] |
 
 ##### Psalm 72 - 8
-[[Lexicon/H7201-7300#H7287|May he rule]] [[Lexicon/H3201-3300#H3220|from sea]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H3201-3300#H3220|sea ,]] [[Lexicon/H5101-5200#H5104|and from the (Euphrates)]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H601-700#H657|the ends]] [[Lexicon/H701-800#H776|of the earth.]]
+[[Lexicon/H7201-7300#H7287|May he rule]] [[Lexicon/H3201-3300#H3220|from sea]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H3201-3300#H3220|sea ,]] [[Lexicon/H5101-5200#H5104|and from the [Euphrates]]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H601-700#H657|the ends]] [[Lexicon/H701-800#H776|of the earth.]]
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 8|LXX]] |
 
 ##### Psalm 72 - 9
@@ -50,7 +50,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 10|LXX]] |
 
 ##### Psalm 72 - 11
-[[Lexicon/H3601-3700#H3605|May all]] [[Lexicon/H4401-4500#H4428|kings]] [[Lexicon/H7801-7900#H7812|bow down]] [[Lexicon/H3601-3700#H3605|(and) all]] [[Lexicon/H1401-1500#H1471|nations]] [[Lexicon/H5601-5700#H5647|serve him.]]
+[[Lexicon/H3601-3700#H3605|May all]] [[Lexicon/H4401-4500#H4428|kings]] [[Lexicon/H7801-7900#H7812|bow down]] [[Lexicon/H3601-3700#H3605|[and] all]] [[Lexicon/H1401-1500#H1471|nations]] [[Lexicon/H5601-5700#H5647|serve him.]]
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 11|LXX]] |
 
 ##### Psalm 72 - 12
@@ -70,11 +70,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 15|LXX]] |
 
 ##### Psalm 72 - 16
-[[Lexicon/H1901-2000#H1961|May there be]] [[Lexicon/H6401-6500#H6451|an abundance]] [[Lexicon/H1201-1300#H1250|of grain]] [[Lexicon/H701-800#H776|in the land ;]] [[Lexicon/H7401-7500#H7493|may it sway]] [[Lexicon/H7201-7300#H7218|atop]] [[Lexicon/H2001-2100#H2022|the hills.]] [[Lexicon/H6501-6600#H6529|May its fruit trees]] [[Lexicon/H6601-6700#H6692|flourish]] [[Lexicon/H3801-3900#H3844|like (the forests of) Lebanon ,]] [[Lexicon/H5801-5900#H5892|and its people]] [[Lexicon/H6201-6300#H6212|like the grass]] [[Lexicon/H701-800#H776|of the field.]]
+[[Lexicon/H1901-2000#H1961|May there be]] [[Lexicon/H6401-6500#H6451|an abundance]] [[Lexicon/H1201-1300#H1250|of grain]] [[Lexicon/H701-800#H776|in the land ;]] [[Lexicon/H7401-7500#H7493|may it sway]] [[Lexicon/H7201-7300#H7218|atop]] [[Lexicon/H2001-2100#H2022|the hills.]] [[Lexicon/H6501-6600#H6529|May its fruit trees]] [[Lexicon/H6601-6700#H6692|flourish]] [[Lexicon/H3801-3900#H3844|like [the forests of] Lebanon ,]] [[Lexicon/H5801-5900#H5892|and its people]] [[Lexicon/H6201-6300#H6212|like the grass]] [[Lexicon/H701-800#H776|of the field.]]
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 16|LXX]] |
 
 ##### Psalm 72 - 17
-[[Lexicon/H8001-8100#H8034|May his name]] [[Lexicon/H1901-2000#H1961|endure]] [[Lexicon/H5701-5800#H5769|forever ;]] [[Lexicon/H8001-8100#H8034|may his name]] [[Lexicon/H5101-5200#H5125|continue]] [[Lexicon/H6401-6500#H6440|as]] [[Lexicon/H8101-8200#H8121|long as the sun (shines).]] [[Lexicon/H3601-3700#H3605|may all]] [[Lexicon/H1401-1500#H1471|nations]] [[Lexicon/H1201-1300#H1288|be blessed ;]] [[Lexicon/H801-900#H833|may they call him blessed.]]
+[[Lexicon/H8001-8100#H8034|May his name]] [[Lexicon/H1901-2000#H1961|endure]] [[Lexicon/H5701-5800#H5769|forever ;]] [[Lexicon/H8001-8100#H8034|may his name]] [[Lexicon/H5101-5200#H5125|continue]] [[Lexicon/H6401-6500#H6440|as]] [[Lexicon/H8101-8200#H8121|long as the sun [shines].]] [[Lexicon/H3601-3700#H3605|may all]] [[Lexicon/H1401-1500#H1471|nations]] [[Lexicon/H1201-1300#H1288|be blessed ;]] [[Lexicon/H801-900#H833|may they call him blessed.]]
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 17|LXX]] |
 
 ##### Psalm 72 - 18
@@ -82,7 +82,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 18|LXX]] |
 
 ##### Psalm 72 - 19
-[[Lexicon/H1201-1300#H1288|And blessed]] [[Lexicon/H3501-3600#H3519|(be) His glorious]] [[Lexicon/H8001-8100#H8034|name]] [[Lexicon/H5701-5800#H5769|forever ;]] [[Lexicon/H3601-3700#H3605|may all]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H4301-4400#H4390|be filled]] [[Lexicon/H3501-3600#H3519|with His glory.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H543|Amen]] [[Lexicon/H501-600#H543|and amen.]]
+[[Lexicon/H1201-1300#H1288|And blessed]] [[Lexicon/H3501-3600#H3519|[be] His glorious]] [[Lexicon/H8001-8100#H8034|name]] [[Lexicon/H5701-5800#H5769|forever ;]] [[Lexicon/H3601-3700#H3605|may all]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H4301-4400#H4390|be filled]] [[Lexicon/H3501-3600#H3519|with His glory.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H543|Amen]] [[Lexicon/H501-600#H543|and amen.]]
 | [[LXX Reference/19 - Psalms/Psalms 72#Psalm 72 - 19|LXX]] |
 
 ##### Psalm 72 - 20

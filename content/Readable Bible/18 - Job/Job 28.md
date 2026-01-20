@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Job 28
+# Job-R 28
 
-[[Readable Bible/18 - Job/Job 27|← Job 27]] | [[Readable Bible/18 - Job/Job 29|Job 29 →]]
+**[[Home/Scripture/18 - Job|Job]]**
+
+[[Readable Bible/18 - Job/Job 27#Job-R 27| Job 27]] - [[Readable Bible/18 - Job/Job 29#Job-R 29| Job 29]]
 
 ---
 

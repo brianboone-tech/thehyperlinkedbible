@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Job 16 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 15 - TOSK|← Ch 15]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 17 - TOSK|Ch 17 →]]
+**[[Home/Scripture/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 15 - TOSK|← Ch 15]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 17 - TOSK|Ch 17 →]]
 
 ---
 

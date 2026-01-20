@@ -48,10 +48,10 @@ Testament: Old
 [[Lexicon/G4001-4100#G4033|surround]] [[Lexicon/G5001-5100#G5022|bulls]] [[Lexicon/G4001-4100#G4023|compass]] [[Lexicon/G1401-1500#G1473|me.]]
 
 #### Psalms 22 - 13
-[[Lexicon/G401-500#G0455|They opened]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3001-3100#G3023|a lion]] [[Lexicon/G701-800#G0726|snatching away]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5612|roaring.]]
+[[Lexicon/G401-500#G0455|They opened]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3001-3100#G3023|a lion]] [[Lexicon/G701-800#G0726|snatching away]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5612|roaring.]]
 
 #### Psalms 22 - 14
-[[Lexicon/G5601-5624#G5616|As]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G1601-1700#G1632|was poured out,]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G1201-1300#G1287|were dispersed]] [[Lexicon/G1001-1100#G1096|became]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G2701-2800#G2781|beeswax]] [[Lexicon/G5001-5100#G5080|melting away]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2801-2900#G2836|of my belly.]]
+[[Lexicon/G5601-5700#G5616|As]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G1601-1700#G1632|was poured out,]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G1201-1300#G1287|were dispersed]] [[Lexicon/G1001-1100#G1096|became]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G2701-2800#G2781|beeswax]] [[Lexicon/G5001-5100#G5080|melting away]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2801-2900#G2836|of my belly.]]
 
 #### Psalms 22 - 15
 [[Lexicon/G3501-3600#G3583|was dried]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1100|my tongue]] [[Lexicon/G2801-2900#G2853|cleaves]] [[Lexicon/G2901-3000#G2995|my throat.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G2201-2300#G2288|of death]] [[Lexicon/G2601-2700#G2609|you led]] [[Lexicon/G1401-1500#G1473|me.]]

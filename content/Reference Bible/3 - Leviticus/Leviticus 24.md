@@ -24,7 +24,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 24#Leviticus 24 - 3|LXX]] |
 
 ##### Leviticus 24 - 4
-[[Lexicon/H6101-6200#H6186|He shall tend]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5216|the lamps]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H2801-2900#H2889|the pure (gold)]] [[Lexicon/H4501-4600#H4501|lampstand]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8501-8600#H8548|continually.]]
+[[Lexicon/H6101-6200#H6186|He shall tend]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5216|the lamps]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H2801-2900#H2889|the pure [gold]]] [[Lexicon/H4501-4600#H4501|lampstand]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8501-8600#H8548|continually.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 24#Leviticus 24 - 4|LXX]] |
 
 ##### Leviticus 24 - 5
@@ -44,11 +44,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 24#Leviticus 24 - 8|LXX]] |
 
 ##### Leviticus 24 - 9
-[[Lexicon/H1901-2000#H1961|It belongs to]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H1101-1200#H1121|and his sons ,]] [[Lexicon/H301-400#H398|who are to eat]] [[Lexicon/H6901-7000#H6918|it in a holy]] [[Lexicon/H4701-4800#H4725|place ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|it (is)]] [[Lexicon/H6901-7000#H6944|a most]] [[Lexicon/H6901-7000#H6944|holy (part)]] [[Lexicon/H801-900#H801|of the offerings made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD —]] [[Lexicon/H2701-2800#H2706|(his) portion]] [[Lexicon/H5701-5800#H5769|forever. ”]]
+[[Lexicon/H1901-2000#H1961|It belongs to]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H1101-1200#H1121|and his sons ,]] [[Lexicon/H301-400#H398|who are to eat]] [[Lexicon/H6901-7000#H6918|it in a holy]] [[Lexicon/H4701-4800#H4725|place ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|it [is]]] [[Lexicon/H6901-7000#H6944|a most]] [[Lexicon/H6901-7000#H6944|holy [part]]] [[Lexicon/H801-900#H801|of the offerings made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD —]] [[Lexicon/H2701-2800#H2706|[his] portion]] [[Lexicon/H5701-5800#H5769|forever. ”]]
 | [[LXX Reference/3 - Leviticus/Leviticus 24#Leviticus 24 - 9|LXX]] |
 
 ##### Leviticus 24 - 10
-[[Lexicon/H1101-1200#H1121|Now the son]] [[Lexicon/H3401-3500#H3481|of an Israelite]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H1101-1200#H1121|]] [[Lexicon/H801-900#H802|mother]] [[Lexicon/H4701-4800#H4713|and an Egyptian]] [[Lexicon/H301-400#H376|father]] [[Lexicon/H3301-3400#H3318|went out]] [[Lexicon/H8401-8500#H8432|among]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|the Israelites ,]] [[Lexicon/H5301-5400#H5327|and a fight broke out]] [[Lexicon/H4201-4300#H4264|in the camp]] [[Lexicon/H1101-1200#H1121|(between him)]] [[Lexicon/H3401-3500#H3481|...]] [[Lexicon/H3401-3500#H3481|and an Israelite]] [[Lexicon/H301-400#H376|-.]]
+[[Lexicon/H1101-1200#H1121|Now the son]] [[Lexicon/H3401-3500#H3481|of an Israelite]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H1101-1200#H1121|]] [[Lexicon/H801-900#H802|mother]] [[Lexicon/H4701-4800#H4713|and an Egyptian]] [[Lexicon/H301-400#H376|father]] [[Lexicon/H3301-3400#H3318|went out]] [[Lexicon/H8401-8500#H8432|among]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|the Israelites ,]] [[Lexicon/H5301-5400#H5327|and a fight broke out]] [[Lexicon/H4201-4300#H4264|in the camp]] [[Lexicon/H1101-1200#H1121|[between him]]] [[Lexicon/H3401-3500#H3481|...]] [[Lexicon/H3401-3500#H3481|and an Israelite]] [[Lexicon/H301-400#H376|-.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 24#Leviticus 24 - 10|LXX]] |
 
 ##### Leviticus 24 - 11

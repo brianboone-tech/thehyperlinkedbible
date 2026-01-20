@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 35
+# Ezekiel-R 35
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 34|← Ezekiel 34]] | [[Readable Bible/26 - Ezekiel/Ezekiel 36|Ezekiel 36 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 34#Ezekiel-R 34| Ezekiel 34]] - [[Readable Bible/26 - Ezekiel/Ezekiel 36#Ezekiel-R 36| Ezekiel 36]]
 
 ---
 

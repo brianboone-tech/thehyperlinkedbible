@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus 27
+# Leviticus-R 27
 
-[[Readable Bible/03 - Leviticus/Leviticus 26|← Leviticus 26]]
+**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+
+[[Readable Bible/03 - Leviticus/Leviticus 26#Leviticus-R 26| Leviticus 26]]
 
 ---
 
 ##### Leviticus 27 . 1
-[[Reference Bible/3 - Leviticus/Leviticus 27#Leviticus 27 - 1|1]] Then the LORD said to Moses,  | | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 27.1 to Numbers 30.1|IP¹]] | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 27.1-25 to Numbers 30.1-16|IP²]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 27 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/3 - Leviticus/Leviticus 27#Leviticus 27 - 1|1]] Then the LORD said to Moses,   || [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 27.1 to Numbers 30.1|IP¹]] | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 27.1-25 to Numbers 30.1-16|IP²]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 27 - TOSK#Verse 1|TOSK]] |
 
 ##### Leviticus 27 . 2
 [[Reference Bible/3 - Leviticus/Leviticus 27#Leviticus 27 - 2|2]] "Speak to the Israelites and say to them, 'When someone makes a special vow to the LORD involving the value of persons,  | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 27.1-25 to Numbers 30.1-16|IP]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 27 - TOSK#Verse 2|TOSK]] |

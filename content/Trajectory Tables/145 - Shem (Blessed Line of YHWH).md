@@ -1,42 +1,18 @@
----
-cssclasses:
-  - trajectory-table
----
-
 ## SHEM (BLESSED LINE OF YHWH) TRAJECTORY TABLE
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QD31GwrsJ34?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-▶️ [Watch on YouTube](https://youtu.be/QD31GwrsJ34)
 
 Noah's blessing on Shem after the flood establishes a remarkable distinction: "Blessed be the LORD, the God of Shem" (Gen 9:26). For the first time in Scripture, YHWH is identified as the God of a particular people. While the other sons receive territorial or relational blessings, Shem's blessing is theological—YHWH claims him. The additional prophecy that "Japheth shall dwell in the tents of Shem" anticipates Gentiles finding blessing through Shem's line. From Shem descends Abraham, Israel, and ultimately Jesus Christ, through whom the promise of Japheth dwelling in Shem's tents is fulfilled as Gentiles are grafted into the covenant people.
 
 **Type Classification**: Providential Type (Shem's righteous action and blessing sovereignly arranged) and Forward-Looking ("the God of Shem" anticipates the covenant line; "Japheth dwelling in Shem's tents" explicitly prophesies Gentile inclusion).
 
-| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+| # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
-| 1 | **OT Type - Noah's Blessing** | [[Readable Bible/01 - Genesis/Genesis 9#Genesis 9 . 26\|Genesis 9:26-27]] | After Ham's sin and Shem's righteousness in covering his father's nakedness, Noah declares: "Blessed be the LORD, the God of Shem!" and "May God expand Japheth; may he dwell in the tents of Shem." YHWH becomes Shem's God; Japheth will find blessing through Shem. | [[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/01 - Genesis 9.26-27\|Genesis 9:26-27]] |
-| 2 | **OT Development - Genealogy to Abraham** | [[Readable Bible/01 - Genesis/Genesis 11#Genesis 11 . 10\|Genesis 11:10-26]] | The toledot of Shem traces his descendants: Arphaxad, Shelah, Eber, Peleg, Reu, Serug, Nahor, Terah, and finally Abraham. The line narrows from all humanity (through Noah) to the Semitic peoples, then to the specific family through whom all nations will be blessed. | [[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/01 - Genesis 11.10-26\|Genesis 11:10-26]] |
-| 3 | **OT Development - Abrahamic Covenant** | [[Readable Bible/01 - Genesis/Genesis 12#Genesis 12 . 1\|Genesis 12:1-3]] | The blessing of Shem crystallizes in Abraham: "In you all the families of the earth shall be blessed." The promise that Japheth would "dwell in Shem's tents" now gains concrete form—all nations will find blessing through Abraham's seed, ultimately Christ. **CRITICAL:** [[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 9.26-27 to Genesis 12.1-3\|Genesis 9:26-27 to Genesis 12:1-3]] | [[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/01 - Genesis 12.1-3\|Genesis 12:1-3]] |
-| 4 | **NT Fulfillment - Jesus Through Shem** | [[Readable Bible/42 - Luke/Luke 3#Luke 3 . 36\|Luke 3:36]] | Luke's genealogy traces Jesus back through "the son of Shem, the son of Noah." Christ is the culmination of Shem's blessed line. The "God of Shem" has now become incarnate through Shem's descendants. | [[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/42 - Luke 3.36\|Luke 3:36]] |
-| 5 | **NT Fulfillment - Gentiles Grafted In** | [[Readable Bible/45 - Romans/Romans 11#Romans 11 . 17\|Romans 11:17-24]]; [[Readable Bible/49 - Ephesians/Ephesians 2#Ephesians 2 . 12\|Ephesians 2:12-13, 19]] | "You, a wild olive shoot, were grafted in among the others and share in the rich root" (Rom 11:17). Gentiles who were "strangers to the covenants of promise" are now "fellow citizens with the saints and members of God's household" (Eph 2:12-13, 19). Japheth is dwelling in Shem's tents. **CRITICAL:** [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 11.17 to Genesis 9.27\|Romans 11:17 to Genesis 9:27]] | [[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/45 - Romans 11.17-24; 49 - Ephesians 2.12-19\|Romans 11:17-24; Ephesians 2:12-19]] |
-| 6 | **Eschatological Consummation - Every Nation** | [[Readable Bible/66 - Revelation/Revelation 7#Revelation 7 . 9\|Revelation 7:9-10]] | "A great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb." The promise that Japheth would dwell in Shem's tents reaches cosmic fulfillment—all peoples find salvation through Shem's descendant, the Lamb. | [[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/66 - Revelation 7.9-10\|Revelation 7:9-10]] |
+| 1 | **OT Type - Noah's Blessing** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 9#Genesis 9 . 26\|Genesis 9:26-27]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/01 - Genesis 9.26-27\|Genesis 9:26-27]] | After Ham's sin and Shem's righteousness in covering his father's nakedness, Noah declares: "Blessed be the LORD, the God of Shem!" and "May God expand Japheth; may he dwell in the tents of Shem." YHWH becomes Shem's God; Japheth will find blessing through Shem. |  |
+| 2 | **OT Development - Genealogy to Abraham** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 11#Genesis 11 . 10\|Genesis 11:10-26]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/01 - Genesis 11.10-26\|Genesis 11:10-26]] | The toledot of Shem traces his descendants: Arphaxad, Shelah, Eber, Peleg, Reu, Serug, Nahor, Terah, and finally Abraham. The line narrows from all humanity (through Noah) to the Semitic peoples, then to the specific family through whom all nations will be blessed. |  |
+| 3 | **OT Development - Abrahamic Covenant** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 12#Genesis 12 . 1\|Genesis 12:1-3]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/01 - Genesis 12.1-3\|Genesis 12:1-3]] | The blessing of Shem crystallizes in Abraham: "In you all the families of the earth shall be blessed." The promise that Japheth would "dwell in Shem's tents" now gains concrete form—all nations will find blessing through Abraham's seed, ultimately Christ. | **OT to OT:**<br>[[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 9.26-27 to Genesis 12.1-3\|Genesis 9:26-27  to  Genesis 12:1-3]] |
+| 4 | **NT Fulfillment - Jesus Through Shem** | **Key Text:**<br>[[Readable Bible/42 - Luke/Luke 3#Luke 3 . 36\|Luke 3:36]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/42 - Luke 3.36\|Luke 3:36]] | Luke's genealogy traces Jesus back through "the son of Shem, the son of Noah." Christ is the culmination of Shem's blessed line. The "God of Shem" has now become incarnate through Shem's descendants. |  |
+| 5 | **NT Fulfillment - Gentiles Grafted In** | **Key Text:**<br>[[Readable Bible/45 - Romans/Romans 11#Romans 11 . 17\|Romans 11:17-24]]; [[Readable Bible/49 - Ephesians/Ephesians 2#Ephesians 2 . 12\|Ephesians 2:12-13, 19]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/45 - Romans 11.17-24; 49 - Ephesians 2.12-19\|Romans 11:17-24; Ephesians 2:12-19]] | "You, a wild olive shoot, were grafted in among the others and share in the rich root" (Rom 11:17). Gentiles who were "strangers to the covenants of promise" are now "fellow citizens with the saints and members of God's household" (Eph 2:12-13, 19). Japheth is dwelling in Shem's tents. | **NT to OT:**<br>[[Intertextuality Pairs/NT to OT/45 - Romans/Romans 11.17 to Genesis 9.27\|Romans 11:17  to  Genesis 9:27]] |
+| 6 | **Eschatological Consummation - Every Nation** | **Key Text:**<br>[[Readable Bible/66 - Revelation/Revelation 7#Revelation 7 . 9\|Revelation 7:9-10]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Shem (Blessed Line of YHWH)/66 - Revelation 7.9-10\|Revelation 7:9-10]] | "A great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb." The promise that Japheth would dwell in Shem's tents reaches cosmic fulfillment—all peoples find salvation through Shem's descendant, the Lamb. |  |
 
----
-
-## Canonical Intertextuality Pairs
-
-### OT to OT
-
-**01 - Genesis**
-
-- [[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 9.26-27 to Genesis 12.1-3\|Genesis 9:26-27  to  Genesis 12:1-3]] - **CRITICAL:** The blessing on Shem ("the LORD, the God of Shem") and the prophecy that Japheth will "dwell in Shem's tents" finds development in the Abrahamic covenant where "all the families of the earth shall be blessed" through Abraham, Shem's descendant.
-
-### NT to OT
-
-**45 - Romans**
-
-- [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 11.17 to Genesis 9.27\|Romans 11:17  to  Genesis 9:27]] - **CRITICAL:** Paul's olive tree imagery of Gentiles being "grafted in" fulfills Noah's prophecy that Japheth would "dwell in Shem's tents." Gentile believers share in the "rich root" of the patriarchs.
 ---
 
 ## Four-Step Application

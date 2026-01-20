@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 62
+# Isaiah-R 62
 
-[[Readable Bible/23 - Isaiah/Isaiah 61|← Isaiah 61]] | [[Readable Bible/23 - Isaiah/Isaiah 63|Isaiah 63 →]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 61#Isaiah-R 61| Isaiah 61]] - [[Readable Bible/23 - Isaiah/Isaiah 63#Isaiah-R 63| Isaiah 63]]
 
 ---
 

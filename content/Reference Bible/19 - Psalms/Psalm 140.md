@@ -31,7 +31,7 @@ cssClasses: lexicon
 [[Lexicon/H3001-3100#H3069|O GOD]] [[Lexicon/H101-200#H136|the Lord ,]] [[Lexicon/H5701-5800#H5797|the strength]] [[Lexicon/H3401-3500#H3444|of my salvation ,]] [[Lexicon/H5501-5600#H5526|You shield]] [[Lexicon/H7201-7300#H7218|my head]] [[Lexicon/H3101-3200#H3117|in the day]] [[Lexicon/H5401-5500#H5402|of battle.]]
 
 ##### Psalm 140 - 8
-[[Lexicon/H5401-5500#H5414|Grant]] [[Lexicon/H401-500#H408|not ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H3901-4000#H3970|the desires]] [[Lexicon/H7501-7600#H7563|of the wicked ;]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H6301-6400#H6329|promote]] [[Lexicon/H2101-2200#H2162|their evil plans ,]] [[Lexicon/H7301-7400#H7311|(lest) they be exalted.]] [[Lexicon/H5501-5600#H5542|Selah]]
+[[Lexicon/H5401-5500#H5414|Grant]] [[Lexicon/H401-500#H408|not ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H3901-4000#H3970|the desires]] [[Lexicon/H7501-7600#H7563|of the wicked ;]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H6301-6400#H6329|promote]] [[Lexicon/H2101-2200#H2162|their evil plans ,]] [[Lexicon/H7301-7400#H7311|[lest] they be exalted.]] [[Lexicon/H5501-5600#H5542|Selah]]
 
 ##### Psalm 140 - 9
 [[Lexicon/H7201-7300#H7218|May the heads]] [[Lexicon/H4501-4600#H4524|of those who surround me]] [[Lexicon/H3601-3700#H3680|be covered]] [[Lexicon/H5901-6000#H5999|in the trouble]] [[Lexicon/H8101-8200#H8193|their lips have caused.]]
@@ -43,7 +43,7 @@ cssClasses: lexicon
 [[Lexicon/H301-400#H376|May no slanderer]] [[Lexicon/H3901-4000#H3956|...]] [[Lexicon/H1001-1100#H1077|...]] [[Lexicon/H3501-3600#H3559|be established]] [[Lexicon/H701-800#H776|in the land ;]] [[Lexicon/H7401-7500#H7451|may calamity]] [[Lexicon/H6601-6700#H6679|hunt down]] [[Lexicon/H4001-4100#H4073|...]] [[Lexicon/H301-400#H376|the man]] [[Lexicon/H2501-2600#H2555|of violence.]]
 
 ##### Psalm 140 - 12
-[[Lexicon/H3001-3100#H3045|I know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6201-6300#H6213|upholds]] [[Lexicon/H1701-1800#H1779|justice]] [[Lexicon/H6001-6100#H6041|for the poor]] [[Lexicon/H4901-5000#H4941|(and defends) the cause]] [[Lexicon/H1-100#H34|of the needy.]]
+[[Lexicon/H3001-3100#H3045|I know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6201-6300#H6213|upholds]] [[Lexicon/H1701-1800#H1779|justice]] [[Lexicon/H6001-6100#H6041|for the poor]] [[Lexicon/H4901-5000#H4941|[and defends] the cause]] [[Lexicon/H1-100#H34|of the needy.]]
 
 ##### Psalm 140 - 13
 [[Lexicon/H301-400#H389|Surely]] [[Lexicon/H6601-6700#H6662|the righteous]] [[Lexicon/H3001-3100#H3034|will praise]] [[Lexicon/H8001-8100#H8034|Your name ;]] [[Lexicon/H3401-3500#H3477|the upright]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H3401-3500#H3427|will dwell]] [[Lexicon/H6401-6500#H6440|in Your presence.]]

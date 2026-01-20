@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 138 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 137 - TOSK|← Ch 137]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 139 - TOSK|Ch 139 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 137 - TOSK|← Ch 137]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 139 - TOSK|Ch 139 →]]
 
 ---
 

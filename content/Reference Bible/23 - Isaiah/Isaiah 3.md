@@ -61,22 +61,22 @@ cssClasses: lexicon
 [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H5501-5600#H5596|will bring sores]] [[Lexicon/H6901-7000#H6936|on the heads]] [[Lexicon/H1301-1400#H1323|of the daughters]] [[Lexicon/H6701-6800#H6726|of Zion ,]] [[Lexicon/H3001-3100#H3068|and the LORD]] [[Lexicon/H6501-6600#H6596|will make their foreheads]] [[Lexicon/H6101-6200#H6168|bare. ”]]
 
 ##### Isaiah 3 - 18
-[[Lexicon/H1901-2000#H1931|In that]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5493|will take away]] [[Lexicon/H8501-8600#H8597|their finery :]] [[Lexicon/H5901-6000#H5914|(their) anklets]] [[Lexicon/H7601-7700#H7636|and headbands]] [[Lexicon/H7701-7800#H7720|and crescents ;]]
+[[Lexicon/H1901-2000#H1931|In that]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5493|will take away]] [[Lexicon/H8501-8600#H8597|their finery :]] [[Lexicon/H5901-6000#H5914|[their] anklets]] [[Lexicon/H7601-7700#H7636|and headbands]] [[Lexicon/H7701-7800#H7720|and crescents ;]]
 
 ##### Isaiah 3 - 19
-[[Lexicon/H5101-5200#H5188|(their) pendants ,]] [[Lexicon/H8201-8300#H8285|bracelets ,]] [[Lexicon/H7401-7500#H7479|and veils ;]]
+[[Lexicon/H5101-5200#H5188|[their] pendants ,]] [[Lexicon/H8201-8300#H8285|bracelets ,]] [[Lexicon/H7401-7500#H7479|and veils ;]]
 
 ##### Isaiah 3 - 20
-[[Lexicon/H6201-6300#H6287|(their) headdresses ,]] [[Lexicon/H6801-6900#H6807|ankle chains ,]] [[Lexicon/H7101-7200#H7196|and sashes ;]] [[Lexicon/H5301-5400#H5315|(their) perfume]] [[Lexicon/H1001-1100#H1004|bottles]] [[Lexicon/H3901-4000#H3908|and charms ;]]
+[[Lexicon/H6201-6300#H6287|[their] headdresses ,]] [[Lexicon/H6801-6900#H6807|ankle chains ,]] [[Lexicon/H7101-7200#H7196|and sashes ;]] [[Lexicon/H5301-5400#H5315|[their] perfume]] [[Lexicon/H1001-1100#H1004|bottles]] [[Lexicon/H3901-4000#H3908|and charms ;]]
 
 ##### Isaiah 3 - 21
-[[Lexicon/H2801-2900#H2885|(their) signet rings]] [[Lexicon/H601-700#H639|and nose]] [[Lexicon/H5101-5200#H5141|rings ;]]
+[[Lexicon/H2801-2900#H2885|[their] signet rings]] [[Lexicon/H601-700#H639|and nose]] [[Lexicon/H5101-5200#H5141|rings ;]]
 
 ##### Isaiah 3 - 22
-[[Lexicon/H4201-4300#H4254|(their) festive robes ,]] [[Lexicon/H4501-4600#H4595|capes ,]] [[Lexicon/H4301-4400#H4304|cloaks ,]] [[Lexicon/H2701-2800#H2754|and purses ;]]
+[[Lexicon/H4201-4300#H4254|[their] festive robes ,]] [[Lexicon/H4501-4600#H4595|capes ,]] [[Lexicon/H4301-4400#H4304|cloaks ,]] [[Lexicon/H2701-2800#H2754|and purses ;]]
 
 ##### Isaiah 3 - 23
-[[Lexicon/H1501-1600#H1549|and (their) mirrors ,]] [[Lexicon/H5401-5500#H5466|linen garments ,]] [[Lexicon/H6701-6800#H6797|tiaras ,]] [[Lexicon/H7201-7300#H7289|and shawls.]]
+[[Lexicon/H1501-1600#H1549|and [their] mirrors ,]] [[Lexicon/H5401-5500#H5466|linen garments ,]] [[Lexicon/H6701-6800#H6797|tiaras ,]] [[Lexicon/H7201-7300#H7289|and shawls.]]
 
 ##### Isaiah 3 - 24
 [[Lexicon/H8401-8500#H8478|Instead of]] [[Lexicon/H1301-1400#H1314|fragrance]] [[Lexicon/H1901-2000#H1961|there will be]] [[Lexicon/H4701-4800#H4716|a stench ;]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H8401-8500#H8478|instead of]] [[Lexicon/H2201-2300#H2290|a belt ,]] [[Lexicon/H5301-5400#H5364|a rope ;]] [[Lexicon/H8401-8500#H8478|instead of]] [[Lexicon/H4601-4700#H4639|styled]] [[Lexicon/H4701-4800#H4748|hair ,]] [[Lexicon/H7101-7200#H7144|baldness ;]] [[Lexicon/H8401-8500#H8478|instead of]] [[Lexicon/H6601-6700#H6614|fine clothing ,]] [[Lexicon/H4201-4300#H4228|sackcloth]] [[Lexicon/H8201-8300#H8242|... ;]] [[Lexicon/H8401-8500#H8478|instead of]] [[Lexicon/H3301-3400#H3308|beauty ,]] [[Lexicon/H3501-3600#H3587|shame.]]
@@ -85,4 +85,4 @@ cssClasses: lexicon
 [[Lexicon/H4901-5000#H4962|Your men]] [[Lexicon/H5301-5400#H5307|will fall]] [[Lexicon/H2701-2800#H2719|by the sword ,]] [[Lexicon/H1301-1400#H1369|and your warriors]] [[Lexicon/H4401-4500#H4421|in battle.]]
 
 ##### Isaiah 3 - 26
-[[Lexicon/H6601-6700#H6607|And the gates (of Zion)]] [[Lexicon/H501-600#H578|will lament]] [[Lexicon/H1-100#H56|and mourn ;]] [[Lexicon/H5301-5400#H5352|destitute ,]] [[Lexicon/H3401-3500#H3427|she will sit]] [[Lexicon/H701-800#H776|on the ground.]]
+[[Lexicon/H6601-6700#H6607|And the gates [of Zion]]] [[Lexicon/H501-600#H578|will lament]] [[Lexicon/H1-100#H56|and mourn ;]] [[Lexicon/H5301-5400#H5352|destitute ,]] [[Lexicon/H3401-3500#H3427|she will sit]] [[Lexicon/H701-800#H776|on the ground.]]

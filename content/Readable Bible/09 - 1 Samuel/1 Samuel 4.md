@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Samuel 4
+# 1 Samuel-R 4
 
-[[Readable Bible/09 - 1 Samuel/1 Samuel 3|← 1 Samuel 3]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 5|1 Samuel 5 →]]
+**[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 3#1 Samuel-R 3| 1 Samuel 3]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 5#1 Samuel-R 5| 1 Samuel 5]]
 
 ---
 

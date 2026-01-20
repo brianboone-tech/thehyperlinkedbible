@@ -16,7 +16,7 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H301-400#H398|when you eat]] [[Lexicon/H3701-3800#H3709|the fruit]] [[Lexicon/H3001-3100#H3018|of your labor ,]] [[Lexicon/H801-900#H835|blessings]] [[Lexicon/H2801-2900#H2896|and prosperity]]
 
 ##### Psalm 128 - 3
-[[Lexicon/H801-900#H802|Your wife]] [[Lexicon/H6501-6600#H6509|will be like a fruitful]] [[Lexicon/H1601-1700#H1612|vine]] [[Lexicon/H3401-3500#H3411|(flourishing) within]] [[Lexicon/H1001-1100#H1004|your house ,]] [[Lexicon/H1101-1200#H1121|your sons]] [[Lexicon/H2101-2200#H2132|like olive]] [[Lexicon/H8301-8400#H8363|shoots]] [[Lexicon/H5401-5500#H5439|(sitting) around]] [[Lexicon/H7901-8000#H7979|your table.]]
+[[Lexicon/H801-900#H802|Your wife]] [[Lexicon/H6501-6600#H6509|will be like a fruitful]] [[Lexicon/H1601-1700#H1612|vine]] [[Lexicon/H3401-3500#H3411|[flourishing] within]] [[Lexicon/H1001-1100#H1004|your house ,]] [[Lexicon/H1101-1200#H1121|your sons]] [[Lexicon/H2101-2200#H2132|like olive]] [[Lexicon/H8301-8400#H8363|shoots]] [[Lexicon/H5401-5500#H5439|[sitting] around]] [[Lexicon/H7901-8000#H7979|your table.]]
 
 ##### Psalm 128 - 4
 [[Lexicon/H3601-3700#H3651|In this way]] [[Lexicon/H2001-2100#H2009|indeed]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H1201-1300#H1288|shall blessing come]] [[Lexicon/H1301-1400#H1397|to the man]] [[Lexicon/H3301-3400#H3373|who fears]] [[Lexicon/H3001-3100#H3068|the LORD.]]

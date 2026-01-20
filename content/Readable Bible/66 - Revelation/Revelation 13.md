@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Revelation 13
+# Revelation-R 13
 
-[[Readable Bible/66 - Revelation/Revelation 12|← Revelation 12]] | [[Readable Bible/66 - Revelation/Revelation 14|Revelation 14 →]]
+**[[Home/Scripture/66 - Revelation|Revelation]]**
+
+[[Readable Bible/66 - Revelation/Revelation 12#Revelation-R 12| Revelation 12]] - [[Readable Bible/66 - Revelation/Revelation 14#Revelation-R 14| Revelation 14]]
 
 ---
 

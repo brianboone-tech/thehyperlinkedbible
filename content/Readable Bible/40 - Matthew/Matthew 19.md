@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew 19
+# Matthew-R 19
 
-[[Readable Bible/40 - Matthew/Matthew 18|← Matthew 18]] | [[Readable Bible/40 - Matthew/Matthew 20|Matthew 20 →]]
+**[[Home/Scripture/40 - Matthew|Matthew]]**
+
+[[Readable Bible/40 - Matthew/Matthew 18#Matthew-R 18| Matthew 18]] - [[Readable Bible/40 - Matthew/Matthew 20#Matthew-R 20| Matthew 20]]
 
 ---
 
 ##### Matthew 19 . 1
-[[Reference Bible/40 - Matthew/Matthew 19#Matthew 19 - 1|1]] When Jesus had finished saying these things, He left Galilee and went into the region of Judea beyond the Jordan.  | | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 19 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/40 - Matthew/Matthew 19#Matthew 19 - 1|1]] When Jesus had finished saying these things, He left Galilee and went into the region of Judea beyond the Jordan.   || [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 19 - TOSK#Verse 1|TOSK]] |
 
 ##### Matthew 19 . 2
 [[Reference Bible/40 - Matthew/Matthew 19#Matthew 19 - 2|2]] Large crowds followed Him, and He healed them there.  | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 19 - TOSK#Verse 2|TOSK]] |

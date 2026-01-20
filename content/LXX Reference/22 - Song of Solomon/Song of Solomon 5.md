@@ -42,7 +42,7 @@ Testament: Old
 [[Lexicon/G1-100#G0079|My beloved man]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4401-4500#G4450|ruddy,]] [[Lexicon/G1501-1600#G1589|being selected]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3401-3500#G3461|myriads.]]
 
 #### Song of Solomon 5 - 11
-[[Lexicon/G2701-2800#G2776|His head]] of Kefaz; [[Lexicon/G1001-1100#G1007|his curls]] [[Lexicon/G3101-3200#G3189|black]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2801-2900#G2876|a crow.]]
+[[Lexicon/G2701-2800#G2776|His head]] of Kefaz; [[Lexicon/G1001-1100#G1007|his curls]] [[Lexicon/G3101-3200#G3189|black]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2801-2900#G2876|a crow.]]
 
 #### Song of Solomon 5 - 12
 [[Lexicon/G3701-3800#G3788|His eyes]] [[Lexicon/G4001-4100#G4058|doves]] [[Lexicon/G1901-2000#G1909|by]] [[Lexicon/G5201-5300#G5204|of waters,]] [[Lexicon/G3001-3100#G3068|being bathed]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1051|milk,]] [[Lexicon/G2501-2600#G2521|sitting down]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G5201-5300#G5204|of waters.]]
@@ -54,7 +54,7 @@ Testament: Old
 [[Lexicon/G5401-5500#G5495|His hands]] [[Lexicon/G5501-5600#G5552|gold,]] [[Lexicon/G4101-4200#G4137|being filled]] [[Lexicon/G2201-2300#G2292|with Tharsis stone.]] [[Lexicon/G2801-2900#G2836|His belly]] [[Lexicon/G1601-1700#G1661|of ivory]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3001-3100#G3037|a stone]] [[Lexicon/G4501-4600#G4552|of sapphire.]]
 
 #### Song of Solomon 5 - 15
-[[Lexicon/G2801-2900#G2833|His legs]] [[Lexicon/G3101-3200#G3138|of marble,]] [[Lexicon/G2301-2400#G2311|founded]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G901-1000#G0939|bases]] [[Lexicon/G5501-5600#G5552|of gold.]] [[Lexicon/G1401-1500#G1491|His appearance]] [[Lexicon/G5601-5624#G5613|as]] Lebanon, [[Lexicon/G1501-1600#G1588|choice]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2701-2800#G2748|cedars.]]
+[[Lexicon/G2801-2900#G2833|His legs]] [[Lexicon/G3101-3200#G3138|of marble,]] [[Lexicon/G2301-2400#G2311|founded]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G901-1000#G0939|bases]] [[Lexicon/G5501-5600#G5552|of gold.]] [[Lexicon/G1401-1500#G1491|His appearance]] [[Lexicon/G5601-5700#G5613|as]] Lebanon, [[Lexicon/G1501-1600#G1588|choice]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2701-2800#G2748|cedars.]]
 
 #### Song of Solomon 5 - 16
 [[Lexicon/G5301-5400#G5333|His throat]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1939|desirable.]] [[Lexicon/G3701-3800#G3778|This]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2301-2400#G2364|O daughters]] of Jerusalem.

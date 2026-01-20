@@ -55,7 +55,7 @@ cssClasses: lexicon
 [[Lexicon/H7201-7300#H7227|Many]] [[Lexicon/H3701-3800#H3782|will stumble]] [[Lexicon/H5301-5400#H5307|they will fall]] [[Lexicon/H7601-7700#H7665|and be broken ;]] [[Lexicon/H3301-3400#H3369|they will be ensnared]] [[Lexicon/H3901-4000#H3920|and captured. ”]]
 
 ##### Isaiah 8 - 16
-[[Lexicon/H6801-6900#H6887|Bind up]] [[Lexicon/H8501-8600#H8584|the testimony]] [[Lexicon/H2801-2900#H2856|(and) seal]] [[Lexicon/H8401-8500#H8451|the law]] [[Lexicon/H3901-4000#H3928|among my disciples.]]
+[[Lexicon/H6801-6900#H6887|Bind up]] [[Lexicon/H8501-8600#H8584|the testimony]] [[Lexicon/H2801-2900#H2856|[and] seal]] [[Lexicon/H8401-8500#H8451|the law]] [[Lexicon/H3901-4000#H3928|among my disciples.]]
 
 ##### Isaiah 8 - 17
 [[Lexicon/H2401-2500#H2442|I will wait]] [[Lexicon/H3001-3100#H3068|for the LORD ,]] [[Lexicon/H5601-5700#H5641|who is hiding]] [[Lexicon/H6401-6500#H6440|His face]] [[Lexicon/H1001-1100#H1004|from the house]] [[Lexicon/H3201-3300#H3290|of Jacob.]] [[Lexicon/H6901-7000#H6960|I will put my trust]]
@@ -64,7 +64,7 @@ cssClasses: lexicon
 [[Lexicon/H2001-2100#H2009|Here]] [[Lexicon/H501-600#H595|am I ,]] [[Lexicon/H3201-3300#H3206|and the children]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5401-5500#H5414|has given]] [[Lexicon/H201-300#H226|as signs]] [[Lexicon/H4101-4200#H4159|and symbols]] [[Lexicon/H3401-3500#H3478|in Israel]] [[Lexicon/H5901-6000#H5973|from]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6601-6700#H6635|of Hosts ,]] [[Lexicon/H7901-8000#H7931|who dwells]] [[Lexicon/H2001-2100#H2022|on Mount]] [[Lexicon/H6701-6800#H6726|Zion.]]
 
 ##### Isaiah 8 - 19
-[[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H501-600#H559|men tell]] [[Lexicon/H401-500#H413|you]] [[Lexicon/H1801-1900#H1875|to consult]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H178|the spirits of the dead]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3001-3100#H3049|and the spiritists]] [[Lexicon/H6801-6900#H6850|who whisper]] [[Lexicon/H1801-1900#H1897|and mutter ,]] [[Lexicon/H3801-3900#H3808|shouldn’t]] [[Lexicon/H5901-6000#H5971|a people]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1801-1900#H1875|consult]] [[Lexicon/H401-500#H430|their God (instead) ?]] [[Lexicon/H4101-4200#H4191|Why consult the dead]] [[Lexicon/H1101-1200#H1157|on behalf of]] [[Lexicon/H2401-2500#H2416|the living ?]] [[Lexicon/H401-500#H413|...]]
+[[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H501-600#H559|men tell]] [[Lexicon/H401-500#H413|you]] [[Lexicon/H1801-1900#H1875|to consult]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H178|the spirits of the dead]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3001-3100#H3049|and the spiritists]] [[Lexicon/H6801-6900#H6850|who whisper]] [[Lexicon/H1801-1900#H1897|and mutter ,]] [[Lexicon/H3801-3900#H3808|shouldn’t]] [[Lexicon/H5901-6000#H5971|a people]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1801-1900#H1875|consult]] [[Lexicon/H401-500#H430|their God [instead] ?]] [[Lexicon/H4101-4200#H4191|Why consult the dead]] [[Lexicon/H1101-1200#H1157|on behalf of]] [[Lexicon/H2401-2500#H2416|the living ?]] [[Lexicon/H401-500#H413|...]]
 
 ##### Isaiah 8 - 20
 [[Lexicon/H8401-8500#H8451|To the law]] [[Lexicon/H8501-8600#H8584|and to the testimony !]] [[Lexicon/H501-600#H518|If]] [[Lexicon/H3801-3900#H3808|they do not]] [[Lexicon/H501-600#H559|speak]] [[Lexicon/H2001-2100#H2088|according to this]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1601-1700#H1697|word ,]] [[Lexicon/H301-400#H369|they have no]] [[Lexicon/H7801-7900#H7837|light of dawn.]]

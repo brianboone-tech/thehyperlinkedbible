@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Deuteronomy 7 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 6 - TOSK|← Ch 6]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 8 - TOSK|Ch 8 →]]
+**[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 6 - TOSK|← Ch 6]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 8 - TOSK|Ch 8 →]]
 
 ---
 

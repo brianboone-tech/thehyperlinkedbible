@@ -1,3 +1,0 @@
-# Part 2 - The Purchase Itself
-
-Improvement 130 PERIOD THREE: FROM CHRIST’S RESURRECTION TO THE END OF THE WORLD 138 Introduction 139

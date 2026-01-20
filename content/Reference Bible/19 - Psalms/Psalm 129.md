@@ -31,4 +31,4 @@ cssClasses: lexicon
 [[Lexicon/H3801-3900#H3808|unable]] [[Lexicon/H4301-4400#H4390|to fill]] [[Lexicon/H3701-3800#H3709|the hands]] [[Lexicon/H7101-7200#H7114|of the reaper ,]] [[Lexicon/H2601-2700#H2683|or the arms]] [[Lexicon/H6001-6100#H6014|of the binder of sheaves.]]
 
 ##### Psalm 129 - 8
-[[Lexicon/H3801-3900#H3808|May none]] [[Lexicon/H5601-5700#H5674|who pass by]] [[Lexicon/H501-600#H559|say (to them) ,]] [[Lexicon/H1201-1300#H1293|“ The blessing]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H413|be on you ;]] [[Lexicon/H1201-1300#H1288|we bless]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H8001-8100#H8034|in the name]] [[Lexicon/H3001-3100#H3068|of the LORD. ”]]
+[[Lexicon/H3801-3900#H3808|May none]] [[Lexicon/H5601-5700#H5674|who pass by]] [[Lexicon/H501-600#H559|say [to them] ,]] [[Lexicon/H1201-1300#H1293|“ The blessing]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H413|be on you ;]] [[Lexicon/H1201-1300#H1288|we bless]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H8001-8100#H8034|in the name]] [[Lexicon/H3001-3100#H3068|of the LORD. ”]]

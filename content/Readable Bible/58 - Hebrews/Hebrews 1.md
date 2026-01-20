@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hebrews 1
+# Hebrews-R 1
 
-[[Readable Bible/57 - Philemon/Philemon 1|← Philemon 1]] | [[Readable Bible/58 - Hebrews/Hebrews 2|Hebrews 2 →]]
+**[[Home/Scripture/58 - Hebrews|Hebrews]]**
+
+[[Readable Bible/57 - Philemon/Philemon 1#Philemon-R 1|Philemon 1]] • [[Readable Bible/58 - Hebrews/Hebrews 2#Hebrews-R 2|Hebrews 2]]
 
 ---
 

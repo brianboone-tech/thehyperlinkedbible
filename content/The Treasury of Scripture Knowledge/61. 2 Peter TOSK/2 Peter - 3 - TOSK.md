@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Peter+F1159 3 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/61 - 2 Peter|← 2 Peter]]** | [[The Treasury of Scripture Knowledge/61. 2 Peter TOSK/2 Peter - 2 - TOSK|← Ch 2]]
+**[[Home/Scripture/61 - 2 Peter|← 2 Peter]]** | [[The Treasury of Scripture Knowledge/61. 2 Peter TOSK/2 Peter - 2 - TOSK|← Ch 2]]
 
 ---
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Joshua 19
+# Joshua-R 19
 
-[[Readable Bible/06 - Joshua/Joshua 18|← Joshua 18]] | [[Readable Bible/06 - Joshua/Joshua 20|Joshua 20 →]]
+**[[Home/Scripture/06 - Joshua|Joshua]]**
+
+[[Readable Bible/06 - Joshua/Joshua 18#Joshua-R 18| Joshua 18]] - [[Readable Bible/06 - Joshua/Joshua 20#Joshua-R 20| Joshua 20]]
 
 ---
 

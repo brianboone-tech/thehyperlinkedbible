@@ -6,9 +6,11 @@ cssclasses:
   - lexicon
 ---
 
-# Genesis 7
+# Genesis-R 7
 
-[[Readable Bible/01 - Genesis/Genesis 6|← Genesis 6]] | [[Readable Bible/01 - Genesis/Genesis 8|Genesis 8 →]]
+**[[Home/Scripture/01 - Genesis|Genesis]]**
+
+[[Readable Bible/01 - Genesis/Genesis 6#Genesis-R 6| Genesis 6]] - [[Readable Bible/01 - Genesis/Genesis 8#Genesis-R 8| Genesis 8]]
 
 ---
 

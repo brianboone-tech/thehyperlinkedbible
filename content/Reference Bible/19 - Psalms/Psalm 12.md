@@ -14,11 +14,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 12#Psalm 12 - 1|LXX]] |
 
 ##### Psalm 12 - 2
-[[Lexicon/H7701-7800#H7723|They lie]] [[Lexicon/H1601-1700#H1696|...]] [[Lexicon/H801-900#H854|to]] [[Lexicon/H301-400#H376|one]] [[Lexicon/H7401-7500#H7453|another ;]] [[Lexicon/H1601-1700#H1696|they speak]] [[Lexicon/H2501-2600#H2513|with flattering]] [[Lexicon/H8101-8200#H8193|lips]] [[Lexicon/H3801-3900#H3820|(and) a double]] [[Lexicon/H3801-3900#H3820|heart.]]
+[[Lexicon/H7701-7800#H7723|They lie]] [[Lexicon/H1601-1700#H1696|...]] [[Lexicon/H801-900#H854|to]] [[Lexicon/H301-400#H376|one]] [[Lexicon/H7401-7500#H7453|another ;]] [[Lexicon/H1601-1700#H1696|they speak]] [[Lexicon/H2501-2600#H2513|with flattering]] [[Lexicon/H8101-8200#H8193|lips]] [[Lexicon/H3801-3900#H3820|[and] a double]] [[Lexicon/H3801-3900#H3820|heart.]]
 | [[LXX Reference/19 - Psalms/Psalms 12#Psalm 12 - 2|LXX]] |
 
 ##### Psalm 12 - 3
-[[Lexicon/H3001-3100#H3068|May the LORD]] [[Lexicon/H3701-3800#H3772|cut off]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2501-2600#H2513|flattering]] [[Lexicon/H8101-8200#H8193|lips]] [[Lexicon/H1601-1700#H1696|and (every) boastful]] [[Lexicon/H1401-1500#H1419|...]] [[Lexicon/H3901-4000#H3956|tongue.]]
+[[Lexicon/H3001-3100#H3068|May the LORD]] [[Lexicon/H3701-3800#H3772|cut off]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2501-2600#H2513|flattering]] [[Lexicon/H8101-8200#H8193|lips]] [[Lexicon/H1601-1700#H1696|and [every] boastful]] [[Lexicon/H1401-1500#H1419|...]] [[Lexicon/H3901-4000#H3956|tongue.]]
 | [[LXX Reference/19 - Psalms/Psalms 12#Psalm 12 - 3|LXX]] |
 
 ##### Psalm 12 - 4

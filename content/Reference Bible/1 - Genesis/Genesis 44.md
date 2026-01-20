@@ -17,7 +17,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 1|LXX]] |
 
 ##### Genesis 44 - 2
-[[Lexicon/H801-900#H853|-]] [[Lexicon/H7701-7800#H7760|Put]] [[Lexicon/H1301-1400#H1375|my cup ,]] [[Lexicon/H3701-3800#H3701|the silver]] [[Lexicon/H1301-1400#H1375|one ,]] [[Lexicon/H6301-6400#H6310|in the mouth]] [[Lexicon/H6901-7000#H6996|of the youngest one’s]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H572|sack ,]] [[Lexicon/H3701-3800#H3701|along with the silver]] [[Lexicon/H7601-7700#H7668|for his grain. ”]] [[Lexicon/H6201-6300#H6213|So (the steward) did]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H3101-3200#H3130|as Joseph]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1601-1700#H1696|had instructed.]]
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H7701-7800#H7760|Put]] [[Lexicon/H1301-1400#H1375|my cup ,]] [[Lexicon/H3701-3800#H3701|the silver]] [[Lexicon/H1301-1400#H1375|one ,]] [[Lexicon/H6301-6400#H6310|in the mouth]] [[Lexicon/H6901-7000#H6996|of the youngest one’s]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H572|sack ,]] [[Lexicon/H3701-3800#H3701|along with the silver]] [[Lexicon/H7601-7700#H7668|for his grain. ”]] [[Lexicon/H6201-6300#H6213|So [the steward] did]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H3101-3200#H3130|as Joseph]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1601-1700#H1696|had instructed.]]
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 2|LXX]] |
 
 ##### Genesis 44 - 3
@@ -29,11 +29,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 4|LXX]] |
 
 ##### Genesis 44 - 5
-[[Lexicon/H3801-3900#H3808|Is this not (the cup)]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H101-200#H113|my master]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H8301-8400#H8354|drinks from]] [[Lexicon/H5101-5200#H5172|and uses for divination]] [[Lexicon/H5101-5200#H5172|... ?]] [[Lexicon/H801-900#H834|What]] [[Lexicon/H6201-6300#H6213|you have done]] [[Lexicon/H7401-7500#H7489|is wicked ! ’”]]
+[[Lexicon/H3801-3900#H3808|Is this not [the cup]]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H101-200#H113|my master]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H8301-8400#H8354|drinks from]] [[Lexicon/H5101-5200#H5172|and uses for divination]] [[Lexicon/H5101-5200#H5172|... ?]] [[Lexicon/H801-900#H834|What]] [[Lexicon/H6201-6300#H6213|you have done]] [[Lexicon/H7401-7500#H7489|is wicked ! ’”]]
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 5|LXX]] |
 
 ##### Genesis 44 - 6
-[[Lexicon/H5301-5400#H5381|When (the steward) overtook them ,]] [[Lexicon/H1601-1700#H1696|he relayed]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H1601-1700#H1697|words]] [[Lexicon/H401-500#H413|to them.]] [[Lexicon/H801-900#H853|-]]
+[[Lexicon/H5301-5400#H5381|When [the steward] overtook them ,]] [[Lexicon/H1601-1700#H1696|he relayed]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H1601-1700#H1697|words]] [[Lexicon/H401-500#H413|to them.]] [[Lexicon/H801-900#H853|-]]
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 6|LXX]] |
 
 ##### Genesis 44 - 7
@@ -49,7 +49,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 9|LXX]] |
 
 ##### Genesis 44 - 10
-[[Lexicon/H1501-1600#H1571|“ vvv]] [[Lexicon/H6201-6300#H6258|vvv]] [[Lexicon/H1601-1700#H1697|As you say , ”]] [[Lexicon/H501-600#H559|replied the steward.]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H1901-2000#H1931|“ But only the one]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4601-4700#H4672|is found]] [[Lexicon/H801-900#H854|with (the cup)]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H5601-5700#H5650|slave ,]] [[Lexicon/H801-900#H859|and the rest of you]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H5301-5400#H5355|free of blame. ”]]
+[[Lexicon/H1501-1600#H1571|“ vvv]] [[Lexicon/H6201-6300#H6258|vvv]] [[Lexicon/H1601-1700#H1697|As you say , ”]] [[Lexicon/H501-600#H559|replied the steward.]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H1901-2000#H1931|“ But only the one]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4601-4700#H4672|is found]] [[Lexicon/H801-900#H854|with [the cup]]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H5601-5700#H5650|slave ,]] [[Lexicon/H801-900#H859|and the rest of you]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H5301-5400#H5355|free of blame. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 10|LXX]] |
 
 ##### Genesis 44 - 11
@@ -81,7 +81,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 17|LXX]] |
 
 ##### Genesis 44 - 18
-[[Lexicon/H3001-3100#H3063|Then Judah]] [[Lexicon/H5001-5100#H5066|approached]] [[Lexicon/H401-500#H413|(Joseph)]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H901-1000#H994|“ Sir]] [[Lexicon/H101-200#H113|... ,]] [[Lexicon/H4901-5000#H4994|please]] [[Lexicon/H5601-5700#H5650|let your servant]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H201-300#H241|...]] [[Lexicon/H1601-1700#H1696|speak]] [[Lexicon/H101-200#H113|personally to my lord.]] [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H2701-2800#H2734|be angry]] [[Lexicon/H601-700#H639|...]] [[Lexicon/H5601-5700#H5650|with your servant ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3601-3700#H3644|you are equal to]] [[Lexicon/H6501-6600#H6547|Pharaoh himself.]]
+[[Lexicon/H3001-3100#H3063|Then Judah]] [[Lexicon/H5001-5100#H5066|approached]] [[Lexicon/H401-500#H413|[Joseph]]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H901-1000#H994|“ Sir]] [[Lexicon/H101-200#H113|... ,]] [[Lexicon/H4901-5000#H4994|please]] [[Lexicon/H5601-5700#H5650|let your servant]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H201-300#H241|...]] [[Lexicon/H1601-1700#H1696|speak]] [[Lexicon/H101-200#H113|personally to my lord.]] [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H2701-2800#H2734|be angry]] [[Lexicon/H601-700#H639|...]] [[Lexicon/H5601-5700#H5650|with your servant ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3601-3700#H3644|you are equal to]] [[Lexicon/H6501-6600#H6547|Pharaoh himself.]]
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 18|LXX]] |
 
 ##### Genesis 44 - 19
@@ -129,11 +129,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 29|LXX]] |
 
 ##### Genesis 44 - 30
-[[Lexicon/H6201-6300#H6258|So]] [[Lexicon/H5201-5300#H5288|if the boy]] [[Lexicon/H301-400#H369|is not]] [[Lexicon/H801-900#H854|with us]] [[Lexicon/H901-1000#H935|when I return]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5601-5700#H5650|your servant ,]] [[Lexicon/H1-100#H1|and (if) my father ,]] [[Lexicon/H5301-5400#H5315|whose life]] [[Lexicon/H7101-7200#H7194|is wrapped up]] [[Lexicon/H5301-5400#H5315|in the boy’s life ,]]
+[[Lexicon/H6201-6300#H6258|So]] [[Lexicon/H5201-5300#H5288|if the boy]] [[Lexicon/H301-400#H369|is not]] [[Lexicon/H801-900#H854|with us]] [[Lexicon/H901-1000#H935|when I return]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5601-5700#H5650|your servant ,]] [[Lexicon/H1-100#H1|and [if] my father ,]] [[Lexicon/H5301-5400#H5315|whose life]] [[Lexicon/H7101-7200#H7194|is wrapped up]] [[Lexicon/H5301-5400#H5315|in the boy’s life ,]]
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 30|LXX]] |
 
 ##### Genesis 44 - 31
-[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H7101-7200#H7200|sees]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H5201-5300#H5288|the boy]] [[Lexicon/H301-400#H369|(is) not (with us) ,]] [[Lexicon/H4101-4200#H4191|he will die.]] [[Lexicon/H5601-5700#H5650|Then your servants]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7801-7900#H7872|will have brought the gray hair]] [[Lexicon/H5601-5700#H5650|of your servant]] [[Lexicon/H1-100#H1|our father]] [[Lexicon/H3301-3400#H3381|down]] [[Lexicon/H7501-7600#H7585|to Sheol]] [[Lexicon/H3001-3100#H3015|in sorrow.]]
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H7101-7200#H7200|sees]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H5201-5300#H5288|the boy]] [[Lexicon/H301-400#H369|[is] not [with us] ,]] [[Lexicon/H4101-4200#H4191|he will die.]] [[Lexicon/H5601-5700#H5650|Then your servants]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7801-7900#H7872|will have brought the gray hair]] [[Lexicon/H5601-5700#H5650|of your servant]] [[Lexicon/H1-100#H1|our father]] [[Lexicon/H3301-3400#H3381|down]] [[Lexicon/H7501-7600#H7585|to Sheol]] [[Lexicon/H3001-3100#H3015|in sorrow.]]
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 31|LXX]] |
 
 ##### Genesis 44 - 32
@@ -145,6 +145,6 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 33|LXX]] |
 
 ##### Genesis 44 - 34
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H301-400#H349|how]] [[Lexicon/H5901-6000#H5927|can I go back]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|my father]] [[Lexicon/H301-400#H369|without]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H5201-5300#H5288|the boy ?]] [[Lexicon/H6401-6500#H6435|I could not bear]] [[Lexicon/H7101-7200#H7200|to see]] [[Lexicon/H7401-7500#H7451|the misery]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H4601-4700#H4672|would overwhelm]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H1|(him). ”]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H301-400#H349|how]] [[Lexicon/H5901-6000#H5927|can I go back]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|my father]] [[Lexicon/H301-400#H369|without]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H5201-5300#H5288|the boy ?]] [[Lexicon/H6401-6500#H6435|I could not bear]] [[Lexicon/H7101-7200#H7200|to see]] [[Lexicon/H7401-7500#H7451|the misery]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H4601-4700#H4672|would overwhelm]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H1|[him]. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 44#Genesis 44 - 34|LXX]] |
 

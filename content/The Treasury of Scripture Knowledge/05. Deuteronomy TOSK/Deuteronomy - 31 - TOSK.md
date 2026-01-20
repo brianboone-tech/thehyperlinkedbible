@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Deuteronomy 31 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 30 - TOSK|← Ch 30]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 32 - TOSK|Ch 32 →]]
+**[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 30 - TOSK|← Ch 30]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 32 - TOSK|Ch 32 →]]
 
 ---
 

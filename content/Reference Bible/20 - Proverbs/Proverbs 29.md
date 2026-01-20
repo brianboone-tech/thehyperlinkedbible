@@ -61,10 +61,10 @@ cssClasses: lexicon
 [[Lexicon/H3201-3300#H3256|Discipline]] [[Lexicon/H1101-1200#H1121|your son ,]] [[Lexicon/H5101-5200#H5117|and he will give you rest ;]] [[Lexicon/H5401-5500#H5414|he will bring]] [[Lexicon/H4501-4600#H4574|delight]] [[Lexicon/H5301-5400#H5315|to your soul.]]
 
 ##### Proverbs 29 - 18
-[[Lexicon/H301-400#H369|Where (there is) no]] [[Lexicon/H2301-2400#H2377|vision ,]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H6501-6600#H6544|cast off restraint ;]] [[Lexicon/H801-900#H835|but blessed (is)]] [[Lexicon/H8101-8200#H8104|he who keeps]] [[Lexicon/H8401-8500#H8451|the Law.]]
+[[Lexicon/H301-400#H369|Where [there is] no]] [[Lexicon/H2301-2400#H2377|vision ,]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H6501-6600#H6544|cast off restraint ;]] [[Lexicon/H801-900#H835|but blessed [is]]] [[Lexicon/H8101-8200#H8104|he who keeps]] [[Lexicon/H8401-8500#H8451|the Law.]]
 
 ##### Proverbs 29 - 19
-[[Lexicon/H5601-5700#H5650|A servant]] [[Lexicon/H3801-3900#H3808|cannot]] [[Lexicon/H3201-3300#H3256|be corrected]] [[Lexicon/H1601-1700#H1697|by words (alone) ;]] [[Lexicon/H3501-3600#H3588|though]] [[Lexicon/H901-1000#H995|he understands ,]] [[Lexicon/H301-400#H369|he will not]] [[Lexicon/H6001-6100#H6030|respond.]]
+[[Lexicon/H5601-5700#H5650|A servant]] [[Lexicon/H3801-3900#H3808|cannot]] [[Lexicon/H3201-3300#H3256|be corrected]] [[Lexicon/H1601-1700#H1697|by words [alone] ;]] [[Lexicon/H3501-3600#H3588|though]] [[Lexicon/H901-1000#H995|he understands ,]] [[Lexicon/H301-400#H369|he will not]] [[Lexicon/H6001-6100#H6030|respond.]]
 
 ##### Proverbs 29 - 20
 [[Lexicon/H2301-2400#H2372|Do you see]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H1601-1700#H1697|who speaks]] [[Lexicon/H201-300#H213|in haste ?]] [[Lexicon/H8601-8674#H8615|There is more hope]] [[Lexicon/H3601-3700#H3684|for a fool]] [[Lexicon/H4401-4500#H4480|than for him.]]

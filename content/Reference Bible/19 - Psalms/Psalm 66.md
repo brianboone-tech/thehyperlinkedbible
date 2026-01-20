@@ -62,7 +62,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 66#Psalm 66 - 13|LXX]] |
 
 ##### Psalm 66 - 14
-[[Lexicon/H801-900#H834|(the vows) that]] [[Lexicon/H8101-8200#H8193|my lips]] [[Lexicon/H6401-6500#H6475|promised]] [[Lexicon/H6301-6400#H6310|and my mouth]] [[Lexicon/H1601-1700#H1696|spoke]] [[Lexicon/H6801-6900#H6862|in my distress]]
+[[Lexicon/H801-900#H834|[the vows] that]] [[Lexicon/H8101-8200#H8193|my lips]] [[Lexicon/H6401-6500#H6475|promised]] [[Lexicon/H6301-6400#H6310|and my mouth]] [[Lexicon/H1601-1700#H1696|spoke]] [[Lexicon/H6801-6900#H6862|in my distress]]
 | [[LXX Reference/19 - Psalms/Psalms 66#Psalm 66 - 14|LXX]] |
 
 ##### Psalm 66 - 15
@@ -86,5 +86,5 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 66#Psalm 66 - 19|LXX]] |
 
 ##### Psalm 66 - 20
-[[Lexicon/H1201-1300#H1288|Blessed]] [[Lexicon/H401-500#H430|(be) God ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3801-3900#H3808|has not]] [[Lexicon/H5401-5500#H5493|rejected]] [[Lexicon/H8601-8674#H8605|my prayer]] [[Lexicon/H801-900#H854|or withheld from me]] [[Lexicon/H2601-2700#H2617|His loving devotion !]]
+[[Lexicon/H1201-1300#H1288|Blessed]] [[Lexicon/H401-500#H430|[be] God ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3801-3900#H3808|has not]] [[Lexicon/H5401-5500#H5493|rejected]] [[Lexicon/H8601-8674#H8605|my prayer]] [[Lexicon/H801-900#H854|or withheld from me]] [[Lexicon/H2601-2700#H2617|His loving devotion !]]
 | [[LXX Reference/19 - Psalms/Psalms 66#Psalm 66 - 20|LXX]] |

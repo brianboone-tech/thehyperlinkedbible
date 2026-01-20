@@ -13,7 +13,7 @@ Chapter: "19"
 ---
 
 ##### Exodus 19 - 1
-[[Lexicon/H7901-8000#H7992|In the third]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H2001-2100#H2088|on the same]] [[Lexicon/H3101-3200#H3117|day (of the month)]] [[Lexicon/H1101-1200#H1121|that the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H3301-3400#H3318|had left]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H901-1000#H935|they came]] [[Lexicon/H4001-4100#H4057|(to) the Wilderness]] [[Lexicon/H5501-5600#H5514|of Sinai.]]
+[[Lexicon/H7901-8000#H7992|In the third]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H2001-2100#H2088|on the same]] [[Lexicon/H3101-3200#H3117|day [of the month]]] [[Lexicon/H1101-1200#H1121|that the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H3301-3400#H3318|had left]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H901-1000#H935|they came]] [[Lexicon/H4001-4100#H4057|[to] the Wilderness]] [[Lexicon/H5501-5600#H5514|of Sinai.]]
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 1|LXX]] |
 
 ##### Exodus 19 - 2
@@ -41,11 +41,11 @@ Chapter: "19"
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 7|LXX]] |
 
 ##### Exodus 19 - 8
-[[Lexicon/H3601-3700#H3605|And all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H6001-6100#H6030|answered]] [[Lexicon/H3101-3200#H3162|together ,]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H6201-6300#H6213|“ We will do]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|has spoken. ”]] [[Lexicon/H4801-4900#H4872|So Moses]] [[Lexicon/H7701-7800#H7725|brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|(their)]] [[Lexicon/H1601-1700#H1697|words]] [[Lexicon/H401-500#H413|back to]] [[Lexicon/H3001-3100#H3068|the LORD.]]
+[[Lexicon/H3601-3700#H3605|And all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H6001-6100#H6030|answered]] [[Lexicon/H3101-3200#H3162|together ,]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H6201-6300#H6213|“ We will do]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|has spoken. ”]] [[Lexicon/H4801-4900#H4872|So Moses]] [[Lexicon/H7701-7800#H7725|brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|[their]]] [[Lexicon/H1601-1700#H1697|words]] [[Lexicon/H401-500#H413|back to]] [[Lexicon/H3001-3100#H3068|the LORD.]]
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 8|LXX]] |
 
 ##### Exodus 19 - 9
-[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H2001-2100#H2009|“ Behold ,]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H901-1000#H935|will come]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5601-5700#H5645|you in a dense]] [[Lexicon/H6001-6100#H6051|cloud ,]] [[Lexicon/H5601-5700#H5668|so that]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H8001-8100#H8085|will hear]] [[Lexicon/H1601-1700#H1696|when I speak]] [[Lexicon/H5901-6000#H5973|with you ,]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H5701-5800#H5769|they will always]] [[Lexicon/H501-600#H539|put their trust]] [[Lexicon/H4801-4900#H4872|And Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5001-5100#H5046|relayed]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5901-6000#H5971|(what) the people]] [[Lexicon/H1601-1700#H1697|had said.]]
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H2001-2100#H2009|“ Behold ,]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H901-1000#H935|will come]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5601-5700#H5645|you in a dense]] [[Lexicon/H6001-6100#H6051|cloud ,]] [[Lexicon/H5601-5700#H5668|so that]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H8001-8100#H8085|will hear]] [[Lexicon/H1601-1700#H1696|when I speak]] [[Lexicon/H5901-6000#H5973|with you ,]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H5701-5800#H5769|they will always]] [[Lexicon/H501-600#H539|put their trust]] [[Lexicon/H4801-4900#H4872|And Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5001-5100#H5046|relayed]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5901-6000#H5971|[what] the people]] [[Lexicon/H1601-1700#H1697|had said.]]
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 9|LXX]] |
 
 ##### Exodus 19 - 10
@@ -57,7 +57,7 @@ Chapter: "19"
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 11|LXX]] |
 
 ##### Exodus 19 - 12
-[[Lexicon/H1301-1400#H1379|And you are to set up a boundary]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|for the people]] [[Lexicon/H5401-5500#H5439|around (the mountain)]] [[Lexicon/H501-600#H559|and tell them ,]] [[Lexicon/H8101-8200#H8104|‘ Be careful]] [[Lexicon/H5901-6000#H5927|not to go up]] [[Lexicon/H2001-2100#H2022|on the mountain]] [[Lexicon/H5001-5100#H5060|or touch]] [[Lexicon/H7001-7100#H7097|its base.]] [[Lexicon/H3601-3700#H3605|Whoever]] [[Lexicon/H5001-5100#H5060|touches]] [[Lexicon/H2001-2100#H2022|the mountain]] [[Lexicon/H4101-4200#H4191|shall surely]] [[Lexicon/H4101-4200#H4191|be put to death.]]
+[[Lexicon/H1301-1400#H1379|And you are to set up a boundary]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|for the people]] [[Lexicon/H5401-5500#H5439|around [the mountain]]] [[Lexicon/H501-600#H559|and tell them ,]] [[Lexicon/H8101-8200#H8104|‘ Be careful]] [[Lexicon/H5901-6000#H5927|not to go up]] [[Lexicon/H2001-2100#H2022|on the mountain]] [[Lexicon/H5001-5100#H5060|or touch]] [[Lexicon/H7001-7100#H7097|its base.]] [[Lexicon/H3601-3700#H3605|Whoever]] [[Lexicon/H5001-5100#H5060|touches]] [[Lexicon/H2001-2100#H2022|the mountain]] [[Lexicon/H4101-4200#H4191|shall surely]] [[Lexicon/H4101-4200#H4191|be put to death.]]
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 12|LXX]] |
 
 ##### Exodus 19 - 13
@@ -73,7 +73,7 @@ Chapter: "19"
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 15|LXX]] |
 
 ##### Exodus 19 - 16
-[[Lexicon/H7901-8000#H7992|On the third]] [[Lexicon/H3101-3200#H3117|day ,]] [[Lexicon/H1201-1300#H1242|when morning]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H1901-2000#H1961|came ,]] [[Lexicon/H1901-2000#H1961|there was]] [[Lexicon/H6901-7000#H6963|thunder]] [[Lexicon/H1201-1300#H1300|and lightning.]] [[Lexicon/H3501-3600#H3515|A thick]] [[Lexicon/H6001-6100#H6051|cloud]] [[Lexicon/H5901-6000#H5921|was upon]] [[Lexicon/H2001-2100#H2022|the mountain ,]] [[Lexicon/H2301-2400#H2389|and a very loud]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H6901-7000#H6963|blast]] [[Lexicon/H7701-7800#H7782|of the ram’s horn (went out) ,]] [[Lexicon/H3601-3700#H3605|so that all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H4201-4300#H4264|in the camp]] [[Lexicon/H2701-2800#H2729|trembled.]]
+[[Lexicon/H7901-8000#H7992|On the third]] [[Lexicon/H3101-3200#H3117|day ,]] [[Lexicon/H1201-1300#H1242|when morning]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H1901-2000#H1961|came ,]] [[Lexicon/H1901-2000#H1961|there was]] [[Lexicon/H6901-7000#H6963|thunder]] [[Lexicon/H1201-1300#H1300|and lightning.]] [[Lexicon/H3501-3600#H3515|A thick]] [[Lexicon/H6001-6100#H6051|cloud]] [[Lexicon/H5901-6000#H5921|was upon]] [[Lexicon/H2001-2100#H2022|the mountain ,]] [[Lexicon/H2301-2400#H2389|and a very loud]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H6901-7000#H6963|blast]] [[Lexicon/H7701-7800#H7782|of the ram’s horn [went out] ,]] [[Lexicon/H3601-3700#H3605|so that all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H4201-4300#H4264|in the camp]] [[Lexicon/H2701-2800#H2729|trembled.]]
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 16|LXX]] |
 
 ##### Exodus 19 - 17
@@ -89,11 +89,11 @@ Chapter: "19"
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 19|LXX]] |
 
 ##### Exodus 19 - 20
-[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H3301-3400#H3381|descended]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H7201-7300#H7218|the top]] [[Lexicon/H2001-2100#H2022|-]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H2001-2100#H2022|Mount]] [[Lexicon/H5501-5600#H5514|Sinai]] [[Lexicon/H3001-3100#H3068|(and)]] [[Lexicon/H7101-7200#H7121|called]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H7201-7300#H7218|the summit]] [[Lexicon/H2001-2100#H2022|....]] [[Lexicon/H4801-4900#H4872|So (Moses)]] [[Lexicon/H5901-6000#H5927|went up ,]]
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H3301-3400#H3381|descended]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H7201-7300#H7218|the top]] [[Lexicon/H2001-2100#H2022|-]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H2001-2100#H2022|Mount]] [[Lexicon/H5501-5600#H5514|Sinai]] [[Lexicon/H3001-3100#H3068|[and]]] [[Lexicon/H7101-7200#H7121|called]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H7201-7300#H7218|the summit]] [[Lexicon/H2001-2100#H2022|....]] [[Lexicon/H4801-4900#H4872|So [Moses]]] [[Lexicon/H5901-6000#H5927|went up ,]]
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 20|LXX]] |
 
 ##### Exodus 19 - 21
-[[Lexicon/H3001-3100#H3068|and the LORD]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H4801-4900#H4872|to (him) ,]] [[Lexicon/H3301-3400#H3381|“ Go down]] [[Lexicon/H5701-5800#H5749|and warn]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H6401-6500#H6435|not]] [[Lexicon/H2001-2100#H2040|to break through]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7101-7200#H7200|to see]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H7201-7300#H7227|(lest) many]] [[Lexicon/H4401-4500#H4480|of them]] [[Lexicon/H5301-5400#H5307|perish.]]
+[[Lexicon/H3001-3100#H3068|and the LORD]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H4801-4900#H4872|to [him] ,]] [[Lexicon/H3301-3400#H3381|“ Go down]] [[Lexicon/H5701-5800#H5749|and warn]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H6401-6500#H6435|not]] [[Lexicon/H2001-2100#H2040|to break through]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7101-7200#H7200|to see]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H7201-7300#H7227|[lest] many]] [[Lexicon/H4401-4500#H4480|of them]] [[Lexicon/H5301-5400#H5307|perish.]]
 | [[LXX Reference/2 - Exodus/Exodus 19#Exodus 19 - 21|LXX]] |
 
 ##### Exodus 19 - 22

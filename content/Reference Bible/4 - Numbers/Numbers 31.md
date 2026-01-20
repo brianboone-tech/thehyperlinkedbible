@@ -41,7 +41,7 @@ Chapter: "31"
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 7|LXX]] |
 
 ##### Numbers 31 - 8
-[[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5921|Among]] [[Lexicon/H2401-2500#H2491|the slain]] [[Lexicon/H801-900#H853|]] [[Lexicon/H2001-2100#H2026|(were)]] [[Lexicon/H4401-4500#H4428|-]] [[Lexicon/H4001-4100#H4080|-]] [[Lexicon/H101-200#H189|Evi ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7501-7600#H7552|Rekem ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6698|Zur ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2301-2400#H2354|Hur ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7254|and Reba —]] [[Lexicon/H2501-2600#H2568|the five]] [[Lexicon/H4401-4500#H4428|kings]] [[Lexicon/H4001-4100#H4080|of Midian.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2026|They also killed]] [[Lexicon/H1101-1200#H1109|Balaam]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1160|of Beor]] [[Lexicon/H2701-2800#H2719|with the sword.]]
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5921|Among]] [[Lexicon/H2401-2500#H2491|the slain]] [[Lexicon/H801-900#H853|]] [[Lexicon/H2001-2100#H2026|[were]]] [[Lexicon/H4401-4500#H4428|-]] [[Lexicon/H4001-4100#H4080|-]] [[Lexicon/H101-200#H189|Evi ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7501-7600#H7552|Rekem ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6698|Zur ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2301-2400#H2354|Hur ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7254|and Reba —]] [[Lexicon/H2501-2600#H2568|the five]] [[Lexicon/H4401-4500#H4428|kings]] [[Lexicon/H4001-4100#H4080|of Midian.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2026|They also killed]] [[Lexicon/H1101-1200#H1109|Balaam]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1160|of Beor]] [[Lexicon/H2701-2800#H2719|with the sword.]]
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 8|LXX]] |
 
 ##### Numbers 31 - 9
@@ -49,7 +49,7 @@ Chapter: "31"
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 9|LXX]] |
 
 ##### Numbers 31 - 10
-[[Lexicon/H801-900#H853|Then]] [[Lexicon/H8301-8400#H8313|they burned]] [[Lexicon/H701-800#H784|...]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5801-5900#H5892|the cities]] [[Lexicon/H4101-4200#H4186|where (the Midianites) had lived ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|as well as all]] [[Lexicon/H2901-3000#H2918|their encampments ,]]
+[[Lexicon/H801-900#H853|Then]] [[Lexicon/H8301-8400#H8313|they burned]] [[Lexicon/H701-800#H784|...]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5801-5900#H5892|the cities]] [[Lexicon/H4101-4200#H4186|where [the Midianites] had lived ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|as well as all]] [[Lexicon/H2901-3000#H2918|their encampments ,]]
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 10|LXX]] |
 
 ##### Numbers 31 - 11
@@ -85,7 +85,7 @@ Chapter: "31"
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 18|LXX]] |
 
 ##### Numbers 31 - 19
-[[Lexicon/H3601-3700#H3605|All of you]] [[Lexicon/H2001-2100#H2026|who have killed]] [[Lexicon/H5301-5400#H5315|a person]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H5001-5100#H5060|or touched]] [[Lexicon/H2401-2500#H2491|the dead]] [[Lexicon/H801-900#H859|-]] [[Lexicon/H2501-2600#H2583|are to remain]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H4201-4300#H4264|the camp]] [[Lexicon/H7601-7700#H7651|for seven]] [[Lexicon/H3101-3200#H3117|days.]] [[Lexicon/H7901-8000#H7992|On the third]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7637|and the seventh]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2301-2400#H2398|you are to purify]] [[Lexicon/H801-900#H859|(both) yourselves]] [[Lexicon/H7601-7700#H7628|and your captives.]]
+[[Lexicon/H3601-3700#H3605|All of you]] [[Lexicon/H2001-2100#H2026|who have killed]] [[Lexicon/H5301-5400#H5315|a person]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H5001-5100#H5060|or touched]] [[Lexicon/H2401-2500#H2491|the dead]] [[Lexicon/H801-900#H859|-]] [[Lexicon/H2501-2600#H2583|are to remain]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H4201-4300#H4264|the camp]] [[Lexicon/H7601-7700#H7651|for seven]] [[Lexicon/H3101-3200#H3117|days.]] [[Lexicon/H7901-8000#H7992|On the third]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7637|and the seventh]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2301-2400#H2398|you are to purify]] [[Lexicon/H801-900#H859|[both] yourselves]] [[Lexicon/H7601-7700#H7628|and your captives.]]
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 19|LXX]] |
 
 ##### Numbers 31 - 20
@@ -113,7 +113,7 @@ Chapter: "31"
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 25|LXX]] |
 
 ##### Numbers 31 - 26
-[[Lexicon/H801-900#H859|“ You]] [[Lexicon/H401-500#H499|and Eleazar]] [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H1-100#H1|and the family]] [[Lexicon/H7201-7300#H7218|heads]] [[Lexicon/H5701-5800#H5712|of the congregation]] [[Lexicon/H5301-5400#H5375|are to take a count]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7218|-]] [[Lexicon/H4401-4500#H4455|of what was captured]] [[Lexicon/H7601-7700#H7628|... ,]] [[Lexicon/H101-200#H120|(both) of man]] [[Lexicon/H901-1000#H929|and beast.]]
+[[Lexicon/H801-900#H859|“ You]] [[Lexicon/H401-500#H499|and Eleazar]] [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H1-100#H1|and the family]] [[Lexicon/H7201-7300#H7218|heads]] [[Lexicon/H5701-5800#H5712|of the congregation]] [[Lexicon/H5301-5400#H5375|are to take a count]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7218|-]] [[Lexicon/H4401-4500#H4455|of what was captured]] [[Lexicon/H7601-7700#H7628|... ,]] [[Lexicon/H101-200#H120|[both] of man]] [[Lexicon/H901-1000#H929|and beast.]]
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 26|LXX]] |
 
 ##### Numbers 31 - 27
@@ -129,7 +129,7 @@ Chapter: "31"
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 29|LXX]] |
 
 ##### Numbers 31 - 30
-[[Lexicon/H4401-4500#H4480|From]] [[Lexicon/H1101-1200#H1121|the Israelites’]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H4201-4300#H4276|half ,]] [[Lexicon/H3901-4000#H3947|take]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H201-300#H270|...]] [[Lexicon/H4401-4500#H4480|out of]] [[Lexicon/H2501-2600#H2572|every fifty ,]] [[Lexicon/H101-200#H120|whether persons ,]] [[Lexicon/H4401-4500#H4480|]] [[Lexicon/H1201-1300#H1241|cattle ,]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H2501-2600#H2543|donkeys ,]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H6601-6700#H6629|sheep ,]] [[Lexicon/H3601-3700#H3605|(or) other]] [[Lexicon/H901-1000#H929|animals ,]] [[Lexicon/H5401-5500#H5414|and give]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H3801-3900#H3881|to the Levites]] [[Lexicon/H8101-8200#H8104|who keep]] [[Lexicon/H4901-5000#H4931|charge]] [[Lexicon/H4901-5000#H4908|of the tabernacle]] [[Lexicon/H3001-3100#H3068|of the LORD. ”]]
+[[Lexicon/H4401-4500#H4480|From]] [[Lexicon/H1101-1200#H1121|the Israelites’]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H4201-4300#H4276|half ,]] [[Lexicon/H3901-4000#H3947|take]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H201-300#H270|...]] [[Lexicon/H4401-4500#H4480|out of]] [[Lexicon/H2501-2600#H2572|every fifty ,]] [[Lexicon/H101-200#H120|whether persons ,]] [[Lexicon/H4401-4500#H4480|]] [[Lexicon/H1201-1300#H1241|cattle ,]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H2501-2600#H2543|donkeys ,]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H6601-6700#H6629|sheep ,]] [[Lexicon/H3601-3700#H3605|[or] other]] [[Lexicon/H901-1000#H929|animals ,]] [[Lexicon/H5401-5500#H5414|and give]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H3801-3900#H3881|to the Levites]] [[Lexicon/H8101-8200#H8104|who keep]] [[Lexicon/H4901-5000#H4931|charge]] [[Lexicon/H4901-5000#H4908|of the tabernacle]] [[Lexicon/H3001-3100#H3068|of the LORD. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 30|LXX]] |
 
 ##### Numbers 31 - 31
@@ -137,7 +137,7 @@ Chapter: "31"
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 31|LXX]] |
 
 ##### Numbers 31 - 32
-[[Lexicon/H1901-2000#H1961|(and)]] [[Lexicon/H4401-4500#H4455|this plunder]] [[Lexicon/H3401-3500#H3499|remained]] [[Lexicon/H901-1000#H957|from the spoils]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5971|the soldiers]] [[Lexicon/H6601-6700#H6635|...]] [[Lexicon/H901-1000#H962|had taken :]] [[Lexicon/H8301-8400#H8337|675,000 {}]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7601-7700#H7657|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H2501-2600#H2568|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H6601-6700#H6629|sheep ,]]
+[[Lexicon/H1901-2000#H1961|[and]]] [[Lexicon/H4401-4500#H4455|this plunder]] [[Lexicon/H3401-3500#H3499|remained]] [[Lexicon/H901-1000#H957|from the spoils]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5971|the soldiers]] [[Lexicon/H6601-6700#H6635|...]] [[Lexicon/H901-1000#H962|had taken :]] [[Lexicon/H8301-8400#H8337|675,000 {}]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7601-7700#H7657|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H2501-2600#H2568|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H6601-6700#H6629|sheep ,]]
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 32|LXX]] |
 
 ##### Numbers 31 - 33
@@ -153,7 +153,7 @@ Chapter: "31"
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 35|LXX]] |
 
 ##### Numbers 31 - 36
-[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H4201-4300#H4275|This (was) the half]] [[Lexicon/H2501-2600#H2506|portion]] [[Lexicon/H3301-3400#H3318|for those who had gone]] [[Lexicon/H6601-6700#H6635|to war]] [[Lexicon/H4501-4600#H4557|- :]] [[Lexicon/H7901-8000#H7969|337500]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7901-8000#H7970|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7601-7700#H7651|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H2501-2600#H2568|...]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H6601-6700#H6629|sheep ,]]
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H4201-4300#H4275|This [was] the half]] [[Lexicon/H2501-2600#H2506|portion]] [[Lexicon/H3301-3400#H3318|for those who had gone]] [[Lexicon/H6601-6700#H6635|to war]] [[Lexicon/H4501-4600#H4557|- :]] [[Lexicon/H7901-8000#H7969|337500]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7901-8000#H7970|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7601-7700#H7651|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H2501-2600#H2568|...]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H6601-6700#H6629|sheep ,]]
 | [[LXX Reference/4 - Numbers/Numbers 31#Numbers 31 - 36|LXX]] |
 
 ##### Numbers 31 - 37

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Revelation 11 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/66 - Revelation|← Revelation]]** | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 10 - TOSK|← Ch 10]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 12 - TOSK|Ch 12 →]]
+**[[Home/Scripture/66 - Revelation|← Revelation]]** | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 10 - TOSK|← Ch 10]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 12 - TOSK|Ch 12 →]]
 
 ---
 

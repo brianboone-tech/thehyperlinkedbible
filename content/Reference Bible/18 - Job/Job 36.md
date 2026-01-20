@@ -22,7 +22,7 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H551|truly]] [[Lexicon/H4401-4500#H4405|my words]] [[Lexicon/H3801-3900#H3808|are free of]] [[Lexicon/H8201-8300#H8267|falsehood ;]] [[Lexicon/H8501-8600#H8549|one perfect]] [[Lexicon/H1801-1900#H1844|in knowledge]] [[Lexicon/H5901-6000#H5973|is with you.]]
 
 ##### Job 36 - 5
-[[Lexicon/H2001-2100#H2005|Indeed ,]] [[Lexicon/H401-500#H410|God (is)]] [[Lexicon/H3501-3600#H3524|mighty ,]] [[Lexicon/H3901-4000#H3988|but He despises]] [[Lexicon/H3801-3900#H3808|no one ;]] [[Lexicon/H3501-3600#H3524|(He is) mighty]] [[Lexicon/H3501-3600#H3581|in strength]] [[Lexicon/H3801-3900#H3820|of understanding.]]
+[[Lexicon/H2001-2100#H2005|Indeed ,]] [[Lexicon/H401-500#H410|God [is]]] [[Lexicon/H3501-3600#H3524|mighty ,]] [[Lexicon/H3901-4000#H3988|but He despises]] [[Lexicon/H3801-3900#H3808|no one ;]] [[Lexicon/H3501-3600#H3524|[He is] mighty]] [[Lexicon/H3501-3600#H3581|in strength]] [[Lexicon/H3801-3900#H3820|of understanding.]]
 
 ##### Job 36 - 6
 [[Lexicon/H3801-3900#H3808|He does not]] [[Lexicon/H7501-7600#H7563|keep the wicked]] [[Lexicon/H2401-2500#H2421|alive ,]] [[Lexicon/H5401-5500#H5414|but He grants]] [[Lexicon/H4901-5000#H4941|justice]] [[Lexicon/H6001-6100#H6041|to the afflicted.]]
@@ -40,7 +40,7 @@ cssClasses: lexicon
 [[Lexicon/H1501-1600#H1540|He opens]] [[Lexicon/H201-300#H241|their ears]] [[Lexicon/H4101-4200#H4148|to correction]] [[Lexicon/H501-600#H559|and commands]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H7701-7800#H7725|they turn]] [[Lexicon/H201-300#H205|from iniquity.]]
 
 ##### Job 36 - 11
-[[Lexicon/H501-600#H518|If]] [[Lexicon/H8001-8100#H8085|they obey]] [[Lexicon/H5601-5700#H5647|and serve (Him) ,]] [[Lexicon/H3601-3700#H3615|then they end]] [[Lexicon/H3101-3200#H3117|their days]] [[Lexicon/H2801-2900#H2896|in prosperity]] [[Lexicon/H8101-8200#H8141|and their years]] [[Lexicon/H5201-5300#H5273|in happiness.]]
+[[Lexicon/H501-600#H518|If]] [[Lexicon/H8001-8100#H8085|they obey]] [[Lexicon/H5601-5700#H5647|and serve [Him] ,]] [[Lexicon/H3601-3700#H3615|then they end]] [[Lexicon/H3101-3200#H3117|their days]] [[Lexicon/H2801-2900#H2896|in prosperity]] [[Lexicon/H8101-8200#H8141|and their years]] [[Lexicon/H5201-5300#H5273|in happiness.]]
 
 ##### Job 36 - 12
 [[Lexicon/H501-600#H518|But if]] [[Lexicon/H3801-3900#H3808|they do not]] [[Lexicon/H8001-8100#H8085|obey ,]] [[Lexicon/H5601-5700#H5674|then they perish]] [[Lexicon/H7901-8000#H7973|by the sword]] [[Lexicon/H1401-1500#H1478|and die]] [[Lexicon/H1001-1100#H1097|without]] [[Lexicon/H1801-1900#H1847|knowledge.]]
@@ -85,7 +85,7 @@ cssClasses: lexicon
 [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H101-200#H120|mankind]] [[Lexicon/H2301-2400#H2372|has seen]] [[Lexicon/H501-600#H582|men]] [[Lexicon/H5001-5100#H5027|behold it]] [[Lexicon/H7301-7400#H7350|from afar.]]
 
 ##### Job 36 - 26
-[[Lexicon/H2001-2100#H2005|Indeed ,]] [[Lexicon/H401-500#H410|God (is)]] [[Lexicon/H7601-7700#H7689|great —]] [[Lexicon/H3801-3900#H3808|beyond]] [[Lexicon/H3001-3100#H3045|our knowledge ;]] [[Lexicon/H4501-4600#H4557|the number]] [[Lexicon/H8101-8200#H8141|of His years]] [[Lexicon/H3801-3900#H3808|is unsearchable]] [[Lexicon/H2701-2800#H2714|....]]
+[[Lexicon/H2001-2100#H2005|Indeed ,]] [[Lexicon/H401-500#H410|God [is]]] [[Lexicon/H7601-7700#H7689|great —]] [[Lexicon/H3801-3900#H3808|beyond]] [[Lexicon/H3001-3100#H3045|our knowledge ;]] [[Lexicon/H4501-4600#H4557|the number]] [[Lexicon/H8101-8200#H8141|of His years]] [[Lexicon/H3801-3900#H3808|is unsearchable]] [[Lexicon/H2701-2800#H2714|....]]
 
 ##### Job 36 - 27
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1601-1700#H1639|He draws up]] [[Lexicon/H5101-5200#H5198|drops]] [[Lexicon/H4301-4400#H4325|of water]] [[Lexicon/H2201-2300#H2212|which distill]] [[Lexicon/H4301-4400#H4306|the rain]] [[Lexicon/H101-200#H108|from the mist ,]]
@@ -106,5 +106,5 @@ cssClasses: lexicon
 [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H3601-3700#H3680|He fills]] [[Lexicon/H3701-3800#H3709|His hands]] [[Lexicon/H201-300#H216|with lightning]] [[Lexicon/H6601-6700#H6680|and commands]] [[Lexicon/H5901-6000#H5921|it]] [[Lexicon/H6201-6300#H6293|to strike its Mark -.]]
 
 ##### Job 36 - 33
-[[Lexicon/H7401-7500#H7452|The thunder]] [[Lexicon/H5001-5100#H5046|declares]] [[Lexicon/H5901-6000#H5921|(His presence) ;]] [[Lexicon/H4701-4800#H4735|even the cattle]] [[Lexicon/H601-700#H637|...]] [[Lexicon/H5901-6000#H5921|regard]] [[Lexicon/H5901-6000#H5927|the rising (storm). (’’)]]
+[[Lexicon/H7401-7500#H7452|The thunder]] [[Lexicon/H5001-5100#H5046|declares]] [[Lexicon/H5901-6000#H5921|[His presence] ;]] [[Lexicon/H4701-4800#H4735|even the cattle]] [[Lexicon/H601-700#H637|...]] [[Lexicon/H5901-6000#H5921|regard]] [[Lexicon/H5901-6000#H5927|the rising [storm]. [’’]]]
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Job 25
+# Job-R 25
 
-[[Readable Bible/18 - Job/Job 24|← Job 24]] | [[Readable Bible/18 - Job/Job 26|Job 26 →]]
+**[[Home/Scripture/18 - Job|Job]]**
+
+[[Readable Bible/18 - Job/Job 24#Job-R 24| Job 24]] - [[Readable Bible/18 - Job/Job 26#Job-R 26| Job 26]]
 
 ---
 

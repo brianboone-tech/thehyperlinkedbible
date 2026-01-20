@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Timothy 5
+# 1 Timothy-R 5
 
-[[Readable Bible/54 - 1 Timothy/1 Timothy 4|← 1 Timothy 4]] | [[Readable Bible/54 - 1 Timothy/1 Timothy 6|1 Timothy 6 →]]
+**[[Home/Scripture/54 - 1 Timothy|1 Timothy]]**
+
+[[Readable Bible/54 - 1 Timothy/1 Timothy 4#1 Timothy-R 4| 1 Timothy 4]] - [[Readable Bible/54 - 1 Timothy/1 Timothy 6#1 Timothy-R 6| 1 Timothy 6]]
 
 ---
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 149 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 148 - TOSK|← Ch 148]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 150 - TOSK|Ch 150 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 148 - TOSK|← Ch 148]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 150 - TOSK|Ch 150 →]]
 
 ---
 

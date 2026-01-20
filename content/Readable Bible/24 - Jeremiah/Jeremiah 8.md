@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah 8
+# Jeremiah-R 8
 
-[[Readable Bible/24 - Jeremiah/Jeremiah 7|← Jeremiah 7]] | [[Readable Bible/24 - Jeremiah/Jeremiah 9|Jeremiah 9 →]]
+**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 7#Jeremiah-R 7| Jeremiah 7]] - [[Readable Bible/24 - Jeremiah/Jeremiah 9#Jeremiah-R 9| Jeremiah 9]]
 
 ---
 

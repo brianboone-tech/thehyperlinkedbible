@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Mark 7 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/41 - Mark|← Mark]]** | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 6 - TOSK|← Ch 6]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 8 - TOSK|Ch 8 →]]
+**[[Home/Scripture/41 - Mark|← Mark]]** | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 6 - TOSK|← Ch 6]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 8 - TOSK|Ch 8 →]]
 
 ---
 

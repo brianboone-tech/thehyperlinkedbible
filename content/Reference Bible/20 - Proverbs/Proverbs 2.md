@@ -64,7 +64,7 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1001-1100#H1004|her house]] [[Lexicon/H7701-7800#H7743|sinks down]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4101-4200#H4194|death ,]] [[Lexicon/H4501-4600#H4570|and her tracks]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H7401-7500#H7496|the departed spirits.]]
 
 ##### Proverbs 2 - 19
-[[Lexicon/H3601-3700#H3605|None]] [[Lexicon/H901-1000#H935|who go to her]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H7701-7800#H7725|return]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H5301-5400#H5381|negotiate]] [[Lexicon/H701-800#H734|the paths]] [[Lexicon/H2401-2500#H2416|of life.]]
+[[Lexicon/H3601-3700#H3605|None]] [[Lexicon/H901-1000#H935|who go to her]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H7701-7800#H7725|return]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H5301-5400#H5381|negotiate]] [[Lexicon/H701-800#H734|the paths]] [[Lexicon/H2401-2500#H2416|of life.]]
 
 ##### Proverbs 2 - 20
 [[Lexicon/H4601-4700#H4616|So]] [[Lexicon/H1901-2000#H1980|you will follow]] [[Lexicon/H1801-1900#H1870|in the ways]] [[Lexicon/H2801-2900#H2896|of the good ,]] [[Lexicon/H8101-8200#H8104|and keep to]] [[Lexicon/H701-800#H734|the paths]] [[Lexicon/H6601-6700#H6662|of the righteous.]]

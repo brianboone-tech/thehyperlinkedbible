@@ -28,7 +28,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 4|LXX]] |
 
 ##### Leviticus 6 - 5
-[[Lexicon/H101-200#H176|or]] [[Lexicon/H3601-3700#H3605|anything else]] [[Lexicon/H5901-6000#H5921|about]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H7601-7700#H7650|he has sworn]] [[Lexicon/H8201-8300#H8267|falsely.]] [[Lexicon/H7201-7300#H7218|He must make]] [[Lexicon/H7901-8000#H7999|restitution in full]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H3201-3300#H3254|add]] [[Lexicon/H2501-2600#H2549|a fifth]] [[Lexicon/H5901-6000#H5921|of the value ,]] [[Lexicon/H5401-5500#H5414|and pay it]] [[Lexicon/H801-900#H834|to the owner]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3101-3200#H3117|on the day]] [[Lexicon/H801-900#H819|(he acknowledges) his guilt.]]
+[[Lexicon/H101-200#H176|or]] [[Lexicon/H3601-3700#H3605|anything else]] [[Lexicon/H5901-6000#H5921|about]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H7601-7700#H7650|he has sworn]] [[Lexicon/H8201-8300#H8267|falsely.]] [[Lexicon/H7201-7300#H7218|He must make]] [[Lexicon/H7901-8000#H7999|restitution in full]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H3201-3300#H3254|add]] [[Lexicon/H2501-2600#H2549|a fifth]] [[Lexicon/H5901-6000#H5921|of the value ,]] [[Lexicon/H5401-5500#H5414|and pay it]] [[Lexicon/H801-900#H834|to the owner]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3101-3200#H3117|on the day]] [[Lexicon/H801-900#H819|[he acknowledges] his guilt.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 5|LXX]] |
 
 ##### Leviticus 6 - 6
@@ -44,11 +44,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 8|LXX]] |
 
 ##### Leviticus 6 - 9
-[[Lexicon/H6601-6700#H6680|“ Command]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H2001-2100#H2063|(that) this]] [[Lexicon/H8401-8500#H8451|is the law]] [[Lexicon/H5901-6000#H5930|of the burnt offering :]] [[Lexicon/H5901-6000#H5930|The burnt offering]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H5901-6000#H5921|is to remain]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H4101-4200#H4169|the hearth]] [[Lexicon/H4101-4200#H4196|of the altar]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3901-4000#H3915|night ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H1201-1300#H1242|morning ,]] [[Lexicon/H701-800#H784|and the fire]] [[Lexicon/H3301-3400#H3344|must be kept burning]] [[Lexicon/H4101-4200#H4196|on the altar]]
+[[Lexicon/H6601-6700#H6680|“ Command]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H2001-2100#H2063|[that] this]] [[Lexicon/H8401-8500#H8451|is the law]] [[Lexicon/H5901-6000#H5930|of the burnt offering :]] [[Lexicon/H5901-6000#H5930|The burnt offering]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H5901-6000#H5921|is to remain]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H4101-4200#H4169|the hearth]] [[Lexicon/H4101-4200#H4196|of the altar]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3901-4000#H3915|night ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H1201-1300#H1242|morning ,]] [[Lexicon/H701-800#H784|and the fire]] [[Lexicon/H3301-3400#H3344|must be kept burning]] [[Lexicon/H4101-4200#H4196|on the altar]]
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 9|LXX]] |
 
 ##### Leviticus 6 - 10
-[[Lexicon/H3501-3600#H3548|And the priest]] [[Lexicon/H3801-3900#H3847|shall put on]] [[Lexicon/H901-1000#H906|his linen]] [[Lexicon/H4001-4100#H4055|robe]] [[Lexicon/H901-1000#H906|and linen]] [[Lexicon/H3801-3900#H3847|...]] [[Lexicon/H4301-4400#H4370|undergarments]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H1301-1400#H1320|... ,]] [[Lexicon/H7301-7400#H7311|and he shall remove]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4101-4200#H4196|from the altar]] [[Lexicon/H1801-1900#H1880|the ashes]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5930|of the burnt offering]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H701-800#H784|that the fire]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H398|has consumed]] [[Lexicon/H7701-7800#H7760|and place them]] [[Lexicon/H601-700#H681|beside]] [[Lexicon/H4101-4200#H4196|(it).]]
+[[Lexicon/H3501-3600#H3548|And the priest]] [[Lexicon/H3801-3900#H3847|shall put on]] [[Lexicon/H901-1000#H906|his linen]] [[Lexicon/H4001-4100#H4055|robe]] [[Lexicon/H901-1000#H906|and linen]] [[Lexicon/H3801-3900#H3847|...]] [[Lexicon/H4301-4400#H4370|undergarments]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H1301-1400#H1320|... ,]] [[Lexicon/H7301-7400#H7311|and he shall remove]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4101-4200#H4196|from the altar]] [[Lexicon/H1801-1900#H1880|the ashes]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5930|of the burnt offering]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H701-800#H784|that the fire]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H398|has consumed]] [[Lexicon/H7701-7800#H7760|and place them]] [[Lexicon/H601-700#H681|beside]] [[Lexicon/H4101-4200#H4196|[it].]]
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 10|LXX]] |
 
 ##### Leviticus 6 - 11
@@ -76,7 +76,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 16|LXX]] |
 
 ##### Leviticus 6 - 17
-[[Lexicon/H3801-3900#H3808|It must not]] [[Lexicon/H601-700#H644|be baked]] [[Lexicon/H2501-2600#H2557|with leaven ;]] [[Lexicon/H5401-5500#H5414|I have assigned]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2501-2600#H2506|it as their portion]] [[Lexicon/H801-900#H801|of My offerings made by fire.]] [[Lexicon/H1901-2000#H1931|It (is)]] [[Lexicon/H6901-7000#H6944|most]] [[Lexicon/H6901-7000#H6944|holy ,]] [[Lexicon/H2401-2500#H2403|like the sin offering]] [[Lexicon/H801-900#H817|and the guilt offering.]]
+[[Lexicon/H3801-3900#H3808|It must not]] [[Lexicon/H601-700#H644|be baked]] [[Lexicon/H2501-2600#H2557|with leaven ;]] [[Lexicon/H5401-5500#H5414|I have assigned]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2501-2600#H2506|it as their portion]] [[Lexicon/H801-900#H801|of My offerings made by fire.]] [[Lexicon/H1901-2000#H1931|It [is]]] [[Lexicon/H6901-7000#H6944|most]] [[Lexicon/H6901-7000#H6944|holy ,]] [[Lexicon/H2401-2500#H2403|like the sin offering]] [[Lexicon/H801-900#H817|and the guilt offering.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 17|LXX]] |
 
 ##### Leviticus 6 - 18
@@ -108,7 +108,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 24|LXX]] |
 
 ##### Leviticus 6 - 25
-[[Lexicon/H1601-1700#H1696|“ Tell]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H2001-2100#H2063|(that) this]] [[Lexicon/H8401-8500#H8451|is the law]] [[Lexicon/H2401-2500#H2403|of the sin offering :]] [[Lexicon/H4701-4800#H4725|In the place]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H5901-6000#H5930|the burnt offering]] [[Lexicon/H7801-7900#H7819|is slaughtered ,]] [[Lexicon/H2401-2500#H2403|the sin offering]] [[Lexicon/H7801-7900#H7819|shall be slaughtered]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD ;]] [[Lexicon/H6901-7000#H6944|it (is) most]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H1901-2000#H1931|....]]
+[[Lexicon/H1601-1700#H1696|“ Tell]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H2001-2100#H2063|[that] this]] [[Lexicon/H8401-8500#H8451|is the law]] [[Lexicon/H2401-2500#H2403|of the sin offering :]] [[Lexicon/H4701-4800#H4725|In the place]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H5901-6000#H5930|the burnt offering]] [[Lexicon/H7801-7900#H7819|is slaughtered ,]] [[Lexicon/H2401-2500#H2403|the sin offering]] [[Lexicon/H7801-7900#H7819|shall be slaughtered]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD ;]] [[Lexicon/H6901-7000#H6944|it [is] most]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H1901-2000#H1931|....]]
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 25|LXX]] |
 
 ##### Leviticus 6 - 26
@@ -120,13 +120,13 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 27|LXX]] |
 
 ##### Leviticus 6 - 28
-[[Lexicon/H2701-2800#H2789|The clay]] [[Lexicon/H3601-3700#H3627|pot]] [[Lexicon/H801-900#H834|in which]] [[Lexicon/H1301-1400#H1310|(the sin offering) is boiled]] [[Lexicon/H7601-7700#H7665|must be broken ;]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H1301-1400#H1310|it is boiled]] [[Lexicon/H5101-5200#H5178|in a bronze]] [[Lexicon/H3601-3700#H3627|pot ,]] [[Lexicon/H4801-4900#H4838|(the pot) must be scoured]] [[Lexicon/H7801-7900#H7857|and rinsed]] [[Lexicon/H4301-4400#H4325|with water.]]
+[[Lexicon/H2701-2800#H2789|The clay]] [[Lexicon/H3601-3700#H3627|pot]] [[Lexicon/H801-900#H834|in which]] [[Lexicon/H1301-1400#H1310|[the sin offering] is boiled]] [[Lexicon/H7601-7700#H7665|must be broken ;]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H1301-1400#H1310|it is boiled]] [[Lexicon/H5101-5200#H5178|in a bronze]] [[Lexicon/H3601-3700#H3627|pot ,]] [[Lexicon/H4801-4900#H4838|[the pot] must be scoured]] [[Lexicon/H7801-7900#H7857|and rinsed]] [[Lexicon/H4301-4400#H4325|with water.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 28|LXX]] |
 
 ##### Leviticus 6 - 29
-[[Lexicon/H3601-3700#H3605|Any]] [[Lexicon/H2101-2200#H2145|male]] [[Lexicon/H3501-3600#H3548|among the priests]] [[Lexicon/H301-400#H398|may eat it ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1901-2000#H1931|it (is)]] [[Lexicon/H6901-7000#H6944|most]] [[Lexicon/H6901-7000#H6944|holy.]]
+[[Lexicon/H3601-3700#H3605|Any]] [[Lexicon/H2101-2200#H2145|male]] [[Lexicon/H3501-3600#H3548|among the priests]] [[Lexicon/H301-400#H398|may eat it ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1901-2000#H1931|it [is]]] [[Lexicon/H6901-7000#H6944|most]] [[Lexicon/H6901-7000#H6944|holy.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 29|LXX]] |
 
 ##### Leviticus 6 - 30
-[[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H3801-3900#H3808|But no]] [[Lexicon/H2401-2500#H2403|sin offering]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H301-400#H398|may be eaten]] [[Lexicon/H1801-1900#H1818|if its blood]] [[Lexicon/H901-1000#H935|has been brought]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H101-200#H168|the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H3701-3800#H3722|to make atonement]] [[Lexicon/H6901-7000#H6944|in the Holy Place ;]] [[Lexicon/H701-800#H784|...]] [[Lexicon/H8301-8400#H8313|it must be burned. (’’)]]
+[[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H3801-3900#H3808|But no]] [[Lexicon/H2401-2500#H2403|sin offering]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H301-400#H398|may be eaten]] [[Lexicon/H1801-1900#H1818|if its blood]] [[Lexicon/H901-1000#H935|has been brought]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H101-200#H168|the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H3701-3800#H3722|to make atonement]] [[Lexicon/H6901-7000#H6944|in the Holy Place ;]] [[Lexicon/H701-800#H784|...]] [[Lexicon/H8301-8400#H8313|it must be burned. [’’]]]
 | [[LXX Reference/3 - Leviticus/Leviticus 6#Leviticus 6 - 30|LXX]] |

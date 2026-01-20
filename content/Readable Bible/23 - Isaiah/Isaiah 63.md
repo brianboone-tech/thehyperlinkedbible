@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 63
+# Isaiah-R 63
 
-[[Readable Bible/23 - Isaiah/Isaiah 62|← Isaiah 62]] | [[Readable Bible/23 - Isaiah/Isaiah 64|Isaiah 64 →]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 62#Isaiah-R 62| Isaiah 62]] - [[Readable Bible/23 - Isaiah/Isaiah 64#Isaiah-R 64| Isaiah 64]]
 
 ---
 
 ##### Isaiah 63 . 1
-[[Reference Bible/23 - Isaiah/Isaiah 63#Isaiah 63 - 1|1]] Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is this robed in splendor, marching in the greatness of His strength? “It is I, proclaiming vindication, mighty to save.”  | | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 63 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/23 - Isaiah/Isaiah 63#Isaiah 63 - 1|1]] Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is this robed in splendor, marching in the greatness of His strength? “It is I, proclaiming vindication, mighty to save.”   || [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 63 - TOSK#Verse 1|TOSK]] |
 
 ##### Isaiah 63 . 2
 [[Reference Bible/23 - Isaiah/Isaiah 63#Isaiah 63 - 2|2]] Why are Your clothes red, and Your garments like one who treads the winepress?  | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 63 - TOSK#Verse 2|TOSK]] |

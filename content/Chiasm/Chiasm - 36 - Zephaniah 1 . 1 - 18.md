@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/36 - Zephaniah|← Zephaniah]]**
+**[[Home/Scripture/36 - Zephaniah|← Zephaniah]]**
 
 ---
 

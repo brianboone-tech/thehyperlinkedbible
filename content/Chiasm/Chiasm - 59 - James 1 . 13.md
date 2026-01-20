@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/59 - James|← James]]**
+**[[Home/Scripture/59 - James|← James]]**
 
 ---
 

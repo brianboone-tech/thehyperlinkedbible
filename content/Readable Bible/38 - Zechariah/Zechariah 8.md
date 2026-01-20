@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Zechariah 8
+# Zechariah-R 8
 
-[[Readable Bible/38 - Zechariah/Zechariah 7|← Zechariah 7]] | [[Readable Bible/38 - Zechariah/Zechariah 9|Zechariah 9 →]]
+**[[Home/Scripture/38 - Zechariah|Zechariah]]**
+
+[[Readable Bible/38 - Zechariah/Zechariah 7#Zechariah-R 7| Zechariah 7]] - [[Readable Bible/38 - Zechariah/Zechariah 9#Zechariah-R 9| Zechariah 9]]
 
 ---
 

@@ -21,11 +21,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 2|LXX]] |
 
 ##### Genesis 3 - 3
-[[Lexicon/H6501-6600#H6529|but about the fruit]] [[Lexicon/H6001-6100#H6086|of the tree]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8401-8500#H8432|in the middle]] [[Lexicon/H1501-1600#H1588|of the garden ,]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H501-600#H559|has said ,]] [[Lexicon/H3801-3900#H3808|‘ You must not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H4401-4500#H4480|of it]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H5001-5100#H5060|touch]] [[Lexicon/H6401-6500#H6435|(or)]] [[Lexicon/H4101-4200#H4191|you will die. ’”]]
+[[Lexicon/H6501-6600#H6529|but about the fruit]] [[Lexicon/H6001-6100#H6086|of the tree]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8401-8500#H8432|in the middle]] [[Lexicon/H1501-1600#H1588|of the garden ,]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H501-600#H559|has said ,]] [[Lexicon/H3801-3900#H3808|‘ You must not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H4401-4500#H4480|of it]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H5001-5100#H5060|touch]] [[Lexicon/H6401-6500#H6435|[or]]] [[Lexicon/H4101-4200#H4191|you will die. ’”]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 3|LXX]] |
 
 ##### Genesis 3 - 4
-[[Lexicon/H3801-3900#H3808|“ You will not]] [[Lexicon/H4101-4200#H4191|surely]] [[Lexicon/H4101-4200#H4191|die , ”]] [[Lexicon/H5101-5200#H5175|the serpent]] [[Lexicon/H501-600#H559|told]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H801-900#H802|(her).]]
+[[Lexicon/H3801-3900#H3808|“ You will not]] [[Lexicon/H4101-4200#H4191|surely]] [[Lexicon/H4101-4200#H4191|die , ”]] [[Lexicon/H5101-5200#H5175|the serpent]] [[Lexicon/H501-600#H559|told]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H801-900#H802|[her].]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 4|LXX]] |
 
 ##### Genesis 3 - 5
@@ -33,11 +33,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 5|LXX]] |
 
 ##### Genesis 3 - 6
-[[Lexicon/H801-900#H802|When the woman]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H6001-6100#H6086|the tree]] [[Lexicon/H2801-2900#H2896|(was) good]] [[Lexicon/H3901-4000#H3978|for food]] [[Lexicon/H3501-3600#H3588|and]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H8301-8400#H8378|pleasing]] [[Lexicon/H5801-5900#H5869|to the eyes ,]] [[Lexicon/H6001-6100#H6086|(and that it was)]] [[Lexicon/H2501-2600#H2530|desirable]] [[Lexicon/H7901-8000#H7919|for obtaining wisdom ,]] [[Lexicon/H3901-4000#H3947|she took]] [[Lexicon/H6501-6600#H6529|the fruit]] [[Lexicon/H301-400#H398|and ate it.]] [[Lexicon/H5401-5500#H5414|She also gave (some)]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H301-400#H376|to her husband]] [[Lexicon/H5901-6000#H5973|(who was) with her ,]] [[Lexicon/H301-400#H398|and he ate it.]]
+[[Lexicon/H801-900#H802|When the woman]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H6001-6100#H6086|the tree]] [[Lexicon/H2801-2900#H2896|[was] good]] [[Lexicon/H3901-4000#H3978|for food]] [[Lexicon/H3501-3600#H3588|and]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H8301-8400#H8378|pleasing]] [[Lexicon/H5801-5900#H5869|to the eyes ,]] [[Lexicon/H6001-6100#H6086|[and that it was]]] [[Lexicon/H2501-2600#H2530|desirable]] [[Lexicon/H7901-8000#H7919|for obtaining wisdom ,]] [[Lexicon/H3901-4000#H3947|she took]] [[Lexicon/H6501-6600#H6529|the fruit]] [[Lexicon/H301-400#H398|and ate it.]] [[Lexicon/H5401-5500#H5414|She also gave [some]]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H301-400#H376|to her husband]] [[Lexicon/H5901-6000#H5973|[who was] with her ,]] [[Lexicon/H301-400#H398|and he ate it.]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 6|LXX]] |
 
 ##### Genesis 3 - 7
-[[Lexicon/H5801-5900#H5869|And the eyes]] [[Lexicon/H8101-8200#H8147|of both of them]] [[Lexicon/H6401-6500#H6491|were opened ,]] [[Lexicon/H1901-2000#H1992|and they]] [[Lexicon/H3001-3100#H3045|knew]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H5901-6000#H5903|they (were) naked ;]] [[Lexicon/H8601-8674#H8609|so they sewed together]] [[Lexicon/H8301-8400#H8384|fig]] [[Lexicon/H5901-6000#H5929|leaves]] [[Lexicon/H6201-6300#H6213|and made]] [[Lexicon/H2201-2300#H2290|coverings]]
+[[Lexicon/H5801-5900#H5869|And the eyes]] [[Lexicon/H8101-8200#H8147|of both of them]] [[Lexicon/H6401-6500#H6491|were opened ,]] [[Lexicon/H1901-2000#H1992|and they]] [[Lexicon/H3001-3100#H3045|knew]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H5901-6000#H5903|they [were] naked ;]] [[Lexicon/H8601-8674#H8609|so they sewed together]] [[Lexicon/H8301-8400#H8384|fig]] [[Lexicon/H5901-6000#H5929|leaves]] [[Lexicon/H6201-6300#H6213|and made]] [[Lexicon/H2201-2300#H2290|coverings]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 7|LXX]] |
 
 ##### Genesis 3 - 8
@@ -45,23 +45,23 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 8|LXX]] |
 
 ##### Genesis 3 - 9
-[[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H7101-7200#H7121|called out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H120|the man]] [[Lexicon/H501-600#H559|-]] [[Lexicon/H301-400#H335|“ Where (are) you ? ”]]
+[[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H7101-7200#H7121|called out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H120|the man]] [[Lexicon/H501-600#H559|-]] [[Lexicon/H301-400#H335|“ Where [are] you ? ”]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 9|LXX]] |
 
 ##### Genesis 3 - 10
-[[Lexicon/H8001-8100#H8085|“ I heard]] [[Lexicon/H6901-7000#H6963|Your voice]] [[Lexicon/H1501-1600#H1588|in the garden , ”]] [[Lexicon/H501-600#H559|he replied]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H3301-3400#H3372|“ and I was afraid]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H5901-6000#H5903|(was) naked ;]] [[Lexicon/H2201-2300#H2244|so I hid myself. ”]]
+[[Lexicon/H8001-8100#H8085|“ I heard]] [[Lexicon/H6901-7000#H6963|Your voice]] [[Lexicon/H1501-1600#H1588|in the garden , ”]] [[Lexicon/H501-600#H559|he replied]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H3301-3400#H3372|“ and I was afraid]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H5901-6000#H5903|[was] naked ;]] [[Lexicon/H2201-2300#H2244|so I hid myself. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 10|LXX]] |
 
 ##### Genesis 3 - 11
-[[Lexicon/H4301-4400#H4310|“ Who]] [[Lexicon/H5001-5100#H5046|told]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H5901-6000#H5903|you (were) naked ? ”]] [[Lexicon/H501-600#H559|asked (the LORD God).]] [[Lexicon/H301-400#H398|“ Have you eaten]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H6001-6100#H6086|the tree]] [[Lexicon/H801-900#H834|of which]] [[Lexicon/H6601-6700#H6680|I commanded you]] [[Lexicon/H1101-1200#H1115|not to]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H4401-4500#H4480|- ? ”]]
+[[Lexicon/H4301-4400#H4310|“ Who]] [[Lexicon/H5001-5100#H5046|told]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H5901-6000#H5903|you [were] naked ? ”]] [[Lexicon/H501-600#H559|asked [the LORD God].]] [[Lexicon/H301-400#H398|“ Have you eaten]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H6001-6100#H6086|the tree]] [[Lexicon/H801-900#H834|of which]] [[Lexicon/H6601-6700#H6680|I commanded you]] [[Lexicon/H1101-1200#H1115|not to]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H4401-4500#H4480|- ? ”]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 11|LXX]] |
 
 ##### Genesis 3 - 12
-[[Lexicon/H101-200#H120|And the man]] [[Lexicon/H501-600#H559|answered ,]] [[Lexicon/H801-900#H802|“ The woman]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H5401-5500#H5414|You gave]] [[Lexicon/H5901-6000#H5978|me ,]] [[Lexicon/H1901-2000#H1931|she]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H4401-4500#H4480|(fruit) from]] [[Lexicon/H6001-6100#H6086|the tree ,]] [[Lexicon/H301-400#H398|and I ate it. ”]]
+[[Lexicon/H101-200#H120|And the man]] [[Lexicon/H501-600#H559|answered ,]] [[Lexicon/H801-900#H802|“ The woman]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H5401-5500#H5414|You gave]] [[Lexicon/H5901-6000#H5978|me ,]] [[Lexicon/H1901-2000#H1931|she]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H4401-4500#H4480|[fruit] from]] [[Lexicon/H6001-6100#H6086|the tree ,]] [[Lexicon/H301-400#H398|and I ate it. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 12|LXX]] |
 
 ##### Genesis 3 - 13
-[[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H801-900#H802|to the woman ,]] [[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H2001-2100#H2063|(is) this]] [[Lexicon/H6201-6300#H6213|you have done ? ”]] [[Lexicon/H5101-5200#H5175|“ The serpent]] [[Lexicon/H5301-5400#H5377|deceived me , ”]] [[Lexicon/H801-900#H802|(she)]] [[Lexicon/H501-600#H559|replied ,]] [[Lexicon/H301-400#H398|“ and I ate. ”]]
+[[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H801-900#H802|to the woman ,]] [[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H2001-2100#H2063|[is] this]] [[Lexicon/H6201-6300#H6213|you have done ? ”]] [[Lexicon/H5101-5200#H5175|“ The serpent]] [[Lexicon/H5301-5400#H5377|deceived me , ”]] [[Lexicon/H801-900#H802|[she]]] [[Lexicon/H501-600#H559|replied ,]] [[Lexicon/H301-400#H398|“ and I ate. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 13|LXX]] |
 
 ##### Genesis 3 - 14
@@ -69,15 +69,15 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 14|LXX]] |
 
 ##### Genesis 3 - 15
-[[Lexicon/H901-1000#H996|And]] [[Lexicon/H7801-7900#H7896|I will put]] [[Lexicon/H301-400#H342|enmity]] [[Lexicon/H901-1000#H996|between (you)]] [[Lexicon/H801-900#H802|and the woman ,]] [[Lexicon/H901-1000#H996|and between]] [[Lexicon/H2201-2300#H2233|your seed]] [[Lexicon/H901-1000#H996|...]] [[Lexicon/H2201-2300#H2233|and her seed.]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H7701-7800#H7779|{will} crush]] [[Lexicon/H7201-7300#H7218|your head ,]] [[Lexicon/H801-900#H859|and you]] [[Lexicon/H7701-7800#H7779|{will} strike]] [[Lexicon/H6101-6200#H6119|his heel. ”]]
+[[Lexicon/H901-1000#H996|And]] [[Lexicon/H7801-7900#H7896|I will put]] [[Lexicon/H301-400#H342|enmity]] [[Lexicon/H901-1000#H996|between [you]]] [[Lexicon/H801-900#H802|and the woman ,]] [[Lexicon/H901-1000#H996|and between]] [[Lexicon/H2201-2300#H2233|your seed]] [[Lexicon/H901-1000#H996|...]] [[Lexicon/H2201-2300#H2233|and her seed.]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H7701-7800#H7779|{will} crush]] [[Lexicon/H7201-7300#H7218|your head ,]] [[Lexicon/H801-900#H859|and you]] [[Lexicon/H7701-7800#H7779|{will} strike]] [[Lexicon/H6101-6200#H6119|his heel. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 15|LXX]] |
 
 ##### Genesis 3 - 16
-[[Lexicon/H401-500#H413|To]] [[Lexicon/H801-900#H802|the woman]] [[Lexicon/H501-600#H559|He said :]] [[Lexicon/H7201-7300#H7235|“ I will sharply]] [[Lexicon/H7201-7300#H7235|increase]] [[Lexicon/H6001-6100#H6093|your pain]] [[Lexicon/H2001-2100#H2032|in childbirth ;]] [[Lexicon/H6001-6100#H6089|in pain]] [[Lexicon/H3201-3300#H3205|you will bring forth]] [[Lexicon/H1101-1200#H1121|children.]] [[Lexicon/H8601-8674#H8669|Your desire]] [[Lexicon/H401-500#H413|(will be) for]] [[Lexicon/H301-400#H376|your husband ,]] [[Lexicon/H1901-2000#H1931|and he]] [[Lexicon/H4901-5000#H4910|will rule]]
+[[Lexicon/H401-500#H413|To]] [[Lexicon/H801-900#H802|the woman]] [[Lexicon/H501-600#H559|He said :]] [[Lexicon/H7201-7300#H7235|“ I will sharply]] [[Lexicon/H7201-7300#H7235|increase]] [[Lexicon/H6001-6100#H6093|your pain]] [[Lexicon/H2001-2100#H2032|in childbirth ;]] [[Lexicon/H6001-6100#H6089|in pain]] [[Lexicon/H3201-3300#H3205|you will bring forth]] [[Lexicon/H1101-1200#H1121|children.]] [[Lexicon/H8601-8674#H8669|Your desire]] [[Lexicon/H401-500#H413|[will be] for]] [[Lexicon/H301-400#H376|your husband ,]] [[Lexicon/H1901-2000#H1931|and he]] [[Lexicon/H4901-5000#H4910|will rule]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 16|LXX]] |
 
 ##### Genesis 3 - 17
-[[Lexicon/H101-200#H121|And to Adam]] [[Lexicon/H501-600#H559|He said :]] [[Lexicon/H3501-3600#H3588|“ Because]] [[Lexicon/H8001-8100#H8085|you have listened]] [[Lexicon/H6901-7000#H6963|to the voice]] [[Lexicon/H4401-4500#H4480|of]] [[Lexicon/H801-900#H802|your wife]] [[Lexicon/H301-400#H398|and have eaten]] [[Lexicon/H6001-6100#H6086|from the tree]] [[Lexicon/H801-900#H834|of which]] [[Lexicon/H6601-6700#H6680|I commanded]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H3801-3900#H3808|you not]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H4401-4500#H4480|- ,]] [[Lexicon/H701-800#H779|cursed]] [[Lexicon/H101-200#H127|(is) the ground]] [[Lexicon/H5601-5700#H5668|because of you ;]] [[Lexicon/H6001-6100#H6093|through toil]] [[Lexicon/H301-400#H398|you will eat (of) it]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3101-3200#H3117|the days]] [[Lexicon/H2401-2500#H2416|of your life.]]
+[[Lexicon/H101-200#H121|And to Adam]] [[Lexicon/H501-600#H559|He said :]] [[Lexicon/H3501-3600#H3588|“ Because]] [[Lexicon/H8001-8100#H8085|you have listened]] [[Lexicon/H6901-7000#H6963|to the voice]] [[Lexicon/H4401-4500#H4480|of]] [[Lexicon/H801-900#H802|your wife]] [[Lexicon/H301-400#H398|and have eaten]] [[Lexicon/H6001-6100#H6086|from the tree]] [[Lexicon/H801-900#H834|of which]] [[Lexicon/H6601-6700#H6680|I commanded]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H3801-3900#H3808|you not]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H4401-4500#H4480|- ,]] [[Lexicon/H701-800#H779|cursed]] [[Lexicon/H101-200#H127|[is] the ground]] [[Lexicon/H5601-5700#H5668|because of you ;]] [[Lexicon/H6001-6100#H6093|through toil]] [[Lexicon/H301-400#H398|you will eat [of] it]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3101-3200#H3117|the days]] [[Lexicon/H2401-2500#H2416|of your life.]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 17|LXX]] |
 
 ##### Genesis 3 - 18
@@ -85,7 +85,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 18|LXX]] |
 
 ##### Genesis 3 - 19
-[[Lexicon/H2101-2200#H2188|By the sweat]] [[Lexicon/H601-700#H639|of your brow]] [[Lexicon/H301-400#H398|you will eat]] [[Lexicon/H3801-3900#H3899|(your) bread ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H7701-7800#H7725|you return]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H127|the ground —]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H4401-4500#H4480|out of it]] [[Lexicon/H3901-4000#H3947|were you taken.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H6001-6100#H6083|dust]] [[Lexicon/H801-900#H859|you (are) ,]] [[Lexicon/H401-500#H413|and to]] [[Lexicon/H6001-6100#H6083|dust]] [[Lexicon/H7701-7800#H7725|you {shall} return. ”]]
+[[Lexicon/H2101-2200#H2188|By the sweat]] [[Lexicon/H601-700#H639|of your brow]] [[Lexicon/H301-400#H398|you will eat]] [[Lexicon/H3801-3900#H3899|[your] bread ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H7701-7800#H7725|you return]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H127|the ground —]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H4401-4500#H4480|out of it]] [[Lexicon/H3901-4000#H3947|were you taken.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H6001-6100#H6083|dust]] [[Lexicon/H801-900#H859|you [are] ,]] [[Lexicon/H401-500#H413|and to]] [[Lexicon/H6001-6100#H6083|dust]] [[Lexicon/H7701-7800#H7725|you {shall} return. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 3#Genesis 3 - 19|LXX]] |
 
 ##### Genesis 3 - 20

@@ -34,7 +34,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 20#Psalm 20 - 6|LXX]] |
 
 ##### Psalm 20 - 7
-[[Lexicon/H401-500#H428|Some]] [[Lexicon/H7301-7400#H7393|(trust) in chariots]] [[Lexicon/H401-500#H428|and others]] [[Lexicon/H5401-5500#H5483|in horses ,]] [[Lexicon/H501-600#H587|but we]] [[Lexicon/H2101-2200#H2142|trust]] [[Lexicon/H8001-8100#H8034|in the name]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H430|our God.]]
+[[Lexicon/H401-500#H428|Some]] [[Lexicon/H7301-7400#H7393|[trust] in chariots]] [[Lexicon/H401-500#H428|and others]] [[Lexicon/H5401-5500#H5483|in horses ,]] [[Lexicon/H501-600#H587|but we]] [[Lexicon/H2101-2200#H2142|trust]] [[Lexicon/H8001-8100#H8034|in the name]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H430|our God.]]
 | [[LXX Reference/19 - Psalms/Psalms 20#Psalm 20 - 7|LXX]] |
 
 ##### Psalm 20 - 8

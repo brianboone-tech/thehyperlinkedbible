@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# John 20
+# John-R 20
 
-[[Readable Bible/43 - John/John 19|← John 19]] | [[Readable Bible/43 - John/John 21|John 21 →]]
+**[[Home/Scripture/43 - John|John]]**
+
+[[Readable Bible/43 - John/John 19#John-R 19| John 19]] - [[Readable Bible/43 - John/John 21#John-R 21| John 21]]
 
 ---
 
 ##### John 20 . 1
-[[Reference Bible/43 - John/John 20#John 20 - 1|1]] Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance.  | | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 20 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/43 - John/John 20#John 20 - 1|1]] Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance.   || [[The Treasury of Scripture Knowledge/43. John TOSK/John - 20 - TOSK#Verse 1|TOSK]] |
 
 ##### John 20 . 2
 [[Reference Bible/43 - John/John 20#John 20 - 2|2]] So she came running to Simon Peter and the other disciple, the one whom Jesus loved. “They have taken the Lord out of the tomb,” she said, “and we do not know where they have put Him!”  | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 20 - TOSK#Verse 2|TOSK]] |

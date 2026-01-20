@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 19 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 20 - TOSK|Ch 20 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 20 - TOSK|Ch 20 →]]
 
 ---
 

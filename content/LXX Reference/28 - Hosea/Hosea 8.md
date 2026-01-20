@@ -12,7 +12,7 @@ Testament: Old
 ---
 
 #### Hosea 8 - 1
-[[Lexicon/G1501-1600#G1519|Into]] [[Lexicon/G2801-2900#G2859|their bosom]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1001-1100#G1093|land,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G101-200#G0105|an eagle]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G401-500#G0446|because]] [[Lexicon/G3801-3900#G3845|they violated]] [[Lexicon/G1201-1300#G1242|my covenant,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G3501-3600#G3551|my law]] [[Lexicon/G701-800#G0764|they were impious.]]
+[[Lexicon/G1501-1600#G1519|Into]] [[Lexicon/G2801-2900#G2859|their bosom]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1001-1100#G1093|land,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G101-200#G0105|an eagle]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G401-500#G0446|because]] [[Lexicon/G3801-3900#G3845|they violated]] [[Lexicon/G1201-1300#G1242|my covenant,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G3501-3600#G3551|my law]] [[Lexicon/G701-800#G0764|they were impious.]]
 
 #### Hosea 8 - 2
 [[Lexicon/G1401-1500#G1473|For me]] [[Lexicon/G2801-2900#G2896|they shall cry out,]] [[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G1001-1100#G1097|we have known]] [[Lexicon/G1401-1500#G1473|you.]]
@@ -33,7 +33,7 @@ Testament: Old
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G401-500#G0417|being destroyed by the wind]] [[Lexicon/G4601-4700#G4687|they sowed,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2692|their final end]] [[Lexicon/G1501-1600#G1551|looks out for]] [[Lexicon/G1401-1500#G1473|them;]] [[Lexicon/G1401-1500#G1403|a sheaf]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G2101-2200#G2192|having]] [[Lexicon/G2401-2500#G2479|strength]] [[Lexicon/G4101-4200#G4160|to produce]] [[Lexicon/G201-300#G0224|flour;]] [[Lexicon/G1401-1500#G1437|and if]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G4101-4200#G4160|it should produce,]] [[Lexicon/G201-300#G0245|strangers]] [[Lexicon/G2701-2800#G2719|shall devour]] [[Lexicon/G1401-1500#G1473|it.]]
 
 #### Hosea 8 - 8
-[[Lexicon/G2601-2700#G2666|Israel was swallowed down;]] [[Lexicon/G3501-3600#G3568|now]] [[Lexicon/G1001-1100#G1096|it became]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4601-4700#G4632|item]]
+[[Lexicon/G2601-2700#G2666|Israel was swallowed down;]] [[Lexicon/G3501-3600#G3568|now]] [[Lexicon/G1001-1100#G1096|it became]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4601-4700#G4632|item]]
 
 #### Hosea 8 - 9
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G301-400#G0305|ascended]] [[Lexicon/G1501-1600#G1519|unto]] Assyria; [[Lexicon/G301-400#G0330|flourished again]] [[Lexicon/G1401-1500#G1435|bribes]]

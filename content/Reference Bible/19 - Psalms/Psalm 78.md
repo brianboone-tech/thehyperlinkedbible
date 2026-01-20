@@ -22,7 +22,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 3|LXX]] |
 
 ##### Psalm 78 - 4
-[[Lexicon/H3801-3900#H3808|We will not]] [[Lexicon/H3501-3600#H3582|hide]] [[Lexicon/H1101-1200#H1121|(them) from their children ,]] [[Lexicon/H5601-5700#H5608|but will declare]] [[Lexicon/H301-400#H314|to the next]] [[Lexicon/H1701-1800#H1755|generation]] [[Lexicon/H8401-8500#H8416|the praises]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H5801-5900#H5807|and His might ,]] [[Lexicon/H6301-6400#H6381|and the wonders]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6201-6300#H6213|He has performed.]]
+[[Lexicon/H3801-3900#H3808|We will not]] [[Lexicon/H3501-3600#H3582|hide]] [[Lexicon/H1101-1200#H1121|[them] from their children ,]] [[Lexicon/H5601-5700#H5608|but will declare]] [[Lexicon/H301-400#H314|to the next]] [[Lexicon/H1701-1800#H1755|generation]] [[Lexicon/H8401-8500#H8416|the praises]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H5801-5900#H5807|and His might ,]] [[Lexicon/H6301-6400#H6381|and the wonders]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6201-6300#H6213|He has performed.]]
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 4|LXX]] |
 
 ##### Psalm 78 - 5
@@ -30,11 +30,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 5|LXX]] |
 
 ##### Psalm 78 - 6
-[[Lexicon/H4601-4700#H4616|that]] [[Lexicon/H301-400#H314|the coming]] [[Lexicon/H1701-1800#H1755|generation]] [[Lexicon/H3001-3100#H3045|would know them —]] [[Lexicon/H1101-1200#H1121|even children]] [[Lexicon/H3201-3300#H3205|yet to be born —]] [[Lexicon/H6901-7000#H6965|to arise]] [[Lexicon/H5601-5700#H5608|and tell]] [[Lexicon/H1101-1200#H1121|their (own) children]]
+[[Lexicon/H4601-4700#H4616|that]] [[Lexicon/H301-400#H314|the coming]] [[Lexicon/H1701-1800#H1755|generation]] [[Lexicon/H3001-3100#H3045|would know them —]] [[Lexicon/H1101-1200#H1121|even children]] [[Lexicon/H3201-3300#H3205|yet to be born —]] [[Lexicon/H6901-7000#H6965|to arise]] [[Lexicon/H5601-5700#H5608|and tell]] [[Lexicon/H1101-1200#H1121|their [own] children]]
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 6|LXX]] |
 
 ##### Psalm 78 - 7
-[[Lexicon/H7701-7800#H7760|that they should put]] [[Lexicon/H3601-3700#H3689|their confidence]] [[Lexicon/H401-500#H430|in God ,]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H7901-8000#H7911|forgetting]] [[Lexicon/H401-500#H410|(His)]] [[Lexicon/H4601-4700#H4611|works ,]] [[Lexicon/H5301-5400#H5341|but keeping]] [[Lexicon/H4601-4700#H4687|His commandments.]]
+[[Lexicon/H7701-7800#H7760|that they should put]] [[Lexicon/H3601-3700#H3689|their confidence]] [[Lexicon/H401-500#H430|in God ,]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H7901-8000#H7911|forgetting]] [[Lexicon/H401-500#H410|[His]]] [[Lexicon/H4601-4700#H4611|works ,]] [[Lexicon/H5301-5400#H5341|but keeping]] [[Lexicon/H4601-4700#H4687|His commandments.]]
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 7|LXX]] |
 
 ##### Psalm 78 - 8
@@ -66,7 +66,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 14|LXX]] |
 
 ##### Psalm 78 - 15
-[[Lexicon/H1201-1300#H1234|He split]] [[Lexicon/H6601-6700#H6697|the rocks]] [[Lexicon/H4001-4100#H4057|in the wilderness]] [[Lexicon/H8201-8300#H8248|and gave (them) drink]] [[Lexicon/H7201-7300#H7227|as abundant]] [[Lexicon/H8401-8500#H8415|as the seas.]]
+[[Lexicon/H1201-1300#H1234|He split]] [[Lexicon/H6601-6700#H6697|the rocks]] [[Lexicon/H4001-4100#H4057|in the wilderness]] [[Lexicon/H8201-8300#H8248|and gave [them] drink]] [[Lexicon/H7201-7300#H7227|as abundant]] [[Lexicon/H8401-8500#H8415|as the seas.]]
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 15|LXX]] |
 
 ##### Psalm 78 - 16
@@ -158,7 +158,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 37|LXX]] |
 
 ##### Psalm 78 - 38
-[[Lexicon/H1901-2000#H1931|And yet He]] [[Lexicon/H7301-7400#H7349|was compassionate ;]] [[Lexicon/H3701-3800#H3722|He forgave]] [[Lexicon/H5701-5800#H5771|(their) iniquity]] [[Lexicon/H3801-3900#H3808|and did not]] [[Lexicon/H7801-7900#H7843|destroy them.]] [[Lexicon/H7201-7300#H7235|He often]] [[Lexicon/H601-700#H639|restrained His anger]] [[Lexicon/H7701-7800#H7725|...]] [[Lexicon/H3801-3900#H3808|and did not]] [[Lexicon/H5701-5800#H5782|unleash]] [[Lexicon/H3601-3700#H3605|vvv]] [[Lexicon/H2501-2600#H2534|His full wrath.]]
+[[Lexicon/H1901-2000#H1931|And yet He]] [[Lexicon/H7301-7400#H7349|was compassionate ;]] [[Lexicon/H3701-3800#H3722|He forgave]] [[Lexicon/H5701-5800#H5771|[their] iniquity]] [[Lexicon/H3801-3900#H3808|and did not]] [[Lexicon/H7801-7900#H7843|destroy them.]] [[Lexicon/H7201-7300#H7235|He often]] [[Lexicon/H601-700#H639|restrained His anger]] [[Lexicon/H7701-7800#H7725|...]] [[Lexicon/H3801-3900#H3808|and did not]] [[Lexicon/H5701-5800#H5782|unleash]] [[Lexicon/H3601-3700#H3605|vvv]] [[Lexicon/H2501-2600#H2534|His full wrath.]]
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 38|LXX]] |
 
 ##### Psalm 78 - 39
@@ -294,5 +294,5 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 71|LXX]] |
 
 ##### Psalm 78 - 72
-[[Lexicon/H7401-7500#H7462|So (David) shepherded them]] [[Lexicon/H8501-8600#H8537|with integrity]] [[Lexicon/H3801-3900#H3824|of heart]] [[Lexicon/H5101-5200#H5148|and guided them]] [[Lexicon/H8301-8400#H8394|with skillful]] [[Lexicon/H3701-3800#H3709|hands.]]
+[[Lexicon/H7401-7500#H7462|So [David] shepherded them]] [[Lexicon/H8501-8600#H8537|with integrity]] [[Lexicon/H3801-3900#H3824|of heart]] [[Lexicon/H5101-5200#H5148|and guided them]] [[Lexicon/H8301-8400#H8394|with skillful]] [[Lexicon/H3701-3800#H3709|hands.]]
 | [[LXX Reference/19 - Psalms/Psalms 78#Psalm 78 - 72|LXX]] |

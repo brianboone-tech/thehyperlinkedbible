@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezra 1
+# Ezra-R 1
 
-[[Readable Bible/14 - 2 Chronicles/2 Chronicles 36|← 2 Chronicles 36]] | [[Readable Bible/15 - Ezra/Ezra 2|Ezra 2 →]]
+**[[Home/Scripture/15 - Ezra|Ezra]]**
+
+[[Readable Bible/14 - 2 Chronicles/2 Chronicles 36#2 Chronicles-R 36|2 Chronicles 36]] • [[Readable Bible/15 - Ezra/Ezra 2#Ezra-R 2|Ezra 2]]
 
 ---
 

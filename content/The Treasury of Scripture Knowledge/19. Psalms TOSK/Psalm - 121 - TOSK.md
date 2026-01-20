@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 121 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 120 - TOSK|← Ch 120]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 122 - TOSK|Ch 122 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 120 - TOSK|← Ch 120]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 122 - TOSK|Ch 122 →]]
 
 ---
 

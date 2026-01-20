@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]**
+**[[Home/Scripture/01 - Genesis|← Genesis]]**
 
 ---
 

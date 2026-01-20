@@ -10,13 +10,13 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 145 - 1
-[[Lexicon/H8401-8500#H8416|(A Psalm -) of praise.]] [[Lexicon/H1701-1800#H1732|Of David.]] [[Lexicon/H7301-7400#H7311|I will exalt You ,]] [[Lexicon/H401-500#H430|my God]] [[Lexicon/H4401-4500#H4428|(and) King ;]] [[Lexicon/H1201-1300#H1288|I will bless]] [[Lexicon/H8001-8100#H8034|Your name]] [[Lexicon/H5701-5800#H5769|forever]] [[Lexicon/H5701-5800#H5703|and ever.]]
+[[Lexicon/H8401-8500#H8416|[A Psalm -] of praise.]] [[Lexicon/H1701-1800#H1732|Of David.]] [[Lexicon/H7301-7400#H7311|I will exalt You ,]] [[Lexicon/H401-500#H430|my God]] [[Lexicon/H4401-4500#H4428|[and] King ;]] [[Lexicon/H1201-1300#H1288|I will bless]] [[Lexicon/H8001-8100#H8034|Your name]] [[Lexicon/H5701-5800#H5769|forever]] [[Lexicon/H5701-5800#H5703|and ever.]]
 
 ##### Psalm 145 - 2
 [[Lexicon/H3601-3700#H3605|Every]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H1201-1300#H1288|I will bless You ,]] [[Lexicon/H1901-2000#H1984|and I will praise]] [[Lexicon/H8001-8100#H8034|Your name]] [[Lexicon/H5701-5800#H5769|forever]] [[Lexicon/H5701-5800#H5703|and ever.]]
 
 ##### Psalm 145 - 3
-[[Lexicon/H1401-1500#H1419|Great]] [[Lexicon/H3001-3100#H3068|(is) the LORD]] [[Lexicon/H3901-4000#H3966|and greatly]] [[Lexicon/H1901-2000#H1984|to be praised ;]] [[Lexicon/H1401-1500#H1420|His greatness]] [[Lexicon/H301-400#H369|vvv]] [[Lexicon/H2701-2800#H2714|(is) unsearchable.]]
+[[Lexicon/H1401-1500#H1419|Great]] [[Lexicon/H3001-3100#H3068|[is] the LORD]] [[Lexicon/H3901-4000#H3966|and greatly]] [[Lexicon/H1901-2000#H1984|to be praised ;]] [[Lexicon/H1401-1500#H1420|His greatness]] [[Lexicon/H301-400#H369|vvv]] [[Lexicon/H2701-2800#H2714|[is] unsearchable.]]
 
 ##### Psalm 145 - 4
 [[Lexicon/H1701-1800#H1755|One generation]] [[Lexicon/H7601-7700#H7623|will commend]] [[Lexicon/H4601-4700#H4639|Your works]] [[Lexicon/H1701-1800#H1755|to the next ,]] [[Lexicon/H5001-5100#H5046|and will proclaim]] [[Lexicon/H1301-1400#H1369|Your mighty Acts - —]]
@@ -46,7 +46,7 @@ cssClasses: lexicon
 [[Lexicon/H3001-3100#H3045|to make known]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H101-200#H120|to men]] [[Lexicon/H1301-1400#H1369|Your mighty Acts -]] [[Lexicon/H3501-3600#H3519|and the glorious]] [[Lexicon/H1901-2000#H1926|splendor]] [[Lexicon/H4401-4500#H4438|of Your kingdom.]]
 
 ##### Psalm 145 - 13
-[[Lexicon/H4401-4500#H4438|Your kingdom]] [[Lexicon/H3601-3700#H3605|vvv]] [[Lexicon/H5701-5800#H5769|is an everlasting]] [[Lexicon/H4401-4500#H4438|kingdom ,]] [[Lexicon/H4401-4500#H4475|and Your dominion]] [[Lexicon/H3601-3700#H3605|(endures) through all]] [[Lexicon/H1701-1800#H1755|generations.]] [[Lexicon/H1701-1800#H1755|The LORD is faithful in all His words and kind in all His actions.]]
+[[Lexicon/H4401-4500#H4438|Your kingdom]] [[Lexicon/H3601-3700#H3605|vvv]] [[Lexicon/H5701-5800#H5769|is an everlasting]] [[Lexicon/H4401-4500#H4438|kingdom ,]] [[Lexicon/H4401-4500#H4475|and Your dominion]] [[Lexicon/H3601-3700#H3605|[endures] through all]] [[Lexicon/H1701-1800#H1755|generations.]] [[Lexicon/H1701-1800#H1755|The LORD is faithful in all His words and kind in all His actions.]]
 
 ##### Psalm 145 - 14
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H5501-5600#H5564|upholds]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5301-5400#H5307|who fall]] [[Lexicon/H2201-2300#H2210|and lifts up]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3701-3800#H3721|who are bowed down.]]

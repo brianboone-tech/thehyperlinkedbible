@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Numbers 18 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 17 - TOSK|← Ch 17]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 19 - TOSK|Ch 19 →]]
+**[[Home/Scripture/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 17 - TOSK|← Ch 17]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 19 - TOSK|Ch 19 →]]
 
 ---
 

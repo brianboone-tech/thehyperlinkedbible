@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Numbers 15
+# Numbers-R 15
 
-[[Readable Bible/04 - Numbers/Numbers 14|← Numbers 14]] | [[Readable Bible/04 - Numbers/Numbers 16|Numbers 16 →]]
+**[[Home/Scripture/04 - Numbers|Numbers]]**
+
+[[Readable Bible/04 - Numbers/Numbers 14#Numbers-R 14| Numbers 14]] - [[Readable Bible/04 - Numbers/Numbers 16#Numbers-R 16| Numbers 16]]
 
 ---
 

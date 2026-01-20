@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Matthew 23 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 24 - TOSK|Ch 24 →]]
+**[[Home/Scripture/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 24 - TOSK|Ch 24 →]]
 
 ---
 

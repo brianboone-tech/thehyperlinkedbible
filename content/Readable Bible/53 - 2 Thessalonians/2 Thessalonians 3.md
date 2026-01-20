@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Thessalonians 3
+# 2 Thessalonians-R 3
 
-[[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 2|← 2 Thessalonians 2]]
+**[[Home/Scripture/53 - 2 Thessalonians|2 Thessalonians]]**
+
+[[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 2#2 Thessalonians-R 2| 2 Thessalonians 2]] - [[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 4#2 Thessalonians-R 4| 2 Thessalonians 4]]
 
 ---
 

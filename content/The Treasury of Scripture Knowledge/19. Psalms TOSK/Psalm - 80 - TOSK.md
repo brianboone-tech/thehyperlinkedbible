@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 80 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 79 - TOSK|← Ch 79]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 81 - TOSK|Ch 81 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 79 - TOSK|← Ch 79]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 81 - TOSK|Ch 81 →]]
 
 ---
 

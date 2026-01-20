@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/22 - Song of Solomon|← Song of Solomon]]**
+**[[Home/Scripture/22 - Song of Solomon|← Song of Solomon]]**
 
 ---
 

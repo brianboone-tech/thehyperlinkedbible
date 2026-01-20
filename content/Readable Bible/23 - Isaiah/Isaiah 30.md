@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 30
+# Isaiah-R 30
 
-[[Readable Bible/23 - Isaiah/Isaiah 29|← Isaiah 29]] | [[Readable Bible/23 - Isaiah/Isaiah 31|Isaiah 31 →]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 29#Isaiah-R 29| Isaiah 29]] - [[Readable Bible/23 - Isaiah/Isaiah 31#Isaiah-R 31| Isaiah 31]]
 
 ---
 

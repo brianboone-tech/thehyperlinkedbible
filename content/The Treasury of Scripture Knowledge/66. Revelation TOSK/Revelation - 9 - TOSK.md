@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Revelation 9 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/66 - Revelation|← Revelation]]** | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 10 - TOSK|Ch 10 →]]
+**[[Home/Scripture/66 - Revelation|← Revelation]]** | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 10 - TOSK|Ch 10 →]]
 
 ---
 

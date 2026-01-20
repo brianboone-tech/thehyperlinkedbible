@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Hebrews 4 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/58 - Hebrews|← Hebrews]]** | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 5 - TOSK|Ch 5 →]]
+**[[Home/Scripture/58 - Hebrews|← Hebrews]]** | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 5 - TOSK|Ch 5 →]]
 
 ---
 

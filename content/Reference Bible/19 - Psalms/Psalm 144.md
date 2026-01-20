@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 144 - 1
-[[Lexicon/H1701-1800#H1732|Of David.]] [[Lexicon/H1201-1300#H1288|Blessed]] [[Lexicon/H3001-3100#H3068|(be) the LORD ,]] [[Lexicon/H6601-6700#H6697|my Rock ,]] [[Lexicon/H3901-4000#H3925|who trains]] [[Lexicon/H3001-3100#H3027|my hands]] [[Lexicon/H7101-7200#H7128|for war ,]] [[Lexicon/H601-700#H676|my fingers]] [[Lexicon/H4401-4500#H4421|for battle.]]
+[[Lexicon/H1701-1800#H1732|Of David.]] [[Lexicon/H1201-1300#H1288|Blessed]] [[Lexicon/H3001-3100#H3068|[be] the LORD ,]] [[Lexicon/H6601-6700#H6697|my Rock ,]] [[Lexicon/H3901-4000#H3925|who trains]] [[Lexicon/H3001-3100#H3027|my hands]] [[Lexicon/H7101-7200#H7128|for war ,]] [[Lexicon/H601-700#H676|my fingers]] [[Lexicon/H4401-4500#H4421|for battle.]]
 
 ##### Psalm 144 - 2
 [[Lexicon/H2601-2700#H2617|He is my steadfast love]] [[Lexicon/H4601-4700#H4686|and my fortress ,]] [[Lexicon/H4801-4900#H4869|my stronghold]] [[Lexicon/H6401-6500#H6403|and my deliverer]] [[Lexicon/H4001-4100#H4043|He is my shield]] [[Lexicon/H2601-2700#H2620|in whom I take refuge ,]] [[Lexicon/H7201-7300#H7286|who subdues]] [[Lexicon/H5901-6000#H5971|peoples]] [[Lexicon/H8401-8500#H8478|under me.]]

@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/41 - Mark|← Mark]]**
+**[[Home/Scripture/41 - Mark|← Mark]]**
 
 ---
 

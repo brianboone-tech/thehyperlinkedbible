@@ -18,7 +18,7 @@ title: The Hyperlinked Bible
 
 The Hyperlinked Bible exists to help you **see what Jesus showed His disciples on the road to Emmaus**:
 
-*"And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself."* — Luke 24:27
+> *"And beginning with Moses and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself."* — Luke 24:27
 
 The Bible is not 66 disconnected books—it is **one unified Story** with one divine Author, progressively revealing God's redemptive plan from Genesis to Revelation, with Jesus Christ as its climax and fulfillment.
 
@@ -32,31 +32,4 @@ Every feature of The Hyperlinked Bible serves one purpose: **helping you read Sc
 
 ---
 
-## Start Here
-
-> [!tip] The Readable Bible is the heart of this site
-
-| | |
-|---|---|
-| **[[Readable Bible/01 - Genesis/Genesis 1\|Start Reading]]** | Begin at Genesis 1 with inline cross-references |
-| **[[Home/01 - Getting Started\|Getting Started]]** | Learn how to use the site |
-| **[[Home/08 - Scripture Index\|Scripture Index]]** | Browse all 66 books with detailed resources |
-
----
-
-## Quick Access
-
-| Start at the Beginning | Start with Christ |
-|:----------------------:|:-----------------:|
-| [[Readable Bible/01 - Genesis/Genesis 1\|Genesis 1]] | [[Readable Bible/43 - John/John 1\|John 1]] |
-
----
-
-## Explore Resources
-
-| Resource | What You'll Find |
-|----------|------------------|
-| [[Home/Indexes/Trajectory Tables Index\|Trajectory Tables]] | 126 typological studies from OT to NT |
-| [[Home/Indexes/Chiasm Index\|Chiasms]] | 1,732 literary structures |
-| [[Home/Indexes/Intertextuality Pairs Index\|Intertextuality Pairs]] | 2,587 cross-references |
-| [[Home/Indexes/TOSK Index\|Treasury of Scripture Knowledge]] | 500,000+ classic cross-references |
+[[Home/02 - Home - Roadmap|Next: Roadmap →]]

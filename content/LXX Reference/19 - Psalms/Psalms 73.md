@@ -12,7 +12,7 @@ Testament: Old
 ---
 
 #### Psalms 73 - 1
-[[Lexicon/G5601-5624#G5613|O how]] [[Lexicon/G1-100#G0018|good]] Israel, [[Lexicon/G3501-3600#G3588|to the ones]] [[Lexicon/G2101-2200#G2117|straight]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G2501-2600#G2588|heart.]]
+[[Lexicon/G5601-5700#G5613|O how]] [[Lexicon/G1-100#G0018|good]] Israel, [[Lexicon/G3501-3600#G3588|to the ones]] [[Lexicon/G2101-2200#G2117|straight]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G2501-2600#G2588|heart.]]
 
 #### Psalms 73 - 2
 [[Lexicon/G1401-1500#G1473|But my]] [[Lexicon/G3801-3900#G3844|were a little]] [[Lexicon/G3801-3900#G3844|a little]]
@@ -69,7 +69,7 @@ Testament: Old
 [[Lexicon/G4401-4500#G4459|O how]] [[Lexicon/G1001-1100#G1096|they became]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2001-2100#G2050|desolation.]] [[Lexicon/G1801-1900#G1819|Suddenly]] [[Lexicon/G1501-1600#G1587|they failed;]] [[Lexicon/G601-700#G0622|they were destroyed]] [[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G401-500#G0458|their lawlessness.]]
 
 #### Psalms 73 - 20
-[[Lexicon/G5601-5624#G5616|As]] [[Lexicon/G1701-1800#G1798|a dream]] [[Lexicon/G1801-1900#G1825|of one awakening,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4172|your city,]] [[Lexicon/G1501-1600#G1504|their image]]
+[[Lexicon/G5601-5700#G5616|As]] [[Lexicon/G1701-1800#G1798|a dream]] [[Lexicon/G1801-1900#G1825|of one awakening,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4172|your city,]] [[Lexicon/G1501-1600#G1504|their image]]
 
 #### Psalms 73 - 21
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1501-1600#G1572|was kindled]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3510|my kidneys]] [[Lexicon/G201-300#G0241|were changed.]]

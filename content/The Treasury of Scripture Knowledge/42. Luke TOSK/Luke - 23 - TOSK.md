@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Luke 23 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 24 - TOSK|Ch 24 →]]
+**[[Home/Scripture/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 24 - TOSK|Ch 24 →]]
 
 ---
 

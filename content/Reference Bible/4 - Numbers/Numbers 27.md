@@ -89,7 +89,7 @@ Chapter: "27"
 | [[LXX Reference/4 - Numbers/Numbers 27#Numbers 27 - 19|LXX]] |
 
 ##### Numbers 27 - 20
-[[Lexicon/H5401-5500#H5414|Confer]] [[Lexicon/H5901-6000#H5921|on him]] [[Lexicon/H1901-2000#H1935|(some of) your authority ,]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H8001-8100#H8085|will obey him.]]
+[[Lexicon/H5401-5500#H5414|Confer]] [[Lexicon/H5901-6000#H5921|on him]] [[Lexicon/H1901-2000#H1935|[some of] your authority ,]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H8001-8100#H8085|will obey him.]]
 | [[LXX Reference/4 - Numbers/Numbers 27#Numbers 27 - 20|LXX]] |
 
 ##### Numbers 27 - 21

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Leviticus 14 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 15 - TOSK|Ch 15 →]]
+**[[Home/Scripture/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 15 - TOSK|Ch 15 →]]
 
 ---
 

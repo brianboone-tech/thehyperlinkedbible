@@ -49,7 +49,7 @@ Chapter: "8"
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 9|LXX]] |
 
 ##### Exodus 8 - 10
-[[Lexicon/H4201-4300#H4279|“ Tomorrow , ”]] [[Lexicon/H501-600#H559|(Pharaoh) answered.]] [[Lexicon/H1601-1700#H1697|“ (May it be) as you say , ”]] [[Lexicon/H501-600#H559|Moses replied ,]] [[Lexicon/H4601-4700#H4616|“ so that]] [[Lexicon/H3001-3100#H3045|you may know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H301-400#H369|there is no one]] [[Lexicon/H3001-3100#H3068|like the LORD]] [[Lexicon/H401-500#H430|our God.]]
+[[Lexicon/H4201-4300#H4279|“ Tomorrow , ”]] [[Lexicon/H501-600#H559|[Pharaoh] answered.]] [[Lexicon/H1601-1700#H1697|“ [May it be] as you say , ”]] [[Lexicon/H501-600#H559|Moses replied ,]] [[Lexicon/H4601-4700#H4616|“ so that]] [[Lexicon/H3001-3100#H3045|you may know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H301-400#H369|there is no one]] [[Lexicon/H3001-3100#H3068|like the LORD]] [[Lexicon/H401-500#H430|our God.]]
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 10|LXX]] |
 
 ##### Exodus 8 - 11
@@ -69,7 +69,7 @@ Chapter: "8"
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 14|LXX]] |
 
 ##### Exodus 8 - 15
-[[Lexicon/H6501-6600#H6547|When Pharaoh]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H7101-7200#H7200|saw that]] [[Lexicon/H1901-2000#H1961|there was]] [[Lexicon/H7301-7400#H7309|relief, however ,]] [[Lexicon/H3501-3600#H3513|he hardened]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3820|his heart]] [[Lexicon/H3801-3900#H3808|and would not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H401-500#H413|to (Moses and Aaron) ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|had said.]]
+[[Lexicon/H6501-6600#H6547|When Pharaoh]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H7101-7200#H7200|saw that]] [[Lexicon/H1901-2000#H1961|there was]] [[Lexicon/H7301-7400#H7309|relief, however ,]] [[Lexicon/H3501-3600#H3513|he hardened]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3820|his heart]] [[Lexicon/H3801-3900#H3808|and would not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H401-500#H413|to [Moses and Aaron] ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|had said.]]
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 15|LXX]] |
 
 ##### Exodus 8 - 16
@@ -93,11 +93,11 @@ Chapter: "8"
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 20|LXX]] |
 
 ##### Exodus 8 - 21
-[[Lexicon/H3501-3600#H3588|But]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H301-400#H369|you will not]] [[Lexicon/H5901-6000#H5971|let My people]] [[Lexicon/H2001-2100#H2005|...]] [[Lexicon/H7901-8000#H7971|go ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|I will send]] [[Lexicon/H6101-6200#H6157|swarms (of flies)]] [[Lexicon/H5601-5700#H5650|and your officials]] [[Lexicon/H5901-6000#H5971|and your people]] [[Lexicon/H1001-1100#H1004|and your houses.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1001-1100#H1004|The houses]] [[Lexicon/H4701-4800#H4713|of the Egyptians]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1501-1600#H1571|and even]] [[Lexicon/H101-200#H127|the ground]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1992|where they (stand)]] [[Lexicon/H4301-4400#H4390|will be full]] [[Lexicon/H6101-6200#H6157|of flies]] [[Lexicon/H5901-6000#H5921|....]]
+[[Lexicon/H3501-3600#H3588|But]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H301-400#H369|you will not]] [[Lexicon/H5901-6000#H5971|let My people]] [[Lexicon/H2001-2100#H2005|...]] [[Lexicon/H7901-8000#H7971|go ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|I will send]] [[Lexicon/H6101-6200#H6157|swarms [of flies]]] [[Lexicon/H5601-5700#H5650|and your officials]] [[Lexicon/H5901-6000#H5971|and your people]] [[Lexicon/H1001-1100#H1004|and your houses.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1001-1100#H1004|The houses]] [[Lexicon/H4701-4800#H4713|of the Egyptians]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1501-1600#H1571|and even]] [[Lexicon/H101-200#H127|the ground]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1992|where they [stand]]] [[Lexicon/H4301-4400#H4390|will be full]] [[Lexicon/H6101-6200#H6157|of flies]] [[Lexicon/H5901-6000#H5921|....]]
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 21|LXX]] |
 
 ##### Exodus 8 - 22
-[[Lexicon/H1901-2000#H1931|But on that]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6301-6400#H6395|I will give special treatment]] [[Lexicon/H701-800#H776|to the land]] [[Lexicon/H1601-1700#H1657|of Goshen ,]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H5901-6000#H5971|My people]] [[Lexicon/H5901-6000#H5975|live ;]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H1101-1200#H1115|no]] [[Lexicon/H6101-6200#H6157|swarms (of flies)]] [[Lexicon/H1901-2000#H1961|will be (found)]] [[Lexicon/H8001-8100#H8033|there.]] [[Lexicon/H4601-4700#H4616|In this way]] [[Lexicon/H3001-3100#H3045|you will know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H501-600#H589|I ,]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H7101-7200#H7130|am in]] [[Lexicon/H701-800#H776|the land.]]
+[[Lexicon/H1901-2000#H1931|But on that]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6301-6400#H6395|I will give special treatment]] [[Lexicon/H701-800#H776|to the land]] [[Lexicon/H1601-1700#H1657|of Goshen ,]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H5901-6000#H5971|My people]] [[Lexicon/H5901-6000#H5975|live ;]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H1101-1200#H1115|no]] [[Lexicon/H6101-6200#H6157|swarms [of flies]]] [[Lexicon/H1901-2000#H1961|will be [found]]] [[Lexicon/H8001-8100#H8033|there.]] [[Lexicon/H4601-4700#H4616|In this way]] [[Lexicon/H3001-3100#H3045|you will know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H501-600#H589|I ,]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H7101-7200#H7130|am in]] [[Lexicon/H701-800#H776|the land.]]
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 22|LXX]] |
 
 ##### Exodus 8 - 23
@@ -105,7 +105,7 @@ Chapter: "8"
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 23|LXX]] |
 
 ##### Exodus 8 - 24
-[[Lexicon/H3001-3100#H3068|And the LORD]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3601-3700#H3651|so.]] [[Lexicon/H3501-3600#H3515|Thick]] [[Lexicon/H6101-6200#H6157|swarms (of flies)]] [[Lexicon/H901-1000#H935|poured]] [[Lexicon/H6501-6600#H6547|into Pharaoh’s]] [[Lexicon/H1001-1100#H1004|palace]] [[Lexicon/H1001-1100#H1004|and into the houses]] [[Lexicon/H5601-5700#H5650|of his officials.]] [[Lexicon/H3601-3700#H3605|Throughout]] [[Lexicon/H4701-4800#H4714|Egypt]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H7801-7900#H7843|was ruined]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H6401-6500#H6440|by]] [[Lexicon/H6101-6200#H6157|swarms (of flies).]]
+[[Lexicon/H3001-3100#H3068|And the LORD]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3601-3700#H3651|so.]] [[Lexicon/H3501-3600#H3515|Thick]] [[Lexicon/H6101-6200#H6157|swarms [of flies]]] [[Lexicon/H901-1000#H935|poured]] [[Lexicon/H6501-6600#H6547|into Pharaoh’s]] [[Lexicon/H1001-1100#H1004|palace]] [[Lexicon/H1001-1100#H1004|and into the houses]] [[Lexicon/H5601-5700#H5650|of his officials.]] [[Lexicon/H3601-3700#H3605|Throughout]] [[Lexicon/H4701-4800#H4714|Egypt]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H7801-7900#H7843|was ruined]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H6401-6500#H6440|by]] [[Lexicon/H6101-6200#H6157|swarms [of flies].]]
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 24|LXX]] |
 
 ##### Exodus 8 - 25
@@ -125,7 +125,7 @@ Chapter: "8"
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 28|LXX]] |
 
 ##### Exodus 8 - 29
-[[Lexicon/H501-600#H595|“ As soon as I]] [[Lexicon/H3301-3400#H3318|leave you , ”]] [[Lexicon/H5901-6000#H5973|...]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H6201-6300#H6279|“ I will pray]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H4201-4300#H4279|so that tomorrow]] [[Lexicon/H6101-6200#H6157|the swarms (of flies)]] [[Lexicon/H5401-5500#H5493|will depart]] [[Lexicon/H6501-6600#H6547|from Pharaoh]] [[Lexicon/H5601-5700#H5650|and his officials]] [[Lexicon/H5901-6000#H5971|and his people.]] [[Lexicon/H7501-7600#H7535|But]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H401-500#H408|must not]] [[Lexicon/H2001-2100#H2048|act deceitfully]] [[Lexicon/H3201-3300#H3254|again]] [[Lexicon/H1101-1200#H1115|by refusing]] [[Lexicon/H5901-6000#H5971|to let the people]] [[Lexicon/H7901-8000#H7971|go]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2076|and sacrifice]] [[Lexicon/H3001-3100#H3068|to the LORD. ”]]
+[[Lexicon/H501-600#H595|“ As soon as I]] [[Lexicon/H3301-3400#H3318|leave you , ”]] [[Lexicon/H5901-6000#H5973|...]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H6201-6300#H6279|“ I will pray]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H4201-4300#H4279|so that tomorrow]] [[Lexicon/H6101-6200#H6157|the swarms [of flies]]] [[Lexicon/H5401-5500#H5493|will depart]] [[Lexicon/H6501-6600#H6547|from Pharaoh]] [[Lexicon/H5601-5700#H5650|and his officials]] [[Lexicon/H5901-6000#H5971|and his people.]] [[Lexicon/H7501-7600#H7535|But]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H401-500#H408|must not]] [[Lexicon/H2001-2100#H2048|act deceitfully]] [[Lexicon/H3201-3300#H3254|again]] [[Lexicon/H1101-1200#H1115|by refusing]] [[Lexicon/H5901-6000#H5971|to let the people]] [[Lexicon/H7901-8000#H7971|go]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2076|and sacrifice]] [[Lexicon/H3001-3100#H3068|to the LORD. ”]]
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 29|LXX]] |
 
 ##### Exodus 8 - 30
@@ -133,7 +133,7 @@ Chapter: "8"
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 30|LXX]] |
 
 ##### Exodus 8 - 31
-[[Lexicon/H3001-3100#H3068|and the LORD]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H4801-4900#H4872|as Moses]] [[Lexicon/H1601-1700#H1697|requested.]] [[Lexicon/H5401-5500#H5493|He removed]] [[Lexicon/H6101-6200#H6157|the swarms (of flies)]] [[Lexicon/H6501-6600#H6547|from Pharaoh]] [[Lexicon/H5601-5700#H5650|and his officials]] [[Lexicon/H5901-6000#H5971|and his people ;]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H201-300#H259|one (fly)]] [[Lexicon/H7601-7700#H7604|remained.]]
+[[Lexicon/H3001-3100#H3068|and the LORD]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H4801-4900#H4872|as Moses]] [[Lexicon/H1601-1700#H1697|requested.]] [[Lexicon/H5401-5500#H5493|He removed]] [[Lexicon/H6101-6200#H6157|the swarms [of flies]]] [[Lexicon/H6501-6600#H6547|from Pharaoh]] [[Lexicon/H5601-5700#H5650|and his officials]] [[Lexicon/H5901-6000#H5971|and his people ;]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H201-300#H259|one [fly]]] [[Lexicon/H7601-7700#H7604|remained.]]
 | [[LXX Reference/2 - Exodus/Exodus 8#Exodus 8 - 31|LXX]] |
 
 ##### Exodus 8 - 32

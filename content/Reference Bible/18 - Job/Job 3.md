@@ -10,16 +10,16 @@ cssClasses: lexicon
 ---
 
 ##### Job 3 - 1
-[[Lexicon/H301-400#H310|After]] [[Lexicon/H3601-3700#H3651|this ,]] [[Lexicon/H301-400#H347|Job -]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6605|opened]] [[Lexicon/H6301-6400#H6310|his mouth]] [[Lexicon/H7001-7100#H7043|and cursed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3117|the day of his (birth).]]
+[[Lexicon/H301-400#H310|After]] [[Lexicon/H3601-3700#H3651|this ,]] [[Lexicon/H301-400#H347|Job -]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6605|opened]] [[Lexicon/H6301-6400#H6310|his mouth]] [[Lexicon/H7001-7100#H7043|and cursed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3117|the day of his [birth].]]
 
 ##### Job 3 - 2
-[[Lexicon/H6001-6100#H6030|And (this is what)]] [[Lexicon/H301-400#H347|(he)]] [[Lexicon/H501-600#H559|said :]]
+[[Lexicon/H6001-6100#H6030|And [this is what]]] [[Lexicon/H301-400#H347|[he]]] [[Lexicon/H501-600#H559|said :]]
 
 ##### Job 3 - 3
 [[Lexicon/H3101-3200#H3117|“ May the day]] [[Lexicon/H3201-3300#H3205|of my birth]] [[Lexicon/H1-100#H6|perish ,]] [[Lexicon/H3901-4000#H3915|and the night]] [[Lexicon/H501-600#H559|it was said ,]] [[Lexicon/H1301-1400#H1397|‘ A boy]] [[Lexicon/H2001-2100#H2029|is conceived. ’]]
 
 ##### Job 3 - 4
-[[Lexicon/H1901-2000#H1931|If only that]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H1901-2000#H1961|had turned]] [[Lexicon/H2801-2900#H2822|to darkness !]] [[Lexicon/H401-500#H433|May God]] [[Lexicon/H4601-4700#H4605|above]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H401-500#H408|vvv]] [[Lexicon/H1801-1900#H1875|disregard it ;]] [[Lexicon/H5101-5200#H5105|(may no) light]] [[Lexicon/H3301-3400#H3313|shine]] [[Lexicon/H5901-6000#H5921|upon it.]]
+[[Lexicon/H1901-2000#H1931|If only that]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H1901-2000#H1961|had turned]] [[Lexicon/H2801-2900#H2822|to darkness !]] [[Lexicon/H401-500#H433|May God]] [[Lexicon/H4601-4700#H4605|above]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H401-500#H408|vvv]] [[Lexicon/H1801-1900#H1875|disregard it ;]] [[Lexicon/H5101-5200#H5105|[may no] light]] [[Lexicon/H3301-3400#H3313|shine]] [[Lexicon/H5901-6000#H5921|upon it.]]
 
 ##### Job 3 - 5
 [[Lexicon/H2801-2900#H2822|May darkness]] [[Lexicon/H6701-6800#H6757|and gloom]] [[Lexicon/H1301-1400#H1350|reclaim it ,]] [[Lexicon/H6001-6100#H6053|and a cloud]] [[Lexicon/H7901-8000#H7931|settle]] [[Lexicon/H5901-6000#H5921|over it ;]] [[Lexicon/H3601-3700#H3650|may the blackness]] [[Lexicon/H3101-3200#H3117|of the day]] [[Lexicon/H1201-1300#H1204|overwhelm it.]]
@@ -43,7 +43,7 @@ cssClasses: lexicon
 [[Lexicon/H4001-4100#H4100|Why]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H4101-4200#H4191|did I not perish]] [[Lexicon/H7301-7400#H7358|at birth ;]] [[Lexicon/H1401-1500#H1478|why did I not die]] [[Lexicon/H3301-3400#H3318|as I came]] [[Lexicon/H901-1000#H990|from the womb ?]]
 
 ##### Job 3 - 12
-[[Lexicon/H4001-4100#H4069|Why]] [[Lexicon/H1201-1300#H1290|were there knees]] [[Lexicon/H6901-7000#H6923|to receive me ,]] [[Lexicon/H4001-4100#H4100|(and)]] [[Lexicon/H7601-7700#H7699|breasts]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3201-3300#H3243|I should be nursed ?]]
+[[Lexicon/H4001-4100#H4069|Why]] [[Lexicon/H1201-1300#H1290|were there knees]] [[Lexicon/H6901-7000#H6923|to receive me ,]] [[Lexicon/H4001-4100#H4100|[and]]] [[Lexicon/H7601-7700#H7699|breasts]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3201-3300#H3243|I should be nursed ?]]
 
 ##### Job 3 - 13
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H6201-6300#H6258|now]] [[Lexicon/H7901-8000#H7901|I would be lying down]] [[Lexicon/H8201-8300#H8252|in peace ;]] [[Lexicon/H3401-3500#H3462|I would be asleep]] [[Lexicon/H201-300#H227|and]] [[Lexicon/H5101-5200#H5117|at rest]]

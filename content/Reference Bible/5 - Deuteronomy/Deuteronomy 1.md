@@ -16,7 +16,7 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 1|LXX]] |
 
 ##### Deuteronomy 1 - 2
-[[Lexicon/H201-300#H259|It is an eleven-day]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H2701-2800#H2722|(journey) from Horeb]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H6901-7000#H6947|vvv]] [[Lexicon/H6901-7000#H6947|Kadesh-barnea]] [[Lexicon/H1801-1900#H1870|by way]] [[Lexicon/H2001-2100#H2022|of Mount]] [[Lexicon/H8101-8200#H8165|Seir.]]
+[[Lexicon/H201-300#H259|It is an eleven-day]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H2701-2800#H2722|[journey] from Horeb]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H6901-7000#H6947|vvv]] [[Lexicon/H6901-7000#H6947|Kadesh-barnea]] [[Lexicon/H1801-1900#H1870|by way]] [[Lexicon/H2001-2100#H2022|of Mount]] [[Lexicon/H8101-8200#H8165|Seir.]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 2|LXX]] |
 
 ##### Deuteronomy 1 - 3
@@ -24,7 +24,7 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 3|LXX]] |
 
 ##### Deuteronomy 1 - 4
-[[Lexicon/H301-400#H310|This was after]] [[Lexicon/H5201-5300#H5221|he had defeated]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5501-5600#H5511|Sihon]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H501-600#H567|of the Amorites ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H2801-2900#H2809|in Heshbon ,]] [[Lexicon/H801-900#H853|and then]] [[Lexicon/H101-200#H154|at Edrei (had defeated)]] [[Lexicon/H5701-5800#H5747|Og]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H1301-1400#H1316|of Bashan ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H6201-6300#H6252|in Ashtaroth.]]
+[[Lexicon/H301-400#H310|This was after]] [[Lexicon/H5201-5300#H5221|he had defeated]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5501-5600#H5511|Sihon]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H501-600#H567|of the Amorites ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H2801-2900#H2809|in Heshbon ,]] [[Lexicon/H801-900#H853|and then]] [[Lexicon/H101-200#H154|at Edrei [had defeated]]] [[Lexicon/H5701-5800#H5747|Og]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H1301-1400#H1316|of Bashan ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H6201-6300#H6252|in Ashtaroth.]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 4|LXX]] |
 
 ##### Deuteronomy 1 - 5
@@ -36,7 +36,7 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 6|LXX]] |
 
 ##### Deuteronomy 1 - 7
-[[Lexicon/H6401-6500#H6437|Resume]] [[Lexicon/H5201-5300#H5265|your journey]] [[Lexicon/H901-1000#H935|and go]] [[Lexicon/H2001-2100#H2022|to the hill country]] [[Lexicon/H501-600#H567|of the Amorites ;]] [[Lexicon/H401-500#H413|(go) to]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H7901-8000#H7934|the neighboring peoples]] [[Lexicon/H6101-6200#H6160|in the Arabah ,]] [[Lexicon/H2001-2100#H2022|in the hill country ,]] [[Lexicon/H8201-8300#H8219|in the foothills ,]] [[Lexicon/H5001-5100#H5045|in the Negev ,]] [[Lexicon/H3201-3300#H3220|and along the seacoast]] [[Lexicon/H2301-2400#H2348|...]] [[Lexicon/H701-800#H776|to the land]] [[Lexicon/H3601-3700#H3669|of the Canaanites]] [[Lexicon/H3801-3900#H3844|and to Lebanon ,]] [[Lexicon/H5701-5800#H5704|as far as]] [[Lexicon/H1401-1500#H1419|the great]] [[Lexicon/H5101-5200#H5104|River]] [[Lexicon/H5101-5200#H5104|-]] [[Lexicon/H6501-6600#H6578|Euphrates.]]
+[[Lexicon/H6401-6500#H6437|Resume]] [[Lexicon/H5201-5300#H5265|your journey]] [[Lexicon/H901-1000#H935|and go]] [[Lexicon/H2001-2100#H2022|to the hill country]] [[Lexicon/H501-600#H567|of the Amorites ;]] [[Lexicon/H401-500#H413|[go] to]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H7901-8000#H7934|the neighboring peoples]] [[Lexicon/H6101-6200#H6160|in the Arabah ,]] [[Lexicon/H2001-2100#H2022|in the hill country ,]] [[Lexicon/H8201-8300#H8219|in the foothills ,]] [[Lexicon/H5001-5100#H5045|in the Negev ,]] [[Lexicon/H3201-3300#H3220|and along the seacoast]] [[Lexicon/H2301-2400#H2348|...]] [[Lexicon/H701-800#H776|to the land]] [[Lexicon/H3601-3700#H3669|of the Canaanites]] [[Lexicon/H3801-3900#H3844|and to Lebanon ,]] [[Lexicon/H5701-5800#H5704|as far as]] [[Lexicon/H1401-1500#H1419|the great]] [[Lexicon/H5101-5200#H5104|River]] [[Lexicon/H5101-5200#H5104|-]] [[Lexicon/H6501-6600#H6578|Euphrates.]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 7|LXX]] |
 
 ##### Deuteronomy 1 - 8
@@ -76,7 +76,7 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 16|LXX]] |
 
 ##### Deuteronomy 1 - 17
-[[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H5201-5300#H5234|Show no partiality]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H4901-5000#H4941|in judging ;]] [[Lexicon/H8001-8100#H8085|hear]] [[Lexicon/H6901-7000#H6996|(both) small]] [[Lexicon/H1401-1500#H1419|and great alike.]] [[Lexicon/H3801-3900#H3808|Do not]] [[Lexicon/H1401-1500#H1481|be intimidated]] [[Lexicon/H6401-6500#H6440|by]] [[Lexicon/H301-400#H376|anyone ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H4901-5000#H4941|judgment]] [[Lexicon/H401-500#H430|belongs to God.]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H7101-7200#H7126|And bring]] [[Lexicon/H401-500#H413|to me]] [[Lexicon/H1601-1700#H1697|any case]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7185|too difficult]] [[Lexicon/H8001-8100#H8085|and I will hear it. ”]]
+[[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H5201-5300#H5234|Show no partiality]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H4901-5000#H4941|in judging ;]] [[Lexicon/H8001-8100#H8085|hear]] [[Lexicon/H6901-7000#H6996|[both] small]] [[Lexicon/H1401-1500#H1419|and great alike.]] [[Lexicon/H3801-3900#H3808|Do not]] [[Lexicon/H1401-1500#H1481|be intimidated]] [[Lexicon/H6401-6500#H6440|by]] [[Lexicon/H301-400#H376|anyone ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H4901-5000#H4941|judgment]] [[Lexicon/H401-500#H430|belongs to God.]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H7101-7200#H7126|And bring]] [[Lexicon/H401-500#H413|to me]] [[Lexicon/H1601-1700#H1697|any case]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7185|too difficult]] [[Lexicon/H8001-8100#H8085|and I will hear it. ”]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 17|LXX]] |
 
 ##### Deuteronomy 1 - 18
@@ -104,7 +104,7 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 23|LXX]] |
 
 ##### Deuteronomy 1 - 24
-[[Lexicon/H6401-6500#H6437|They left]] [[Lexicon/H5901-6000#H5927|and went up]] [[Lexicon/H2001-2100#H2022|into the hill country ,]] [[Lexicon/H901-1000#H935|and came]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H5101-5200#H5158|the Valley]] [[Lexicon/H801-900#H812|of Eshcol]] [[Lexicon/H7201-7300#H7270|and spied out (the land)]] [[Lexicon/H801-900#H853|-.]]
+[[Lexicon/H6401-6500#H6437|They left]] [[Lexicon/H5901-6000#H5927|and went up]] [[Lexicon/H2001-2100#H2022|into the hill country ,]] [[Lexicon/H901-1000#H935|and came]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H5101-5200#H5158|the Valley]] [[Lexicon/H801-900#H812|of Eshcol]] [[Lexicon/H7201-7300#H7270|and spied out [the land]]] [[Lexicon/H801-900#H853|-.]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 24|LXX]] |
 
 ##### Deuteronomy 1 - 25
@@ -132,7 +132,7 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 30|LXX]] |
 
 ##### Deuteronomy 1 - 31
-[[Lexicon/H7101-7200#H7200|(and)]] [[Lexicon/H4001-4100#H4057|in the wilderness ,]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5301-5400#H5375|carried you ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5375|carries]] [[Lexicon/H1101-1200#H1121|his son ,]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1801-1900#H1870|the way]] [[Lexicon/H801-900#H834|by which]] [[Lexicon/H1901-2000#H1980|you traveled]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H901-1000#H935|you reached]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H4701-4800#H4725|place. ”]]
+[[Lexicon/H7101-7200#H7200|[and]]] [[Lexicon/H4001-4100#H4057|in the wilderness ,]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5301-5400#H5375|carried you ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5375|carries]] [[Lexicon/H1101-1200#H1121|his son ,]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1801-1900#H1870|the way]] [[Lexicon/H801-900#H834|by which]] [[Lexicon/H1901-2000#H1980|you traveled]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H901-1000#H935|you reached]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H4701-4800#H4725|place. ”]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 31|LXX]] |
 
 ##### Deuteronomy 1 - 32
@@ -140,7 +140,7 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 32|LXX]] |
 
 ##### Deuteronomy 1 - 33
-[[Lexicon/H1901-2000#H1980|who went]] [[Lexicon/H6401-6500#H6440|before you]] [[Lexicon/H1801-1900#H1870|on the journey ,]] [[Lexicon/H701-800#H784|in the fire]] [[Lexicon/H3901-4000#H3915|by night]] [[Lexicon/H6001-6100#H6051|and in the cloud]] [[Lexicon/H3101-3200#H3119|by day ,]] [[Lexicon/H8401-8500#H8446|to seek out]] [[Lexicon/H4701-4800#H4725|a place]] [[Lexicon/H2501-2600#H2583|for you to camp]] [[Lexicon/H7101-7200#H7200|(and) to show you]] [[Lexicon/H1801-1900#H1870|the road]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1980|to travel]]
+[[Lexicon/H1901-2000#H1980|who went]] [[Lexicon/H6401-6500#H6440|before you]] [[Lexicon/H1801-1900#H1870|on the journey ,]] [[Lexicon/H701-800#H784|in the fire]] [[Lexicon/H3901-4000#H3915|by night]] [[Lexicon/H6001-6100#H6051|and in the cloud]] [[Lexicon/H3101-3200#H3119|by day ,]] [[Lexicon/H8401-8500#H8446|to seek out]] [[Lexicon/H4701-4800#H4725|a place]] [[Lexicon/H2501-2600#H2583|for you to camp]] [[Lexicon/H7101-7200#H7200|[and] to show you]] [[Lexicon/H1801-1900#H1870|the road]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1980|to travel]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 33|LXX]] |
 
 ##### Deuteronomy 1 - 34
@@ -156,15 +156,15 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 36|LXX]] |
 
 ##### Deuteronomy 1 - 37
-[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H501-600#H599|was also angry]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H1501-1600#H1558|on your account ,]] [[Lexicon/H501-600#H559|and He said ,]] [[Lexicon/H3801-3900#H3808|“ Not]] [[Lexicon/H1501-1600#H1571|even]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H901-1000#H935|shall enter]] [[Lexicon/H8001-8100#H8033|(the land).]]
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H501-600#H599|was also angry]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H1501-1600#H1558|on your account ,]] [[Lexicon/H501-600#H559|and He said ,]] [[Lexicon/H3801-3900#H3808|“ Not]] [[Lexicon/H1501-1600#H1571|even]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H901-1000#H935|shall enter]] [[Lexicon/H8001-8100#H8033|[the land].]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 37|LXX]] |
 
 ##### Deuteronomy 1 - 38
-[[Lexicon/H3001-3100#H3091|Joshua -]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H5101-5200#H5126|of Nun ,]] [[Lexicon/H5901-6000#H5975|who stands]] [[Lexicon/H6401-6500#H6440|before you ,]] [[Lexicon/H1901-2000#H1931|vvv]] [[Lexicon/H901-1000#H935|will enter]] [[Lexicon/H8001-8100#H8033|it.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2301-2400#H2388|Encourage him ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H3401-3500#H3478|will enable Israel]] [[Lexicon/H5101-5200#H5157|to inherit]] [[Lexicon/H801-900#H853|(the land).]]
+[[Lexicon/H3001-3100#H3091|Joshua -]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H5101-5200#H5126|of Nun ,]] [[Lexicon/H5901-6000#H5975|who stands]] [[Lexicon/H6401-6500#H6440|before you ,]] [[Lexicon/H1901-2000#H1931|vvv]] [[Lexicon/H901-1000#H935|will enter]] [[Lexicon/H8001-8100#H8033|it.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2301-2400#H2388|Encourage him ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H3401-3500#H3478|will enable Israel]] [[Lexicon/H5101-5200#H5157|to inherit]] [[Lexicon/H801-900#H853|[the land].]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 38|LXX]] |
 
 ##### Deuteronomy 1 - 39
-[[Lexicon/H2901-3000#H2945|And the little ones]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H559|you said]] [[Lexicon/H1901-2000#H1961|would become]] [[Lexicon/H901-1000#H957|captives —]] [[Lexicon/H1101-1200#H1121|your children]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3101-3200#H3117|on that day]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H2801-2900#H2896|good]] [[Lexicon/H7401-7500#H7451|from evil —]] [[Lexicon/H1901-2000#H1992|]] [[Lexicon/H901-1000#H935|will enter]] [[Lexicon/H8001-8100#H8033|(the land that)]] [[Lexicon/H5401-5500#H5414|I will give them ,]] [[Lexicon/H1901-2000#H1992|and they]] [[Lexicon/H3401-3500#H3423|will possess it.]]
+[[Lexicon/H2901-3000#H2945|And the little ones]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H559|you said]] [[Lexicon/H1901-2000#H1961|would become]] [[Lexicon/H901-1000#H957|captives —]] [[Lexicon/H1101-1200#H1121|your children]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3101-3200#H3117|on that day]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H2801-2900#H2896|good]] [[Lexicon/H7401-7500#H7451|from evil —]] [[Lexicon/H1901-2000#H1992|]] [[Lexicon/H901-1000#H935|will enter]] [[Lexicon/H8001-8100#H8033|[the land that]]] [[Lexicon/H5401-5500#H5414|I will give them ,]] [[Lexicon/H1901-2000#H1992|and they]] [[Lexicon/H3401-3500#H3423|will possess it.]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 39|LXX]] |
 
 ##### Deuteronomy 1 - 40
@@ -176,7 +176,7 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 41|LXX]] |
 
 ##### Deuteronomy 1 - 42
-[[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H501-600#H559|“ Tell]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H5901-6000#H5927|to go up]] [[Lexicon/H3801-3900#H3808|]] [[Lexicon/H3801-3900#H3898|and fight ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H301-400#H369|I (am) not]] [[Lexicon/H7101-7200#H7130|with you]] [[Lexicon/H3801-3900#H3808|to keep you from]] [[Lexicon/H5001-5100#H5062|defeat]] [[Lexicon/H6401-6500#H6440|by]] [[Lexicon/H301-400#H341|your enemies. ”]]
+[[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H501-600#H559|“ Tell]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H5901-6000#H5927|to go up]] [[Lexicon/H3801-3900#H3808|]] [[Lexicon/H3801-3900#H3898|and fight ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H301-400#H369|I [am] not]] [[Lexicon/H7101-7200#H7130|with you]] [[Lexicon/H3801-3900#H3808|to keep you from]] [[Lexicon/H5001-5100#H5062|defeat]] [[Lexicon/H6401-6500#H6440|by]] [[Lexicon/H301-400#H341|your enemies. ”]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 42|LXX]] |
 
 ##### Deuteronomy 1 - 43
@@ -188,7 +188,7 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 44|LXX]] |
 
 ##### Deuteronomy 1 - 45
-[[Lexicon/H7701-7800#H7725|And you returned]] [[Lexicon/H1001-1100#H1058|and wept]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3001-3100#H3068|but (He)]] [[Lexicon/H3801-3900#H3808|would not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H6901-7000#H6963|to your voice]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H201-300#H238|give ear]] [[Lexicon/H401-500#H413|to you.]]
+[[Lexicon/H7701-7800#H7725|And you returned]] [[Lexicon/H1001-1100#H1058|and wept]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3001-3100#H3068|but [He]]] [[Lexicon/H3801-3900#H3808|would not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H6901-7000#H6963|to your voice]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H201-300#H238|give ear]] [[Lexicon/H401-500#H413|to you.]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 1#Deuteronomy 1 - 45|LXX]] |
 
 ##### Deuteronomy 1 - 46

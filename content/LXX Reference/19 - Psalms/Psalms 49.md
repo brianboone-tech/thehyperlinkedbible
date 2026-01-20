@@ -51,7 +51,7 @@ Testament: Old
 [[Lexicon/G3701-3800#G3778|This]] [[Lexicon/G3501-3600#G3598|their way]] [[Lexicon/G1401-1500#G1473|to them;]] [[Lexicon/G2501-2600#G2532|yet]] [[Lexicon/G3301-3400#G3326|after]] [[Lexicon/G3701-3800#G3778|these things]] [[Lexicon/G1701-1800#G1722|with]]
 
 #### Psalms 49 - 14
-[[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2201-2300#G2288|death]] [[Lexicon/G4101-4200#G4165|tends]] [[Lexicon/G1401-1500#G1473|them;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2634|shall dominate]] [[Lexicon/G4401-4500#G4404|in the morning;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G901-1000#G0996|their help]] [[Lexicon/G3801-3900#G3822|shall grow old]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1-100#G0086|Hades;]] [[Lexicon/G1501-1600#G1537|from]]
+[[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2201-2300#G2288|death]] [[Lexicon/G4101-4200#G4165|tends]] [[Lexicon/G1401-1500#G1473|them;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2634|shall dominate]] [[Lexicon/G4401-4500#G4404|in the morning;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G901-1000#G0996|their help]] [[Lexicon/G3801-3900#G3822|shall grow old]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1-100#G0086|Hades;]] [[Lexicon/G1501-1600#G1537|from]]
 
 #### Psalms 49 - 15
 [[Lexicon/G4101-4200#G4133|Except]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G3001-3100#G3084|shall ransom]] [[Lexicon/G5501-5600#G5590|my soul]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G1-100#G0086|of Hades,]] [[Lexicon/G3701-3800#G3752|whenever]] [[Lexicon/G2901-3000#G2983|he should take]] [[Lexicon/G1401-1500#G1473|me.]]

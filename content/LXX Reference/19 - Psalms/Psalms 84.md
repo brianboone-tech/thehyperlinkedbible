@@ -12,7 +12,7 @@ Testament: Old
 ---
 
 #### Psalms 84 - 1
-[[Lexicon/G5601-5624#G5613|How]] [[Lexicon/G1-100#G0027|beloved]] [[Lexicon/G2901-3000#G2962|O lord]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1411|forces.]]
+[[Lexicon/G5601-5700#G5613|How]] [[Lexicon/G1-100#G0027|beloved]] [[Lexicon/G2901-3000#G2962|O lord]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1411|forces.]]
 
 #### Psalms 84 - 2
 [[Lexicon/G1901-2000#G1971|longs after]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G801-900#G0833|courtyards]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2501-2600#G2588|My heart]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4501-4600#G4561|my flesh]] [[Lexicon/G1-100#G0021|exulted]] [[Lexicon/G1901-2000#G1909|over]]

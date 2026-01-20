@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Colossians 1
+# Colossians-R 1
 
-[[Readable Bible/50 - Philippians/Philippians 4|← Philippians 4]] | [[Readable Bible/51 - Colossians/Colossians 2|Colossians 2 →]]
+**[[Home/Scripture/51 - Colossians|Colossians]]**
+
+[[Readable Bible/50 - Philippians/Philippians 4#Philippians-R 4|Philippians 4]] • [[Readable Bible/51 - Colossians/Colossians 2#Colossians-R 2|Colossians 2]]
 
 ---
 

@@ -22,7 +22,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 46#Psalm 46 - 3|LXX]] |
 
 ##### Psalm 46 - 4
-[[Lexicon/H5101-5200#H5104|There is a river]] [[Lexicon/H6301-6400#H6388|whose streams]] [[Lexicon/H8001-8100#H8055|delight]] [[Lexicon/H5801-5900#H5892|the city]] [[Lexicon/H401-500#H430|of God ,]] [[Lexicon/H6901-7000#H6918|the holy (place where)]] [[Lexicon/H5901-6000#H5945|the Most High]] [[Lexicon/H4901-5000#H4908|dwells.]]
+[[Lexicon/H5101-5200#H5104|There is a river]] [[Lexicon/H6301-6400#H6388|whose streams]] [[Lexicon/H8001-8100#H8055|delight]] [[Lexicon/H5801-5900#H5892|the city]] [[Lexicon/H401-500#H430|of God ,]] [[Lexicon/H6901-7000#H6918|the holy [place where]]] [[Lexicon/H5901-6000#H5945|the Most High]] [[Lexicon/H4901-5000#H4908|dwells.]]
 | [[LXX Reference/19 - Psalms/Psalms 46#Psalm 46 - 4|LXX]] |
 
 ##### Psalm 46 - 5

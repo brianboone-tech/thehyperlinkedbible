@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 12
+# Ezekiel-R 12
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 11|← Ezekiel 11]] | [[Readable Bible/26 - Ezekiel/Ezekiel 13|Ezekiel 13 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 11#Ezekiel-R 11| Ezekiel 11]] - [[Readable Bible/26 - Ezekiel/Ezekiel 13#Ezekiel-R 13| Ezekiel 13]]
 
 ---
 

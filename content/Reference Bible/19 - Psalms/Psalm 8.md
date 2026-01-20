@@ -22,7 +22,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 8#Psalm 8 - 3|LXX]] |
 
 ##### Psalm 8 - 4
-[[Lexicon/H4001-4100#H4100|what]] [[Lexicon/H501-600#H582|is man]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2101-2200#H2142|You are mindful (of him) ,]] [[Lexicon/H1101-1200#H1121|or the son]] [[Lexicon/H101-200#H120|of man]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H6401-6500#H6485|You care for him ?]]
+[[Lexicon/H4001-4100#H4100|what]] [[Lexicon/H501-600#H582|is man]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2101-2200#H2142|You are mindful [of him] ,]] [[Lexicon/H1101-1200#H1121|or the son]] [[Lexicon/H101-200#H120|of man]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H6401-6500#H6485|You care for him ?]]
 | [[LXX Reference/19 - Psalms/Psalms 8#Psalm 8 - 4|LXX]] |
 
 ##### Psalm 8 - 5

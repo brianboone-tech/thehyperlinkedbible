@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Deuteronomy 22
+# Deuteronomy-R 22
 
-[[Readable Bible/05 - Deuteronomy/Deuteronomy 21|← Deuteronomy 21]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 23|Deuteronomy 23 →]]
+**[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
+
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 21#Deuteronomy-R 21| Deuteronomy 21]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 23#Deuteronomy-R 23| Deuteronomy 23]]
 
 ---
 

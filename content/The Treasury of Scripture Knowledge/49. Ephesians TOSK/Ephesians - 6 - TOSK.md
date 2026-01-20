@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Ephesians 6 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/49 - Ephesians|← Ephesians]]** | [[The Treasury of Scripture Knowledge/49. Ephesians TOSK/Ephesians - 5 - TOSK|← Ch 5]]
+**[[Home/Scripture/49 - Ephesians|← Ephesians]]** | [[The Treasury of Scripture Knowledge/49. Ephesians TOSK/Ephesians - 5 - TOSK|← Ch 5]]
 
 ---
 

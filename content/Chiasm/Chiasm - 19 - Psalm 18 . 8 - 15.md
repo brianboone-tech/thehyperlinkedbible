@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]**
+**[[Home/Scripture/19 - Psalms|← Psalms]]**
 
 ---
 

@@ -38,7 +38,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 76#Psalm 76 - 7|LXX]] |
 
 ##### Psalm 76 - 8
-[[Lexicon/H8001-8100#H8064|From heaven]] [[Lexicon/H8001-8100#H8085|You pronounced]] [[Lexicon/H1701-1800#H1779|judgment ,]] [[Lexicon/H701-800#H776|(and) the earth]] [[Lexicon/H3301-3400#H3372|feared]] [[Lexicon/H8201-8300#H8252|and was still]]
+[[Lexicon/H8001-8100#H8064|From heaven]] [[Lexicon/H8001-8100#H8085|You pronounced]] [[Lexicon/H1701-1800#H1779|judgment ,]] [[Lexicon/H701-800#H776|[and] the earth]] [[Lexicon/H3301-3400#H3372|feared]] [[Lexicon/H8201-8300#H8252|and was still]]
 | [[LXX Reference/19 - Psalms/Psalms 76#Psalm 76 - 8|LXX]] |
 
 ##### Psalm 76 - 9

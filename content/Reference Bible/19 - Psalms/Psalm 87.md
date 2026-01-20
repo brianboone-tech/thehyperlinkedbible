@@ -22,7 +22,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 87#Psalm 87 - 3|LXX]] |
 
 ##### Psalm 87 - 4
-[[Lexicon/H2101-2200#H2142|“ I will mention]] [[Lexicon/H7201-7300#H7293|Rahab]] [[Lexicon/H801-900#H894|and Babylon]] [[Lexicon/H3001-3100#H3045|among those who know Me —]] [[Lexicon/H2001-2100#H2009|along with]] [[Lexicon/H6401-6500#H6429|Philistia ,]] [[Lexicon/H6801-6900#H6865|Tyre ,]] [[Lexicon/H5901-6000#H5973|and]] [[Lexicon/H3501-3600#H3568|Cush —]] [[Lexicon/H2001-2100#H2088|(when I say,) ‘This one]] [[Lexicon/H3201-3300#H3205|was born]] [[Lexicon/H8001-8100#H8033|(in Zion). ’”]]
+[[Lexicon/H2101-2200#H2142|“ I will mention]] [[Lexicon/H7201-7300#H7293|Rahab]] [[Lexicon/H801-900#H894|and Babylon]] [[Lexicon/H3001-3100#H3045|among those who know Me —]] [[Lexicon/H2001-2100#H2009|along with]] [[Lexicon/H6401-6500#H6429|Philistia ,]] [[Lexicon/H6801-6900#H6865|Tyre ,]] [[Lexicon/H5901-6000#H5973|and]] [[Lexicon/H3501-3600#H3568|Cush —]] [[Lexicon/H2001-2100#H2088|[when I say,] ‘This one]] [[Lexicon/H3201-3300#H3205|was born]] [[Lexicon/H8001-8100#H8033|[in Zion]. ’”]]
 | [[LXX Reference/19 - Psalms/Psalms 87#Psalm 87 - 4|LXX]] |
 
 ##### Psalm 87 - 5
@@ -30,10 +30,10 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 87#Psalm 87 - 5|LXX]] |
 
 ##### Psalm 87 - 6
-[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H5601-5700#H5608|will record]] [[Lexicon/H3701-3800#H3789|in the register]] [[Lexicon/H5901-6000#H5971|of the peoples :]] [[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H3201-3300#H3205|one was born]] [[Lexicon/H8001-8100#H8033|(in Zion). ”]] [[Lexicon/H5501-5600#H5542|Selah]]
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H5601-5700#H5608|will record]] [[Lexicon/H3701-3800#H3789|in the register]] [[Lexicon/H5901-6000#H5971|of the peoples :]] [[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H3201-3300#H3205|one was born]] [[Lexicon/H8001-8100#H8033|[in Zion]. ”]] [[Lexicon/H5501-5600#H5542|Selah]]
 | [[LXX Reference/19 - Psalms/Psalms 87#Psalm 87 - 6|LXX]] |
 
 ##### Psalm 87 - 7
-[[Lexicon/H7801-7900#H7891|Singers]] [[Lexicon/H2301-2400#H2342|and pipers (will proclaim) ,]] [[Lexicon/H3601-3700#H3605|“ All]] [[Lexicon/H4501-4600#H4599|my springs (of joy)]]
+[[Lexicon/H7801-7900#H7891|Singers]] [[Lexicon/H2301-2400#H2342|and pipers [will proclaim] ,]] [[Lexicon/H3601-3700#H3605|“ All]] [[Lexicon/H4501-4600#H4599|my springs [of joy]]]
 | [[LXX Reference/19 - Psalms/Psalms 87#Psalm 87 - 7|LXX]] |
 

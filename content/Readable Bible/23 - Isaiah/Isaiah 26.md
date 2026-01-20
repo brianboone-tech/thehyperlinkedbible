@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 26
+# Isaiah-R 26
 
-[[Readable Bible/23 - Isaiah/Isaiah 25|← Isaiah 25]] | [[Readable Bible/23 - Isaiah/Isaiah 27|Isaiah 27 →]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 25#Isaiah-R 25| Isaiah 25]] - [[Readable Bible/23 - Isaiah/Isaiah 27#Isaiah-R 27| Isaiah 27]]
 
 ---
 

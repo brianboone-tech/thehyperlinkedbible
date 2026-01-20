@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 15
+# Ezekiel-R 15
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 14|← Ezekiel 14]] | [[Readable Bible/26 - Ezekiel/Ezekiel 16|Ezekiel 16 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 14#Ezekiel-R 14| Ezekiel 14]] - [[Readable Bible/26 - Ezekiel/Ezekiel 16#Ezekiel-R 16| Ezekiel 16]]
 
 ---
 

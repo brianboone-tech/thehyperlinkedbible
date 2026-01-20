@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/58 - Hebrews|← Hebrews]]**
+**[[Home/Scripture/58 - Hebrews|← Hebrews]]**
 
 ---
 

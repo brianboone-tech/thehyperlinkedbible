@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Acts 7
+# Acts-R 7
 
-[[Readable Bible/44 - Acts/Acts 6|← Acts 6]] | [[Readable Bible/44 - Acts/Acts 8|Acts 8 →]]
+**[[Home/Scripture/44 - Acts|Acts]]**
+
+[[Readable Bible/44 - Acts/Acts 6#Acts-R 6| Acts 6]] - [[Readable Bible/44 - Acts/Acts 8#Acts-R 8| Acts 8]]
 
 ---
 

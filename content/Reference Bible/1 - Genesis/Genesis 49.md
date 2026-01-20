@@ -37,7 +37,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 49#Genesis 49 - 6|LXX]] |
 
 ##### Genesis 49 - 7
-[[Lexicon/H701-800#H779|Cursed (be)]] [[Lexicon/H601-700#H639|their anger ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H5701-5800#H5794|it is strong ,]] [[Lexicon/H5601-5700#H5678|and their wrath ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H7101-7200#H7185|it is cruel !]] [[Lexicon/H2501-2600#H2505|I will disperse them]] [[Lexicon/H3201-3300#H3290|in Jacob]] [[Lexicon/H6301-6400#H6327|and scatter them]] [[Lexicon/H3401-3500#H3478|in Israel.]]
+[[Lexicon/H701-800#H779|Cursed [be]]] [[Lexicon/H601-700#H639|their anger ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H5701-5800#H5794|it is strong ,]] [[Lexicon/H5601-5700#H5678|and their wrath ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H7101-7200#H7185|it is cruel !]] [[Lexicon/H2501-2600#H2505|I will disperse them]] [[Lexicon/H3201-3300#H3290|in Jacob]] [[Lexicon/H6301-6400#H6327|and scatter them]] [[Lexicon/H3401-3500#H3478|in Israel.]]
 | [[LXX Reference/1 - Genesis/Genesis 49#Genesis 49 - 7|LXX]] |
 
 ##### Genesis 49 - 8
@@ -45,7 +45,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 49#Genesis 49 - 8|LXX]] |
 
 ##### Genesis 49 - 9
-[[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H1401-1500#H1482|is a young]] [[Lexicon/H701-800#H738|lion —]] [[Lexicon/H1101-1200#H1121|my son ,]] [[Lexicon/H5901-6000#H5927|you return]] [[Lexicon/H2901-3000#H2964|from the prey.]] [[Lexicon/H701-800#H738|Like a lion]] [[Lexicon/H3701-3800#H3766|he crouches]] [[Lexicon/H7201-7300#H7257|(and) lies down ;]] [[Lexicon/H3801-3900#H3833|like a lioness ,]] [[Lexicon/H4301-4400#H4310|who]] [[Lexicon/H6901-7000#H6965|dares to rouse him ?]]
+[[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H1401-1500#H1482|is a young]] [[Lexicon/H701-800#H738|lion —]] [[Lexicon/H1101-1200#H1121|my son ,]] [[Lexicon/H5901-6000#H5927|you return]] [[Lexicon/H2901-3000#H2964|from the prey.]] [[Lexicon/H701-800#H738|Like a lion]] [[Lexicon/H3701-3800#H3766|he crouches]] [[Lexicon/H7201-7300#H7257|[and] lies down ;]] [[Lexicon/H3801-3900#H3833|like a lioness ,]] [[Lexicon/H4301-4400#H4310|who]] [[Lexicon/H6901-7000#H6965|dares to rouse him ?]]
 | [[LXX Reference/1 - Genesis/Genesis 49#Genesis 49 - 9|LXX]] |
 
 ##### Genesis 49 - 10
@@ -65,7 +65,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 49#Genesis 49 - 13|LXX]] |
 
 ##### Genesis 49 - 14
-[[Lexicon/H3401-3500#H3485|Issachar]] [[Lexicon/H1601-1700#H1634|(is) a strong]] [[Lexicon/H2501-2600#H2543|donkey ,]] [[Lexicon/H7201-7300#H7257|lying down]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H4901-5000#H4942|the sheepfolds.]]
+[[Lexicon/H3401-3500#H3485|Issachar]] [[Lexicon/H1601-1700#H1634|[is] a strong]] [[Lexicon/H2501-2600#H2543|donkey ,]] [[Lexicon/H7201-7300#H7257|lying down]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H4901-5000#H4942|the sheepfolds.]]
 | [[LXX Reference/1 - Genesis/Genesis 49#Genesis 49 - 14|LXX]] |
 
 ##### Genesis 49 - 15
@@ -125,7 +125,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 49#Genesis 49 - 28|LXX]] |
 
 ##### Genesis 49 - 29
-[[Lexicon/H6601-6700#H6680|Then (Jacob) instructed them ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|-]] [[Lexicon/H501-600#H589|“ I]] [[Lexicon/H601-700#H622|am about to be gathered]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|my people.]] [[Lexicon/H6901-7000#H6912|Bury]] [[Lexicon/H801-900#H853|me]] [[Lexicon/H401-500#H413|with]] [[Lexicon/H1-100#H1|my fathers]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H4601-4700#H4631|the cave]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7701-7800#H7704|in the field]] [[Lexicon/H6001-6100#H6085|of Ephron]] [[Lexicon/H2801-2900#H2850|the Hittite.]]
+[[Lexicon/H6601-6700#H6680|Then [Jacob] instructed them ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|-]] [[Lexicon/H501-600#H589|“ I]] [[Lexicon/H601-700#H622|am about to be gathered]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|my people.]] [[Lexicon/H6901-7000#H6912|Bury]] [[Lexicon/H801-900#H853|me]] [[Lexicon/H401-500#H413|with]] [[Lexicon/H1-100#H1|my fathers]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H4601-4700#H4631|the cave]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7701-7800#H7704|in the field]] [[Lexicon/H6001-6100#H6085|of Ephron]] [[Lexicon/H2801-2900#H2850|the Hittite.]]
 | [[LXX Reference/1 - Genesis/Genesis 49#Genesis 49 - 29|LXX]] |
 
 ##### Genesis 49 - 30

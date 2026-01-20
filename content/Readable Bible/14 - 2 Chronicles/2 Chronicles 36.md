@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Chronicles 36
+# 2 Chronicles-R 36
 
-[[Readable Bible/14 - 2 Chronicles/2 Chronicles 35|← 2 Chronicles 35]]
+**[[Home/Scripture/14 - 2 Chronicles|2 Chronicles]]**
+
+[[Readable Bible/14 - 2 Chronicles/2 Chronicles 35#2 Chronicles-R 35| 2 Chronicles 35]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 37#2 Chronicles-R 37| 2 Chronicles 37]]
 
 ---
 

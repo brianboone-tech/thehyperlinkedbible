@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Job 13 - 1
-[[Lexicon/H2001-2100#H2005|(“) Indeed ,]] [[Lexicon/H5801-5900#H5869|my eyes]] [[Lexicon/H7101-7200#H7200|have seen]] [[Lexicon/H3601-3700#H3605|all this ;]] [[Lexicon/H201-300#H241|my ears]] [[Lexicon/H8001-8100#H8085|have heard]] [[Lexicon/H901-1000#H995|and understood.]]
+[[Lexicon/H2001-2100#H2005|[“] Indeed ,]] [[Lexicon/H5801-5900#H5869|my eyes]] [[Lexicon/H7101-7200#H7200|have seen]] [[Lexicon/H3601-3700#H3605|all this ;]] [[Lexicon/H201-300#H241|my ears]] [[Lexicon/H8001-8100#H8085|have heard]] [[Lexicon/H901-1000#H995|and understood.]]
 
 ##### Job 13 - 2
 [[Lexicon/H1801-1900#H1847|What you know ,]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H1501-1600#H1571|also]] [[Lexicon/H3001-3100#H3045|know ;]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H3801-3900#H3808|am not]] [[Lexicon/H5301-5400#H5307|inferior]]
@@ -34,7 +34,7 @@ cssClasses: lexicon
 [[Lexicon/H6401-6500#H6440|Would you show Him partiality]] [[Lexicon/H5301-5400#H5375|...]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H7301-7400#H7378|argue]] [[Lexicon/H401-500#H410|in His defense ?]]
 
 ##### Job 13 - 9
-[[Lexicon/H2801-2900#H2896|Would it be well]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H2701-2800#H2713|He examined you]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H518|- ?]] [[Lexicon/H2001-2100#H2048|Could you deceive]] [[Lexicon/H2001-2100#H2048|(like)]] [[Lexicon/H501-600#H582|a man ?]]
+[[Lexicon/H2801-2900#H2896|Would it be well]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H2701-2800#H2713|He examined you]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H518|- ?]] [[Lexicon/H2001-2100#H2048|Could you deceive]] [[Lexicon/H2001-2100#H2048|[like]]] [[Lexicon/H501-600#H582|a man ?]]
 
 ##### Job 13 - 10
 [[Lexicon/H3101-3200#H3198|Surely He would rebuke]] [[Lexicon/H3101-3200#H3198|you]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H5601-5700#H5643|you secretly]] [[Lexicon/H6401-6500#H6440|showed partiality]] [[Lexicon/H5301-5400#H5375|....]]
@@ -46,7 +46,7 @@ cssClasses: lexicon
 [[Lexicon/H2101-2200#H2146|Your maxims]] [[Lexicon/H4901-5000#H4912|are proverbs]] [[Lexicon/H601-700#H665|of ashes ;]] [[Lexicon/H1301-1400#H1354|your defenses]] [[Lexicon/H1301-1400#H1354|are defenses]] [[Lexicon/H2501-2600#H2563|of clay.]]
 
 ##### Job 13 - 13
-[[Lexicon/H2701-2800#H2790|Be silent ,]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H501-600#H589|and I]] [[Lexicon/H1601-1700#H1696|will speak.]] [[Lexicon/H5601-5700#H5674|Then let come]] [[Lexicon/H5901-6000#H5921|to me]] [[Lexicon/H4001-4100#H4100|what (may).]]
+[[Lexicon/H2701-2800#H2790|Be silent ,]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H501-600#H589|and I]] [[Lexicon/H1601-1700#H1696|will speak.]] [[Lexicon/H5601-5700#H5674|Then let come]] [[Lexicon/H5901-6000#H5921|to me]] [[Lexicon/H4001-4100#H4100|what [may].]]
 
 ##### Job 13 - 14
 [[Lexicon/H5901-6000#H5921|Why]] [[Lexicon/H4001-4100#H4100|...]] [[Lexicon/H1301-1400#H1320|do I put myself]] [[Lexicon/H5301-5400#H5375|at risk]] [[Lexicon/H8101-8200#H8127|...]] [[Lexicon/H7701-7800#H7760|and take]] [[Lexicon/H5301-5400#H5315|my life]] [[Lexicon/H3701-3800#H3709|in my own hands ?]]
@@ -91,4 +91,4 @@ cssClasses: lexicon
 [[Lexicon/H7701-7800#H7760|You put]] [[Lexicon/H7201-7300#H7272|my feet]] [[Lexicon/H5401-5500#H5465|in the stocks]] [[Lexicon/H8101-8200#H8104|and stand watch]] [[Lexicon/H3601-3700#H3605|over all]] [[Lexicon/H701-800#H734|my paths ;]] [[Lexicon/H2701-2800#H2707|You set a limit]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H8301-8400#H8328|the soles]] [[Lexicon/H7201-7300#H7272|of my feet.]]
 
 ##### Job 13 - 28
-[[Lexicon/H1901-2000#H1931|So man]] [[Lexicon/H1001-1100#H1086|wastes away]] [[Lexicon/H7501-7600#H7538|like something rotten ,]] [[Lexicon/H301-400#H398|like a moth-eaten]] [[Lexicon/H6201-6300#H6211|...]] [[Lexicon/H801-900#H899|garment. (’’)]]
+[[Lexicon/H1901-2000#H1931|So man]] [[Lexicon/H1001-1100#H1086|wastes away]] [[Lexicon/H7501-7600#H7538|like something rotten ,]] [[Lexicon/H301-400#H398|like a moth-eaten]] [[Lexicon/H6201-6300#H6211|...]] [[Lexicon/H801-900#H899|garment. [’’]]]

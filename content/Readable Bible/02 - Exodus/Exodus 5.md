@@ -6,9 +6,11 @@ cssClasses: lexicon
 ---
 
 
-# Exodus 5
+# Exodus-R 5
 
-[[Readable Bible/02 - Exodus/Exodus 4|← Exodus 4]] | [[Readable Bible/02 - Exodus/Exodus 6|Exodus 6 →]]
+**[[Home/Scripture/02 - Exodus|Exodus]]**
+
+[[Readable Bible/02 - Exodus/Exodus 4#Exodus-R 4| Exodus 4]] - [[Readable Bible/02 - Exodus/Exodus 6#Exodus-R 6| Exodus 6]]
 
 ---
 

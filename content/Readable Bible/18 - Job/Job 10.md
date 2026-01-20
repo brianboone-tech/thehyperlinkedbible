@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Job 10
+# Job-R 10
 
-[[Readable Bible/18 - Job/Job 9|← Job 9]] | [[Readable Bible/18 - Job/Job 11|Job 11 →]]
+**[[Home/Scripture/18 - Job|Job]]**
+
+[[Readable Bible/18 - Job/Job 9#Job-R 9| Job 9]] - [[Readable Bible/18 - Job/Job 11#Job-R 11| Job 11]]
 
 ---
 

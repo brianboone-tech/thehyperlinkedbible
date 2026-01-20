@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Samuel 17
+# 1 Samuel-R 17
 
-[[Readable Bible/09 - 1 Samuel/1 Samuel 16|← 1 Samuel 16]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 18|1 Samuel 18 →]]
+**[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 16#1 Samuel-R 16| 1 Samuel 16]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 18#1 Samuel-R 18| 1 Samuel 18]]
 
 ---
 

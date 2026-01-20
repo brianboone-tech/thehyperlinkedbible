@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/29 - Joel|← Joel]]**
+**[[Home/Scripture/29 - Joel|← Joel]]**
 
 ---
 

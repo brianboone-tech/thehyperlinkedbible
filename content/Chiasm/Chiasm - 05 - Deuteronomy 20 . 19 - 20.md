@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]**
+**[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]**
 
 ---
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# John 1
+# John-R 1
 
-[[Readable Bible/42 - Luke/Luke 24|← Luke 24]] | [[Readable Bible/43 - John/John 2|John 2 →]]
+**[[Home/Scripture/43 - John|John]]**
+
+[[Readable Bible/42 - Luke/Luke 24#Luke-R 24|Luke 24]] • [[Readable Bible/43 - John/John 2#John-R 2|John 2]]
 
 ---
 

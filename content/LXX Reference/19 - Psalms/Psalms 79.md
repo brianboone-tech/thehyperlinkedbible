@@ -12,13 +12,13 @@ Testament: Old
 ---
 
 #### Psalms 79 - 1
-[[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G2001-2100#G2064|come]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2801-2900#G2817|your inheritance;]] [[Lexicon/G3301-3400#G3392|they defiled]] [[Lexicon/G3401-3500#G3485|temple]] [[Lexicon/G5001-5100#G5087|they made]] Jerusalem [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3701-3800#G3703|a storehouse of fruits.]]
+[[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G2001-2100#G2064|come]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2801-2900#G2817|your inheritance;]] [[Lexicon/G3301-3400#G3392|they defiled]] [[Lexicon/G3401-3500#G3485|temple]] [[Lexicon/G5001-5100#G5087|they made]] Jerusalem [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3701-3800#G3703|a storehouse of fruits.]]
 
 #### Psalms 79 - 2
 [[Lexicon/G5001-5100#G5087|They made]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2347|decaying flesh]] [[Lexicon/G1401-1500#G1401|of your servants]] [[Lexicon/G1001-1100#G1033|foods]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G4001-4100#G4071|winged creatures]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3772|heaven;]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4561|flesh]] [[Lexicon/G3701-3800#G3741|of your sacred ones]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G2301-2400#G2342|wild beasts]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|earth.]]
 
 #### Psalms 79 - 3
-[[Lexicon/G1601-1700#G1632|They poured out]] [[Lexicon/G101-200#G0129|their blood]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G2901-3000#G2945|round about]] Jerusalem; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|there was no one]] [[Lexicon/G2201-2300#G2290|burying them.]]
+[[Lexicon/G1601-1700#G1632|They poured out]] [[Lexicon/G101-200#G0129|their blood]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G2901-3000#G2945|round about]] Jerusalem; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|there was no one]] [[Lexicon/G2201-2300#G2290|burying them.]]
 
 #### Psalms 79 - 4
 [[Lexicon/G1001-1100#G1096|We became]] [[Lexicon/G3601-3700#G3681|scorn]] [[Lexicon/G1001-1100#G1069|our neighbors;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5512|taunting]] [[Lexicon/G3501-3600#G3588|by the ones]] [[Lexicon/G2901-3000#G2945|round about]] [[Lexicon/G1401-1500#G1473|us.]]

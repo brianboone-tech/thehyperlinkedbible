@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah 13
+# Jeremiah-R 13
 
-[[Readable Bible/24 - Jeremiah/Jeremiah 12|← Jeremiah 12]] | [[Readable Bible/24 - Jeremiah/Jeremiah 14|Jeremiah 14 →]]
+**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 12#Jeremiah-R 12| Jeremiah 12]] - [[Readable Bible/24 - Jeremiah/Jeremiah 14#Jeremiah-R 14| Jeremiah 14]]
 
 ---
 

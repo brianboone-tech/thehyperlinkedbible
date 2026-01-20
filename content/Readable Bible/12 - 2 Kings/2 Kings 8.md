@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Kings 8
+# 2 Kings-R 8
 
-[[Readable Bible/12 - 2 Kings/2 Kings 7|← 2 Kings 7]] | [[Readable Bible/12 - 2 Kings/2 Kings 9|2 Kings 9 →]]
+**[[Home/Scripture/12 - 2 Kings|2 Kings]]**
+
+[[Readable Bible/12 - 2 Kings/2 Kings 7#2 Kings-R 7| 2 Kings 7]] - [[Readable Bible/12 - 2 Kings/2 Kings 9#2 Kings-R 9| 2 Kings 9]]
 
 ---
 

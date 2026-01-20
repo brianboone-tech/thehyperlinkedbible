@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# John 2
+# John-R 2
 
-[[Readable Bible/43 - John/John 1|← John 1]] | [[Readable Bible/43 - John/John 3|John 3 →]]
+**[[Home/Scripture/43 - John|John]]**
+
+[[Readable Bible/43 - John/John 1#John-R 1| John 1]] - [[Readable Bible/43 - John/John 3#John-R 3| John 3]]
 
 ---
 

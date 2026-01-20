@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 1 Samuel 26 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/09 - 1 Samuel|← 1 Samuel]]** | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 25 - TOSK|← Ch 25]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 27 - TOSK|Ch 27 →]]
+**[[Home/Scripture/09 - 1 Samuel|← 1 Samuel]]** | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 25 - TOSK|← Ch 25]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 27 - TOSK|Ch 27 →]]
 
 ---
 

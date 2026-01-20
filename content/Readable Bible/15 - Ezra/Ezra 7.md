@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezra 7
+# Ezra-R 7
 
-[[Readable Bible/15 - Ezra/Ezra 6|← Ezra 6]] | [[Readable Bible/15 - Ezra/Ezra 8|Ezra 8 →]]
+**[[Home/Scripture/15 - Ezra|Ezra]]**
+
+[[Readable Bible/15 - Ezra/Ezra 6#Ezra-R 6| Ezra 6]] - [[Readable Bible/15 - Ezra/Ezra 8#Ezra-R 8| Ezra 8]]
 
 ---
 

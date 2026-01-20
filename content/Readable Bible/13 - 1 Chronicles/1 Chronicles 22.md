@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Chronicles 22
+# 1 Chronicles-R 22
 
-[[Readable Bible/13 - 1 Chronicles/1 Chronicles 21|← 1 Chronicles 21]] | [[Readable Bible/13 - 1 Chronicles/1 Chronicles 23|1 Chronicles 23 →]]
+**[[Home/Scripture/13 - 1 Chronicles|1 Chronicles]]**
+
+[[Readable Bible/13 - 1 Chronicles/1 Chronicles 21#1 Chronicles-R 21| 1 Chronicles 21]] - [[Readable Bible/13 - 1 Chronicles/1 Chronicles 23#1 Chronicles-R 23| 1 Chronicles 23]]
 
 ---
 
@@ -40,7 +42,7 @@ cssClasses: lexicon
 
 ##### 1 Chronicles 22 . 10
 [[Reference Bible/13 - 1 Chronicles/1 Chronicles 22#1 Chronicles 22 - 10|10]]  He is the one who will build a house for My Name. He will be My son, and I will be his Father. And I will establish the throne of his kingdom over Israel forever.’  | [[Chiasm/Chiasm - 13 - 1 Chronicles 22 . 1 - 19|C]] | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 22 - TOSK#Verse 10|TOSK]] |
- | [[Chiasm/Chiasm - 13 - 1 Chronicles 22 . 1 - 19|Chiasm]]  |
+  |  [[Chiasm/Chiasm - 13 - 1 Chronicles 22 . 1 - 19|Chiasm]]  |
 
 ##### 1 Chronicles 22 . 11
 [[Reference Bible/13 - 1 Chronicles/1 Chronicles 22#1 Chronicles 22 - 11|11]]  Now, my son, may the LORD be with you, and may you succeed in building the house of the LORD your God, as He said you would.  | [[Chiasm/Chiasm - 13 - 1 Chronicles 22 . 1 - 19|C]] | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 22 - TOSK#Verse 11|TOSK]] |
@@ -50,7 +52,7 @@ cssClasses: lexicon
 
 ##### 1 Chronicles 22 . 13
 [[Reference Bible/13 - 1 Chronicles/1 Chronicles 22#1 Chronicles 22 - 13|13]]  Then you will succeed, if you carefully follow the statutes and ordinances that the LORD commanded Moses for Israel. Be strong and courageous. Do not be afraid or discouraged.  | [[Chiasm/Chiasm - 13 - 1 Chronicles 22 . 1 - 19|C]] | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 22 - TOSK#Verse 13|TOSK]] |
- | [[Chiasm/Chiasm - 13 - 1 Chronicles 22 . 1 - 19|Chiasm]]  |
+  |  [[Chiasm/Chiasm - 13 - 1 Chronicles 22 . 1 - 19|Chiasm]]  |
 ##### 1 Chronicles 22 . 14
 [[Reference Bible/13 - 1 Chronicles/1 Chronicles 22#1 Chronicles 22 - 14|14]]  Now behold, I have taken great pains to provide for the house of the LORD—100,000 talents of gold, 1,000,000 talents of silver, and bronze and iron too great to be weighed. I have also provided timber and stone, and you may add to them.  | [[Chiasm/Chiasm - 13 - 1 Chronicles 22 . 1 - 19|C]] | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 22 - TOSK#Verse 14|TOSK]] |
 

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 4 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 5 - TOSK|Ch 5 →]]
+**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 5 - TOSK|Ch 5 →]]
 
 ---
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Luke 20
+# Luke-R 20
 
-[[Readable Bible/42 - Luke/Luke 19|← Luke 19]] | [[Readable Bible/42 - Luke/Luke 21|Luke 21 →]]
+**[[Home/Scripture/42 - Luke|Luke]]**
+
+[[Readable Bible/42 - Luke/Luke 19#Luke-R 19| Luke 19]] - [[Readable Bible/42 - Luke/Luke 21#Luke-R 21| Luke 21]]
 
 ---
 

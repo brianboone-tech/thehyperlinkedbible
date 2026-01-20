@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hosea 13
+# Hosea-R 13
 
-[[Readable Bible/28 - Hosea/Hosea 12|← Hosea 12]] | [[Readable Bible/28 - Hosea/Hosea 14|Hosea 14 →]]
+**[[Home/Scripture/28 - Hosea|Hosea]]**
+
+[[Readable Bible/28 - Hosea/Hosea 12#Hosea-R 12| Hosea 12]] - [[Readable Bible/28 - Hosea/Hosea 14#Hosea-R 14| Hosea 14]]
 
 ---
 
 ##### Hosea 13 . 1
-[[Reference Bible/28 - Hosea/Hosea 13#Hosea 13 - 1|1]] When Ephraim spoke, there was trembling; he was exalted in Israel. But he incurred guilt through Baal, and he died.  | | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 13 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/28 - Hosea/Hosea 13#Hosea 13 - 1|1]] When Ephraim spoke, there was trembling; he was exalted in Israel. But he incurred guilt through Baal, and he died.   || [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 13 - TOSK#Verse 1|TOSK]] |
 
 ##### Hosea 13 . 2
 [[Reference Bible/28 - Hosea/Hosea 13#Hosea 13 - 2|2]] Now they sin more and more and make for themselves cast images, idols skillfully made from their silver, all of them the work of craftsmen. People say of them, “They offer human sacrifice and kiss the calves!”  | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 13 - TOSK#Verse 2|TOSK]] |

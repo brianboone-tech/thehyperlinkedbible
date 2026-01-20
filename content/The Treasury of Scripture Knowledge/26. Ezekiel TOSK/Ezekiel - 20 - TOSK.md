@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Ezekiel 20 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 21 - TOSK|Ch 21 →]]
+**[[Home/Scripture/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 21 - TOSK|Ch 21 →]]
 
 ---
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus 9
+# Leviticus-R 9
 
-[[Readable Bible/03 - Leviticus/Leviticus 8|← Leviticus 8]] | [[Readable Bible/03 - Leviticus/Leviticus 10|Leviticus 10 →]]
+**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+
+[[Readable Bible/03 - Leviticus/Leviticus 8#Leviticus-R 8| Leviticus 8]] - [[Readable Bible/03 - Leviticus/Leviticus 10#Leviticus-R 10| Leviticus 10]]
 
 ---
 

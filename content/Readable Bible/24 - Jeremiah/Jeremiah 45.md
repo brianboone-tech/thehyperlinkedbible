@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah 45
+# Jeremiah-R 45
 
-[[Readable Bible/24 - Jeremiah/Jeremiah 44|← Jeremiah 44]] | [[Readable Bible/24 - Jeremiah/Jeremiah 46|Jeremiah 46 →]]
+**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 44#Jeremiah-R 44| Jeremiah 44]] - [[Readable Bible/24 - Jeremiah/Jeremiah 46#Jeremiah-R 46| Jeremiah 46]]
 
 ---
 

@@ -33,11 +33,11 @@ Chapter: "15"
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 5|LXX]] |
 
 ##### Numbers 15 - 6
-[[Lexicon/H101-200#H176|-]] [[Lexicon/H301-400#H352|With a ram]] [[Lexicon/H6201-6300#H6213|you are to prepare]] [[Lexicon/H4501-4600#H4503|a grain offering]] [[Lexicon/H8101-8200#H8147|of two-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H7901-8000#H7992|with a third]] [[Lexicon/H1901-2000#H1969|of a hin]] [[Lexicon/H8001-8100#H8081|of olive oil ,]]
+[[Lexicon/H101-200#H176|-]] [[Lexicon/H301-400#H352|With a ram]] [[Lexicon/H6201-6300#H6213|you are to prepare]] [[Lexicon/H4501-4600#H4503|a grain offering]] [[Lexicon/H8101-8200#H8147|of two-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H7901-8000#H7992|with a third]] [[Lexicon/H1901-2000#H1969|of a hin]] [[Lexicon/H8001-8100#H8081|of olive oil ,]]
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 6|LXX]] |
 
 ##### Numbers 15 - 7
-[[Lexicon/H7101-7200#H7126|(and)]] [[Lexicon/H7901-8000#H7992|a third]] [[Lexicon/H1901-2000#H1969|of a hin]] [[Lexicon/H3101-3200#H3196|of wine]] [[Lexicon/H5201-5300#H5262|as a drink offering ,]] [[Lexicon/H5201-5300#H5207|a pleasing]] [[Lexicon/H7301-7400#H7381|aroma]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+[[Lexicon/H7101-7200#H7126|[and]]] [[Lexicon/H7901-8000#H7992|a third]] [[Lexicon/H1901-2000#H1969|of a hin]] [[Lexicon/H3101-3200#H3196|of wine]] [[Lexicon/H5201-5300#H5262|as a drink offering ,]] [[Lexicon/H5201-5300#H5207|a pleasing]] [[Lexicon/H7301-7400#H7381|aroma]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 7|LXX]] |
 
 ##### Numbers 15 - 8
@@ -45,7 +45,7 @@ Chapter: "15"
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 8|LXX]] |
 
 ##### Numbers 15 - 9
-[[Lexicon/H7101-7200#H7126|present]] [[Lexicon/H5901-6000#H5921|with]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H1201-1300#H1241|the bull]] [[Lexicon/H4501-4600#H4503|a grain offering]] [[Lexicon/H7901-8000#H7969|of three-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H2601-2700#H2677|with half]] [[Lexicon/H1901-2000#H1969|a hin]] [[Lexicon/H8001-8100#H8081|of olive oil.]]
+[[Lexicon/H7101-7200#H7126|present]] [[Lexicon/H5901-6000#H5921|with]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H1201-1300#H1241|the bull]] [[Lexicon/H4501-4600#H4503|a grain offering]] [[Lexicon/H7901-8000#H7969|of three-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H2601-2700#H2677|with half]] [[Lexicon/H1901-2000#H1969|a hin]] [[Lexicon/H8001-8100#H8081|of olive oil.]]
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 9|LXX]] |
 
 ##### Numbers 15 - 10
@@ -109,7 +109,7 @@ Chapter: "15"
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 24|LXX]] |
 
 ##### Numbers 15 - 25
-[[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H3701-3800#H3722|is to make atonement]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H5501-5600#H5545|so that they may be forgiven]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|(the sin)]] [[Lexicon/H7601-7700#H7684|was unintentional]] [[Lexicon/H1901-2000#H1992|and they]] [[Lexicon/H901-1000#H935|have brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H7101-7200#H7133|an offering]] [[Lexicon/H801-900#H801|made by fire]] [[Lexicon/H2401-2500#H2403|and a sin offering ,]] [[Lexicon/H6401-6500#H6440|(presented) before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H7601-7700#H7684|their unintentional sin.]]
+[[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H3701-3800#H3722|is to make atonement]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H5501-5600#H5545|so that they may be forgiven]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|[the sin]]] [[Lexicon/H7601-7700#H7684|was unintentional]] [[Lexicon/H1901-2000#H1992|and they]] [[Lexicon/H901-1000#H935|have brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H7101-7200#H7133|an offering]] [[Lexicon/H801-900#H801|made by fire]] [[Lexicon/H2401-2500#H2403|and a sin offering ,]] [[Lexicon/H6401-6500#H6440|[presented] before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H7601-7700#H7684|their unintentional sin.]]
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 25|LXX]] |
 
 ##### Numbers 15 - 26
@@ -133,7 +133,7 @@ Chapter: "15"
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 30|LXX]] |
 
 ##### Numbers 15 - 31
-[[Lexicon/H5301-5400#H5315|He]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3701-3800#H3772|shall certainly be cut off]] [[Lexicon/H3701-3800#H3772|... ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H901-1000#H959|he has despised]] [[Lexicon/H1601-1700#H1697|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H6501-6600#H6565|broken]] [[Lexicon/H4601-4700#H4687|His commandment ;]] [[Lexicon/H5701-5800#H5771|his guilt (remains)]]
+[[Lexicon/H5301-5400#H5315|He]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3701-3800#H3772|shall certainly be cut off]] [[Lexicon/H3701-3800#H3772|... ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H901-1000#H959|he has despised]] [[Lexicon/H1601-1700#H1697|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H6501-6600#H6565|broken]] [[Lexicon/H4601-4700#H4687|His commandment ;]] [[Lexicon/H5701-5800#H5771|his guilt [remains]]]
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 31|LXX]] |
 
 ##### Numbers 15 - 32
@@ -141,7 +141,7 @@ Chapter: "15"
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 32|LXX]] |
 
 ##### Numbers 15 - 33
-[[Lexicon/H4601-4700#H4672|Those who found]] [[Lexicon/H801-900#H853|(the man)]] [[Lexicon/H7101-7200#H7197|gathering]] [[Lexicon/H6001-6100#H6086|wood]] [[Lexicon/H7101-7200#H7126|brought]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H175|Aaron ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3601-3700#H3605|and the whole]] [[Lexicon/H5701-5800#H5712|congregation ,]]
+[[Lexicon/H4601-4700#H4672|Those who found]] [[Lexicon/H801-900#H853|[the man]]] [[Lexicon/H7101-7200#H7197|gathering]] [[Lexicon/H6001-6100#H6086|wood]] [[Lexicon/H7101-7200#H7126|brought]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H175|Aaron ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3601-3700#H3605|and the whole]] [[Lexicon/H5701-5800#H5712|congregation ,]]
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 33|LXX]] |
 
 ##### Numbers 15 - 34
@@ -153,7 +153,7 @@ Chapter: "15"
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 35|LXX]] |
 
 ##### Numbers 15 - 36
-[[Lexicon/H3601-3700#H3605|So the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3301-3400#H3318|took]] [[Lexicon/H801-900#H853|(the man)]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H4201-4300#H4264|the camp]] [[Lexicon/H7201-7300#H7275|and stoned]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H68|him]] [[Lexicon/H4101-4200#H4191|to death ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H4801-4900#H4872|Moses.]]
+[[Lexicon/H3601-3700#H3605|So the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3301-3400#H3318|took]] [[Lexicon/H801-900#H853|[the man]]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H4201-4300#H4264|the camp]] [[Lexicon/H7201-7300#H7275|and stoned]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H68|him]] [[Lexicon/H4101-4200#H4191|to death ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H4801-4900#H4872|Moses.]]
 | [[LXX Reference/4 - Numbers/Numbers 15#Numbers 15 - 36|LXX]] |
 
 ##### Numbers 15 - 37

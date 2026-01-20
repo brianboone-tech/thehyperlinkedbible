@@ -19,7 +19,7 @@ Testament: Old
 [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G1001-1100#G1063|for]] [[Lexicon/G4601-4700#G4678|wisdom]] [[Lexicon/G1901-2000#G1941|call upon]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4901-5000#G4907|understanding]] [[Lexicon/G1301-1400#G1325|give]] [[Lexicon/G5401-5500#G5456|voice]]
 
 #### Proverbs 2 - 4
-[[Lexicon/G101-200#G0144|perception]] [[Lexicon/G2201-2300#G2212|seek]] [[Lexicon/G3101-3200#G3173|great]] [[Lexicon/G5401-5500#G5456|voice]] [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G2201-2300#G2212|seek]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G601-700#G0694|silver]] [[Lexicon/G2301-2400#G2344|treasures]] [[Lexicon/G1801-1900#G1830|search out]]
+[[Lexicon/G101-200#G0144|perception]] [[Lexicon/G2201-2300#G2212|seek]] [[Lexicon/G3101-3200#G3173|great]] [[Lexicon/G5401-5500#G5456|voice]] [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G2201-2300#G2212|seek]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G601-700#G0694|silver]] [[Lexicon/G2301-2400#G2344|treasures]] [[Lexicon/G1801-1900#G1830|search out]]
 
 #### Proverbs 2 - 5
 [[Lexicon/G5101-5200#G5119|then]] [[Lexicon/G4901-5000#G4920|perceive]] [[Lexicon/G5401-5500#G5401|fear]] [[Lexicon/G2901-3000#G2962|lord]] [[Lexicon/G1901-2000#G1922|knowledge]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G2101-2200#G2147|find]]

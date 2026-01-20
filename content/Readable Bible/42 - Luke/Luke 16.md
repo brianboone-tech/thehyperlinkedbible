@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Luke 16
+# Luke-R 16
 
-[[Readable Bible/42 - Luke/Luke 15|← Luke 15]] | [[Readable Bible/42 - Luke/Luke 17|Luke 17 →]]
+**[[Home/Scripture/42 - Luke|Luke]]**
+
+[[Readable Bible/42 - Luke/Luke 15#Luke-R 15| Luke 15]] - [[Readable Bible/42 - Luke/Luke 17#Luke-R 17| Luke 17]]
 
 ---
 
 ##### Luke 16 . 1
-[[Reference Bible/42 - Luke/Luke 16#Luke 16 - 1|1]] Jesus also said to His disciples, “There was a rich man whose manager was accused of wasting his possessions.  | | [[Chiasm/Chiasm - 42 - Luke 16 . 01 - 17|C]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 16 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/42 - Luke/Luke 16#Luke 16 - 1|1]] Jesus also said to His disciples, “There was a rich man whose manager was accused of wasting his possessions.   || [[Chiasm/Chiasm - 42 - Luke 16 . 01 - 17|C]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 16 - TOSK#Verse 1|TOSK]] |
 
 ##### Luke 16 . 2
 [[Reference Bible/42 - Luke/Luke 16#Luke 16 - 2|2]] So he called him in to ask, ‘What is this I hear about you? Turn in an account of your management, for you cannot be manager any longer.’  | [[Chiasm/Chiasm - 42 - Luke 16 . 01 - 17|C]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 16 - TOSK#Verse 2|TOSK]] |

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Thessalonians 3 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/53 - 2 Thessalonians|← 2 Thessalonians]]** | [[The Treasury of Scripture Knowledge/53. 2 Thessalonians TOSK/2 Thessalonians - 2 - TOSK|← Ch 2]]
+**[[Home/Scripture/53 - 2 Thessalonians|← 2 Thessalonians]]** | [[The Treasury of Scripture Knowledge/53. 2 Thessalonians TOSK/2 Thessalonians - 2 - TOSK|← Ch 2]]
 
 ---
 

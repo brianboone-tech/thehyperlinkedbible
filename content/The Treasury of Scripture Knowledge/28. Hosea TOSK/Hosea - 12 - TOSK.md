@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Hosea 12 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/28 - Hosea|← Hosea]]** | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 13 - TOSK|Ch 13 →]]
+**[[Home/Scripture/28 - Hosea|← Hosea]]** | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 13 - TOSK|Ch 13 →]]
 
 ---
 

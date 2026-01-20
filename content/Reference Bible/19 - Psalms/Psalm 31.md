@@ -58,7 +58,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 31#Psalm 31 - 12|LXX]] |
 
 ##### Psalm 31 - 13
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H8001-8100#H8085|I hear]] [[Lexicon/H1601-1700#H1681|the slander]] [[Lexicon/H7201-7300#H7227|of many ;]] [[Lexicon/H4001-4100#H4032|there is terror]] [[Lexicon/H5401-5500#H5439|on every side.]] [[Lexicon/H3201-3300#H3245|They conspire]] [[Lexicon/H3101-3200#H3162|...]] [[Lexicon/H5901-6000#H5921|against me]] [[Lexicon/H2101-2200#H2161|(and) plot]] [[Lexicon/H3901-4000#H3947|to take]] [[Lexicon/H5301-5400#H5315|my life.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H8001-8100#H8085|I hear]] [[Lexicon/H1601-1700#H1681|the slander]] [[Lexicon/H7201-7300#H7227|of many ;]] [[Lexicon/H4001-4100#H4032|there is terror]] [[Lexicon/H5401-5500#H5439|on every side.]] [[Lexicon/H3201-3300#H3245|They conspire]] [[Lexicon/H3101-3200#H3162|...]] [[Lexicon/H5901-6000#H5921|against me]] [[Lexicon/H2101-2200#H2161|[and] plot]] [[Lexicon/H3901-4000#H3947|to take]] [[Lexicon/H5301-5400#H5315|my life.]]
 | [[LXX Reference/19 - Psalms/Psalms 31#Psalm 31 - 13|LXX]] |
 
 ##### Psalm 31 - 14
@@ -66,7 +66,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 31#Psalm 31 - 14|LXX]] |
 
 ##### Psalm 31 - 15
-[[Lexicon/H6201-6300#H6256|My times]] [[Lexicon/H3001-3100#H3027|(are) in Your hands ;]] [[Lexicon/H5301-5400#H5337|deliver me]] [[Lexicon/H3001-3100#H3027|from]] [[Lexicon/H301-400#H341|my enemies]] [[Lexicon/H7201-7300#H7291|and from those who pursue me.]]
+[[Lexicon/H6201-6300#H6256|My times]] [[Lexicon/H3001-3100#H3027|[are] in Your hands ;]] [[Lexicon/H5301-5400#H5337|deliver me]] [[Lexicon/H3001-3100#H3027|from]] [[Lexicon/H301-400#H341|my enemies]] [[Lexicon/H7201-7300#H7291|and from those who pursue me.]]
 | [[LXX Reference/19 - Psalms/Psalms 31#Psalm 31 - 15|LXX]] |
 
 ##### Psalm 31 - 16
@@ -78,7 +78,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 31#Psalm 31 - 17|LXX]] |
 
 ##### Psalm 31 - 18
-[[Lexicon/H8201-8300#H8267|May lying]] [[Lexicon/H8101-8200#H8193|lips]] [[Lexicon/H401-500#H481|be silenced —]] [[Lexicon/H1601-1700#H1696|(lips that) speak]] [[Lexicon/H6201-6300#H6277|with arrogance]] [[Lexicon/H5901-6000#H5921|against]] [[Lexicon/H6601-6700#H6662|the righteous ,]] [[Lexicon/H1301-1400#H1346|full of pride]] [[Lexicon/H901-1000#H937|and contempt.]]
+[[Lexicon/H8201-8300#H8267|May lying]] [[Lexicon/H8101-8200#H8193|lips]] [[Lexicon/H401-500#H481|be silenced —]] [[Lexicon/H1601-1700#H1696|[lips that] speak]] [[Lexicon/H6201-6300#H6277|with arrogance]] [[Lexicon/H5901-6000#H5921|against]] [[Lexicon/H6601-6700#H6662|the righteous ,]] [[Lexicon/H1301-1400#H1346|full of pride]] [[Lexicon/H901-1000#H937|and contempt.]]
 | [[LXX Reference/19 - Psalms/Psalms 31#Psalm 31 - 18|LXX]] |
 
 ##### Psalm 31 - 19

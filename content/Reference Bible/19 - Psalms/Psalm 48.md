@@ -14,7 +14,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 48#Psalm 48 - 1|LXX]] |
 
 ##### Psalm 48 - 2
-[[Lexicon/H3301-3400#H3303|Beautiful]] [[Lexicon/H5101-5200#H5131|in loftiness ,]] [[Lexicon/H4801-4900#H4885|the joy]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H701-800#H776|the earth ,]] [[Lexicon/H3401-3500#H3411|like the peaks]] [[Lexicon/H6801-6900#H6828|of Zaphon]] [[Lexicon/H2001-2100#H2022|(is) Mount]] [[Lexicon/H6701-6800#H6726|Zion ,]] [[Lexicon/H7101-7200#H7151|the city]] [[Lexicon/H7201-7300#H7227|of the great]] [[Lexicon/H4401-4500#H4428|King.]]
+[[Lexicon/H3301-3400#H3303|Beautiful]] [[Lexicon/H5101-5200#H5131|in loftiness ,]] [[Lexicon/H4801-4900#H4885|the joy]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H701-800#H776|the earth ,]] [[Lexicon/H3401-3500#H3411|like the peaks]] [[Lexicon/H6801-6900#H6828|of Zaphon]] [[Lexicon/H2001-2100#H2022|[is] Mount]] [[Lexicon/H6701-6800#H6726|Zion ,]] [[Lexicon/H7101-7200#H7151|the city]] [[Lexicon/H7201-7300#H7227|of the great]] [[Lexicon/H4401-4500#H4428|King.]]
 | [[LXX Reference/19 - Psalms/Psalms 48#Psalm 48 - 2|LXX]] |
 
 ##### Psalm 48 - 3
@@ -62,5 +62,5 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 48#Psalm 48 - 13|LXX]] |
 
 ##### Psalm 48 - 14
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H401-500#H430|(is) our God]] [[Lexicon/H5701-5800#H5769|forever]] [[Lexicon/H5701-5800#H5703|and ever ;]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H5001-5100#H5090|will be our guide]] [[Lexicon/H5901-6000#H5921|even till]] [[Lexicon/H4101-4200#H4191|death.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H401-500#H430|[is] our God]] [[Lexicon/H5701-5800#H5769|forever]] [[Lexicon/H5701-5800#H5703|and ever ;]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H5001-5100#H5090|will be our guide]] [[Lexicon/H5901-6000#H5921|even till]] [[Lexicon/H4101-4200#H4191|death.]]
 | [[LXX Reference/19 - Psalms/Psalms 48#Psalm 48 - 14|LXX]] |

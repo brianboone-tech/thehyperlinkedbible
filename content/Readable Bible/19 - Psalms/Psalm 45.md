@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 45
+# Psalm-R 45
 
-[[Readable Bible/19 - Psalms/Psalm 44|← Psalm 44]] | [[Readable Bible/19 - Psalms/Psalm 46|Psalm 46 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 44#Psalm-R 44| Psalm 44]] - [[Readable Bible/19 - Psalms/Psalm 46#Psalm-R 46| Psalm 46]]
 
 ---
 

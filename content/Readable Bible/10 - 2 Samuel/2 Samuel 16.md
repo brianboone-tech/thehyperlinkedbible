@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Samuel 16
+# 2 Samuel-R 16
 
-[[Readable Bible/10 - 2 Samuel/2 Samuel 15|← 2 Samuel 15]] | [[Readable Bible/10 - 2 Samuel/2 Samuel 17|2 Samuel 17 →]]
+**[[Home/Scripture/10 - 2 Samuel|2 Samuel]]**
+
+[[Readable Bible/10 - 2 Samuel/2 Samuel 15#2 Samuel-R 15| 2 Samuel 15]] - [[Readable Bible/10 - 2 Samuel/2 Samuel 17#2 Samuel-R 17| 2 Samuel 17]]
 
 ---
 

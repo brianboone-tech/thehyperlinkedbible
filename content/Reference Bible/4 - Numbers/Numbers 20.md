@@ -13,7 +13,7 @@ Chapter: "20"
 ---
 
 ##### Numbers 20 - 1
-[[Lexicon/H7201-7300#H7223|In the first]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H901-1000#H935|entered]] [[Lexicon/H4001-4100#H4057|the Wilderness]] [[Lexicon/H6701-6800#H6790|of Zin]] [[Lexicon/H5901-6000#H5971|(and)]] [[Lexicon/H3401-3500#H3427|stayed]] [[Lexicon/H6901-7000#H6946|in Kadesh.]] [[Lexicon/H8001-8100#H8033|There]] [[Lexicon/H4801-4900#H4813|Miriam]] [[Lexicon/H4101-4200#H4191|died]] [[Lexicon/H6901-7000#H6912|and was buried]] [[Lexicon/H8001-8100#H8033|....]]
+[[Lexicon/H7201-7300#H7223|In the first]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H901-1000#H935|entered]] [[Lexicon/H4001-4100#H4057|the Wilderness]] [[Lexicon/H6701-6800#H6790|of Zin]] [[Lexicon/H5901-6000#H5971|[and]]] [[Lexicon/H3401-3500#H3427|stayed]] [[Lexicon/H6901-7000#H6946|in Kadesh.]] [[Lexicon/H8001-8100#H8033|There]] [[Lexicon/H4801-4900#H4813|Miriam]] [[Lexicon/H4101-4200#H4191|died]] [[Lexicon/H6901-7000#H6912|and was buried]] [[Lexicon/H8001-8100#H8033|....]]
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 1|LXX]] |
 
 ##### Numbers 20 - 2
@@ -49,7 +49,7 @@ Chapter: "20"
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 9|LXX]] |
 
 ##### Numbers 20 - 10
-[[Lexicon/H4801-4900#H4872|Then Moses]] [[Lexicon/H101-200#H175|and Aaron]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6950|gathered]] [[Lexicon/H6901-7000#H6951|the assembly]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H6401-6500#H6440|front]] [[Lexicon/H5501-5600#H5553|of the rock ,]] [[Lexicon/H501-600#H559|and (Moses) said]] [[Lexicon/H8001-8100#H8085|“ Listen]] [[Lexicon/H4901-5000#H4994|now ,]] [[Lexicon/H4701-4800#H4784|you rebels ,]] [[Lexicon/H4301-4400#H4325|must we bring you water]] [[Lexicon/H3301-3400#H3318|out]] [[Lexicon/H4401-4500#H4480|of]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H5501-5600#H5553|rock ? ”]]
+[[Lexicon/H4801-4900#H4872|Then Moses]] [[Lexicon/H101-200#H175|and Aaron]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6950|gathered]] [[Lexicon/H6901-7000#H6951|the assembly]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H6401-6500#H6440|front]] [[Lexicon/H5501-5600#H5553|of the rock ,]] [[Lexicon/H501-600#H559|and [Moses] said]] [[Lexicon/H8001-8100#H8085|“ Listen]] [[Lexicon/H4901-5000#H4994|now ,]] [[Lexicon/H4701-4800#H4784|you rebels ,]] [[Lexicon/H4301-4400#H4325|must we bring you water]] [[Lexicon/H3301-3400#H3318|out]] [[Lexicon/H4401-4500#H4480|of]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H5501-5600#H5553|rock ? ”]]
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 10|LXX]] |
 
 ##### Numbers 20 - 11
@@ -65,7 +65,7 @@ Chapter: "20"
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 13|LXX]] |
 
 ##### Numbers 20 - 14
-[[Lexicon/H6901-7000#H6946|From Kadesh ,]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H4301-4400#H4397|messengers]] [[Lexicon/H401-500#H413|to (tell)]] [[Lexicon/H4401-4500#H4428|the king]] [[Lexicon/H101-200#H123|of Edom ,]] [[Lexicon/H3501-3600#H3541|“ This is what]] [[Lexicon/H201-300#H251|your brother]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H8501-8600#H8513|the hardship]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H4601-4700#H4672|has befallen us ,]]
+[[Lexicon/H6901-7000#H6946|From Kadesh ,]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H4301-4400#H4397|messengers]] [[Lexicon/H401-500#H413|to [tell]]] [[Lexicon/H4401-4500#H4428|the king]] [[Lexicon/H101-200#H123|of Edom ,]] [[Lexicon/H3501-3600#H3541|“ This is what]] [[Lexicon/H201-300#H251|your brother]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H8501-8600#H8513|the hardship]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H4601-4700#H4672|has befallen us ,]]
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 14|LXX]] |
 
 ##### Numbers 20 - 15
@@ -77,7 +77,7 @@ Chapter: "20"
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 16|LXX]] |
 
 ##### Numbers 20 - 17
-[[Lexicon/H4901-5000#H4994|Please]] [[Lexicon/H5601-5700#H5674|let us pass]] [[Lexicon/H701-800#H776|through your land.]] [[Lexicon/H3801-3900#H3808|We will not]] [[Lexicon/H5601-5700#H5674|cut]] [[Lexicon/H7701-7800#H7704|through any field]] [[Lexicon/H3701-3800#H3754|or vineyard ,]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H801-900#H875|from any well.]] [[Lexicon/H1901-2000#H1980|We will stay on]] [[Lexicon/H4401-4500#H4428|the King’s]] [[Lexicon/H1801-1900#H1870|Highway ;]] [[Lexicon/H3801-3900#H3808|we will not]] [[Lexicon/H5101-5200#H5186|turn]] [[Lexicon/H3201-3300#H3225|to the right]] [[Lexicon/H8001-8100#H8040|or to the left]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5601-5700#H5674|we have passed through]] [[Lexicon/H1301-1400#H1366|your territory. ”]]
+[[Lexicon/H4901-5000#H4994|Please]] [[Lexicon/H5601-5700#H5674|let us pass]] [[Lexicon/H701-800#H776|through your land.]] [[Lexicon/H3801-3900#H3808|We will not]] [[Lexicon/H5601-5700#H5674|cut]] [[Lexicon/H7701-7800#H7704|through any field]] [[Lexicon/H3701-3800#H3754|or vineyard ,]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H801-900#H875|from any well.]] [[Lexicon/H1901-2000#H1980|We will stay on]] [[Lexicon/H4401-4500#H4428|the King’s]] [[Lexicon/H1801-1900#H1870|Highway ;]] [[Lexicon/H3801-3900#H3808|we will not]] [[Lexicon/H5101-5200#H5186|turn]] [[Lexicon/H3201-3300#H3225|to the right]] [[Lexicon/H8001-8100#H8040|or to the left]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5601-5700#H5674|we have passed through]] [[Lexicon/H1301-1400#H1366|your territory. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 17|LXX]] |
 
 ##### Numbers 20 - 18
@@ -89,7 +89,7 @@ Chapter: "20"
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 19|LXX]] |
 
 ##### Numbers 20 - 20
-[[Lexicon/H101-200#H123|But Edom]] [[Lexicon/H501-600#H559|insisted ,]] [[Lexicon/H3801-3900#H3808|“ You may not]] [[Lexicon/H5601-5700#H5674|pass through. ”]] [[Lexicon/H3301-3400#H3318|And they came out]] [[Lexicon/H7101-7200#H7122|to confront (the Israelites)]] [[Lexicon/H3501-3600#H3515|with a large]] [[Lexicon/H5901-6000#H5971|army]] [[Lexicon/H2301-2400#H2389|and a strong]] [[Lexicon/H3001-3100#H3027|hand.]]
+[[Lexicon/H101-200#H123|But Edom]] [[Lexicon/H501-600#H559|insisted ,]] [[Lexicon/H3801-3900#H3808|“ You may not]] [[Lexicon/H5601-5700#H5674|pass through. ”]] [[Lexicon/H3301-3400#H3318|And they came out]] [[Lexicon/H7101-7200#H7122|to confront [the Israelites]]] [[Lexicon/H3501-3600#H3515|with a large]] [[Lexicon/H5901-6000#H5971|army]] [[Lexicon/H2301-2400#H2389|and a strong]] [[Lexicon/H3001-3100#H3027|hand.]]
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 20|LXX]] |
 
 ##### Numbers 20 - 21
@@ -113,7 +113,7 @@ Chapter: "20"
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 25|LXX]] |
 
 ##### Numbers 20 - 26
-[[Lexicon/H6501-6600#H6584|Remove]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H175|Aaron’s]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H899|priestly garments]] [[Lexicon/H3801-3900#H3847|and put them on]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|his son]] [[Lexicon/H401-500#H499|Eleazar.]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H601-700#H622|will be gathered (to his people)]] [[Lexicon/H4101-4200#H4191|and will die]] [[Lexicon/H8001-8100#H8033|there. ”]]
+[[Lexicon/H6501-6600#H6584|Remove]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H175|Aaron’s]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H899|priestly garments]] [[Lexicon/H3801-3900#H3847|and put them on]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|his son]] [[Lexicon/H401-500#H499|Eleazar.]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H601-700#H622|will be gathered [to his people]]] [[Lexicon/H4101-4200#H4191|and will die]] [[Lexicon/H8001-8100#H8033|there. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 20#Numbers 20 - 26|LXX]] |
 
 ##### Numbers 20 - 27

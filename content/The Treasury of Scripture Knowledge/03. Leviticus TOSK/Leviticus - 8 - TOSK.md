@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Leviticus 8 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 9 - TOSK|Ch 9 →]]
+**[[Home/Scripture/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 9 - TOSK|Ch 9 →]]
 
 ---
 

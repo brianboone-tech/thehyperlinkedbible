@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Habakkuk 3
+# Habakkuk-R 3
 
-[[Readable Bible/35 - Habakkuk/Habakkuk 2|← Habakkuk 2]]
+**[[Home/Scripture/35 - Habakkuk|Habakkuk]]**
+
+[[Readable Bible/35 - Habakkuk/Habakkuk 2#Habakkuk-R 2| Habakkuk 2]]
 
 ---
 

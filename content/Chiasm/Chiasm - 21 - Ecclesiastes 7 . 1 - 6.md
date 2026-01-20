@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/21 - Ecclesiastes|← Ecclesiastes]]**
+**[[Home/Scripture/21 - Ecclesiastes|← Ecclesiastes]]**
 
 ---
 

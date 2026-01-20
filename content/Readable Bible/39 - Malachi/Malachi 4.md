@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Malachi 4
+# Malachi-R 4
 
-[[Readable Bible/39 - Malachi/Malachi 3|← Malachi 3]]
+**[[Home/Scripture/39 - Malachi|Malachi]]**
+
+[[Readable Bible/39 - Malachi/Malachi 3#Malachi-R 3| Malachi 3]]
 
 ---
 

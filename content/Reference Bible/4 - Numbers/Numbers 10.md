@@ -25,7 +25,7 @@ Chapter: "10"
 | [[LXX Reference/4 - Numbers/Numbers 10#Numbers 10 - 3|LXX]] |
 
 ##### Numbers 10 - 4
-[[Lexicon/H501-600#H518|But if]] [[Lexicon/H201-300#H259|(only) one]] [[Lexicon/H8601-8674#H8628|is sounded ,]] [[Lexicon/H5301-5400#H5387|then the leaders ,]] [[Lexicon/H7201-7300#H7218|the heads]] [[Lexicon/H501-600#H505|of the clans]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H3201-3300#H3259|are to gather]] [[Lexicon/H401-500#H413|before you.]]
+[[Lexicon/H501-600#H518|But if]] [[Lexicon/H201-300#H259|[only] one]] [[Lexicon/H8601-8674#H8628|is sounded ,]] [[Lexicon/H5301-5400#H5387|then the leaders ,]] [[Lexicon/H7201-7300#H7218|the heads]] [[Lexicon/H501-600#H505|of the clans]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H3201-3300#H3259|are to gather]] [[Lexicon/H401-500#H413|before you.]]
 | [[LXX Reference/4 - Numbers/Numbers 10#Numbers 10 - 4|LXX]] |
 
 ##### Numbers 10 - 5
@@ -41,7 +41,7 @@ Chapter: "10"
 | [[LXX Reference/4 - Numbers/Numbers 10#Numbers 10 - 7|LXX]] |
 
 ##### Numbers 10 - 8
-[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H101-200#H175|of Aaron ,]] [[Lexicon/H3501-3600#H3548|the priests ,]] [[Lexicon/H8601-8674#H8628|are to sound]] [[Lexicon/H2601-2700#H2689|the trumpets.]] [[Lexicon/H1901-2000#H1961|This shall be]] [[Lexicon/H5701-5800#H5769|a permanent]] [[Lexicon/H2701-2800#H2708|statute]] [[Lexicon/H1701-1800#H1755|(and) the generations to come.]]
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H101-200#H175|of Aaron ,]] [[Lexicon/H3501-3600#H3548|the priests ,]] [[Lexicon/H8601-8674#H8628|are to sound]] [[Lexicon/H2601-2700#H2689|the trumpets.]] [[Lexicon/H1901-2000#H1961|This shall be]] [[Lexicon/H5701-5800#H5769|a permanent]] [[Lexicon/H2701-2800#H2708|statute]] [[Lexicon/H1701-1800#H1755|[and] the generations to come.]]
 | [[LXX Reference/4 - Numbers/Numbers 10#Numbers 10 - 8|LXX]] |
 
 ##### Numbers 10 - 9
@@ -77,7 +77,7 @@ Chapter: "10"
 | [[LXX Reference/4 - Numbers/Numbers 10#Numbers 10 - 16|LXX]] |
 
 ##### Numbers 10 - 17
-[[Lexicon/H4901-5000#H4908|Then the tabernacle]] [[Lexicon/H3301-3400#H3381|was taken down ,]] [[Lexicon/H1101-1200#H1121|and the Gershonites]] [[Lexicon/H1601-1700#H1648|...]] [[Lexicon/H1101-1200#H1121|and the Merarites]] [[Lexicon/H4801-4900#H4847|...]] [[Lexicon/H5201-5300#H5265|set out ,]] [[Lexicon/H5301-5400#H5375|transporting]] [[Lexicon/H4901-5000#H4908|(it).]]
+[[Lexicon/H4901-5000#H4908|Then the tabernacle]] [[Lexicon/H3301-3400#H3381|was taken down ,]] [[Lexicon/H1101-1200#H1121|and the Gershonites]] [[Lexicon/H1601-1700#H1648|...]] [[Lexicon/H1101-1200#H1121|and the Merarites]] [[Lexicon/H4801-4900#H4847|...]] [[Lexicon/H5201-5300#H5265|set out ,]] [[Lexicon/H5301-5400#H5375|transporting]] [[Lexicon/H4901-5000#H4908|[it].]]
 | [[LXX Reference/4 - Numbers/Numbers 10#Numbers 10 - 17|LXX]] |
 
 ##### Numbers 10 - 18
@@ -129,7 +129,7 @@ Chapter: "10"
 | [[LXX Reference/4 - Numbers/Numbers 10#Numbers 10 - 29|LXX]] |
 
 ##### Numbers 10 - 30
-[[Lexicon/H3801-3900#H3808|“ I will not]] [[Lexicon/H1901-2000#H1980|go , ”]] [[Lexicon/H501-600#H559|(Hobab) replied]] [[Lexicon/H401-500#H413|-.]] [[Lexicon/H3501-3600#H3588|“ Instead]] [[Lexicon/H501-600#H518|... ,]] [[Lexicon/H1901-2000#H1980|I am going back]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|my own land]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H4101-4200#H4138|and my own people. ”]]
+[[Lexicon/H3801-3900#H3808|“ I will not]] [[Lexicon/H1901-2000#H1980|go , ”]] [[Lexicon/H501-600#H559|[Hobab] replied]] [[Lexicon/H401-500#H413|-.]] [[Lexicon/H3501-3600#H3588|“ Instead]] [[Lexicon/H501-600#H518|... ,]] [[Lexicon/H1901-2000#H1980|I am going back]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|my own land]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H4101-4200#H4138|and my own people. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 10#Numbers 10 - 30|LXX]] |
 
 ##### Numbers 10 - 31

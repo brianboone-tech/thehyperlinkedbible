@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/25 - Lamentations|← Lamentations]]**
+**[[Home/Scripture/25 - Lamentations|← Lamentations]]**
 
 ---
 

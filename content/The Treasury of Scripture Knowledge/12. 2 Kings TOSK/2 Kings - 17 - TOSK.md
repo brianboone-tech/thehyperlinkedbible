@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 2 Kings 17 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 18 - TOSK|Ch 18 →]]
+**[[Home/Scripture/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 18 - TOSK|Ch 18 →]]
 
 ---
 

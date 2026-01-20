@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Amos 8 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/30 - Amos|← Amos]]** | [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 9 - TOSK|Ch 9 →]]
+**[[Home/Scripture/30 - Amos|← Amos]]** | [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 9 - TOSK|Ch 9 →]]
 
 ---
 

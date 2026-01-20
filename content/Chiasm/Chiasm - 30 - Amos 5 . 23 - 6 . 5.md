@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/30 - Amos|← Amos]]**
+**[[Home/Scripture/30 - Amos|← Amos]]**
 
 ---
 

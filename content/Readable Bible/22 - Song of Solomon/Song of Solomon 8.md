@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Song of Solomon 8
+# Song of Solomon-R 8
 
-[[Readable Bible/22 - Song of Solomon/Song of Solomon 7|← Song of Solomon 7]]
+**[[Home/Scripture/22 - Song of Solomon|Song of Solomon]]**
+
+[[Readable Bible/22 - Song of Solomon/Song of Solomon 7#Song of Solomon-R 7| Song of Solomon 7]] - [[Readable Bible/22 - Song of Solomon/Song of Solomon 9#Song of Solomon-R 9| Song of Solomon 9]]
 
 ---
 

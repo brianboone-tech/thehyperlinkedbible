@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 23
+# Psalm-R 23
 
-[[Readable Bible/19 - Psalms/Psalm 22|← Psalm 22]] | [[Readable Bible/19 - Psalms/Psalm 24|Psalm 24 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 22#Psalm-R 22| Psalm 22]] - [[Readable Bible/19 - Psalms/Psalm 24#Psalm-R 24| Psalm 24]]
 
 ---
 

@@ -7,7 +7,7 @@ Testament: Old
 
 # Zephaniah 3
 
-[[LXX Reference/36 - Zephaniah/Zephaniah 2|←]]
+[[LXX Reference/36 - Zephaniah/Zephaniah 2|←]] • [[LXX Reference/36 - Zephaniah/Zephaniah 4|→]]
 
 ---
 
@@ -18,7 +18,7 @@ Testament: Old
 [[Lexicon/G3701-3800#G3756|She did not listen to]] [[Lexicon/G5401-5500#G5456|your voice;]] [[Lexicon/G3701-3800#G3756|she did not]] [[Lexicon/G1201-1300#G1209|take]] [[Lexicon/G3801-3900#G3809|instruction;]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G2301-2400#G2316|her God]] [[Lexicon/G3701-3800#G3756|she did not]] [[Lexicon/G1401-1500#G1448|approach.]]
 
 #### Zephaniah 3 - 3
-[[Lexicon/G701-800#G0758|Her rulers]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G3001-3100#G3023|lions]] [[Lexicon/G5601-5624#G5612|roaring.]] [[Lexicon/G2901-3000#G2923|Her judges]] [[Lexicon/G3001-3100#G3074|wolves]] of Arabia; [[Lexicon/G3701-3800#G3756|they did not]] [[Lexicon/G5201-5300#G5275|remain behind]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G4401-4500#G4404|the morning.]]
+[[Lexicon/G701-800#G0758|Her rulers]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G3001-3100#G3023|lions]] [[Lexicon/G5601-5700#G5612|roaring.]] [[Lexicon/G2901-3000#G2923|Her judges]] [[Lexicon/G3001-3100#G3074|wolves]] of Arabia; [[Lexicon/G3701-3800#G3756|they did not]] [[Lexicon/G5201-5300#G5275|remain behind]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G4401-4500#G4404|the morning.]]
 
 #### Zephaniah 3 - 4
 [[Lexicon/G4301-4400#G4396|Her prophets]] [[Lexicon/G4101-4200#G4153|carried by the wind]] [[Lexicon/G2701-2800#G2707|despisers.]] [[Lexicon/G2401-2500#G2409|Her priests]] [[Lexicon/G901-1000#G0953|profane]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G0039|holy things,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G701-800#G0764|they are impious]] [[Lexicon/G1501-1600#G1519|against]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3551|law.]]
@@ -60,7 +60,7 @@ Testament: Old
 [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G2501-2600#G2540|that time]] Jerusalem, [[Lexicon/G2201-2300#G2293|Be of courage,]] O Zion, [[Lexicon/G3301-3400#G3361|do not]] [[Lexicon/G3901-4000#G3935|neglect]] [[Lexicon/G5401-5500#G5495|your hands!]]
 
 #### Zephaniah 3 - 17
-[[Lexicon/G2301-2400#G2316|your God]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1415|mighty one]] [[Lexicon/G4901-5000#G4982|shall deliver]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G1801-1900#G1863|he shall bring]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2101-2200#G2167|gladness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2536|shall revive]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1-100#G0026|his affection;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2165|he shall be glad]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G5001-5100#G5061|delight]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1801-1900#G1859|of the holiday feast.]]
+[[Lexicon/G2301-2400#G2316|your God]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1415|mighty one]] [[Lexicon/G4901-5000#G4982|shall deliver]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G1801-1900#G1863|he shall bring]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2101-2200#G2167|gladness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2536|shall revive]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1-100#G0026|his affection;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2165|he shall be glad]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G5001-5100#G5061|delight]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1801-1900#G1859|of the holiday feast.]]
 
 #### Zephaniah 3 - 18
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4801-4900#G4863|I will gather]] [[Lexicon/G4901-5000#G4937|your ones being broken.]] [[Lexicon/G3701-3800#G3759|Woe,]] [[Lexicon/G5001-5100#G5100|any]] [[Lexicon/G2901-3000#G2983|taken]] [[Lexicon/G1901-2000#G1909|upon]]

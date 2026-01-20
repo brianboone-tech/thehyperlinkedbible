@@ -17,7 +17,7 @@ Chapter: "17"
 | [[LXX Reference/4 - Numbers/Numbers 17#Numbers 17 - 1|LXX]] |
 
 ##### Numbers 17 - 2
-[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H3901-4000#H3947|and take]] [[Lexicon/H801-900#H854|from them]] [[Lexicon/H8101-8200#H8147|twelve]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H4201-4300#H4294|staffs ,]] [[Lexicon/H4201-4300#H4294|(one)]] [[Lexicon/H4201-4300#H4294|...]] [[Lexicon/H1-100#H1|-]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H1001-1100#H1004|...]] [[Lexicon/H5301-5400#H5387|from the leader]] [[Lexicon/H3601-3700#H3605|of each]] [[Lexicon/H1-100#H1|tribe]] [[Lexicon/H1001-1100#H1004|....]] [[Lexicon/H3701-3800#H3789|Write]] [[Lexicon/H301-400#H376|each]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8034|man’s name]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H4201-4300#H4294|his staff ,]]
+[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H3901-4000#H3947|and take]] [[Lexicon/H801-900#H854|from them]] [[Lexicon/H8101-8200#H8147|twelve]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H4201-4300#H4294|staffs ,]] [[Lexicon/H4201-4300#H4294|[one]]] [[Lexicon/H4201-4300#H4294|...]] [[Lexicon/H1-100#H1|-]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H1001-1100#H1004|...]] [[Lexicon/H5301-5400#H5387|from the leader]] [[Lexicon/H3601-3700#H3605|of each]] [[Lexicon/H1-100#H1|tribe]] [[Lexicon/H1001-1100#H1004|....]] [[Lexicon/H3701-3800#H3789|Write]] [[Lexicon/H301-400#H376|each]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8034|man’s name]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H4201-4300#H4294|his staff ,]]
 | [[LXX Reference/4 - Numbers/Numbers 17#Numbers 17 - 2|LXX]] |
 
 ##### Numbers 17 - 3
@@ -25,7 +25,7 @@ Chapter: "17"
 | [[LXX Reference/4 - Numbers/Numbers 17#Numbers 17 - 3|LXX]] |
 
 ##### Numbers 17 - 4
-[[Lexicon/H5101-5200#H5117|Place (the staffs)]] [[Lexicon/H101-200#H168|in the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H6401-6500#H6440|in front of]] [[Lexicon/H5701-5800#H5715|the Testimony ,]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H3201-3300#H3259|I meet]] [[Lexicon/H8001-8100#H8033|....]]
+[[Lexicon/H5101-5200#H5117|Place [the staffs]]] [[Lexicon/H101-200#H168|in the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H6401-6500#H6440|in front of]] [[Lexicon/H5701-5800#H5715|the Testimony ,]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H3201-3300#H3259|I meet]] [[Lexicon/H8001-8100#H8033|....]]
 | [[LXX Reference/4 - Numbers/Numbers 17#Numbers 17 - 4|LXX]] |
 
 ##### Numbers 17 - 5
@@ -33,7 +33,7 @@ Chapter: "17"
 | [[LXX Reference/4 - Numbers/Numbers 17#Numbers 17 - 5|LXX]] |
 
 ##### Numbers 17 - 6
-[[Lexicon/H4801-4900#H4872|So Moses]] [[Lexicon/H1601-1700#H1696|spoke]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|... ,]] [[Lexicon/H3601-3700#H3605|and each]] [[Lexicon/H5301-5400#H5387|of their leaders]] [[Lexicon/H5401-5500#H5414|gave him]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H201-300#H259|a]] [[Lexicon/H4201-4300#H4294|staff —]] [[Lexicon/H5301-5400#H5387|]] [[Lexicon/H4201-4300#H4294|one]] [[Lexicon/H201-300#H259|for each]] [[Lexicon/H5301-5400#H5387|of the leaders]] [[Lexicon/H1-100#H1|of their tribes]] [[Lexicon/H1001-1100#H1004|... ,]] [[Lexicon/H8101-8200#H8147|twelve]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H4201-4300#H4294|staffs in all.]] [[Lexicon/H101-200#H175|And Aaron’s]] [[Lexicon/H4201-4300#H4294|staff]] [[Lexicon/H8401-8500#H8432|was among]] [[Lexicon/H4201-4300#H4294|(them).]]
+[[Lexicon/H4801-4900#H4872|So Moses]] [[Lexicon/H1601-1700#H1696|spoke]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|... ,]] [[Lexicon/H3601-3700#H3605|and each]] [[Lexicon/H5301-5400#H5387|of their leaders]] [[Lexicon/H5401-5500#H5414|gave him]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H201-300#H259|a]] [[Lexicon/H4201-4300#H4294|staff —]] [[Lexicon/H5301-5400#H5387|]] [[Lexicon/H4201-4300#H4294|one]] [[Lexicon/H201-300#H259|for each]] [[Lexicon/H5301-5400#H5387|of the leaders]] [[Lexicon/H1-100#H1|of their tribes]] [[Lexicon/H1001-1100#H1004|... ,]] [[Lexicon/H8101-8200#H8147|twelve]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H4201-4300#H4294|staffs in all.]] [[Lexicon/H101-200#H175|And Aaron’s]] [[Lexicon/H4201-4300#H4294|staff]] [[Lexicon/H8401-8500#H8432|was among]] [[Lexicon/H4201-4300#H4294|[them].]]
 | [[LXX Reference/4 - Numbers/Numbers 17#Numbers 17 - 6|LXX]] |
 
 ##### Numbers 17 - 7

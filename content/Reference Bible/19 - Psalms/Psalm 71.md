@@ -38,7 +38,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 71#Psalm 71 - 7|LXX]] |
 
 ##### Psalm 71 - 8
-[[Lexicon/H6301-6400#H6310|My mouth]] [[Lexicon/H4301-4400#H4390|is filled]] [[Lexicon/H8401-8500#H8416|(with) Your praise]] [[Lexicon/H8501-8600#H8597|(and with) Your splendor]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3101-3200#H3117|day long.]]
+[[Lexicon/H6301-6400#H6310|My mouth]] [[Lexicon/H4301-4400#H4390|is filled]] [[Lexicon/H8401-8500#H8416|[with] Your praise]] [[Lexicon/H8501-8600#H8597|[and with] Your splendor]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3101-3200#H3117|day long.]]
 | [[LXX Reference/19 - Psalms/Psalms 71#Psalm 71 - 8|LXX]] |
 
 ##### Psalm 71 - 9
@@ -58,7 +58,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 71#Psalm 71 - 12|LXX]] |
 
 ##### Psalm 71 - 13
-[[Lexicon/H7801-7900#H7853|May the accusers]] [[Lexicon/H5301-5400#H5315|of my soul]] [[Lexicon/H901-1000#H954|be ashamed]] [[Lexicon/H3601-3700#H3615|(and) consumed ;]] [[Lexicon/H1201-1300#H1245|may those who seek]] [[Lexicon/H7401-7500#H7451|my harm]] [[Lexicon/H5801-5900#H5844|be covered]] [[Lexicon/H2701-2800#H2781|with scorn]] [[Lexicon/H3601-3700#H3639|and disgrace.]]
+[[Lexicon/H7801-7900#H7853|May the accusers]] [[Lexicon/H5301-5400#H5315|of my soul]] [[Lexicon/H901-1000#H954|be ashamed]] [[Lexicon/H3601-3700#H3615|[and] consumed ;]] [[Lexicon/H1201-1300#H1245|may those who seek]] [[Lexicon/H7401-7500#H7451|my harm]] [[Lexicon/H5801-5900#H5844|be covered]] [[Lexicon/H2701-2800#H2781|with scorn]] [[Lexicon/H3601-3700#H3639|and disgrace.]]
 | [[LXX Reference/19 - Psalms/Psalms 71#Psalm 71 - 13|LXX]] |
 
 ##### Psalm 71 - 14
@@ -82,7 +82,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 71#Psalm 71 - 18|LXX]] |
 
 ##### Psalm 71 - 19
-[[Lexicon/H6601-6700#H6666|Your righteousness]] [[Lexicon/H5701-5800#H5704|(reaches) to]] [[Lexicon/H4701-4800#H4791|the heavens ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H801-900#H834|You who]] [[Lexicon/H6201-6300#H6213|have done]] [[Lexicon/H1401-1500#H1419|great things.]] [[Lexicon/H4301-4400#H4310|Who ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H3601-3700#H3644|is like You ?]]
+[[Lexicon/H6601-6700#H6666|Your righteousness]] [[Lexicon/H5701-5800#H5704|[reaches] to]] [[Lexicon/H4701-4800#H4791|the heavens ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H801-900#H834|You who]] [[Lexicon/H6201-6300#H6213|have done]] [[Lexicon/H1401-1500#H1419|great things.]] [[Lexicon/H4301-4400#H4310|Who ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H3601-3700#H3644|is like You ?]]
 | [[LXX Reference/19 - Psalms/Psalms 71#Psalm 71 - 19|LXX]] |
 
 ##### Psalm 71 - 20

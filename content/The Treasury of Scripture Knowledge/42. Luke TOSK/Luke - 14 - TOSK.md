@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Luke 14 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 15 - TOSK|Ch 15 →]]
+**[[Home/Scripture/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 15 - TOSK|Ch 15 →]]
 
 ---
 

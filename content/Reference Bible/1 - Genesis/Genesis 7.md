@@ -17,11 +17,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 1|LXX]] |
 
 ##### Genesis 7 - 2
-[[Lexicon/H3901-4000#H3947|{are to} take with you]] [[Lexicon/H7601-7700#H7651|seven pairs of]] [[Lexicon/H7601-7700#H7651|...]] [[Lexicon/H3601-3700#H3605|every kind of]] [[Lexicon/H2801-2900#H2889|clean]] [[Lexicon/H901-1000#H929|animal ,]] [[Lexicon/H301-400#H376|a male]] [[Lexicon/H801-900#H802|and its mate ;]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H8101-8200#H8147|a pair]] [[Lexicon/H4401-4500#H4480|of]] [[Lexicon/H801-900#H834|(every kind of)]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H2801-2900#H2889|unclean]] [[Lexicon/H901-1000#H929|animal ,]] [[Lexicon/H301-400#H376|a male]] [[Lexicon/H801-900#H802|and its mate ;]]
+[[Lexicon/H3901-4000#H3947|{are to} take with you]] [[Lexicon/H7601-7700#H7651|seven pairs of]] [[Lexicon/H7601-7700#H7651|...]] [[Lexicon/H3601-3700#H3605|every kind of]] [[Lexicon/H2801-2900#H2889|clean]] [[Lexicon/H901-1000#H929|animal ,]] [[Lexicon/H301-400#H376|a male]] [[Lexicon/H801-900#H802|and its mate ;]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H8101-8200#H8147|a pair]] [[Lexicon/H4401-4500#H4480|of]] [[Lexicon/H801-900#H834|[every kind of]]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H2801-2900#H2889|unclean]] [[Lexicon/H901-1000#H929|animal ,]] [[Lexicon/H301-400#H376|a male]] [[Lexicon/H801-900#H802|and its mate ;]]
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 2|LXX]] |
 
 ##### Genesis 7 - 3
-[[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H7601-7700#H7651|seven (pairs)]] [[Lexicon/H5701-5800#H5775|of (every kind of) bird]] [[Lexicon/H8001-8100#H8064|of the air ,]] [[Lexicon/H7601-7700#H7651|-]] [[Lexicon/H2101-2200#H2145|male]] [[Lexicon/H5301-5400#H5347|and female ,]] [[Lexicon/H2401-2500#H2421|to preserve]] [[Lexicon/H2201-2300#H2233|their offspring]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H6401-6500#H6440|the face]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H701-800#H776|the earth.]]
+[[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H7601-7700#H7651|seven [pairs]]] [[Lexicon/H5701-5800#H5775|of [every kind of] bird]] [[Lexicon/H8001-8100#H8064|of the air ,]] [[Lexicon/H7601-7700#H7651|-]] [[Lexicon/H2101-2200#H2145|male]] [[Lexicon/H5301-5400#H5347|and female ,]] [[Lexicon/H2401-2500#H2421|to preserve]] [[Lexicon/H2201-2300#H2233|their offspring]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H6401-6500#H6440|the face]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H701-800#H776|the earth.]]
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 3|LXX]] |
 
 ##### Genesis 7 - 4
@@ -37,11 +37,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 6|LXX]] |
 
 ##### Genesis 7 - 7
-[[Lexicon/H5101-5200#H5146|And Noah]] [[Lexicon/H801-900#H802|and his wife ,]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H1101-1200#H1121|his sons]] [[Lexicon/H1101-1200#H1121|and (their)]] [[Lexicon/H801-900#H802|wives ,]] [[Lexicon/H901-1000#H935|entered]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H8301-8400#H8392|the ark]] [[Lexicon/H6401-6500#H6440|to escape]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H3901-4000#H3999|of the flood.]]
+[[Lexicon/H5101-5200#H5146|And Noah]] [[Lexicon/H801-900#H802|and his wife ,]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H1101-1200#H1121|his sons]] [[Lexicon/H1101-1200#H1121|and [their]]] [[Lexicon/H801-900#H802|wives ,]] [[Lexicon/H901-1000#H935|entered]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H8301-8400#H8392|the ark]] [[Lexicon/H6401-6500#H6440|to escape]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H3901-4000#H3999|of the flood.]]
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 7|LXX]] |
 
 ##### Genesis 7 - 8
-[[Lexicon/H4401-4500#H4480|(The)]] [[Lexicon/H2801-2900#H2889|clean]] [[Lexicon/H901-1000#H929|...]] [[Lexicon/H4401-4500#H4480|and]] [[Lexicon/H4401-4500#H4480|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H301-400#H369|vvv]] [[Lexicon/H2801-2900#H2889|unclean]] [[Lexicon/H901-1000#H929|animals ,]] [[Lexicon/H5701-5800#H5775|the birds ,]] [[Lexicon/H3601-3700#H3605|and everything]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H7401-7500#H7430|crawls]] [[Lexicon/H5901-6000#H5921|along]] [[Lexicon/H101-200#H127|the ground]]
+[[Lexicon/H4401-4500#H4480|[The]]] [[Lexicon/H2801-2900#H2889|clean]] [[Lexicon/H901-1000#H929|...]] [[Lexicon/H4401-4500#H4480|and]] [[Lexicon/H4401-4500#H4480|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H301-400#H369|vvv]] [[Lexicon/H2801-2900#H2889|unclean]] [[Lexicon/H901-1000#H929|animals ,]] [[Lexicon/H5701-5800#H5775|the birds ,]] [[Lexicon/H3601-3700#H3605|and everything]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H7401-7500#H7430|crawls]] [[Lexicon/H5901-6000#H5921|along]] [[Lexicon/H101-200#H127|the ground]]
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 8|LXX]] |
 
 ##### Genesis 7 - 9
@@ -61,7 +61,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 12|LXX]] |
 
 ##### Genesis 7 - 13
-[[Lexicon/H6101-6200#H6106|On that very]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H5101-5200#H5146|Noah]] [[Lexicon/H901-1000#H935|entered]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H8301-8400#H8392|the ark ,]] [[Lexicon/H1101-1200#H1121|(along with his) sons]] [[Lexicon/H5101-5200#H5146|...]] [[Lexicon/H8001-8100#H8035|Shem ,]] [[Lexicon/H2501-2600#H2526|Ham ,]] [[Lexicon/H3301-3400#H3315|and Japheth ,]] [[Lexicon/H5101-5200#H5146|and (his)]] [[Lexicon/H801-900#H802|wife ,]] [[Lexicon/H7901-8000#H7969|and the three]] [[Lexicon/H801-900#H802|wives]] [[Lexicon/H1101-1200#H1121|of his sons]] [[Lexicon/H801-900#H854|- —]]
+[[Lexicon/H6101-6200#H6106|On that very]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H5101-5200#H5146|Noah]] [[Lexicon/H901-1000#H935|entered]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H8301-8400#H8392|the ark ,]] [[Lexicon/H1101-1200#H1121|[along with his] sons]] [[Lexicon/H5101-5200#H5146|...]] [[Lexicon/H8001-8100#H8035|Shem ,]] [[Lexicon/H2501-2600#H2526|Ham ,]] [[Lexicon/H3301-3400#H3315|and Japheth ,]] [[Lexicon/H5101-5200#H5146|and [his]]] [[Lexicon/H801-900#H802|wife ,]] [[Lexicon/H7901-8000#H7969|and the three]] [[Lexicon/H801-900#H802|wives]] [[Lexicon/H1101-1200#H1121|of his sons]] [[Lexicon/H801-900#H854|- —]]
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 13|LXX]] |
 
 ##### Genesis 7 - 14
@@ -73,7 +73,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 15|LXX]] |
 
 ##### Genesis 7 - 16
-[[Lexicon/H901-1000#H935|And they entered]] [[Lexicon/H901-1000#H935|... ,]] [[Lexicon/H2101-2200#H2145|the male]] [[Lexicon/H5301-5400#H5347|and female]] [[Lexicon/H3601-3700#H3605|of every]] [[Lexicon/H1301-1400#H1320|living thing ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H801-900#H853|(Noah).]] [[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H1101-1200#H1157|...]] [[Lexicon/H5401-5500#H5462|shut him in.]]
+[[Lexicon/H901-1000#H935|And they entered]] [[Lexicon/H901-1000#H935|... ,]] [[Lexicon/H2101-2200#H2145|the male]] [[Lexicon/H5301-5400#H5347|and female]] [[Lexicon/H3601-3700#H3605|of every]] [[Lexicon/H1301-1400#H1320|living thing ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H801-900#H853|[Noah].]] [[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H1101-1200#H1157|...]] [[Lexicon/H5401-5500#H5462|shut him in.]]
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 16|LXX]] |
 
 ##### Genesis 7 - 17
@@ -97,7 +97,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 21|LXX]] |
 
 ##### Genesis 7 - 22
-[[Lexicon/H3601-3700#H3605|Of all]] [[Lexicon/H801-900#H834|that (was)]] [[Lexicon/H2701-2800#H2724|on dry land ,]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|that had]] [[Lexicon/H5301-5400#H5397|the breath]] [[Lexicon/H7301-7400#H7307|of]] [[Lexicon/H2401-2500#H2416|life]] [[Lexicon/H601-700#H639|in its nostrils]] [[Lexicon/H4101-4200#H4191|died.]]
+[[Lexicon/H3601-3700#H3605|Of all]] [[Lexicon/H801-900#H834|that [was]]] [[Lexicon/H2701-2800#H2724|on dry land ,]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|that had]] [[Lexicon/H5301-5400#H5397|the breath]] [[Lexicon/H7301-7400#H7307|of]] [[Lexicon/H2401-2500#H2416|life]] [[Lexicon/H601-700#H639|in its nostrils]] [[Lexicon/H4101-4200#H4191|died.]]
 | [[LXX Reference/1 - Genesis/Genesis 7#Genesis 7 - 22|LXX]] |
 
 ##### Genesis 7 - 23

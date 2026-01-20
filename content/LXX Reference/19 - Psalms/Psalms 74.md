@@ -24,7 +24,7 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1460|boasted]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1801-1900#G1859|of your holiday;]] [[Lexicon/G5001-5100#G5087|they set]] [[Lexicon/G4501-4600#G4592|their signs]] [[Lexicon/G4501-4600#G4592|for signs.]]
 
 #### Psalms 74 - 5
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|they knew not]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1801-1900#G1841|conclusion]] [[Lexicon/G5201-5300#G5231|above,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1701-1800#G1722|in]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|they knew not]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1801-1900#G1841|conclusion]] [[Lexicon/G5201-5300#G5231|above,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1701-1800#G1722|in]]
 
 #### Psalms 74 - 6
 [[Lexicon/G2301-2400#G2374|its doors]]

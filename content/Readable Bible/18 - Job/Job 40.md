@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Job 40
+# Job-R 40
 
-[[Readable Bible/18 - Job/Job 39|← Job 39]] | [[Readable Bible/18 - Job/Job 41|Job 41 →]]
+**[[Home/Scripture/18 - Job|Job]]**
+
+[[Readable Bible/18 - Job/Job 39#Job-R 39| Job 39]] - [[Readable Bible/18 - Job/Job 41#Job-R 41| Job 41]]
 
 ---
 

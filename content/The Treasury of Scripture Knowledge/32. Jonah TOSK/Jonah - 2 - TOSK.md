@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Jonah 2 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/32 - Jonah|← Jonah]]** | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 3 - TOSK|Ch 3 →]]
+**[[Home/Scripture/32 - Jonah|← Jonah]]** | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 3 - TOSK|Ch 3 →]]
 
 ---
 

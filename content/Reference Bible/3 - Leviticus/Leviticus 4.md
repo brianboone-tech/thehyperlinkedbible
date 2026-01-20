@@ -40,7 +40,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 4#Leviticus 4 - 7|LXX]] |
 
 ##### Leviticus 4 - 8
-[[Lexicon/H801-900#H853|Then]] [[Lexicon/H7301-7400#H7311|he shall remove]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6499|the bull]] [[Lexicon/H2401-2500#H2403|of the sin offering —]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3601-3700#H3680|that covers]] [[Lexicon/H5901-6000#H5921|]] [[Lexicon/H7101-7200#H7130|the entrails ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|is on]] [[Lexicon/H7101-7200#H7130|(them) ,]]
+[[Lexicon/H801-900#H853|Then]] [[Lexicon/H7301-7400#H7311|he shall remove]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6499|the bull]] [[Lexicon/H2401-2500#H2403|of the sin offering —]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3601-3700#H3680|that covers]] [[Lexicon/H5901-6000#H5921|]] [[Lexicon/H7101-7200#H7130|the entrails ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|is on]] [[Lexicon/H7101-7200#H7130|[them] ,]]
 | [[LXX Reference/3 - Leviticus/Leviticus 4#Leviticus 4 - 8|LXX]] |
 
 ##### Leviticus 4 - 9
@@ -76,7 +76,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 4#Leviticus 4 - 16|LXX]] |
 
 ##### Leviticus 4 - 17
-[[Lexicon/H3501-3600#H3548|and (he)]] [[Lexicon/H2801-2900#H2881|is to dip]] [[Lexicon/H601-700#H676|his finger]] [[Lexicon/H4401-4500#H4480|in]] [[Lexicon/H1801-1900#H1818|the blood]] [[Lexicon/H5101-5200#H5137|and sprinkle]] [[Lexicon/H7601-7700#H7651|it seven]] [[Lexicon/H6401-6500#H6471|times]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H6401-6500#H6440|in front]] [[Lexicon/H6501-6600#H6532|of the veil.]]
+[[Lexicon/H3501-3600#H3548|and [he]]] [[Lexicon/H2801-2900#H2881|is to dip]] [[Lexicon/H601-700#H676|his finger]] [[Lexicon/H4401-4500#H4480|in]] [[Lexicon/H1801-1900#H1818|the blood]] [[Lexicon/H5101-5200#H5137|and sprinkle]] [[Lexicon/H7601-7700#H7651|it seven]] [[Lexicon/H6401-6500#H6471|times]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H6401-6500#H6440|in front]] [[Lexicon/H6501-6600#H6532|of the veil.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 4#Leviticus 4 - 17|LXX]] |
 
 ##### Leviticus 4 - 18
@@ -84,7 +84,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 4#Leviticus 4 - 18|LXX]] |
 
 ##### Leviticus 4 - 19
-[[Lexicon/H801-900#H853|And]] [[Lexicon/H7301-7400#H7311|he is to remove]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H4401-4500#H4480|from it]] [[Lexicon/H6901-7000#H6999|and burn (it)]] [[Lexicon/H4101-4200#H4196|on the altar.]]
+[[Lexicon/H801-900#H853|And]] [[Lexicon/H7301-7400#H7311|he is to remove]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H4401-4500#H4480|from it]] [[Lexicon/H6901-7000#H6999|and burn [it]]] [[Lexicon/H4101-4200#H4196|on the altar.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 4#Leviticus 4 - 19|LXX]] |
 
 ##### Leviticus 4 - 20
@@ -132,7 +132,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 4#Leviticus 4 - 30|LXX]] |
 
 ##### Leviticus 4 - 31
-[[Lexicon/H801-900#H853|Then]] [[Lexicon/H5401-5500#H5493|he is to remove]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H2401-2500#H2459|(it)]] [[Lexicon/H5401-5500#H5493|is removed]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|the peace offering ,]] [[Lexicon/H3501-3600#H3548|and the priest]] [[Lexicon/H6901-7000#H6999|is to burn]] [[Lexicon/H4101-4200#H4196|it on the altar]] [[Lexicon/H5201-5300#H5207|as a pleasing]] [[Lexicon/H7301-7400#H7381|aroma]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H3501-3600#H3548|In this way the priest]] [[Lexicon/H3701-3800#H3722|will make atonement]] [[Lexicon/H5901-6000#H5921|for him ,]] [[Lexicon/H5501-5600#H5545|and he will be forgiven]]
+[[Lexicon/H801-900#H853|Then]] [[Lexicon/H5401-5500#H5493|he is to remove]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H2401-2500#H2459|[it]]] [[Lexicon/H5401-5500#H5493|is removed]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|the peace offering ,]] [[Lexicon/H3501-3600#H3548|and the priest]] [[Lexicon/H6901-7000#H6999|is to burn]] [[Lexicon/H4101-4200#H4196|it on the altar]] [[Lexicon/H5201-5300#H5207|as a pleasing]] [[Lexicon/H7301-7400#H7381|aroma]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H3501-3600#H3548|In this way the priest]] [[Lexicon/H3701-3800#H3722|will make atonement]] [[Lexicon/H5901-6000#H5921|for him ,]] [[Lexicon/H5501-5600#H5545|and he will be forgiven]]
 | [[LXX Reference/3 - Leviticus/Leviticus 4#Leviticus 4 - 31|LXX]] |
 
 ##### Leviticus 4 - 32
@@ -148,5 +148,5 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 4#Leviticus 4 - 34|LXX]] |
 
 ##### Leviticus 4 - 35
-[[Lexicon/H801-900#H853|And]] [[Lexicon/H5401-5500#H5493|he shall remove]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3701-3800#H3775|of the lamb]] [[Lexicon/H5401-5500#H5493|is removed]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|from the peace offerings ,]] [[Lexicon/H3501-3600#H3548|and (he)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6999|shall burn]] [[Lexicon/H4101-4200#H4196|it on the altar]] [[Lexicon/H5901-6000#H5921|along with]] [[Lexicon/H801-900#H801|the offerings made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H3501-3600#H3548|In this way the priest]] [[Lexicon/H3701-3800#H3722|will make atonement]] [[Lexicon/H5901-6000#H5921|for him]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H2401-2500#H2403|the sin]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2301-2400#H2398|he has committed ,]] [[Lexicon/H5501-5600#H5545|and he will be forgiven]]
+[[Lexicon/H801-900#H853|And]] [[Lexicon/H5401-5500#H5493|he shall remove]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3701-3800#H3775|of the lamb]] [[Lexicon/H5401-5500#H5493|is removed]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|from the peace offerings ,]] [[Lexicon/H3501-3600#H3548|and [he]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6999|shall burn]] [[Lexicon/H4101-4200#H4196|it on the altar]] [[Lexicon/H5901-6000#H5921|along with]] [[Lexicon/H801-900#H801|the offerings made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H3501-3600#H3548|In this way the priest]] [[Lexicon/H3701-3800#H3722|will make atonement]] [[Lexicon/H5901-6000#H5921|for him]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H2401-2500#H2403|the sin]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2301-2400#H2398|he has committed ,]] [[Lexicon/H5501-5600#H5545|and he will be forgiven]]
 | [[LXX Reference/3 - Leviticus/Leviticus 4#Leviticus 4 - 35|LXX]] |

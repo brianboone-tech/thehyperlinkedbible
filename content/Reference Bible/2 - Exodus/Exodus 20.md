@@ -29,11 +29,11 @@ Chapter: "20"
 | [[LXX Reference/2 - Exodus/Exodus 20#Exodus 20 - 4|LXX]] |
 
 ##### Exodus 20 - 5
-[[Lexicon/H3801-3900#H3808|You shall not]] [[Lexicon/H7801-7900#H7812|bow down]] [[Lexicon/H3801-3900#H3808|or]] [[Lexicon/H5601-5700#H5647|worship them ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H595|I ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God ,]] [[Lexicon/H7001-7100#H7067|am a jealous]] [[Lexicon/H401-500#H410|God ,]] [[Lexicon/H6401-6500#H6485|visiting]] [[Lexicon/H5701-5800#H5771|the iniquity]] [[Lexicon/H1-100#H1|of the fathers]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H1101-1200#H1121|(their) children]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H8001-8100#H8029|the third]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7201-7300#H7256|and fourth (generations)]] [[Lexicon/H8101-8200#H8130|of those who hate Me ,]]
+[[Lexicon/H3801-3900#H3808|You shall not]] [[Lexicon/H7801-7900#H7812|bow down]] [[Lexicon/H3801-3900#H3808|or]] [[Lexicon/H5601-5700#H5647|worship them ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H595|I ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God ,]] [[Lexicon/H7001-7100#H7067|am a jealous]] [[Lexicon/H401-500#H410|God ,]] [[Lexicon/H6401-6500#H6485|visiting]] [[Lexicon/H5701-5800#H5771|the iniquity]] [[Lexicon/H1-100#H1|of the fathers]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H1101-1200#H1121|[their] children]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H8001-8100#H8029|the third]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7201-7300#H7256|and fourth [generations]]] [[Lexicon/H8101-8200#H8130|of those who hate Me ,]]
 | [[LXX Reference/2 - Exodus/Exodus 20#Exodus 20 - 5|LXX]] |
 
 ##### Exodus 20 - 6
-[[Lexicon/H6201-6300#H6213|but showing]] [[Lexicon/H2601-2700#H2617|loving devotion]] [[Lexicon/H501-600#H505|to a thousand (generations)]] [[Lexicon/H101-200#H157|of those who love Me]] [[Lexicon/H8101-8200#H8104|and keep]] [[Lexicon/H4601-4700#H4687|My commandments.]]
+[[Lexicon/H6201-6300#H6213|but showing]] [[Lexicon/H2601-2700#H2617|loving devotion]] [[Lexicon/H501-600#H505|to a thousand [generations]]] [[Lexicon/H101-200#H157|of those who love Me]] [[Lexicon/H8101-8200#H8104|and keep]] [[Lexicon/H4601-4700#H4687|My commandments.]]
 | [[LXX Reference/2 - Exodus/Exodus 20#Exodus 20 - 6|LXX]] |
 
 ##### Exodus 20 - 7
@@ -53,7 +53,7 @@ Chapter: "20"
 | [[LXX Reference/2 - Exodus/Exodus 20#Exodus 20 - 10|LXX]] |
 
 ##### Exodus 20 - 11
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H8301-8400#H8337|(in) six]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H8001-8100#H8064|the heavens]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|and the earth]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3220|and the sea]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H7601-7700#H7637|but on the seventh]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H5101-5200#H5117|He rested.]] [[Lexicon/H5901-6000#H5921|Therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1288|blessed]] [[Lexicon/H7601-7700#H7676|the Sabbath]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6901-7000#H6942|and set it apart as holy.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H8301-8400#H8337|[in] six]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H8001-8100#H8064|the heavens]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|and the earth]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3220|and the sea]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H7601-7700#H7637|but on the seventh]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H5101-5200#H5117|He rested.]] [[Lexicon/H5901-6000#H5921|Therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1288|blessed]] [[Lexicon/H7601-7700#H7676|the Sabbath]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6901-7000#H6942|and set it apart as holy.]]
 | [[LXX Reference/2 - Exodus/Exodus 20#Exodus 20 - 11|LXX]] |
 
 ##### Exodus 20 - 12
@@ -113,6 +113,6 @@ Chapter: "20"
 | [[LXX Reference/2 - Exodus/Exodus 20#Exodus 20 - 25|LXX]] |
 
 ##### Exodus 20 - 26
-[[Lexicon/H3801-3900#H3808|And you must not]] [[Lexicon/H5901-6000#H5927|go up]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H4101-4200#H4196|My altar]] [[Lexicon/H4601-4700#H4609|on steps ,]] [[Lexicon/H801-900#H834|lest]] [[Lexicon/H3801-3900#H3808|]] [[Lexicon/H6101-6200#H6172|your nakedness]] [[Lexicon/H1501-1600#H1540|be exposed]] [[Lexicon/H5901-6000#H5921|on it. ’ (’’)]]
+[[Lexicon/H3801-3900#H3808|And you must not]] [[Lexicon/H5901-6000#H5927|go up]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H4101-4200#H4196|My altar]] [[Lexicon/H4601-4700#H4609|on steps ,]] [[Lexicon/H801-900#H834|lest]] [[Lexicon/H3801-3900#H3808|]] [[Lexicon/H6101-6200#H6172|your nakedness]] [[Lexicon/H1501-1600#H1540|be exposed]] [[Lexicon/H5901-6000#H5921|on it. ’ [’’]]]
 | [[LXX Reference/2 - Exodus/Exodus 20#Exodus 20 - 26|LXX]] |
 

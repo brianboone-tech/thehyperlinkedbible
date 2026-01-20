@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Judges 20 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/07 - Judges|← Judges]]** | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 21 - TOSK|Ch 21 →]]
+**[[Home/Scripture/07 - Judges|← Judges]]** | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 21 - TOSK|Ch 21 →]]
 
 ---
 

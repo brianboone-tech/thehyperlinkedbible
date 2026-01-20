@@ -6,9 +6,11 @@ cssclasses:
   - lexicon
 ---
 
-# Genesis 4
+# Genesis-R 4 
 
-[[Readable Bible/01 - Genesis/Genesis 3|← Genesis 3]] | [[Readable Bible/01 - Genesis/Genesis 5|Genesis 5 →]]
+**[[Home/Scripture/01 - Genesis|Genesis]]**
+
+[[Readable Bible/01 - Genesis/Genesis 3#Genesis-R 3| Genesis 3]] - [[Readable Bible/01 - Genesis/Genesis 5#Genesis-R 5| Genesis 5]]
 
 ---
 
@@ -34,7 +36,7 @@ cssclasses:
 ##### Genesis 4 . 9
 [[Reference Bible/1 - Genesis/Genesis 4#Genesis 4 - 9|9]] And the LORD said to Cain, "Where is your brother Abel?" "I do not know!" he answered. "Am I my brother's keeper?"  | [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 11.4 to Genesis 4.1-10|IP¹]] | [[Intertextuality Pairs/NT to OT/62 - 1 John/1 John 3.12 to Genesis 4.4-15|IP²]] | [[Intertextuality Pairs/NT to OT/65 - Jude/Jude 1.11 to Genesis 4.1-16|IP³]] | [[Chiasm/Chiasm - 01 - Genesis 4 . 1 - 26|C¹]] | [[Chiasm/Chiasm - 01 - Genesis 4 . 3 - 12|C²]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 4 - TOSK#Verse 9|TOSK]] |
 ##### Genesis 4 . 10
-[[Reference Bible/1 - Genesis/Genesis 4#Genesis 4 - 10|10]] "What have you done?" replied the LORD. "The voice of your brother's blood cries out to Me from the ground.  | [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 11.4 to Genesis 4.1-10|IP¹]] | [[Intertextuality Pairs/NT to OT/62 - 1 John/1 John 3.12 to Genesis 4.4-15|IP²]] | [[Intertextuality Pairs/NT to OT/65 - Jude/Jude 1.11 to Genesis 4.1-16|IP³]] | [[Chiasm/Chiasm - 01 - Genesis 4 . 1 - 26|C¹]] | [[Chiasm/Chiasm - 01 - Genesis 4 . 3 - 12|C²]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 4 - TOSK#Verse 10|TOSK]] | [[Trajectory Tables/180 - Voice of Blood (Blood That Speaks)|TT]] |
+[[Reference Bible/1 - Genesis/Genesis 4#Genesis 4 - 10|10]] "What have you done?" replied the LORD. "The voice of your brother's blood cries out to Me from the ground.  | [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 11.4 to Genesis 4.1-10|IP¹]] | [[Intertextuality Pairs/NT to OT/62 - 1 John/1 John 3.12 to Genesis 4.4-15|IP²]] | [[Intertextuality Pairs/NT to OT/65 - Jude/Jude 1.11 to Genesis 4.1-16|IP³]] | [[Chiasm/Chiasm - 01 - Genesis 4 . 1 - 26|C¹]] | [[Chiasm/Chiasm - 01 - Genesis 4 . 3 - 12|C²]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 4 - TOSK#Verse 10|TOSK]] |
 ##### Genesis 4 . 11
 [[Reference Bible/1 - Genesis/Genesis 4#Genesis 4 - 11|11]] Now you are cursed and banished from the ground, which has opened its mouth to receive your brother's blood from your hand.  | [[Intertextuality Pairs/NT to OT/62 - 1 John/1 John 3.12 to Genesis 4.4-15|IP¹]] | [[Intertextuality Pairs/NT to OT/65 - Jude/Jude 1.11 to Genesis 4.1-16|IP²]] | [[Chiasm/Chiasm - 01 - Genesis 4 . 1 - 26|C¹]] | [[Chiasm/Chiasm - 01 - Genesis 4 . 3 - 12|C²]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 4 - TOSK#Verse 11|TOSK]] | [[Trajectory Tables/062 - Garden Commission (Extending Sacred Space)|TT]] |
 ##### Genesis 4 . 12

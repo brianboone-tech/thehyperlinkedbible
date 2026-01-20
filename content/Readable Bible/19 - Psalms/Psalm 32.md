@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 32
+# Psalm-R 32
 
-[[Readable Bible/19 - Psalms/Psalm 31|← Psalm 31]] | [[Readable Bible/19 - Psalms/Psalm 33|Psalm 33 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 31#Psalm-R 31| Psalm 31]] - [[Readable Bible/19 - Psalms/Psalm 33#Psalm-R 33| Psalm 33]]
 
 ---
 

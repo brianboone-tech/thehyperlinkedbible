@@ -17,11 +17,11 @@ Chapter: "2"
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 1|LXX]] |
 
 ##### Exodus 2 - 2
-[[Lexicon/H801-900#H802|and she]] [[Lexicon/H2001-2100#H2029|conceived]] [[Lexicon/H3201-3300#H3205|and gave birth to]] [[Lexicon/H1101-1200#H1121|a son.]] [[Lexicon/H7101-7200#H7200|When she saw]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H1901-2000#H1931|he (was a)]] [[Lexicon/H2801-2900#H2896|beautiful (child) ,]] [[Lexicon/H6801-6900#H6845|she hid him]] [[Lexicon/H7901-8000#H7969|for three]] [[Lexicon/H3301-3400#H3391|months.]]
+[[Lexicon/H801-900#H802|and she]] [[Lexicon/H2001-2100#H2029|conceived]] [[Lexicon/H3201-3300#H3205|and gave birth to]] [[Lexicon/H1101-1200#H1121|a son.]] [[Lexicon/H7101-7200#H7200|When she saw]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H1901-2000#H1931|he [was a]]] [[Lexicon/H2801-2900#H2896|beautiful [child] ,]] [[Lexicon/H6801-6900#H6845|she hid him]] [[Lexicon/H7901-8000#H7969|for three]] [[Lexicon/H3301-3400#H3391|months.]]
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 2|LXX]] |
 
 ##### Exodus 2 - 3
-[[Lexicon/H3201-3300#H3201|But when she could]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H6801-6900#H6845|hide him ,]] [[Lexicon/H3901-4000#H3947|she got]] [[Lexicon/H1501-1600#H1573|a papyrus]] [[Lexicon/H8301-8400#H8392|basket]] [[Lexicon/H2501-2600#H2560|and coated it]] [[Lexicon/H2501-2600#H2564|with tar]] [[Lexicon/H2201-2300#H2203|and pitch.]] [[Lexicon/H7701-7800#H7760|Then she placed]] [[Lexicon/H3201-3300#H3206|the child]] [[Lexicon/H801-900#H853|(the basket)]] [[Lexicon/H7701-7800#H7760|and set]] [[Lexicon/H5401-5500#H5488|it among the reeds]] [[Lexicon/H5901-6000#H5921|along]] [[Lexicon/H8101-8200#H8193|the bank]] [[Lexicon/H2901-3000#H2975|of the Nile.]]
+[[Lexicon/H3201-3300#H3201|But when she could]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H6801-6900#H6845|hide him ,]] [[Lexicon/H3901-4000#H3947|she got]] [[Lexicon/H1501-1600#H1573|a papyrus]] [[Lexicon/H8301-8400#H8392|basket]] [[Lexicon/H2501-2600#H2560|and coated it]] [[Lexicon/H2501-2600#H2564|with tar]] [[Lexicon/H2201-2300#H2203|and pitch.]] [[Lexicon/H7701-7800#H7760|Then she placed]] [[Lexicon/H3201-3300#H3206|the child]] [[Lexicon/H801-900#H853|[the basket]]] [[Lexicon/H7701-7800#H7760|and set]] [[Lexicon/H5401-5500#H5488|it among the reeds]] [[Lexicon/H5901-6000#H5921|along]] [[Lexicon/H8101-8200#H8193|the bank]] [[Lexicon/H2901-3000#H2975|of the Nile.]]
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 3|LXX]] |
 
 ##### Exodus 2 - 4
@@ -57,11 +57,11 @@ Chapter: "2"
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 11|LXX]] |
 
 ##### Exodus 2 - 12
-[[Lexicon/H6401-6500#H6437|After looking]] [[Lexicon/H3501-3600#H3541|this way]] [[Lexicon/H3501-3600#H3541|(and) that]] [[Lexicon/H7101-7200#H7200|and seeing]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H301-400#H369|no]] [[Lexicon/H301-400#H376|one ,]] [[Lexicon/H5201-5300#H5221|he struck down]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4701-4800#H4713|the Egyptian]] [[Lexicon/H2901-3000#H2934|and hid his body]] [[Lexicon/H2301-2400#H2344|in the sand.]]
+[[Lexicon/H6401-6500#H6437|After looking]] [[Lexicon/H3501-3600#H3541|this way]] [[Lexicon/H3501-3600#H3541|[and] that]] [[Lexicon/H7101-7200#H7200|and seeing]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H301-400#H369|no]] [[Lexicon/H301-400#H376|one ,]] [[Lexicon/H5201-5300#H5221|he struck down]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4701-4800#H4713|the Egyptian]] [[Lexicon/H2901-3000#H2934|and hid his body]] [[Lexicon/H2301-2400#H2344|in the sand.]]
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 12|LXX]] |
 
 ##### Exodus 2 - 13
-[[Lexicon/H8101-8200#H8145|The next]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H3301-3400#H3318|(Moses) went out]] [[Lexicon/H2001-2100#H2009|and saw]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H501-600#H582|...]] [[Lexicon/H5601-5700#H5680|Hebrews -]] [[Lexicon/H5301-5400#H5327|fighting.]] [[Lexicon/H501-600#H559|He asked]] [[Lexicon/H7501-7600#H7563|the one in the wrong ,]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H5201-5300#H5221|are you attacking]] [[Lexicon/H7401-7500#H7453|your companion ? ”]]
+[[Lexicon/H8101-8200#H8145|The next]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H3301-3400#H3318|[Moses] went out]] [[Lexicon/H2001-2100#H2009|and saw]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H501-600#H582|...]] [[Lexicon/H5601-5700#H5680|Hebrews -]] [[Lexicon/H5301-5400#H5327|fighting.]] [[Lexicon/H501-600#H559|He asked]] [[Lexicon/H7501-7600#H7563|the one in the wrong ,]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H5201-5300#H5221|are you attacking]] [[Lexicon/H7401-7500#H7453|your companion ? ”]]
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 13|LXX]] |
 
 ##### Exodus 2 - 14
@@ -81,7 +81,7 @@ Chapter: "2"
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 17|LXX]] |
 
 ##### Exodus 2 - 18
-[[Lexicon/H901-1000#H935|When (the daughters) returned]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H7401-7500#H7467|Reuel ,]] [[Lexicon/H501-600#H559|he asked them ,]] [[Lexicon/H4001-4100#H4069|“ Why]] [[Lexicon/H901-1000#H935|have you returned]] [[Lexicon/H4101-4200#H4116|so early]] [[Lexicon/H3101-3200#H3117|today ? ”]]
+[[Lexicon/H901-1000#H935|When [the daughters] returned]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H7401-7500#H7467|Reuel ,]] [[Lexicon/H501-600#H559|he asked them ,]] [[Lexicon/H4001-4100#H4069|“ Why]] [[Lexicon/H901-1000#H935|have you returned]] [[Lexicon/H4101-4200#H4116|so early]] [[Lexicon/H3101-3200#H3117|today ? ”]]
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 18|LXX]] |
 
 ##### Exodus 2 - 19
@@ -89,7 +89,7 @@ Chapter: "2"
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 19|LXX]] |
 
 ##### Exodus 2 - 20
-[[Lexicon/H301-400#H335|“ So where is he ? ”]] [[Lexicon/H501-600#H559|(their father) asked]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1301-1400#H1323|....]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H301-400#H376|did you leave the man]] [[Lexicon/H5701-5800#H5800|behind ?]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7121|Invite]] [[Lexicon/H301-400#H398|to have something to eat]] [[Lexicon/H3801-3900#H3899|.... ”]]
+[[Lexicon/H301-400#H335|“ So where is he ? ”]] [[Lexicon/H501-600#H559|[their father] asked]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1301-1400#H1323|....]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H301-400#H376|did you leave the man]] [[Lexicon/H5701-5800#H5800|behind ?]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7121|Invite]] [[Lexicon/H301-400#H398|to have something to eat]] [[Lexicon/H3801-3900#H3899|.... ”]]
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 20|LXX]] |
 
 ##### Exodus 2 - 21
@@ -97,7 +97,7 @@ Chapter: "2"
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 21|LXX]] |
 
 ##### Exodus 2 - 22
-[[Lexicon/H3201-3300#H3205|And she gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H7101-7200#H7121|and (Moses) named him]] [[Lexicon/H801-900#H853|...]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H1601-1700#H1647|Gershom ,]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H1901-2000#H1961|“ I have become]] [[Lexicon/H1601-1700#H1616|a foreigner]] [[Lexicon/H5201-5300#H5237|in a foreign]] [[Lexicon/H701-800#H776|land. ”]]
+[[Lexicon/H3201-3300#H3205|And she gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H7101-7200#H7121|and [Moses] named him]] [[Lexicon/H801-900#H853|...]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H1601-1700#H1647|Gershom ,]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H1901-2000#H1961|“ I have become]] [[Lexicon/H1601-1700#H1616|a foreigner]] [[Lexicon/H5201-5300#H5237|in a foreign]] [[Lexicon/H701-800#H776|land. ”]]
 | [[LXX Reference/2 - Exodus/Exodus 2#Exodus 2 - 22|LXX]] |
 
 ##### Exodus 2 - 23

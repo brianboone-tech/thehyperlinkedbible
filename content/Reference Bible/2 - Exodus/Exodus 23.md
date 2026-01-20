@@ -13,7 +13,7 @@ Chapter: "23"
 ---
 
 ##### Exodus 23 - 1
-[[Lexicon/H3801-3900#H3808|(“) You shall not]] [[Lexicon/H5301-5400#H5375|spread]] [[Lexicon/H7701-7800#H7723|a false]] [[Lexicon/H8001-8100#H8088|report.]] [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H7801-7900#H7896|join]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H5901-6000#H5973|...]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H1901-2000#H1961|by being]] [[Lexicon/H2501-2600#H2555|a malicious]] [[Lexicon/H5701-5800#H5707|witness.]]
+[[Lexicon/H3801-3900#H3808|[“] You shall not]] [[Lexicon/H5301-5400#H5375|spread]] [[Lexicon/H7701-7800#H7723|a false]] [[Lexicon/H8001-8100#H8088|report.]] [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H7801-7900#H7896|join]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H5901-6000#H5973|...]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H1901-2000#H1961|by being]] [[Lexicon/H2501-2600#H2555|a malicious]] [[Lexicon/H5701-5800#H5707|witness.]]
 | [[LXX Reference/2 - Exodus/Exodus 23#Exodus 23 - 1|LXX]] |
 
 ##### Exodus 23 - 2
@@ -53,7 +53,7 @@ Chapter: "23"
 | [[LXX Reference/2 - Exodus/Exodus 23#Exodus 23 - 10|LXX]] |
 
 ##### Exodus 23 - 11
-[[Lexicon/H7601-7700#H7637|but in the seventh (year)]] [[Lexicon/H8001-8100#H8058|you must let it rest]] [[Lexicon/H5201-5300#H5203|and lie fallow ,]] [[Lexicon/H1-100#H34|so that the poor]] [[Lexicon/H5901-6000#H5971|among your people]] [[Lexicon/H301-400#H398|may eat]] [[Lexicon/H7701-7800#H7704|from the field]] [[Lexicon/H2401-2500#H2416|and the wild animals]] [[Lexicon/H301-400#H398|may consume]] [[Lexicon/H3401-3500#H3499|what they leave.]] [[Lexicon/H6201-6300#H6213|Do]] [[Lexicon/H3601-3700#H3651|the same]] [[Lexicon/H3701-3800#H3754|with your vineyard]] [[Lexicon/H2101-2200#H2132|and olive grove.]]
+[[Lexicon/H7601-7700#H7637|but in the seventh [year]]] [[Lexicon/H8001-8100#H8058|you must let it rest]] [[Lexicon/H5201-5300#H5203|and lie fallow ,]] [[Lexicon/H1-100#H34|so that the poor]] [[Lexicon/H5901-6000#H5971|among your people]] [[Lexicon/H301-400#H398|may eat]] [[Lexicon/H7701-7800#H7704|from the field]] [[Lexicon/H2401-2500#H2416|and the wild animals]] [[Lexicon/H301-400#H398|may consume]] [[Lexicon/H3401-3500#H3499|what they leave.]] [[Lexicon/H6201-6300#H6213|Do]] [[Lexicon/H3601-3700#H3651|the same]] [[Lexicon/H3701-3800#H3754|with your vineyard]] [[Lexicon/H2101-2200#H2132|and olive grove.]]
 | [[LXX Reference/2 - Exodus/Exodus 23#Exodus 23 - 11|LXX]] |
 
 ##### Exodus 23 - 12
@@ -73,7 +73,7 @@ Chapter: "23"
 | [[LXX Reference/2 - Exodus/Exodus 23#Exodus 23 - 15|LXX]] |
 
 ##### Exodus 23 - 16
-[[Lexicon/H2201-2300#H2282|(You are also to keep) the Feast]] [[Lexicon/H7101-7200#H7105|of Harvest]] [[Lexicon/H1001-1100#H1061|with the firstfruits]] [[Lexicon/H4601-4700#H4639|of the produce]] [[Lexicon/H801-900#H834|from what]] [[Lexicon/H2201-2300#H2232|you sow]] [[Lexicon/H7701-7800#H7704|in the field.]] [[Lexicon/H2201-2300#H2282|And (keep) the Feast]] [[Lexicon/H601-700#H614|of Ingathering]] [[Lexicon/H3301-3400#H3318|at the end]] [[Lexicon/H8101-8200#H8141|of the year ,]] [[Lexicon/H601-700#H622|when you gather]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4601-4700#H4639|your produce]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H7701-7800#H7704|the field.]]
+[[Lexicon/H2201-2300#H2282|[You are also to keep] the Feast]] [[Lexicon/H7101-7200#H7105|of Harvest]] [[Lexicon/H1001-1100#H1061|with the firstfruits]] [[Lexicon/H4601-4700#H4639|of the produce]] [[Lexicon/H801-900#H834|from what]] [[Lexicon/H2201-2300#H2232|you sow]] [[Lexicon/H7701-7800#H7704|in the field.]] [[Lexicon/H2201-2300#H2282|And [keep] the Feast]] [[Lexicon/H601-700#H614|of Ingathering]] [[Lexicon/H3301-3400#H3318|at the end]] [[Lexicon/H8101-8200#H8141|of the year ,]] [[Lexicon/H601-700#H622|when you gather]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4601-4700#H4639|your produce]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H7701-7800#H7704|the field.]]
 | [[LXX Reference/2 - Exodus/Exodus 23#Exodus 23 - 16|LXX]] |
 
 ##### Exodus 23 - 17
@@ -133,7 +133,7 @@ Chapter: "23"
 | [[LXX Reference/2 - Exodus/Exodus 23#Exodus 23 - 30|LXX]] |
 
 ##### Exodus 23 - 31
-[[Lexicon/H7801-7900#H7896|And I will establish]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1301-1400#H1366|your borders]] [[Lexicon/H5401-5500#H5488|from the Red]] [[Lexicon/H3201-3300#H3220|Sea]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H3201-3300#H3220|the Sea]] [[Lexicon/H6401-6500#H6430|of the Philistines ,]] [[Lexicon/H4001-4100#H4057|and from the desert]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H5101-5200#H5104|the (Euphrates).]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H5401-5500#H5414|I will deliver]] [[Lexicon/H3401-3500#H3427|the inhabitants]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H3001-3100#H3027|into your hand ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1644|and you will drive them out]] [[Lexicon/H6401-6500#H6440|before you.]]
+[[Lexicon/H7801-7900#H7896|And I will establish]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1301-1400#H1366|your borders]] [[Lexicon/H5401-5500#H5488|from the Red]] [[Lexicon/H3201-3300#H3220|Sea]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H3201-3300#H3220|the Sea]] [[Lexicon/H6401-6500#H6430|of the Philistines ,]] [[Lexicon/H4001-4100#H4057|and from the desert]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H5101-5200#H5104|the [Euphrates].]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H5401-5500#H5414|I will deliver]] [[Lexicon/H3401-3500#H3427|the inhabitants]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H3001-3100#H3027|into your hand ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1644|and you will drive them out]] [[Lexicon/H6401-6500#H6440|before you.]]
 | [[LXX Reference/2 - Exodus/Exodus 23#Exodus 23 - 31|LXX]] |
 
 ##### Exodus 23 - 32

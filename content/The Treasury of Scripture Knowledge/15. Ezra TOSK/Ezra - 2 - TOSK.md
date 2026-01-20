@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Ezra 2 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/15 - Ezra|← Ezra]]** | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 3 - TOSK|Ch 3 →]]
+**[[Home/Scripture/15 - Ezra|← Ezra]]** | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 3 - TOSK|Ch 3 →]]
 
 ---
 

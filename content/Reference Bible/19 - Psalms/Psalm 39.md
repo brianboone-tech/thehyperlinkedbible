@@ -14,11 +14,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 39#Psalm 39 - 1|LXX]] |
 
 ##### Psalm 39 - 2
-[[Lexicon/H401-500#H481|I was speechless]] [[Lexicon/H1701-1800#H1747|and still ;]] [[Lexicon/H2801-2900#H2814|I remained silent ,]] [[Lexicon/H2801-2900#H2896|(even) from (speaking) good ,]] [[Lexicon/H3501-3600#H3511|and my sorrow]] [[Lexicon/H5901-6000#H5916|was stirred.]]
+[[Lexicon/H401-500#H481|I was speechless]] [[Lexicon/H1701-1800#H1747|and still ;]] [[Lexicon/H2801-2900#H2814|I remained silent ,]] [[Lexicon/H2801-2900#H2896|[even] from [speaking] good ,]] [[Lexicon/H3501-3600#H3511|and my sorrow]] [[Lexicon/H5901-6000#H5916|was stirred.]]
 | [[LXX Reference/19 - Psalms/Psalms 39#Psalm 39 - 2|LXX]] |
 
 ##### Psalm 39 - 3
-[[Lexicon/H3801-3900#H3820|My heart]] [[Lexicon/H2501-2600#H2552|grew hot]] [[Lexicon/H7101-7200#H7130|within me ;]] [[Lexicon/H1901-2000#H1901|as I mused ,]] [[Lexicon/H701-800#H784|the fire]] [[Lexicon/H1101-1200#H1197|burned.]] [[Lexicon/H1601-1700#H1696|(Then) I spoke]] [[Lexicon/H3901-4000#H3956|with my tongue :]]
+[[Lexicon/H3801-3900#H3820|My heart]] [[Lexicon/H2501-2600#H2552|grew hot]] [[Lexicon/H7101-7200#H7130|within me ;]] [[Lexicon/H1901-2000#H1901|as I mused ,]] [[Lexicon/H701-800#H784|the fire]] [[Lexicon/H1101-1200#H1197|burned.]] [[Lexicon/H1601-1700#H1696|[Then] I spoke]] [[Lexicon/H3901-4000#H3956|with my tongue :]]
 | [[LXX Reference/19 - Psalms/Psalms 39#Psalm 39 - 3|LXX]] |
 
 ##### Psalm 39 - 4
@@ -26,11 +26,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 39#Psalm 39 - 4|LXX]] |
 
 ##### Psalm 39 - 5
-[[Lexicon/H2001-2100#H2009|You, indeed ,]] [[Lexicon/H5401-5500#H5414|have made]] [[Lexicon/H3101-3200#H3117|my days]] [[Lexicon/H2901-3000#H2947|(as) handbreadths ,]] [[Lexicon/H2401-2500#H2465|and my lifetime]] [[Lexicon/H301-400#H369|as nothing]] [[Lexicon/H5001-5100#H5048|before You.]] [[Lexicon/H301-400#H389|Truly]] [[Lexicon/H3601-3700#H3605|each]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H5301-5400#H5324|at his best]] [[Lexicon/H1801-1900#H1892|exists as but a breath]] [[Lexicon/H3601-3700#H3605|....]] [[Lexicon/H5501-5600#H5542|Selah]]
+[[Lexicon/H2001-2100#H2009|You, indeed ,]] [[Lexicon/H5401-5500#H5414|have made]] [[Lexicon/H3101-3200#H3117|my days]] [[Lexicon/H2901-3000#H2947|[as] handbreadths ,]] [[Lexicon/H2401-2500#H2465|and my lifetime]] [[Lexicon/H301-400#H369|as nothing]] [[Lexicon/H5001-5100#H5048|before You.]] [[Lexicon/H301-400#H389|Truly]] [[Lexicon/H3601-3700#H3605|each]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H5301-5400#H5324|at his best]] [[Lexicon/H1801-1900#H1892|exists as but a breath]] [[Lexicon/H3601-3700#H3605|....]] [[Lexicon/H5501-5600#H5542|Selah]]
 | [[LXX Reference/19 - Psalms/Psalms 39#Psalm 39 - 5|LXX]] |
 
 ##### Psalm 39 - 6
-[[Lexicon/H301-400#H389|Surely]] [[Lexicon/H301-400#H376|every man]] [[Lexicon/H1901-2000#H1980|goes about]] [[Lexicon/H6701-6800#H6754|like a phantom ;]] [[Lexicon/H301-400#H389|surely]] [[Lexicon/H1901-2000#H1993|he bustles]] [[Lexicon/H1801-1900#H1892|in vain ;]] [[Lexicon/H6601-6700#H6651|he heaps up (riches)]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H3001-3100#H3045|knowing]] [[Lexicon/H4301-4400#H4310|who]] [[Lexicon/H601-700#H622|will haul them away.]]
+[[Lexicon/H301-400#H389|Surely]] [[Lexicon/H301-400#H376|every man]] [[Lexicon/H1901-2000#H1980|goes about]] [[Lexicon/H6701-6800#H6754|like a phantom ;]] [[Lexicon/H301-400#H389|surely]] [[Lexicon/H1901-2000#H1993|he bustles]] [[Lexicon/H1801-1900#H1892|in vain ;]] [[Lexicon/H6601-6700#H6651|he heaps up [riches]]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H3001-3100#H3045|knowing]] [[Lexicon/H4301-4400#H4310|who]] [[Lexicon/H601-700#H622|will haul them away.]]
 | [[LXX Reference/19 - Psalms/Psalms 39#Psalm 39 - 6|LXX]] |
 
 ##### Psalm 39 - 7
@@ -42,7 +42,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 39#Psalm 39 - 8|LXX]] |
 
 ##### Psalm 39 - 9
-[[Lexicon/H401-500#H481|I have become mute ;]] [[Lexicon/H3801-3900#H3808|I do not]] [[Lexicon/H6601-6700#H6605|open]] [[Lexicon/H6301-6400#H6310|my mouth]] [[Lexicon/H3501-3600#H3588|because (of what)]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H6201-6300#H6213|have done.]]
+[[Lexicon/H401-500#H481|I have become mute ;]] [[Lexicon/H3801-3900#H3808|I do not]] [[Lexicon/H6601-6700#H6605|open]] [[Lexicon/H6301-6400#H6310|my mouth]] [[Lexicon/H3501-3600#H3588|because [of what]]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H6201-6300#H6213|have done.]]
 | [[LXX Reference/19 - Psalms/Psalms 39#Psalm 39 - 9|LXX]] |
 
 ##### Psalm 39 - 10
@@ -50,7 +50,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 39#Psalm 39 - 10|LXX]] |
 
 ##### Psalm 39 - 11
-[[Lexicon/H3201-3300#H3256|You discipline]] [[Lexicon/H8401-8500#H8433|and correct]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H5701-5800#H5771|his iniquity ,]] [[Lexicon/H4501-4600#H4529|consuming]] [[Lexicon/H6201-6300#H6211|like a moth]] [[Lexicon/H2501-2600#H2530|what he holds dear ;]] [[Lexicon/H301-400#H389|surely]] [[Lexicon/H3601-3700#H3605|each]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H1801-1900#H1892|(is) but a vapor.]] [[Lexicon/H5501-5600#H5542|Selah]]
+[[Lexicon/H3201-3300#H3256|You discipline]] [[Lexicon/H8401-8500#H8433|and correct]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H5701-5800#H5771|his iniquity ,]] [[Lexicon/H4501-4600#H4529|consuming]] [[Lexicon/H6201-6300#H6211|like a moth]] [[Lexicon/H2501-2600#H2530|what he holds dear ;]] [[Lexicon/H301-400#H389|surely]] [[Lexicon/H3601-3700#H3605|each]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H1801-1900#H1892|[is] but a vapor.]] [[Lexicon/H5501-5600#H5542|Selah]]
 | [[LXX Reference/19 - Psalms/Psalms 39#Psalm 39 - 11|LXX]] |
 
 ##### Psalm 39 - 12

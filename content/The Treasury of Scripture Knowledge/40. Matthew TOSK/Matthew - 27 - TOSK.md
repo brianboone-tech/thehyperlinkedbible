@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Matthew 27 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 26 - TOSK|← Ch 26]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 28 - TOSK|Ch 28 →]]
+**[[Home/Scripture/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 26 - TOSK|← Ch 26]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 28 - TOSK|Ch 28 →]]
 
 ---
 

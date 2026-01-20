@@ -25,7 +25,7 @@ cssClasses: lexicon
 [[Lexicon/H6601-6700#H6612|O simple ones ,]] [[Lexicon/H901-1000#H995|learn]] [[Lexicon/H6101-6200#H6195|to be shrewd ;]] [[Lexicon/H3601-3700#H3684|O fools ,]] [[Lexicon/H901-1000#H995|gain understanding]] [[Lexicon/H3801-3900#H3820|....]]
 
 ##### Proverbs 8 - 6
-[[Lexicon/H8001-8100#H8085|Listen ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1601-1700#H1696|I speak]] [[Lexicon/H5001-5100#H5057|of noble things ,]] [[Lexicon/H4601-4700#H4669|and the opening]] [[Lexicon/H8101-8200#H8193|of my lips]] [[Lexicon/H4301-4400#H4339|(will reveal) right.]]
+[[Lexicon/H8001-8100#H8085|Listen ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1601-1700#H1696|I speak]] [[Lexicon/H5001-5100#H5057|of noble things ,]] [[Lexicon/H4601-4700#H4669|and the opening]] [[Lexicon/H8101-8200#H8193|of my lips]] [[Lexicon/H4301-4400#H4339|[will reveal] right.]]
 
 ##### Proverbs 8 - 7
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H2401-2500#H2441|my mouth]] [[Lexicon/H1801-1900#H1897|will speak]] [[Lexicon/H501-600#H571|the tRuth - ,]] [[Lexicon/H7501-7600#H7562|and wickedness]] [[Lexicon/H8401-8500#H8441|is detestable]] [[Lexicon/H8101-8200#H8193|to my lips.]]
@@ -34,7 +34,7 @@ cssClasses: lexicon
 [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H501-600#H561|the words]] [[Lexicon/H6301-6400#H6310|of my mouth]] [[Lexicon/H6601-6700#H6664|are righteous ;]] [[Lexicon/H301-400#H369|none]] [[Lexicon/H6601-6700#H6617|are crooked]] [[Lexicon/H6101-6200#H6141|or perverse.]]
 
 ##### Proverbs 8 - 9
-[[Lexicon/H3601-3700#H3605|They (are)]] [[Lexicon/H5201-5300#H5228|all plain]] [[Lexicon/H901-1000#H995|to the discerning ,]] [[Lexicon/H3401-3500#H3477|and upright]] [[Lexicon/H4601-4700#H4672|to those who find]] [[Lexicon/H1801-1900#H1847|knowledge.]]
+[[Lexicon/H3601-3700#H3605|They [are]]] [[Lexicon/H5201-5300#H5228|all plain]] [[Lexicon/H901-1000#H995|to the discerning ,]] [[Lexicon/H3401-3500#H3477|and upright]] [[Lexicon/H4601-4700#H4672|to those who find]] [[Lexicon/H1801-1900#H1847|knowledge.]]
 
 ##### Proverbs 8 - 10
 [[Lexicon/H3901-4000#H3947|Receive]] [[Lexicon/H4101-4200#H4148|my instruction]] [[Lexicon/H401-500#H408|instead of]] [[Lexicon/H3701-3800#H3701|silver ,]] [[Lexicon/H1801-1900#H1847|and knowledge]] [[Lexicon/H901-1000#H977|rather than pure]] [[Lexicon/H2701-2800#H2742|gold.]]
@@ -64,7 +64,7 @@ cssClasses: lexicon
 [[Lexicon/H801-900#H854|With me]] [[Lexicon/H6201-6300#H6239|are riches]] [[Lexicon/H3501-3600#H3519|and honor ,]] [[Lexicon/H6201-6300#H6276|enduring]] [[Lexicon/H1901-2000#H1952|wealth]] [[Lexicon/H6601-6700#H6666|and righteousness.]]
 
 ##### Proverbs 8 - 19
-[[Lexicon/H6501-6600#H6529|My fruit]] [[Lexicon/H2801-2900#H2896|is better]] [[Lexicon/H2701-2800#H2742|than gold ,]] [[Lexicon/H6301-6400#H6337|pure gold ,]] [[Lexicon/H8301-8400#H8393|and my harvest]] [[Lexicon/H901-1000#H977|(surpasses) choice]] [[Lexicon/H3701-3800#H3701|silver.]]
+[[Lexicon/H6501-6600#H6529|My fruit]] [[Lexicon/H2801-2900#H2896|is better]] [[Lexicon/H2701-2800#H2742|than gold ,]] [[Lexicon/H6301-6400#H6337|pure gold ,]] [[Lexicon/H8301-8400#H8393|and my harvest]] [[Lexicon/H901-1000#H977|[surpasses] choice]] [[Lexicon/H3701-3800#H3701|silver.]]
 
 ##### Proverbs 8 - 20
 [[Lexicon/H1901-2000#H1980|I walk]] [[Lexicon/H701-800#H734|in the way]] [[Lexicon/H6601-6700#H6666|of righteousness ,]] [[Lexicon/H8401-8500#H8432|along]] [[Lexicon/H5401-5500#H5410|the paths]] [[Lexicon/H4901-5000#H4941|of justice ,]]
@@ -97,7 +97,7 @@ cssClasses: lexicon
 [[Lexicon/H7701-7800#H7760|when He set]] [[Lexicon/H2701-2800#H2706|a boundary]] [[Lexicon/H3201-3300#H3220|for the sea ,]] [[Lexicon/H4301-4400#H4325|so that the waters]] [[Lexicon/H3801-3900#H3808|would not]] [[Lexicon/H5601-5700#H5674|surpass]] [[Lexicon/H6301-6400#H6310|His command ,]] [[Lexicon/H2701-2800#H2710|when He Mark -ed out]] [[Lexicon/H4101-4200#H4144|the foundations]] [[Lexicon/H701-800#H776|of the earth.]]
 
 ##### Proverbs 8 - 30
-[[Lexicon/H1901-2000#H1961|Then I was]] [[Lexicon/H501-600#H525|a skilled craftsman]] [[Lexicon/H601-700#H681|at His side ,]] [[Lexicon/H1901-2000#H1961|and]] [[Lexicon/H8101-8200#H8191|His delight]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H3101-3200#H3117|(by) day ,]] [[Lexicon/H7801-7900#H7832|rejoicing]] [[Lexicon/H3601-3700#H3605|always]] [[Lexicon/H6201-6300#H6256|...]] [[Lexicon/H6401-6500#H6440|in His presence.]]
+[[Lexicon/H1901-2000#H1961|Then I was]] [[Lexicon/H501-600#H525|a skilled craftsman]] [[Lexicon/H601-700#H681|at His side ,]] [[Lexicon/H1901-2000#H1961|and]] [[Lexicon/H8101-8200#H8191|His delight]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H3101-3200#H3117|[by] day ,]] [[Lexicon/H7801-7900#H7832|rejoicing]] [[Lexicon/H3601-3700#H3605|always]] [[Lexicon/H6201-6300#H6256|...]] [[Lexicon/H6401-6500#H6440|in His presence.]]
 
 ##### Proverbs 8 - 31
 [[Lexicon/H7801-7900#H7832|I was rejoicing]] [[Lexicon/H8301-8400#H8398|in His whole world]] [[Lexicon/H701-800#H776|... ,]] [[Lexicon/H8101-8200#H8191|delighting]] [[Lexicon/H801-900#H854|together]] [[Lexicon/H1101-1200#H1121|in the sons]] [[Lexicon/H101-200#H120|of men.]]

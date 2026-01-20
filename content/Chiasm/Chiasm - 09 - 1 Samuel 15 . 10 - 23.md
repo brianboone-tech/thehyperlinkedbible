@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/09 - 1 Samuel|← 1 Samuel]]**
+**[[Home/Scripture/09 - 1 Samuel|← 1 Samuel]]**
 
 ---
 

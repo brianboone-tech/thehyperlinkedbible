@@ -31,7 +31,7 @@ cssClasses: lexicon
 [[Lexicon/H301-400#H341|May my enemy]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H7501-7600#H7563|like the wicked]] [[Lexicon/H6901-7000#H6965|and my opponent]] [[Lexicon/H5701-5800#H5767|like the unjust.]]
 
 ##### Job 27 - 8
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4001-4100#H4100|what (is)]] [[Lexicon/H8601-8674#H8615|the hope]] [[Lexicon/H2601-2700#H2611|of the godless]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H1201-1300#H1214|he is cut off ,]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H401-500#H433|God]] [[Lexicon/H7901-8000#H7953|takes away]] [[Lexicon/H5301-5400#H5315|his life ?]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4001-4100#H4100|what [is]]] [[Lexicon/H8601-8674#H8615|the hope]] [[Lexicon/H2601-2700#H2611|of the godless]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H1201-1300#H1214|he is cut off ,]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H401-500#H433|God]] [[Lexicon/H7901-8000#H7953|takes away]] [[Lexicon/H5301-5400#H5315|his life ?]]
 
 ##### Job 27 - 9
 [[Lexicon/H401-500#H410|Will God]] [[Lexicon/H8001-8100#H8085|hear]] [[Lexicon/H6801-6900#H6818|his cry]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H6801-6900#H6869|distress]] [[Lexicon/H901-1000#H935|comes]] [[Lexicon/H5901-6000#H5921|upon him ?]]
@@ -43,10 +43,10 @@ cssClasses: lexicon
 [[Lexicon/H3301-3400#H3384|I will instruct]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H3001-3100#H3027|in the power]] [[Lexicon/H401-500#H410|of God.]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H3501-3600#H3582|conceal]] [[Lexicon/H801-900#H834|the ways of]] [[Lexicon/H5901-6000#H5973|...]] [[Lexicon/H7701-7800#H7706|the Almighty.]]
 
 ##### Job 27 - 12
-[[Lexicon/H2001-2100#H2005|Surely]] [[Lexicon/H3601-3700#H3605|all of you]] [[Lexicon/H2301-2400#H2372|have seen (it)]] [[Lexicon/H801-900#H859|for yourselves.]] [[Lexicon/H4001-4100#H4100|Why then]] [[Lexicon/H2001-2100#H2088|do you keep up this]] [[Lexicon/H1801-1900#H1892|empty talk]] [[Lexicon/H1801-1900#H1891|... ?]]
+[[Lexicon/H2001-2100#H2005|Surely]] [[Lexicon/H3601-3700#H3605|all of you]] [[Lexicon/H2301-2400#H2372|have seen [it]]] [[Lexicon/H801-900#H859|for yourselves.]] [[Lexicon/H4001-4100#H4100|Why then]] [[Lexicon/H2001-2100#H2088|do you keep up this]] [[Lexicon/H1801-1900#H1892|empty talk]] [[Lexicon/H1801-1900#H1891|... ?]]
 
 ##### Job 27 - 13
-[[Lexicon/H2001-2100#H2088|This (is)]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H101-200#H120|man’s]] [[Lexicon/H2501-2600#H2506|portion]] [[Lexicon/H5901-6000#H5973|from]] [[Lexicon/H401-500#H410|God —]] [[Lexicon/H5101-5200#H5159|the heritage]] [[Lexicon/H6101-6200#H6184|the Ruth -less]] [[Lexicon/H3901-4000#H3947|receive]] [[Lexicon/H7701-7800#H7706|from the Almighty.]]
+[[Lexicon/H2001-2100#H2088|This [is]]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H101-200#H120|man’s]] [[Lexicon/H2501-2600#H2506|portion]] [[Lexicon/H5901-6000#H5973|from]] [[Lexicon/H401-500#H410|God —]] [[Lexicon/H5101-5200#H5159|the heritage]] [[Lexicon/H6101-6200#H6184|the Ruth -less]] [[Lexicon/H3901-4000#H3947|receive]] [[Lexicon/H7701-7800#H7706|from the Almighty.]]
 
 ##### Job 27 - 14
 [[Lexicon/H501-600#H518|Though]] [[Lexicon/H1101-1200#H1121|his sons]] [[Lexicon/H7201-7300#H7235|are many ,]] [[Lexicon/H3901-4000#H3926|they are destined for]] [[Lexicon/H2701-2800#H2719|the sword ;]] [[Lexicon/H6601-6700#H6631|and his offspring]] [[Lexicon/H3801-3900#H3808|will never]] [[Lexicon/H7601-7700#H7646|have enough]] [[Lexicon/H3801-3900#H3899|food.]]
@@ -76,4 +76,4 @@ cssClasses: lexicon
 [[Lexicon/H7901-8000#H7993|It hurls itself]] [[Lexicon/H5901-6000#H5921|against him]] [[Lexicon/H3801-3900#H3808|without]] [[Lexicon/H2501-2600#H2550|mercy]] [[Lexicon/H1201-1300#H1272|as he flees headlong]] [[Lexicon/H1201-1300#H1272|...]] [[Lexicon/H3001-3100#H3027|from its power.]]
 
 ##### Job 27 - 23
-[[Lexicon/H5601-5700#H5606|It claps]] [[Lexicon/H3701-3800#H3709|its hands]] [[Lexicon/H5901-6000#H5921|at him]] [[Lexicon/H8301-8400#H8319|and hisses]] [[Lexicon/H5901-6000#H5921|him]] [[Lexicon/H4701-4800#H4725|out of his place. (’’)]]
+[[Lexicon/H5601-5700#H5606|It claps]] [[Lexicon/H3701-3800#H3709|its hands]] [[Lexicon/H5901-6000#H5921|at him]] [[Lexicon/H8301-8400#H8319|and hisses]] [[Lexicon/H5901-6000#H5921|him]] [[Lexicon/H4701-4800#H4725|out of his place. [’’]]]

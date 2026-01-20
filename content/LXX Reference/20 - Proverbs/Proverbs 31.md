@@ -49,7 +49,7 @@ Testament: Old
 [[Lexicon/G3301-3400#G3382|furling]] [[Lexicon/G2001-2100#G2053|wool]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3043|flax]] [[Lexicon/G4101-4200#G4160|She makes]] [[Lexicon/G2101-2200#G2173|useful]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5495|her hands]]
 
 #### Proverbs 31 - 14
-[[Lexicon/G1001-1100#G1096|She became]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G3401-3500#G3491|a ship]] [[Lexicon/G1701-1800#G1710|trading]] [[Lexicon/G3101-3200#G3113|far off]] [[Lexicon/G4801-4900#G4863|She gathers together]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0979|wealth]]
+[[Lexicon/G1001-1100#G1096|She became]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G3401-3500#G3491|a ship]] [[Lexicon/G1701-1800#G1710|trading]] [[Lexicon/G3101-3200#G3113|far off]] [[Lexicon/G4801-4900#G4863|She gathers together]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0979|wealth]]
 
 #### Proverbs 31 - 15
 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0450|she rises up]] [[Lexicon/G1501-1600#G1537|at]] [[Lexicon/G3501-3600#G3571|nights]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|appoints]] [[Lexicon/G1001-1100#G1033|foods]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3601-3700#G3624|household]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2041|works]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2301-2400#G2321|female attendants]]

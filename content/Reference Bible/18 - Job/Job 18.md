@@ -43,7 +43,7 @@ cssClasses: lexicon
 [[Lexicon/H1001-1100#H1091|Terrors]] [[Lexicon/H1201-1300#H1204|frighten him]] [[Lexicon/H5401-5500#H5439|on every side]] [[Lexicon/H6301-6400#H6327|and harass]] [[Lexicon/H7201-7300#H7272|his every step.]]
 
 ##### Job 18 - 12
-[[Lexicon/H201-300#H202|His strength]] [[Lexicon/H1901-2000#H1961|is]] [[Lexicon/H7401-7500#H7457|depleted ,]] [[Lexicon/H301-400#H343|and calamity]] [[Lexicon/H3501-3600#H3559|(is) ready]] [[Lexicon/H6701-6800#H6761|at his side.]]
+[[Lexicon/H201-300#H202|His strength]] [[Lexicon/H1901-2000#H1961|is]] [[Lexicon/H7401-7500#H7457|depleted ,]] [[Lexicon/H301-400#H343|and calamity]] [[Lexicon/H3501-3600#H3559|[is] ready]] [[Lexicon/H6701-6800#H6761|at his side.]]
 
 ##### Job 18 - 13
 [[Lexicon/H301-400#H398|It devours]] [[Lexicon/H901-1000#H905|patches]] [[Lexicon/H5701-5800#H5785|of his skin ;]] [[Lexicon/H1001-1100#H1060|the firstborn]] [[Lexicon/H4101-4200#H4194|of death]] [[Lexicon/H301-400#H398|devours]] [[Lexicon/H901-1000#H905|his limbs.]]
@@ -70,5 +70,5 @@ cssClasses: lexicon
 [[Lexicon/H301-400#H314|Those in the west]] [[Lexicon/H8001-8100#H8074|are appalled]] [[Lexicon/H5901-6000#H5921|at]] [[Lexicon/H3101-3200#H3117|his fate ,]] [[Lexicon/H6901-7000#H6931|while those in the east]] [[Lexicon/H201-300#H270|...]] [[Lexicon/H8101-8200#H8178|tremble in horror.]]
 
 ##### Job 18 - 21
-[[Lexicon/H301-400#H389|Surely]] [[Lexicon/H401-500#H428|such]] [[Lexicon/H4901-5000#H4908|is the dwelling]] [[Lexicon/H5701-5800#H5767|of the wicked]] [[Lexicon/H2001-2100#H2088|(and)]] [[Lexicon/H4701-4800#H4725|the place]] [[Lexicon/H3801-3900#H3808|of one who does not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H401-500#H410|God. ”]]
+[[Lexicon/H301-400#H389|Surely]] [[Lexicon/H401-500#H428|such]] [[Lexicon/H4901-5000#H4908|is the dwelling]] [[Lexicon/H5701-5800#H5767|of the wicked]] [[Lexicon/H2001-2100#H2088|[and]]] [[Lexicon/H4701-4800#H4725|the place]] [[Lexicon/H3801-3900#H3808|of one who does not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H401-500#H410|God. ”]]
 

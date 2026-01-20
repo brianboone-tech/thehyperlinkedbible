@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah 42
+# Jeremiah-R 42
 
-[[Readable Bible/24 - Jeremiah/Jeremiah 41|← Jeremiah 41]] | [[Readable Bible/24 - Jeremiah/Jeremiah 43|Jeremiah 43 →]]
+**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 41#Jeremiah-R 41| Jeremiah 41]] - [[Readable Bible/24 - Jeremiah/Jeremiah 43#Jeremiah-R 43| Jeremiah 43]]
 
 ---
 

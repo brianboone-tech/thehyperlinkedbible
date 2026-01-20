@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 132 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 131 - TOSK|← Ch 131]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 133 - TOSK|Ch 133 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 131 - TOSK|← Ch 131]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 133 - TOSK|Ch 133 →]]
 
 ---
 

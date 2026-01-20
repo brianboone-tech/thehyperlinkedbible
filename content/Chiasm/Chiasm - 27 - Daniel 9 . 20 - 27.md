@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/27 - Daniel|← Daniel]]**
+**[[Home/Scripture/27 - Daniel|← Daniel]]**
 
 ---
 

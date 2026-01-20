@@ -7,7 +7,7 @@ Testament: Old
 
 # Psalms 150
 
-[[LXX Reference/19 - Psalms/Psalms 149|←]]
+[[LXX Reference/19 - Psalms/Psalms 149|←]] • [[LXX Reference/19 - Psalms/Psalms 151|→]]
 
 ---
 

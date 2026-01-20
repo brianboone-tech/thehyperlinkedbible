@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Deuteronomy 5
+# Deuteronomy-R 5
 
-[[Readable Bible/05 - Deuteronomy/Deuteronomy 4|← Deuteronomy 4]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 6|Deuteronomy 6 →]]
+**[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
+
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 4#Deuteronomy-R 4| Deuteronomy 4]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 6#Deuteronomy-R 6| Deuteronomy 6]]
 
 ---
 

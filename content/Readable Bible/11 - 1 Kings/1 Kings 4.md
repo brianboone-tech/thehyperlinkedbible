@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Kings 4
+# 1 Kings-R 4
 
-[[Readable Bible/11 - 1 Kings/1 Kings 3|← 1 Kings 3]] | [[Readable Bible/11 - 1 Kings/1 Kings 5|1 Kings 5 →]]
+**[[Home/Scripture/11 - 1 Kings|1 Kings]]**
+
+[[Readable Bible/11 - 1 Kings/1 Kings 3#1 Kings-R 3| 1 Kings 3]] - [[Readable Bible/11 - 1 Kings/1 Kings 5#1 Kings-R 5| 1 Kings 5]]
 
 ---
 

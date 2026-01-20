@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew 14
+# Matthew-R 14
 
-[[Readable Bible/40 - Matthew/Matthew 13|← Matthew 13]] | [[Readable Bible/40 - Matthew/Matthew 15|Matthew 15 →]]
+**[[Home/Scripture/40 - Matthew|Matthew]]**
+
+[[Readable Bible/40 - Matthew/Matthew 13#Matthew-R 13| Matthew 13]] - [[Readable Bible/40 - Matthew/Matthew 15#Matthew-R 15| Matthew 15]]
 
 ---
 

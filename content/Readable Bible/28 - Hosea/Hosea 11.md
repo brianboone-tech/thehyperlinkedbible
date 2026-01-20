@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hosea 11
+# Hosea-R 11
 
-[[Readable Bible/28 - Hosea/Hosea 10|← Hosea 10]] | [[Readable Bible/28 - Hosea/Hosea 12|Hosea 12 →]]
+**[[Home/Scripture/28 - Hosea|Hosea]]**
+
+[[Readable Bible/28 - Hosea/Hosea 10#Hosea-R 10| Hosea 10]] - [[Readable Bible/28 - Hosea/Hosea 12#Hosea-R 12| Hosea 12]]
 
 ---
 

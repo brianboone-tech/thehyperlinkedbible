@@ -34,7 +34,7 @@ Testament: Old
 [[Lexicon/G2301-2400#G2372|rage]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G1-100#G0032|messenger]] [[Lexicon/G2201-2300#G2288|death]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G4601-4700#G4680|wise]] [[Lexicon/G1801-1900#G1837|appease]]
 
 #### Proverbs 16 - 15
-[[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5401-5500#G5457|light]] [[Lexicon/G2201-2300#G2222|life]] [[Lexicon/G5201-5300#G5207|son]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4325|acceptable]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G3501-3600#G3509|cloud]] [[Lexicon/G3701-3800#G3797|late rain]]
+[[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5401-5500#G5457|light]] [[Lexicon/G2201-2300#G2222|life]] [[Lexicon/G5201-5300#G5207|son]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4325|acceptable]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G3501-3600#G3509|cloud]] [[Lexicon/G3701-3800#G3797|late rain]]
 
 #### Proverbs 16 - 16
 [[Lexicon/G3501-3600#G3555|nests]] [[Lexicon/G4601-4700#G4678|wisdom]] [[Lexicon/G101-200#G0141|preferred]] [[Lexicon/G5501-5600#G5553|gold]] [[Lexicon/G3501-3600#G3555|nests]] [[Lexicon/G5401-5500#G5428|intelligence]] [[Lexicon/G101-200#G0141|preferred]] [[Lexicon/G5201-5300#G5228|than]] [[Lexicon/G601-700#G0694|silver]]

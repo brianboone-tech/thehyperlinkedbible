@@ -40,7 +40,7 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H539|I believed ,]] [[Lexicon/H3501-3600#H3588|therefore]] [[Lexicon/H1601-1700#H1696|I said ,]] [[Lexicon/H501-600#H589|“ I]] [[Lexicon/H3901-4000#H3966|am greatly]] [[Lexicon/H6001-6100#H6031|afflicted. ”]]
 
 ##### Psalm 116 - 11
-[[Lexicon/H2601-2700#H2648|In my alarm]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H3601-3700#H3605|“ All]] [[Lexicon/H101-200#H120|men]] [[Lexicon/H3501-3600#H3576|(are) liars ! ”]]
+[[Lexicon/H2601-2700#H2648|In my alarm]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H3601-3700#H3605|“ All]] [[Lexicon/H101-200#H120|men]] [[Lexicon/H3501-3600#H3576|[are] liars ! ”]]
 
 ##### Psalm 116 - 12
 [[Lexicon/H4001-4100#H4100|How]] [[Lexicon/H7701-7800#H7725|can I repay]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3601-3700#H3605|for all]] [[Lexicon/H8401-8500#H8408|His goodness]] [[Lexicon/H5901-6000#H5921|to me ?]]
@@ -52,10 +52,10 @@ cssClasses: lexicon
 [[Lexicon/H7901-8000#H7999|I will fulfill]] [[Lexicon/H5001-5100#H5088|my vows]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H5001-5100#H5048|in the presence of]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5901-6000#H5971|His people.]]
 
 ##### Psalm 116 - 15
-[[Lexicon/H3301-3400#H3368|Precious]] [[Lexicon/H5801-5900#H5869|in the sight]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H4101-4200#H4194|(is) the death]] [[Lexicon/H2601-2700#H2623|of His saints.]]
+[[Lexicon/H3301-3400#H3368|Precious]] [[Lexicon/H5801-5900#H5869|in the sight]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H4101-4200#H4194|[is] the death]] [[Lexicon/H2601-2700#H2623|of His saints.]]
 
 ##### Psalm 116 - 16
-[[Lexicon/H501-600#H577|Truly]] [[Lexicon/H3501-3600#H3588|... ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H501-600#H589|I (am)]] [[Lexicon/H5601-5700#H5650|Your servant ;]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H5601-5700#H5650|am Your servant ,]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H501-600#H519|of Your maidservant ;]] [[Lexicon/H6601-6700#H6605|You have broken]] [[Lexicon/H4101-4200#H4147|my bonds.]]
+[[Lexicon/H501-600#H577|Truly]] [[Lexicon/H3501-3600#H3588|... ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H501-600#H589|I [am]]] [[Lexicon/H5601-5700#H5650|Your servant ;]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H5601-5700#H5650|am Your servant ,]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H501-600#H519|of Your maidservant ;]] [[Lexicon/H6601-6700#H6605|You have broken]] [[Lexicon/H4101-4200#H4147|my bonds.]]
 
 ##### Psalm 116 - 17
 [[Lexicon/H2001-2100#H2076|I will offer]] [[Lexicon/H2001-2100#H2077|a sacrifice]] [[Lexicon/H8401-8500#H8426|of thanksgiving]] [[Lexicon/H7101-7200#H7121|and call]] [[Lexicon/H8001-8100#H8034|on the name]] [[Lexicon/H3001-3100#H3068|of the LORD.]]

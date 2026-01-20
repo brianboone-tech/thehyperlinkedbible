@@ -13,7 +13,7 @@ Testament: Old
 ---
 
 ##### Genesis 31 - 1
-[[Lexicon/H8001-8100#H8085|Now Jacob heard]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3837|that Laban’s]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H1601-1700#H1697|were saying ,]] [[Lexicon/H3201-3300#H3290|“ Jacob]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|has taken away]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that (belonged to)]] [[Lexicon/H1-100#H1|our father]] [[Lexicon/H6201-6300#H6213|and built]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H3501-3600#H3519|wealth]] [[Lexicon/H801-900#H834|at]] [[Lexicon/H1-100#H1|our father’s expense. ”]]
+[[Lexicon/H8001-8100#H8085|Now Jacob heard]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3837|that Laban’s]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H1601-1700#H1697|were saying ,]] [[Lexicon/H3201-3300#H3290|“ Jacob]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|has taken away]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that [belonged to]]] [[Lexicon/H1-100#H1|our father]] [[Lexicon/H6201-6300#H6213|and built]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H3501-3600#H3519|wealth]] [[Lexicon/H801-900#H834|at]] [[Lexicon/H1-100#H1|our father’s expense. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 1|LXX]] |
 
 ##### Genesis 31 - 2
@@ -109,7 +109,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 24|LXX]] |
 
 ##### Genesis 31 - 25
-[[Lexicon/H3201-3300#H3290|Now Jacob]] [[Lexicon/H8601-8674#H8628|had pitched]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H168|his tent]] [[Lexicon/H2001-2100#H2022|in the hill country]] [[Lexicon/H1501-1600#H1568|of Gilead]] [[Lexicon/H3801-3900#H3837|when Laban]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5381|overtook]] [[Lexicon/H3201-3300#H3290|(him) ,]] [[Lexicon/H3801-3900#H3837|and Laban]] [[Lexicon/H201-300#H251|and his relatives]] [[Lexicon/H8601-8674#H8628|camped]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H2001-2100#H2022|(there as well).]]
+[[Lexicon/H3201-3300#H3290|Now Jacob]] [[Lexicon/H8601-8674#H8628|had pitched]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H168|his tent]] [[Lexicon/H2001-2100#H2022|in the hill country]] [[Lexicon/H1501-1600#H1568|of Gilead]] [[Lexicon/H3801-3900#H3837|when Laban]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5381|overtook]] [[Lexicon/H3201-3300#H3290|[him] ,]] [[Lexicon/H3801-3900#H3837|and Laban]] [[Lexicon/H201-300#H251|and his relatives]] [[Lexicon/H8601-8674#H8628|camped]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H2001-2100#H2022|[there as well].]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 25|LXX]] |
 
 ##### Genesis 31 - 26
@@ -133,11 +133,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 30|LXX]] |
 
 ##### Genesis 31 - 31
-[[Lexicon/H3501-3600#H3588|“ vvv]] [[Lexicon/H3301-3400#H3372|I was afraid , ”]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H6001-6100#H6030|answered ,]] [[Lexicon/H3501-3600#H3588|“ for]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H6401-6500#H6435|...]] [[Lexicon/H501-600#H559|I thought]] [[Lexicon/H3801-3900#H3837|(you)]] [[Lexicon/H1301-1400#H1323|would take your daughters]] [[Lexicon/H5901-6000#H5973|from me]] [[Lexicon/H1401-1500#H1497|by force.]] [[Lexicon/H801-900#H853|-]]
+[[Lexicon/H3501-3600#H3588|“ vvv]] [[Lexicon/H3301-3400#H3372|I was afraid , ”]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H6001-6100#H6030|answered ,]] [[Lexicon/H3501-3600#H3588|“ for]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H6401-6500#H6435|...]] [[Lexicon/H501-600#H559|I thought]] [[Lexicon/H3801-3900#H3837|[you]]] [[Lexicon/H1301-1400#H1323|would take your daughters]] [[Lexicon/H5901-6000#H5973|from me]] [[Lexicon/H1401-1500#H1497|by force.]] [[Lexicon/H801-900#H853|-]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 31|LXX]] |
 
 ##### Genesis 31 - 32
-[[Lexicon/H4601-4700#H4672|If you find]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H430|your gods]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H801-900#H834|anyone here ,]] [[Lexicon/H3801-3900#H3808|he shall not]] [[Lexicon/H2401-2500#H2421|live !]] [[Lexicon/H5001-5100#H5048|In the presence of]] [[Lexicon/H201-300#H251|our relatives ,]] [[Lexicon/H5201-5300#H5234|see]] [[Lexicon/H4001-4100#H4100|if anything]] [[Lexicon/H5901-6000#H5978|is yours ,]] [[Lexicon/H3901-4000#H3947|and take]] [[Lexicon/H3201-3300#H3290|For Jacob]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H7301-7400#H7354|Rachel]] [[Lexicon/H1501-1600#H1589|had stolen (the idols).]]
+[[Lexicon/H4601-4700#H4672|If you find]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H430|your gods]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H801-900#H834|anyone here ,]] [[Lexicon/H3801-3900#H3808|he shall not]] [[Lexicon/H2401-2500#H2421|live !]] [[Lexicon/H5001-5100#H5048|In the presence of]] [[Lexicon/H201-300#H251|our relatives ,]] [[Lexicon/H5201-5300#H5234|see]] [[Lexicon/H4001-4100#H4100|if anything]] [[Lexicon/H5901-6000#H5978|is yours ,]] [[Lexicon/H3901-4000#H3947|and take]] [[Lexicon/H3201-3300#H3290|For Jacob]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H7301-7400#H7354|Rachel]] [[Lexicon/H1501-1600#H1589|had stolen [the idols].]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 32|LXX]] |
 
 ##### Genesis 31 - 33
@@ -149,7 +149,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 34|LXX]] |
 
 ##### Genesis 31 - 35
-[[Lexicon/H501-600#H559|(Rachel) said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|her father ,]] [[Lexicon/H101-200#H113|“ Sir ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H2701-2800#H2734|be angry]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3801-3900#H3808|I cannot]] [[Lexicon/H3201-3300#H3201|...]] [[Lexicon/H6901-7000#H6965|stand up]] [[Lexicon/H6401-6500#H6440|before you ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1801-1900#H1870|I am having my period]] [[Lexicon/H801-900#H802|...]] [[Lexicon/H2601-2700#H2664|So Laban searched ,]] [[Lexicon/H3801-3900#H3808|but could not]] [[Lexicon/H4601-4700#H4672|find]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8601-8674#H8655|the household idols.]]
+[[Lexicon/H501-600#H559|[Rachel] said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|her father ,]] [[Lexicon/H101-200#H113|“ Sir ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H2701-2800#H2734|be angry]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3801-3900#H3808|I cannot]] [[Lexicon/H3201-3300#H3201|...]] [[Lexicon/H6901-7000#H6965|stand up]] [[Lexicon/H6401-6500#H6440|before you ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1801-1900#H1870|I am having my period]] [[Lexicon/H801-900#H802|...]] [[Lexicon/H2601-2700#H2664|So Laban searched ,]] [[Lexicon/H3801-3900#H3808|but could not]] [[Lexicon/H4601-4700#H4672|find]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8601-8674#H8655|the household idols.]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 35|LXX]] |
 
 ##### Genesis 31 - 36
@@ -181,7 +181,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 42|LXX]] |
 
 ##### Genesis 31 - 43
-[[Lexicon/H3801-3900#H3837|But Laban]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H6001-6100#H6030|answered]] [[Lexicon/H3201-3300#H3290|Jacob ,]] [[Lexicon/H1301-1400#H1323|“ (These) daughters]] [[Lexicon/H1301-1400#H1323|are my daughters ,]] [[Lexicon/H1101-1200#H1121|(these) sons]] [[Lexicon/H1101-1200#H1121|(are) my sons ,]] [[Lexicon/H6601-6700#H6629|and (these) flocks]] [[Lexicon/H6601-6700#H6629|(are) my flocks !]] [[Lexicon/H3601-3700#H3605|Everything]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H7101-7200#H7200|see]] [[Lexicon/H1901-2000#H1931|is]] [[Lexicon/H4001-4100#H4100|Yet what]] [[Lexicon/H6201-6300#H6213|can I do]] [[Lexicon/H3101-3200#H3117|today]] [[Lexicon/H401-500#H428|about these]] [[Lexicon/H1301-1400#H1323|daughters]] [[Lexicon/H101-200#H176|of mine or]] [[Lexicon/H1101-1200#H1121|the children]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3201-3300#H3205|they have borne ?]]
+[[Lexicon/H3801-3900#H3837|But Laban]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H6001-6100#H6030|answered]] [[Lexicon/H3201-3300#H3290|Jacob ,]] [[Lexicon/H1301-1400#H1323|“ [These] daughters]] [[Lexicon/H1301-1400#H1323|are my daughters ,]] [[Lexicon/H1101-1200#H1121|[these] sons]] [[Lexicon/H1101-1200#H1121|[are] my sons ,]] [[Lexicon/H6601-6700#H6629|and [these] flocks]] [[Lexicon/H6601-6700#H6629|[are] my flocks !]] [[Lexicon/H3601-3700#H3605|Everything]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H7101-7200#H7200|see]] [[Lexicon/H1901-2000#H1931|is]] [[Lexicon/H4001-4100#H4100|Yet what]] [[Lexicon/H6201-6300#H6213|can I do]] [[Lexicon/H3101-3200#H3117|today]] [[Lexicon/H401-500#H428|about these]] [[Lexicon/H1301-1400#H1323|daughters]] [[Lexicon/H101-200#H176|of mine or]] [[Lexicon/H1101-1200#H1121|the children]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3201-3300#H3205|they have borne ?]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 43|LXX]] |
 
 ##### Genesis 31 - 44
@@ -193,7 +193,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 45|LXX]] |
 
 ##### Genesis 31 - 46
-[[Lexicon/H3201-3300#H3290|and (he)]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H201-300#H251|to his relatives ,]] [[Lexicon/H3901-4000#H3950|“ Gather]] [[Lexicon/H1-100#H68|(some) stones. ”]] [[Lexicon/H3901-4000#H3947|So they took]] [[Lexicon/H1-100#H68|stones]] [[Lexicon/H6201-6300#H6213|and made]] [[Lexicon/H1501-1600#H1530|a mound ,]] [[Lexicon/H8001-8100#H8033|and there]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H1501-1600#H1530|the mound]] [[Lexicon/H301-400#H398|they ate.]]
+[[Lexicon/H3201-3300#H3290|and [he]]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H201-300#H251|to his relatives ,]] [[Lexicon/H3901-4000#H3950|“ Gather]] [[Lexicon/H1-100#H68|[some] stones. ”]] [[Lexicon/H3901-4000#H3947|So they took]] [[Lexicon/H1-100#H68|stones]] [[Lexicon/H6201-6300#H6213|and made]] [[Lexicon/H1501-1600#H1530|a mound ,]] [[Lexicon/H8001-8100#H8033|and there]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H1501-1600#H1530|the mound]] [[Lexicon/H301-400#H398|they ate.]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 46|LXX]] |
 
 ##### Genesis 31 - 47
@@ -205,11 +205,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 48|LXX]] |
 
 ##### Genesis 31 - 49
-[[Lexicon/H4701-4800#H4709|(It was) also (called) Mizpah ,]] [[Lexicon/H801-900#H834|because]] [[Lexicon/H501-600#H559|(Laban) said ,]] [[Lexicon/H3001-3100#H3068|“ May the LORD]] [[Lexicon/H6801-6900#H6822|keep watch]] [[Lexicon/H901-1000#H996|between you]] [[Lexicon/H901-1000#H996|and me]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H5601-5700#H5641|we are absent]] [[Lexicon/H7401-7500#H7453|from each other]] [[Lexicon/H301-400#H376|....]]
+[[Lexicon/H4701-4800#H4709|[It was] also [called] Mizpah ,]] [[Lexicon/H801-900#H834|because]] [[Lexicon/H501-600#H559|[Laban] said ,]] [[Lexicon/H3001-3100#H3068|“ May the LORD]] [[Lexicon/H6801-6900#H6822|keep watch]] [[Lexicon/H901-1000#H996|between you]] [[Lexicon/H901-1000#H996|and me]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H5601-5700#H5641|we are absent]] [[Lexicon/H7401-7500#H7453|from each other]] [[Lexicon/H301-400#H376|....]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 49|LXX]] |
 
 ##### Genesis 31 - 50
-[[Lexicon/H501-600#H518|If]] [[Lexicon/H6001-6100#H6031|you mistreat]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1301-1400#H1323|my daughters]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H3901-4000#H3947|take]] [[Lexicon/H5901-6000#H5921|other]] [[Lexicon/H1301-1400#H1323|...]] [[Lexicon/H801-900#H802|wives ,]] [[Lexicon/H301-400#H369|although no]] [[Lexicon/H301-400#H376|one]] [[Lexicon/H5901-6000#H5973|is with us ,]] [[Lexicon/H7101-7200#H7200|remember]] [[Lexicon/H401-500#H430|that God]] [[Lexicon/H5701-5800#H5707|(is a) witness]] [[Lexicon/H901-1000#H996|between you and me]] [[Lexicon/H901-1000#H996|.... ”]]
+[[Lexicon/H501-600#H518|If]] [[Lexicon/H6001-6100#H6031|you mistreat]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1301-1400#H1323|my daughters]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H3901-4000#H3947|take]] [[Lexicon/H5901-6000#H5921|other]] [[Lexicon/H1301-1400#H1323|...]] [[Lexicon/H801-900#H802|wives ,]] [[Lexicon/H301-400#H369|although no]] [[Lexicon/H301-400#H376|one]] [[Lexicon/H5901-6000#H5973|is with us ,]] [[Lexicon/H7101-7200#H7200|remember]] [[Lexicon/H401-500#H430|that God]] [[Lexicon/H5701-5800#H5707|[is a] witness]] [[Lexicon/H901-1000#H996|between you and me]] [[Lexicon/H901-1000#H996|.... ”]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 50|LXX]] |
 
 ##### Genesis 31 - 51
@@ -217,7 +217,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 51|LXX]] |
 
 ##### Genesis 31 - 52
-[[Lexicon/H2001-2100#H2088|This]] [[Lexicon/H1501-1600#H1530|mound]] [[Lexicon/H5701-5800#H5707|is a witness ,]] [[Lexicon/H4601-4700#H4676|and (this) pillar]] [[Lexicon/H5701-5800#H5713|is a witness ,]] [[Lexicon/H501-600#H518|that]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H5601-5700#H5674|go past]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H1501-1600#H1530|mound]] [[Lexicon/H401-500#H413|to harm you ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H859|and you]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H5601-5700#H5674|go past]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1501-1600#H1530|mound]] [[Lexicon/H2001-2100#H2063|and]] [[Lexicon/H4601-4700#H4676|pillar]] [[Lexicon/H7401-7500#H7451|to harm me.]]
+[[Lexicon/H2001-2100#H2088|This]] [[Lexicon/H1501-1600#H1530|mound]] [[Lexicon/H5701-5800#H5707|is a witness ,]] [[Lexicon/H4601-4700#H4676|and [this] pillar]] [[Lexicon/H5701-5800#H5713|is a witness ,]] [[Lexicon/H501-600#H518|that]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H5601-5700#H5674|go past]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H1501-1600#H1530|mound]] [[Lexicon/H401-500#H413|to harm you ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H859|and you]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H5601-5700#H5674|go past]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1501-1600#H1530|mound]] [[Lexicon/H2001-2100#H2063|and]] [[Lexicon/H4601-4700#H4676|pillar]] [[Lexicon/H7401-7500#H7451|to harm me.]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 52|LXX]] |
 
 ##### Genesis 31 - 53
@@ -229,5 +229,5 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 54|LXX]] |
 
 ##### Genesis 31 - 55
-[[Lexicon/H1201-1300#H1242|Early the next morning ,]] [[Lexicon/H3801-3900#H3837|Laban]] [[Lexicon/H7901-8000#H7925|got up]] [[Lexicon/H5401-5500#H5401|and kissed]] [[Lexicon/H1101-1200#H1121|his grandchildren]] [[Lexicon/H1301-1400#H1323|and daughters]] [[Lexicon/H1201-1300#H1288|and blessed them.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3837|Then (he)]] [[Lexicon/H1901-2000#H1980|left]] [[Lexicon/H7701-7800#H7725|to return]] [[Lexicon/H4701-4800#H4725|home.]]
+[[Lexicon/H1201-1300#H1242|Early the next morning ,]] [[Lexicon/H3801-3900#H3837|Laban]] [[Lexicon/H7901-8000#H7925|got up]] [[Lexicon/H5401-5500#H5401|and kissed]] [[Lexicon/H1101-1200#H1121|his grandchildren]] [[Lexicon/H1301-1400#H1323|and daughters]] [[Lexicon/H1201-1300#H1288|and blessed them.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3837|Then [he]]] [[Lexicon/H1901-2000#H1980|left]] [[Lexicon/H7701-7800#H7725|to return]] [[Lexicon/H4701-4800#H4725|home.]]
 | [[LXX Reference/1 - Genesis/Genesis 31#Genesis 31 - 55|LXX]] |

@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]**
+**[[Home/Scripture/23 - Isaiah|← Isaiah]]**
 
 ---
 

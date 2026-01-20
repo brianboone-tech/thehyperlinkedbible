@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Obadiah 1 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/31 - Obadiah|← Obadiah]]**
+**[[Home/Scripture/31 - Obadiah|← Obadiah]]**
 
 ---
 

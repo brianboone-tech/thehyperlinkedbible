@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Revelation 3
+# Revelation-R 3
 
-[[Readable Bible/66 - Revelation/Revelation 2|← Revelation 2]] | [[Readable Bible/66 - Revelation/Revelation 4|Revelation 4 →]]
+**[[Home/Scripture/66 - Revelation|Revelation]]**
+
+[[Readable Bible/66 - Revelation/Revelation 2#Revelation-R 2| Revelation 2]] - [[Readable Bible/66 - Revelation/Revelation 4#Revelation-R 4| Revelation 4]]
 
 ---
 

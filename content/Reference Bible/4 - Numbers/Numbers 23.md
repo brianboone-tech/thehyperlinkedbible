@@ -21,7 +21,7 @@ Chapter: "23"
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 2|LXX]] |
 
 ##### Numbers 23 - 3
-[[Lexicon/H3301-3400#H3320|“ Stay]] [[Lexicon/H5901-6000#H5921|here by]] [[Lexicon/H5901-6000#H5930|your burnt offering]] [[Lexicon/H1901-2000#H1980|while I am gone , ”]] [[Lexicon/H1101-1200#H1109|Balaam]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H1101-1200#H1111|to Balak.]] [[Lexicon/H101-200#H194|“ Perhaps]] [[Lexicon/H7101-7200#H7136|...]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H7101-7200#H7122|will meet with me.]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H4001-4100#H4100|And whatever]] [[Lexicon/H7101-7200#H7200|He reveals to me ,]] [[Lexicon/H5001-5100#H5046|I will tell]] [[Lexicon/H1901-2000#H1980|So (Balaam) went off]] [[Lexicon/H8201-8300#H8205|to a barren height ,]]
+[[Lexicon/H3301-3400#H3320|“ Stay]] [[Lexicon/H5901-6000#H5921|here by]] [[Lexicon/H5901-6000#H5930|your burnt offering]] [[Lexicon/H1901-2000#H1980|while I am gone , ”]] [[Lexicon/H1101-1200#H1109|Balaam]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H1101-1200#H1111|to Balak.]] [[Lexicon/H101-200#H194|“ Perhaps]] [[Lexicon/H7101-7200#H7136|...]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H7101-7200#H7122|will meet with me.]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H4001-4100#H4100|And whatever]] [[Lexicon/H7101-7200#H7200|He reveals to me ,]] [[Lexicon/H5001-5100#H5046|I will tell]] [[Lexicon/H1901-2000#H1980|So [Balaam] went off]] [[Lexicon/H8201-8300#H8205|to a barren height ,]]
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 3|LXX]] |
 
 ##### Numbers 23 - 4
@@ -37,11 +37,11 @@ Chapter: "23"
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 6|LXX]] |
 
 ##### Numbers 23 - 7
-[[Lexicon/H5301-5400#H5375|And Balaam lifted up]] [[Lexicon/H4901-5000#H4912|an oracle ,]] [[Lexicon/H501-600#H559|saying :]] [[Lexicon/H1101-1200#H1111|“ Balak]] [[Lexicon/H5101-5200#H5148|brought me]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H701-800#H758|Aram ,]] [[Lexicon/H4401-4500#H4428|the king]] [[Lexicon/H4101-4200#H4124|of Moab]] [[Lexicon/H2001-2100#H2042|from the mountains]] [[Lexicon/H6901-7000#H6924|of the east.]] [[Lexicon/H1901-2000#H1980|‘ Come,’ he said ,]] [[Lexicon/H701-800#H779|‘ put a curse]] [[Lexicon/H3201-3300#H3290|on Jacob]] [[Lexicon/H1901-2000#H1980|come]] [[Lexicon/H2101-2200#H2194|(and) denounce]] [[Lexicon/H3401-3500#H3478|Israel ! ’]]
+[[Lexicon/H5301-5400#H5375|And Balaam lifted up]] [[Lexicon/H4901-5000#H4912|an oracle ,]] [[Lexicon/H501-600#H559|saying :]] [[Lexicon/H1101-1200#H1111|“ Balak]] [[Lexicon/H5101-5200#H5148|brought me]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H701-800#H758|Aram ,]] [[Lexicon/H4401-4500#H4428|the king]] [[Lexicon/H4101-4200#H4124|of Moab]] [[Lexicon/H2001-2100#H2042|from the mountains]] [[Lexicon/H6901-7000#H6924|of the east.]] [[Lexicon/H1901-2000#H1980|‘ Come,’ he said ,]] [[Lexicon/H701-800#H779|‘ put a curse]] [[Lexicon/H3201-3300#H3290|on Jacob]] [[Lexicon/H1901-2000#H1980|come]] [[Lexicon/H2101-2200#H2194|[and] denounce]] [[Lexicon/H3401-3500#H3478|Israel ! ’]]
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 7|LXX]] |
 
 ##### Numbers 23 - 8
-[[Lexicon/H4001-4100#H4100|How]] [[Lexicon/H6801-6900#H6895|can I curse (what)]] [[Lexicon/H401-500#H410|God]] [[Lexicon/H3801-3900#H3808|has not]] [[Lexicon/H6801-6900#H6895|cursed ?]] [[Lexicon/H4001-4100#H4100|How]] [[Lexicon/H2101-2200#H2194|can I denounce (what)]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3801-3900#H3808|has not]] [[Lexicon/H2101-2200#H2194|denounced ?]]
+[[Lexicon/H4001-4100#H4100|How]] [[Lexicon/H6801-6900#H6895|can I curse [what]]] [[Lexicon/H401-500#H410|God]] [[Lexicon/H3801-3900#H3808|has not]] [[Lexicon/H6801-6900#H6895|cursed ?]] [[Lexicon/H4001-4100#H4100|How]] [[Lexicon/H2101-2200#H2194|can I denounce [what]]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3801-3900#H3808|has not]] [[Lexicon/H2101-2200#H2194|denounced ?]]
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 8|LXX]] |
 
 ##### Numbers 23 - 9
@@ -49,15 +49,15 @@ Chapter: "23"
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 9|LXX]] |
 
 ##### Numbers 23 - 10
-[[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H4401-4500#H4487|can count]] [[Lexicon/H6001-6100#H6083|the dust]] [[Lexicon/H3201-3300#H3290|of Jacob]] [[Lexicon/H4501-4600#H4557|or number]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7255|(even) a fourth]] [[Lexicon/H3401-3500#H3478|of Israel ?]] [[Lexicon/H5301-5400#H5315|Let me]] [[Lexicon/H4101-4200#H4191|die]] [[Lexicon/H4101-4200#H4194|the death]] [[Lexicon/H3401-3500#H3477|of the righteous ;]] [[Lexicon/H301-400#H319|let my end]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H3601-3700#H3644|like theirs ! ”]]
+[[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H4401-4500#H4487|can count]] [[Lexicon/H6001-6100#H6083|the dust]] [[Lexicon/H3201-3300#H3290|of Jacob]] [[Lexicon/H4501-4600#H4557|or number]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7255|[even] a fourth]] [[Lexicon/H3401-3500#H3478|of Israel ?]] [[Lexicon/H5301-5400#H5315|Let me]] [[Lexicon/H4101-4200#H4191|die]] [[Lexicon/H4101-4200#H4194|the death]] [[Lexicon/H3401-3500#H3477|of the righteous ;]] [[Lexicon/H301-400#H319|let my end]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H3601-3700#H3644|like theirs ! ”]]
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 10|LXX]] |
 
 ##### Numbers 23 - 11
-[[Lexicon/H1101-1200#H1111|Then Balak]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1109|Balaam ,]] [[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H6201-6300#H6213|have you done]] [[Lexicon/H3901-4000#H3947|I brought you (here)]] [[Lexicon/H6801-6900#H6895|to curse]] [[Lexicon/H301-400#H341|my enemies ,]] [[Lexicon/H2001-2100#H2009|and behold ,]] [[Lexicon/H1201-1300#H1288|you have only blessed]] [[Lexicon/H1201-1300#H1288|them ! ”]]
+[[Lexicon/H1101-1200#H1111|Then Balak]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1109|Balaam ,]] [[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H6201-6300#H6213|have you done]] [[Lexicon/H3901-4000#H3947|I brought you [here]]] [[Lexicon/H6801-6900#H6895|to curse]] [[Lexicon/H301-400#H341|my enemies ,]] [[Lexicon/H2001-2100#H2009|and behold ,]] [[Lexicon/H1201-1300#H1288|you have only blessed]] [[Lexicon/H1201-1300#H1288|them ! ”]]
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 11|LXX]] |
 
 ##### Numbers 23 - 12
-[[Lexicon/H6001-6100#H6030|But (Balaam) replied ,]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H3801-3900#H3808|“ Should I not]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1696|speak]] [[Lexicon/H801-900#H834|exactly what]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H7701-7800#H7760|puts]] [[Lexicon/H6301-6400#H6310|in my mouth]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8101-8200#H8104|- ? ”]]
+[[Lexicon/H6001-6100#H6030|But [Balaam] replied ,]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H3801-3900#H3808|“ Should I not]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1696|speak]] [[Lexicon/H801-900#H834|exactly what]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H7701-7800#H7760|puts]] [[Lexicon/H6301-6400#H6310|in my mouth]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8101-8200#H8104|- ? ”]]
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 12|LXX]] |
 
 ##### Numbers 23 - 13
@@ -69,7 +69,7 @@ Chapter: "23"
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 14|LXX]] |
 
 ##### Numbers 23 - 15
-[[Lexicon/H501-600#H559|Balaam said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1111|Balak ,]] [[Lexicon/H3301-3400#H3320|“ Stay]] [[Lexicon/H3501-3600#H3541|here]] [[Lexicon/H5901-6000#H5921|beside]] [[Lexicon/H5901-6000#H5930|your burnt offering]] [[Lexicon/H501-600#H595|while I]] [[Lexicon/H7101-7200#H7136|meet (the LORD)]] [[Lexicon/H3501-3600#H3541|over there. ”]]
+[[Lexicon/H501-600#H559|Balaam said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1111|Balak ,]] [[Lexicon/H3301-3400#H3320|“ Stay]] [[Lexicon/H3501-3600#H3541|here]] [[Lexicon/H5901-6000#H5921|beside]] [[Lexicon/H5901-6000#H5930|your burnt offering]] [[Lexicon/H501-600#H595|while I]] [[Lexicon/H7101-7200#H7136|meet [the LORD]]] [[Lexicon/H3501-3600#H3541|over there. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 23#Numbers 23 - 15|LXX]] |
 
 ##### Numbers 23 - 16

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Song of Solomon 3
+# Song of Solomon-R 3
 
-[[Readable Bible/22 - Song of Solomon/Song of Solomon 2|← Song of Solomon 2]] | [[Readable Bible/22 - Song of Solomon/Song of Solomon 4|Song of Solomon 4 →]]
+**[[Home/Scripture/22 - Song of Solomon|Song of Solomon]]**
+
+[[Readable Bible/22 - Song of Solomon/Song of Solomon 2#Song of Solomon-R 2| Song of Solomon 2]] - [[Readable Bible/22 - Song of Solomon/Song of Solomon 4#Song of Solomon-R 4| Song of Solomon 4]]
 
 ---
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Proverbs 9
+# Proverbs-R 9
 
-[[Readable Bible/20 - Proverbs/Proverbs 8|← Proverbs 8]] | [[Readable Bible/20 - Proverbs/Proverbs 10|Proverbs 10 →]]
+**[[Home/Scripture/20 - Proverbs|Proverbs]]**
+
+[[Readable Bible/20 - Proverbs/Proverbs 8#Proverbs-R 8| Proverbs 8]] - [[Readable Bible/20 - Proverbs/Proverbs 10#Proverbs-R 10| Proverbs 10]]
 
 ---
 

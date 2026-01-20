@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 32 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 31 - TOSK|← Ch 31]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 33 - TOSK|Ch 33 →]]
+**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 31 - TOSK|← Ch 31]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 33 - TOSK|Ch 33 →]]
 
 ---
 

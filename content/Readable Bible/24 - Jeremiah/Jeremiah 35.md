@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah 35
+# Jeremiah-R 35
 
-[[Readable Bible/24 - Jeremiah/Jeremiah 34|← Jeremiah 34]] | [[Readable Bible/24 - Jeremiah/Jeremiah 36|Jeremiah 36 →]]
+**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 34#Jeremiah-R 34| Jeremiah 34]] - [[Readable Bible/24 - Jeremiah/Jeremiah 36#Jeremiah-R 36| Jeremiah 36]]
 
 ---
 

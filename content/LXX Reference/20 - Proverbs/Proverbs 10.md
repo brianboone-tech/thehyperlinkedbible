@@ -13,7 +13,7 @@ Testament: Old
 [[Lexicon/G5201-5300#G5207|son]] [[Lexicon/G4601-4700#G4680|wise]] [[Lexicon/G2101-2200#G2165|gladdens]] [[Lexicon/G3901-4000#G3962|father]] [[Lexicon/G5201-5300#G5207|son]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G801-900#G0878|foolish]] [[Lexicon/G3001-3100#G3077|distress]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3301-3400#G3384|mother]]
 
 #### Proverbs 10 - 2
-[[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5624#G5623|benefit]] [[Lexicon/G2301-2400#G2344|treasures]] [[Lexicon/G401-500#G0459|lawless]] [[Lexicon/G1301-1400#G1343|righteousness]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G4501-4600#G4506|rescue]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G2201-2300#G2288|death]]
+[[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5700#G5623|benefit]] [[Lexicon/G2301-2400#G2344|treasures]] [[Lexicon/G401-500#G0459|lawless]] [[Lexicon/G1301-1400#G1343|righteousness]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G4501-4600#G4506|rescue]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G2201-2300#G2288|death]]
 
 #### Proverbs 10 - 3
 [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G3001-3100#G3041|famish]] [[Lexicon/G2901-3000#G2962|lord]] [[Lexicon/G5501-5600#G5590|soul]] [[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G2201-2300#G2222|life]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G701-800#G0765|impious]] [[Lexicon/G301-400#G0396|prostrate]]
@@ -85,7 +85,7 @@ Testament: Old
 [[Lexicon/G3801-3900#G3899|coming]] [[Lexicon/G2601-2700#G2616|blast]] [[Lexicon/G801-900#G0853|obliterated]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0765|impious]] [[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G1501-1600#G1578|turning aside]] [[Lexicon/G4901-5000#G4982|escapes]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon]]
 
 #### Proverbs 10 - 26
-[[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G3601-3700#G3675|unripe grape]] [[Lexicon/G3501-3600#G3599|teeth]] [[Lexicon/G901-1000#G0983|hurtful]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2586|smoke]] [[Lexicon/G3601-3700#G3659|eyes]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G3801-3900#G3892|unlawfulness]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5501-5600#G5530|dealing]] [[Lexicon/G1401-1500#G1473|it]]
+[[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G3601-3700#G3675|unripe grape]] [[Lexicon/G3501-3600#G3599|teeth]] [[Lexicon/G901-1000#G0983|hurtful]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2586|smoke]] [[Lexicon/G3601-3700#G3659|eyes]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G3801-3900#G3892|unlawfulness]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5501-5600#G5530|dealing]] [[Lexicon/G1401-1500#G1473|it]]
 
 #### Proverbs 10 - 27
 [[Lexicon/G5401-5500#G5401|fear]] [[Lexicon/G2901-3000#G2962|lord]] [[Lexicon/G4301-4400#G4369|adds]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G701-800#G0765|impious]] [[Lexicon/G3601-3700#G3642|lessened]]

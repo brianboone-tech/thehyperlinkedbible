@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Numbers 29
+# Numbers-R 29
 
-[[Readable Bible/04 - Numbers/Numbers 28|← Numbers 28]] | [[Readable Bible/04 - Numbers/Numbers 30|Numbers 30 →]]
+**[[Home/Scripture/04 - Numbers|Numbers]]**
+
+[[Readable Bible/04 - Numbers/Numbers 28#Numbers-R 28| Numbers 28]] - [[Readable Bible/04 - Numbers/Numbers 30#Numbers-R 30| Numbers 30]]
 
 ---
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Kings 21
+# 1 Kings-R 21
 
-[[Readable Bible/11 - 1 Kings/1 Kings 20|← 1 Kings 20]] | [[Readable Bible/11 - 1 Kings/1 Kings 22|1 Kings 22 →]]
+**[[Home/Scripture/11 - 1 Kings|1 Kings]]**
+
+[[Readable Bible/11 - 1 Kings/1 Kings 20#1 Kings-R 20| 1 Kings 20]] - [[Readable Bible/11 - 1 Kings/1 Kings 22#1 Kings-R 22| 1 Kings 22]]
 
 ---
 
@@ -49,15 +51,15 @@ cssClasses: lexicon
 
 ##### 1 Kings 21 . 13
 [[Reference Bible/11 - 1 Kings/1 Kings 21#1 Kings 21 - 13|13]] And the two scoundrels came in and sat opposite Naboth, and these men testified against him before the people, saying, “Naboth has cursed both God and the king!” So they took him outside the city and stoned him to death.  | [[Chiasm/Chiasm - 11 - 1 Kings 21 . 1 - 29|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 21 - TOSK#Verse 13|TOSK]] |
- | [[Chiasm/Chiasm - 11 - 1 Kings 21 . 1 - 29|Chiasm]]  |
+  |  [[Chiasm/Chiasm - 11 - 1 Kings 21 . 1 - 29|Chiasm]]  |
 
 ##### 1 Kings 21 . 14
 [[Reference Bible/11 - 1 Kings/1 Kings 21#1 Kings 21 - 14|14]] Then they sent word to Jezebel: “Naboth has been stoned to death.”  | [[Chiasm/Chiasm - 11 - 1 Kings 21 . 1 - 29|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 21 - TOSK#Verse 14|TOSK]] |
- | [[Chiasm/Chiasm - 11 - 1 Kings 21 . 1 - 29|Chiasm]]  |
+  |  [[Chiasm/Chiasm - 11 - 1 Kings 21 . 1 - 29|Chiasm]]  |
 
 ##### 1 Kings 21 . 15
 [[Reference Bible/11 - 1 Kings/1 Kings 21#1 Kings 21 - 15|15]] When Jezebel heard that Naboth had been stoned to death, she said to Ahab, “Get up and take possession of the vineyard of Naboth the Jezreelite, who refused to give it to you for silver. For Naboth is no longer alive, but dead.”  | [[Chiasm/Chiasm - 11 - 1 Kings 21 . 1 - 29|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 21 - TOSK#Verse 15|TOSK]] |
- | [[Chiasm/Chiasm - 11 - 1 Kings 21 . 1 - 29|Chiasm]]  |
+  |  [[Chiasm/Chiasm - 11 - 1 Kings 21 . 1 - 29|Chiasm]]  |
 
 ##### 1 Kings 21 . 16
 [[Reference Bible/11 - 1 Kings/1 Kings 21#1 Kings 21 - 16|16]] And when Ahab heard that Naboth was dead, he got up and went down to take possession of the vineyard of Naboth the Jezreelite.  | [[Chiasm/Chiasm - 11 - 1 Kings 21 . 1 - 29|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 21 - TOSK#Verse 16|TOSK]] |

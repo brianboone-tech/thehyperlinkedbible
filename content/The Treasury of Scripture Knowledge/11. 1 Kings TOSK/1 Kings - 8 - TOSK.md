@@ -3,7 +3,7 @@ Folder: TOSK
 Name: 1 Kings 8 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/11 - 1 Kings|← 1 Kings]]** | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 9 - TOSK|Ch 9 →]]
+**[[Home/Scripture/11 - 1 Kings|← 1 Kings]]** | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 9 - TOSK|Ch 9 →]]
 
 ---
 

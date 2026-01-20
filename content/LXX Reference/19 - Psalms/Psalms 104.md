@@ -15,7 +15,7 @@ Testament: Old
 [[Lexicon/G2101-2200#G2127|Bless]] [[Lexicon/G5501-5600#G5590|O my soul]] [[Lexicon/G2901-3000#G2962|O lord]] [[Lexicon/G2301-2400#G2316|my God,]] [[Lexicon/G3101-3200#G3170|you are magnified]] [[Lexicon/G4901-5000#G4970|exceedingly.]] [[Lexicon/G1801-1900#G1843|acknowledgment]]
 
 #### Psalms 104 - 2
-[[Lexicon/G301-400#G0306|cloaking on]] [[Lexicon/G5401-5500#G5457|light]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2401-2500#G2440|a garment;]] [[Lexicon/G1601-1700#G1614|stretching out]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G1101-1200#G1193|a hide covering ;]]
+[[Lexicon/G301-400#G0306|cloaking on]] [[Lexicon/G5401-5500#G5457|light]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2401-2500#G2440|a garment;]] [[Lexicon/G1601-1700#G1614|stretching out]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G1101-1200#G1193|a hide covering ;]]
 
 #### Psalms 104 - 3
 [[Lexicon/G4701-4800#G4720|roofing]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G5001-5100#G5087|placing]] [[Lexicon/G3501-3600#G3509|clouds]] [[Lexicon/G1901-2000#G1912|for his step;]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G4001-4100#G4043|walking]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G401-500#G0417|of the winds;]]
@@ -27,7 +27,7 @@ Testament: Old
 [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2301-2400#G2311|laying the foundation]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G1001-1100#G1093|earth]] [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G801-900#G0803|its stability]] [[Lexicon/G3701-3800#G3756|(it shall not]] [[Lexicon/G2801-2900#G2827|lean]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G101-200#G0165|eon);]]
 
 #### Psalms 104 - 6
-[[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2401-2500#G2440|a garment]] [[Lexicon/G4001-4100#G4018|of his wrap.]] [[Lexicon/G1901-2000#G1909|Upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3735|mountains]] [[Lexicon/G2401-2500#G2476|shall stand]]
+[[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2401-2500#G2440|a garment]] [[Lexicon/G4001-4100#G4018|of his wrap.]] [[Lexicon/G1901-2000#G1909|Upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3735|mountains]] [[Lexicon/G2401-2500#G2476|shall stand]]
 
 #### Psalms 104 - 7
 [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2001-2100#G2008|your reproach]] [[Lexicon/G5301-5400#G5343|they shall flee;]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1001-1100#G1027|of your thunder]] [[Lexicon/G1101-1200#G1168|they shall show timidity.]]
@@ -72,7 +72,7 @@ Testament: Old
 [[Lexicon/G5001-5100#G5087|You made]] [[Lexicon/G4601-4700#G4655|darkness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1096|happened]] [[Lexicon/G1701-1800#G1722|in]]
 
 #### Psalms 104 - 21
-[[Lexicon/G5601-5624#G5612|roaring]] [[Lexicon/G701-800#G0726|to seize by force;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2201-2300#G2212|seeking]] [[Lexicon/G3801-3900#G3844|from]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1001-1100#G1035|food]] [[Lexicon/G1401-1500#G1473|for themselves.]]
+[[Lexicon/G5601-5700#G5612|roaring]] [[Lexicon/G701-800#G0726|to seize by force;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2201-2300#G2212|seeking]] [[Lexicon/G3801-3900#G3844|from]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1001-1100#G1035|food]] [[Lexicon/G1401-1500#G1473|for themselves.]]
 
 #### Psalms 104 - 22
 [[Lexicon/G301-400#G0393|arose]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4801-4900#G4863|they were brought together,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3101-3200#G3128|their lairs]] [[Lexicon/G2801-2900#G2844|they shall lay down.]]
@@ -81,7 +81,7 @@ Testament: Old
 [[Lexicon/G1801-1900#G1831|shall go forth]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G2001-2100#G2041|his work,]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G2001-2100#G2039|his work]] [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G2001-2100#G2073|evening.]]
 
 #### Psalms 104 - 24
-[[Lexicon/G5601-5624#G5613|How]] [[Lexicon/G3101-3200#G3170|were magnified]] [[Lexicon/G2901-3000#G2962|O lord;]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4101-4200#G4137|was filled]] [[Lexicon/G2901-3000#G2937|of your creation;]]
+[[Lexicon/G5601-5700#G5613|How]] [[Lexicon/G3101-3200#G3170|were magnified]] [[Lexicon/G2901-3000#G2962|O lord;]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4101-4200#G4137|was filled]] [[Lexicon/G2901-3000#G2937|of your creation;]]
 
 #### Psalms 104 - 25
 [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2281|sea]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2149|broad space;]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3701-3800#G3756|there is no]] [[Lexicon/G701-800#G0706|count;]] [[Lexicon/G2201-2300#G2226|living creatures ]] [[Lexicon/G3301-3400#G3397|small]] [[Lexicon/G3301-3400#G3326|with]]
@@ -114,4 +114,4 @@ Testament: Old
 [[Lexicon/G2201-2300#G2237|Let be delicious]] [[Lexicon/G1401-1500#G1473|and I]] [[Lexicon/G2101-2200#G2165|shall be glad]] [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G3501-3600#G3588|the]]
 
 #### Psalms 104 - 35
-[[Lexicon/G1501-1600#G1587|failed]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0459|lawless ones]] [[Lexicon/G5601-5624#G5620|so as for]] [[Lexicon/G3301-3400#G3361|to not]] [[Lexicon/G2101-2200#G2127|Bless]] [[Lexicon/G5501-5600#G5590|O my soul]]
+[[Lexicon/G1501-1600#G1587|failed]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0459|lawless ones]] [[Lexicon/G5601-5700#G5620|so as for]] [[Lexicon/G3301-3400#G3361|to not]] [[Lexicon/G2101-2200#G2127|Bless]] [[Lexicon/G5501-5600#G5590|O my soul]]

@@ -46,7 +46,7 @@ cssClasses: lexicon
 [[Lexicon/H5801-5900#H5892|The city]] [[Lexicon/H7601-7700#H7604|is left]] [[Lexicon/H8001-8100#H8047|in ruins ;]] [[Lexicon/H8101-8200#H8179|its gate]] [[Lexicon/H3801-3900#H3807|is reduced]] [[Lexicon/H7501-7600#H7591|to rubble.]]
 
 ##### Isaiah 24 - 13
-[[Lexicon/H3501-3600#H3588|So]] [[Lexicon/H3501-3600#H3541|...]] [[Lexicon/H1901-2000#H1961|will it be]] [[Lexicon/H7101-7200#H7130|on]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H8401-8500#H8432|(and) among]] [[Lexicon/H5901-6000#H5971|the nations ,]] [[Lexicon/H5301-5400#H5363|like a harvested]] [[Lexicon/H2101-2200#H2132|olive tree ,]] [[Lexicon/H5901-6000#H5955|like a gleaning]] [[Lexicon/H501-600#H518|after]] [[Lexicon/H3601-3700#H3615|...]] [[Lexicon/H1201-1300#H1210|a grape harvest.]]
+[[Lexicon/H3501-3600#H3588|So]] [[Lexicon/H3501-3600#H3541|...]] [[Lexicon/H1901-2000#H1961|will it be]] [[Lexicon/H7101-7200#H7130|on]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H8401-8500#H8432|[and] among]] [[Lexicon/H5901-6000#H5971|the nations ,]] [[Lexicon/H5301-5400#H5363|like a harvested]] [[Lexicon/H2101-2200#H2132|olive tree ,]] [[Lexicon/H5901-6000#H5955|like a gleaning]] [[Lexicon/H501-600#H518|after]] [[Lexicon/H3601-3700#H3615|...]] [[Lexicon/H1201-1300#H1210|a grape harvest.]]
 
 ##### Isaiah 24 - 14
 [[Lexicon/H1901-2000#H1992|They]] [[Lexicon/H5301-5400#H5375|raise]] [[Lexicon/H6901-7000#H6963|their voices ,]] [[Lexicon/H7401-7500#H7442|they shout for joy ;]] [[Lexicon/H3201-3300#H3220|from the west]] [[Lexicon/H6601-6700#H6670|they proclaim]] [[Lexicon/H1301-1400#H1347|the majesty]] [[Lexicon/H3001-3100#H3068|of the LORD.]]

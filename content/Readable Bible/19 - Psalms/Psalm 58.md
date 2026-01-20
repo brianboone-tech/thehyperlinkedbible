@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 58
+# Psalm-R 58
 
-[[Readable Bible/19 - Psalms/Psalm 57|← Psalm 57]] | [[Readable Bible/19 - Psalms/Psalm 59|Psalm 59 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 57#Psalm-R 57| Psalm 57]] - [[Readable Bible/19 - Psalms/Psalm 59#Psalm-R 59| Psalm 59]]
 
 ---
 

@@ -13,7 +13,7 @@ Chapter: "11"
 ---
 
 ##### Numbers 11 - 1
-[[Lexicon/H1901-2000#H1961|Soon]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H501-600#H596|began to complain]] [[Lexicon/H7401-7500#H7451|about their hardship]] [[Lexicon/H201-300#H241|in the hearing]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H3001-3100#H3068|and when He]] [[Lexicon/H8001-8100#H8085|heard (them) ,]] [[Lexicon/H601-700#H639|His anger]] [[Lexicon/H2701-2800#H2734|was kindled ,]] [[Lexicon/H701-800#H784|and fire]] [[Lexicon/H3001-3100#H3068|from the LORD]] [[Lexicon/H1101-1200#H1197|blazed]] [[Lexicon/H301-400#H398|and consumed]] [[Lexicon/H7001-7100#H7097|the outskirts]] [[Lexicon/H4201-4300#H4264|of the camp.]]
+[[Lexicon/H1901-2000#H1961|Soon]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H501-600#H596|began to complain]] [[Lexicon/H7401-7500#H7451|about their hardship]] [[Lexicon/H201-300#H241|in the hearing]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H3001-3100#H3068|and when He]] [[Lexicon/H8001-8100#H8085|heard [them] ,]] [[Lexicon/H601-700#H639|His anger]] [[Lexicon/H2701-2800#H2734|was kindled ,]] [[Lexicon/H701-800#H784|and fire]] [[Lexicon/H3001-3100#H3068|from the LORD]] [[Lexicon/H1101-1200#H1197|blazed]] [[Lexicon/H301-400#H398|and consumed]] [[Lexicon/H7001-7100#H7097|the outskirts]] [[Lexicon/H4201-4300#H4264|of the camp.]]
 | [[LXX Reference/4 - Numbers/Numbers 11#Numbers 11 - 1|LXX]] |
 
 ##### Numbers 11 - 2
@@ -65,7 +65,7 @@ Chapter: "11"
 | [[LXX Reference/4 - Numbers/Numbers 11#Numbers 11 - 13|LXX]] |
 
 ##### Numbers 11 - 14
-[[Lexicon/H501-600#H595|I]] [[Lexicon/H3801-3900#H3808|cannot]] [[Lexicon/H3201-3300#H3201|...]] [[Lexicon/H5301-5400#H5375|carry]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2001-2100#H2088|these]] [[Lexicon/H5901-6000#H5971|people]] [[Lexicon/H901-1000#H905|by myself ;]] [[Lexicon/H3501-3600#H3588|(it is)]] [[Lexicon/H3501-3600#H3515|too burdensome]] [[Lexicon/H4401-4500#H4480|for me.]]
+[[Lexicon/H501-600#H595|I]] [[Lexicon/H3801-3900#H3808|cannot]] [[Lexicon/H3201-3300#H3201|...]] [[Lexicon/H5301-5400#H5375|carry]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2001-2100#H2088|these]] [[Lexicon/H5901-6000#H5971|people]] [[Lexicon/H901-1000#H905|by myself ;]] [[Lexicon/H3501-3600#H3588|[it is]]] [[Lexicon/H3501-3600#H3515|too burdensome]] [[Lexicon/H4401-4500#H4480|for me.]]
 | [[LXX Reference/4 - Numbers/Numbers 11#Numbers 11 - 14|LXX]] |
 
 ##### Numbers 11 - 15
@@ -77,7 +77,7 @@ Chapter: "11"
 | [[LXX Reference/4 - Numbers/Numbers 11#Numbers 11 - 16|LXX]] |
 
 ##### Numbers 11 - 17
-[[Lexicon/H3301-3400#H3381|And I will come down]] [[Lexicon/H1601-1700#H1696|and speak]] [[Lexicon/H5901-6000#H5973|with you]] [[Lexicon/H8001-8100#H8033|there ,]] [[Lexicon/H601-700#H680|and I will take]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H7301-7400#H7307|the Spirit]] [[Lexicon/H801-900#H834|that (is)]] [[Lexicon/H5901-6000#H5921|on you]] [[Lexicon/H7701-7800#H7760|and put]] [[Lexicon/H5901-6000#H5921|(that Spirit) on them.]] [[Lexicon/H5301-5400#H5375|They will help you bear]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H4801-4900#H4853|the burden]] [[Lexicon/H5901-6000#H5971|of the people ,]] [[Lexicon/H801-900#H859|so that you]] [[Lexicon/H3801-3900#H3808|do not]] [[Lexicon/H5301-5400#H5375|have to bear it]] [[Lexicon/H901-1000#H905|by yourself.]]
+[[Lexicon/H3301-3400#H3381|And I will come down]] [[Lexicon/H1601-1700#H1696|and speak]] [[Lexicon/H5901-6000#H5973|with you]] [[Lexicon/H8001-8100#H8033|there ,]] [[Lexicon/H601-700#H680|and I will take]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H7301-7400#H7307|the Spirit]] [[Lexicon/H801-900#H834|that [is]]] [[Lexicon/H5901-6000#H5921|on you]] [[Lexicon/H7701-7800#H7760|and put]] [[Lexicon/H5901-6000#H5921|[that Spirit] on them.]] [[Lexicon/H5301-5400#H5375|They will help you bear]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H4801-4900#H4853|the burden]] [[Lexicon/H5901-6000#H5971|of the people ,]] [[Lexicon/H801-900#H859|so that you]] [[Lexicon/H3801-3900#H3808|do not]] [[Lexicon/H5301-5400#H5375|have to bear it]] [[Lexicon/H901-1000#H905|by yourself.]]
 | [[LXX Reference/4 - Numbers/Numbers 11#Numbers 11 - 17|LXX]] |
 
 ##### Numbers 11 - 18
@@ -97,7 +97,7 @@ Chapter: "11"
 | [[LXX Reference/4 - Numbers/Numbers 11#Numbers 11 - 21|LXX]] |
 
 ##### Numbers 11 - 22
-[[Lexicon/H6601-6700#H6629|If (all our) flocks]] [[Lexicon/H1201-1300#H1241|and herds]] [[Lexicon/H7801-7900#H7819|were slaughtered]] [[Lexicon/H4601-4700#H4672|would they have enough]] [[Lexicon/H501-600#H518|Or if]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1701-1800#H1709|the fish]] [[Lexicon/H3201-3300#H3220|in the sea]] [[Lexicon/H601-700#H622|were caught]] [[Lexicon/H4601-4700#H4672|would they have enough]]
+[[Lexicon/H6601-6700#H6629|If [all our] flocks]] [[Lexicon/H1201-1300#H1241|and herds]] [[Lexicon/H7801-7900#H7819|were slaughtered]] [[Lexicon/H4601-4700#H4672|would they have enough]] [[Lexicon/H501-600#H518|Or if]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1701-1800#H1709|the fish]] [[Lexicon/H3201-3300#H3220|in the sea]] [[Lexicon/H601-700#H622|were caught]] [[Lexicon/H4601-4700#H4672|would they have enough]]
 | [[LXX Reference/4 - Numbers/Numbers 11#Numbers 11 - 22|LXX]] |
 
 ##### Numbers 11 - 23
@@ -109,7 +109,7 @@ Chapter: "11"
 | [[LXX Reference/4 - Numbers/Numbers 11#Numbers 11 - 24|LXX]] |
 
 ##### Numbers 11 - 25
-[[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H3301-3400#H3381|came down]] [[Lexicon/H6001-6100#H6051|in the cloud]] [[Lexicon/H1601-1700#H1696|and spoke]] [[Lexicon/H401-500#H413|to him ,]] [[Lexicon/H601-700#H680|and He took]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H7301-7400#H7307|the Spirit]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|was on (Moses)]] [[Lexicon/H5401-5500#H5414|and placed]] [[Lexicon/H5901-6000#H5921|that Spirit on]] [[Lexicon/H7601-7700#H7657|the seventy]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H2201-2300#H2205|elders.]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H7301-7400#H7307|As the Spirit]] [[Lexicon/H5101-5200#H5117|rested]] [[Lexicon/H5901-6000#H5921|on them ,]] [[Lexicon/H5001-5100#H5012|they prophesied —]] [[Lexicon/H3801-3900#H3808|but they never]] [[Lexicon/H3201-3300#H3254|did so again.]]
+[[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H3301-3400#H3381|came down]] [[Lexicon/H6001-6100#H6051|in the cloud]] [[Lexicon/H1601-1700#H1696|and spoke]] [[Lexicon/H401-500#H413|to him ,]] [[Lexicon/H601-700#H680|and He took]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H7301-7400#H7307|the Spirit]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|was on [Moses]]] [[Lexicon/H5401-5500#H5414|and placed]] [[Lexicon/H5901-6000#H5921|that Spirit on]] [[Lexicon/H7601-7700#H7657|the seventy]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H2201-2300#H2205|elders.]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H7301-7400#H7307|As the Spirit]] [[Lexicon/H5101-5200#H5117|rested]] [[Lexicon/H5901-6000#H5921|on them ,]] [[Lexicon/H5001-5100#H5012|they prophesied —]] [[Lexicon/H3801-3900#H3808|but they never]] [[Lexicon/H3201-3300#H3254|did so again.]]
 | [[LXX Reference/4 - Numbers/Numbers 11#Numbers 11 - 25|LXX]] |
 
 ##### Numbers 11 - 26

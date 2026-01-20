@@ -33,7 +33,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 5|LXX]] |
 
 ##### Genesis 17 - 6
-[[Lexicon/H3901-4000#H3966|I will make you exceedingly]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6501-6600#H6509|fruitful ;]] [[Lexicon/H5401-5500#H5414|I will make]] [[Lexicon/H1401-1500#H1471|nations (of you) ,]] [[Lexicon/H4401-4500#H4428|and kings]] [[Lexicon/H3301-3400#H3318|will descend]] [[Lexicon/H4401-4500#H4480|from you.]]
+[[Lexicon/H3901-4000#H3966|I will make you exceedingly]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6501-6600#H6509|fruitful ;]] [[Lexicon/H5401-5500#H5414|I will make]] [[Lexicon/H1401-1500#H1471|nations [of you] ,]] [[Lexicon/H4401-4500#H4428|and kings]] [[Lexicon/H3301-3400#H3318|will descend]] [[Lexicon/H4401-4500#H4480|from you.]]
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 6|LXX]] |
 
 ##### Genesis 17 - 7
@@ -65,15 +65,15 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 13|LXX]] |
 
 ##### Genesis 17 - 14
-[[Lexicon/H6101-6200#H6189|-]] [[Lexicon/H2101-2200#H2145|But if any male]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3801-3900#H3808|is not]] [[Lexicon/H4101-4200#H4135|circumcised]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1301-1400#H1320|-]] [[Lexicon/H6101-6200#H6190|... ,]] [[Lexicon/H1901-2000#H1931|(he)]] [[Lexicon/H5301-5400#H5315|...]] [[Lexicon/H3701-3800#H3772|will be cut off]] [[Lexicon/H5901-6000#H5971|from his people ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6501-6600#H6565|he has broken]] [[Lexicon/H1201-1300#H1285|My covenant. ”]]
+[[Lexicon/H6101-6200#H6189|-]] [[Lexicon/H2101-2200#H2145|But if any male]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3801-3900#H3808|is not]] [[Lexicon/H4101-4200#H4135|circumcised]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1301-1400#H1320|-]] [[Lexicon/H6101-6200#H6190|... ,]] [[Lexicon/H1901-2000#H1931|[he]]] [[Lexicon/H5301-5400#H5315|...]] [[Lexicon/H3701-3800#H3772|will be cut off]] [[Lexicon/H5901-6000#H5971|from his people ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6501-6600#H6565|he has broken]] [[Lexicon/H1201-1300#H1285|My covenant. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 14|LXX]] |
 
 ##### Genesis 17 - 15
-[[Lexicon/H401-500#H430|Then God]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H85|Abraham ,]] [[Lexicon/H8201-8300#H8297|“ As for Sarai]] [[Lexicon/H801-900#H802|your wife ,]] [[Lexicon/H3801-3900#H3808|do not]] [[Lexicon/H7101-7200#H7121|call]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8034|her]] [[Lexicon/H8201-8300#H8297|Sarai ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H8001-8100#H8034|her name (is to be)]] [[Lexicon/H8201-8300#H8283|Sarah.]]
+[[Lexicon/H401-500#H430|Then God]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H85|Abraham ,]] [[Lexicon/H8201-8300#H8297|“ As for Sarai]] [[Lexicon/H801-900#H802|your wife ,]] [[Lexicon/H3801-3900#H3808|do not]] [[Lexicon/H7101-7200#H7121|call]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8034|her]] [[Lexicon/H8201-8300#H8297|Sarai ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H8001-8100#H8034|her name [is to be]]] [[Lexicon/H8201-8300#H8283|Sarah.]]
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 15|LXX]] |
 
 ##### Genesis 17 - 16
-[[Lexicon/H1201-1300#H1288|And I will bless her]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1501-1600#H1571|and will surely]] [[Lexicon/H5401-5500#H5414|give]] [[Lexicon/H1101-1200#H1121|a son]] [[Lexicon/H4401-4500#H4480|by her.]] [[Lexicon/H1201-1300#H1288|I will bless her ,]] [[Lexicon/H1901-2000#H1961|and she will be]] [[Lexicon/H1401-1500#H1471|(the mother) of nations ;]] [[Lexicon/H4401-4500#H4428|kings]] [[Lexicon/H5901-6000#H5971|of peoples]] [[Lexicon/H1901-2000#H1961|will descend]] [[Lexicon/H4401-4500#H4480|from her. ”]]
+[[Lexicon/H1201-1300#H1288|And I will bless her]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1501-1600#H1571|and will surely]] [[Lexicon/H5401-5500#H5414|give]] [[Lexicon/H1101-1200#H1121|a son]] [[Lexicon/H4401-4500#H4480|by her.]] [[Lexicon/H1201-1300#H1288|I will bless her ,]] [[Lexicon/H1901-2000#H1961|and she will be]] [[Lexicon/H1401-1500#H1471|[the mother] of nations ;]] [[Lexicon/H4401-4500#H4428|kings]] [[Lexicon/H5901-6000#H5971|of peoples]] [[Lexicon/H1901-2000#H1961|will descend]] [[Lexicon/H4401-4500#H4480|from her. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 16|LXX]] |
 
 ##### Genesis 17 - 17
@@ -81,7 +81,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 17|LXX]] |
 
 ##### Genesis 17 - 18
-[[Lexicon/H1-100#H85|And Abraham]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H401-500#H430|God ,]] [[Lexicon/H3801-3900#H3863|“ O that]] [[Lexicon/H3401-3500#H3458|Ishmael]] [[Lexicon/H2401-2500#H2421|might live]] [[Lexicon/H6401-6500#H6440|under Your (blessing) ! ”]]
+[[Lexicon/H1-100#H85|And Abraham]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H401-500#H430|God ,]] [[Lexicon/H3801-3900#H3863|“ O that]] [[Lexicon/H3401-3500#H3458|Ishmael]] [[Lexicon/H2401-2500#H2421|might live]] [[Lexicon/H6401-6500#H6440|under Your [blessing] ! ”]]
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 18|LXX]] |
 
 ##### Genesis 17 - 19
@@ -89,7 +89,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 19|LXX]] |
 
 ##### Genesis 17 - 20
-[[Lexicon/H3401-3500#H3458|As for Ishmael ,]] [[Lexicon/H8001-8100#H8085|I have heard you ,]] [[Lexicon/H2001-2100#H2009|(and) I will surely]] [[Lexicon/H1201-1300#H1288|bless]] [[Lexicon/H801-900#H853|him ;]] [[Lexicon/H6501-6600#H6509|I will make him fruitful]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7235|and multiply]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H3901-4000#H3966|greatly]] [[Lexicon/H3901-4000#H3966|....]] [[Lexicon/H3201-3300#H3205|He will become the father]] [[Lexicon/H8101-8200#H8147|of twelve]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H5301-5400#H5387|rulers ,]] [[Lexicon/H5401-5500#H5414|and I will make him]] [[Lexicon/H1401-1500#H1419|into a great]] [[Lexicon/H1401-1500#H1471|nation.]]
+[[Lexicon/H3401-3500#H3458|As for Ishmael ,]] [[Lexicon/H8001-8100#H8085|I have heard you ,]] [[Lexicon/H2001-2100#H2009|[and] I will surely]] [[Lexicon/H1201-1300#H1288|bless]] [[Lexicon/H801-900#H853|him ;]] [[Lexicon/H6501-6600#H6509|I will make him fruitful]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7235|and multiply]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H3901-4000#H3966|greatly]] [[Lexicon/H3901-4000#H3966|....]] [[Lexicon/H3201-3300#H3205|He will become the father]] [[Lexicon/H8101-8200#H8147|of twelve]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H5301-5400#H5387|rulers ,]] [[Lexicon/H5401-5500#H5414|and I will make him]] [[Lexicon/H1401-1500#H1419|into a great]] [[Lexicon/H1401-1500#H1471|nation.]]
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 20|LXX]] |
 
 ##### Genesis 17 - 21
@@ -97,7 +97,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 21|LXX]] |
 
 ##### Genesis 17 - 22
-[[Lexicon/H3601-3700#H3615|When He had finished]] [[Lexicon/H1601-1700#H1696|speaking]] [[Lexicon/H801-900#H854|with (Abraham) ,]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H5901-6000#H5927|went up]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H1-100#H85|(him).]]
+[[Lexicon/H3601-3700#H3615|When He had finished]] [[Lexicon/H1601-1700#H1696|speaking]] [[Lexicon/H801-900#H854|with [Abraham] ,]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H5901-6000#H5927|went up]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H1-100#H85|[him].]]
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 22|LXX]] |
 
 ##### Genesis 17 - 23
@@ -117,5 +117,5 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 26|LXX]] |
 
 ##### Genesis 17 - 27
-[[Lexicon/H3601-3700#H3605|And all]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H1001-1100#H1004|of (Abraham’s) household —]] [[Lexicon/H3201-3300#H3211|both servants born]] [[Lexicon/H1001-1100#H1004|in his household]] [[Lexicon/H4701-4800#H4736|and those purchased]] [[Lexicon/H3701-3800#H3701|...]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H1101-1200#H1121|from foreigners]] [[Lexicon/H5201-5300#H5236|... —]] [[Lexicon/H4101-4200#H4135|were circumcised with him.]]
+[[Lexicon/H3601-3700#H3605|And all]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H1001-1100#H1004|of [Abraham’s] household —]] [[Lexicon/H3201-3300#H3211|both servants born]] [[Lexicon/H1001-1100#H1004|in his household]] [[Lexicon/H4701-4800#H4736|and those purchased]] [[Lexicon/H3701-3800#H3701|...]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H1101-1200#H1121|from foreigners]] [[Lexicon/H5201-5300#H5236|... —]] [[Lexicon/H4101-4200#H4135|were circumcised with him.]]
 | [[LXX Reference/1 - Genesis/Genesis 17#Genesis 17 - 27|LXX]] |

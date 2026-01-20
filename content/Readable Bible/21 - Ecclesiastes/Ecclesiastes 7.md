@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ecclesiastes 7
+# Ecclesiastes-R 7
 
-[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 6|← Ecclesiastes 6]] | [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 8|Ecclesiastes 8 →]]
+**[[Home/Scripture/21 - Ecclesiastes|Ecclesiastes]]**
+
+[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 6#Ecclesiastes-R 6| Ecclesiastes 6]] - [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 8#Ecclesiastes-R 8| Ecclesiastes 8]]
 
 ---
 

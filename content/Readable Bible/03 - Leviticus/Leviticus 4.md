@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus 4
+# Leviticus-R 4
 
-[[Readable Bible/03 - Leviticus/Leviticus 3|← Leviticus 3]] | [[Readable Bible/03 - Leviticus/Leviticus 5|Leviticus 5 →]]
+**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+
+[[Readable Bible/03 - Leviticus/Leviticus 3#Leviticus-R 3| Leviticus 3]] - [[Readable Bible/03 - Leviticus/Leviticus 5#Leviticus-R 5| Leviticus 5]]
 
 ---
 
@@ -15,7 +17,7 @@ cssClasses: lexicon
 [[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 1|1]] Then the LORD said to Moses,  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 1|TOSK]] |
 
 ##### Leviticus 4 . 2
-[[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 2|2]] "Tell the Israelites to do as follows with one who sins unintentionally against any of the LORD's commandments and does what is forbidden by them:  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/147 - Sin Offering (Christ Bearing Our Sins)|TT]] | [[Trajectory Tables/179 - Sins of Ignorance (Christ's Compassion for the Unknowing)|TT]] |
+[[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 2|2]] “Tell the Israelites to do as follows with one who sins unintentionally against any of the LORD’s commandments and does what is forbidden by them:  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/147 - Sin Offering (Christ Bearing Our Sins)|TT]] |
 ##### Leviticus 4 . 3
 [[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 3|3]] If the anointed priest sins, bringing guilt on the people, he must bring to the LORD a young bull without blemish as a sin offering for the sin he has committed.  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 3|TOSK]] |
 
@@ -28,7 +30,7 @@ cssClasses: lexicon
 [[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 6|6]] The priest is to dip his finger in the blood and sprinkle some of it seven times before the LORD, in front of the veil of the sanctuary.  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 6|TOSK]] |
 
 ##### Leviticus 4 . 7
-[[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 7|7]] The priest must then put some of the blood on the horns of the altar of fragrant incense that is before the LORD in the Tent of Meeting. And he is to pour out the rest of the bull's blood at the base of the altar of burnt offering at the entrance to the Tent of Meeting.  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 7|TOSK]] | [[Trajectory Tables/180 - Voice of Blood (Blood That Speaks)|TT]] |
+[[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 7|7]] The priest must then put some of the blood on the horns of the altar of fragrant incense that is before the LORD in the Tent of Meeting. And he is to pour out the rest of the bull’s blood at the base of the altar of burnt offering at the entrance to the Tent of Meeting.  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 7|TOSK]] |
 
 ##### Leviticus 4 . 8
 [[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 8|8]] Then he shall remove all the fat from the bull of the sin offering—the fat that covers the entrails, all the fat that is on them,  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 8|TOSK]] |
@@ -43,7 +45,7 @@ cssClasses: lexicon
 [[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 11|11]] But the hide of the bull and all its flesh, with its head and legs and its entrails and dung—  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 11|TOSK]] | [[Trajectory Tables/025 - Camp of Israel (Sacred Geography)|TT]] |
 
 ##### Leviticus 4 . 12
-[[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 12|12]] all the rest of the bull—he must take outside the camp to a ceremonially clean place where the ashes are poured out, and there he must burn it on a wood fire on the ash heap.  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 12|TOSK]] | [[Trajectory Tables/178 - Burning Outside the Camp (Separation and Judgment)|TT]] |
+[[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 12|12]] all the rest of the bull—he must take outside the camp to a ceremonially clean place where the ashes are poured out, and there he must burn it on a wood fire on the ash heap.  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 12|TOSK]] |
 
 ##### Leviticus 4 . 13
 [[Reference Bible/3 - Leviticus/Leviticus 4#Leviticus 4 - 13|13]] Now if the whole congregation of Israel strays unintentionally and the matter escapes the notice of the assembly so that they violate any of the LORD’s commandments and incur guilt by doing what is forbidden,  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 4 - TOSK#Verse 13|TOSK]] |

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Hosea 4 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/28 - Hosea|← Hosea]]** | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 5 - TOSK|Ch 5 →]]
+**[[Home/Scripture/28 - Hosea|← Hosea]]** | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 5 - TOSK|Ch 5 →]]
 
 ---
 

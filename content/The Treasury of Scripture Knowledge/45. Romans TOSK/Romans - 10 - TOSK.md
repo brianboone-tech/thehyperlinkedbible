@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Romans 10 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/45 - Romans|← Romans]]** | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 11 - TOSK|Ch 11 →]]
+**[[Home/Scripture/45 - Romans|← Romans]]** | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 11 - TOSK|Ch 11 →]]
 
 ---
 

@@ -44,19 +44,19 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 8|LXX]] |
 
 ##### Leviticus 25 - 9
-[[Lexicon/H5601-5700#H5674|Then you are to sound]] [[Lexicon/H7701-7800#H7782|the horn]] [[Lexicon/H8601-8674#H8643|far and wide]] [[Lexicon/H6201-6300#H6218|on the tenth day]] [[Lexicon/H2301-2400#H2320|-]] [[Lexicon/H7601-7700#H7637|of the seventh]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H3101-3200#H3117|the Day]] [[Lexicon/H3701-3800#H3725|of Atonement.]] [[Lexicon/H5601-5700#H5674|You shall sound]] [[Lexicon/H7701-7800#H7782|(it)]] [[Lexicon/H3601-3700#H3605|throughout]] [[Lexicon/H701-800#H776|your land.]]
+[[Lexicon/H5601-5700#H5674|Then you are to sound]] [[Lexicon/H7701-7800#H7782|the horn]] [[Lexicon/H8601-8674#H8643|far and wide]] [[Lexicon/H6201-6300#H6218|on the tenth day]] [[Lexicon/H2301-2400#H2320|-]] [[Lexicon/H7601-7700#H7637|of the seventh]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H3101-3200#H3117|the Day]] [[Lexicon/H3701-3800#H3725|of Atonement.]] [[Lexicon/H5601-5700#H5674|You shall sound]] [[Lexicon/H7701-7800#H7782|[it]]] [[Lexicon/H3601-3700#H3605|throughout]] [[Lexicon/H701-800#H776|your land.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 9|LXX]] |
 
 ##### Leviticus 25 - 10
-[[Lexicon/H6901-7000#H6942|So you are to consecrate]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2501-2600#H2572|the fiftieth]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H7101-7200#H7121|and proclaim]] [[Lexicon/H1801-1900#H1865|liberty]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3605|for all]] [[Lexicon/H3401-3500#H3427|its inhabitants.]] [[Lexicon/H1901-2000#H1931|It]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H3101-3200#H3104|Jubilee ,]] [[Lexicon/H301-400#H376|when each]] [[Lexicon/H7701-7800#H7725|of you is to return]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H201-300#H272|his property]] [[Lexicon/H301-400#H376|(and)]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4901-5000#H4940|his clan]] [[Lexicon/H7701-7800#H7725|....]]
+[[Lexicon/H6901-7000#H6942|So you are to consecrate]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2501-2600#H2572|the fiftieth]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H7101-7200#H7121|and proclaim]] [[Lexicon/H1801-1900#H1865|liberty]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3605|for all]] [[Lexicon/H3401-3500#H3427|its inhabitants.]] [[Lexicon/H1901-2000#H1931|It]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H3101-3200#H3104|Jubilee ,]] [[Lexicon/H301-400#H376|when each]] [[Lexicon/H7701-7800#H7725|of you is to return]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H201-300#H272|his property]] [[Lexicon/H301-400#H376|[and]]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4901-5000#H4940|his clan]] [[Lexicon/H7701-7800#H7725|....]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 10|LXX]] |
 
 ##### Leviticus 25 - 11
-[[Lexicon/H2501-2600#H2572|The fiftieth]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H3101-3200#H3104|a Jubilee]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3801-3900#H3808|you are not]] [[Lexicon/H2201-2300#H2232|to sow (the land)]] [[Lexicon/H3801-3900#H3808|or]] [[Lexicon/H7101-7200#H7114|reap]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5501-5600#H5599|its aftergrowth]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H1201-1300#H1219|or harvest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5101-5200#H5139|the untended vines.]]
+[[Lexicon/H2501-2600#H2572|The fiftieth]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H3101-3200#H3104|a Jubilee]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3801-3900#H3808|you are not]] [[Lexicon/H2201-2300#H2232|to sow [the land]]] [[Lexicon/H3801-3900#H3808|or]] [[Lexicon/H7101-7200#H7114|reap]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5501-5600#H5599|its aftergrowth]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H1201-1300#H1219|or harvest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5101-5200#H5139|the untended vines.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 11|LXX]] |
 
 ##### Leviticus 25 - 12
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1931|it (is)]] [[Lexicon/H3101-3200#H3104|a Jubilee ;]] [[Lexicon/H1901-2000#H1961|it shall be]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H301-400#H398|You may eat only]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8393|the crops taken]] [[Lexicon/H4401-4500#H4480|directly from]] [[Lexicon/H7701-7800#H7704|the field.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1931|it [is]]] [[Lexicon/H3101-3200#H3104|a Jubilee ;]] [[Lexicon/H1901-2000#H1961|it shall be]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H301-400#H398|You may eat only]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8393|the crops taken]] [[Lexicon/H4401-4500#H4480|directly from]] [[Lexicon/H7701-7800#H7704|the field.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 12|LXX]] |
 
 ##### Leviticus 25 - 13
@@ -72,7 +72,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 15|LXX]] |
 
 ##### Leviticus 25 - 16
-[[Lexicon/H7201-7300#H7235|You shall increase]] [[Lexicon/H4701-4800#H4736|the price]] [[Lexicon/H6301-6400#H6310|in proportion]] [[Lexicon/H7201-7300#H7230|to a greater number]] [[Lexicon/H8101-8200#H8141|of years ,]] [[Lexicon/H4501-4600#H4591|or decrease]] [[Lexicon/H4701-4800#H4736|(it)]] [[Lexicon/H6301-6400#H6310|in proportion to]] [[Lexicon/H4501-4600#H4591|a lesser]] [[Lexicon/H8101-8200#H8141|number of years ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H4301-4400#H4376|is selling]] [[Lexicon/H4501-4600#H4557|a given number of]] [[Lexicon/H8301-8400#H8393|harvests.]]
+[[Lexicon/H7201-7300#H7235|You shall increase]] [[Lexicon/H4701-4800#H4736|the price]] [[Lexicon/H6301-6400#H6310|in proportion]] [[Lexicon/H7201-7300#H7230|to a greater number]] [[Lexicon/H8101-8200#H8141|of years ,]] [[Lexicon/H4501-4600#H4591|or decrease]] [[Lexicon/H4701-4800#H4736|[it]]] [[Lexicon/H6301-6400#H6310|in proportion to]] [[Lexicon/H4501-4600#H4591|a lesser]] [[Lexicon/H8101-8200#H8141|number of years ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H4301-4400#H4376|is selling]] [[Lexicon/H4501-4600#H4557|a given number of]] [[Lexicon/H8301-8400#H8393|harvests.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 16|LXX]] |
 
 ##### Leviticus 25 - 17
@@ -92,7 +92,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 20|LXX]] |
 
 ##### Leviticus 25 - 21
-[[Lexicon/H6601-6700#H6680|But I will send]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1293|My blessing]] [[Lexicon/H8301-8400#H8345|in the sixth]] [[Lexicon/H8101-8200#H8141|year ,]] [[Lexicon/H6201-6300#H6213|so that (the land) will yield]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8393|a crop]] [[Lexicon/H7901-8000#H7969|sufficient for three]] [[Lexicon/H8101-8200#H8141|years.]]
+[[Lexicon/H6601-6700#H6680|But I will send]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1293|My blessing]] [[Lexicon/H8301-8400#H8345|in the sixth]] [[Lexicon/H8101-8200#H8141|year ,]] [[Lexicon/H6201-6300#H6213|so that [the land] will yield]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8393|a crop]] [[Lexicon/H7901-8000#H7969|sufficient for three]] [[Lexicon/H8101-8200#H8141|years.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 21|LXX]] |
 
 ##### Leviticus 25 - 22
@@ -100,7 +100,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 22|LXX]] |
 
 ##### Leviticus 25 - 23
-[[Lexicon/H701-800#H776|The land]] [[Lexicon/H3801-3900#H3808|must not]] [[Lexicon/H4301-4400#H4376|be sold]] [[Lexicon/H6701-6800#H6783|permanently ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H701-800#H776|(it)]] [[Lexicon/H3501-3600#H3588|and]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H1601-1700#H1616|are but foreigners]] [[Lexicon/H8401-8500#H8453|and residents]] [[Lexicon/H5901-6000#H5978|with Me.]]
+[[Lexicon/H701-800#H776|The land]] [[Lexicon/H3801-3900#H3808|must not]] [[Lexicon/H4301-4400#H4376|be sold]] [[Lexicon/H6701-6800#H6783|permanently ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H701-800#H776|[it]]] [[Lexicon/H3501-3600#H3588|and]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H1601-1700#H1616|are but foreigners]] [[Lexicon/H8401-8500#H8453|and residents]] [[Lexicon/H5901-6000#H5978|with Me.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 23|LXX]] |
 
 ##### Leviticus 25 - 24
@@ -176,7 +176,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 41|LXX]] |
 
 ##### Leviticus 25 - 42
-[[Lexicon/H3501-3600#H3588|Because]] [[Lexicon/H1901-2000#H1992|(the Israelites are)]] [[Lexicon/H5601-5700#H5650|My servants ,]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H3301-3400#H3318|I brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|out of the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H3801-3900#H3808|they are not]] [[Lexicon/H4301-4400#H4376|to be sold]] [[Lexicon/H4401-4500#H4466|...]] [[Lexicon/H5601-5700#H5650|as slaves.]]
+[[Lexicon/H3501-3600#H3588|Because]] [[Lexicon/H1901-2000#H1992|[the Israelites are]]] [[Lexicon/H5601-5700#H5650|My servants ,]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H3301-3400#H3318|I brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|out of the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H3801-3900#H3808|they are not]] [[Lexicon/H4301-4400#H4376|to be sold]] [[Lexicon/H4401-4500#H4466|...]] [[Lexicon/H5601-5700#H5650|as slaves.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 42|LXX]] |
 
 ##### Leviticus 25 - 43
@@ -184,7 +184,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 43|LXX]] |
 
 ##### Leviticus 25 - 44
-[[Lexicon/H5601-5700#H5650|Your menservants]] [[Lexicon/H501-600#H519|and maidservants]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1961|shall come]] [[Lexicon/H801-900#H854|from]] [[Lexicon/H1401-1500#H1471|the nations]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5439|around you ,]] [[Lexicon/H7001-7100#H7069|you may purchase]] [[Lexicon/H5601-5700#H5650|(them)]] [[Lexicon/H501-600#H519|....]]
+[[Lexicon/H5601-5700#H5650|Your menservants]] [[Lexicon/H501-600#H519|and maidservants]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1961|shall come]] [[Lexicon/H801-900#H854|from]] [[Lexicon/H1401-1500#H1471|the nations]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5439|around you ,]] [[Lexicon/H7001-7100#H7069|you may purchase]] [[Lexicon/H5601-5700#H5650|[them]]] [[Lexicon/H501-600#H519|....]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 44|LXX]] |
 
 ##### Leviticus 25 - 45
@@ -196,7 +196,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 46|LXX]] |
 
 ##### Leviticus 25 - 47
-[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H1601-1700#H1616|a foreigner]] [[Lexicon/H8401-8500#H8453|residing]] [[Lexicon/H5901-6000#H5973|among you]] [[Lexicon/H5301-5400#H5381|prospers]] [[Lexicon/H3001-3100#H3027|... ,]] [[Lexicon/H201-300#H251|but your countryman]] [[Lexicon/H5901-6000#H5973|dwelling near him]] [[Lexicon/H4101-4200#H4134|becomes destitute]] [[Lexicon/H4301-4400#H4376|and sells himself]] [[Lexicon/H1601-1700#H1616|to the foreigner]] [[Lexicon/H8401-8500#H8453|-]] [[Lexicon/H5901-6000#H5973|-]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H6101-6200#H6133|to a member]] [[Lexicon/H1601-1700#H1616|of (his)]] [[Lexicon/H4901-5000#H4940|clan ,]]
+[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H1601-1700#H1616|a foreigner]] [[Lexicon/H8401-8500#H8453|residing]] [[Lexicon/H5901-6000#H5973|among you]] [[Lexicon/H5301-5400#H5381|prospers]] [[Lexicon/H3001-3100#H3027|... ,]] [[Lexicon/H201-300#H251|but your countryman]] [[Lexicon/H5901-6000#H5973|dwelling near him]] [[Lexicon/H4101-4200#H4134|becomes destitute]] [[Lexicon/H4301-4400#H4376|and sells himself]] [[Lexicon/H1601-1700#H1616|to the foreigner]] [[Lexicon/H8401-8500#H8453|-]] [[Lexicon/H5901-6000#H5973|-]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H6101-6200#H6133|to a member]] [[Lexicon/H1601-1700#H1616|of [his]]] [[Lexicon/H4901-5000#H4940|clan ,]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 47|LXX]] |
 
 ##### Leviticus 25 - 48
@@ -220,7 +220,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 52|LXX]] |
 
 ##### Leviticus 25 - 53
-[[Lexicon/H1901-2000#H1961|He shall be treated]] [[Lexicon/H5901-6000#H5973|...]] [[Lexicon/H7901-8000#H7916|like a man hired]] [[Lexicon/H8101-8200#H8141|from year]] [[Lexicon/H8101-8200#H8141|to year ,]] [[Lexicon/H3801-3900#H3808|but (a foreign owner) must not]] [[Lexicon/H7201-7300#H7287|rule over him]] [[Lexicon/H6501-6600#H6531|harshly]] [[Lexicon/H5801-5900#H5869|in your sight.]]
+[[Lexicon/H1901-2000#H1961|He shall be treated]] [[Lexicon/H5901-6000#H5973|...]] [[Lexicon/H7901-8000#H7916|like a man hired]] [[Lexicon/H8101-8200#H8141|from year]] [[Lexicon/H8101-8200#H8141|to year ,]] [[Lexicon/H3801-3900#H3808|but [a foreign owner] must not]] [[Lexicon/H7201-7300#H7287|rule over him]] [[Lexicon/H6501-6600#H6531|harshly]] [[Lexicon/H5801-5900#H5869|in your sight.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 53|LXX]] |
 
 ##### Leviticus 25 - 54
@@ -228,6 +228,6 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 54|LXX]] |
 
 ##### Leviticus 25 - 55
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H5601-5700#H5650|servants.]] [[Lexicon/H1901-2000#H1992|They]] [[Lexicon/H5601-5700#H5650|are My servants ,]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H3301-3400#H3318|I brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|out of the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God. (’’)]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H5601-5700#H5650|servants.]] [[Lexicon/H1901-2000#H1992|They]] [[Lexicon/H5601-5700#H5650|are My servants ,]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H3301-3400#H3318|I brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|out of the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God. [’’]]]
 | [[LXX Reference/3 - Leviticus/Leviticus 25#Leviticus 25 - 55|LXX]] |
 

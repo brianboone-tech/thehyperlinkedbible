@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 23 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 24 - TOSK|Ch 24 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 24 - TOSK|Ch 24 →]]
 
 ---
 

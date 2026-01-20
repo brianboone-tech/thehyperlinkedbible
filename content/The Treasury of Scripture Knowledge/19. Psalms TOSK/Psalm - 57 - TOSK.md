@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Psalm 57 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 56 - TOSK|← Ch 56]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 58 - TOSK|Ch 58 →]]
+**[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 56 - TOSK|← Ch 56]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 58 - TOSK|Ch 58 →]]
 
 ---
 

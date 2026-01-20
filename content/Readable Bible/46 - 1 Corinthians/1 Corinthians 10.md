@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Corinthians 10
+# 1 Corinthians-R 10
 
-[[Readable Bible/46 - 1 Corinthians/1 Corinthians 9|← 1 Corinthians 9]] | [[Readable Bible/46 - 1 Corinthians/1 Corinthians 11|1 Corinthians 11 →]]
+**[[Home/Scripture/46 - 1 Corinthians|1 Corinthians]]**
+
+[[Readable Bible/46 - 1 Corinthians/1 Corinthians 9#1 Corinthians-R 9| 1 Corinthians 9]] - [[Readable Bible/46 - 1 Corinthians/1 Corinthians 11#1 Corinthians-R 11| 1 Corinthians 11]]
 
 ---
 
@@ -19,7 +21,7 @@ cssClasses: lexicon
 
 ##### 1 Corinthians 10 . 3
 [[Reference Bible/46 - 1 Corinthians/1 Corinthians 10#1 Corinthians 10 - 3|3]] They all ate the same spiritual food  | [[Intertextuality Pairs/NT to OT/46 - 1 Corinthians/1 Corinthians 10.1-4 to Exodus 13.21-22|IP]] | [[Trajectory Tables/035 - Covenant Meals (Fellowship with God)|TT¹]] | [[Trajectory Tables/039 - Crossing the Red Sea (Baptism into Christ)|TT²]] | [[Trajectory Tables/065 - Glory-Cloud (Divine Presence)|TT³]] | [[Trajectory Tables/087 - Journey to the Promised Land (Christian Pilgrimage)|TT⁴]] | [[Trajectory Tables/098 - Living Water (Spirit and Life)|TT⁵]] | [[Trajectory Tables/099 - Manna (The Bread of Life)|TT⁶]] | [[Trajectory Tables/108 - New Exodus (Second Exodus Pattern)|TT⁷]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT⁸]] | [[Trajectory Tables/157 - Table of Showbread (Christ the Bread of Life)|TT⁹]] | [[Trajectory Tables/169 - Water from the Rock (The Spiritual Rock)|TT¹⁰]] | [[Trajectory Tables/099 - Manna (The Bread of Life)|TT^10]] |
- | [[Readable Bible/02 - Exodus/Exodus 16#Exodus 16 . 35|Exodus 16:35 - A]] | [[Readable Bible/02 - Exodus/Exodus 16#Exodus 16 . 4|Exodus 16:4 - A]] | [[Readable Bible/19 - Psalms/Psalm 78#Psalm 78 . 24|Psalm 78:24–29 - A →]]
+| [[Readable Bible/02 - Exodus/Exodus 16#Exodus 16 . 35|Exodus 16:35 - A]] | [[Readable Bible/02 - Exodus/Exodus 16#Exodus 16 . 4|Exodus 16:4 - A]] | [[Readable Bible/19 - Psalms/Psalm 78#Psalm 78 . 24|Psalm 78:24–29 - A]]
 
 ##### 1 Corinthians 10 . 4
 [[Reference Bible/46 - 1 Corinthians/1 Corinthians 10#1 Corinthians 10 - 4|4]] and drank the same spiritual drink; for they drank from the spiritual rock that accompanied them, and that rock was Christ.  | [[Intertextuality Pairs/NT to OT/46 - 1 Corinthians/1 Corinthians 10.1-4 to Exodus 13.21-22|IP]] | [[Trajectory Tables/035 - Covenant Meals (Fellowship with God)|TT¹]] | [[Trajectory Tables/039 - Crossing the Red Sea (Baptism into Christ)|TT²]] | [[Trajectory Tables/065 - Glory-Cloud (Divine Presence)|TT³]] | [[Trajectory Tables/087 - Journey to the Promised Land (Christian Pilgrimage)|TT⁴]] | [[Trajectory Tables/098 - Living Water (Spirit and Life)|TT⁵]] | [[Trajectory Tables/099 - Manna (The Bread of Life)|TT⁶]] | [[Trajectory Tables/108 - New Exodus (Second Exodus Pattern)|TT⁷]] | [[Trajectory Tables/118 - Pillar of Cloud and Fire (Divine Guidance and Protection)|TT⁸]] | [[Trajectory Tables/157 - Table of Showbread (Christ the Bread of Life)|TT⁹]] | [[Trajectory Tables/169 - Water from the Rock (The Spiritual Rock)|TT¹⁰]] | [[Trajectory Tables/169 - Water from the Rock (The Spiritual Rock)|TT^10]] |

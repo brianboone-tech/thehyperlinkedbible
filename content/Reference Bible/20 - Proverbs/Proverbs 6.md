@@ -22,7 +22,7 @@ cssClasses: lexicon
 [[Lexicon/H5401-5500#H5414|Allow]] [[Lexicon/H401-500#H408|no]] [[Lexicon/H8101-8200#H8142|sleep]] [[Lexicon/H5801-5900#H5869|to your eyes]] [[Lexicon/H8501-8600#H8572|or slumber]] [[Lexicon/H6001-6100#H6079|to your eyelids.]]
 
 ##### Proverbs 6 - 5
-[[Lexicon/H5301-5400#H5337|Free yourself ,]] [[Lexicon/H6601-6700#H6643|like a gazelle]] [[Lexicon/H3001-3100#H3027|from the hand (of the hunter) ,]] [[Lexicon/H6801-6900#H6833|like a bird]] [[Lexicon/H3001-3100#H3027|from the snare]] [[Lexicon/H3301-3400#H3353|of the fowler.]]
+[[Lexicon/H5301-5400#H5337|Free yourself ,]] [[Lexicon/H6601-6700#H6643|like a gazelle]] [[Lexicon/H3001-3100#H3027|from the hand [of the hunter] ,]] [[Lexicon/H6801-6900#H6833|like a bird]] [[Lexicon/H3001-3100#H3027|from the snare]] [[Lexicon/H3301-3400#H3353|of the fowler.]]
 
 ##### Proverbs 6 - 6
 [[Lexicon/H1901-2000#H1980|Walk in the manner of]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5201-5300#H5244|the ant ,]] [[Lexicon/H6101-6200#H6102|O slacker ;]] [[Lexicon/H7101-7200#H7200|observe]] [[Lexicon/H1801-1900#H1870|its ways]] [[Lexicon/H2401-2500#H2449|and become wise.]]
@@ -55,7 +55,7 @@ cssClasses: lexicon
 [[Lexicon/H5901-6000#H5921|Therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H301-400#H343|calamity]] [[Lexicon/H901-1000#H935|will come upon him]] [[Lexicon/H6501-6600#H6597|suddenly ;]] [[Lexicon/H6601-6700#H6621|in an instant]] [[Lexicon/H7601-7700#H7665|he will be shattered]] [[Lexicon/H301-400#H369|beyond]] [[Lexicon/H4801-4900#H4832|recovery.]]
 
 ##### Proverbs 6 - 16
-[[Lexicon/H2001-2100#H2007|There are]] [[Lexicon/H8301-8400#H8337|six (things that)]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8101-8200#H8130|hates ,]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H8401-8500#H8441|that are detestable]] [[Lexicon/H5301-5400#H5315|to Him :]]
+[[Lexicon/H2001-2100#H2007|There are]] [[Lexicon/H8301-8400#H8337|six [things that]]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8101-8200#H8130|hates ,]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H8401-8500#H8441|that are detestable]] [[Lexicon/H5301-5400#H5315|to Him :]]
 
 ##### Proverbs 6 - 17
 [[Lexicon/H7301-7400#H7311|haughty]] [[Lexicon/H5801-5900#H5869|eyes ,]] [[Lexicon/H8201-8300#H8267|a lying]] [[Lexicon/H3901-4000#H3956|tongue ,]] [[Lexicon/H3001-3100#H3027|hands]] [[Lexicon/H8201-8300#H8210|that shed]] [[Lexicon/H5301-5400#H5355|innocent]] [[Lexicon/H1801-1900#H1818|blood ,]]
@@ -76,7 +76,7 @@ cssClasses: lexicon
 [[Lexicon/H1901-2000#H1980|When you walk ,]] [[Lexicon/H5101-5200#H5148|they will guide you ;]] [[Lexicon/H801-900#H853|when you]] [[Lexicon/H7901-8000#H7901|lie down ,]] [[Lexicon/H8101-8200#H8104|they will watch]] [[Lexicon/H5901-6000#H5921|over you ;]] [[Lexicon/H6901-7000#H6974|when you awake ,]] [[Lexicon/H1901-2000#H1931|they]] [[Lexicon/H7801-7900#H7878|will speak to you.]]
 
 ##### Proverbs 6 - 23
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4601-4700#H4687|this commandment]] [[Lexicon/H5201-5300#H5216|is a lamp ,]] [[Lexicon/H8401-8500#H8451|this teaching]] [[Lexicon/H201-300#H216|(is) a light ,]] [[Lexicon/H8401-8500#H8433|and the reproofs]] [[Lexicon/H4101-4200#H4148|of discipline]] [[Lexicon/H1801-1900#H1870|are the way]] [[Lexicon/H2401-2500#H2416|to life ,]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4601-4700#H4687|this commandment]] [[Lexicon/H5201-5300#H5216|is a lamp ,]] [[Lexicon/H8401-8500#H8451|this teaching]] [[Lexicon/H201-300#H216|[is] a light ,]] [[Lexicon/H8401-8500#H8433|and the reproofs]] [[Lexicon/H4101-4200#H4148|of discipline]] [[Lexicon/H1801-1900#H1870|are the way]] [[Lexicon/H2401-2500#H2416|to life ,]]
 
 ##### Proverbs 6 - 24
 [[Lexicon/H8101-8200#H8104|to keep you]] [[Lexicon/H7401-7500#H7451|from the evil]] [[Lexicon/H801-900#H802|woman ,]] [[Lexicon/H2501-2600#H2513|from the smooth]] [[Lexicon/H3901-4000#H3956|tongue]] [[Lexicon/H5201-5300#H5237|of the adulteress.]]
@@ -97,7 +97,7 @@ cssClasses: lexicon
 [[Lexicon/H3601-3700#H3651|So]] [[Lexicon/H901-1000#H935|is he who sleeps with]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7401-7500#H7453|another man’s]] [[Lexicon/H801-900#H802|wife ;]] [[Lexicon/H3801-3900#H3808|no one]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H5001-5100#H5060|who touches]] [[Lexicon/H5301-5400#H5352|will go unpunished.]]
 
 ##### Proverbs 6 - 30
-[[Lexicon/H3801-3900#H3808|(Men) do not]] [[Lexicon/H901-1000#H936|despise]] [[Lexicon/H1501-1600#H1590|the thief]] [[Lexicon/H3501-3600#H3588|if]] [[Lexicon/H1501-1600#H1589|he steals]] [[Lexicon/H4301-4400#H4390|to satisfy]] [[Lexicon/H5301-5400#H5315|his]] [[Lexicon/H3501-3600#H3588|vvv]] [[Lexicon/H7401-7500#H7456|hunger.]]
+[[Lexicon/H3801-3900#H3808|[Men] do not]] [[Lexicon/H901-1000#H936|despise]] [[Lexicon/H1501-1600#H1590|the thief]] [[Lexicon/H3501-3600#H3588|if]] [[Lexicon/H1501-1600#H1589|he steals]] [[Lexicon/H4301-4400#H4390|to satisfy]] [[Lexicon/H5301-5400#H5315|his]] [[Lexicon/H3501-3600#H3588|vvv]] [[Lexicon/H7401-7500#H7456|hunger.]]
 
 ##### Proverbs 6 - 31
 [[Lexicon/H4601-4700#H4672|Yet if caught ,]] [[Lexicon/H7901-8000#H7999|he must pay]] [[Lexicon/H7601-7700#H7659|sevenfold]] [[Lexicon/H801-900#H853|- ;]] [[Lexicon/H5401-5500#H5414|he must give up]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1901-2000#H1952|the wealth]] [[Lexicon/H1001-1100#H1004|of his house.]]
@@ -112,4 +112,4 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H7001-7100#H7068|jealousy]] [[Lexicon/H2501-2600#H2534|enrages a husband]] [[Lexicon/H1301-1400#H1397|... ,]] [[Lexicon/H3801-3900#H3808|and he will show no]] [[Lexicon/H2501-2600#H2550|mercy]] [[Lexicon/H3101-3200#H3117|in the day]] [[Lexicon/H5301-5400#H5359|of vengeance.]]
 
 ##### Proverbs 6 - 35
-[[Lexicon/H3801-3900#H3808|He will not]] [[Lexicon/H5301-5400#H5375|be appeased]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H3601-3700#H3605|by any]] [[Lexicon/H3701-3800#H3724|ransom ,]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H1-100#H14|persuaded]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H7201-7300#H7235|by lavish]] [[Lexicon/H7801-7900#H7810|gifts.]]
+[[Lexicon/H3801-3900#H3808|He will not]] [[Lexicon/H5301-5400#H5375|be appeased]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H3601-3700#H3605|by any]] [[Lexicon/H3701-3800#H3724|ransom ,]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H1-100#H14|persuaded]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H7201-7300#H7235|by lavish]] [[Lexicon/H7801-7900#H7810|gifts.]]

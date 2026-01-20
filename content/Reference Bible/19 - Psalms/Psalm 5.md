@@ -18,7 +18,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 5#Psalm 5 - 2|LXX]] |
 
 ##### Psalm 5 - 3
-[[Lexicon/H1201-1300#H1242|In the morning ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H8001-8100#H8085|You hear]] [[Lexicon/H6901-7000#H6963|my voice ;]] [[Lexicon/H1201-1300#H1242|at daybreak]] [[Lexicon/H6101-6200#H6186|I lay (my plea)]] [[Lexicon/H6801-6900#H6822|and wait in expectation.]]
+[[Lexicon/H1201-1300#H1242|In the morning ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H8001-8100#H8085|You hear]] [[Lexicon/H6901-7000#H6963|my voice ;]] [[Lexicon/H1201-1300#H1242|at daybreak]] [[Lexicon/H6101-6200#H6186|I lay [my plea]]] [[Lexicon/H6801-6900#H6822|and wait in expectation.]]
 | [[LXX Reference/19 - Psalms/Psalms 5#Psalm 5 - 3|LXX]] |
 
 ##### Psalm 5 - 4
@@ -42,7 +42,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 5#Psalm 5 - 8|LXX]] |
 
 ##### Psalm 5 - 9
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H301-400#H369|not a word]] [[Lexicon/H6301-6400#H6310|they speak]] [[Lexicon/H3501-3600#H3559|can be trusted ;]] [[Lexicon/H1901-2000#H1942|destruction]] [[Lexicon/H7101-7200#H7130|(lies) within them.]] [[Lexicon/H1601-1700#H1627|Their throats]] [[Lexicon/H6601-6700#H6605|are open]] [[Lexicon/H6901-7000#H6913|graves ;]] [[Lexicon/H3901-4000#H3956|their tongues]] [[Lexicon/H2501-2600#H2505|practice deceit.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H301-400#H369|not a word]] [[Lexicon/H6301-6400#H6310|they speak]] [[Lexicon/H3501-3600#H3559|can be trusted ;]] [[Lexicon/H1901-2000#H1942|destruction]] [[Lexicon/H7101-7200#H7130|[lies] within them.]] [[Lexicon/H1601-1700#H1627|Their throats]] [[Lexicon/H6601-6700#H6605|are open]] [[Lexicon/H6901-7000#H6913|graves ;]] [[Lexicon/H3901-4000#H3956|their tongues]] [[Lexicon/H2501-2600#H2505|practice deceit.]]
 | [[LXX Reference/19 - Psalms/Psalms 5#Psalm 5 - 9|LXX]] |
 
 ##### Psalm 5 - 10

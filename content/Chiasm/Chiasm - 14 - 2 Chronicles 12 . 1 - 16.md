@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|← 2 Chronicles]]**
+**[[Home/Scripture/14 - 2 Chronicles|← 2 Chronicles]]**
 
 ---
 

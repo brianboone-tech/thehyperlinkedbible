@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 6 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 7 - TOSK|Ch 7 →]]
+**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 7 - TOSK|Ch 7 →]]
 
 ---
 

@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Job 30 - 1
-[[Lexicon/H6201-6300#H6258|(“) But now]] [[Lexicon/H7801-7900#H7832|they mock me]] [[Lexicon/H5901-6000#H5921|... ,]] [[Lexicon/H6801-6900#H6810|men younger]] [[Lexicon/H4401-4500#H4480|than I am ,]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H801-900#H834|whose]] [[Lexicon/H1-100#H1|fathers]] [[Lexicon/H3901-4000#H3988|I would have refused]] [[Lexicon/H7801-7900#H7896|to entrust]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H6601-6700#H6629|my sheep]] [[Lexicon/H3601-3700#H3611|dogs.]]
+[[Lexicon/H6201-6300#H6258|[“] But now]] [[Lexicon/H7801-7900#H7832|they mock me]] [[Lexicon/H5901-6000#H5921|... ,]] [[Lexicon/H6801-6900#H6810|men younger]] [[Lexicon/H4401-4500#H4480|than I am ,]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H801-900#H834|whose]] [[Lexicon/H1-100#H1|fathers]] [[Lexicon/H3901-4000#H3988|I would have refused]] [[Lexicon/H7801-7900#H7896|to entrust]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H6601-6700#H6629|my sheep]] [[Lexicon/H3601-3700#H3611|dogs.]]
 
 ##### Job 30 - 2
 [[Lexicon/H1501-1600#H1571|-]] [[Lexicon/H4001-4100#H4100|What use]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H3501-3600#H3581|was the strength]] [[Lexicon/H3001-3100#H3027|of their hands ,]] [[Lexicon/H3601-3700#H3624|since their vigor]] [[Lexicon/H1-100#H6|had left them ?]]
@@ -22,7 +22,7 @@ cssClasses: lexicon
 [[Lexicon/H6901-7000#H6998|They plucked]] [[Lexicon/H4401-4500#H4408|mallow]] [[Lexicon/H5901-6000#H5921|among]] [[Lexicon/H7801-7900#H7880|the shrubs ,]] [[Lexicon/H8301-8400#H8328|and the roots]] [[Lexicon/H7501-7600#H7574|of the broom tree]] [[Lexicon/H3801-3900#H3899|were their food.]]
 
 ##### Job 30 - 5
-[[Lexicon/H1601-1700#H1644|They were banished]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H1401-1500#H1460|among (men) ,]] [[Lexicon/H7301-7400#H7321|shouted]] [[Lexicon/H5901-6000#H5921|down]] [[Lexicon/H1501-1600#H1590|like thieves ,]]
+[[Lexicon/H1601-1700#H1644|They were banished]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H1401-1500#H1460|among [men] ,]] [[Lexicon/H7301-7400#H7321|shouted]] [[Lexicon/H5901-6000#H5921|down]] [[Lexicon/H1501-1600#H1590|like thieves ,]]
 
 ##### Job 30 - 6
 [[Lexicon/H7901-8000#H7931|so that they lived]] [[Lexicon/H6101-6200#H6178|on the slopes]] [[Lexicon/H5101-5200#H5158|of the wadis ,]] [[Lexicon/H3701-3800#H3710|among the rocks]] [[Lexicon/H2301-2400#H2356|and in holes]] [[Lexicon/H6001-6100#H6083|in the ground.]]
@@ -73,10 +73,10 @@ cssClasses: lexicon
 [[Lexicon/H2001-2100#H2015|You have Ruth -lessly turned]] [[Lexicon/H301-400#H393|]] [[Lexicon/H7801-7900#H7852|You oppose me]] [[Lexicon/H6101-6200#H6108|with Your strong]] [[Lexicon/H3001-3100#H3027|hand.]]
 
 ##### Job 30 - 22
-[[Lexicon/H5301-5400#H5375|You snatch me up]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H7301-7400#H7307|the wind]] [[Lexicon/H7301-7400#H7392|and drive me (before it) ;]] [[Lexicon/H4101-4200#H4127|You toss me about]] [[Lexicon/H7701-7800#H7737|in the storm.]]
+[[Lexicon/H5301-5400#H5375|You snatch me up]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H7301-7400#H7307|the wind]] [[Lexicon/H7301-7400#H7392|and drive me [before it] ;]] [[Lexicon/H4101-4200#H4127|You toss me about]] [[Lexicon/H7701-7800#H7737|in the storm.]]
 
 ##### Job 30 - 23
-[[Lexicon/H3501-3600#H3588|Yes ,]] [[Lexicon/H3001-3100#H3045|I know that]] [[Lexicon/H7701-7800#H7725|You will bring me down]] [[Lexicon/H4101-4200#H4194|(to) death ,]] [[Lexicon/H1001-1100#H1004|to the place]] [[Lexicon/H4101-4200#H4150|appointed]] [[Lexicon/H3601-3700#H3605|for all]] [[Lexicon/H2401-2500#H2416|the living.]]
+[[Lexicon/H3501-3600#H3588|Yes ,]] [[Lexicon/H3001-3100#H3045|I know that]] [[Lexicon/H7701-7800#H7725|You will bring me down]] [[Lexicon/H4101-4200#H4194|[to] death ,]] [[Lexicon/H1001-1100#H1004|to the place]] [[Lexicon/H4101-4200#H4150|appointed]] [[Lexicon/H3601-3700#H3605|for all]] [[Lexicon/H2401-2500#H2416|the living.]]
 
 ##### Job 30 - 24
 [[Lexicon/H301-400#H389|Yet]] [[Lexicon/H3801-3900#H3808|no one]] [[Lexicon/H7901-8000#H7971|stretches out]] [[Lexicon/H3001-3100#H3027|his hand]] [[Lexicon/H5801-5900#H5856|to a ruined man]] [[Lexicon/H501-600#H518|when]] [[Lexicon/H7701-7800#H7769|he cries for help]] [[Lexicon/H6301-6400#H6365|in his distress]]
@@ -100,4 +100,4 @@ cssClasses: lexicon
 [[Lexicon/H5701-5800#H5785|My skin]] [[Lexicon/H7801-7900#H7835|grows black]] [[Lexicon/H4401-4500#H4480|and peels]] [[Lexicon/H5901-6000#H5921|... ,]] [[Lexicon/H6101-6200#H6106|and my bones]] [[Lexicon/H2701-2800#H2787|burn]] [[Lexicon/H2701-2800#H2721|with fever.]]
 
 ##### Job 30 - 31
-[[Lexicon/H3601-3700#H3658|My harp]] [[Lexicon/H1901-2000#H1961|is tuned]] [[Lexicon/H1-100#H60|to mourning]] [[Lexicon/H5701-5800#H5748|and my flute]] [[Lexicon/H6901-7000#H6963|to the sound]] [[Lexicon/H1001-1100#H1058|of weeping. (’’)]]
+[[Lexicon/H3601-3700#H3658|My harp]] [[Lexicon/H1901-2000#H1961|is tuned]] [[Lexicon/H1-100#H60|to mourning]] [[Lexicon/H5701-5800#H5748|and my flute]] [[Lexicon/H6901-7000#H6963|to the sound]] [[Lexicon/H1001-1100#H1058|of weeping. [’’]]]

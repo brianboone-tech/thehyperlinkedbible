@@ -24,7 +24,7 @@ Testament: Old
 [[Lexicon/G1001-1100#G1096|For you became]] [[Lexicon/G3901-4000#G3956|to every]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the ones]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4601-4700#G4629|a protection]] [[Lexicon/G1301-1400#G1372|to the ones thirsting,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4151|a fresh wind]] [[Lexicon/G401-500#G0444|for men]] [[Lexicon/G1-100#G0091|being wronged;]]
 
 #### Isaiah 25 - 5
-[[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G401-500#G0444|men]] [[Lexicon/G1301-1400#G1372|thirsting]] [[Lexicon/G1701-1800#G1722|in]] Zion, [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4501-4600#G4506|you shall rescue]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G401-500#G0444|men]] [[Lexicon/G3701-3800#G3739|to whom]] [[Lexicon/G1401-1500#G1473|us]]
+[[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G401-500#G0444|men]] [[Lexicon/G1301-1400#G1372|thirsting]] [[Lexicon/G1701-1800#G1722|in]] Zion, [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4501-4600#G4506|you shall rescue]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G401-500#G0444|men]] [[Lexicon/G3701-3800#G3739|to whom]] [[Lexicon/G1401-1500#G1473|us]]
 
 #### Isaiah 25 - 6
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4160|shall make a feast]] [[Lexicon/G3901-4000#G3956|for all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations;]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3701-3800#G3735|this mountain]] [[Lexicon/G4001-4100#G4095|they shall drink]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2101-2200#G2167|gladness,]] [[Lexicon/G4001-4100#G4095|they shall drink]] [[Lexicon/G3601-3700#G3631|wine.]]

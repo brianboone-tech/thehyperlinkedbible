@@ -12,7 +12,7 @@ Testament: Old
 ---
 
 #### Psalms 126 - 1
-[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1901-2000#G1994|returning]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0161|captivity]] of Zion, [[Lexicon/G1001-1100#G1096|we became]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G3801-3900#G3870|ones comforted.]]
+[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1901-2000#G1994|returning]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0161|captivity]] of Zion, [[Lexicon/G1001-1100#G1096|we became]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G3801-3900#G3870|ones comforted.]]
 
 #### Psalms 126 - 2
 [[Lexicon/G5101-5200#G5119|Then]] [[Lexicon/G4101-4200#G4130|was filled with]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1100|our tongue]] [[Lexicon/G5101-5200#G5119|Then]] [[Lexicon/G2001-2100#G2046|shall they say]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations,]] [[Lexicon/G4101-4200#G4160|in dealing]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|them.]]
@@ -21,7 +21,7 @@ Testament: Old
 [[Lexicon/G4101-4200#G4160|in dealing]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|us;]] [[Lexicon/G1001-1100#G1096|we became]] [[Lexicon/G2101-2200#G2165|ones being glad.]]
 
 #### Psalms 126 - 4
-[[Lexicon/G1901-2000#G1994|Return,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G101-200#G0161|our captivity]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3558|south!]]
+[[Lexicon/G1901-2000#G1994|Return,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G101-200#G0161|our captivity]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3558|south!]]
 
 #### Psalms 126 - 5
 [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G4601-4700#G4687|ones sowing]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1101-1200#G1144|tears,]] [[Lexicon/G1701-1800#G1722|in]]

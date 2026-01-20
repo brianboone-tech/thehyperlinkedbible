@@ -28,7 +28,7 @@ cssClasses: lexicon
 [[Lexicon/H7501-7600#H7592|Pray]] [[Lexicon/H7901-8000#H7965|for the peace]] [[Lexicon/H3301-3400#H3389|of Jerusalem :]] [[Lexicon/H101-200#H157|“ May those who love you]] [[Lexicon/H7901-8000#H7951|prosper.]]
 
 ##### Psalm 122 - 7
-[[Lexicon/H1901-2000#H1961|May there be]] [[Lexicon/H7901-8000#H7965|peace]] [[Lexicon/H2401-2500#H2426|within your walls ,]] [[Lexicon/H7901-8000#H7962|(and) prosperity]] [[Lexicon/H701-800#H759|inside your fortresses. ”]]
+[[Lexicon/H1901-2000#H1961|May there be]] [[Lexicon/H7901-8000#H7965|peace]] [[Lexicon/H2401-2500#H2426|within your walls ,]] [[Lexicon/H7901-8000#H7962|[and] prosperity]] [[Lexicon/H701-800#H759|inside your fortresses. ”]]
 
 ##### Psalm 122 - 8
 [[Lexicon/H4601-4700#H4616|For the sake]] [[Lexicon/H201-300#H251|of my brothers]] [[Lexicon/H7401-7500#H7453|and friends ,]] [[Lexicon/H1601-1700#H1696|I will say ,]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H7901-8000#H7965|“ Peace]]

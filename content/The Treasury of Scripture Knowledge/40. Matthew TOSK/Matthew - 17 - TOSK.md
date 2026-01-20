@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Matthew 17 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 18 - TOSK|Ch 18 →]]
+**[[Home/Scripture/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 18 - TOSK|Ch 18 →]]
 
 ---
 

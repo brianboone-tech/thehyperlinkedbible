@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Chronicles 15
+# 2 Chronicles-R 15
 
-[[Readable Bible/14 - 2 Chronicles/2 Chronicles 14|← 2 Chronicles 14]] | [[Readable Bible/14 - 2 Chronicles/2 Chronicles 16|2 Chronicles 16 →]]
+**[[Home/Scripture/14 - 2 Chronicles|2 Chronicles]]**
+
+[[Readable Bible/14 - 2 Chronicles/2 Chronicles 14#2 Chronicles-R 14| 2 Chronicles 14]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 16#2 Chronicles-R 16| 2 Chronicles 16]]
 
 ---
 
 ##### 2 Chronicles 15 . 1
-[[Reference Bible/14 - 2 Chronicles/2 Chronicles 15#2 Chronicles 15 - 1|1]]  Now the Spirit of God came upon Azariah son of Oded.  | | [[Chiasm/Chiasm - 14 - 2 Chronicles 15 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 15 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 15#2 Chronicles 15 - 1|1]]  Now the Spirit of God came upon Azariah son of Oded.   || [[Chiasm/Chiasm - 14 - 2 Chronicles 15 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 15 - TOSK#Verse 1|TOSK]] |
 
 ##### 2 Chronicles 15 . 2
 [[Reference Bible/14 - 2 Chronicles/2 Chronicles 15#2 Chronicles 15 - 2|2]]  So he went out to meet Asa and said to him, "Listen to me, Asa and all Judah and Benjamin. The LORD is with you when you are with Him. If you seek Him, He will be found by you, but if you forsake Him, He will forsake you.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 15.2 to Jeremiah 29.13-14|IP]] | [[Chiasm/Chiasm - 14 - 2 Chronicles 15 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 15 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/131 - Return from Exile (Restoration and Hope)|TT]] |

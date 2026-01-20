@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Kings 15
+# 2 Kings-R 15
 
-[[Readable Bible/12 - 2 Kings/2 Kings 14|← 2 Kings 14]] | [[Readable Bible/12 - 2 Kings/2 Kings 16|2 Kings 16 →]]
+**[[Home/Scripture/12 - 2 Kings|2 Kings]]**
+
+[[Readable Bible/12 - 2 Kings/2 Kings 14#2 Kings-R 14| 2 Kings 14]] - [[Readable Bible/12 - 2 Kings/2 Kings 16#2 Kings-R 16| 2 Kings 16]]
 
 ---
 

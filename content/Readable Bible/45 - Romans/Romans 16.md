@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Romans 16
+# Romans-R 16
 
-[[Readable Bible/45 - Romans/Romans 15|← Romans 15]] | [[Readable Bible/46 - 1 Corinthians/1 Corinthians 1|1 Corinthians 1 →]]
+**[[Home/Scripture/45 - Romans|Romans]]**
+
+[[Readable Bible/45 - Romans/Romans 15#Romans-R 15| Romans 15]] • [[Readable Bible/46 - 1 Corinthians/1 Corinthians 1#1 Corinthians-R 1|1 Corinthians 1]]
 
 ---
 
 ##### Romans 16 . 1
-[[Reference Bible/45 - Romans/Romans 16#Romans 16 - 1|1]] I commend to you our sister Phoebe, a servant of the church in Cenchrea.  | | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 16 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/45 - Romans/Romans 16#Romans 16 - 1|1]] I commend to you our sister Phoebe, a servant of the church in Cenchrea.   || [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 16 - TOSK#Verse 1|TOSK]] |
 
 ##### Romans 16 . 2
 [[Reference Bible/45 - Romans/Romans 16#Romans 16 - 2|2]] Welcome her in the Lord in a manner worthy of the saints, and assist her with anything she may need from you. For she has been a great help to many people, including me.  | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 16 - TOSK#Verse 2|TOSK]] |

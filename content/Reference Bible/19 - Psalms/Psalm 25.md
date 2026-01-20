@@ -18,7 +18,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 25#Psalm 25 - 2|LXX]] |
 
 ##### Psalm 25 - 3
-[[Lexicon/H1501-1600#H1571|Surely]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H3801-3900#H3808|none]] [[Lexicon/H6901-7000#H6960|who wait for You]] [[Lexicon/H901-1000#H954|will be put to shame ;]] [[Lexicon/H801-900#H898|(but) those who are faithless]] [[Lexicon/H7301-7400#H7387|without cause]] [[Lexicon/H901-1000#H954|will be disgraced.]]
+[[Lexicon/H1501-1600#H1571|Surely]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H3801-3900#H3808|none]] [[Lexicon/H6901-7000#H6960|who wait for You]] [[Lexicon/H901-1000#H954|will be put to shame ;]] [[Lexicon/H801-900#H898|[but] those who are faithless]] [[Lexicon/H7301-7400#H7387|without cause]] [[Lexicon/H901-1000#H954|will be disgraced.]]
 | [[LXX Reference/19 - Psalms/Psalms 25#Psalm 25 - 3|LXX]] |
 
 ##### Psalm 25 - 4
@@ -30,7 +30,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 25#Psalm 25 - 5|LXX]] |
 
 ##### Psalm 25 - 6
-[[Lexicon/H2101-2200#H2142|Remember ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H7301-7400#H7356|Your compassion]] [[Lexicon/H2601-2700#H2617|and loving devotion ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1992|they (are)]] [[Lexicon/H5701-5800#H5769|from age to age.]]
+[[Lexicon/H2101-2200#H2142|Remember ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H7301-7400#H7356|Your compassion]] [[Lexicon/H2601-2700#H2617|and loving devotion ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1992|they [are]]] [[Lexicon/H5701-5800#H5769|from age to age.]]
 | [[LXX Reference/19 - Psalms/Psalms 25#Psalm 25 - 6|LXX]] |
 
 ##### Psalm 25 - 7
@@ -38,7 +38,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 25#Psalm 25 - 7|LXX]] |
 
 ##### Psalm 25 - 8
-[[Lexicon/H2801-2900#H2896|Good]] [[Lexicon/H3401-3500#H3477|and upright]] [[Lexicon/H3001-3100#H3068|(is) the LORD ;]] [[Lexicon/H5901-6000#H5921|therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H3301-3400#H3384|He shows]] [[Lexicon/H2301-2400#H2400|sinners]] [[Lexicon/H1801-1900#H1870|the way.]]
+[[Lexicon/H2801-2900#H2896|Good]] [[Lexicon/H3401-3500#H3477|and upright]] [[Lexicon/H3001-3100#H3068|[is] the LORD ;]] [[Lexicon/H5901-6000#H5921|therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H3301-3400#H3384|He shows]] [[Lexicon/H2301-2400#H2400|sinners]] [[Lexicon/H1801-1900#H1870|the way.]]
 | [[LXX Reference/19 - Psalms/Psalms 25#Psalm 25 - 8|LXX]] |
 
 ##### Psalm 25 - 9
@@ -46,7 +46,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 25#Psalm 25 - 9|LXX]] |
 
 ##### Psalm 25 - 10
-[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H3001-3100#H3068|the LORD’s]] [[Lexicon/H701-800#H734|ways]] [[Lexicon/H2601-2700#H2617|(are) loving and faithful]] [[Lexicon/H501-600#H571|...]] [[Lexicon/H5301-5400#H5341|to those who keep]] [[Lexicon/H1201-1300#H1285|His covenant]] [[Lexicon/H5701-5800#H5713|and His decrees.]]
+[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H3001-3100#H3068|the LORD’s]] [[Lexicon/H701-800#H734|ways]] [[Lexicon/H2601-2700#H2617|[are] loving and faithful]] [[Lexicon/H501-600#H571|...]] [[Lexicon/H5301-5400#H5341|to those who keep]] [[Lexicon/H1201-1300#H1285|His covenant]] [[Lexicon/H5701-5800#H5713|and His decrees.]]
 | [[LXX Reference/19 - Psalms/Psalms 25#Psalm 25 - 10|LXX]] |
 
 ##### Psalm 25 - 11
@@ -54,7 +54,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 25#Psalm 25 - 11|LXX]] |
 
 ##### Psalm 25 - 12
-[[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H301-400#H376|is the man]] [[Lexicon/H3301-3400#H3373|who fears]] [[Lexicon/H3001-3100#H3068|the LORD ?]] [[Lexicon/H3301-3400#H3384|He will instruct him]] [[Lexicon/H1801-1900#H1870|in the path]] [[Lexicon/H901-1000#H977|chosen (for him).]]
+[[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H301-400#H376|is the man]] [[Lexicon/H3301-3400#H3373|who fears]] [[Lexicon/H3001-3100#H3068|the LORD ?]] [[Lexicon/H3301-3400#H3384|He will instruct him]] [[Lexicon/H1801-1900#H1870|in the path]] [[Lexicon/H901-1000#H977|chosen [for him].]]
 | [[LXX Reference/19 - Psalms/Psalms 25#Psalm 25 - 12|LXX]] |
 
 ##### Psalm 25 - 13

@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Malachi 1 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/39 - Malachi|← Malachi]]** | [[The Treasury of Scripture Knowledge/39. Malachi TOSK/Malachi - 2 - TOSK|Ch 2 →]]
+**[[Home/Scripture/39 - Malachi|← Malachi]]** | [[The Treasury of Scripture Knowledge/39. Malachi TOSK/Malachi - 2 - TOSK|Ch 2 →]]
 
 ---
 

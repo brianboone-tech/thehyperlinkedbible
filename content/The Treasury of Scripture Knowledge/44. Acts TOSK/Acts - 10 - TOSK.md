@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Acts 10 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 11 - TOSK|Ch 11 →]]
+**[[Home/Scripture/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 11 - TOSK|Ch 11 →]]
 
 ---
 

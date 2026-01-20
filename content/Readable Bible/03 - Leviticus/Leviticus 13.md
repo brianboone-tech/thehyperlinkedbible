@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus 13
+# Leviticus-R 13
 
-[[Readable Bible/03 - Leviticus/Leviticus 12|← Leviticus 12]] | [[Readable Bible/03 - Leviticus/Leviticus 14|Leviticus 14 →]]
+**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+
+[[Readable Bible/03 - Leviticus/Leviticus 12#Leviticus-R 12| Leviticus 12]] - [[Readable Bible/03 - Leviticus/Leviticus 14#Leviticus-R 14| Leviticus 14]]
 
 ---
 

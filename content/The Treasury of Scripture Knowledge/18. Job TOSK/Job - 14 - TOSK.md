@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Job 14 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 15 - TOSK|Ch 15 →]]
+**[[Home/Scripture/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 15 - TOSK|Ch 15 →]]
 
 ---
 

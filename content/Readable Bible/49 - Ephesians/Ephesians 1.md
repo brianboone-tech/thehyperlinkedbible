@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ephesians 1
+# Ephesians-R 1
 
-[[Readable Bible/48 - Galatians/Galatians 6|← Galatians 6]] | [[Readable Bible/49 - Ephesians/Ephesians 2|Ephesians 2 →]]
+**[[Home/Scripture/49 - Ephesians|Ephesians]]**
+
+[[Readable Bible/48 - Galatians/Galatians 6#Galatians-R 6|Galatians 6]] • [[Readable Bible/49 - Ephesians/Ephesians 2#Ephesians-R 2|Ephesians 2]]
 
 ---
 

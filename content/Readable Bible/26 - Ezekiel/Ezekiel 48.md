@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 48
+# Ezekiel-R 48
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 47|← Ezekiel 47]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 47#Ezekiel-R 47| Ezekiel 47]]
 
 ---
 

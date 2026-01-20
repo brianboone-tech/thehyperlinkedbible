@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/33 - Micah|← Micah]]**
+**[[Home/Scripture/33 - Micah|← Micah]]**
 
 ---
 

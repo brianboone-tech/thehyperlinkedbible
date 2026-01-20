@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Romans 15
+# Romans-R 15
 
-[[Readable Bible/45 - Romans/Romans 14|← Romans 14]] | [[Readable Bible/45 - Romans/Romans 16|Romans 16 →]]
+**[[Home/Scripture/45 - Romans|Romans]]**
+
+[[Readable Bible/45 - Romans/Romans 14#Romans-R 14| Romans 14]] - [[Readable Bible/45 - Romans/Romans 16#Romans-R 16| Romans 16]]
 
 ---
 
@@ -34,7 +36,7 @@ cssClasses: lexicon
 [[Reference Bible/45 - Romans/Romans 15#Romans 15 - 8|8]] For I tell you that Christ has become a servant of the circumcised on behalf of God’s truth, to confirm the promises made to the patriarchs,  | [[Chiasm/Chiasm - 45 - Romans 15 . 1 - 33|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 15 - TOSK#Verse 8|TOSK]] |
 
 ##### Romans 15 . 9
-[[Reference Bible/45 - Romans/Romans 15#Romans 15 - 9|9]] so that the Gentiles may glorify God for His mercy. As it is written: "Therefore I will praise You among the Gentiles; I will sing hymns to Your name."  | [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 15.9 to Psalm 18.49|IP]] | [[Chiasm/Chiasm - 45 - Romans 15 . 1 - 33|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 15 - TOSK#Verse 9|TOSK]] | [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)|TT¹]] | [[181 - The Singing Sufferer (Christ the Choir Master)|TT²]] |
+[[Reference Bible/45 - Romans/Romans 15#Romans 15 - 9|9]] so that the Gentiles may glorify God for His mercy. As it is written: “Therefore I will praise You among the Gentiles; I will sing hymns to Your name.”  | [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 15.9 to Psalm 18.49|IP]] | [[Chiasm/Chiasm - 45 - Romans 15 . 1 - 33|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 15 - TOSK#Verse 9|TOSK]] | [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)|TT]] |
 ##### Romans 15 . 10
 [[Reference Bible/45 - Romans/Romans 15#Romans 15 - 10|10]] Again, it says: “Rejoice, O Gentiles, with His people.”  | [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 15.10 to Deuteronomy 32.43|IP]] | [[Chiasm/Chiasm - 45 - Romans 15 . 1 - 33|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 15 - TOSK#Verse 10|TOSK]] | [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)|TT]] |
 ##### Romans 15 . 11
@@ -98,5 +100,5 @@ cssClasses: lexicon
 [[Reference Bible/45 - Romans/Romans 15#Romans 15 - 32|32]] so that by God’s will I may come to you with joy and together with you be refreshed.  | [[Chiasm/Chiasm - 45 - Romans 15 . 1 - 33|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 15 - TOSK#Verse 32|TOSK]] |
 
 ##### Romans 15 . 33
-[[Reference Bible/45 - Romans/Romans 15#Romans 15 - 33|33]] The God of peace be with all of you. Amen.  | [[Chiasm/Chiasm - 45 - Romans 15 . 1 - 33|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 15 - TOSK#Verse 33|TOSK]] ||
+[[Reference Bible/45 - Romans/Romans 15#Romans 15 - 33|33]] The God of peace be with all of you. Amen.  | [[Chiasm/Chiasm - 45 - Romans 15 . 1 - 33|C]] | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 15 - TOSK#Verse 33|TOSK]] | |
 

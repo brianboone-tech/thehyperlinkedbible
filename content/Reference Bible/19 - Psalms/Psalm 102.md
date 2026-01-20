@@ -66,7 +66,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 102#Psalm 102 - 14|LXX]] |
 
 ##### Psalm 102 - 15
-[[Lexicon/H1401-1500#H1471|So the nations]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3372|will fear]] [[Lexicon/H8001-8100#H8034|the name]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H4401-4500#H4428|the kings]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3519|(will fear) Your glory.]]
+[[Lexicon/H1401-1500#H1471|So the nations]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3372|will fear]] [[Lexicon/H8001-8100#H8034|the name]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H4401-4500#H4428|the kings]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3519|[will fear] Your glory.]]
 | [[LXX Reference/19 - Psalms/Psalms 102#Psalm 102 - 15|LXX]] |
 
 ##### Psalm 102 - 16
@@ -102,7 +102,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 102#Psalm 102 - 23|LXX]] |
 
 ##### Psalm 102 - 24
-[[Lexicon/H501-600#H559|I say :]] [[Lexicon/H401-500#H410|“ O my God ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H5901-6000#H5927|take me]] [[Lexicon/H2601-2700#H2677|in the midst]] [[Lexicon/H3101-3200#H3117|of my days !]] [[Lexicon/H8101-8200#H8141|Your years]] [[Lexicon/H1701-1800#H1755|(go on) through all generations]] [[Lexicon/H1701-1800#H1755|....]]
+[[Lexicon/H501-600#H559|I say :]] [[Lexicon/H401-500#H410|“ O my God ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H5901-6000#H5927|take me]] [[Lexicon/H2601-2700#H2677|in the midst]] [[Lexicon/H3101-3200#H3117|of my days !]] [[Lexicon/H8101-8200#H8141|Your years]] [[Lexicon/H1701-1800#H1755|[go on] through all generations]] [[Lexicon/H1701-1800#H1755|....]]
 | [[LXX Reference/19 - Psalms/Psalms 102#Psalm 102 - 24|LXX]] |
 
 ##### Psalm 102 - 25

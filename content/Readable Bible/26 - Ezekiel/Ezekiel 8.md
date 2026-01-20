@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 8
+# Ezekiel-R 8
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 7|← Ezekiel 7]] | [[Readable Bible/26 - Ezekiel/Ezekiel 9|Ezekiel 9 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 7#Ezekiel-R 7| Ezekiel 7]] - [[Readable Bible/26 - Ezekiel/Ezekiel 9#Ezekiel-R 9| Ezekiel 9]]
 
 ---
 
@@ -27,7 +29,7 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 8#Ezekiel 8 - 5|5]] “Son of man,” He said to me, “now lift up your eyes to the north.” So I lifted up my eyes to the north, and in the entrance north of the Altar Gate I saw this idol of jealousy. | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 8 - TOSK#Verse 5|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 8 - TOSK#Verse 5|TOSK]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 8 - TOSK#Verse 5|TOSK]] |
 
 ##### Ezekiel 8 . 6
-[[Reference Bible/26 - Ezekiel/Ezekiel 8#Ezekiel 8 - 6|6]] “Son of man,” He said to me, “do you see what they are doing—the great abominations that the house of Israel is committing—to drive Me far from My sanctuary? Yet you will see even greater abominations.”| | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 8 - TOSK#Verse 6|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 8#Ezekiel 8 - 6|6]] “Son of man,” He said to me, “do you see what they are doing—the great abominations that the house of Israel is committing—to drive Me far from My sanctuary? Yet you will see even greater abominations.”|  | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 8 - TOSK#Verse 6|TOSK]] |
 
 ##### Ezekiel 8 . 7
 [[Reference Bible/26 - Ezekiel/Ezekiel 8#Ezekiel 8 - 7|7]] Then He brought me to the entrance to the court, and I looked and saw a hole in the wall.  | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 8 - TOSK#Verse 7|TOSK]] |

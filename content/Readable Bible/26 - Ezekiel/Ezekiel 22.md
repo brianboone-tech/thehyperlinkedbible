@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 22
+# Ezekiel-R 22
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 21|← Ezekiel 21]] | [[Readable Bible/26 - Ezekiel/Ezekiel 23|Ezekiel 23 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 21#Ezekiel-R 21| Ezekiel 21]] - [[Readable Bible/26 - Ezekiel/Ezekiel 23#Ezekiel-R 23| Ezekiel 23]]
 
 ---
 
@@ -99,7 +101,7 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 22#Ezekiel 22 - 29|29]] The people of the land have practiced extortion and committed robbery. They have oppressed the poor and needy and have exploited the foreign resident without justice.  | [[Chiasm/Chiasm - 26 - Ezekiel 22 . 23 - 31|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 22 - TOSK#Verse 29|TOSK]] |
 
 ##### Ezekiel 22 . 30
-[[Reference Bible/26 - Ezekiel/Ezekiel 22#Ezekiel 22 - 30|30]] I searched for a man among them to repair the wall and stand in the gap before Me on behalf of the land, so that I should not destroy it. But I found no one. |  | [[Chiasm/Chiasm - 26 - Ezekiel 22 . 23 - 31|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 22 - TOSK#Verse 30|TOSK]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 22#Ezekiel 22 - 30|30]] I searched for a man among them to repair the wall and stand in the gap before Me on behalf of the land, so that I should not destroy it. But I found no one.  |  | [[Chiasm/Chiasm - 26 - Ezekiel 22 . 23 - 31|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 22 - TOSK#Verse 30|TOSK]] |
 
 ##### Ezekiel 22 . 31
 [[Reference Bible/26 - Ezekiel/Ezekiel 22#Ezekiel 22 - 31|31]] So I have poured out My indignation upon them and consumed them with the fire of My fury. I have brought their ways down upon their own heads, declares the Lord GOD.”  | [[Chiasm/Chiasm - 26 - Ezekiel 22 . 23 - 31|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 22 - TOSK#Verse 31|TOSK]] |

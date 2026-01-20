@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Acts 2
+# Acts-R 2
 
-[[Readable Bible/44 - Acts/Acts 1|← Acts 1]] | [[Readable Bible/44 - Acts/Acts 3|Acts 3 →]]
+**[[Home/Scripture/44 - Acts|Acts]]**
+
+[[Readable Bible/44 - Acts/Acts 1#Acts-R 1| Acts 1]] - [[Readable Bible/44 - Acts/Acts 3#Acts-R 3| Acts 3]]
 
 ---
 

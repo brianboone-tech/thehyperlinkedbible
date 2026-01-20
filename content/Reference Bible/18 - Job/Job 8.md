@@ -34,7 +34,7 @@ cssClasses: lexicon
 [[Lexicon/H4901-5000#H4994|Please]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H7501-7600#H7592|inquire]] [[Lexicon/H7201-7300#H7223|of past]] [[Lexicon/H1701-1800#H1755|generations]] [[Lexicon/H3501-3600#H3559|and consider]] [[Lexicon/H2701-2800#H2714|the discoveries]] [[Lexicon/H1-100#H1|of their fathers.]]
 
 ##### Job 8 - 9
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H587|we (were born)]] [[Lexicon/H8501-8600#H8543|yesterday]] [[Lexicon/H3001-3100#H3045|and know]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H3801-3900#H3808|nothing ;]] [[Lexicon/H3101-3200#H3117|our days]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H776|earth]] [[Lexicon/H6701-6800#H6738|are but a shadow.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H587|we [were born]]] [[Lexicon/H8501-8600#H8543|yesterday]] [[Lexicon/H3001-3100#H3045|and know]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H3801-3900#H3808|nothing ;]] [[Lexicon/H3101-3200#H3117|our days]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H776|earth]] [[Lexicon/H6701-6800#H6738|are but a shadow.]]
 
 ##### Job 8 - 10
 [[Lexicon/H1901-2000#H1992|Will they]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H3301-3400#H3384|teach you]] [[Lexicon/H501-600#H559|and tell]] [[Lexicon/H3301-3400#H3318|and speak]] [[Lexicon/H4401-4500#H4405|...]] [[Lexicon/H3801-3900#H3820|from their understanding ?]]

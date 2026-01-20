@@ -125,7 +125,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 11#Genesis 11 - 28|LXX]] |
 
 ##### Genesis 11 - 29
-[[Lexicon/H1-100#H87|And Abram]] [[Lexicon/H5101-5200#H5152|and Nahor]] [[Lexicon/H3901-4000#H3947|took]] [[Lexicon/H801-900#H802|wives]] [[Lexicon/H1-100#H87|Abram’s]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H8001-8100#H8034|was named]] [[Lexicon/H8201-8300#H8297|Sarai ,]] [[Lexicon/H5101-5200#H5152|and Nahor’s]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H8001-8100#H8034|was named]] [[Lexicon/H4401-4500#H4435|Milcah ;]] [[Lexicon/H1301-1400#H1323|she was the daughter]] [[Lexicon/H2001-2100#H2039|of Haran ,]] [[Lexicon/H1-100#H1|(who was) the father]] [[Lexicon/H4401-4500#H4435|of both Milcah]] [[Lexicon/H1-100#H1|...]] [[Lexicon/H3201-3300#H3252|and Iscah.]]
+[[Lexicon/H1-100#H87|And Abram]] [[Lexicon/H5101-5200#H5152|and Nahor]] [[Lexicon/H3901-4000#H3947|took]] [[Lexicon/H801-900#H802|wives]] [[Lexicon/H1-100#H87|Abram’s]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H8001-8100#H8034|was named]] [[Lexicon/H8201-8300#H8297|Sarai ,]] [[Lexicon/H5101-5200#H5152|and Nahor’s]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H8001-8100#H8034|was named]] [[Lexicon/H4401-4500#H4435|Milcah ;]] [[Lexicon/H1301-1400#H1323|she was the daughter]] [[Lexicon/H2001-2100#H2039|of Haran ,]] [[Lexicon/H1-100#H1|[who was] the father]] [[Lexicon/H4401-4500#H4435|of both Milcah]] [[Lexicon/H1-100#H1|...]] [[Lexicon/H3201-3300#H3252|and Iscah.]]
 | [[LXX Reference/1 - Genesis/Genesis 11#Genesis 11 - 29|LXX]] |
 
 ##### Genesis 11 - 30

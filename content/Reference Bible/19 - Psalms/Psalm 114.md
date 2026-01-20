@@ -13,7 +13,7 @@ cssClasses: lexicon
 [[Lexicon/H3401-3500#H3478|When Israel]] [[Lexicon/H3301-3400#H3318|departed]] [[Lexicon/H4701-4800#H4714|from Egypt ,]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H3201-3300#H3290|of Jacob]] [[Lexicon/H5901-6000#H5971|from a people]] [[Lexicon/H3901-4000#H3937|of foreign tongue ,]]
 
 ##### Psalm 114 - 2
-[[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H1901-2000#H1961|became]] [[Lexicon/H6901-7000#H6944|(God’s) sanctuary ,]] [[Lexicon/H3401-3500#H3478|(and) Israel]] [[Lexicon/H4401-4500#H4475|His dominion.]]
+[[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H1901-2000#H1961|became]] [[Lexicon/H6901-7000#H6944|[God’s] sanctuary ,]] [[Lexicon/H3401-3500#H3478|[and] Israel]] [[Lexicon/H4401-4500#H4475|His dominion.]]
 
 ##### Psalm 114 - 3
 [[Lexicon/H3201-3300#H3220|The sea]] [[Lexicon/H7101-7200#H7200|observed]] [[Lexicon/H5101-5200#H5127|and fled ;]] [[Lexicon/H3301-3400#H3383|the Jordan]] [[Lexicon/H5401-5500#H5437|turned]] [[Lexicon/H201-300#H268|back ;]]

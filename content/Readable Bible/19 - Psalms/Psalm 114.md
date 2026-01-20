@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 114
+# Psalm-R 114
 
-[[Readable Bible/19 - Psalms/Psalm 113|← Psalm 113]] | [[Readable Bible/19 - Psalms/Psalm 115|Psalm 115 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 113#Psalm-R 113| Psalm 113]] - [[Readable Bible/19 - Psalms/Psalm 115#Psalm-R 115| Psalm 115]]
 
 ---
 

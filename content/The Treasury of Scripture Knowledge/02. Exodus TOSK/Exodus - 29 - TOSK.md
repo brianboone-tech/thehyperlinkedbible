@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Exodus 29 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 30 - TOSK|Ch 30 →]]
+**[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 30 - TOSK|Ch 30 →]]
 
 ---
 

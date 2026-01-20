@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Genesis 1 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 2 - TOSK|Ch 2 →]]
+**[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 2 - TOSK|Ch 2 →]]
 
 ---
 

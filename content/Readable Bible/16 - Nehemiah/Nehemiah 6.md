@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Nehemiah 6
+# Nehemiah-R 6
 
-[[Readable Bible/16 - Nehemiah/Nehemiah 5|← Nehemiah 5]] | [[Readable Bible/16 - Nehemiah/Nehemiah 7|Nehemiah 7 →]]
+**[[Home/Scripture/16 - Nehemiah|Nehemiah]]**
+
+[[Readable Bible/16 - Nehemiah/Nehemiah 5#Nehemiah-R 5| Nehemiah 5]] - [[Readable Bible/16 - Nehemiah/Nehemiah 7#Nehemiah-R 7| Nehemiah 7]]
 
 ---
 

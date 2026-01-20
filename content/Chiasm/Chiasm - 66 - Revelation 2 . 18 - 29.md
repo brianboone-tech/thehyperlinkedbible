@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/66 - Revelation|← Revelation]]**
+**[[Home/Scripture/66 - Revelation|← Revelation]]**
 
 ---
 

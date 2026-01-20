@@ -17,7 +17,7 @@ Chapter: "12"
 | [[LXX Reference/2 - Exodus/Exodus 12#Exodus 12 - 1|LXX]] |
 
 ##### Exodus 12 - 2
-[[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H2301-2400#H2320|month]] [[Lexicon/H7201-7300#H7218|is the beginning]] [[Lexicon/H2301-2400#H2320|of months]] [[Lexicon/H1901-2000#H1931|it (shall be)]] [[Lexicon/H7201-7300#H7223|the first]] [[Lexicon/H2301-2400#H2320|month]] [[Lexicon/H8101-8200#H8141|year.]]
+[[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H2301-2400#H2320|month]] [[Lexicon/H7201-7300#H7218|is the beginning]] [[Lexicon/H2301-2400#H2320|of months]] [[Lexicon/H1901-2000#H1931|it [shall be]]] [[Lexicon/H7201-7300#H7223|the first]] [[Lexicon/H2301-2400#H2320|month]] [[Lexicon/H8101-8200#H8141|year.]]
 | [[LXX Reference/2 - Exodus/Exodus 12#Exodus 12 - 2|LXX]] |
 
 ##### Exodus 12 - 3
@@ -29,15 +29,15 @@ Chapter: "12"
 | [[LXX Reference/2 - Exodus/Exodus 12#Exodus 12 - 4|LXX]] |
 
 ##### Exodus 12 - 5
-[[Lexicon/H7701-7800#H7716|lamb]] [[Lexicon/H1901-2000#H1961|must be]] [[Lexicon/H8501-8600#H8549|an unblemished]] [[Lexicon/H1101-1200#H1121|year-old]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H2101-2200#H2145|male ,]] [[Lexicon/H3901-4000#H3947|(and) you may take]] [[Lexicon/H4401-4500#H4480|it from]] [[Lexicon/H3501-3600#H3532|the sheep]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H5701-5800#H5795|or the goats.]]
+[[Lexicon/H7701-7800#H7716|lamb]] [[Lexicon/H1901-2000#H1961|must be]] [[Lexicon/H8501-8600#H8549|an unblemished]] [[Lexicon/H1101-1200#H1121|year-old]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H2101-2200#H2145|male ,]] [[Lexicon/H3901-4000#H3947|[and] you may take]] [[Lexicon/H4401-4500#H4480|it from]] [[Lexicon/H3501-3600#H3532|the sheep]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H5701-5800#H5795|or the goats.]]
 | [[LXX Reference/2 - Exodus/Exodus 12#Exodus 12 - 5|LXX]] |
 
 ##### Exodus 12 - 6
-[[Lexicon/H1901-2000#H1961|You must]] [[Lexicon/H4901-5000#H4931|keep]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H701-800#H702|the fourteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2001-2100#H2088|of the]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H3601-3700#H3605|when the whole]] [[Lexicon/H6901-7000#H6951|assembly]] [[Lexicon/H5701-5800#H5712|of the congregation]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H7801-7900#H7819|will slaughter]] [[Lexicon/H801-900#H853|(the animals)]] [[Lexicon/H901-1000#H996|at]] [[Lexicon/H6101-6200#H6153|twilight.]]
+[[Lexicon/H1901-2000#H1961|You must]] [[Lexicon/H4901-5000#H4931|keep]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H701-800#H702|the fourteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2001-2100#H2088|of the]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H3601-3700#H3605|when the whole]] [[Lexicon/H6901-7000#H6951|assembly]] [[Lexicon/H5701-5800#H5712|of the congregation]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H7801-7900#H7819|will slaughter]] [[Lexicon/H801-900#H853|[the animals]]] [[Lexicon/H901-1000#H996|at]] [[Lexicon/H6101-6200#H6153|twilight.]]
 | [[LXX Reference/2 - Exodus/Exodus 12#Exodus 12 - 6|LXX]] |
 
 ##### Exodus 12 - 7
-[[Lexicon/H3901-4000#H3947|They are to take]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H1801-1900#H1818|the blood]] [[Lexicon/H5401-5500#H5414|and put]] [[Lexicon/H5901-6000#H5921|it on]] [[Lexicon/H8101-8200#H8147|vvv]] [[Lexicon/H4201-4300#H4201|the sides]] [[Lexicon/H5901-6000#H5921|and]] [[Lexicon/H4901-5000#H4947|tops of the doorframes]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H1001-1100#H1004|the houses]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H301-400#H398|they eat (the lambs)]] [[Lexicon/H801-900#H853|-]]
+[[Lexicon/H3901-4000#H3947|They are to take]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H1801-1900#H1818|the blood]] [[Lexicon/H5401-5500#H5414|and put]] [[Lexicon/H5901-6000#H5921|it on]] [[Lexicon/H8101-8200#H8147|vvv]] [[Lexicon/H4201-4300#H4201|the sides]] [[Lexicon/H5901-6000#H5921|and]] [[Lexicon/H4901-5000#H4947|tops of the doorframes]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H1001-1100#H1004|the houses]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H301-400#H398|they eat [the lambs]]] [[Lexicon/H801-900#H853|-]]
 | [[LXX Reference/2 - Exodus/Exodus 12#Exodus 12 - 7|LXX]] |
 
 ##### Exodus 12 - 8
@@ -45,7 +45,7 @@ Chapter: "12"
 | [[LXX Reference/2 - Exodus/Exodus 12#Exodus 12 - 8|LXX]] |
 
 ##### Exodus 12 - 9
-[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H4401-4500#H4480|any of]] [[Lexicon/H4901-5000#H4995|(the meat) raw]] [[Lexicon/H1301-1400#H1310|or cooked]] [[Lexicon/H1301-1400#H1311|in boiling]] [[Lexicon/H4301-4400#H4325|water ,]] [[Lexicon/H3501-3600#H3588|but only]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H6701-6800#H6748|roasted]] [[Lexicon/H701-800#H784|over the fire —]] [[Lexicon/H7201-7300#H7218|its head]] [[Lexicon/H5901-6000#H5921|and]] [[Lexicon/H3701-3800#H3767|legs]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7101-7200#H7130|and inner parts.]]
+[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H4401-4500#H4480|any of]] [[Lexicon/H4901-5000#H4995|[the meat] raw]] [[Lexicon/H1301-1400#H1310|or cooked]] [[Lexicon/H1301-1400#H1311|in boiling]] [[Lexicon/H4301-4400#H4325|water ,]] [[Lexicon/H3501-3600#H3588|but only]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H6701-6800#H6748|roasted]] [[Lexicon/H701-800#H784|over the fire —]] [[Lexicon/H7201-7300#H7218|its head]] [[Lexicon/H5901-6000#H5921|and]] [[Lexicon/H3701-3800#H3767|legs]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7101-7200#H7130|and inner parts.]]
 | [[LXX Reference/2 - Exodus/Exodus 12#Exodus 12 - 9|LXX]] |
 
 ##### Exodus 12 - 10
@@ -81,7 +81,7 @@ Chapter: "12"
 | [[LXX Reference/2 - Exodus/Exodus 12#Exodus 12 - 17|LXX]] |
 
 ##### Exodus 12 - 18
-[[Lexicon/H7201-7300#H7223|In the first (month)]] [[Lexicon/H301-400#H398|you are to eat]] [[Lexicon/H4601-4700#H4682|unleavened bread ,]] [[Lexicon/H6101-6200#H6153|from the evening]] [[Lexicon/H701-800#H702|of the fourteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2301-2400#H2320|...]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|the evening]] [[Lexicon/H201-300#H259|of the twenty-first]] [[Lexicon/H6201-6300#H6242|...]] [[Lexicon/H2301-2400#H2320|...]] [[Lexicon/H3101-3200#H3117|day.]]
+[[Lexicon/H7201-7300#H7223|In the first [month]]] [[Lexicon/H301-400#H398|you are to eat]] [[Lexicon/H4601-4700#H4682|unleavened bread ,]] [[Lexicon/H6101-6200#H6153|from the evening]] [[Lexicon/H701-800#H702|of the fourteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2301-2400#H2320|...]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|the evening]] [[Lexicon/H201-300#H259|of the twenty-first]] [[Lexicon/H6201-6300#H6242|...]] [[Lexicon/H2301-2400#H2320|...]] [[Lexicon/H3101-3200#H3117|day.]]
 | [[LXX Reference/2 - Exodus/Exodus 12#Exodus 12 - 18|LXX]] |
 
 ##### Exodus 12 - 19
@@ -123,16 +123,16 @@ Chapter: "12"
 [[Lexicon/H3901-4000#H3915|During the night]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H6901-7000#H6965|got up —]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H5601-5700#H5650|his officials]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H4701-4800#H4714|...]] [[Lexicon/H4701-4800#H4714|the Egyptians —]] [[Lexicon/H1901-2000#H1961|and there was]] [[Lexicon/H1401-1500#H1419|loud]] [[Lexicon/H6801-6900#H6818|wailing]] [[Lexicon/H3501-3600#H3588|in Egypt ;]] [[Lexicon/H301-400#H369|for there was no]] [[Lexicon/H1001-1100#H1004|house]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H301-400#H369|without]] [[Lexicon/H8001-8100#H8033|...]] [[Lexicon/H4101-4200#H4191|someone dead.]]
 
 ##### Exodus 12 - 31
-[[Lexicon/H7101-7200#H7121|Then (Pharaoh) summoned]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H101-200#H175|and Aaron]] [[Lexicon/H3901-4000#H3915|by night]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H6901-7000#H6965|“ Get up ,]] [[Lexicon/H3301-3400#H3318|leave]] [[Lexicon/H8401-8500#H8432|...]] [[Lexicon/H5901-6000#H5971|my people ,]] [[Lexicon/H1501-1600#H1571|both]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|... !]] [[Lexicon/H1901-2000#H1980|Go ,]] [[Lexicon/H5601-5700#H5647|worship]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|as you have requested.]]
+[[Lexicon/H7101-7200#H7121|Then [Pharaoh] summoned]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H101-200#H175|and Aaron]] [[Lexicon/H3901-4000#H3915|by night]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H6901-7000#H6965|“ Get up ,]] [[Lexicon/H3301-3400#H3318|leave]] [[Lexicon/H8401-8500#H8432|...]] [[Lexicon/H5901-6000#H5971|my people ,]] [[Lexicon/H1501-1600#H1571|both]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|... !]] [[Lexicon/H1901-2000#H1980|Go ,]] [[Lexicon/H5601-5700#H5647|worship]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|as you have requested.]]
 
 ##### Exodus 12 - 32
 [[Lexicon/H3901-4000#H3947|Take]] [[Lexicon/H6601-6700#H6629|your flocks]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H1201-1300#H1241|herds]] [[Lexicon/H1501-1600#H1571|as well ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H1601-1700#H1696|you have said ,]] [[Lexicon/H1901-2000#H1980|and depart !]] [[Lexicon/H1201-1300#H1288|And bless]] [[Lexicon/H801-900#H853|me]] [[Lexicon/H1501-1600#H1571|also. ”]]
 
 ##### Exodus 12 - 33
-[[Lexicon/H7901-8000#H7971|And in order to send them]] [[Lexicon/H4401-4500#H4480|out of]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4101-4200#H4116|quickly ,]] [[Lexicon/H4701-4800#H4714|the Egyptians]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H2301-2400#H2388|urged]] [[Lexicon/H5901-6000#H5971|the people on.]] [[Lexicon/H3501-3600#H3588|“ For (otherwise) , ”]] [[Lexicon/H501-600#H559|they said ,]] [[Lexicon/H3601-3700#H3605|“ we are all]] [[Lexicon/H4101-4200#H4191|going to die ! ”]]
+[[Lexicon/H7901-8000#H7971|And in order to send them]] [[Lexicon/H4401-4500#H4480|out of]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4101-4200#H4116|quickly ,]] [[Lexicon/H4701-4800#H4714|the Egyptians]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H2301-2400#H2388|urged]] [[Lexicon/H5901-6000#H5971|the people on.]] [[Lexicon/H3501-3600#H3588|“ For [otherwise] , ”]] [[Lexicon/H501-600#H559|they said ,]] [[Lexicon/H3601-3700#H3605|“ we are all]] [[Lexicon/H4101-4200#H4191|going to die ! ”]]
 
 ##### Exodus 12 - 34
-[[Lexicon/H5901-6000#H5971|So the people]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5375|took]] [[Lexicon/H1201-1300#H1217|their dough]] [[Lexicon/H2901-3000#H2962|before]] [[Lexicon/H2501-2600#H2556|it was leavened ,]] [[Lexicon/H5901-6000#H5921|(carrying it) on]] [[Lexicon/H7901-8000#H7926|their shoulders]] [[Lexicon/H4801-4900#H4863|in kneading bowls]] [[Lexicon/H6801-6900#H6887|wrapped]] [[Lexicon/H8001-8100#H8071|in clothing.]]
+[[Lexicon/H5901-6000#H5971|So the people]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5375|took]] [[Lexicon/H1201-1300#H1217|their dough]] [[Lexicon/H2901-3000#H2962|before]] [[Lexicon/H2501-2600#H2556|it was leavened ,]] [[Lexicon/H5901-6000#H5921|[carrying it] on]] [[Lexicon/H7901-8000#H7926|their shoulders]] [[Lexicon/H4801-4900#H4863|in kneading bowls]] [[Lexicon/H6801-6900#H6887|wrapped]] [[Lexicon/H8001-8100#H8071|in clothing.]]
 
 ##### Exodus 12 - 35
 [[Lexicon/H1101-1200#H1121|Furthermore, the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H6201-6300#H6213|acted]] [[Lexicon/H4801-4900#H4872|on Moses’]] [[Lexicon/H1601-1700#H1697|word]] [[Lexicon/H7501-7600#H7592|and asked]] [[Lexicon/H4701-4800#H4714|the Egyptians]] [[Lexicon/H3601-3700#H3627|for articles]] [[Lexicon/H3701-3800#H3701|of silver]] [[Lexicon/H3601-3700#H3627|and]] [[Lexicon/H2001-2100#H2091|gold ,]] [[Lexicon/H8001-8100#H8071|and for clothing.]]
@@ -156,13 +156,13 @@ Chapter: "12"
 [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H7001-7100#H7093|At the end]] [[Lexicon/H7901-8000#H7970|of the 430]] [[Lexicon/H701-800#H702|...]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H8101-8200#H8141|years ,]] [[Lexicon/H2001-2100#H2088|to the]] [[Lexicon/H6101-6200#H6106|very]] [[Lexicon/H3101-3200#H3117|day ,]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3001-3100#H3068|the LORD’s]] [[Lexicon/H6601-6700#H6635|divisions]] [[Lexicon/H3301-3400#H3318|went out]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
 
 ##### Exodus 12 - 42
-[[Lexicon/H3001-3100#H3068|Because the LORD]] [[Lexicon/H8101-8200#H8107|kept a vigil]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H3301-3400#H3318|to bring them]] [[Lexicon/H701-800#H776|out of the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H2001-2100#H2088|this same]] [[Lexicon/H3901-4000#H3915|night (is to be a vigil )]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H8101-8200#H8107|to be observed]] [[Lexicon/H3601-3700#H3605|by all]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1701-1800#H1755|for the generations to come.]]
+[[Lexicon/H3001-3100#H3068|Because the LORD]] [[Lexicon/H8101-8200#H8107|kept a vigil]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H3301-3400#H3318|to bring them]] [[Lexicon/H701-800#H776|out of the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H2001-2100#H2088|this same]] [[Lexicon/H3901-4000#H3915|night [is to be a vigil ]]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H8101-8200#H8107|to be observed]] [[Lexicon/H3601-3700#H3605|by all]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1701-1800#H1755|for the generations to come.]]
 
 ##### Exodus 12 - 43
 [[Lexicon/H3001-3100#H3068|And the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H101-200#H175|and Aaron ,]] [[Lexicon/H2001-2100#H2063|“ This]] [[Lexicon/H2701-2800#H2708|is the statute]] [[Lexicon/H6401-6500#H6453|of the Passover :]] [[Lexicon/H3601-3700#H3605|No]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H1101-1200#H1121|foreigner]] [[Lexicon/H5201-5300#H5236|...]] [[Lexicon/H301-400#H398|is to eat]]
 
 ##### Exodus 12 - 44
-[[Lexicon/H3601-3700#H3605|But any]] [[Lexicon/H5601-5700#H5650|slave (who)]] [[Lexicon/H301-400#H376|vvv]] [[Lexicon/H4701-4800#H4736|has been purchased]] [[Lexicon/H3701-3800#H3701|...]] [[Lexicon/H301-400#H398|may eat]] [[Lexicon/H4101-4200#H4135|after you have circumcised him.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H227|-]]
+[[Lexicon/H3601-3700#H3605|But any]] [[Lexicon/H5601-5700#H5650|slave [who]]] [[Lexicon/H301-400#H376|vvv]] [[Lexicon/H4701-4800#H4736|has been purchased]] [[Lexicon/H3701-3800#H3701|...]] [[Lexicon/H301-400#H398|may eat]] [[Lexicon/H4101-4200#H4135|after you have circumcised him.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H227|-]]
 
 ##### Exodus 12 - 45
 [[Lexicon/H8401-8500#H8453|A temporary resident]] [[Lexicon/H7901-8000#H7916|or hired hand]] [[Lexicon/H3801-3900#H3808|shall not]] [[Lexicon/H301-400#H398|eat]]
@@ -174,7 +174,7 @@ Chapter: "12"
 [[Lexicon/H3601-3700#H3605|The whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H6201-6300#H6213|must celebrate]] [[Lexicon/H801-900#H853|it.]]
 
 ##### Exodus 12 - 48
-[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H1601-1700#H1616|a foreigner]] [[Lexicon/H1401-1500#H1481|resides]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H6201-6300#H6213|you and wants to celebrate]] [[Lexicon/H3001-3100#H3068|the LORD’s]] [[Lexicon/H6401-6500#H6453|Passover ,]] [[Lexicon/H3601-3700#H3605|all the]] [[Lexicon/H2101-2200#H2145|males (in the household)]] [[Lexicon/H4101-4200#H4135|must be circumcised]] [[Lexicon/H201-300#H227|then]] [[Lexicon/H7101-7200#H7126|he may come near]] [[Lexicon/H6201-6300#H6213|to celebrate it ,]] [[Lexicon/H1901-2000#H1961|and he shall be]] [[Lexicon/H201-300#H249|like a native]] [[Lexicon/H701-800#H776|of the land.]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H3801-3900#H3808|But no]] [[Lexicon/H6101-6200#H6189|uncircumcised man]] [[Lexicon/H301-400#H398|may eat]]
+[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H1601-1700#H1616|a foreigner]] [[Lexicon/H1401-1500#H1481|resides]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H6201-6300#H6213|you and wants to celebrate]] [[Lexicon/H3001-3100#H3068|the LORD’s]] [[Lexicon/H6401-6500#H6453|Passover ,]] [[Lexicon/H3601-3700#H3605|all the]] [[Lexicon/H2101-2200#H2145|males [in the household]]] [[Lexicon/H4101-4200#H4135|must be circumcised]] [[Lexicon/H201-300#H227|then]] [[Lexicon/H7101-7200#H7126|he may come near]] [[Lexicon/H6201-6300#H6213|to celebrate it ,]] [[Lexicon/H1901-2000#H1961|and he shall be]] [[Lexicon/H201-300#H249|like a native]] [[Lexicon/H701-800#H776|of the land.]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H3801-3900#H3808|But no]] [[Lexicon/H6101-6200#H6189|uncircumcised man]] [[Lexicon/H301-400#H398|may eat]]
 
 ##### Exodus 12 - 49
 [[Lexicon/H201-300#H259|The same]] [[Lexicon/H8401-8500#H8451|law]] [[Lexicon/H1901-2000#H1961|shall apply]] [[Lexicon/H201-300#H249|to both the native]] [[Lexicon/H1601-1700#H1616|and the foreigner]] [[Lexicon/H1401-1500#H1481|who resides]] [[Lexicon/H8401-8500#H8432|among you. ”]]

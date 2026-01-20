@@ -46,25 +46,25 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3581|Is my strength]] [[Lexicon/H3501-3600#H3581|like that]] [[Lexicon/H1-100#H68|of stone ,]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H1301-1400#H1320|my flesh]] [[Lexicon/H5101-5200#H5153|made of bronze]] [[Lexicon/H501-600#H518|... ?]]
 
 ##### Job 6 - 13
-[[Lexicon/H501-600#H518|(Is) there any]] [[Lexicon/H301-400#H369|-]] [[Lexicon/H5801-5900#H5833|help]] [[Lexicon/H8401-8500#H8454|now that success]] [[Lexicon/H5001-5100#H5080|is driven]] [[Lexicon/H4401-4500#H4480|from me ?]]
+[[Lexicon/H501-600#H518|[Is] there any]] [[Lexicon/H301-400#H369|-]] [[Lexicon/H5801-5900#H5833|help]] [[Lexicon/H8401-8500#H8454|now that success]] [[Lexicon/H5001-5100#H5080|is driven]] [[Lexicon/H4401-4500#H4480|from me ?]]
 
 ##### Job 6 - 14
-[[Lexicon/H4501-4600#H4523|A despairing man]] [[Lexicon/H2601-2700#H2617|(should have) the kindness]] [[Lexicon/H7401-7500#H7453|of his friend ,]] [[Lexicon/H5701-5800#H5800|even if he forsakes]] [[Lexicon/H3301-3400#H3374|the fear]] [[Lexicon/H7701-7800#H7706|of the Almighty.]]
+[[Lexicon/H4501-4600#H4523|A despairing man]] [[Lexicon/H2601-2700#H2617|[should have] the kindness]] [[Lexicon/H7401-7500#H7453|of his friend ,]] [[Lexicon/H5701-5800#H5800|even if he forsakes]] [[Lexicon/H3301-3400#H3374|the fear]] [[Lexicon/H7701-7800#H7706|of the Almighty.]]
 
 ##### Job 6 - 15
-[[Lexicon/H201-300#H251|(But) my brothers]] [[Lexicon/H801-900#H898|are as faithless]] [[Lexicon/H3601-3700#H3644|as]] [[Lexicon/H5101-5200#H5158|wadis ,]] [[Lexicon/H601-700#H650|as seasonal streams]] [[Lexicon/H5101-5200#H5158|...]] [[Lexicon/H5601-5700#H5674|that overflow ,]]
+[[Lexicon/H201-300#H251|[But] my brothers]] [[Lexicon/H801-900#H898|are as faithless]] [[Lexicon/H3601-3700#H3644|as]] [[Lexicon/H5101-5200#H5158|wadis ,]] [[Lexicon/H601-700#H650|as seasonal streams]] [[Lexicon/H5101-5200#H5158|...]] [[Lexicon/H5601-5700#H5674|that overflow ,]]
 
 ##### Job 6 - 16
 [[Lexicon/H6901-7000#H6937|darkened]] [[Lexicon/H4401-4500#H4480|because]] [[Lexicon/H7101-7200#H7140|of the ice]] [[Lexicon/H5901-6000#H5921|and the inflow]] [[Lexicon/H5901-6000#H5956|of melting]] [[Lexicon/H7901-8000#H7950|snow ,]]
 
 ##### Job 6 - 17
-[[Lexicon/H6701-6800#H6789|but ceasing]] [[Lexicon/H6201-6300#H6256|in the dry season]] [[Lexicon/H2201-2300#H2215|...]] [[Lexicon/H1801-1900#H1846|(and) vanishing]] [[Lexicon/H4701-4800#H4725|from their channels]] [[Lexicon/H2501-2600#H2552|in the heat.]]
+[[Lexicon/H6701-6800#H6789|but ceasing]] [[Lexicon/H6201-6300#H6256|in the dry season]] [[Lexicon/H2201-2300#H2215|...]] [[Lexicon/H1801-1900#H1846|[and] vanishing]] [[Lexicon/H4701-4800#H4725|from their channels]] [[Lexicon/H2501-2600#H2552|in the heat.]]
 
 ##### Job 6 - 18
 [[Lexicon/H701-800#H734|Caravans]] [[Lexicon/H3901-4000#H3943|turn aside]] [[Lexicon/H1801-1900#H1870|from their routes ;]] [[Lexicon/H5901-6000#H5927|they go]] [[Lexicon/H8401-8500#H8414|into the wasteland]] [[Lexicon/H1-100#H6|and perish.]]
 
 ##### Job 6 - 19
-[[Lexicon/H701-800#H734|The caravans]] [[Lexicon/H8401-8500#H8485|of Tema]] [[Lexicon/H5001-5100#H5027|look (for water) ;]] [[Lexicon/H1901-2000#H1979|the travelers]] [[Lexicon/H7601-7700#H7614|of Sheba]] [[Lexicon/H6901-7000#H6960|hope]]
+[[Lexicon/H701-800#H734|The caravans]] [[Lexicon/H8401-8500#H8485|of Tema]] [[Lexicon/H5001-5100#H5027|look [for water] ;]] [[Lexicon/H1901-2000#H1979|the travelers]] [[Lexicon/H7601-7700#H7614|of Sheba]] [[Lexicon/H6901-7000#H6960|hope]]
 
 ##### Job 6 - 20
 [[Lexicon/H901-1000#H954|They are confounded]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H901-1000#H982|they had hoped ;]] [[Lexicon/H901-1000#H935|their arrival]] [[Lexicon/H5701-5800#H5704|-]] [[Lexicon/H2601-2700#H2659|brings disappointment.]]
@@ -82,7 +82,7 @@ cssClasses: lexicon
 [[Lexicon/H3301-3400#H3384|Teach me ,]] [[Lexicon/H501-600#H589|and I]] [[Lexicon/H2701-2800#H2790|will be silent.]] [[Lexicon/H901-1000#H995|Help me understand]] [[Lexicon/H4001-4100#H4100|how]] [[Lexicon/H7601-7700#H7686|I have erred.]]
 
 ##### Job 6 - 25
-[[Lexicon/H4001-4100#H4100|How]] [[Lexicon/H4801-4900#H4834|painful]] [[Lexicon/H3401-3500#H3476|(are) honest]] [[Lexicon/H501-600#H561|words !]] [[Lexicon/H4001-4100#H4100|But what]] [[Lexicon/H3101-3200#H3198|does your argument]] [[Lexicon/H3101-3200#H3198|prove ?]]
+[[Lexicon/H4001-4100#H4100|How]] [[Lexicon/H4801-4900#H4834|painful]] [[Lexicon/H3401-3500#H3476|[are] honest]] [[Lexicon/H501-600#H561|words !]] [[Lexicon/H4001-4100#H4100|But what]] [[Lexicon/H3101-3200#H3198|does your argument]] [[Lexicon/H3101-3200#H3198|prove ?]]
 
 ##### Job 6 - 26
 [[Lexicon/H2801-2900#H2803|Do you intend]] [[Lexicon/H3101-3200#H3198|to correct]] [[Lexicon/H4401-4500#H4405|my words ,]] [[Lexicon/H7301-7400#H7307|and treat as wind]] [[Lexicon/H501-600#H561|my cry]] [[Lexicon/H2901-3000#H2976|of despair ?]]
@@ -97,5 +97,5 @@ cssClasses: lexicon
 [[Lexicon/H7701-7800#H7725|Reconsider ;]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H5701-5800#H5766|unjust.]] [[Lexicon/H7701-7800#H7725|Reconsider ,]] [[Lexicon/H6601-6700#H6664|for my righteousness]] [[Lexicon/H5701-5800#H5750|...]]
 
 ##### Job 6 - 30
-[[Lexicon/H3401-3500#H3426|Is there]] [[Lexicon/H5701-5800#H5766|iniquity]] [[Lexicon/H3901-4000#H3956|on my tongue ?]] [[Lexicon/H501-600#H518|Can]] [[Lexicon/H2401-2500#H2441|my mouth]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H901-1000#H995|discern]] [[Lexicon/H1901-2000#H1942|malice ? (’’)]]
+[[Lexicon/H3401-3500#H3426|Is there]] [[Lexicon/H5701-5800#H5766|iniquity]] [[Lexicon/H3901-4000#H3956|on my tongue ?]] [[Lexicon/H501-600#H518|Can]] [[Lexicon/H2401-2500#H2441|my mouth]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H901-1000#H995|discern]] [[Lexicon/H1901-2000#H1942|malice ? [’’]]]
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 25
+# Ezekiel-R 25
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 24|← Ezekiel 24]] | [[Readable Bible/26 - Ezekiel/Ezekiel 26|Ezekiel 26 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 24#Ezekiel-R 24| Ezekiel 24]] - [[Readable Bible/26 - Ezekiel/Ezekiel 26#Ezekiel-R 26| Ezekiel 26]]
 
 ---
 

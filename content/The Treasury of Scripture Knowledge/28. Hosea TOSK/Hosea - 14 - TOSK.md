@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Hosea 14 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/28 - Hosea|← Hosea]]** | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 13 - TOSK|← Ch 13]]
+**[[Home/Scripture/28 - Hosea|← Hosea]]** | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 13 - TOSK|← Ch 13]]
 
 ---
 

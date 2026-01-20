@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Joshua 4 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/06 - Joshua|← Joshua]]** | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 5 - TOSK|Ch 5 →]]
+**[[Home/Scripture/06 - Joshua|← Joshua]]** | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 5 - TOSK|Ch 5 →]]
 
 ---
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Judges 21
+# Judges-R 21
 
-[[Readable Bible/07 - Judges/Judges 20|← Judges 20]]
+**[[Home/Scripture/07 - Judges|Judges]]**
+
+[[Readable Bible/07 - Judges/Judges 20#Judges-R 20| Judges 20]]
 
 ---
 

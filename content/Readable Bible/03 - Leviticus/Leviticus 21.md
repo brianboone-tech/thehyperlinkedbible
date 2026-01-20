@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Leviticus 21
+# Leviticus-R 21
 
-[[Readable Bible/03 - Leviticus/Leviticus 20|← Leviticus 20]] | [[Readable Bible/03 - Leviticus/Leviticus 22|Leviticus 22 →]]
+**[[Home/Scripture/03 - Leviticus|Leviticus]]**
+
+[[Readable Bible/03 - Leviticus/Leviticus 20#Leviticus-R 20| Leviticus 20]] - [[Readable Bible/03 - Leviticus/Leviticus 22#Leviticus-R 22| Leviticus 22]]
 
 ---
 
 ##### Leviticus 21 . 1
-[[Reference Bible/3 - Leviticus/Leviticus 21#Leviticus 21 - 1|1]] Then the LORD said to Moses, "Speak to Aaron's sons, the priests, and tell them that a priest is not to defile himself for a dead person among his people,  | | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 21.1 to Ezekiel 44.24|IP¹]] | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 21.1-3 to Ezekiel 44.24-27|IP²]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 21 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/072 - High Priest Seated at the Right Hand (Christ's Royal-Priestly Session)|TT]] |
+[[Reference Bible/3 - Leviticus/Leviticus 21#Leviticus 21 - 1|1]] Then the LORD said to Moses, "Speak to Aaron's sons, the priests, and tell them that a priest is not to defile himself for a dead person among his people,   || [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 21.1 to Ezekiel 44.24|IP¹]] | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 21.1-3 to Ezekiel 44.24-27|IP²]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 21 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/072 - High Priest Seated at the Right Hand (Christ's Royal-Priestly Session)|TT]] |
 
 ##### Leviticus 21 . 2
 [[Reference Bible/3 - Leviticus/Leviticus 21#Leviticus 21 - 2|2]] except for his immediate family—his mother, father, son, daughter, or brother,  | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 21.1-3 to Ezekiel 44.24-27|IP]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 21 - TOSK#Verse 2|TOSK]] |

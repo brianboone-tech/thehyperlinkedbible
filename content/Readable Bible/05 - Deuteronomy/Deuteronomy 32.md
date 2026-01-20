@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Deuteronomy 32
+# Deuteronomy-R 32
 
-[[Readable Bible/05 - Deuteronomy/Deuteronomy 31|← Deuteronomy 31]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 33|Deuteronomy 33 →]]
+**[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
+
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 31#Deuteronomy-R 31| Deuteronomy 31]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 33#Deuteronomy-R 33| Deuteronomy 33]]
 
 ---
 

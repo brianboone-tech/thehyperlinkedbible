@@ -13,7 +13,7 @@ cssClasses: lexicon
 [[Lexicon/H7501-7600#H7563|The wicked]] [[Lexicon/H5101-5200#H5127|flee]] [[Lexicon/H301-400#H369|when no one]] [[Lexicon/H7201-7300#H7291|pursues ,]] [[Lexicon/H6601-6700#H6662|but the righteous]] [[Lexicon/H901-1000#H982|are as bold]] [[Lexicon/H3701-3800#H3715|as a lion.]]
 
 ##### Proverbs 28 - 2
-[[Lexicon/H701-800#H776|A land]] [[Lexicon/H6501-6600#H6588|in rebellion]] [[Lexicon/H7201-7300#H7227|has many]] [[Lexicon/H8201-8300#H8269|rulers ,]] [[Lexicon/H101-200#H120|but a man]] [[Lexicon/H901-1000#H995|of understanding]] [[Lexicon/H3001-3100#H3045|(and) knowledge]] [[Lexicon/H3601-3700#H3651|vvv]] [[Lexicon/H701-800#H748|maintains order.]]
+[[Lexicon/H701-800#H776|A land]] [[Lexicon/H6501-6600#H6588|in rebellion]] [[Lexicon/H7201-7300#H7227|has many]] [[Lexicon/H8201-8300#H8269|rulers ,]] [[Lexicon/H101-200#H120|but a man]] [[Lexicon/H901-1000#H995|of understanding]] [[Lexicon/H3001-3100#H3045|[and] knowledge]] [[Lexicon/H3601-3700#H3651|vvv]] [[Lexicon/H701-800#H748|maintains order.]]
 
 ##### Proverbs 28 - 3
 [[Lexicon/H7301-7400#H7326|A destitute]] [[Lexicon/H1301-1400#H1397|leader]] [[Lexicon/H6201-6300#H6231|who oppresses]] [[Lexicon/H1701-1800#H1800|the poor]] [[Lexicon/H5501-5600#H5502|is like a driving]] [[Lexicon/H4301-4400#H4306|rain]] [[Lexicon/H301-400#H369|that leaves no]] [[Lexicon/H3801-3900#H3899|food.]]
@@ -49,19 +49,19 @@ cssClasses: lexicon
 [[Lexicon/H3601-3700#H3680|He who conceals]] [[Lexicon/H6501-6600#H6588|his sins]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H6701-6800#H6743|prosper ,]] [[Lexicon/H3001-3100#H3034|but whoever confesses]] [[Lexicon/H5701-5800#H5800|and renounces them]] [[Lexicon/H7301-7400#H7355|will find mercy.]]
 
 ##### Proverbs 28 - 14
-[[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H101-200#H120|(is) the man]] [[Lexicon/H8501-8600#H8548|who is always]] [[Lexicon/H6301-6400#H6342|reverent ,]] [[Lexicon/H7101-7200#H7185|but he who hardens]] [[Lexicon/H3801-3900#H3820|his heart]] [[Lexicon/H5301-5400#H5307|falls]] [[Lexicon/H7401-7500#H7451|into trouble.]]
+[[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H101-200#H120|[is] the man]] [[Lexicon/H8501-8600#H8548|who is always]] [[Lexicon/H6301-6400#H6342|reverent ,]] [[Lexicon/H7101-7200#H7185|but he who hardens]] [[Lexicon/H3801-3900#H3820|his heart]] [[Lexicon/H5301-5400#H5307|falls]] [[Lexicon/H7401-7500#H7451|into trouble.]]
 
 ##### Proverbs 28 - 15
 [[Lexicon/H5001-5100#H5098|Like a roaring]] [[Lexicon/H701-800#H738|lion]] [[Lexicon/H8201-8300#H8264|or a charging]] [[Lexicon/H1601-1700#H1677|bear]] [[Lexicon/H7501-7600#H7563|is a wicked]] [[Lexicon/H4901-5000#H4910|ruler]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H1701-1800#H1800|a helpless]] [[Lexicon/H5901-6000#H5971|people.]]
 
 ##### Proverbs 28 - 16
-[[Lexicon/H5001-5100#H5057|A leader]] [[Lexicon/H2601-2700#H2638|who lacks]] [[Lexicon/H8301-8400#H8394|judgment]] [[Lexicon/H7201-7300#H7227|(is) also a great]] [[Lexicon/H4601-4700#H4642|oppressor ,]] [[Lexicon/H8101-8200#H8130|but he who hates]] [[Lexicon/H1201-1300#H1215|dishonest profit]] [[Lexicon/H701-800#H748|will prolong]] [[Lexicon/H3101-3200#H3117|(his) days.]]
+[[Lexicon/H5001-5100#H5057|A leader]] [[Lexicon/H2601-2700#H2638|who lacks]] [[Lexicon/H8301-8400#H8394|judgment]] [[Lexicon/H7201-7300#H7227|[is] also a great]] [[Lexicon/H4601-4700#H4642|oppressor ,]] [[Lexicon/H8101-8200#H8130|but he who hates]] [[Lexicon/H1201-1300#H1215|dishonest profit]] [[Lexicon/H701-800#H748|will prolong]] [[Lexicon/H3101-3200#H3117|[his] days.]]
 
 ##### Proverbs 28 - 17
 [[Lexicon/H101-200#H120|A man]] [[Lexicon/H6201-6300#H6231|burdened]] [[Lexicon/H1801-1900#H1818|by bloodguilt]] [[Lexicon/H5301-5400#H5315|...]] [[Lexicon/H5101-5200#H5127|will flee]] [[Lexicon/H5701-5800#H5704|into]] [[Lexicon/H901-1000#H953|the Pit ;]] [[Lexicon/H401-500#H408|let no one]] [[Lexicon/H8501-8600#H8551|support]]
 
 ##### Proverbs 28 - 18
-[[Lexicon/H1901-2000#H1980|He who walks]] [[Lexicon/H8501-8600#H8549|with integrity]] [[Lexicon/H3401-3500#H3467|will be kept safe ,]] [[Lexicon/H6101-6200#H6140|but whoever is perverse]] [[Lexicon/H1801-1900#H1870|(in his) ways]] [[Lexicon/H201-300#H259|will suddenly]] [[Lexicon/H5301-5400#H5307|fall.]]
+[[Lexicon/H1901-2000#H1980|He who walks]] [[Lexicon/H8501-8600#H8549|with integrity]] [[Lexicon/H3401-3500#H3467|will be kept safe ,]] [[Lexicon/H6101-6200#H6140|but whoever is perverse]] [[Lexicon/H1801-1900#H1870|[in his] ways]] [[Lexicon/H201-300#H259|will suddenly]] [[Lexicon/H5301-5400#H5307|fall.]]
 
 ##### Proverbs 28 - 19
 [[Lexicon/H5601-5700#H5647|The one who works]] [[Lexicon/H101-200#H127|his land]] [[Lexicon/H7601-7700#H7646|will have plenty of]] [[Lexicon/H3801-3900#H3899|food ,]] [[Lexicon/H7201-7300#H7291|but whoever chases]] [[Lexicon/H7301-7400#H7386|fantasies]] [[Lexicon/H7601-7700#H7646|will have his fill]] [[Lexicon/H7301-7400#H7389|of poverty.]]
@@ -70,7 +70,7 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H530|A faithful]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H7201-7300#H7227|will abound]] [[Lexicon/H1201-1300#H1293|with blessings ,]] [[Lexicon/H201-300#H213|but one eager]] [[Lexicon/H6201-6300#H6238|to be rich]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H5301-5400#H5352|go unpunished.]]
 
 ##### Proverbs 28 - 21
-[[Lexicon/H5201-5300#H5234|To show partiality]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H3801-3900#H3808|(is) not]] [[Lexicon/H2801-2900#H2896|good ,]] [[Lexicon/H1301-1400#H1397|yet a man]] [[Lexicon/H6501-6600#H6586|will do wrong]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H6501-6600#H6595|a piece]] [[Lexicon/H3801-3900#H3899|of bread.]]
+[[Lexicon/H5201-5300#H5234|To show partiality]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H3801-3900#H3808|[is] not]] [[Lexicon/H2801-2900#H2896|good ,]] [[Lexicon/H1301-1400#H1397|yet a man]] [[Lexicon/H6501-6600#H6586|will do wrong]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H6501-6600#H6595|a piece]] [[Lexicon/H3801-3900#H3899|of bread.]]
 
 ##### Proverbs 28 - 22
 [[Lexicon/H7401-7500#H7451|A stingy]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H901-1000#H926|hastens]] [[Lexicon/H1901-2000#H1952|after wealth]] [[Lexicon/H3801-3900#H3808|and does not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2601-2700#H2639|poverty]] [[Lexicon/H901-1000#H935|awaits him.]]

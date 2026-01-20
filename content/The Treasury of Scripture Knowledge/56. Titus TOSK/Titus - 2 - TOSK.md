@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Titus 2 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/56 - Titus|← Titus]]** | [[The Treasury of Scripture Knowledge/56. Titus TOSK/Titus - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/56. Titus TOSK/Titus - 3 - TOSK|Ch 3 →]]
+**[[Home/Scripture/56 - Titus|← Titus]]** | [[The Treasury of Scripture Knowledge/56. Titus TOSK/Titus - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/56. Titus TOSK/Titus - 3 - TOSK|Ch 3 →]]
 
 ---
 

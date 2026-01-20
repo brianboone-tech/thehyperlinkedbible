@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Matthew 15 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 16 - TOSK|Ch 16 →]]
+**[[Home/Scripture/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 16 - TOSK|Ch 16 →]]
 
 ---
 

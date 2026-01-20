@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Luke 17
+# Luke-R 17
 
-[[Readable Bible/42 - Luke/Luke 16|← Luke 16]] | [[Readable Bible/42 - Luke/Luke 18|Luke 18 →]]
+**[[Home/Scripture/42 - Luke|Luke]]**
+
+[[Readable Bible/42 - Luke/Luke 16#Luke-R 16| Luke 16]] - [[Readable Bible/42 - Luke/Luke 18#Luke-R 18| Luke 18]]
 
 ---
 

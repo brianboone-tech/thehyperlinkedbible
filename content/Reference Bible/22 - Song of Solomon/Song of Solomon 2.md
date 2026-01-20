@@ -19,7 +19,7 @@ cssClasses: lexicon
 [[Lexicon/H8501-8600#H8598|Like an apple tree]] [[Lexicon/H6001-6100#H6086|among the trees]] [[Lexicon/H3201-3300#H3293|of the forest]] [[Lexicon/H3601-3700#H3651|-]] [[Lexicon/H1701-1800#H1730|is my beloved]] [[Lexicon/H901-1000#H996|among]] [[Lexicon/H1101-1200#H1121|the young men.]] [[Lexicon/H2501-2600#H2530|I delight]] [[Lexicon/H3401-3500#H3427|to sit]] [[Lexicon/H6701-6800#H6738|in his shade ,]] [[Lexicon/H6501-6600#H6529|and his fruit]] [[Lexicon/H4901-5000#H4966|is sweet]] [[Lexicon/H2401-2500#H2441|to my taste.]]
 
 ##### Song of Solomon 2 - 4
-[[Lexicon/H901-1000#H935|He has brought me]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H3101-3200#H3196|of wine ,]] [[Lexicon/H1701-1800#H1714|and his banner]] [[Lexicon/H5901-6000#H5921|over me (is)]] [[Lexicon/H101-200#H160|love.]]
+[[Lexicon/H901-1000#H935|He has brought me]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H3101-3200#H3196|of wine ,]] [[Lexicon/H1701-1800#H1714|and his banner]] [[Lexicon/H5901-6000#H5921|over me [is]]] [[Lexicon/H101-200#H160|love.]]
 
 ##### Song of Solomon 2 - 5
 [[Lexicon/H5501-5600#H5564|Sustain me]] [[Lexicon/H801-900#H809|with raisins ;]] [[Lexicon/H7501-7600#H7502|refresh me]] [[Lexicon/H8501-8600#H8598|with apples ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H2401-2500#H2470|am faint]] [[Lexicon/H101-200#H160|with love.]]
@@ -31,7 +31,7 @@ cssClasses: lexicon
 [[Lexicon/H1301-1400#H1323|O daughters]] [[Lexicon/H3301-3400#H3389|of Jerusalem ,]] [[Lexicon/H7601-7700#H7650|I adjure]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H6601-6700#H6643|by the gazelles]] [[Lexicon/H101-200#H176|and]] [[Lexicon/H301-400#H355|does]] [[Lexicon/H7701-7800#H7704|of the field :]] [[Lexicon/H501-600#H518|Do not]] [[Lexicon/H5701-5800#H5782|arouse]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H5701-5800#H5782|awaken]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H160|love]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H2601-2700#H2654|the time is right.]]
 
 ##### Song of Solomon 2 - 8
-[[Lexicon/H6901-7000#H6963|Listen !]] [[Lexicon/H1701-1800#H1730|My beloved (approaches).]] [[Lexicon/H2001-2100#H2009|Look !]] [[Lexicon/H2001-2100#H2088|Here]] [[Lexicon/H901-1000#H935|he comes ,]] [[Lexicon/H1801-1900#H1801|leaping]] [[Lexicon/H5901-6000#H5921|across]] [[Lexicon/H2001-2100#H2022|the mountains ,]] [[Lexicon/H7001-7100#H7092|bounding]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H1301-1400#H1389|the hills.]]
+[[Lexicon/H6901-7000#H6963|Listen !]] [[Lexicon/H1701-1800#H1730|My beloved [approaches].]] [[Lexicon/H2001-2100#H2009|Look !]] [[Lexicon/H2001-2100#H2088|Here]] [[Lexicon/H901-1000#H935|he comes ,]] [[Lexicon/H1801-1900#H1801|leaping]] [[Lexicon/H5901-6000#H5921|across]] [[Lexicon/H2001-2100#H2022|the mountains ,]] [[Lexicon/H7001-7100#H7092|bounding]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H1301-1400#H1389|the hills.]]
 
 ##### Song of Solomon 2 - 9
 [[Lexicon/H1701-1800#H1730|My beloved]] [[Lexicon/H1801-1900#H1819|is like]] [[Lexicon/H6601-6700#H6643|a gazelle]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H6001-6100#H6082|a young]] [[Lexicon/H301-400#H354|stag.]] [[Lexicon/H2001-2100#H2009|Look ,]] [[Lexicon/H2001-2100#H2088|he]] [[Lexicon/H5901-6000#H5975|stands]] [[Lexicon/H301-400#H310|behind]] [[Lexicon/H3701-3800#H3796|our wall ,]] [[Lexicon/H7601-7700#H7688|gazing]] [[Lexicon/H4401-4500#H4480|through]] [[Lexicon/H2401-2500#H2474|the windows ,]] [[Lexicon/H6601-6700#H6692|peering]] [[Lexicon/H4401-4500#H4480|through]] [[Lexicon/H2701-2800#H2762|the lattice.]]
@@ -55,7 +55,7 @@ cssClasses: lexicon
 [[Lexicon/H201-300#H270|Catch]] [[Lexicon/H7701-7800#H7776|the foxes —]] [[Lexicon/H6901-7000#H6996|the little]] [[Lexicon/H7701-7800#H7776|foxes]] [[Lexicon/H2201-2300#H2254|that ruin]] [[Lexicon/H3701-3800#H3754|the vineyards —]] [[Lexicon/H3701-3800#H3754|for our vineyards]] [[Lexicon/H5501-5600#H5563|are in bloom.]]
 
 ##### Song of Solomon 2 - 16
-[[Lexicon/H1701-1800#H1730|My beloved]] [[Lexicon/H501-600#H589|and I am]] [[Lexicon/H7401-7500#H7462|he pastures (his flock)]] [[Lexicon/H7701-7800#H7799|among the lilies.]]
+[[Lexicon/H1701-1800#H1730|My beloved]] [[Lexicon/H501-600#H589|and I am]] [[Lexicon/H7401-7500#H7462|he pastures [his flock]]] [[Lexicon/H7701-7800#H7799|among the lilies.]]
 
 ##### Song of Solomon 2 - 17
 [[Lexicon/H5701-5800#H5704|Before]] [[Lexicon/H3101-3200#H3117|the day]] [[Lexicon/H6301-6400#H6315|breaks]] [[Lexicon/H6701-6800#H6752|and shadows]] [[Lexicon/H5101-5200#H5127|flee ,]] [[Lexicon/H5401-5500#H5437|turn ,]] [[Lexicon/H1701-1800#H1730|my beloved ,]] [[Lexicon/H1801-1900#H1819|and be like]] [[Lexicon/H6601-6700#H6643|a gazelle]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H6001-6100#H6082|a young stag]] [[Lexicon/H301-400#H354|...]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H2001-2100#H2022|the mountains]] [[Lexicon/H1301-1400#H1336|of Bether.]]

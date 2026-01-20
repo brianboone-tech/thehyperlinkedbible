@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Zechariah 14 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/38 - Zechariah|← Zechariah]]** | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 13 - TOSK|← Ch 13]]
+**[[Home/Scripture/38 - Zechariah|← Zechariah]]** | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 13 - TOSK|← Ch 13]]
 
 ---
 

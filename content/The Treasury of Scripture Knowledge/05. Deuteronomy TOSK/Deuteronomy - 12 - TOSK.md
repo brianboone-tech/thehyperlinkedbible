@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Deuteronomy 12 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 13 - TOSK|Ch 13 →]]
+**[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 13 - TOSK|Ch 13 →]]
 
 ---
 

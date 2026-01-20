@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Samuel 13
+# 1 Samuel-R 13
 
-[[Readable Bible/09 - 1 Samuel/1 Samuel 12|← 1 Samuel 12]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 14|1 Samuel 14 →]]
+**[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 12#1 Samuel-R 12| 1 Samuel 12]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 14#1 Samuel-R 14| 1 Samuel 14]]
 
 ---
 

@@ -1,7 +1,3 @@
----
-cssclasses: chiasm
----
-
 - A. [[Readable Bible/01 - Genesis/Genesis 5#Genesis 5 . 24|Genesis 5:24a]] And Enoch <span style="color: #c0392b; font-weight: bold;">walked with God</span>:
 
     - B. [[Readable Bible/01 - Genesis/Genesis 5#Genesis 5 . 24|Genesis 5:24b]] and <span style="color: #2980b9; font-weight: bold;">he was not</span>;

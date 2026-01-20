@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 4
+# Ezekiel-R 4
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 3|← Ezekiel 3]] | [[Readable Bible/26 - Ezekiel/Ezekiel 5|Ezekiel 5 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 3#Ezekiel-R 3| Ezekiel 3]] - [[Readable Bible/26 - Ezekiel/Ezekiel 5#Ezekiel-R 5| Ezekiel 5]]
 
 ---
 
@@ -57,5 +59,5 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 4#Ezekiel 4 - 16|16]] Then He told me, “Son of man, I am going to cut off the supply of food in Jerusalem. They will anxiously eat bread rationed by weight, and in despair they will drink water by measure.  | [[Chiasm/Chiasm - 26 - Ezekiel 4 . 16 - 5 . 17|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 4 - TOSK#Verse 16|TOSK]] |
 
 ##### Ezekiel 4 . 17
-[[Reference Bible/26 - Ezekiel/Ezekiel 4#Ezekiel 4 - 17|17]] So they will lack food and water; they will be appalled at the sight of one another wasting away in their iniquity.  | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 4 - TOSK#Verse 17|TOSK]] ||
+[[Reference Bible/26 - Ezekiel/Ezekiel 4#Ezekiel 4 - 17|17]] So they will lack food and water; they will be appalled at the sight of one another wasting away in their iniquity.  | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 4 - TOSK#Verse 17|TOSK]] | |
 

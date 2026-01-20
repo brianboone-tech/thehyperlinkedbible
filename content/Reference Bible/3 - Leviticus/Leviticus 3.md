@@ -12,7 +12,7 @@ Book: Leviticus
 ---
 
 ##### Leviticus 3 - 1
-[[Lexicon/H501-600#H518|(“) If]] [[Lexicon/H7101-7200#H7133|one’s offering]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|(is) a peace offering]] [[Lexicon/H1901-2000#H1931|and he]] [[Lexicon/H7101-7200#H7126|offers]] [[Lexicon/H4401-4500#H4480|an animal from]] [[Lexicon/H1201-1300#H1241|the herd ,]] [[Lexicon/H501-600#H518|whether]] [[Lexicon/H2101-2200#H2145|male]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H5301-5400#H5347|female ,]] [[Lexicon/H7101-7200#H7126|he must present]] [[Lexicon/H8501-8600#H8549|it without blemish]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD.]]
+[[Lexicon/H501-600#H518|[“] If]] [[Lexicon/H7101-7200#H7133|one’s offering]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|[is] a peace offering]] [[Lexicon/H1901-2000#H1931|and he]] [[Lexicon/H7101-7200#H7126|offers]] [[Lexicon/H4401-4500#H4480|an animal from]] [[Lexicon/H1201-1300#H1241|the herd ,]] [[Lexicon/H501-600#H518|whether]] [[Lexicon/H2101-2200#H2145|male]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H5301-5400#H5347|female ,]] [[Lexicon/H7101-7200#H7126|he must present]] [[Lexicon/H8501-8600#H8549|it without blemish]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 3#Leviticus 3 - 1|LXX]] |
 
 ##### Leviticus 3 - 2
@@ -20,7 +20,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 3#Leviticus 3 - 2|LXX]] |
 
 ##### Leviticus 3 - 3
-[[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|From the peace offering]] [[Lexicon/H7101-7200#H7126|he is to bring]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD :]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3601-3700#H3680|that covers]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7130|the entrails ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|is on]] [[Lexicon/H7101-7200#H7130|(them) ,]]
+[[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|From the peace offering]] [[Lexicon/H7101-7200#H7126|he is to bring]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD :]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3601-3700#H3680|that covers]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7130|the entrails ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|is on]] [[Lexicon/H7101-7200#H7130|[them] ,]]
 | [[LXX Reference/3 - Leviticus/Leviticus 3#Leviticus 3 - 3|LXX]] |
 
 ##### Leviticus 3 - 4
@@ -44,7 +44,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 3#Leviticus 3 - 8|LXX]] |
 
 ##### Leviticus 3 - 9
-[[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|And from the peace offering]] [[Lexicon/H7101-7200#H7126|he shall bring]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H2401-2500#H2459|consisting of its fat :]] [[Lexicon/H8501-8600#H8549|the entire]] [[Lexicon/H401-500#H451|fat tail]] [[Lexicon/H5401-5500#H5493|cut off]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5980|close to]] [[Lexicon/H6001-6100#H6096|the backbone ,]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3601-3700#H3680|that covers]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7130|the entrails ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H801-900#H834|that (is)]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H7101-7200#H7130|(them) ,]]
+[[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|And from the peace offering]] [[Lexicon/H7101-7200#H7126|he shall bring]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H2401-2500#H2459|consisting of its fat :]] [[Lexicon/H8501-8600#H8549|the entire]] [[Lexicon/H401-500#H451|fat tail]] [[Lexicon/H5401-5500#H5493|cut off]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5980|close to]] [[Lexicon/H6001-6100#H6096|the backbone ,]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3601-3700#H3680|that covers]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7130|the entrails ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H801-900#H834|that [is]]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H7101-7200#H7130|[them] ,]]
 | [[LXX Reference/3 - Leviticus/Leviticus 3#Leviticus 3 - 9|LXX]] |
 
 ##### Leviticus 3 - 10
@@ -64,7 +64,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 3#Leviticus 3 - 13|LXX]] |
 
 ##### Leviticus 3 - 14
-[[Lexicon/H4401-4500#H4480|And from]] [[Lexicon/H7101-7200#H7133|his offering]] [[Lexicon/H7101-7200#H7126|he shall present]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD :]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3601-3700#H3680|that covers]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7130|the entrails ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|is on]] [[Lexicon/H7101-7200#H7130|(them) ,]]
+[[Lexicon/H4401-4500#H4480|And from]] [[Lexicon/H7101-7200#H7133|his offering]] [[Lexicon/H7101-7200#H7126|he shall present]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD :]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3601-3700#H3680|that covers]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7130|the entrails ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|is on]] [[Lexicon/H7101-7200#H7130|[them] ,]]
 | [[LXX Reference/3 - Leviticus/Leviticus 3#Leviticus 3 - 14|LXX]] |
 
 ##### Leviticus 3 - 15
@@ -72,7 +72,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 3#Leviticus 3 - 15|LXX]] |
 
 ##### Leviticus 3 - 16
-[[Lexicon/H3501-3600#H3548|Then the priest]] [[Lexicon/H6901-7000#H6999|is to burn]] [[Lexicon/H3801-3900#H3899|the food]] [[Lexicon/H4101-4200#H4196|on the altar]] [[Lexicon/H801-900#H801|as an offering made by fire ,]] [[Lexicon/H5201-5300#H5207|a pleasing]] [[Lexicon/H7301-7400#H7381|aroma.]] [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3001-3100#H3068|(is) the LORD’s.]]
+[[Lexicon/H3501-3600#H3548|Then the priest]] [[Lexicon/H6901-7000#H6999|is to burn]] [[Lexicon/H3801-3900#H3899|the food]] [[Lexicon/H4101-4200#H4196|on the altar]] [[Lexicon/H801-900#H801|as an offering made by fire ,]] [[Lexicon/H5201-5300#H5207|a pleasing]] [[Lexicon/H7301-7400#H7381|aroma.]] [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H2401-2500#H2459|the fat]] [[Lexicon/H3001-3100#H3068|[is] the LORD’s.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 3#Leviticus 3 - 16|LXX]] |
 
 ##### Leviticus 3 - 17

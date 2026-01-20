@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 101 - 1
-[[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H7801-7900#H7891|I will sing]] [[Lexicon/H2601-2700#H2617|of (Your) loving devotion]] [[Lexicon/H4901-5000#H4941|and justice ;]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H2101-2200#H2167|I will sing praises.]]
+[[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H7801-7900#H7891|I will sing]] [[Lexicon/H2601-2700#H2617|of [Your] loving devotion]] [[Lexicon/H4901-5000#H4941|and justice ;]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H2101-2200#H2167|I will sing praises.]]
 | [[LXX Reference/19 - Psalms/Psalms 101#Psalm 101 - 1|LXX]] |
 
 ##### Psalm 101 - 2
@@ -30,7 +30,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 101#Psalm 101 - 5|LXX]] |
 
 ##### Psalm 101 - 6
-[[Lexicon/H5801-5900#H5869|My eyes (favor)]] [[Lexicon/H501-600#H539|the faithful]] [[Lexicon/H701-800#H776|of the land ,]] [[Lexicon/H3401-3500#H3427|that they may dwell]] [[Lexicon/H5901-6000#H5978|with me ;]] [[Lexicon/H1901-2000#H1980|he who walks]] [[Lexicon/H1801-1900#H1870|in the way]] [[Lexicon/H8501-8600#H8549|of integrity]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H8301-8400#H8334|shall minister to me.]]
+[[Lexicon/H5801-5900#H5869|My eyes [favor]]] [[Lexicon/H501-600#H539|the faithful]] [[Lexicon/H701-800#H776|of the land ,]] [[Lexicon/H3401-3500#H3427|that they may dwell]] [[Lexicon/H5901-6000#H5978|with me ;]] [[Lexicon/H1901-2000#H1980|he who walks]] [[Lexicon/H1801-1900#H1870|in the way]] [[Lexicon/H8501-8600#H8549|of integrity]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H8301-8400#H8334|shall minister to me.]]
 | [[LXX Reference/19 - Psalms/Psalms 101#Psalm 101 - 6|LXX]] |
 
 ##### Psalm 101 - 7

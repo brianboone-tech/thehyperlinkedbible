@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hebrews 3
+# Hebrews-R 3
 
-[[Readable Bible/58 - Hebrews/Hebrews 2|← Hebrews 2]] | [[Readable Bible/58 - Hebrews/Hebrews 4|Hebrews 4 →]]
+**[[Home/Scripture/58 - Hebrews|Hebrews]]**
+
+[[Readable Bible/58 - Hebrews/Hebrews 2#Hebrews-R 2| Hebrews 2]] - [[Readable Bible/58 - Hebrews/Hebrews 4#Hebrews-R 4| Hebrews 4]]
 
 ---
 

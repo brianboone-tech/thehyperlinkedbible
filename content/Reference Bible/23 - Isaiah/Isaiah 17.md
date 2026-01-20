@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Isaiah 17 - 1
-[[Lexicon/H4801-4900#H4853|(This is) the burden]] [[Lexicon/H1801-1900#H1834|against Damascus :]] [[Lexicon/H2001-2100#H2009|“ Behold ,]] [[Lexicon/H1801-1900#H1834|Damascus]] [[Lexicon/H5401-5500#H5493|is no longer]] [[Lexicon/H5801-5900#H5892|a city ;]] [[Lexicon/H1901-2000#H1961|it has become]] [[Lexicon/H4501-4600#H4596|a heap]] [[Lexicon/H4601-4700#H4654|of ruins.]]
+[[Lexicon/H4801-4900#H4853|[This is] the burden]] [[Lexicon/H1801-1900#H1834|against Damascus :]] [[Lexicon/H2001-2100#H2009|“ Behold ,]] [[Lexicon/H1801-1900#H1834|Damascus]] [[Lexicon/H5401-5500#H5493|is no longer]] [[Lexicon/H5801-5900#H5892|a city ;]] [[Lexicon/H1901-2000#H1961|it has become]] [[Lexicon/H4501-4600#H4596|a heap]] [[Lexicon/H4601-4700#H4654|of ruins.]]
 
 ##### Isaiah 17 - 2
 [[Lexicon/H5801-5900#H5892|The cities]] [[Lexicon/H6101-6200#H6177|of Aroer]] [[Lexicon/H5701-5800#H5800|are forsaken ;]] [[Lexicon/H1901-2000#H1961|they will be left]] [[Lexicon/H5701-5800#H5739|to the flocks ,]] [[Lexicon/H7201-7300#H7257|which will lie down]] [[Lexicon/H301-400#H369|with no one]] [[Lexicon/H2701-2800#H2729|to fear.]]
@@ -49,4 +49,4 @@ cssClasses: lexicon
 [[Lexicon/H3801-3900#H3816|The nations]] [[Lexicon/H7501-7600#H7582|rage]] [[Lexicon/H7501-7600#H7588|like the rush]] [[Lexicon/H7201-7300#H7227|of many]] [[Lexicon/H4301-4400#H4325|waters.]] [[Lexicon/H1601-1700#H1605|He rebukes]] [[Lexicon/H5101-5200#H5127|and they flee]] [[Lexicon/H4801-4900#H4801|far away ,]] [[Lexicon/H7201-7300#H7291|driven]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H7301-7400#H7307|the wind]] [[Lexicon/H4601-4700#H4671|like chaff]] [[Lexicon/H2001-2100#H2022|on the hills ,]] [[Lexicon/H1501-1600#H1534|like tumbleweeds]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H5401-5500#H5492|a gale.]]
 
 ##### Isaiah 17 - 14
-[[Lexicon/H6201-6300#H6256|-]] [[Lexicon/H6101-6200#H6153|In the evening ,]] [[Lexicon/H2001-2100#H2009|there is]] [[Lexicon/H1001-1100#H1091|sudden terror !]] [[Lexicon/H2901-3000#H2962|Before]] [[Lexicon/H1201-1300#H1242|morning ,]] [[Lexicon/H301-400#H369|they are no more !]] [[Lexicon/H2001-2100#H2088|This]] [[Lexicon/H2501-2600#H2506|(is) the portion]] [[Lexicon/H8101-8200#H8154|of those who loot us]] [[Lexicon/H1401-1500#H1486|and the lot]] [[Lexicon/H901-1000#H962|of those who plunder us.]]
+[[Lexicon/H6201-6300#H6256|-]] [[Lexicon/H6101-6200#H6153|In the evening ,]] [[Lexicon/H2001-2100#H2009|there is]] [[Lexicon/H1001-1100#H1091|sudden terror !]] [[Lexicon/H2901-3000#H2962|Before]] [[Lexicon/H1201-1300#H1242|morning ,]] [[Lexicon/H301-400#H369|they are no more !]] [[Lexicon/H2001-2100#H2088|This]] [[Lexicon/H2501-2600#H2506|[is] the portion]] [[Lexicon/H8101-8200#H8154|of those who loot us]] [[Lexicon/H1401-1500#H1486|and the lot]] [[Lexicon/H901-1000#H962|of those who plunder us.]]

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah 28
+# Jeremiah-R 28
 
-[[Readable Bible/24 - Jeremiah/Jeremiah 27|← Jeremiah 27]] | [[Readable Bible/24 - Jeremiah/Jeremiah 29|Jeremiah 29 →]]
+**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 27#Jeremiah-R 27| Jeremiah 27]] - [[Readable Bible/24 - Jeremiah/Jeremiah 29#Jeremiah-R 29| Jeremiah 29]]
 
 ---
 

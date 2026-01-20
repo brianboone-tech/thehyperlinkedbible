@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Amos 5
+# Amos-R 5
 
-[[Readable Bible/30 - Amos/Amos 4|← Amos 4]] | [[Readable Bible/30 - Amos/Amos 6|Amos 6 →]]
+**[[Home/Scripture/30 - Amos|Amos]]**
+
+[[Readable Bible/30 - Amos/Amos 4#Amos-R 4| Amos 4]] - [[Readable Bible/30 - Amos/Amos 6#Amos-R 6| Amos 6]]
 
 ---
 

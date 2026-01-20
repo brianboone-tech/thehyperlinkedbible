@@ -36,22 +36,22 @@ Gebal, [[Lexicon/G2501-2600#G2532|and]] Ammon, [[Lexicon/G2501-2600#G2532|and]] 
 [[Lexicon/G2501-2600#G2532|For even]] [[Lexicon/G2501-2600#G2532|also]] Assyria [[Lexicon/G4801-4900#G4836|came together]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|them;]] [[Lexicon/G1001-1100#G1096|they became]] [[Lexicon/G1501-1600#G1519|an]] [[Lexicon/G401-500#G0484|assistance]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G5201-5300#G5207|sons]] of Lot. [[Lexicon/G1301-1400#G1316|PAUSE.]]
 
 #### Psalms 83 - 9
-[[Lexicon/G4101-4200#G4160|Do]] [[Lexicon/G1401-1500#G1473|to them]] [[Lexicon/G5601-5624#G5613|as]] Midian, [[Lexicon/G2501-2600#G2532|and]] Sisera; [[Lexicon/G5601-5624#G5613|as]] Jabin [[Lexicon/G1701-1800#G1722|at]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5493|rushing stream]] Kishon!
+[[Lexicon/G4101-4200#G4160|Do]] [[Lexicon/G1401-1500#G1473|to them]] [[Lexicon/G5601-5700#G5613|as]] Midian, [[Lexicon/G2501-2600#G2532|and]] Sisera; [[Lexicon/G5601-5700#G5613|as]] Jabin [[Lexicon/G1701-1800#G1722|at]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5493|rushing stream]] Kishon!
 
 #### Psalms 83 - 10
-[[Lexicon/G1801-1900#G1842|They were utterly destroyed]] [[Lexicon/G1701-1800#G1722|in]] En-dor. [[Lexicon/G1001-1100#G1096|They became]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G2801-2900#G2874|dung]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G1001-1100#G1093|earth.]]
+[[Lexicon/G1801-1900#G1842|They were utterly destroyed]] [[Lexicon/G1701-1800#G1722|in]] En-dor. [[Lexicon/G1001-1100#G1096|They became]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G2801-2900#G2874|dung]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G1001-1100#G1093|earth.]]
 
 #### Psalms 83 - 11
-[[Lexicon/G5001-5100#G5087|Make]] [[Lexicon/G701-800#G0758|their rulers]] [[Lexicon/G5601-5624#G5613|as]] Oreb [[Lexicon/G2501-2600#G2532|and]] Zeeb, [[Lexicon/G2501-2600#G2532|and]] Zebah [[Lexicon/G2501-2600#G2532|and]] Zalmunna [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G701-800#G0758|their rulers!]]
+[[Lexicon/G5001-5100#G5087|Make]] [[Lexicon/G701-800#G0758|their rulers]] [[Lexicon/G5601-5700#G5613|as]] Oreb [[Lexicon/G2501-2600#G2532|and]] Zeeb, [[Lexicon/G2501-2600#G2532|and]] Zebah [[Lexicon/G2501-2600#G2532|and]] Zalmunna [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G701-800#G0758|their rulers!]]
 
 #### Psalms 83 - 12
 [[Lexicon/G3701-3800#G3748|Who]] [[Lexicon/G2001-2100#G2036|said,]] [[Lexicon/G2801-2900#G2816|We should inherit]] [[Lexicon/G1401-1500#G1438|for ourselves]]
 
 #### Psalms 83 - 13
-[[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|my God,]] [[Lexicon/G5001-5100#G5087|make]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5101-5200#G5164|a whirlwind;]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2562|stubble]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G401-500#G0417|of the wind!]]
+[[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|my God,]] [[Lexicon/G5001-5100#G5087|make]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5101-5200#G5164|a whirlwind;]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2501-2600#G2562|stubble]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G401-500#G0417|of the wind!]]
 
 #### Psalms 83 - 14
-[[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1301-1400#G1312|shall burn up]] [[Lexicon/G1401-1500#G1409|a forest;]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5301-5400#G5395|a flame]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G2601-2700#G2618|incinerates]] [[Lexicon/G3701-3800#G3735|mountains.]]
+[[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1301-1400#G1312|shall burn up]] [[Lexicon/G1401-1500#G1409|a forest;]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5301-5400#G5395|a flame]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G2601-2700#G2618|incinerates]] [[Lexicon/G3701-3800#G3735|mountains.]]
 
 #### Psalms 83 - 15
 [[Lexicon/G3701-3800#G3779|So]] [[Lexicon/G2601-2700#G2614|shall you pursue]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G2601-2700#G2616|your gale;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3709|your anger]] [[Lexicon/G5001-5100#G5015|you shall disturb]] [[Lexicon/G1401-1500#G1473|them.]]

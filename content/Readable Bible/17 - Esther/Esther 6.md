@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Esther 6
+# Esther-R 6
 
-[[Readable Bible/17 - Esther/Esther 5|← Esther 5]] | [[Readable Bible/17 - Esther/Esther 7|Esther 7 →]]
+**[[Home/Scripture/17 - Esther|Esther]]**
+
+[[Readable Bible/17 - Esther/Esther 5#Esther-R 5| Esther 5]] - [[Readable Bible/17 - Esther/Esther 7#Esther-R 7| Esther 7]]
 
 ---
 

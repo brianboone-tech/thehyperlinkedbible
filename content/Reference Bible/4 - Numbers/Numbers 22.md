@@ -41,7 +41,7 @@ Chapter: "22"
 | [[LXX Reference/4 - Numbers/Numbers 22#Numbers 22 - 7|LXX]] |
 
 ##### Numbers 22 - 8
-[[Lexicon/H3801-3900#H3885|“ Spend]] [[Lexicon/H3901-4000#H3915|the night]] [[Lexicon/H6301-6400#H6311|here , ”]] [[Lexicon/H501-600#H559|(Balaam) replied]] [[Lexicon/H401-500#H413|... ,]] [[Lexicon/H7701-7800#H7725|“ and I will give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1697|you the answer]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|speaks]] [[Lexicon/H401-500#H413|to me. ”]] [[Lexicon/H8201-8300#H8269|So the princes]] [[Lexicon/H4101-4200#H4124|of Moab]] [[Lexicon/H3401-3500#H3427|stayed]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H1101-1200#H1109|Balaam.]]
+[[Lexicon/H3801-3900#H3885|“ Spend]] [[Lexicon/H3901-4000#H3915|the night]] [[Lexicon/H6301-6400#H6311|here , ”]] [[Lexicon/H501-600#H559|[Balaam] replied]] [[Lexicon/H401-500#H413|... ,]] [[Lexicon/H7701-7800#H7725|“ and I will give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1697|you the answer]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|speaks]] [[Lexicon/H401-500#H413|to me. ”]] [[Lexicon/H8201-8300#H8269|So the princes]] [[Lexicon/H4101-4200#H4124|of Moab]] [[Lexicon/H3401-3500#H3427|stayed]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H1101-1200#H1109|Balaam.]]
 | [[LXX Reference/4 - Numbers/Numbers 22#Numbers 22 - 8|LXX]] |
 
 ##### Numbers 22 - 9
@@ -69,7 +69,7 @@ Chapter: "22"
 | [[LXX Reference/4 - Numbers/Numbers 22#Numbers 22 - 14|LXX]] |
 
 ##### Numbers 22 - 15
-[[Lexicon/H1101-1200#H1111|Then Balak]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H3201-3300#H3254|other]] [[Lexicon/H8201-8300#H8269|princes ,]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H7201-7300#H7227|more numerous]] [[Lexicon/H3501-3600#H3513|and more distinguished]] [[Lexicon/H401-500#H428|than the (first messengers).]]
+[[Lexicon/H1101-1200#H1111|Then Balak]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H3201-3300#H3254|other]] [[Lexicon/H8201-8300#H8269|princes ,]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H7201-7300#H7227|more numerous]] [[Lexicon/H3501-3600#H3513|and more distinguished]] [[Lexicon/H401-500#H428|than the [first messengers].]]
 | [[LXX Reference/4 - Numbers/Numbers 22#Numbers 22 - 15|LXX]] |
 
 ##### Numbers 22 - 16
@@ -117,7 +117,7 @@ Chapter: "22"
 | [[LXX Reference/4 - Numbers/Numbers 22#Numbers 22 - 26|LXX]] |
 
 ##### Numbers 22 - 27
-[[Lexicon/H801-900#H860|When the donkey]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H4301-4400#H4397|the angel]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H7201-7300#H7257|she lay down]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H1101-1200#H1109|Balaam ,]] [[Lexicon/H1101-1200#H1109|and (he)]] [[Lexicon/H2701-2800#H2734|became furious]] [[Lexicon/H601-700#H639|...]] [[Lexicon/H5201-5300#H5221|and beat]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H860|(her)]] [[Lexicon/H4701-4800#H4731|with his staff.]]
+[[Lexicon/H801-900#H860|When the donkey]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H4301-4400#H4397|the angel]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H7201-7300#H7257|she lay down]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H1101-1200#H1109|Balaam ,]] [[Lexicon/H1101-1200#H1109|and [he]]] [[Lexicon/H2701-2800#H2734|became furious]] [[Lexicon/H601-700#H639|...]] [[Lexicon/H5201-5300#H5221|and beat]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H860|[her]]] [[Lexicon/H4701-4800#H4731|with his staff.]]
 | [[LXX Reference/4 - Numbers/Numbers 22#Numbers 22 - 27|LXX]] |
 
 ##### Numbers 22 - 28
@@ -157,7 +157,7 @@ Chapter: "22"
 | [[LXX Reference/4 - Numbers/Numbers 22#Numbers 22 - 36|LXX]] |
 
 ##### Numbers 22 - 37
-[[Lexicon/H1101-1200#H1111|And (he)]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1109|Balaam ,]] [[Lexicon/H3801-3900#H3808|“ Did I not]] [[Lexicon/H7901-8000#H7971|send you an urgent summons]] [[Lexicon/H7901-8000#H7971|...]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7101-7200#H7121|...]] [[Lexicon/H4001-4100#H4100|Why]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H1901-2000#H1980|did you not come]] [[Lexicon/H401-500#H413|to me ?]] [[Lexicon/H501-600#H552|Am I really]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H3201-3300#H3201|able]] [[Lexicon/H3501-3600#H3513|to richly reward you ? ”]]
+[[Lexicon/H1101-1200#H1111|And [he]]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1109|Balaam ,]] [[Lexicon/H3801-3900#H3808|“ Did I not]] [[Lexicon/H7901-8000#H7971|send you an urgent summons]] [[Lexicon/H7901-8000#H7971|...]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7101-7200#H7121|...]] [[Lexicon/H4001-4100#H4100|Why]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H1901-2000#H1980|did you not come]] [[Lexicon/H401-500#H413|to me ?]] [[Lexicon/H501-600#H552|Am I really]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H3201-3300#H3201|able]] [[Lexicon/H3501-3600#H3513|to richly reward you ? ”]]
 | [[LXX Reference/4 - Numbers/Numbers 22#Numbers 22 - 37|LXX]] |
 
 ##### Numbers 22 - 38
@@ -169,7 +169,7 @@ Chapter: "22"
 | [[LXX Reference/4 - Numbers/Numbers 22#Numbers 22 - 39|LXX]] |
 
 ##### Numbers 22 - 40
-[[Lexicon/H1101-1200#H1111|Balak]] [[Lexicon/H2001-2100#H2076|sacrificed]] [[Lexicon/H1201-1300#H1241|cattle]] [[Lexicon/H6601-6700#H6629|and sheep ,]] [[Lexicon/H7901-8000#H7971|and he gave (portions)]] [[Lexicon/H1101-1200#H1109|to Balaam]] [[Lexicon/H8201-8300#H8269|and the princes]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H801-900#H854|were with him.]]
+[[Lexicon/H1101-1200#H1111|Balak]] [[Lexicon/H2001-2100#H2076|sacrificed]] [[Lexicon/H1201-1300#H1241|cattle]] [[Lexicon/H6601-6700#H6629|and sheep ,]] [[Lexicon/H7901-8000#H7971|and he gave [portions]]] [[Lexicon/H1101-1200#H1109|to Balaam]] [[Lexicon/H8201-8300#H8269|and the princes]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H801-900#H854|were with him.]]
 | [[LXX Reference/4 - Numbers/Numbers 22#Numbers 22 - 40|LXX]] |
 
 ##### Numbers 22 - 41

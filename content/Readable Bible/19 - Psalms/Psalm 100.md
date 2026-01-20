@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 100
+# Psalm-R 100
 
-[[Readable Bible/19 - Psalms/Psalm 99|← Psalm 99]] | [[Readable Bible/19 - Psalms/Psalm 101|Psalm 101 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 99#Psalm-R 99| Psalm 99]] - [[Readable Bible/19 - Psalms/Psalm 101#Psalm-R 101| Psalm 101]]
 
 ---
 

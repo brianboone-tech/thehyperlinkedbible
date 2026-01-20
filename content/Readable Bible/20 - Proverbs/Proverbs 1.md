@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Proverbs 1
+# Proverbs-R 1
 
-[[Readable Bible/19 - Psalms/Psalm 150|←]] | [[Readable Bible/20 - Proverbs/Proverbs 2|→]]
+**[[Home/Scripture/20 - Proverbs|Proverbs]]**
+
+[[Psalm-R 150|←]] • [[Proverbs-R 2|→]]
 
 ---
 

@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/43 - John|← John]]**
+**[[Home/Scripture/43 - John|← John]]**
 
 ---
 

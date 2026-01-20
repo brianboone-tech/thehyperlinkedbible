@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/57 - Philemon|← Philemon]]**
+**[[Home/Scripture/57 - Philemon|← Philemon]]**
 
 ---
 

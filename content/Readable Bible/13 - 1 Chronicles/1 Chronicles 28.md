@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Chronicles 28
+# 1 Chronicles-R 28
 
-[[Readable Bible/13 - 1 Chronicles/1 Chronicles 27|← 1 Chronicles 27]] | [[Readable Bible/13 - 1 Chronicles/1 Chronicles 29|1 Chronicles 29 →]]
+**[[Home/Scripture/13 - 1 Chronicles|1 Chronicles]]**
+
+[[Readable Bible/13 - 1 Chronicles/1 Chronicles 27#1 Chronicles-R 27| 1 Chronicles 27]] - [[Readable Bible/13 - 1 Chronicles/1 Chronicles 29#1 Chronicles-R 29| 1 Chronicles 29]]
 
 ---
 
@@ -65,7 +67,7 @@ cssClasses: lexicon
 [[Reference Bible/13 - 1 Chronicles/1 Chronicles 28#1 Chronicles 28 - 19|19]]  "All this," said David, "all the details of this plan, the LORD has made clear to me in writing by His hand upon me."  | [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 25.9 to 1 Chronicles 28.19|IP]] | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 28 - TOSK#Verse 19|TOSK]] |
 
 ##### 1 Chronicles 28 . 20
-[[Reference Bible/13 - 1 Chronicles/1 Chronicles 28#1 Chronicles 28 - 20|20]]  David also said to Solomon his son, “Be strong and courageous, and do it. Do not be afraid or discouraged, for the LORD God, my God, is with you. He will neither fail you nor forsake you before all the work for the service of the house of the LORD is finished. | | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 28 - TOSK#Verse 20|TOSK]] | | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 28 - TOSK#Verse 20|TOSK]] | | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 28 - TOSK#Verse 20|TOSK]] |
+[[Reference Bible/13 - 1 Chronicles/1 Chronicles 28#1 Chronicles 28 - 20|20]]  David also said to Solomon his son, “Be strong and courageous, and do it. Do not be afraid or discouraged, for the LORD God, my God, is with you. He will neither fail you nor forsake you before all the work for the service of the house of the LORD is finished. |  | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 28 - TOSK#Verse 20|TOSK]] |  | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 28 - TOSK#Verse 20|TOSK]] |  | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 28 - TOSK#Verse 20|TOSK]] |
 
 ##### 1 Chronicles 28 . 21
 [[Reference Bible/13 - 1 Chronicles/1 Chronicles 28#1 Chronicles 28 - 21|21]]  The divisions of the priests and Levites are ready for all the service of the house of God, and every willing man of every skill will be at your disposal for the work. The officials and all the people are fully at your command.”  | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 28 - TOSK#Verse 21|TOSK]] |

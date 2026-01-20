@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Genesis 14 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 15 - TOSK|Ch 15 →]]
+**[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 15 - TOSK|Ch 15 →]]
 
 ---
 

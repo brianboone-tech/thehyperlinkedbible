@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/62 - 1 John|← 1 John]]**
+**[[Home/Scripture/62 - 1 John|← 1 John]]**
 
 ---
 

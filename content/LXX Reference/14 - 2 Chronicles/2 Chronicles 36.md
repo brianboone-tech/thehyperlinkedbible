@@ -7,7 +7,7 @@ Testament: Old
 
 # 2 Chronicles 36
 
-[[LXX Reference/14 - 2 Chronicles/2 Chronicles 35|←]]
+[[LXX Reference/14 - 2 Chronicles/2 Chronicles 35|←]] • [[LXX Reference/14 - 2 Chronicles/2 Chronicles 37|→]]
 
 ---
 

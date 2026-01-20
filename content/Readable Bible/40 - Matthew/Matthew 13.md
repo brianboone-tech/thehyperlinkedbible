@@ -5,14 +5,16 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew 13
+# Matthew-R 13
 
-[[Readable Bible/40 - Matthew/Matthew 12|← Matthew 12]] | [[Readable Bible/40 - Matthew/Matthew 14|Matthew 14 →]]
+**[[Home/Scripture/40 - Matthew|Matthew]]**
+
+[[Readable Bible/40 - Matthew/Matthew 12#Matthew-R 12| Matthew 12]] - [[Readable Bible/40 - Matthew/Matthew 14#Matthew-R 14| Matthew 14]]
 
 ---
 
 ##### Matthew 13 . 1
-[[Reference Bible/40 - Matthew/Matthew 13#Matthew 13 - 1|1]] That same day Jesus went out of the house and sat by the sea.  | | [[Chiasm/Chiasm - 40 - Matthew 13 . 01 - 43|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 13 - TOSK#Verse 1|TOSK]] |
+[[Reference Bible/40 - Matthew/Matthew 13#Matthew 13 - 1|1]] That same day Jesus went out of the house and sat by the sea.   || [[Chiasm/Chiasm - 40 - Matthew 13 . 01 - 43|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 13 - TOSK#Verse 1|TOSK]] |
 
 ##### Matthew 13 . 2
 [[Reference Bible/40 - Matthew/Matthew 13#Matthew 13 - 2|2]] Such large crowds gathered around Him that He got into a boat and sat down, while all the people stood on the shore.  | [[Chiasm/Chiasm - 40 - Matthew 13 . 01 - 43|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 13 - TOSK#Verse 2|TOSK]] |

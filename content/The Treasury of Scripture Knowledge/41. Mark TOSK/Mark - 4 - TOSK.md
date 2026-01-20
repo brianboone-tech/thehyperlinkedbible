@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Mark 4 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/41 - Mark|← Mark]]** | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 5 - TOSK|Ch 5 →]]
+**[[Home/Scripture/41 - Mark|← Mark]]** | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 5 - TOSK|Ch 5 →]]
 
 ---
 

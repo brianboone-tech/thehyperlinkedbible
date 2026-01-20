@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Daniel 11
+# Daniel-R 11
 
-[[Readable Bible/27 - Daniel/Daniel 10|← Daniel 10]] | [[Readable Bible/27 - Daniel/Daniel 12|Daniel 12 →]]
+**[[Home/Scripture/27 - Daniel|Daniel]]**
+
+[[Readable Bible/27 - Daniel/Daniel 10#Daniel-R 10| Daniel 10]] - [[Readable Bible/27 - Daniel/Daniel 12#Daniel-R 12| Daniel 12]]
 
 ---
 

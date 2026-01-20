@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 143
+# Psalm-R 143
 
-[[Readable Bible/19 - Psalms/Psalm 142|← Psalm 142]] | [[Readable Bible/19 - Psalms/Psalm 144|Psalm 144 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 142#Psalm-R 142| Psalm 142]] - [[Readable Bible/19 - Psalms/Psalm 144#Psalm-R 144| Psalm 144]]
 
 ---
 

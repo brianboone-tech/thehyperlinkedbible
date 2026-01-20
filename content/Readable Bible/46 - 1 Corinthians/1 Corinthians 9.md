@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Corinthians 9
+# 1 Corinthians-R 9
 
-[[Readable Bible/46 - 1 Corinthians/1 Corinthians 8|← 1 Corinthians 8]] | [[Readable Bible/46 - 1 Corinthians/1 Corinthians 10|1 Corinthians 10 →]]
+**[[Home/Scripture/46 - 1 Corinthians|1 Corinthians]]**
+
+[[Readable Bible/46 - 1 Corinthians/1 Corinthians 8#1 Corinthians-R 8| 1 Corinthians 8]] - [[Readable Bible/46 - 1 Corinthians/1 Corinthians 10#1 Corinthians-R 10| 1 Corinthians 10]]
 
 ---
 
@@ -49,7 +51,7 @@ cssClasses: lexicon
 
 ##### 1 Corinthians 9 . 13
 [[Reference Bible/46 - 1 Corinthians/1 Corinthians 9#1 Corinthians 9 - 13|13]] Do you not know that those who work in the temple eat of its food, and those who serve at the altar partake of its offerings?  1 Corinthians 9:13
- | [[Readable Bible/05 - Deuteronomy/Deuteronomy 18#Deuteronomy 18 . 1|Deuteronomy 18:1–3 - A]] | [[Readable Bible/03 - Leviticus/Leviticus 6#Leviticus 6 . 16|Leviticus 6:16 - A]] | [[Readable Bible/03 - Leviticus/Leviticus 6#Leviticus 6 . 26|Leviticus 6:26 - A]] | [[Readable Bible/04 - Numbers/Numbers 18#Numbers 18 . 31|Numbers 18:31 - A]] | [[Readable Bible/04 - Numbers/Numbers 18#Numbers 18 . 8|Numbers 18:8 - A →]]
+| [[Readable Bible/05 - Deuteronomy/Deuteronomy 18#Deuteronomy 18 . 1|Deuteronomy 18:1–3 - A]] | [[Readable Bible/03 - Leviticus/Leviticus 6#Leviticus 6 . 16|Leviticus 6:16 - A]] | [[Readable Bible/03 - Leviticus/Leviticus 6#Leviticus 6 . 26|Leviticus 6:26 - A]] | [[Readable Bible/04 - Numbers/Numbers 18#Numbers 18 . 31|Numbers 18:31 - A]] | [[Readable Bible/04 - Numbers/Numbers 18#Numbers 18 . 8|Numbers 18:8 - A]]
 
 ##### 1 Corinthians 9 . 14
 [[Reference Bible/46 - 1 Corinthians/1 Corinthians 9#1 Corinthians 9 - 14|14]] In the same way, the Lord has prescribed that those who preach the gospel should receive their living from the gospel.

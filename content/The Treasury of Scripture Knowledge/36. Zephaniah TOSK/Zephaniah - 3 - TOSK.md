@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Zephaniah 3 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/36 - Zephaniah|← Zephaniah]]** | [[The Treasury of Scripture Knowledge/36. Zephaniah TOSK/Zephaniah - 2 - TOSK|← Ch 2]]
+**[[Home/Scripture/36 - Zephaniah|← Zephaniah]]** | [[The Treasury of Scripture Knowledge/36. Zephaniah TOSK/Zephaniah - 2 - TOSK|← Ch 2]]
 
 ---
 

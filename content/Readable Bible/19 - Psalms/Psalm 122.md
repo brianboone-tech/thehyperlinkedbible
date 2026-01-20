@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 122
+# Psalm-R 122
 
-[[Readable Bible/19 - Psalms/Psalm 121|← Psalm 121]] | [[Readable Bible/19 - Psalms/Psalm 123|Psalm 123 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 121#Psalm-R 121| Psalm 121]] - [[Readable Bible/19 - Psalms/Psalm 123#Psalm-R 123| Psalm 123]]
 
 ---
 

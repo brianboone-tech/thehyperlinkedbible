@@ -46,11 +46,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 55#Psalm 55 - 9|LXX]] |
 
 ##### Psalm 55 - 10
-[[Lexicon/H3101-3200#H3119|Day]] [[Lexicon/H3901-4000#H3915|and night]] [[Lexicon/H5401-5500#H5437|they encircle]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H2301-2400#H2346|the walls ,]] [[Lexicon/H201-300#H205|while malice]] [[Lexicon/H5901-6000#H5999|and trouble]] [[Lexicon/H7101-7200#H7130|(lie) within.]]
+[[Lexicon/H3101-3200#H3119|Day]] [[Lexicon/H3901-4000#H3915|and night]] [[Lexicon/H5401-5500#H5437|they encircle]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H2301-2400#H2346|the walls ,]] [[Lexicon/H201-300#H205|while malice]] [[Lexicon/H5901-6000#H5999|and trouble]] [[Lexicon/H7101-7200#H7130|[lie] within.]]
 | [[LXX Reference/19 - Psalms/Psalms 55#Psalm 55 - 10|LXX]] |
 
 ##### Psalm 55 - 11
-[[Lexicon/H1901-2000#H1942|Destruction]] [[Lexicon/H7101-7200#H7130|(is) within ;]] [[Lexicon/H8401-8500#H8496|oppression]] [[Lexicon/H4801-4900#H4820|and deceit]] [[Lexicon/H3801-3900#H3808|never]] [[Lexicon/H4101-4200#H4185|leave]] [[Lexicon/H7301-7400#H7339|the streets.]]
+[[Lexicon/H1901-2000#H1942|Destruction]] [[Lexicon/H7101-7200#H7130|[is] within ;]] [[Lexicon/H8401-8500#H8496|oppression]] [[Lexicon/H4801-4900#H4820|and deceit]] [[Lexicon/H3801-3900#H3808|never]] [[Lexicon/H4101-4200#H4185|leave]] [[Lexicon/H7301-7400#H7339|the streets.]]
 | [[LXX Reference/19 - Psalms/Psalms 55#Psalm 55 - 11|LXX]] |
 
 ##### Psalm 55 - 12

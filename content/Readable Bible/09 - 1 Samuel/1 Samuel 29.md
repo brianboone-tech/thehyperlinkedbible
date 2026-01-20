@@ -5,9 +5,12 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Samuel 29
+# 1 Samuel-R 29
 
-[[Readable Bible/09 - 1 Samuel/1 Samuel 28|← 1 Samuel 28]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 30|1 Samuel 30 →]]
+**[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
+
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 28#1 Samuel-R 28| 1 Samuel 28]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 30#1 Samuel-R 30| 1 Samuel 30]]
 
 ---
 

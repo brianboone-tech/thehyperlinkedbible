@@ -33,7 +33,7 @@ Testament: Old
 [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G5001-5100#G5087|they should put]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|should not]] [[Lexicon/G1901-2000#G1950|forget]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2041|works]] [[Lexicon/G2301-2400#G2316|of God,]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G1701-1800#G1785|of his commandments]]
 
 #### Psalms 78 - 8
-[[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G3301-3400#G3361|they should not]] [[Lexicon/G1001-1100#G1096|become]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3901-4000#G3962|their fathers]] [[Lexicon/G1001-1100#G1074|generation]] [[Lexicon/G1001-1100#G1074|a generation]] [[Lexicon/G3701-3800#G3748|which]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G2701-2800#G2720|straightened out]] [[Lexicon/G2501-2600#G2588|its own heart,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|was not]]
+[[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G3301-3400#G3361|they should not]] [[Lexicon/G1001-1100#G1096|become]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3901-4000#G3962|their fathers]] [[Lexicon/G1001-1100#G1074|generation]] [[Lexicon/G1001-1100#G1074|a generation]] [[Lexicon/G3701-3800#G3748|which]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G2701-2800#G2720|straightened out]] [[Lexicon/G2501-2600#G2588|its own heart,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|was not]]
 
 #### Psalms 78 - 9
 of Ephraim [[Lexicon/G1701-1800#G1780|stretching tight]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G901-1000#G0906|shooting]] [[Lexicon/G5101-5200#G5115|with bows,]] [[Lexicon/G4701-4800#G4762|turned back]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4171|of battle.]]
@@ -48,16 +48,16 @@ of Ephraim [[Lexicon/G1701-1800#G1780|stretching tight]] [[Lexicon/G2501-2600#G2
 [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G3901-4000#G3962|their fathers;]] [[Lexicon/G3701-3800#G3739|what]] [[Lexicon/G4101-4200#G4160|he did]] [[Lexicon/G1701-1800#G1722|in]] of Egypt [[Lexicon/G1701-1800#G1722|in]] of Tanis.
 
 #### Psalms 78 - 13
-[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1236|led them through;]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G701-800#G0779|a water bag.]]
+[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1236|led them through;]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G701-800#G0779|a water bag.]]
 
 #### Psalms 78 - 14
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3594|he guided]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G3501-3600#G3507|a cloud]] [[Lexicon/G2201-2300#G2250|by day,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3571|night]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G4401-4500#G4442|of fire.]]
 
 #### Psalms 78 - 15
-[[Lexicon/G1201-1300#G1284|He tore open]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4201-4300#G4222|he gave them a drink]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1-100#G0012|deep]]
+[[Lexicon/G1201-1300#G1284|He tore open]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4201-4300#G4222|he gave them a drink]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1-100#G0012|deep]]
 
 #### Psalms 78 - 16
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1806|he brought]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2609|he led it down]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4201-4300#G4215|rivers]] [[Lexicon/G5201-5300#G5204|of waters.]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1806|he brought]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2609|he led it down]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4201-4300#G4215|rivers]] [[Lexicon/G5201-5300#G5204|of waters.]]
 
 #### Psalms 78 - 17
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4369|they proceeded]] [[Lexicon/G2001-2100#G2089|still]] [[Lexicon/G201-300#G0264|to sin]] [[Lexicon/G1401-1500#G1473|against him;]] [[Lexicon/G3801-3900#G3893|they greatly embittered]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5301-5400#G5310|highest]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G501-600#G0504|a waterless place.]]
@@ -90,7 +90,7 @@ of Ephraim [[Lexicon/G1701-1800#G1780|stretching tight]] [[Lexicon/G2501-2600#G2
 [[Lexicon/G501-600#G0522|He departed]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3701-3800#G3772|heaven,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1863|he brought on]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1401-1500#G1411|his power]]
 
 #### Psalms 78 - 27
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1026|he rained]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G5601-5624#G5616|as]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1026|he rained]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G5601-5700#G5616|as]]
 
 #### Psalms 78 - 28
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1901-2000#G1968|they fell]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G3901-4000#G3925|of their camp]] [[Lexicon/G2901-3000#G2945|round about]] [[Lexicon/G4601-4700#G4638|their tents.]]
@@ -165,7 +165,7 @@ of Ephraim [[Lexicon/G1701-1800#G1780|stretching tight]] [[Lexicon/G2501-2600#G2
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3960|he struck]] [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G4401-4500#G4416|first-born]] [[Lexicon/G1701-1800#G1722|in]] of Egypt; [[Lexicon/G501-600#G0536|first-fruit]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G4101-4200#G4192|their toil]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4638|tents]] of Ham.
 
 #### Psalms 78 - 52
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G501-600#G0522|he departed]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0321|he led them up]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G4101-4200#G4168|a flock]] [[Lexicon/G1701-1800#G1722|in]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G501-600#G0522|he departed]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0321|he led them up]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G4101-4200#G4168|a flock]] [[Lexicon/G1701-1800#G1722|in]]
 
 #### Psalms 78 - 53
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3594|he guided]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1901-2000#G1909|with]] [[Lexicon/G1601-1700#G1680|hope;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|they were not]] [[Lexicon/G1101-1200#G1168|timid,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2190|their enemies]]
@@ -204,7 +204,7 @@ of Ephraim [[Lexicon/G1701-1800#G1780|stretching tight]] [[Lexicon/G2501-2600#G2
 [[Lexicon/G2401-2500#G2409|Their priests]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5503|their widows]] [[Lexicon/G3701-3800#G3756|shall not be wept over.]]
 
 #### Psalms 78 - 65
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1825|awakened]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1401-1500#G1415|a mighty one]] [[Lexicon/G2801-2900#G2896|being dizzy]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3601-3700#G3631|wine.]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1825|awakened]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1401-1500#G1415|a mighty one]] [[Lexicon/G2801-2900#G2896|being dizzy]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3601-3700#G3631|wine.]]
 
 #### Psalms 78 - 66
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3960|he struck]] [[Lexicon/G2101-2200#G2190|his enemies]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3694|rear;]] [[Lexicon/G3601-3700#G3681|scorn]]
@@ -216,7 +216,7 @@ of Ephraim [[Lexicon/G1701-1800#G1780|stretching tight]] [[Lexicon/G2501-2600#G2
 [[Lexicon/G1501-1600#G1586|He chose]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5443|tribe]] of Judah, [[Lexicon/G3701-3800#G3735|mount]] Zion [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1-100#G0025|he loved.]]
 
 #### Psalms 78 - 69
-[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3601-3700#G3618|he built]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth;]] [[Lexicon/G2301-2400#G2311|he laid its foundation]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon.]]
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3601-3700#G3618|he built]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth;]] [[Lexicon/G2301-2400#G2311|he laid its foundation]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon.]]
 
 #### Psalms 78 - 70
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1586|he chose]] David [[Lexicon/G1401-1500#G1401|his servant;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0353|he took]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4168|flocks]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4201-4300#G4263|sheep;]]

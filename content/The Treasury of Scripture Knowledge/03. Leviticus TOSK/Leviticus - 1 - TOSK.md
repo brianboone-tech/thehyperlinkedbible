@@ -3,7 +3,7 @@ Folder: TOSK
 Name: Leviticus 1 TOSK
 ---
 
-**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 2 - TOSK|Ch 2 →]]
+**[[Home/Scripture/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 2 - TOSK|Ch 2 →]]
 
 ---
 

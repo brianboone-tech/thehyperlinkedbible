@@ -42,7 +42,7 @@ Testament: Old
 [[Lexicon/G601-700#G0654|You turned]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3694|rear]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G2101-2200#G2190|our enemies;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3401-3500#G3404|ones detesting]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G1201-1300#G1283|plundered]] [[Lexicon/G1401-1500#G1438|for themselves.]]
 
 #### Psalms 44 - 11
-[[Lexicon/G1301-1400#G1325|You gave]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4201-4300#G4263|sheep]] [[Lexicon/G1001-1100#G1035|for food;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G1201-1300#G1289|you scattered]] [[Lexicon/G1401-1500#G1473|us.]]
+[[Lexicon/G1301-1400#G1325|You gave]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4201-4300#G4263|sheep]] [[Lexicon/G1001-1100#G1035|for food;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G1201-1300#G1289|you scattered]] [[Lexicon/G1401-1500#G1473|us.]]
 
 #### Psalms 44 - 12
 [[Lexicon/G501-600#G0591|You rendered]] [[Lexicon/G2901-3000#G2992|your people]] [[Lexicon/G401-500#G0427|without]] [[Lexicon/G5001-5100#G5092|a value;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|there was no]] [[Lexicon/G4101-4200#G4128|abundance]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G201-300#G0213|their shout .]]
@@ -75,7 +75,7 @@ Testament: Old
 [[Lexicon/G3701-3800#G3780|shall not]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1501-1600#G1567|require]] [[Lexicon/G3701-3800#G3778|these things?]] [[Lexicon/G1401-1500#G1473|For he]] [[Lexicon/G1001-1100#G1097|knows]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2931|secret things]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2501-2600#G2588|heart.]]
 
 #### Psalms 44 - 22
-[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1701-1800#G1752|because of]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2201-2300#G2289|we are being put to death]] [[Lexicon/G2201-2300#G2250|day;]] [[Lexicon/G3001-3100#G3049|we are considered]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4201-4300#G4263|sheep]] [[Lexicon/G4901-5000#G4967|for slaughter.]]
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1701-1800#G1752|because of]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2201-2300#G2289|we are being put to death]] [[Lexicon/G2201-2300#G2250|day;]] [[Lexicon/G3001-3100#G3049|we are considered]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4201-4300#G4263|sheep]] [[Lexicon/G4901-5000#G4967|for slaughter.]]
 
 #### Psalms 44 - 23
 [[Lexicon/G1801-1900#G1825|Awaken!]] [[Lexicon/G2401-2500#G2444|Why]] [[Lexicon/G5201-5300#G5258|do you sleep,]] [[Lexicon/G2901-3000#G2962|O lord?]] [[Lexicon/G401-500#G0450|Rise up!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|you should not]] [[Lexicon/G601-700#G0683|thrust us away]] [[Lexicon/G1501-1600#G1519|unto]]

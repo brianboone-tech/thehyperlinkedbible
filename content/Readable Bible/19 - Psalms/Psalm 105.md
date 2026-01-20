@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 105
+# Psalm-R 105
 
-[[Readable Bible/19 - Psalms/Psalm 104|← Psalm 104]] | [[Readable Bible/19 - Psalms/Psalm 106|Psalm 106 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 104#Psalm-R 104| Psalm 104]] - [[Readable Bible/19 - Psalms/Psalm 106#Psalm-R 106| Psalm 106]]
 
 ---
 

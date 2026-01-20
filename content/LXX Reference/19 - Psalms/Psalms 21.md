@@ -36,7 +36,7 @@ Testament: Old
 [[Lexicon/G2101-2200#G2147|May be found]] [[Lexicon/G3901-4000#G3956|by all]] [[Lexicon/G2101-2200#G2190|your enemies;]] [[Lexicon/G1101-1200#G1188|your right hand]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3401-3500#G3404|ones detesting]] [[Lexicon/G1401-1500#G1473|you.]]
 
 #### Psalms 21 - 9
-[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G5001-5100#G5087|you shall put]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2801-2900#G2823|an oven]] [[Lexicon/G4401-4500#G4442|of fire]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G4301-4400#G4383|of your person;]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3709|his anger]] [[Lexicon/G4901-5000#G4928|disturbs them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2719|shall devour]]
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G5001-5100#G5087|you shall put]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2801-2900#G2823|an oven]] [[Lexicon/G4401-4500#G4442|of fire]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G4301-4400#G4383|of your person;]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3709|his anger]] [[Lexicon/G4901-5000#G4928|disturbs them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2719|shall devour]]
 
 #### Psalms 21 - 10
 [[Lexicon/G2501-2600#G2590|their fruit]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4690|their seed]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G401-500#G0444|of men.]]

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Hebrews 9
+# Hebrews-R 9
 
-[[Readable Bible/58 - Hebrews/Hebrews 8|← Hebrews 8]] | [[Readable Bible/58 - Hebrews/Hebrews 10|Hebrews 10 →]]
+**[[Home/Scripture/58 - Hebrews|Hebrews]]**
+
+[[Readable Bible/58 - Hebrews/Hebrews 8#Hebrews-R 8| Hebrews 8]] - [[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews-R 10| Hebrews 10]]
 
 ---
 

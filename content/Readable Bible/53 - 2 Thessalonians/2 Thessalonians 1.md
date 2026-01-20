@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Thessalonians 1
+# 2 Thessalonians-R 1
 
-[[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 5|←]] | [[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 2|→]]
+**[[Home/Scripture/53 - 2 Thessalonians|2 Thessalonians]]**
+
+[[1 Thessalonians-R 5|←]] • [[2 Thessalonians-R 2|→]]
 
 ---
 

@@ -16,11 +16,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 1|LXX]] |
 
 ##### Leviticus 18 - 2
-[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|(and) tell]] [[Lexicon/H401-500#H413|them :]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God.]]
+[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|[and] tell]] [[Lexicon/H401-500#H413|them :]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 2|LXX]] |
 
 ##### Leviticus 18 - 3
-[[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H6201-6300#H6213|You must not follow]] [[Lexicon/H4601-4700#H4639|the practices]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H3401-3500#H3427|you used to live]] [[Lexicon/H4601-4700#H4639|(and you must not follow) the practices]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H3601-3700#H3667|of Canaan ,]] [[Lexicon/H801-900#H834|into which]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H901-1000#H935|am bringing you.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8033|-]] [[Lexicon/H6201-6300#H6213|You must]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H1901-2000#H1980|walk]] [[Lexicon/H2701-2800#H2708|in their customs]] [[Lexicon/H3801-3900#H3808|....]]
+[[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H6201-6300#H6213|You must not follow]] [[Lexicon/H4601-4700#H4639|the practices]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H3401-3500#H3427|you used to live]] [[Lexicon/H4601-4700#H4639|[and you must not follow] the practices]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H3601-3700#H3667|of Canaan ,]] [[Lexicon/H801-900#H834|into which]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H901-1000#H935|am bringing you.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8033|-]] [[Lexicon/H6201-6300#H6213|You must]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H1901-2000#H1980|walk]] [[Lexicon/H2701-2800#H2708|in their customs]] [[Lexicon/H3801-3900#H3808|....]]
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 3|LXX]] |
 
 ##### Leviticus 18 - 4
@@ -28,7 +28,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 4|LXX]] |
 
 ##### Leviticus 18 - 5
-[[Lexicon/H8101-8200#H8104|Keep]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2701-2800#H2708|My statutes]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H4901-5000#H4941|My judgments ,]] [[Lexicon/H801-900#H834|(for)]] [[Lexicon/H101-200#H120|the man]] [[Lexicon/H6201-6300#H6213|who does these things]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2421|will live]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD.]]
+[[Lexicon/H8101-8200#H8104|Keep]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2701-2800#H2708|My statutes]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H4901-5000#H4941|My judgments ,]] [[Lexicon/H801-900#H834|[for]]] [[Lexicon/H101-200#H120|the man]] [[Lexicon/H6201-6300#H6213|who does these things]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2421|will live]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 5|LXX]] |
 
 ##### Leviticus 18 - 6
@@ -64,7 +64,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 13|LXX]] |
 
 ##### Leviticus 18 - 14
-[[Lexicon/H3801-3900#H3808|You must not {dishonor}]] [[Lexicon/H1-100#H1|your father’s]] [[Lexicon/H201-300#H251|brother]] [[Lexicon/H7101-7200#H7126|by approaching]] [[Lexicon/H401-500#H413|]] [[Lexicon/H3801-3900#H3808|-]] [[Lexicon/H801-900#H802|his wife]] [[Lexicon/H1501-1600#H1540|to have sexual relations with her]] [[Lexicon/H6101-6200#H6172|... ;]] [[Lexicon/H1901-2000#H1931|she (is)]] [[Lexicon/H1701-1800#H1733|your aunt.]]
+[[Lexicon/H3801-3900#H3808|You must not {dishonor}]] [[Lexicon/H1-100#H1|your father’s]] [[Lexicon/H201-300#H251|brother]] [[Lexicon/H7101-7200#H7126|by approaching]] [[Lexicon/H401-500#H413|]] [[Lexicon/H3801-3900#H3808|-]] [[Lexicon/H801-900#H802|his wife]] [[Lexicon/H1501-1600#H1540|to have sexual relations with her]] [[Lexicon/H6101-6200#H6172|... ;]] [[Lexicon/H1901-2000#H1931|she [is]]] [[Lexicon/H1701-1800#H1733|your aunt.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 14|LXX]] |
 
 ##### Leviticus 18 - 15
@@ -96,7 +96,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 21|LXX]] |
 
 ##### Leviticus 18 - 22
-[[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H7901-8000#H7901|lie]] [[Lexicon/H801-900#H853|with]] [[Lexicon/H2101-2200#H2145|a man]] [[Lexicon/H4901-5000#H4904|as with]] [[Lexicon/H801-900#H802|a woman ;]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H8401-8500#H8441|(is) an abomination.]]
+[[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H7901-8000#H7901|lie]] [[Lexicon/H801-900#H853|with]] [[Lexicon/H2101-2200#H2145|a man]] [[Lexicon/H4901-5000#H4904|as with]] [[Lexicon/H801-900#H802|a woman ;]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H8401-8500#H8441|[is] an abomination.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 22|LXX]] |
 
 ##### Leviticus 18 - 23
@@ -128,5 +128,5 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 29|LXX]] |
 
 ##### Leviticus 18 - 30
-[[Lexicon/H8101-8200#H8104|You must keep]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4901-5000#H4931|My charge]] [[Lexicon/H1101-1200#H1115|not]] [[Lexicon/H6201-6300#H6213|to practice]] [[Lexicon/H8401-8500#H8441|(any) of the abominable]] [[Lexicon/H2701-2800#H2708|customs]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H6201-6300#H6213|were practiced]] [[Lexicon/H6401-6500#H6440|before you ,]] [[Lexicon/H3801-3900#H3808|so that you do not]] [[Lexicon/H2901-3000#H2930|defile yourselves]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God. ”]]
+[[Lexicon/H8101-8200#H8104|You must keep]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4901-5000#H4931|My charge]] [[Lexicon/H1101-1200#H1115|not]] [[Lexicon/H6201-6300#H6213|to practice]] [[Lexicon/H8401-8500#H8441|[any] of the abominable]] [[Lexicon/H2701-2800#H2708|customs]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H6201-6300#H6213|were practiced]] [[Lexicon/H6401-6500#H6440|before you ,]] [[Lexicon/H3801-3900#H3808|so that you do not]] [[Lexicon/H2901-3000#H2930|defile yourselves]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God. ”]]
 | [[LXX Reference/3 - Leviticus/Leviticus 18#Leviticus 18 - 30|LXX]] |

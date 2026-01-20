@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 1 Corinthians 1
+# 1 Corinthians-R 1
 
-[[Readable Bible/45 - Romans/Romans 16|← Romans 16]] | [[Readable Bible/46 - 1 Corinthians/1 Corinthians 2|1 Corinthians 2 →]]
+**[[Home/Scripture/46 - 1 Corinthians|1 Corinthians]]**
+
+[[Readable Bible/45 - Romans/Romans 16#Romans-R 16|Romans 16]] • [[Readable Bible/46 - 1 Corinthians/1 Corinthians 2#1 Corinthians-R 2|1 Corinthians 2]]
 
 ---
 

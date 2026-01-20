@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 50
+# Isaiah-R 50
 
-[[Readable Bible/23 - Isaiah/Isaiah 49|← Isaiah 49]] | [[Readable Bible/23 - Isaiah/Isaiah 51|Isaiah 51 →]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 49#Isaiah-R 49| Isaiah 49]] - [[Readable Bible/23 - Isaiah/Isaiah 51#Isaiah-R 51| Isaiah 51]]
 
 ---
 

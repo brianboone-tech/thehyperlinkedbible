@@ -12,7 +12,7 @@ Book: 1 Chronicles
 ---
 
 ##### 1 Chronicles 2 - 1
-[[Lexicon/H401-500#H428|These (were)]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H3401-3500#H3478|of Israel :]] [[Lexicon/H7201-7300#H7205|Reuben ,]] [[Lexicon/H8001-8100#H8095|Simeon ,]] [[Lexicon/H3801-3900#H3878|Levi ,]] [[Lexicon/H3001-3100#H3063|Judah ,]] [[Lexicon/H3401-3500#H3485|Issachar ,]] [[Lexicon/H2001-2100#H2074|Zebulun ,]]
+[[Lexicon/H401-500#H428|These [were]]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H3401-3500#H3478|of Israel :]] [[Lexicon/H7201-7300#H7205|Reuben ,]] [[Lexicon/H8001-8100#H8095|Simeon ,]] [[Lexicon/H3801-3900#H3878|Levi ,]] [[Lexicon/H3001-3100#H3063|Judah ,]] [[Lexicon/H3401-3500#H3485|Issachar ,]] [[Lexicon/H2001-2100#H2074|Zebulun ,]]
 
 ##### 1 Chronicles 2 - 2
 [[Lexicon/H1801-1900#H1835|Dan ,]] [[Lexicon/H3101-3200#H3130|Joseph ,]] [[Lexicon/H1101-1200#H1144|Benjamin ,]] [[Lexicon/H5301-5400#H5321|Naphtali ,]] [[Lexicon/H1401-1500#H1410|Gad ,]] [[Lexicon/H801-900#H836|and Asher.]]
@@ -57,13 +57,13 @@ Book: 1 Chronicles
 [[Lexicon/H601-700#H684|Ozem]] [[Lexicon/H8301-8400#H8345|sixth ,]] [[Lexicon/H1701-1800#H1732|and David]] [[Lexicon/H7601-7700#H7637|seventh.]]
 
 ##### 1 Chronicles 2 - 16
-[[Lexicon/H201-300#H269|Their sisters]] [[Lexicon/H6801-6900#H6870|were Zeruiah]] [[Lexicon/H1-100#H26|and Abigail.]] [[Lexicon/H7901-8000#H7969|And the three]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H6801-6900#H6870|of Zeruiah (were)]] [[Lexicon/H1-100#H52|Abishai ,]] [[Lexicon/H3001-3100#H3097|Joab ,]] [[Lexicon/H6201-6300#H6214|vvv]] [[Lexicon/H6201-6300#H6214|and Asahel.]]
+[[Lexicon/H201-300#H269|Their sisters]] [[Lexicon/H6801-6900#H6870|were Zeruiah]] [[Lexicon/H1-100#H26|and Abigail.]] [[Lexicon/H7901-8000#H7969|And the three]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H6801-6900#H6870|of Zeruiah [were]]] [[Lexicon/H1-100#H52|Abishai ,]] [[Lexicon/H3001-3100#H3097|Joab ,]] [[Lexicon/H6201-6300#H6214|vvv]] [[Lexicon/H6201-6300#H6214|and Asahel.]]
 
 ##### 1 Chronicles 2 - 17
 [[Lexicon/H1-100#H26|Abigail]] [[Lexicon/H3201-3300#H3205|was the mother]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6001-6100#H6021|of Amasa ,]] [[Lexicon/H6001-6100#H6021|whose]] [[Lexicon/H1-100#H1|father]] [[Lexicon/H3401-3500#H3500|was Jether]] [[Lexicon/H3401-3500#H3459|the Ishmaelite.]]
 
 ##### 1 Chronicles 2 - 18
-[[Lexicon/H3601-3700#H3612|Caleb]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H2601-2700#H2696|of Hezron]] [[Lexicon/H3201-3300#H3205|had children]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H802|by his wife]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H5801-5900#H5806|Azubah]] [[Lexicon/H3401-3500#H3408|and by Jerioth.]] [[Lexicon/H401-500#H428|These (were)]] [[Lexicon/H1101-1200#H1121|the sons of Azubah :]] [[Lexicon/H3401-3500#H3475|Jesher ,]] [[Lexicon/H7701-7800#H7727|Shobab ,]] [[Lexicon/H701-800#H715|and Ardon.]]
+[[Lexicon/H3601-3700#H3612|Caleb]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H2601-2700#H2696|of Hezron]] [[Lexicon/H3201-3300#H3205|had children]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H802|by his wife]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H5801-5900#H5806|Azubah]] [[Lexicon/H3401-3500#H3408|and by Jerioth.]] [[Lexicon/H401-500#H428|These [were]]] [[Lexicon/H1101-1200#H1121|the sons of Azubah :]] [[Lexicon/H3401-3500#H3475|Jesher ,]] [[Lexicon/H7701-7800#H7727|Shobab ,]] [[Lexicon/H701-800#H715|and Ardon.]]
 
 ##### 1 Chronicles 2 - 19
 [[Lexicon/H5801-5900#H5806|When Azubah]] [[Lexicon/H4101-4200#H4191|died ,]] [[Lexicon/H3601-3700#H3612|Caleb]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|married]] [[Lexicon/H601-700#H672|Ephrath ,]] [[Lexicon/H3201-3300#H3205|who bore]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2301-2400#H2354|Hur.]]
@@ -78,7 +78,7 @@ Book: 1 Chronicles
 [[Lexicon/H7601-7700#H7687|Segub]] [[Lexicon/H3201-3300#H3205|was the father of]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2901-3000#H2971|Jair ,]] [[Lexicon/H1901-2000#H1961|who had]] [[Lexicon/H6201-6300#H6242|twenty-three]] [[Lexicon/H7901-8000#H7969|...]] [[Lexicon/H5801-5900#H5892|cities]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H1501-1600#H1568|of Gilead.]]
 
 ##### 1 Chronicles 2 - 23
-[[Lexicon/H1601-1700#H1650|But Geshur]] [[Lexicon/H701-800#H758|and Aram]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|captured]] [[Lexicon/H2301-2400#H2334|vvv]] [[Lexicon/H2301-2400#H2334|Havvoth-jair]] [[Lexicon/H801-900#H854|- ,]] [[Lexicon/H801-900#H853|along with]] [[Lexicon/H7001-7100#H7079|Kenath]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8346|and its sixty]] [[Lexicon/H1301-1400#H1323|surrounding]] [[Lexicon/H5801-5900#H5892|villages.]] [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H401-500#H428|these (were)]] [[Lexicon/H1101-1200#H1121|descendants]] [[Lexicon/H4301-4400#H4353|of Machir]] [[Lexicon/H1-100#H1|the father]] [[Lexicon/H1501-1600#H1568|of Gilead.]]
+[[Lexicon/H1601-1700#H1650|But Geshur]] [[Lexicon/H701-800#H758|and Aram]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|captured]] [[Lexicon/H2301-2400#H2334|vvv]] [[Lexicon/H2301-2400#H2334|Havvoth-jair]] [[Lexicon/H801-900#H854|- ,]] [[Lexicon/H801-900#H853|along with]] [[Lexicon/H7001-7100#H7079|Kenath]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8346|and its sixty]] [[Lexicon/H1301-1400#H1323|surrounding]] [[Lexicon/H5801-5900#H5892|villages.]] [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H401-500#H428|these [were]]] [[Lexicon/H1101-1200#H1121|descendants]] [[Lexicon/H4301-4400#H4353|of Machir]] [[Lexicon/H1-100#H1|the father]] [[Lexicon/H1501-1600#H1568|of Gilead.]]
 
 ##### 1 Chronicles 2 - 24
 [[Lexicon/H301-400#H310|After]] [[Lexicon/H2601-2700#H2696|Hezron]] [[Lexicon/H3601-3700#H3613|]] [[Lexicon/H4101-4200#H4194|died]] [[Lexicon/H3601-3700#H3613|in Caleb-ephrathah ,]] [[Lexicon/H2601-2700#H2696|his]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H1-100#H29|Abijah]] [[Lexicon/H3201-3300#H3205|bore]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H806|Ashhur]] [[Lexicon/H1-100#H1|the father]] [[Lexicon/H8601-8674#H8620|of Tekoa.]]

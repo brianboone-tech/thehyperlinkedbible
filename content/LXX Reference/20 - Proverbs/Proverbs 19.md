@@ -43,7 +43,7 @@ Testament: Old
 [[Lexicon/G1601-1700#G1655|merciful]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G3101-3200#G3114|lenient]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G2701-2800#G2745|boasting]] [[Lexicon/G1901-2000#G1904|comes]] [[Lexicon/G3801-3900#G3892|lawbreakers]]
 
 #### Proverbs 19 - 12
-[[Lexicon/G901-1000#G0935|king]] [[Lexicon/G501-600#G0547|intimidation]] [[Lexicon/G3601-3700#G3664|likened]] [[Lexicon/G1001-1100#G1030|gnashing]] [[Lexicon/G3001-3100#G3023|lion]] [[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G1401-1500#G1408|dew]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G2401-2500#G2431|happy]]
+[[Lexicon/G901-1000#G0935|king]] [[Lexicon/G501-600#G0547|intimidation]] [[Lexicon/G3601-3700#G3664|likened]] [[Lexicon/G1001-1100#G1030|gnashing]] [[Lexicon/G3001-3100#G3023|lion]] [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G1401-1500#G1408|dew]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G2401-2500#G2431|happy]]
 
 #### Proverbs 19 - 13
 [[Lexicon/G101-200#G0152|shame]] [[Lexicon/G3901-4000#G3962|father]] [[Lexicon/G5201-5300#G5207|son]] [[Lexicon/G801-900#G0878|foolish]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G1-100#G0053|pure]] [[Lexicon/G2101-2200#G2171|vows]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3401-3500#G3410|hire]] [[Lexicon/G2001-2100#G2082|mistress]]

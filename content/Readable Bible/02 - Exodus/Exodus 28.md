@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Exodus 28
+# Exodus-R 28
 
-[[Readable Bible/02 - Exodus/Exodus 27|← Exodus 27]] | [[Readable Bible/02 - Exodus/Exodus 29|Exodus 29 →]]
+**[[Home/Scripture/02 - Exodus|Exodus]]**
+
+[[Readable Bible/02 - Exodus/Exodus 27#Exodus-R 27| Exodus 27]] - [[Readable Bible/02 - Exodus/Exodus 29#Exodus-R 29| Exodus 29]]
 
 ---
 

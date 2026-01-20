@@ -29,7 +29,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 4|LXX]] |
 
 ##### Genesis 34 - 5
-[[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H8001-8100#H8085|heard]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2901-3000#H2930|Shechem had defiled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1301-1400#H1323|his daughter]] [[Lexicon/H1701-1800#H1783|Dinah ,]] [[Lexicon/H1101-1200#H1121|but since his sons]] [[Lexicon/H1901-2000#H1961|were]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H4701-4800#H4735|his livestock]] [[Lexicon/H7701-7800#H7704|in the field ,]] [[Lexicon/H3201-3300#H3290|he]] [[Lexicon/H2701-2800#H2790|remained silent (about it)]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H901-1000#H935|they returned.]]
+[[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H8001-8100#H8085|heard]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2901-3000#H2930|Shechem had defiled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1301-1400#H1323|his daughter]] [[Lexicon/H1701-1800#H1783|Dinah ,]] [[Lexicon/H1101-1200#H1121|but since his sons]] [[Lexicon/H1901-2000#H1961|were]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H4701-4800#H4735|his livestock]] [[Lexicon/H7701-7800#H7704|in the field ,]] [[Lexicon/H3201-3300#H3290|he]] [[Lexicon/H2701-2800#H2790|remained silent [about it]]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H901-1000#H935|they returned.]]
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 5|LXX]] |
 
 ##### Genesis 34 - 6
@@ -57,11 +57,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 11|LXX]] |
 
 ##### Genesis 34 - 12
-[[Lexicon/H7201-7300#H7235|Demand]] [[Lexicon/H5901-6000#H5921|a high]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H4101-4200#H4119|dowry]] [[Lexicon/H4901-5000#H4976|and (an expensive) gift ,]] [[Lexicon/H5401-5500#H5414|and I will give you]] [[Lexicon/H801-900#H834|whatever]] [[Lexicon/H501-600#H559|you ask.]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5401-5500#H5414|Only give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5291|the girl]] [[Lexicon/H801-900#H802|as my wife ! ”]]
+[[Lexicon/H7201-7300#H7235|Demand]] [[Lexicon/H5901-6000#H5921|a high]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H4101-4200#H4119|dowry]] [[Lexicon/H4901-5000#H4976|and [an expensive] gift ,]] [[Lexicon/H5401-5500#H5414|and I will give you]] [[Lexicon/H801-900#H834|whatever]] [[Lexicon/H501-600#H559|you ask.]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5401-5500#H5414|Only give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5291|the girl]] [[Lexicon/H801-900#H802|as my wife ! ”]]
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 12|LXX]] |
 
 ##### Genesis 34 - 13
-[[Lexicon/H801-900#H834|But because]] [[Lexicon/H2901-3000#H2930|(Shechem) had defiled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H269|their sister]] [[Lexicon/H1701-1800#H1783|Dinah ,]] [[Lexicon/H3201-3300#H3290|Jacob’s]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H6001-6100#H6030|answered]] [[Lexicon/H7901-8000#H7927|(him)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H1|and his father]] [[Lexicon/H2501-2600#H2544|Hamor]] [[Lexicon/H4801-4900#H4820|deceitfully]] [[Lexicon/H1601-1700#H1696|....]]
+[[Lexicon/H801-900#H834|But because]] [[Lexicon/H2901-3000#H2930|[Shechem] had defiled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H269|their sister]] [[Lexicon/H1701-1800#H1783|Dinah ,]] [[Lexicon/H3201-3300#H3290|Jacob’s]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H6001-6100#H6030|answered]] [[Lexicon/H7901-8000#H7927|[him]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H1|and his father]] [[Lexicon/H2501-2600#H2544|Hamor]] [[Lexicon/H4801-4900#H4820|deceitfully]] [[Lexicon/H1601-1700#H1696|....]]
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 13|LXX]] |
 
 ##### Genesis 34 - 14
@@ -85,7 +85,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 18|LXX]] |
 
 ##### Genesis 34 - 19
-[[Lexicon/H5201-5300#H5288|The young man ,]] [[Lexicon/H1901-2000#H1931|who (was)]] [[Lexicon/H3501-3600#H3513|the most respected]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H1-100#H1|his father’s]] [[Lexicon/H1001-1100#H1004|household ,]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H301-400#H309|hesitate]] [[Lexicon/H6201-6300#H6213|to fulfill]] [[Lexicon/H1601-1700#H1697|this request ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H2601-2700#H2654|he was delighted]] [[Lexicon/H3201-3300#H3290|with Jacob’s]] [[Lexicon/H1301-1400#H1323|daughter.]]
+[[Lexicon/H5201-5300#H5288|The young man ,]] [[Lexicon/H1901-2000#H1931|who [was]]] [[Lexicon/H3501-3600#H3513|the most respected]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H1-100#H1|his father’s]] [[Lexicon/H1001-1100#H1004|household ,]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H301-400#H309|hesitate]] [[Lexicon/H6201-6300#H6213|to fulfill]] [[Lexicon/H1601-1700#H1697|this request ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H2601-2700#H2654|he was delighted]] [[Lexicon/H3201-3300#H3290|with Jacob’s]] [[Lexicon/H1301-1400#H1323|daughter.]]
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 19|LXX]] |
 
 ##### Genesis 34 - 20
@@ -93,7 +93,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 20|LXX]] |
 
 ##### Genesis 34 - 21
-[[Lexicon/H401-500#H428|“ These]] [[Lexicon/H501-600#H582|men]] [[Lexicon/H8001-8100#H8003|are at peace]] [[Lexicon/H1901-2000#H1992|...]] [[Lexicon/H801-900#H854|with us.]] [[Lexicon/H3401-3500#H3427|Let them live]] [[Lexicon/H5501-5600#H5503|and trade]] [[Lexicon/H701-800#H776|in our land ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2009|indeed ,]] [[Lexicon/H701-800#H776|(it)]] [[Lexicon/H7301-7400#H7342|is large]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H6401-6500#H6440|enough for them.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|Let us take]] [[Lexicon/H1301-1400#H1323|their daughters]] [[Lexicon/H801-900#H802|in marriage]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5414|and give]] [[Lexicon/H1301-1400#H1323|our daughters]]
+[[Lexicon/H401-500#H428|“ These]] [[Lexicon/H501-600#H582|men]] [[Lexicon/H8001-8100#H8003|are at peace]] [[Lexicon/H1901-2000#H1992|...]] [[Lexicon/H801-900#H854|with us.]] [[Lexicon/H3401-3500#H3427|Let them live]] [[Lexicon/H5501-5600#H5503|and trade]] [[Lexicon/H701-800#H776|in our land ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2009|indeed ,]] [[Lexicon/H701-800#H776|[it]]] [[Lexicon/H7301-7400#H7342|is large]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H6401-6500#H6440|enough for them.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|Let us take]] [[Lexicon/H1301-1400#H1323|their daughters]] [[Lexicon/H801-900#H802|in marriage]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5414|and give]] [[Lexicon/H1301-1400#H1323|our daughters]]
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 21|LXX]] |
 
 ##### Genesis 34 - 22
@@ -101,7 +101,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 22|LXX]] |
 
 ##### Genesis 34 - 23
-[[Lexicon/H3801-3900#H3808|Will not]] [[Lexicon/H4701-4800#H4735|their livestock ,]] [[Lexicon/H7001-7100#H7075|their possessions ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H1901-2000#H1992|their]] [[Lexicon/H901-1000#H929|animals (become ours) ?]] [[Lexicon/H301-400#H389|Only]] [[Lexicon/H201-300#H225|let us consent]] [[Lexicon/H3401-3500#H3427|and they will dwell]] [[Lexicon/H801-900#H854|among us. ”]]
+[[Lexicon/H3801-3900#H3808|Will not]] [[Lexicon/H4701-4800#H4735|their livestock ,]] [[Lexicon/H7001-7100#H7075|their possessions ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H1901-2000#H1992|their]] [[Lexicon/H901-1000#H929|animals [become ours] ?]] [[Lexicon/H301-400#H389|Only]] [[Lexicon/H201-300#H225|let us consent]] [[Lexicon/H3401-3500#H3427|and they will dwell]] [[Lexicon/H801-900#H854|among us. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 23|LXX]] |
 
 ##### Genesis 34 - 24
@@ -125,7 +125,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 28|LXX]] |
 
 ##### Genesis 34 - 29
-[[Lexicon/H801-900#H853|-]] [[Lexicon/H7601-7700#H7617|They carried off]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2428|their possessions]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H801-900#H802|women]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H2901-3000#H2945|children ,]] [[Lexicon/H901-1000#H962|and they plundered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1001-1100#H1004|in (their) houses.]]
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H7601-7700#H7617|They carried off]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2428|their possessions]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H801-900#H802|women]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H2901-3000#H2945|children ,]] [[Lexicon/H901-1000#H962|and they plundered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1001-1100#H1004|in [their] houses.]]
 | [[LXX Reference/1 - Genesis/Genesis 34#Genesis 34 - 29|LXX]] |
 
 ##### Genesis 34 - 30

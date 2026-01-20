@@ -26,7 +26,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 3|LXX]] |
 
 ##### Genesis 35 - 4
-[[Lexicon/H5401-5500#H5414|So they gave]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|their]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5236|foreign]] [[Lexicon/H401-500#H430|gods]] [[Lexicon/H5101-5200#H5141|and (all their) earrings]] [[Lexicon/H801-900#H834|- ,]] [[Lexicon/H201-300#H241|-]] [[Lexicon/H3201-3300#H3290|and Jacob]] [[Lexicon/H2901-3000#H2934|buried]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H401-500#H424|the oak]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5973|near]] [[Lexicon/H7901-8000#H7927|Shechem.]]
+[[Lexicon/H5401-5500#H5414|So they gave]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|their]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5236|foreign]] [[Lexicon/H401-500#H430|gods]] [[Lexicon/H5101-5200#H5141|and [all their] earrings]] [[Lexicon/H801-900#H834|- ,]] [[Lexicon/H201-300#H241|-]] [[Lexicon/H3201-3300#H3290|and Jacob]] [[Lexicon/H2901-3000#H2934|buried]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H401-500#H424|the oak]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5973|near]] [[Lexicon/H7901-8000#H7927|Shechem.]]
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 4|LXX]] |
 
 ##### Genesis 35 - 5
@@ -38,19 +38,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 6|LXX]] |
 
 ##### Genesis 35 - 7
-[[Lexicon/H8001-8100#H8033|There]] [[Lexicon/H1101-1200#H1129|Jacob built]] [[Lexicon/H4101-4200#H4196|an altar ,]] [[Lexicon/H7101-7200#H7121|and he called]] [[Lexicon/H4701-4800#H4725|that place]] [[Lexicon/H401-500#H416|vvv]] [[Lexicon/H401-500#H416|vvv]] [[Lexicon/H401-500#H416|El-bethel ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H8001-8100#H8033|it was there]] [[Lexicon/H401-500#H430|that God]] [[Lexicon/H1501-1600#H1540|had revealed Himself]] [[Lexicon/H401-500#H413|to (Jacob)]] [[Lexicon/H1201-1300#H1272|as he fled]] [[Lexicon/H6401-6500#H6440|from]] [[Lexicon/H201-300#H251|his brother.]]
+[[Lexicon/H8001-8100#H8033|There]] [[Lexicon/H1101-1200#H1129|Jacob built]] [[Lexicon/H4101-4200#H4196|an altar ,]] [[Lexicon/H7101-7200#H7121|and he called]] [[Lexicon/H4701-4800#H4725|that place]] [[Lexicon/H401-500#H416|vvv]] [[Lexicon/H401-500#H416|vvv]] [[Lexicon/H401-500#H416|El-bethel ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H8001-8100#H8033|it was there]] [[Lexicon/H401-500#H430|that God]] [[Lexicon/H1501-1600#H1540|had revealed Himself]] [[Lexicon/H401-500#H413|to [Jacob]]] [[Lexicon/H1201-1300#H1272|as he fled]] [[Lexicon/H6401-6500#H6440|from]] [[Lexicon/H201-300#H251|his brother.]]
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 7|LXX]] |
 
 ##### Genesis 35 - 8
-[[Lexicon/H1601-1700#H1683|Now Deborah ,]] [[Lexicon/H7201-7300#H7259|Rebekah’s]] [[Lexicon/H3201-3300#H3243|nurse ,]] [[Lexicon/H4101-4200#H4191|died]] [[Lexicon/H6901-7000#H6912|and was buried]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H401-500#H437|the oak]] [[Lexicon/H8401-8500#H8478|below]] [[Lexicon/H1001-1100#H1008|vvv]] [[Lexicon/H1001-1100#H1008|Bethel.]] [[Lexicon/H7101-7200#H7121|So (Jacob) named]] [[Lexicon/H8001-8100#H8034|(it)]] [[Lexicon/H401-500#H439|vvv]] [[Lexicon/H401-500#H439|Allon-bachuth.]]
+[[Lexicon/H1601-1700#H1683|Now Deborah ,]] [[Lexicon/H7201-7300#H7259|Rebekah’s]] [[Lexicon/H3201-3300#H3243|nurse ,]] [[Lexicon/H4101-4200#H4191|died]] [[Lexicon/H6901-7000#H6912|and was buried]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H401-500#H437|the oak]] [[Lexicon/H8401-8500#H8478|below]] [[Lexicon/H1001-1100#H1008|vvv]] [[Lexicon/H1001-1100#H1008|Bethel.]] [[Lexicon/H7101-7200#H7121|So [Jacob] named]] [[Lexicon/H8001-8100#H8034|[it]]] [[Lexicon/H401-500#H439|vvv]] [[Lexicon/H401-500#H439|Allon-bachuth.]]
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 8|LXX]] |
 
 ##### Genesis 35 - 9
-[[Lexicon/H901-1000#H935|After (Jacob) had returned]] [[Lexicon/H6301-6400#H6307|from]] [[Lexicon/H701-800#H758|Paddan-aram ,]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H7101-7200#H7200|appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3201-3300#H3290|(him)]] [[Lexicon/H5701-5800#H5750|again]] [[Lexicon/H1201-1300#H1288|and blessed]] [[Lexicon/H801-900#H853|him.]]
+[[Lexicon/H901-1000#H935|After [Jacob] had returned]] [[Lexicon/H6301-6400#H6307|from]] [[Lexicon/H701-800#H758|Paddan-aram ,]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H7101-7200#H7200|appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3201-3300#H3290|[him]]] [[Lexicon/H5701-5800#H5750|again]] [[Lexicon/H1201-1300#H1288|and blessed]] [[Lexicon/H801-900#H853|him.]]
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 9|LXX]] |
 
 ##### Genesis 35 - 10
-[[Lexicon/H401-500#H430|And God]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H8001-8100#H8034|“ (Though) your name]] [[Lexicon/H3201-3300#H3290|is Jacob ,]] [[Lexicon/H3801-3900#H3808|you will no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H7101-7200#H7121|be called]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H3201-3300#H3290|Jacob.]] [[Lexicon/H3501-3600#H3588|Instead]] [[Lexicon/H501-600#H518|... ,]] [[Lexicon/H8001-8100#H8034|your name]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H3401-3500#H3478|Israel. ”]] [[Lexicon/H7101-7200#H7121|So (God) named]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8034|him]] [[Lexicon/H3401-3500#H3478|Israel.]]
+[[Lexicon/H401-500#H430|And God]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H8001-8100#H8034|“ [Though] your name]] [[Lexicon/H3201-3300#H3290|is Jacob ,]] [[Lexicon/H3801-3900#H3808|you will no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H7101-7200#H7121|be called]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H3201-3300#H3290|Jacob.]] [[Lexicon/H3501-3600#H3588|Instead]] [[Lexicon/H501-600#H518|... ,]] [[Lexicon/H8001-8100#H8034|your name]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H3401-3500#H3478|Israel. ”]] [[Lexicon/H7101-7200#H7121|So [God] named]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8034|him]] [[Lexicon/H3401-3500#H3478|Israel.]]
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 10|LXX]] |
 
 ##### Genesis 35 - 11
@@ -66,7 +66,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 13|LXX]] |
 
 ##### Genesis 35 - 14
-[[Lexicon/H3201-3300#H3290|So Jacob]] [[Lexicon/H5301-5400#H5324|set up]] [[Lexicon/H4601-4700#H4676|a pillar]] [[Lexicon/H4701-4800#H4725|in the place]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H1601-1700#H1696|(God) had spoken]] [[Lexicon/H801-900#H854|with him —]] [[Lexicon/H1-100#H68|a stone]] [[Lexicon/H4601-4700#H4678|Mark -er —]] [[Lexicon/H5201-5300#H5258|and he poured out]] [[Lexicon/H5201-5300#H5262|a drink offering]] [[Lexicon/H5901-6000#H5921|on it]] [[Lexicon/H3301-3400#H3332|and anointed it]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H8001-8100#H8081|with oil.]]
+[[Lexicon/H3201-3300#H3290|So Jacob]] [[Lexicon/H5301-5400#H5324|set up]] [[Lexicon/H4601-4700#H4676|a pillar]] [[Lexicon/H4701-4800#H4725|in the place]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H1601-1700#H1696|[God] had spoken]] [[Lexicon/H801-900#H854|with him —]] [[Lexicon/H1-100#H68|a stone]] [[Lexicon/H4601-4700#H4678|Mark -er —]] [[Lexicon/H5201-5300#H5258|and he poured out]] [[Lexicon/H5201-5300#H5262|a drink offering]] [[Lexicon/H5901-6000#H5921|on it]] [[Lexicon/H3301-3400#H3332|and anointed it]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H8001-8100#H8081|with oil.]]
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 14|LXX]] |
 
 ##### Genesis 35 - 15
@@ -106,15 +106,15 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 23|LXX]] |
 
 ##### Genesis 35 - 24
-[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H7301-7400#H7354|of Rachel (were)]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H1101-1200#H1144|and Benjamin.]]
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H7301-7400#H7354|of Rachel [were]]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H1101-1200#H1144|and Benjamin.]]
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 24|LXX]] |
 
 ##### Genesis 35 - 25
-[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H7301-7400#H7354|of Rachel’s]] [[Lexicon/H8101-8200#H8198|maidservant]] [[Lexicon/H1001-1100#H1090|Bilhah (were)]] [[Lexicon/H1801-1900#H1835|Dan]] [[Lexicon/H5301-5400#H5321|and Naphtali.]]
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H7301-7400#H7354|of Rachel’s]] [[Lexicon/H8101-8200#H8198|maidservant]] [[Lexicon/H1001-1100#H1090|Bilhah [were]]] [[Lexicon/H1801-1900#H1835|Dan]] [[Lexicon/H5301-5400#H5321|and Naphtali.]]
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 25|LXX]] |
 
 ##### Genesis 35 - 26
-[[Lexicon/H1101-1200#H1121|And the sons]] [[Lexicon/H3801-3900#H3812|of Leah’s]] [[Lexicon/H8101-8200#H8198|maidservant]] [[Lexicon/H2101-2200#H2153|Zilpah]] [[Lexicon/H1401-1500#H1410|(were) Gad]] [[Lexicon/H801-900#H836|and Asher.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H1101-1200#H1121|are the sons]] [[Lexicon/H3201-3300#H3290|of Jacob ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3201-3300#H3205|were born]] [[Lexicon/H6301-6400#H6307|in]] [[Lexicon/H701-800#H758|Paddan-aram.]]
+[[Lexicon/H1101-1200#H1121|And the sons]] [[Lexicon/H3801-3900#H3812|of Leah’s]] [[Lexicon/H8101-8200#H8198|maidservant]] [[Lexicon/H2101-2200#H2153|Zilpah]] [[Lexicon/H1401-1500#H1410|[were] Gad]] [[Lexicon/H801-900#H836|and Asher.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H1101-1200#H1121|are the sons]] [[Lexicon/H3201-3300#H3290|of Jacob ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3201-3300#H3205|were born]] [[Lexicon/H6301-6400#H6307|in]] [[Lexicon/H701-800#H758|Paddan-aram.]]
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 26|LXX]] |
 
 ##### Genesis 35 - 27
@@ -126,5 +126,5 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 28|LXX]] |
 
 ##### Genesis 35 - 29
-[[Lexicon/H3301-3400#H3327|Then (he)]] [[Lexicon/H1401-1500#H1478|breathed his last]] [[Lexicon/H4101-4200#H4191|and died]] [[Lexicon/H601-700#H622|and was gathered]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|his people ,]] [[Lexicon/H2201-2300#H2205|old]] [[Lexicon/H7601-7700#H7649|and full]] [[Lexicon/H3101-3200#H3117|of years.]] [[Lexicon/H1101-1200#H1121|And his sons]] [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H3201-3300#H3290|and Jacob]] [[Lexicon/H6901-7000#H6912|buried him]] [[Lexicon/H801-900#H853|-.]]
+[[Lexicon/H3301-3400#H3327|Then [he]]] [[Lexicon/H1401-1500#H1478|breathed his last]] [[Lexicon/H4101-4200#H4191|and died]] [[Lexicon/H601-700#H622|and was gathered]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|his people ,]] [[Lexicon/H2201-2300#H2205|old]] [[Lexicon/H7601-7700#H7649|and full]] [[Lexicon/H3101-3200#H3117|of years.]] [[Lexicon/H1101-1200#H1121|And his sons]] [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H3201-3300#H3290|and Jacob]] [[Lexicon/H6901-7000#H6912|buried him]] [[Lexicon/H801-900#H853|-.]]
 | [[LXX Reference/1 - Genesis/Genesis 35#Genesis 35 - 29|LXX]] |

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# 2 Corinthians 13
+# 2 Corinthians-R 13
 
-[[Readable Bible/47 - 2 Corinthians/2 Corinthians 12|← 2 Corinthians 12]]
+**[[Home/Scripture/47 - 2 Corinthians|2 Corinthians]]**
+
+[[Readable Bible/47 - 2 Corinthians/2 Corinthians 12#2 Corinthians-R 12| 2 Corinthians 12]] - [[Readable Bible/47 - 2 Corinthians/2 Corinthians 14#2 Corinthians-R 14| 2 Corinthians 14]]
 
 ---
 

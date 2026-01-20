@@ -43,7 +43,7 @@ cssClasses: lexicon
 
 # Genesis-R 1
 
-**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
+**[[Home/Scripture/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 2#Genesis-R 2| Genesis 2]]
 
@@ -202,7 +202,7 @@ Cross-references are now stored in dedicated pair files with detailed analysis.
 ## [TOPIC NAME] TRAJECTORY TABLE
 
 
-**Related Books:** [[Home/Indexes/Readable Bible/02 - Exodus|Exodus]] · [[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]
+**Related Books:** [[Home/Scripture/02 - Exodus|Exodus]] · [[Home/Scripture/03 - Leviticus|Leviticus]]
 
 [Introduction paragraph explaining the typology and its fulfillment]
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 33
+# Isaiah-R 33
 
-[[Readable Bible/23 - Isaiah/Isaiah 32|← Isaiah 32]] | [[Readable Bible/23 - Isaiah/Isaiah 34|Isaiah 34 →]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 32#Isaiah-R 32| Isaiah 32]] - [[Readable Bible/23 - Isaiah/Isaiah 34#Isaiah-R 34| Isaiah 34]]
 
 ---
 

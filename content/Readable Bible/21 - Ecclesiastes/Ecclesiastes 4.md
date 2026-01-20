@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ecclesiastes 4
+# Ecclesiastes-R 4
 
-[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 3|← Ecclesiastes 3]] | [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 5|Ecclesiastes 5 →]]
+**[[Home/Scripture/21 - Ecclesiastes|Ecclesiastes]]**
+
+[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 3#Ecclesiastes-R 3| Ecclesiastes 3]] - [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 5#Ecclesiastes-R 5| Ecclesiastes 5]]
 
 ---
 

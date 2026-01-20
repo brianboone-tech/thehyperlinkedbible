@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Revelation 8
+# Revelation-R 8
 
-[[Readable Bible/66 - Revelation/Revelation 7|← Revelation 7]] | [[Readable Bible/66 - Revelation/Revelation 9|Revelation 9 →]]
+**[[Home/Scripture/66 - Revelation|Revelation]]**
+
+[[Readable Bible/66 - Revelation/Revelation 7#Revelation-R 7| Revelation 7]] - [[Readable Bible/66 - Revelation/Revelation 9#Revelation-R 9| Revelation 9]]
 
 ---
 

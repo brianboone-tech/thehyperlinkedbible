@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Obadiah 1
+# Obadiah-R 1
 
-[[Readable Bible/30 - Amos/Amos 9|← Amos 9]] | [[Readable Bible/32 - Jonah/Jonah 1|Jonah 1 →]]
+**[[Home/Scripture/31 - Obadiah|Obadiah]]**
+
+[[Amos-R 9|Amos 9]] • [[Jonah-R 1|Jonah 1]]
 
 ---
 

@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 44
+# Ezekiel-R 44
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 43|← Ezekiel 43]] | [[Readable Bible/26 - Ezekiel/Ezekiel 45|Ezekiel 45 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 43#Ezekiel-R 43| Ezekiel 43]] - [[Readable Bible/26 - Ezekiel/Ezekiel 45#Ezekiel-R 45| Ezekiel 45]]
 
 ---
 
@@ -30,7 +32,7 @@ cssClasses: lexicon
 [[Reference Bible/26 - Ezekiel/Ezekiel 44#Ezekiel 44 - 6|6]] Tell the rebellious house of Israel that this is what the Lord GOD says: ‘I have had enough of all your abominations, O house of Israel.  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 21.28 to Ezekiel 44.6-9|IP]] | [[Chiasm/Chiasm - 26 - Ezekiel 44 . 6 - 16|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 44 - TOSK#Verse 6|TOSK]] |
 
 ##### Ezekiel 44 . 7
-[[Reference Bible/26 - Ezekiel/Ezekiel 44#Ezekiel 44 - 7|7]] In addition to all your other abominations, you brought in foreigners uncircumcised in both heart and flesh to occupy My sanctuary; you defiled My temple when you offered My food—the fat and the blood; you broke My covenant. | [[Chiasm/Chiasm - 26 - Ezekiel 44 . 6 - 16|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 44 - TOSK#Verse 7|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 44 . 6 - 16|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 44 - TOSK#Verse 7|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 44 . 6 - 16|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 44 - TOSK#Verse 7|TOSK]] | | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 21.28 to Ezekiel 44.6-9|IP]] |
+[[Reference Bible/26 - Ezekiel/Ezekiel 44#Ezekiel 44 - 7|7]] In addition to all your other abominations, you brought in foreigners uncircumcised in both heart and flesh to occupy My sanctuary; you defiled My temple when you offered My food—the fat and the blood; you broke My covenant. | [[Chiasm/Chiasm - 26 - Ezekiel 44 . 6 - 16|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 44 - TOSK#Verse 7|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 44 . 6 - 16|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 44 - TOSK#Verse 7|TOSK]] | [[Chiasm/Chiasm - 26 - Ezekiel 44 . 6 - 16|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 44 - TOSK#Verse 7|TOSK]] |  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 21.28 to Ezekiel 44.6-9|IP]] |
 
 ##### Ezekiel 44 . 8
 [[Reference Bible/26 - Ezekiel/Ezekiel 44#Ezekiel 44 - 8|8]] And you have not kept charge of My holy things, but have appointed others to keep charge of My sanctuary for you.’  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 21.28 to Ezekiel 44.6-9|IP]] | [[Chiasm/Chiasm - 26 - Ezekiel 44 . 6 - 16|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 44 - TOSK#Verse 8|TOSK]] |

@@ -17,7 +17,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 1|LXX]] |
 
 ##### Genesis 43 - 2
-[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H801-900#H834|So when]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3615|(Jacob’s sons) had eaten all]] [[Lexicon/H301-400#H398|...]] [[Lexicon/H7601-7700#H7668|the grain]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H901-1000#H935|they had brought]] [[Lexicon/H4701-4800#H4714|from Egypt ,]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to them ,]] [[Lexicon/H7701-7800#H7725|“ Go back]] [[Lexicon/H7601-7700#H7666|and buy]] [[Lexicon/H4501-4600#H4592|a little more]] [[Lexicon/H301-400#H400|food. ”]]
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H801-900#H834|So when]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3615|[Jacob’s sons] had eaten all]] [[Lexicon/H301-400#H398|...]] [[Lexicon/H7601-7700#H7668|the grain]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H901-1000#H935|they had brought]] [[Lexicon/H4701-4800#H4714|from Egypt ,]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to them ,]] [[Lexicon/H7701-7800#H7725|“ Go back]] [[Lexicon/H7601-7700#H7666|and buy]] [[Lexicon/H4501-4600#H4592|a little more]] [[Lexicon/H301-400#H400|food. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 2|LXX]] |
 
 ##### Genesis 43 - 3
@@ -73,15 +73,15 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 15|LXX]] |
 
 ##### Genesis 43 - 16
-[[Lexicon/H3101-3200#H3130|When Joseph]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H1101-1200#H1144|Benjamin]] [[Lexicon/H801-900#H854|with (his brothers) ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|he said]] [[Lexicon/H801-900#H834|to the steward]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H1001-1100#H1004|his house ,]] [[Lexicon/H901-1000#H935|“ Take]] [[Lexicon/H801-900#H853|]] [[Lexicon/H501-600#H582|these men]] [[Lexicon/H1001-1100#H1004|to my house.]] [[Lexicon/H2801-2900#H2873|Slaughter]] [[Lexicon/H2801-2900#H2874|an animal]] [[Lexicon/H3501-3600#H3559|and prepare it ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H301-400#H398|they shall dine]] [[Lexicon/H501-600#H582|...]] [[Lexicon/H801-900#H854|with me]] [[Lexicon/H6601-6700#H6672|at noon. ”]]
+[[Lexicon/H3101-3200#H3130|When Joseph]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H1101-1200#H1144|Benjamin]] [[Lexicon/H801-900#H854|with [his brothers] ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|he said]] [[Lexicon/H801-900#H834|to the steward]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H1001-1100#H1004|his house ,]] [[Lexicon/H901-1000#H935|“ Take]] [[Lexicon/H801-900#H853|]] [[Lexicon/H501-600#H582|these men]] [[Lexicon/H1001-1100#H1004|to my house.]] [[Lexicon/H2801-2900#H2873|Slaughter]] [[Lexicon/H2801-2900#H2874|an animal]] [[Lexicon/H3501-3600#H3559|and prepare it ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H301-400#H398|they shall dine]] [[Lexicon/H501-600#H582|...]] [[Lexicon/H801-900#H854|with me]] [[Lexicon/H6601-6700#H6672|at noon. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 16|LXX]] |
 
 ##### Genesis 43 - 17
-[[Lexicon/H301-400#H376|The man]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H501-600#H559|had commanded]] [[Lexicon/H901-1000#H935|and took]] [[Lexicon/H301-400#H376|(the brothers)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H582|-]] [[Lexicon/H3101-3200#H3130|to Joseph’s]] [[Lexicon/H1001-1100#H1004|house.]]
+[[Lexicon/H301-400#H376|The man]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H501-600#H559|had commanded]] [[Lexicon/H901-1000#H935|and took]] [[Lexicon/H301-400#H376|[the brothers]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H582|-]] [[Lexicon/H3101-3200#H3130|to Joseph’s]] [[Lexicon/H1001-1100#H1004|house.]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 17|LXX]] |
 
 ##### Genesis 43 - 18
-[[Lexicon/H501-600#H582|But the (brothers)]] [[Lexicon/H3301-3400#H3372|were frightened]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H901-1000#H935|they had been taken]] [[Lexicon/H3101-3200#H3130|to Joseph’s]] [[Lexicon/H1001-1100#H1004|house.]] [[Lexicon/H501-600#H587|“ We]] [[Lexicon/H901-1000#H935|have been brought]] [[Lexicon/H5901-6000#H5921|here because of]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H3701-3800#H3701|the silver]] [[Lexicon/H7701-7800#H7725|that was returned]] [[Lexicon/H501-600#H572|in our bags]] [[Lexicon/H8401-8500#H8462|the first time , ”]] [[Lexicon/H501-600#H559|they said.]] [[Lexicon/H1501-1600#H1556|“ They intend]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5301-5400#H5307|to overpower]] [[Lexicon/H5901-6000#H5921|us]] [[Lexicon/H3901-4000#H3947|and take]] [[Lexicon/H801-900#H853|us]] [[Lexicon/H5601-5700#H5650|as slaves ,]] [[Lexicon/H801-900#H853|along with]] [[Lexicon/H2501-2600#H2543|our donkeys. ”]]
+[[Lexicon/H501-600#H582|But the [brothers]]] [[Lexicon/H3301-3400#H3372|were frightened]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H901-1000#H935|they had been taken]] [[Lexicon/H3101-3200#H3130|to Joseph’s]] [[Lexicon/H1001-1100#H1004|house.]] [[Lexicon/H501-600#H587|“ We]] [[Lexicon/H901-1000#H935|have been brought]] [[Lexicon/H5901-6000#H5921|here because of]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H3701-3800#H3701|the silver]] [[Lexicon/H7701-7800#H7725|that was returned]] [[Lexicon/H501-600#H572|in our bags]] [[Lexicon/H8401-8500#H8462|the first time , ”]] [[Lexicon/H501-600#H559|they said.]] [[Lexicon/H1501-1600#H1556|“ They intend]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5301-5400#H5307|to overpower]] [[Lexicon/H5901-6000#H5921|us]] [[Lexicon/H3901-4000#H3947|and take]] [[Lexicon/H801-900#H853|us]] [[Lexicon/H5601-5700#H5650|as slaves ,]] [[Lexicon/H801-900#H853|along with]] [[Lexicon/H2501-2600#H2543|our donkeys. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 18|LXX]] |
 
 ##### Genesis 43 - 19
@@ -93,7 +93,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 20|LXX]] |
 
 ##### Genesis 43 - 21
-[[Lexicon/H1901-2000#H1961|But]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H901-1000#H935|we came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4401-4500#H4411|the place we lodged for the night ,]] [[Lexicon/H6601-6700#H6605|we opened]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H572|our sacks]] [[Lexicon/H2001-2100#H2009|and, behold ,]] [[Lexicon/H301-400#H376|each of us (found)]] [[Lexicon/H3701-3800#H3701|his silver]] [[Lexicon/H6301-6400#H6310|in the mouth]] [[Lexicon/H501-600#H572|of his sack !]] [[Lexicon/H4901-5000#H4948|It was the full amount]] [[Lexicon/H3701-3800#H3701|of our silver ,]] [[Lexicon/H7701-7800#H7725|and we have brought it back]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3027|with us.]]
+[[Lexicon/H1901-2000#H1961|But]] [[Lexicon/H3501-3600#H3588|when]] [[Lexicon/H901-1000#H935|we came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4401-4500#H4411|the place we lodged for the night ,]] [[Lexicon/H6601-6700#H6605|we opened]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H572|our sacks]] [[Lexicon/H2001-2100#H2009|and, behold ,]] [[Lexicon/H301-400#H376|each of us [found]]] [[Lexicon/H3701-3800#H3701|his silver]] [[Lexicon/H6301-6400#H6310|in the mouth]] [[Lexicon/H501-600#H572|of his sack !]] [[Lexicon/H4901-5000#H4948|It was the full amount]] [[Lexicon/H3701-3800#H3701|of our silver ,]] [[Lexicon/H7701-7800#H7725|and we have brought it back]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3027|with us.]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 21|LXX]] |
 
 ##### Genesis 43 - 22
@@ -101,15 +101,15 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 22|LXX]] |
 
 ##### Genesis 43 - 23
-[[Lexicon/H7901-8000#H7965|“ It is fine]] [[Lexicon/H501-600#H559|said the steward.]] [[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H3301-3400#H3372|be afraid.]] [[Lexicon/H401-500#H430|Your God ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H1-100#H1|of your father ,]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H4301-4400#H4301|the treasure]] [[Lexicon/H501-600#H572|(that was) in your sacks.]] [[Lexicon/H901-1000#H935|I received]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3701-3800#H3701|your silver. ”]] [[Lexicon/H8001-8100#H8095|Then he brought Simeon]] [[Lexicon/H3301-3400#H3318|out]] [[Lexicon/H401-500#H413|to them]] [[Lexicon/H801-900#H853|-.]]
+[[Lexicon/H7901-8000#H7965|“ It is fine]] [[Lexicon/H501-600#H559|said the steward.]] [[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H3301-3400#H3372|be afraid.]] [[Lexicon/H401-500#H430|Your God ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H1-100#H1|of your father ,]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H4301-4400#H4301|the treasure]] [[Lexicon/H501-600#H572|[that was] in your sacks.]] [[Lexicon/H901-1000#H935|I received]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3701-3800#H3701|your silver. ”]] [[Lexicon/H8001-8100#H8095|Then he brought Simeon]] [[Lexicon/H3301-3400#H3318|out]] [[Lexicon/H401-500#H413|to them]] [[Lexicon/H801-900#H853|-.]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 23|LXX]] |
 
 ##### Genesis 43 - 24
-[[Lexicon/H301-400#H376|And the (steward)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H935|took]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H3101-3200#H3130|into Joseph’s]] [[Lexicon/H1001-1100#H1004|house ,]] [[Lexicon/H5401-5500#H5414|gave them]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H7301-7400#H7364|to wash]] [[Lexicon/H7201-7300#H7272|their feet ,]] [[Lexicon/H5401-5500#H5414|and provided]] [[Lexicon/H4501-4600#H4554|food]] [[Lexicon/H2501-2600#H2543|for their donkeys.]]
+[[Lexicon/H301-400#H376|And the [steward]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H935|took]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H3101-3200#H3130|into Joseph’s]] [[Lexicon/H1001-1100#H1004|house ,]] [[Lexicon/H5401-5500#H5414|gave them]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H7301-7400#H7364|to wash]] [[Lexicon/H7201-7300#H7272|their feet ,]] [[Lexicon/H5401-5500#H5414|and provided]] [[Lexicon/H4501-4600#H4554|food]] [[Lexicon/H2501-2600#H2543|for their donkeys.]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 24|LXX]] |
 
 ##### Genesis 43 - 25
-[[Lexicon/H3501-3600#H3588|Since]] [[Lexicon/H8001-8100#H8085|(the brothers) had been told]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H301-400#H398|they were going to eat]] [[Lexicon/H3801-3900#H3899|a meal]] [[Lexicon/H8001-8100#H8033|there ,]] [[Lexicon/H3501-3600#H3559|they prepared]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4501-4600#H4503|their gift]] [[Lexicon/H5701-5800#H5704|for]] [[Lexicon/H3101-3200#H3130|Joseph’s]] [[Lexicon/H901-1000#H935|arrival]] [[Lexicon/H6601-6700#H6672|at noon.]]
+[[Lexicon/H3501-3600#H3588|Since]] [[Lexicon/H8001-8100#H8085|[the brothers] had been told]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H301-400#H398|they were going to eat]] [[Lexicon/H3801-3900#H3899|a meal]] [[Lexicon/H8001-8100#H8033|there ,]] [[Lexicon/H3501-3600#H3559|they prepared]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4501-4600#H4503|their gift]] [[Lexicon/H5701-5800#H5704|for]] [[Lexicon/H3101-3200#H3130|Joseph’s]] [[Lexicon/H901-1000#H935|arrival]] [[Lexicon/H6601-6700#H6672|at noon.]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 25|LXX]] |
 
 ##### Genesis 43 - 26
@@ -117,7 +117,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 26|LXX]] |
 
 ##### Genesis 43 - 27
-[[Lexicon/H7501-7600#H7592|He asked]] [[Lexicon/H7901-8000#H7965|if they were well ,]] [[Lexicon/H501-600#H559|and then he asked ,]] [[Lexicon/H7901-8000#H7965|“ vvv]] [[Lexicon/H2201-2300#H2205|How is your elderly]] [[Lexicon/H1-100#H1|father]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H559|you told (me about) ?]] [[Lexicon/H5701-5800#H5750|Is he still]] [[Lexicon/H2401-2500#H2416|alive ? ”]]
+[[Lexicon/H7501-7600#H7592|He asked]] [[Lexicon/H7901-8000#H7965|if they were well ,]] [[Lexicon/H501-600#H559|and then he asked ,]] [[Lexicon/H7901-8000#H7965|“ vvv]] [[Lexicon/H2201-2300#H2205|How is your elderly]] [[Lexicon/H1-100#H1|father]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H559|you told [me about] ?]] [[Lexicon/H5701-5800#H5750|Is he still]] [[Lexicon/H2401-2500#H2416|alive ? ”]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 27|LXX]] |
 
 ##### Genesis 43 - 28
@@ -125,7 +125,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 28|LXX]] |
 
 ##### Genesis 43 - 29
-[[Lexicon/H5301-5400#H5375|When (Joseph) looked up]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H7101-7200#H7200|and saw]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H251|his brother]] [[Lexicon/H1101-1200#H1144|Benjamin ,]] [[Lexicon/H501-600#H517|his own mother’s]] [[Lexicon/H1101-1200#H1121|son ,]] [[Lexicon/H501-600#H559|he asked ,]] [[Lexicon/H2001-2100#H2088|“ Is this]] [[Lexicon/H6901-7000#H6996|your youngest]] [[Lexicon/H201-300#H251|brother ,]] [[Lexicon/H801-900#H834|the one]] [[Lexicon/H501-600#H559|you told me about ? ”]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H501-600#H559|Then he declared ,]] [[Lexicon/H401-500#H430|“ May God]] [[Lexicon/H2601-2700#H2603|be gracious to you ,]] [[Lexicon/H1101-1200#H1121|my son. ”]]
+[[Lexicon/H5301-5400#H5375|When [Joseph] looked up]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H7101-7200#H7200|and saw]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H251|his brother]] [[Lexicon/H1101-1200#H1144|Benjamin ,]] [[Lexicon/H501-600#H517|his own mother’s]] [[Lexicon/H1101-1200#H1121|son ,]] [[Lexicon/H501-600#H559|he asked ,]] [[Lexicon/H2001-2100#H2088|“ Is this]] [[Lexicon/H6901-7000#H6996|your youngest]] [[Lexicon/H201-300#H251|brother ,]] [[Lexicon/H801-900#H834|the one]] [[Lexicon/H501-600#H559|you told me about ? ”]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H501-600#H559|Then he declared ,]] [[Lexicon/H401-500#H430|“ May God]] [[Lexicon/H2601-2700#H2603|be gracious to you ,]] [[Lexicon/H1101-1200#H1121|my son. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 29|LXX]] |
 
 ##### Genesis 43 - 30
@@ -137,13 +137,13 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 31|LXX]] |
 
 ##### Genesis 43 - 32
-[[Lexicon/H7701-7800#H7760|They separately served]] [[Lexicon/H901-1000#H905|Joseph ,]] [[Lexicon/H901-1000#H905|(his brothers) ,]] [[Lexicon/H4701-4800#H4713|and the Egyptians.]] [[Lexicon/H301-400#H398|They ate]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H901-1000#H905|separately]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H4701-4800#H4713|the Egyptians]] [[Lexicon/H3201-3300#H3201|would]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H3801-3900#H3899|...]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H5601-5700#H5680|the Hebrews - ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H8401-8500#H8441|was detestable]] [[Lexicon/H4701-4800#H4713|to them.]]
+[[Lexicon/H7701-7800#H7760|They separately served]] [[Lexicon/H901-1000#H905|Joseph ,]] [[Lexicon/H901-1000#H905|[his brothers] ,]] [[Lexicon/H4701-4800#H4713|and the Egyptians.]] [[Lexicon/H301-400#H398|They ate]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H901-1000#H905|separately]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H4701-4800#H4713|the Egyptians]] [[Lexicon/H3201-3300#H3201|would]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H3801-3900#H3899|...]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H5601-5700#H5680|the Hebrews - ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H8401-8500#H8441|was detestable]] [[Lexicon/H4701-4800#H4713|to them.]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 32|LXX]] |
 
 ##### Genesis 43 - 33
-[[Lexicon/H3401-3500#H3427|They were seated]] [[Lexicon/H6401-6500#H6440|before (Joseph)]] [[Lexicon/H1001-1100#H1062|in order by age ,]] [[Lexicon/H6801-6900#H6812|...]] [[Lexicon/H1001-1100#H1060|from the firstborn]] [[Lexicon/H6801-6900#H6810|to the youngest ,]] [[Lexicon/H501-600#H582|and the men]] [[Lexicon/H401-500#H413|looked at]] [[Lexicon/H301-400#H376|one]] [[Lexicon/H7401-7500#H7453|another]] [[Lexicon/H8501-8600#H8539|in astonishment.]]
+[[Lexicon/H3401-3500#H3427|They were seated]] [[Lexicon/H6401-6500#H6440|before [Joseph]]] [[Lexicon/H1001-1100#H1062|in order by age ,]] [[Lexicon/H6801-6900#H6812|...]] [[Lexicon/H1001-1100#H1060|from the firstborn]] [[Lexicon/H6801-6900#H6810|to the youngest ,]] [[Lexicon/H501-600#H582|and the men]] [[Lexicon/H401-500#H413|looked at]] [[Lexicon/H301-400#H376|one]] [[Lexicon/H7401-7500#H7453|another]] [[Lexicon/H8501-8600#H8539|in astonishment.]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 33|LXX]] |
 
 ##### Genesis 43 - 34
-[[Lexicon/H4801-4900#H4864|When the portions]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H5301-5400#H5375|were served]] [[Lexicon/H401-500#H413|to them]] [[Lexicon/H6401-6500#H6440|from Joseph’s table ,]] [[Lexicon/H1101-1200#H1144|Benjamin’s]] [[Lexicon/H4801-4900#H4864|...]] [[Lexicon/H4801-4900#H4864|portion]] [[Lexicon/H2501-2600#H2568|was five]] [[Lexicon/H3001-3100#H3027|times]] [[Lexicon/H7201-7300#H7235|larger than]] [[Lexicon/H3601-3700#H3605|any of the others.]] [[Lexicon/H8301-8400#H8354|So they feasted]] [[Lexicon/H7901-8000#H7937|and drank freely]] [[Lexicon/H5901-6000#H5973|with (Joseph).]]
+[[Lexicon/H4801-4900#H4864|When the portions]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H5301-5400#H5375|were served]] [[Lexicon/H401-500#H413|to them]] [[Lexicon/H6401-6500#H6440|from Joseph’s table ,]] [[Lexicon/H1101-1200#H1144|Benjamin’s]] [[Lexicon/H4801-4900#H4864|...]] [[Lexicon/H4801-4900#H4864|portion]] [[Lexicon/H2501-2600#H2568|was five]] [[Lexicon/H3001-3100#H3027|times]] [[Lexicon/H7201-7300#H7235|larger than]] [[Lexicon/H3601-3700#H3605|any of the others.]] [[Lexicon/H8301-8400#H8354|So they feasted]] [[Lexicon/H7901-8000#H7937|and drank freely]] [[Lexicon/H5901-6000#H5973|with [Joseph].]]
 | [[LXX Reference/1 - Genesis/Genesis 43#Genesis 43 - 34|LXX]] |

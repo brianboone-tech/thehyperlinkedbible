@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Ezekiel 30
+# Ezekiel-R 30
 
-[[Readable Bible/26 - Ezekiel/Ezekiel 29|← Ezekiel 29]] | [[Readable Bible/26 - Ezekiel/Ezekiel 31|Ezekiel 31 →]]
+**[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 29#Ezekiel-R 29| Ezekiel 29]] - [[Readable Bible/26 - Ezekiel/Ezekiel 31#Ezekiel-R 31| Ezekiel 31]]
 
 ---
 

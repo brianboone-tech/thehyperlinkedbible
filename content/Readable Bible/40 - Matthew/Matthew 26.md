@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Matthew 26
+# Matthew-R 26
 
-[[Readable Bible/40 - Matthew/Matthew 25|← Matthew 25]] | [[Readable Bible/40 - Matthew/Matthew 27|Matthew 27 →]]
+**[[Home/Scripture/40 - Matthew|Matthew]]**
+
+[[Readable Bible/40 - Matthew/Matthew 25#Matthew-R 25| Matthew 25]] - [[Readable Bible/40 - Matthew/Matthew 27#Matthew-R 27| Matthew 27]]
 
 ---
 

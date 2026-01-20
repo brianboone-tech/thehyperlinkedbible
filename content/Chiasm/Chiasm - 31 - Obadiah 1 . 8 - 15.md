@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/31 - Obadiah|← Obadiah]]**
+**[[Home/Scripture/31 - Obadiah|← Obadiah]]**
 
 ---
 

@@ -54,7 +54,7 @@ Testament: Old
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1401-1500#G1473|he]] [[Lexicon/G1001-1100#G1097|knew]] [[Lexicon/G4101-4200#G4110|our shape,]] [[Lexicon/G3401-3500#G3403|he remembered]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G5501-5600#G5522|we are dust.]]
 
 #### Psalms 103 - 15
-[[Lexicon/G401-500#G0444|Man,]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5501-5600#G5528|grass,]] [[Lexicon/G2201-2300#G2250|so are his days;]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G401-500#G0438|a flower]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1-100#G0068|field,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G1801-1900#G1816|he shall blossom.]]
+[[Lexicon/G401-500#G0444|Man,]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5501-5600#G5528|grass,]] [[Lexicon/G2201-2300#G2250|so are his days;]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G401-500#G0438|a flower]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1-100#G0068|field,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G1801-1900#G1816|he shall blossom.]]
 
 #### Psalms 103 - 16
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4101-4200#G4151|as wind]] [[Lexicon/G1301-1400#G1330|goes]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|it no longer]] [[Lexicon/G5201-5300#G5224|exists,]] [[Lexicon/G2501-2600#G2532|so also]] [[Lexicon/G3701-3800#G3756|he shall not]] [[Lexicon/G1901-2000#G1921|recognize]] [[Lexicon/G2001-2100#G2089|any longer]]

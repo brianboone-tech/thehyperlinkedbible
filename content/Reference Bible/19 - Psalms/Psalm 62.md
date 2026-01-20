@@ -14,7 +14,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 62#Psalm 62 - 1|LXX]] |
 
 ##### Psalm 62 - 2
-[[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H301-400#H389|alone]] [[Lexicon/H6601-6700#H6697|is my rock]] [[Lexicon/H3401-3500#H3444|and my salvation.]] [[Lexicon/H4801-4900#H4869|(He is) my fortress ;]] [[Lexicon/H3801-3900#H3808|I will never]] [[Lexicon/H4101-4200#H4131|be shaken]] [[Lexicon/H7201-7300#H7227|....]]
+[[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H301-400#H389|alone]] [[Lexicon/H6601-6700#H6697|is my rock]] [[Lexicon/H3401-3500#H3444|and my salvation.]] [[Lexicon/H4801-4900#H4869|[He is] my fortress ;]] [[Lexicon/H3801-3900#H3808|I will never]] [[Lexicon/H4101-4200#H4131|be shaken]] [[Lexicon/H7201-7300#H7227|....]]
 | [[LXX Reference/19 - Psalms/Psalms 62#Psalm 62 - 2|LXX]] |
 
 ##### Psalm 62 - 3
@@ -30,7 +30,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 62#Psalm 62 - 5|LXX]] |
 
 ##### Psalm 62 - 6
-[[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H301-400#H389|alone]] [[Lexicon/H6601-6700#H6697|is my rock]] [[Lexicon/H3401-3500#H3444|and my salvation ;]] [[Lexicon/H4801-4900#H4869|(He is) my fortress ;]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H4101-4200#H4131|be shaken.]]
+[[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H301-400#H389|alone]] [[Lexicon/H6601-6700#H6697|is my rock]] [[Lexicon/H3401-3500#H3444|and my salvation ;]] [[Lexicon/H4801-4900#H4869|[He is] my fortress ;]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H4101-4200#H4131|be shaken.]]
 | [[LXX Reference/19 - Psalms/Psalms 62#Psalm 62 - 6|LXX]] |
 
 ##### Psalm 62 - 7
@@ -42,11 +42,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 62#Psalm 62 - 8|LXX]] |
 
 ##### Psalm 62 - 9
-[[Lexicon/H1101-1200#H1121|Lowborn]] [[Lexicon/H101-200#H120|men]] [[Lexicon/H301-400#H389|(are) but]] [[Lexicon/H1801-1900#H1892|a vapor ,]] [[Lexicon/H1101-1200#H1121|the exalted]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H3501-3600#H3577|but a lie.]] [[Lexicon/H3901-4000#H3976|Weighed on the scale ,]] [[Lexicon/H1901-2000#H1992|they]] [[Lexicon/H5901-6000#H5927|go up ;]] [[Lexicon/H3101-3200#H3162|together]] [[Lexicon/H1801-1900#H1892|they are but a vapor.]]
+[[Lexicon/H1101-1200#H1121|Lowborn]] [[Lexicon/H101-200#H120|men]] [[Lexicon/H301-400#H389|[are] but]] [[Lexicon/H1801-1900#H1892|a vapor ,]] [[Lexicon/H1101-1200#H1121|the exalted]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H3501-3600#H3577|but a lie.]] [[Lexicon/H3901-4000#H3976|Weighed on the scale ,]] [[Lexicon/H1901-2000#H1992|they]] [[Lexicon/H5901-6000#H5927|go up ;]] [[Lexicon/H3101-3200#H3162|together]] [[Lexicon/H1801-1900#H1892|they are but a vapor.]]
 | [[LXX Reference/19 - Psalms/Psalms 62#Psalm 62 - 9|LXX]] |
 
 ##### Psalm 62 - 10
-[[Lexicon/H401-500#H408|Place no]] [[Lexicon/H901-1000#H982|trust]] [[Lexicon/H6201-6300#H6233|in extortion ,]] [[Lexicon/H1801-1900#H1891|or false hope]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H1401-1500#H1498|in stolen goods.]] [[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H2401-2500#H2428|your riches]] [[Lexicon/H5101-5200#H5107|increase ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H7801-7900#H7896|set]] [[Lexicon/H3801-3900#H3820|your heart (upon them).]]
+[[Lexicon/H401-500#H408|Place no]] [[Lexicon/H901-1000#H982|trust]] [[Lexicon/H6201-6300#H6233|in extortion ,]] [[Lexicon/H1801-1900#H1891|or false hope]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H1401-1500#H1498|in stolen goods.]] [[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H2401-2500#H2428|your riches]] [[Lexicon/H5101-5200#H5107|increase ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H7801-7900#H7896|set]] [[Lexicon/H3801-3900#H3820|your heart [upon them].]]
 | [[LXX Reference/19 - Psalms/Psalms 62#Psalm 62 - 10|LXX]] |
 
 ##### Psalm 62 - 11

@@ -10,7 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Job 41 - 1
-[[Lexicon/H4801-4900#H4900|(“) Can you pull in]] [[Lexicon/H3801-3900#H3882|Leviathan]] [[Lexicon/H2401-2500#H2443|with a hook]] [[Lexicon/H3901-4000#H3956|or tie down his tongue]] [[Lexicon/H8201-8300#H8257|...]] [[Lexicon/H2201-2300#H2256|with a rope ?]]
+[[Lexicon/H4801-4900#H4900|[“] Can you pull in]] [[Lexicon/H3801-3900#H3882|Leviathan]] [[Lexicon/H2401-2500#H2443|with a hook]] [[Lexicon/H3901-4000#H3956|or tie down his tongue]] [[Lexicon/H8201-8300#H8257|...]] [[Lexicon/H2201-2300#H2256|with a rope ?]]
 
 ##### Job 41 - 2
 [[Lexicon/H7701-7800#H7760|Can you put]] [[Lexicon/H1-100#H100|a cord]] [[Lexicon/H601-700#H639|through his nose]] [[Lexicon/H5301-5400#H5344|or pierce]] [[Lexicon/H3801-3900#H3895|his jaw]] [[Lexicon/H2301-2400#H2336|with a hook ?]]
@@ -34,7 +34,7 @@ cssClasses: lexicon
 [[Lexicon/H7701-7800#H7760|If you lay]] [[Lexicon/H3701-3800#H3709|a hand]] [[Lexicon/H5901-6000#H5921|on him ,]] [[Lexicon/H2101-2200#H2142|you will remember]] [[Lexicon/H4401-4500#H4421|the battle]] [[Lexicon/H401-500#H408|and never]] [[Lexicon/H3201-3300#H3254|repeat it !]]
 
 ##### Job 41 - 9
-[[Lexicon/H2001-2100#H2005|Surely]] [[Lexicon/H8401-8500#H8431|hope of (overcoming) him]] [[Lexicon/H3501-3600#H3576|is false.]] [[Lexicon/H1501-1600#H1571|Is not]] [[Lexicon/H401-500#H413|]] [[Lexicon/H4701-4800#H4758|the sight of him]] [[Lexicon/H2901-3000#H2904|overwhelming ?]]
+[[Lexicon/H2001-2100#H2005|Surely]] [[Lexicon/H8401-8500#H8431|hope of [overcoming] him]] [[Lexicon/H3501-3600#H3576|is false.]] [[Lexicon/H1501-1600#H1571|Is not]] [[Lexicon/H401-500#H413|]] [[Lexicon/H4701-4800#H4758|the sight of him]] [[Lexicon/H2901-3000#H2904|overwhelming ?]]
 
 ##### Job 41 - 10
 [[Lexicon/H3801-3900#H3808|No one]] [[Lexicon/H301-400#H393|is so fierce]] [[Lexicon/H3501-3600#H3588|as to]] [[Lexicon/H5701-5800#H5782|rouse Leviathan.]] [[Lexicon/H4301-4400#H4310|Then who]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3301-3400#H3320|is able to stand]] [[Lexicon/H6401-6500#H6440|against Me ?]]
@@ -46,13 +46,13 @@ cssClasses: lexicon
 [[Lexicon/H3801-3900#H3808|I cannot]] [[Lexicon/H2701-2800#H2790|keep silent]] [[Lexicon/H901-1000#H907|about his limbs ,]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H1301-1400#H1369|his power]] [[Lexicon/H2401-2500#H2433|and graceful]] [[Lexicon/H6101-6200#H6187|form.]]
 
 ##### Job 41 - 13
-[[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H1501-1600#H1540|can strip off]] [[Lexicon/H6401-6500#H6440|his outer]] [[Lexicon/H3801-3900#H3830|coat ?]] [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H901-1000#H935|can approach (him)]] [[Lexicon/H3701-3800#H3718|with a bridle]] [[Lexicon/H7401-7500#H7448|?]]
+[[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H1501-1600#H1540|can strip off]] [[Lexicon/H6401-6500#H6440|his outer]] [[Lexicon/H3801-3900#H3830|coat ?]] [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H901-1000#H935|can approach [him]]] [[Lexicon/H3701-3800#H3718|with a bridle]] [[Lexicon/H7401-7500#H7448|?]]
 
 ##### Job 41 - 14
 [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H6601-6700#H6605|can open]] [[Lexicon/H1801-1900#H1817|his jaws]] [[Lexicon/H6401-6500#H6440|... ,]] [[Lexicon/H5401-5500#H5439|ringed]] [[Lexicon/H301-400#H367|by his fearsome]] [[Lexicon/H8101-8200#H8127|teeth ?]]
 
 ##### Job 41 - 15
-[[Lexicon/H601-700#H650|(His) rows]] [[Lexicon/H4001-4100#H4043|of scales are]] [[Lexicon/H1301-1400#H1346|(his) pride ,]] [[Lexicon/H5401-5500#H5462|tightly]] [[Lexicon/H2301-2400#H2368|sealed together]] [[Lexicon/H6801-6900#H6862|....]]
+[[Lexicon/H601-700#H650|[His] rows]] [[Lexicon/H4001-4100#H4043|of scales are]] [[Lexicon/H1301-1400#H1346|[his] pride ,]] [[Lexicon/H5401-5500#H5462|tightly]] [[Lexicon/H2301-2400#H2368|sealed together]] [[Lexicon/H6801-6900#H6862|....]]
 
 ##### Job 41 - 16
 [[Lexicon/H201-300#H259|One scale]] [[Lexicon/H5001-5100#H5066|is so near]] [[Lexicon/H201-300#H259|to another]] [[Lexicon/H3801-3900#H3808|that no]] [[Lexicon/H7301-7400#H7307|air]] [[Lexicon/H901-1000#H935|can pass]] [[Lexicon/H901-1000#H996|between them.]]

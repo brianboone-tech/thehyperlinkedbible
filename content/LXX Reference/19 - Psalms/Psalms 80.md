@@ -12,7 +12,7 @@ Testament: Old
 ---
 
 #### Psalms 80 - 1
-[[Lexicon/G3501-3600#G3588|O one]] [[Lexicon/G4101-4200#G4165|tending]] Israel, [[Lexicon/G4301-4400#G4337|take heed!]] [[Lexicon/G3501-3600#G3588|O one]] [[Lexicon/G3501-3600#G3594|guiding]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2501-2600#G2521|sitting down]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5501-5600#G5502|cherubim]] [[Lexicon/G1701-1800#G1716|appear!]]
+[[Lexicon/G3501-3600#G3588|O one]] [[Lexicon/G4101-4200#G4165|tending]] Israel, [[Lexicon/G4301-4400#G4337|take heed!]] [[Lexicon/G3501-3600#G3588|O one]] [[Lexicon/G3501-3600#G3594|guiding]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2501-2600#G2521|sitting down]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5501-5600#G5502|cherubim]] [[Lexicon/G1701-1800#G1716|appear!]]
 
 #### Psalms 80 - 2
 [[Lexicon/G1701-1800#G1726|Before]] Ephraim, [[Lexicon/G2501-2600#G2532|and]] Benjamin, [[Lexicon/G2501-2600#G2532|and]] Manasseh [[Lexicon/G1801-1900#G1825|awaken]] [[Lexicon/G1401-1500#G1412|your might,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2064|come]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4901-5000#G4982|delivering]] [[Lexicon/G1401-1500#G1473|us!]]

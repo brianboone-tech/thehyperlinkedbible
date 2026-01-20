@@ -1,8 +1,4 @@
----
-cssclasses: chiasm
----
-
-**[[Home/Indexes/Readable Bible/61 - 2 Peter|← 2 Peter]]**
+**[[Home/Scripture/61 - 2 Peter|← 2 Peter]]**
 
 ---
 

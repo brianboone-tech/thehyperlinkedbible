@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Jeremiah 22
+# Jeremiah-R 22
 
-[[Readable Bible/24 - Jeremiah/Jeremiah 21|← Jeremiah 21]] | [[Readable Bible/24 - Jeremiah/Jeremiah 23|Jeremiah 23 →]]
+**[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 21#Jeremiah-R 21| Jeremiah 21]] - [[Readable Bible/24 - Jeremiah/Jeremiah 23#Jeremiah-R 23| Jeremiah 23]]
 
 ---
 

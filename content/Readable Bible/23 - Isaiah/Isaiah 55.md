@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Isaiah 55
+# Isaiah-R 55
 
-[[Readable Bible/23 - Isaiah/Isaiah 54|← Isaiah 54]] | [[Readable Bible/23 - Isaiah/Isaiah 56|Isaiah 56 →]]
+**[[Home/Scripture/23 - Isaiah|Isaiah]]**
+
+[[Readable Bible/23 - Isaiah/Isaiah 54#Isaiah-R 54| Isaiah 54]] - [[Readable Bible/23 - Isaiah/Isaiah 56#Isaiah-R 56| Isaiah 56]]
 
 ---
 
@@ -42,7 +44,7 @@ cssClasses: lexicon
 [[Reference Bible/23 - Isaiah/Isaiah 55#Isaiah 55 - 10|10]] For just as rain and snow fall from heaven and do not return without watering the earth, making it bud and sprout, and providing seed to sow and food to eat,  | [[Intertextuality Pairs/NT to OT/43 - John/John 16.28 to Isaiah 55.10-11|IP]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 55 - TOSK#Verse 10|TOSK]] |
 
 ##### Isaiah 55 . 11
-[[Reference Bible/23 - Isaiah/Isaiah 55#Isaiah 55 - 11|11]] so My word that proceeds from My mouth will not return to Me empty, but it will accomplish what I please, and it will prosper where I send it. | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 55 - TOSK#Verse 11|TOSK]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 55 - TOSK#Verse 11|TOSK]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 55 - TOSK#Verse 11|TOSK]] | | [[Intertextuality Pairs/NT to OT/43 - John/John 16.28 to Isaiah 55.10-11|IP]] |
+[[Reference Bible/23 - Isaiah/Isaiah 55#Isaiah 55 - 11|11]] so My word that proceeds from My mouth will not return to Me empty, but it will accomplish what I please, and it will prosper where I send it. | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 55 - TOSK#Verse 11|TOSK]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 55 - TOSK#Verse 11|TOSK]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 55 - TOSK#Verse 11|TOSK]] |  | [[Intertextuality Pairs/NT to OT/43 - John/John 16.28 to Isaiah 55.10-11|IP]] |
 
 ##### Isaiah 55 . 12
 [[Reference Bible/23 - Isaiah/Isaiah 55#Isaiah 55 - 12|12]] You will indeed go out with joy and be led forth in peace; the mountains and hills will burst into song before you, and all the trees of the field will clap their hands.  | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 55 - TOSK#Verse 12|TOSK]] |

@@ -17,7 +17,7 @@ Chapter: "8"
 | [[LXX Reference/4 - Numbers/Numbers 8#Numbers 8 - 1|LXX]] |
 
 ##### Numbers 8 - 2
-[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H501-600#H559|and tell]] [[Lexicon/H401-500#H413|him :]] [[Lexicon/H5901-6000#H5927|‘ When you set up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5216|-]] [[Lexicon/H401-500#H413|-]] [[Lexicon/H7601-7700#H7651|the seven]] [[Lexicon/H5201-5300#H5216|lamps ,]] [[Lexicon/H201-300#H215|they are to light (the area)]] [[Lexicon/H4101-4200#H4136|in front]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H4501-4600#H4501|of the lampstand. ’”]]
+[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H501-600#H559|and tell]] [[Lexicon/H401-500#H413|him :]] [[Lexicon/H5901-6000#H5927|‘ When you set up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5216|-]] [[Lexicon/H401-500#H413|-]] [[Lexicon/H7601-7700#H7651|the seven]] [[Lexicon/H5201-5300#H5216|lamps ,]] [[Lexicon/H201-300#H215|they are to light [the area]]] [[Lexicon/H4101-4200#H4136|in front]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H4501-4600#H4501|of the lampstand. ’”]]
 | [[LXX Reference/4 - Numbers/Numbers 8#Numbers 8 - 2|LXX]] |
 
 ##### Numbers 8 - 3
@@ -49,7 +49,7 @@ Chapter: "8"
 | [[LXX Reference/4 - Numbers/Numbers 8#Numbers 8 - 9|LXX]] |
 
 ##### Numbers 8 - 10
-[[Lexicon/H7101-7200#H7126|You are to present]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3881|the Levites]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1101-1200#H1121|and have the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5501-5600#H5564|lay]] [[Lexicon/H3001-3100#H3027|their hands]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H3801-3900#H3881|(them).]]
+[[Lexicon/H7101-7200#H7126|You are to present]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3881|the Levites]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1101-1200#H1121|and have the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5501-5600#H5564|lay]] [[Lexicon/H3001-3100#H3027|their hands]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H3801-3900#H3881|[them].]]
 | [[LXX Reference/4 - Numbers/Numbers 8#Numbers 8 - 10|LXX]] |
 
 ##### Numbers 8 - 11
@@ -69,11 +69,11 @@ Chapter: "8"
 | [[LXX Reference/4 - Numbers/Numbers 8#Numbers 8 - 14|LXX]] |
 
 ##### Numbers 8 - 15
-[[Lexicon/H301-400#H310|After]] [[Lexicon/H3601-3700#H3651|-]] [[Lexicon/H2801-2900#H2891|you have cleansed]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H5101-5200#H5130|and presented]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H8501-8600#H8573|as a wave offering ,]] [[Lexicon/H3801-3900#H3881|(they)]] [[Lexicon/H901-1000#H935|may come]] [[Lexicon/H5601-5700#H5647|to serve]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H168|at the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting.]]
+[[Lexicon/H301-400#H310|After]] [[Lexicon/H3601-3700#H3651|-]] [[Lexicon/H2801-2900#H2891|you have cleansed]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H5101-5200#H5130|and presented]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H8501-8600#H8573|as a wave offering ,]] [[Lexicon/H3801-3900#H3881|[they]]] [[Lexicon/H901-1000#H935|may come]] [[Lexicon/H5601-5700#H5647|to serve]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H168|at the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting.]]
 | [[LXX Reference/4 - Numbers/Numbers 8#Numbers 8 - 15|LXX]] |
 
 ##### Numbers 8 - 16
-[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1992|(the Levites)]] [[Lexicon/H5401-5500#H5414|have been wholly given]] [[Lexicon/H5401-5500#H5414|...]] [[Lexicon/H8401-8500#H8432|from among]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H3401-3500#H3478|of Israel.]] [[Lexicon/H3901-4000#H3947|I have taken]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H8401-8500#H8478|in place of]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6301-6400#H6363|who come first]] [[Lexicon/H7301-7400#H7358|from the womb ,]] [[Lexicon/H1001-1100#H1060|the firstborn]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H3401-3500#H3478|of Israel.]]
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1992|[the Levites]]] [[Lexicon/H5401-5500#H5414|have been wholly given]] [[Lexicon/H5401-5500#H5414|...]] [[Lexicon/H8401-8500#H8432|from among]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H3401-3500#H3478|of Israel.]] [[Lexicon/H3901-4000#H3947|I have taken]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H8401-8500#H8478|in place of]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6301-6400#H6363|who come first]] [[Lexicon/H7301-7400#H7358|from the womb ,]] [[Lexicon/H1001-1100#H1060|the firstborn]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H3401-3500#H3478|of Israel.]]
 | [[LXX Reference/4 - Numbers/Numbers 8#Numbers 8 - 16|LXX]] |
 
 ##### Numbers 8 - 17
@@ -85,11 +85,11 @@ Chapter: "8"
 | [[LXX Reference/4 - Numbers/Numbers 8#Numbers 8 - 18|LXX]] |
 
 ##### Numbers 8 - 19
-[[Lexicon/H5401-5500#H5414|And I have given]] [[Lexicon/H801-900#H853|]] [[Lexicon/H3801-3900#H3881|the Levites]] [[Lexicon/H5401-5500#H5414|as a gift]] [[Lexicon/H101-200#H175|to Aaron]] [[Lexicon/H1101-1200#H1121|(and) his sons]] [[Lexicon/H8401-8500#H8432|from among]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|the Israelites ,]] [[Lexicon/H5601-5700#H5647|to perform]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5601-5700#H5656|the service]] [[Lexicon/H1101-1200#H1121|for the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H101-200#H168|at the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H3701-3800#H3722|and to make atonement]] [[Lexicon/H1101-1200#H1121|on their]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H5901-6000#H5921|behalf ,]] [[Lexicon/H3801-3900#H3808|so that no]] [[Lexicon/H5001-5100#H5063|plague]] [[Lexicon/H1901-2000#H1961|will come]] [[Lexicon/H1101-1200#H1121|against the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1101-1200#H1121|when they]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5001-5100#H5066|approach]] [[Lexicon/H6901-7000#H6944|the sanctuary. ”]]
+[[Lexicon/H5401-5500#H5414|And I have given]] [[Lexicon/H801-900#H853|]] [[Lexicon/H3801-3900#H3881|the Levites]] [[Lexicon/H5401-5500#H5414|as a gift]] [[Lexicon/H101-200#H175|to Aaron]] [[Lexicon/H1101-1200#H1121|[and] his sons]] [[Lexicon/H8401-8500#H8432|from among]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|the Israelites ,]] [[Lexicon/H5601-5700#H5647|to perform]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5601-5700#H5656|the service]] [[Lexicon/H1101-1200#H1121|for the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H101-200#H168|at the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H3701-3800#H3722|and to make atonement]] [[Lexicon/H1101-1200#H1121|on their]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H5901-6000#H5921|behalf ,]] [[Lexicon/H3801-3900#H3808|so that no]] [[Lexicon/H5001-5100#H5063|plague]] [[Lexicon/H1901-2000#H1961|will come]] [[Lexicon/H1101-1200#H1121|against the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1101-1200#H1121|when they]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5001-5100#H5066|approach]] [[Lexicon/H6901-7000#H6944|the sanctuary. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 8#Numbers 8 - 19|LXX]] |
 
 ##### Numbers 8 - 20
-[[Lexicon/H4801-4900#H4872|So Moses ,]] [[Lexicon/H101-200#H175|Aaron ,]] [[Lexicon/H3601-3700#H3605|and the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3801-3900#H3881|with the Levites]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H1101-1200#H1121|(they)]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H6201-6300#H6213|should do]] [[Lexicon/H3801-3900#H3881|-.]]
+[[Lexicon/H4801-4900#H4872|So Moses ,]] [[Lexicon/H101-200#H175|Aaron ,]] [[Lexicon/H3601-3700#H3605|and the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3801-3900#H3881|with the Levites]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H1101-1200#H1121|[they]]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H6201-6300#H6213|should do]] [[Lexicon/H3801-3900#H3881|-.]]
 | [[LXX Reference/4 - Numbers/Numbers 8#Numbers 8 - 20|LXX]] |
 
 ##### Numbers 8 - 21

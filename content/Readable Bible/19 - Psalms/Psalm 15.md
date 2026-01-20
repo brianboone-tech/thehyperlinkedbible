@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 15
+# Psalm-R 15
 
-[[Readable Bible/19 - Psalms/Psalm 14|← Psalm 14]] | [[Readable Bible/19 - Psalms/Psalm 16|Psalm 16 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 14#Psalm-R 14| Psalm 14]] - [[Readable Bible/19 - Psalms/Psalm 16#Psalm-R 16| Psalm 16]]
 
 ---
 

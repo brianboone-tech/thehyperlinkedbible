@@ -5,9 +5,11 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
-# Psalm 28
+# Psalm-R 28
 
-[[Readable Bible/19 - Psalms/Psalm 27|← Psalm 27]] | [[Readable Bible/19 - Psalms/Psalm 29|Psalm 29 →]]
+**[[Home/Scripture/19 - Psalms|Psalms]]**
+
+[[Readable Bible/19 - Psalms/Psalm 27#Psalm-R 27| Psalm 27]] - [[Readable Bible/19 - Psalms/Psalm 29#Psalm-R 29| Psalm 29]]
 
 ---
 
