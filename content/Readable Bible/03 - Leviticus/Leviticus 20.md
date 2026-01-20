@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Leviticus-R 20
 
 **[[Home/Scripture/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 19#Leviticus-R 19| Leviticus 19]] - [[Readable Bible/03 - Leviticus/Leviticus 21#Leviticus-R 21| Leviticus 21]]
+=======
+# Leviticus 20
+
+[[Readable Bible/03 - Leviticus/Leviticus 19|← Leviticus 19]] | [[Readable Bible/03 - Leviticus/Leviticus 21|Leviticus 21 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

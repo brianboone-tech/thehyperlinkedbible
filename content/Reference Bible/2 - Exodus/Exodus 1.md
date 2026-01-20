@@ -45,7 +45,11 @@ Chapter: "1"
 | [[LXX Reference/2 - Exodus/Exodus 1#Exodus 1 - 8|LXX]] |
 
 ##### Exodus 1 - 9
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2009|“ Look , ”]] [[Lexicon/H501-600#H559|he said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|his people ,]] [[Lexicon/H1101-1200#H1121|“ the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H5901-6000#H5971|...]] [[Lexicon/H7201-7300#H7227|[have become] too numerous]] [[Lexicon/H6001-6100#H6099|and too powerful]] [[Lexicon/H4401-4500#H4480|for us.]]
+=======
+[[Lexicon/H2001-2100#H2009|“ Look , ”]] [[Lexicon/H501-600#H559|he said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|his people ,]] [[Lexicon/H1101-1200#H1121|“ the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H5901-6000#H5971|...]] [[Lexicon/H7201-7300#H7227|(have become) too numerous]] [[Lexicon/H6001-6100#H6099|and too powerful]] [[Lexicon/H4401-4500#H4480|for us.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 1#Exodus 1 - 9|LXX]] |
 
 ##### Exodus 1 - 10
@@ -53,7 +57,11 @@ Chapter: "1"
 | [[LXX Reference/2 - Exodus/Exodus 1#Exodus 1 - 10|LXX]] |
 
 ##### Exodus 1 - 11
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7760|So [the Egyptians] appointed]] [[Lexicon/H8201-8300#H8269|taskmasters]] [[Lexicon/H4501-4600#H4522|...]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H4601-4700#H4616|the Israelites to]] [[Lexicon/H6001-6100#H6031|oppress them]] [[Lexicon/H5401-5500#H5450|with forced labor.]] [[Lexicon/H1101-1200#H1129|As a result, they built]] [[Lexicon/H6601-6700#H6619|Pithom]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7401-7500#H7486|and Rameses]] [[Lexicon/H4501-4600#H4543|as store]] [[Lexicon/H5801-5900#H5892|cities]] [[Lexicon/H6501-6600#H6547|for Pharaoh]] [[Lexicon/H801-900#H853|-.]]
+=======
+[[Lexicon/H7701-7800#H7760|So (the Egyptians) appointed]] [[Lexicon/H8201-8300#H8269|taskmasters]] [[Lexicon/H4501-4600#H4522|...]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H4601-4700#H4616|the Israelites to]] [[Lexicon/H6001-6100#H6031|oppress them]] [[Lexicon/H5401-5500#H5450|with forced labor.]] [[Lexicon/H1101-1200#H1129|As a result, they built]] [[Lexicon/H6601-6700#H6619|Pithom]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7401-7500#H7486|and Rameses]] [[Lexicon/H4501-4600#H4543|as store]] [[Lexicon/H5801-5900#H5892|cities]] [[Lexicon/H6501-6600#H6547|for Pharaoh]] [[Lexicon/H801-900#H853|-.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 1#Exodus 1 - 11|LXX]] |
 
 ##### Exodus 1 - 12
@@ -73,7 +81,11 @@ Chapter: "1"
 | [[LXX Reference/2 - Exodus/Exodus 1#Exodus 1 - 15|LXX]] |
 
 ##### Exodus 1 - 16
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|-]] [[Lexicon/H5601-5700#H5680|“ When you help the Hebrew]] [[Lexicon/H3201-3300#H3205|women give birth ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|observe [them]]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H1-100#H70|the birthstools.]] [[Lexicon/H501-600#H518|If]] [[Lexicon/H1901-2000#H1931|[the child]]] [[Lexicon/H1101-1200#H1121|is a son ,]] [[Lexicon/H4101-4200#H4191|kill]] [[Lexicon/H801-900#H853|him ;]] [[Lexicon/H501-600#H518|but if]] [[Lexicon/H1901-2000#H1931|it is]] [[Lexicon/H1301-1400#H1323|a daughter ,]] [[Lexicon/H2401-2500#H2421|let her live. ”]]
+=======
+[[Lexicon/H501-600#H559|-]] [[Lexicon/H5601-5700#H5680|“ When you help the Hebrew]] [[Lexicon/H3201-3300#H3205|women give birth ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|observe (them)]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H1-100#H70|the birthstools.]] [[Lexicon/H501-600#H518|If]] [[Lexicon/H1901-2000#H1931|(the child)]] [[Lexicon/H1101-1200#H1121|is a son ,]] [[Lexicon/H4101-4200#H4191|kill]] [[Lexicon/H801-900#H853|him ;]] [[Lexicon/H501-600#H518|but if]] [[Lexicon/H1901-2000#H1931|it is]] [[Lexicon/H1301-1400#H1323|a daughter ,]] [[Lexicon/H2401-2500#H2421|let her live. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 1#Exodus 1 - 16|LXX]] |
 
 ##### Exodus 1 - 17
@@ -97,5 +109,9 @@ Chapter: "1"
 | [[LXX Reference/2 - Exodus/Exodus 1#Exodus 1 - 21|LXX]] |
 
 ##### Exodus 1 - 22
+<<<<<<< HEAD
 [[Lexicon/H6501-6600#H6547|Then Pharaoh]] [[Lexicon/H6601-6700#H6680|commanded]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5901-6000#H5971|his people]] [[Lexicon/H501-600#H559|... :]] [[Lexicon/H3601-3700#H3605|“ Every]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H3201-3300#H3209|born [to the Hebrews -]]] [[Lexicon/H7901-8000#H7993|you must throw]] [[Lexicon/H2901-3000#H2975|into the Nile ,]] [[Lexicon/H3601-3700#H3605|but every]] [[Lexicon/H1301-1400#H1323|daughter]] [[Lexicon/H2401-2500#H2421|you may allow to live. ”]]
+=======
+[[Lexicon/H6501-6600#H6547|Then Pharaoh]] [[Lexicon/H6601-6700#H6680|commanded]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5901-6000#H5971|his people]] [[Lexicon/H501-600#H559|... :]] [[Lexicon/H3601-3700#H3605|“ Every]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H3201-3300#H3209|born (to the Hebrews -)]] [[Lexicon/H7901-8000#H7993|you must throw]] [[Lexicon/H2901-3000#H2975|into the Nile ,]] [[Lexicon/H3601-3700#H3605|but every]] [[Lexicon/H1301-1400#H1323|daughter]] [[Lexicon/H2401-2500#H2421|you may allow to live. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 1#Exodus 1 - 22|LXX]] |

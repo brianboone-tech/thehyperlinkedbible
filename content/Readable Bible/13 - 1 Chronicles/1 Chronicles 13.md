@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Chronicles-R 13
 
 **[[Home/Scripture/13 - 1 Chronicles|1 Chronicles]]**
 
 [[Readable Bible/13 - 1 Chronicles/1 Chronicles 12#1 Chronicles-R 12| 1 Chronicles 12]] - [[Readable Bible/13 - 1 Chronicles/1 Chronicles 14#1 Chronicles-R 14| 1 Chronicles 14]]
+=======
+# 1 Chronicles 13
+
+[[Readable Bible/13 - 1 Chronicles/1 Chronicles 12|← 1 Chronicles 12]] | [[Readable Bible/13 - 1 Chronicles/1 Chronicles 14|1 Chronicles 14 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

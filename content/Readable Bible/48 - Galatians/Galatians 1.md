@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Galatians-R 1
 
 **[[Home/Scripture/48 - Galatians|Galatians]]**
 
 [[2 Corinthians-R 13|←]] • [[Galatians-R 2|→]]
+=======
+# Galatians 1
+
+[[Readable Bible/47 - 2 Corinthians/2 Corinthians 13|←]] | [[Readable Bible/48 - Galatians/Galatians 2|→]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

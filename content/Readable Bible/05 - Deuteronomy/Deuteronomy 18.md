@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Deuteronomy-R 18
 
 **[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 17#Deuteronomy-R 17| Deuteronomy 17]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 19#Deuteronomy-R 19| Deuteronomy 19]]
+=======
+# Deuteronomy 18
+
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 17|← Deuteronomy 17]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 19|Deuteronomy 19 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

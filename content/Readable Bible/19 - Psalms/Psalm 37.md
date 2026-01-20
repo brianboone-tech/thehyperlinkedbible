@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 37
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 36#Psalm-R 36| Psalm 36]] - [[Readable Bible/19 - Psalms/Psalm 38#Psalm-R 38| Psalm 38]]
+=======
+# Psalm 37
+
+[[Readable Bible/19 - Psalms/Psalm 36|← Psalm 36]] | [[Readable Bible/19 - Psalms/Psalm 38|Psalm 38 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

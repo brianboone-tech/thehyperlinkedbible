@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/15 - Ezra|← Ezra]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/15 - Ezra|← Ezra]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

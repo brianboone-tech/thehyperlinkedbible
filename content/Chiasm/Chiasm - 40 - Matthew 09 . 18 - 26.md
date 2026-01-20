@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/40 - Matthew|← Matthew]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/40 - Matthew|← Matthew]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -38,5 +38,9 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 3#Psalm 3 - 7|LXX]] |
 
 ##### Psalm 3 - 8
+<<<<<<< HEAD
 [[Lexicon/H3401-3500#H3444|Salvation [belongs]]] [[Lexicon/H3001-3100#H3068|to the LORD ;]] [[Lexicon/H1201-1300#H1293|may Your blessing]] [[Lexicon/H5901-6000#H5921|be on]] [[Lexicon/H5901-6000#H5971|Your people.]] [[Lexicon/H5501-5600#H5542|Selah]]
+=======
+[[Lexicon/H3401-3500#H3444|Salvation (belongs)]] [[Lexicon/H3001-3100#H3068|to the LORD ;]] [[Lexicon/H1201-1300#H1293|may Your blessing]] [[Lexicon/H5901-6000#H5921|be on]] [[Lexicon/H5901-6000#H5971|Your people.]] [[Lexicon/H5501-5600#H5542|Selah]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 3#Psalm 3 - 8|LXX]] |

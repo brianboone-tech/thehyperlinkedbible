@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 135
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 134#Psalm-R 134| Psalm 134]] - [[Readable Bible/19 - Psalms/Psalm 136#Psalm-R 136| Psalm 136]]
+=======
+# Psalm 135
+
+[[Readable Bible/19 - Psalms/Psalm 134|← Psalm 134]] | [[Readable Bible/19 - Psalms/Psalm 136|Psalm 136 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

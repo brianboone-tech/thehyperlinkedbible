@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Nehemiah-R 8
 
 **[[Home/Scripture/16 - Nehemiah|Nehemiah]]**
 
 [[Readable Bible/16 - Nehemiah/Nehemiah 7#Nehemiah-R 7| Nehemiah 7]] - [[Readable Bible/16 - Nehemiah/Nehemiah 9#Nehemiah-R 9| Nehemiah 9]]
+=======
+# Nehemiah 8
+
+[[Readable Bible/16 - Nehemiah/Nehemiah 7|← Nehemiah 7]] | [[Readable Bible/16 - Nehemiah/Nehemiah 9|Nehemiah 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Nehemiah 8 . 1
+<<<<<<< HEAD
 [[Reference Bible/16 - Nehemiah/Nehemiah 8#Nehemiah 8 - 1|1]] At that time all the people gathered together in the square before the Water Gate, and they asked Ezra the scribe to bring out the Book of the Law of Moses, which the LORD had commanded for Israel.   || [[Intertextuality Pairs/OT to OT/05 - Nehemiah/Nehemiah 8.1-3 to Deuteronomy 31.11-13|IP¹]] | [[Intertextuality Pairs/OT to OT/16 - Nehemiah/Nehemiah 8.1-3 to Deuteronomy 31.11-13|IP²]] | [[Chiasm/Chiasm - 16 - Nehemiah 8 . 1 - 12|C]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 8 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/131 - Return from Exile (Restoration and Hope)|TT]] |
+=======
+[[Reference Bible/16 - Nehemiah/Nehemiah 8#Nehemiah 8 - 1|1]] At that time all the people gathered together in the square before the Water Gate, and they asked Ezra the scribe to bring out the Book of the Law of Moses, which the LORD had commanded for Israel.  | | [[Intertextuality Pairs/OT to OT/05 - Nehemiah/Nehemiah 8.1-3 to Deuteronomy 31.11-13|IP¹]] | [[Intertextuality Pairs/OT to OT/16 - Nehemiah/Nehemiah 8.1-3 to Deuteronomy 31.11-13|IP²]] | [[Chiasm/Chiasm - 16 - Nehemiah 8 . 1 - 12|C]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 8 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/131 - Return from Exile (Restoration and Hope)|TT]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Nehemiah 8 . 2
 [[Reference Bible/16 - Nehemiah/Nehemiah 8#Nehemiah 8 - 2|2]] On the first day of the seventh month, Ezra the priest brought the Law before the assembly of men and women and all who could listen and understand.  | [[Intertextuality Pairs/OT to OT/05 - Nehemiah/Nehemiah 8.1-3 to Deuteronomy 31.11-13|IP¹]] | [[Intertextuality Pairs/OT to OT/16 - Nehemiah/Nehemiah 8.1-3 to Deuteronomy 31.11-13|IP²]] | [[Chiasm/Chiasm - 16 - Nehemiah 8 . 1 - 12|C]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 8 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/131 - Return from Exile (Restoration and Hope)|TT]] |

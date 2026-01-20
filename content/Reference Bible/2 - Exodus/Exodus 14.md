@@ -29,11 +29,19 @@ Chapter: "14"
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 4|LXX]] |
 
 ##### Exodus 14 - 5
+<<<<<<< HEAD
 [[Lexicon/H4401-4500#H4428|When the king]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H5001-5100#H5046|was told]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H1201-1300#H1272|had fled ,]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H5601-5700#H5650|and his officials]] [[Lexicon/H2001-2100#H2015|changed]] [[Lexicon/H3801-3900#H3824|their minds]] [[Lexicon/H401-500#H413|about]] [[Lexicon/H5901-6000#H5971|[them]]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H2001-2100#H2063|...]] [[Lexicon/H6201-6300#H6213|have we done ?]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H7901-8000#H7971|We have released]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H5601-5700#H5647|from serving us. ”]]
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 5|LXX]] |
 
 ##### Exodus 14 - 6
 [[Lexicon/H601-700#H631|So [Pharaoh] prepared]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7393|his chariot]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|and took]] [[Lexicon/H5901-6000#H5971|his army]] [[Lexicon/H5901-6000#H5973|with him.]]
+=======
+[[Lexicon/H4401-4500#H4428|When the king]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H5001-5100#H5046|was told]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H1201-1300#H1272|had fled ,]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H5601-5700#H5650|and his officials]] [[Lexicon/H2001-2100#H2015|changed]] [[Lexicon/H3801-3900#H3824|their minds]] [[Lexicon/H401-500#H413|about]] [[Lexicon/H5901-6000#H5971|(them)]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H2001-2100#H2063|...]] [[Lexicon/H6201-6300#H6213|have we done ?]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H7901-8000#H7971|We have released]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H5601-5700#H5647|from serving us. ”]]
+| [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 5|LXX]] |
+
+##### Exodus 14 - 6
+[[Lexicon/H601-700#H631|So (Pharaoh) prepared]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7393|his chariot]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|and took]] [[Lexicon/H5901-6000#H5971|his army]] [[Lexicon/H5901-6000#H5973|with him.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 6|LXX]] |
 
 ##### Exodus 14 - 7
@@ -45,11 +53,19 @@ Chapter: "14"
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 8|LXX]] |
 
 ##### Exodus 14 - 9
+<<<<<<< HEAD
 [[Lexicon/H4701-4800#H4713|The Egyptians —]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6501-6600#H6547|Pharaoh’s]] [[Lexicon/H5401-5500#H5483|horses]] [[Lexicon/H7301-7400#H7393|and chariots ,]] [[Lexicon/H6501-6600#H6571|horsemen]] [[Lexicon/H2401-2500#H2428|and troops —]] [[Lexicon/H7201-7300#H7291|pursued [the Israelites]]] [[Lexicon/H301-400#H310|and]] [[Lexicon/H5301-5400#H5381|overtook]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H2501-2600#H2583|as they camped]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H3201-3300#H3220|the sea]] [[Lexicon/H5901-6000#H5921|near]] [[Lexicon/H6301-6400#H6367|vvv]] [[Lexicon/H6301-6400#H6367|Pi-hahiroth ,]] [[Lexicon/H6401-6500#H6440|opposite]] [[Lexicon/H1101-1200#H1189|vvv]] [[Lexicon/H1101-1200#H1189|Baal-zephon.]]
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 9|LXX]] |
 
 ##### Exodus 14 - 10
 [[Lexicon/H6501-6600#H6547|As Pharaoh]] [[Lexicon/H7101-7200#H7126|approached ,]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5375|looked up]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H2001-2100#H2009|and saw]] [[Lexicon/H4701-4800#H4713|the Egyptians]] [[Lexicon/H5201-5300#H5265|marching]] [[Lexicon/H301-400#H310|after them ,]] [[Lexicon/H1101-1200#H1121|and [they]]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H3301-3400#H3372|were terrified]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H6801-6900#H6817|and cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD.]]
+=======
+[[Lexicon/H4701-4800#H4713|The Egyptians —]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6501-6600#H6547|Pharaoh’s]] [[Lexicon/H5401-5500#H5483|horses]] [[Lexicon/H7301-7400#H7393|and chariots ,]] [[Lexicon/H6501-6600#H6571|horsemen]] [[Lexicon/H2401-2500#H2428|and troops —]] [[Lexicon/H7201-7300#H7291|pursued (the Israelites)]] [[Lexicon/H301-400#H310|and]] [[Lexicon/H5301-5400#H5381|overtook]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H2501-2600#H2583|as they camped]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H3201-3300#H3220|the sea]] [[Lexicon/H5901-6000#H5921|near]] [[Lexicon/H6301-6400#H6367|vvv]] [[Lexicon/H6301-6400#H6367|Pi-hahiroth ,]] [[Lexicon/H6401-6500#H6440|opposite]] [[Lexicon/H1101-1200#H1189|vvv]] [[Lexicon/H1101-1200#H1189|Baal-zephon.]]
+| [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 9|LXX]] |
+
+##### Exodus 14 - 10
+[[Lexicon/H6501-6600#H6547|As Pharaoh]] [[Lexicon/H7101-7200#H7126|approached ,]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5375|looked up]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H2001-2100#H2009|and saw]] [[Lexicon/H4701-4800#H4713|the Egyptians]] [[Lexicon/H5201-5300#H5265|marching]] [[Lexicon/H301-400#H310|after them ,]] [[Lexicon/H1101-1200#H1121|and (they)]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H3301-3400#H3372|were terrified]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H6801-6900#H6817|and cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 10|LXX]] |
 
 ##### Exodus 14 - 11
@@ -89,11 +105,19 @@ Chapter: "14"
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 19|LXX]] |
 
 ##### Exodus 14 - 20
+<<<<<<< HEAD
 [[Lexicon/H901-1000#H935|so that it came]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H4201-4300#H4264|the camps]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H901-1000#H996|and]] [[Lexicon/H4201-4300#H4264|...]] [[Lexicon/H3401-3500#H3478|Israel.]] [[Lexicon/H6001-6100#H6051|The cloud]] [[Lexicon/H1901-2000#H1961|was]] [[Lexicon/H2801-2900#H2822|there in the darkness ,]] [[Lexicon/H201-300#H215|but it lit up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3915|the night.]] [[Lexicon/H3601-3700#H3605|So all]] [[Lexicon/H3901-4000#H3915|night long]] [[Lexicon/H3801-3900#H3808|neither [camp]]] [[Lexicon/H7101-7200#H7126|went near]] [[Lexicon/H2001-2100#H2088|the other]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H2001-2100#H2088|....]]
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 20|LXX]] |
 
 ##### Exodus 14 - 21
 [[Lexicon/H4801-4900#H4872|Then Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5101-5200#H5186|stretched out]] [[Lexicon/H3001-3100#H3027|his hand]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3201-3300#H3220|the sea ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3901-4000#H3915|that night]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1901-2000#H1980|drove back]] [[Lexicon/H3201-3300#H3220|the sea]] [[Lexicon/H5701-5800#H5794|with a strong]] [[Lexicon/H6901-7000#H6921|east]] [[Lexicon/H7301-7400#H7307|wind]] [[Lexicon/H7701-7800#H7760|that turned]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3220|[it]]] [[Lexicon/H2701-2800#H2724|into dry land.]] [[Lexicon/H4301-4400#H4325|So the waters]] [[Lexicon/H1201-1300#H1234|were divided ,]]
+=======
+[[Lexicon/H901-1000#H935|so that it came]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H4201-4300#H4264|the camps]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H901-1000#H996|and]] [[Lexicon/H4201-4300#H4264|...]] [[Lexicon/H3401-3500#H3478|Israel.]] [[Lexicon/H6001-6100#H6051|The cloud]] [[Lexicon/H1901-2000#H1961|was]] [[Lexicon/H2801-2900#H2822|there in the darkness ,]] [[Lexicon/H201-300#H215|but it lit up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3915|the night.]] [[Lexicon/H3601-3700#H3605|So all]] [[Lexicon/H3901-4000#H3915|night long]] [[Lexicon/H3801-3900#H3808|neither (camp)]] [[Lexicon/H7101-7200#H7126|went near]] [[Lexicon/H2001-2100#H2088|the other]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H2001-2100#H2088|....]]
+| [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 20|LXX]] |
+
+##### Exodus 14 - 21
+[[Lexicon/H4801-4900#H4872|Then Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5101-5200#H5186|stretched out]] [[Lexicon/H3001-3100#H3027|his hand]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3201-3300#H3220|the sea ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3901-4000#H3915|that night]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1901-2000#H1980|drove back]] [[Lexicon/H3201-3300#H3220|the sea]] [[Lexicon/H5701-5800#H5794|with a strong]] [[Lexicon/H6901-7000#H6921|east]] [[Lexicon/H7301-7400#H7307|wind]] [[Lexicon/H7701-7800#H7760|that turned]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3220|(it)]] [[Lexicon/H2701-2800#H2724|into dry land.]] [[Lexicon/H4301-4400#H4325|So the waters]] [[Lexicon/H1201-1300#H1234|were divided ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 21|LXX]] |
 
 ##### Exodus 14 - 22
@@ -113,7 +137,11 @@ Chapter: "14"
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 25|LXX]] |
 
 ##### Exodus 14 - 26
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H5101-5200#H5186|“ Stretch out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3027|your hand]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3201-3300#H3220|the sea ,]] [[Lexicon/H4301-4400#H4325|so that the waters]] [[Lexicon/H7701-7800#H7725|may flow back]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H4701-4800#H4714|the Egyptians]] [[Lexicon/H5901-6000#H5921|[and]]] [[Lexicon/H7301-7400#H7393|their chariots]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6501-6600#H6571|and horsemen. ”]]
+=======
+[[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H5101-5200#H5186|“ Stretch out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3027|your hand]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3201-3300#H3220|the sea ,]] [[Lexicon/H4301-4400#H4325|so that the waters]] [[Lexicon/H7701-7800#H7725|may flow back]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H4701-4800#H4714|the Egyptians]] [[Lexicon/H5901-6000#H5921|(and)]] [[Lexicon/H7301-7400#H7393|their chariots]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H6501-6600#H6571|and horsemen. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 26|LXX]] |
 
 ##### Exodus 14 - 27
@@ -121,7 +149,11 @@ Chapter: "14"
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 27|LXX]] |
 
 ##### Exodus 14 - 28
+<<<<<<< HEAD
 [[Lexicon/H4301-4400#H4325|The waters]] [[Lexicon/H7701-7800#H7725|flowed back]] [[Lexicon/H3601-3700#H3680|and covered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7393|the chariots]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6501-6600#H6571|and horsemen —]] [[Lexicon/H3601-3700#H3605|the entire]] [[Lexicon/H2401-2500#H2428|army]] [[Lexicon/H6501-6600#H6547|of Pharaoh]] [[Lexicon/H901-1000#H935|that had chased]] [[Lexicon/H301-400#H310|[the Israelites]]] [[Lexicon/H3201-3300#H3220|into the sea.]] [[Lexicon/H3801-3900#H3808|Not]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H7601-7700#H7604|survived]] [[Lexicon/H5701-5800#H5704|....]]
+=======
+[[Lexicon/H4301-4400#H4325|The waters]] [[Lexicon/H7701-7800#H7725|flowed back]] [[Lexicon/H3601-3700#H3680|and covered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7393|the chariots]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6501-6600#H6571|and horsemen —]] [[Lexicon/H3601-3700#H3605|the entire]] [[Lexicon/H2401-2500#H2428|army]] [[Lexicon/H6501-6600#H6547|of Pharaoh]] [[Lexicon/H901-1000#H935|that had chased]] [[Lexicon/H301-400#H310|(the Israelites)]] [[Lexicon/H3201-3300#H3220|into the sea.]] [[Lexicon/H3801-3900#H3808|Not]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H7601-7700#H7604|survived]] [[Lexicon/H5701-5800#H5704|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 14#Exodus 14 - 28|LXX]] |
 
 ##### Exodus 14 - 29

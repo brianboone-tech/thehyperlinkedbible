@@ -29,7 +29,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 4|LXX]] |
 
 ##### Genesis 48 - 5
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6258|And now]] [[Lexicon/H8101-8200#H8147|your two]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H3201-3300#H3205|born]] [[Lexicon/H701-800#H776|vvv]] [[Lexicon/H4701-4800#H4714|in Egypt]] [[Lexicon/H5701-5800#H5704|before]] [[Lexicon/H901-1000#H935|I came]] [[Lexicon/H401-500#H413|to you]] [[Lexicon/H4701-4800#H4714|[here]]] [[Lexicon/H1901-2000#H1992|[shall be reckoned as]]] [[Lexicon/H601-700#H669|Ephraim]] [[Lexicon/H4501-4600#H4519|and Manasseh]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H7201-7300#H7205|just as Reuben]] [[Lexicon/H8001-8100#H8095|and Simeon [are mine].]]
+=======
+[[Lexicon/H6201-6300#H6258|And now]] [[Lexicon/H8101-8200#H8147|your two]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H3201-3300#H3205|born]] [[Lexicon/H701-800#H776|vvv]] [[Lexicon/H4701-4800#H4714|in Egypt]] [[Lexicon/H5701-5800#H5704|before]] [[Lexicon/H901-1000#H935|I came]] [[Lexicon/H401-500#H413|to you]] [[Lexicon/H4701-4800#H4714|(here)]] [[Lexicon/H1901-2000#H1992|(shall be reckoned as)]] [[Lexicon/H601-700#H669|Ephraim]] [[Lexicon/H4501-4600#H4519|and Manasseh]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H7201-7300#H7205|just as Reuben]] [[Lexicon/H8001-8100#H8095|and Simeon (are mine).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 5|LXX]] |
 
 ##### Genesis 48 - 6
@@ -37,7 +41,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 6|LXX]] |
 
 ##### Genesis 48 - 7
+<<<<<<< HEAD
 [[Lexicon/H501-600#H589|Now as for me ,]] [[Lexicon/H901-1000#H935|when I was returning]] [[Lexicon/H6301-6400#H6307|from Paddan ,]] [[Lexicon/H5901-6000#H5921|to my sorrow]] [[Lexicon/H7301-7400#H7354|Rachel]] [[Lexicon/H4101-4200#H4191|died]] [[Lexicon/H1801-1900#H1870|along the way]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3667|of Canaan ,]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H3501-3600#H3530|some distance]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H901-1000#H935|...]] [[Lexicon/H601-700#H672|from Ephrath.]] [[Lexicon/H6901-7000#H6912|So I buried her]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H1801-1900#H1870|beside the road]] [[Lexicon/H601-700#H672|to Ephrath ”]] [[Lexicon/H1901-2000#H1931|(that]] [[Lexicon/H1001-1100#H1035|[is] ,]] [[Lexicon/H1001-1100#H1035|Bethlehem ).]]
+=======
+[[Lexicon/H501-600#H589|Now as for me ,]] [[Lexicon/H901-1000#H935|when I was returning]] [[Lexicon/H6301-6400#H6307|from Paddan ,]] [[Lexicon/H5901-6000#H5921|to my sorrow]] [[Lexicon/H7301-7400#H7354|Rachel]] [[Lexicon/H4101-4200#H4191|died]] [[Lexicon/H1801-1900#H1870|along the way]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3667|of Canaan ,]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H3501-3600#H3530|some distance]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H901-1000#H935|...]] [[Lexicon/H601-700#H672|from Ephrath.]] [[Lexicon/H6901-7000#H6912|So I buried her]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H1801-1900#H1870|beside the road]] [[Lexicon/H601-700#H672|to Ephrath ”]] [[Lexicon/H1901-2000#H1931|(that]] [[Lexicon/H1001-1100#H1035|(is) ,]] [[Lexicon/H1001-1100#H1035|Bethlehem ).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 7|LXX]] |
 
 ##### Genesis 48 - 8
@@ -45,11 +53,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 8|LXX]] |
 
 ##### Genesis 48 - 9
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|his father ,]] [[Lexicon/H1901-2000#H1992|“ They]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1101-1200#H1121|are the sons]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H5401-5500#H5414|has given]] [[Lexicon/H2001-2100#H2088|in this [place]. ”]] [[Lexicon/H501-600#H559|So Jacob said ,]] [[Lexicon/H4901-5000#H4994|“ Please]] [[Lexicon/H3901-4000#H3947|bring them]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H1201-1300#H1288|that I may bless [them]. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 9|LXX]] |
 
 ##### Genesis 48 - 10
 [[Lexicon/H3401-3500#H3478|Now Israel’s]] [[Lexicon/H5801-5900#H5869|eyesight]] [[Lexicon/H3501-3600#H3513|was poor]] [[Lexicon/H2201-2300#H2207|because of old age ;]] [[Lexicon/H3201-3300#H3201|he could]] [[Lexicon/H3801-3900#H3808|hardly]] [[Lexicon/H7101-7200#H7200|see.]] [[Lexicon/H5001-5100#H5066|Joseph brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H413|[his sons] to him ,]] [[Lexicon/H5401-5500#H5401|and [his father] kissed]] [[Lexicon/H2201-2300#H2263|and embraced]]
+=======
+[[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|his father ,]] [[Lexicon/H1901-2000#H1992|“ They]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1101-1200#H1121|are the sons]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H5401-5500#H5414|has given]] [[Lexicon/H2001-2100#H2088|in this (place). ”]] [[Lexicon/H501-600#H559|So Jacob said ,]] [[Lexicon/H4901-5000#H4994|“ Please]] [[Lexicon/H3901-4000#H3947|bring them]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H1201-1300#H1288|that I may bless (them). ”]]
+| [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 9|LXX]] |
+
+##### Genesis 48 - 10
+[[Lexicon/H3401-3500#H3478|Now Israel’s]] [[Lexicon/H5801-5900#H5869|eyesight]] [[Lexicon/H3501-3600#H3513|was poor]] [[Lexicon/H2201-2300#H2207|because of old age ;]] [[Lexicon/H3201-3300#H3201|he could]] [[Lexicon/H3801-3900#H3808|hardly]] [[Lexicon/H7101-7200#H7200|see.]] [[Lexicon/H5001-5100#H5066|Joseph brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H413|(his sons) to him ,]] [[Lexicon/H5401-5500#H5401|and (his father) kissed]] [[Lexicon/H2201-2300#H2263|and embraced]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 10|LXX]] |
 
 ##### Genesis 48 - 11
@@ -57,7 +73,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 11|LXX]] |
 
 ##### Genesis 48 - 12
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3130|Then Joseph]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3318|removed [his sons]]] [[Lexicon/H5901-6000#H5973|from]] [[Lexicon/H1201-1300#H1290|[his father’s] knees]] [[Lexicon/H7801-7900#H7812|and bowed]] [[Lexicon/H601-700#H639|facedown]] [[Lexicon/H701-800#H776|....]]
+=======
+[[Lexicon/H3101-3200#H3130|Then Joseph]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3318|removed (his sons)]] [[Lexicon/H5901-6000#H5973|from]] [[Lexicon/H1201-1300#H1290|(his father’s) knees]] [[Lexicon/H7801-7900#H7812|and bowed]] [[Lexicon/H601-700#H639|facedown]] [[Lexicon/H701-800#H776|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 12|LXX]] |
 
 ##### Genesis 48 - 13
@@ -89,7 +109,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 19|LXX]] |
 
 ##### Genesis 48 - 20
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3117|So that day]] [[Lexicon/H1201-1300#H1288|[Jacob] blessed]] [[Lexicon/H1901-2000#H1931|them]] [[Lexicon/H501-600#H559|and said :]] [[Lexicon/H3401-3500#H3478|shall Israel]] [[Lexicon/H501-600#H559|pronounce]] [[Lexicon/H1201-1300#H1288|this blessing :]] [[Lexicon/H401-500#H430|‘ May God]] [[Lexicon/H7701-7800#H7760|make]] [[Lexicon/H601-700#H669|you like Ephraim]] [[Lexicon/H4501-4600#H4519|and Manasseh. ’”]] [[Lexicon/H7701-7800#H7760|So he put]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H601-700#H669|Ephraim]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H4501-4600#H4519|Manasseh.]]
+=======
+[[Lexicon/H3101-3200#H3117|So that day]] [[Lexicon/H1201-1300#H1288|(Jacob) blessed]] [[Lexicon/H1901-2000#H1931|them]] [[Lexicon/H501-600#H559|and said :]] [[Lexicon/H3401-3500#H3478|shall Israel]] [[Lexicon/H501-600#H559|pronounce]] [[Lexicon/H1201-1300#H1288|this blessing :]] [[Lexicon/H401-500#H430|‘ May God]] [[Lexicon/H7701-7800#H7760|make]] [[Lexicon/H601-700#H669|you like Ephraim]] [[Lexicon/H4501-4600#H4519|and Manasseh. ’”]] [[Lexicon/H7701-7800#H7760|So he put]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H601-700#H669|Ephraim]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H4501-4600#H4519|Manasseh.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 48#Genesis 48 - 20|LXX]] |
 
 ##### Genesis 48 - 21

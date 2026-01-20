@@ -45,7 +45,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 21#Genesis 21 - 8|LXX]] |
 
 ##### Genesis 21 - 9
+<<<<<<< HEAD
 [[Lexicon/H8201-8300#H8283|But Sarah]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|saw that]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H1901-2000#H1904|Hagar]] [[Lexicon/H4701-4800#H4713|the Egyptian]] [[Lexicon/H3201-3300#H3205|had borne]] [[Lexicon/H1-100#H85|to Abraham]] [[Lexicon/H6701-6800#H6711|was mocking [her son] ,]]
+=======
+[[Lexicon/H8201-8300#H8283|But Sarah]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|saw that]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H1901-2000#H1904|Hagar]] [[Lexicon/H4701-4800#H4713|the Egyptian]] [[Lexicon/H3201-3300#H3205|had borne]] [[Lexicon/H1-100#H85|to Abraham]] [[Lexicon/H6701-6800#H6711|was mocking (her son) ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 21#Genesis 21 - 9|LXX]] |
 
 ##### Genesis 21 - 10
@@ -53,7 +57,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 21#Genesis 21 - 10|LXX]] |
 
 ##### Genesis 21 - 11
+<<<<<<< HEAD
 [[Lexicon/H1601-1700#H1697|Now this matter]] [[Lexicon/H7401-7500#H7489|distressed]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H1-100#H85|Abraham]] [[Lexicon/H3901-4000#H3966|greatly]] [[Lexicon/H5901-6000#H5921|vvv]] [[Lexicon/H101-200#H182|because it concerned]] [[Lexicon/H1101-1200#H1121|his son [Ishmael].]]
+=======
+[[Lexicon/H1601-1700#H1697|Now this matter]] [[Lexicon/H7401-7500#H7489|distressed]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H1-100#H85|Abraham]] [[Lexicon/H3901-4000#H3966|greatly]] [[Lexicon/H5901-6000#H5921|vvv]] [[Lexicon/H101-200#H182|because it concerned]] [[Lexicon/H1101-1200#H1121|his son (Ishmael).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 21#Genesis 21 - 11|LXX]] |
 
 ##### Genesis 21 - 12
@@ -125,7 +133,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 21#Genesis 21 - 28|LXX]] |
 
 ##### Genesis 21 - 29
+<<<<<<< HEAD
 [[Lexicon/H1-100#H40|and Abimelech]] [[Lexicon/H501-600#H559|asked]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1-100#H85|[him] ,]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H2001-2100#H2007|...]] [[Lexicon/H5301-5400#H5324|have you set apart]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H3501-3600#H3535|ewe lambs ? ”]]
+=======
+[[Lexicon/H1-100#H40|and Abimelech]] [[Lexicon/H501-600#H559|asked]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1-100#H85|(him) ,]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H2001-2100#H2007|...]] [[Lexicon/H5301-5400#H5324|have you set apart]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H3501-3600#H3535|ewe lambs ? ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 21#Genesis 21 - 29|LXX]] |
 
 ##### Genesis 21 - 30
@@ -141,7 +153,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 21#Genesis 21 - 32|LXX]] |
 
 ##### Genesis 21 - 33
+<<<<<<< HEAD
 [[Lexicon/H5101-5200#H5193|And [Abraham] planted]] [[Lexicon/H801-900#H815|a tamarisk tree]] [[Lexicon/H801-900#H884|vvv]] [[Lexicon/H801-900#H884|in Beersheba ,]] [[Lexicon/H8001-8100#H8033|and there]] [[Lexicon/H7101-7200#H7121|he called]] [[Lexicon/H8001-8100#H8034|upon the name]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H5701-5800#H5769|the Eternal]] [[Lexicon/H401-500#H410|God.]]
+=======
+[[Lexicon/H5101-5200#H5193|And (Abraham) planted]] [[Lexicon/H801-900#H815|a tamarisk tree]] [[Lexicon/H801-900#H884|vvv]] [[Lexicon/H801-900#H884|in Beersheba ,]] [[Lexicon/H8001-8100#H8033|and there]] [[Lexicon/H7101-7200#H7121|he called]] [[Lexicon/H8001-8100#H8034|upon the name]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H5701-5800#H5769|the Eternal]] [[Lexicon/H401-500#H410|God.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 21#Genesis 21 - 33|LXX]] |
 
 ##### Genesis 21 - 34

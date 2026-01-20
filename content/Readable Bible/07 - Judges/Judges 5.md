@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Judges-R 5
 
 **[[Home/Scripture/07 - Judges|Judges]]**
 
 [[Readable Bible/07 - Judges/Judges 4#Judges-R 4| Judges 4]] - [[Readable Bible/07 - Judges/Judges 6#Judges-R 6| Judges 6]]
+=======
+# Judges 5
+
+[[Readable Bible/07 - Judges/Judges 4|← Judges 4]] | [[Readable Bible/07 - Judges/Judges 6|Judges 6 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

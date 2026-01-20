@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 67 - 1
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H5001-5100#H5058|With stringed instruments.]] [[Lexicon/H4201-4300#H4210|A Psalm -.]] [[Lexicon/H7801-7900#H7892|A song.]] [[Lexicon/H401-500#H430|May God]] [[Lexicon/H2601-2700#H2603|be gracious to us]] [[Lexicon/H1201-1300#H1288|and bless us ,]] [[Lexicon/H6401-6500#H6440|[and] cause His face]] [[Lexicon/H201-300#H215|to shine upon]] [[Lexicon/H801-900#H854|us ,]] [[Lexicon/H5501-5600#H5542|Selah]]
+=======
+[[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H5001-5100#H5058|With stringed instruments.]] [[Lexicon/H4201-4300#H4210|A Psalm -.]] [[Lexicon/H7801-7900#H7892|A song.]] [[Lexicon/H401-500#H430|May God]] [[Lexicon/H2601-2700#H2603|be gracious to us]] [[Lexicon/H1201-1300#H1288|and bless us ,]] [[Lexicon/H6401-6500#H6440|(and) cause His face]] [[Lexicon/H201-300#H215|to shine upon]] [[Lexicon/H801-900#H854|us ,]] [[Lexicon/H5501-5600#H5542|Selah]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 67#Psalm 67 - 1|LXX]] |
 
 ##### Psalm 67 - 2

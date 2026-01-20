@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Thessalonians-R 5
 
 **[[Home/Scripture/52 - 1 Thessalonians|1 Thessalonians]]**
 
 [[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 4#1 Thessalonians-R 4| 1 Thessalonians 4]] - [[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 6#1 Thessalonians-R 6| 1 Thessalonians 6]]
+=======
+# 1 Thessalonians 5
+
+[[Readable Bible/52 - 1 Thessalonians/1 Thessalonians 4|← 1 Thessalonians 4]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

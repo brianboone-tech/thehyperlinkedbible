@@ -14,11 +14,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 1|LXX]] |
 
 ##### Psalm 18 - 2
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H5501-5600#H5553|is my rock ,]] [[Lexicon/H4601-4700#H4686|my fortress ,]] [[Lexicon/H6401-6500#H6403|and my deliverer.]] [[Lexicon/H401-500#H410|My God [is]]] [[Lexicon/H6601-6700#H6697|my rock ,]] [[Lexicon/H2601-2700#H2620|in whom I take refuge]] [[Lexicon/H4001-4100#H4043|my shield ,]] [[Lexicon/H7101-7200#H7161|and the horn]] [[Lexicon/H3401-3500#H3468|of my salvation ,]] [[Lexicon/H4801-4900#H4869|my stronghold.]]
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 2|LXX]] |
 
 ##### Psalm 18 - 3
 [[Lexicon/H7101-7200#H7121|I will call upon]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H1901-2000#H1984|[who is worthy] to be praised ;]] [[Lexicon/H3401-3500#H3467|so shall I be saved]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H301-400#H341|my enemies.]]
+=======
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H5501-5600#H5553|is my rock ,]] [[Lexicon/H4601-4700#H4686|my fortress ,]] [[Lexicon/H6401-6500#H6403|and my deliverer.]] [[Lexicon/H401-500#H410|My God (is)]] [[Lexicon/H6601-6700#H6697|my rock ,]] [[Lexicon/H2601-2700#H2620|in whom I take refuge]] [[Lexicon/H4001-4100#H4043|my shield ,]] [[Lexicon/H7101-7200#H7161|and the horn]] [[Lexicon/H3401-3500#H3468|of my salvation ,]] [[Lexicon/H4801-4900#H4869|my stronghold.]]
+| [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 2|LXX]] |
+
+##### Psalm 18 - 3
+[[Lexicon/H7101-7200#H7121|I will call upon]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H1901-2000#H1984|(who is worthy) to be praised ;]] [[Lexicon/H3401-3500#H3467|so shall I be saved]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H301-400#H341|my enemies.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 3|LXX]] |
 
 ##### Psalm 18 - 4
@@ -50,7 +58,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 10|LXX]] |
 
 ##### Psalm 18 - 11
+<<<<<<< HEAD
 [[Lexicon/H7801-7900#H7896|He made]] [[Lexicon/H2801-2900#H2822|darkness]] [[Lexicon/H5601-5700#H5643|His hiding place ,]] [[Lexicon/H4301-4400#H4325|[and] storm]] [[Lexicon/H5601-5700#H5645|clouds]] [[Lexicon/H7801-7900#H7834|-]] [[Lexicon/H5501-5600#H5521|a canopy]] [[Lexicon/H2801-2900#H2824|...]] [[Lexicon/H5401-5500#H5439|around Him.]]
+=======
+[[Lexicon/H7801-7900#H7896|He made]] [[Lexicon/H2801-2900#H2822|darkness]] [[Lexicon/H5601-5700#H5643|His hiding place ,]] [[Lexicon/H4301-4400#H4325|(and) storm]] [[Lexicon/H5601-5700#H5645|clouds]] [[Lexicon/H7801-7900#H7834|-]] [[Lexicon/H5501-5600#H5521|a canopy]] [[Lexicon/H2801-2900#H2824|...]] [[Lexicon/H5401-5500#H5439|around Him.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 11|LXX]] |
 
 ##### Psalm 18 - 12
@@ -62,11 +74,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 13|LXX]] |
 
 ##### Psalm 18 - 14
+<<<<<<< HEAD
 [[Lexicon/H7901-8000#H7971|He shot]] [[Lexicon/H2601-2700#H2671|His arrows]] [[Lexicon/H6301-6400#H6327|and scattered [the foes] ;]] [[Lexicon/H7201-7300#H7232|He hurled]] [[Lexicon/H1201-1300#H1300|lightning]] [[Lexicon/H1901-2000#H2000|and routed them.]]
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 14|LXX]] |
 
 ##### Psalm 18 - 15
 [[Lexicon/H601-700#H650|The channels]] [[Lexicon/H4301-4400#H4325|of the sea]] [[Lexicon/H7101-7200#H7200|appeared ,]] [[Lexicon/H4101-4200#H4146|[and] the foundations]] [[Lexicon/H8301-8400#H8398|of the world]] [[Lexicon/H1501-1600#H1540|were exposed ,]] [[Lexicon/H1601-1700#H1606|at Your rebuke ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H5301-5400#H5397|at the blast]] [[Lexicon/H7301-7400#H7307|of the breath]] [[Lexicon/H601-700#H639|of Your nostrils.]]
+=======
+[[Lexicon/H7901-8000#H7971|He shot]] [[Lexicon/H2601-2700#H2671|His arrows]] [[Lexicon/H6301-6400#H6327|and scattered (the foes) ;]] [[Lexicon/H7201-7300#H7232|He hurled]] [[Lexicon/H1201-1300#H1300|lightning]] [[Lexicon/H1901-2000#H2000|and routed them.]]
+| [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 14|LXX]] |
+
+##### Psalm 18 - 15
+[[Lexicon/H601-700#H650|The channels]] [[Lexicon/H4301-4400#H4325|of the sea]] [[Lexicon/H7101-7200#H7200|appeared ,]] [[Lexicon/H4101-4200#H4146|(and) the foundations]] [[Lexicon/H8301-8400#H8398|of the world]] [[Lexicon/H1501-1600#H1540|were exposed ,]] [[Lexicon/H1601-1700#H1606|at Your rebuke ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H5301-5400#H5397|at the blast]] [[Lexicon/H7301-7400#H7307|of the breath]] [[Lexicon/H601-700#H639|of Your nostrils.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 15|LXX]] |
 
 ##### Psalm 18 - 16
@@ -94,7 +114,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 21|LXX]] |
 
 ##### Psalm 18 - 22
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4901-5000#H4941|His ordinances [are]]] [[Lexicon/H5001-5100#H5048|before me ;]] [[Lexicon/H3801-3900#H3808|I have not]] [[Lexicon/H5401-5500#H5493|disregarded]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H2701-2800#H2708|His statutes.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4901-5000#H4941|His ordinances (are)]] [[Lexicon/H5001-5100#H5048|before me ;]] [[Lexicon/H3801-3900#H3808|I have not]] [[Lexicon/H5401-5500#H5493|disregarded]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H2701-2800#H2708|His statutes.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 22|LXX]] |
 
 ##### Psalm 18 - 23
@@ -126,6 +150,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 29|LXX]] |
 
 ##### Psalm 18 - 30
+<<<<<<< HEAD
 [[Lexicon/H401-500#H410|[As for] God ,]] [[Lexicon/H1801-1900#H1870|His way]] [[Lexicon/H8501-8600#H8549|is perfect ;]] [[Lexicon/H501-600#H565|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H6801-6900#H6884|is flawless.]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H4001-4100#H4043|is a shield]] [[Lexicon/H3601-3700#H3605|to all]] [[Lexicon/H2601-2700#H2620|who take refuge]]
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 30|LXX]] |
 
@@ -135,6 +160,17 @@ cssClasses: lexicon
 
 ##### Psalm 18 - 32
 [[Lexicon/H401-500#H410|[It is] God]] [[Lexicon/H201-300#H247|who arms me]] [[Lexicon/H2401-2500#H2428|with strength]] [[Lexicon/H5401-5500#H5414|and makes]] [[Lexicon/H1801-1900#H1870|my way]] [[Lexicon/H8501-8600#H8549|clear.]]
+=======
+[[Lexicon/H401-500#H410|(As for) God ,]] [[Lexicon/H1801-1900#H1870|His way]] [[Lexicon/H8501-8600#H8549|is perfect ;]] [[Lexicon/H501-600#H565|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H6801-6900#H6884|is flawless.]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H4001-4100#H4043|is a shield]] [[Lexicon/H3601-3700#H3605|to all]] [[Lexicon/H2601-2700#H2620|who take refuge]]
+| [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 30|LXX]] |
+
+##### Psalm 18 - 31
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4301-4400#H4310|who]] [[Lexicon/H401-500#H433|is God]] [[Lexicon/H1101-1200#H1107|besides]] [[Lexicon/H3001-3100#H3068|the LORD ?]] [[Lexicon/H4301-4400#H4310|And who]] [[Lexicon/H6601-6700#H6697|(is) the Rock]] [[Lexicon/H2101-2200#H2108|except]] [[Lexicon/H401-500#H430|our God ?]]
+| [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 31|LXX]] |
+
+##### Psalm 18 - 32
+[[Lexicon/H401-500#H410|(It is) God]] [[Lexicon/H201-300#H247|who arms me]] [[Lexicon/H2401-2500#H2428|with strength]] [[Lexicon/H5401-5500#H5414|and makes]] [[Lexicon/H1801-1900#H1870|my way]] [[Lexicon/H8501-8600#H8549|clear.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 32|LXX]] |
 
 ##### Psalm 18 - 33
@@ -170,7 +206,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 40|LXX]] |
 
 ##### Psalm 18 - 41
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7768|They cried for help ,]] [[Lexicon/H301-400#H369|but [there was] no one]] [[Lexicon/H3401-3500#H3467|to save them —]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3801-3900#H3808|but He did not]] [[Lexicon/H6001-6100#H6030|answer.]]
+=======
+[[Lexicon/H7701-7800#H7768|They cried for help ,]] [[Lexicon/H301-400#H369|but (there was) no one]] [[Lexicon/H3401-3500#H3467|to save them —]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3801-3900#H3808|but He did not]] [[Lexicon/H6001-6100#H6030|answer.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 18#Psalm 18 - 41|LXX]] |
 
 ##### Psalm 18 - 42

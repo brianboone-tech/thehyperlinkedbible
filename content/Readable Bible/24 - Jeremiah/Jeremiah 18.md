@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jeremiah-R 18
 
 **[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 17#Jeremiah-R 17| Jeremiah 17]] - [[Readable Bible/24 - Jeremiah/Jeremiah 19#Jeremiah-R 19| Jeremiah 19]]
+=======
+# Jeremiah 18
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 17|← Jeremiah 17]] | [[Readable Bible/24 - Jeremiah/Jeremiah 19|Jeremiah 19 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

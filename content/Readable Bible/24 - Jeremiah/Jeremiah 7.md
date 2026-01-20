@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jeremiah-R 7
 
 **[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 6#Jeremiah-R 6| Jeremiah 6]] - [[Readable Bible/24 - Jeremiah/Jeremiah 8#Jeremiah-R 8| Jeremiah 8]]
+=======
+# Jeremiah 7
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 6|← Jeremiah 6]] | [[Readable Bible/24 - Jeremiah/Jeremiah 8|Jeremiah 8 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

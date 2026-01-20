@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Genesis-R 23
 
 **[[Home/Scripture/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 22#Genesis-R 22| Genesis 22]] - [[Readable Bible/01 - Genesis/Genesis 24#Genesis-R 24| Genesis 24]]
+=======
+# Genesis 23
+
+[[Readable Bible/01 - Genesis/Genesis 22|← Genesis 22]] | [[Readable Bible/01 - Genesis/Genesis 24|Genesis 24 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/09 - 1 Samuel|← 1 Samuel]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/09 - 1 Samuel|← 1 Samuel]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

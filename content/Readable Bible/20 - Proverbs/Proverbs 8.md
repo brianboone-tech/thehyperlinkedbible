@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Proverbs-R 8
 
 **[[Home/Scripture/20 - Proverbs|Proverbs]]**
 
 [[Readable Bible/20 - Proverbs/Proverbs 7#Proverbs-R 7| Proverbs 7]] - [[Readable Bible/20 - Proverbs/Proverbs 9#Proverbs-R 9| Proverbs 9]]
+=======
+# Proverbs 8
+
+[[Readable Bible/20 - Proverbs/Proverbs 7|← Proverbs 7]] | [[Readable Bible/20 - Proverbs/Proverbs 9|Proverbs 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

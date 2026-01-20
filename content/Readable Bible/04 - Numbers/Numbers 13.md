@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Numbers-R 13
 
 **[[Home/Scripture/04 - Numbers|Numbers]]**
 
 [[Readable Bible/04 - Numbers/Numbers 12#Numbers-R 12| Numbers 12]] - [[Readable Bible/04 - Numbers/Numbers 14#Numbers-R 14| Numbers 14]]
+=======
+# Numbers 13
+
+[[Readable Bible/04 - Numbers/Numbers 12|← Numbers 12]] | [[Readable Bible/04 - Numbers/Numbers 14|Numbers 14 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Numbers 13 . 1
+<<<<<<< HEAD
 [[Reference Bible/4 - Numbers/Numbers 13#Numbers 13 - 1|1]] And the LORD said to Moses,   || [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 13 to Deuteronomy 1.19-45|IP¹]] | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 13 to Deuteronomy 1.19|IP²]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 13 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/171 - Wilderness Testing (Faith Through Trial)|TT¹]] | [[Trajectory Tables/151 - Spies and Unbelief (Testing God's Promise)|TT¹]] |
+=======
+[[Reference Bible/4 - Numbers/Numbers 13#Numbers 13 - 1|1]] And the LORD said to Moses,  | | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 13 to Deuteronomy 1.19-45|IP¹]] | [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 13 to Deuteronomy 1.19|IP²]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 13 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/171 - Wilderness Testing (Faith Through Trial)|TT¹]] | [[Trajectory Tables/151 - Spies and Unbelief (Testing God's Promise)|TT¹]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Numbers 13 . 2
 [[Reference Bible/4 - Numbers/Numbers 13#Numbers 13 - 2|2]] “Send out for yourself men to spy out the land of Canaan, which I am giving to the Israelites. From each of their fathers’ tribes send one man who is a leader among them.”  | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 13 - TOSK#Verse 2|TOSK]] |

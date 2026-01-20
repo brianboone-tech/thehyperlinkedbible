@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/55 - 2 Timothy|← 2 Timothy]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/55 - 2 Timothy|← 2 Timothy]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

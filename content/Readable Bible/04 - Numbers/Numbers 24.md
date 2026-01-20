@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Numbers-R 24
 
 **[[Home/Scripture/04 - Numbers|Numbers]]**
 
 [[Readable Bible/04 - Numbers/Numbers 23#Numbers-R 23| Numbers 23]] - [[Readable Bible/04 - Numbers/Numbers 25#Numbers-R 25| Numbers 25]]
+=======
+# Numbers 24
+
+[[Readable Bible/04 - Numbers/Numbers 23|← Numbers 23]] | [[Readable Bible/04 - Numbers/Numbers 25|Numbers 25 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

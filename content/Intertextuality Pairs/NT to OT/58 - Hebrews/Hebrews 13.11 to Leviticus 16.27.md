@@ -14,6 +14,10 @@
 ---
 
 ## Related Trajectory Tables
+<<<<<<< HEAD
+=======
+  ▸ [[Trajectory Tables/178 - Burning Outside the Camp (Separation and Judgment)|Burning Outside the Camp (Separation and Judgment)]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
   ▸ [[Trajectory Tables/001 - Aaron (The Great High Priest)|Aaron (The Great High Priest)]]
   ▸ [[Trajectory Tables/002 - Abel (First Martyr)|Abel (First Martyr)]]
   ▸ [[Trajectory Tables/009 - Ark of the Covenant (God's Throne of Mercy)|Ark of the Covenant (God's Throne of Mercy)]]

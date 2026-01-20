@@ -6,11 +6,17 @@ cssclasses:
   - lexicon
 ---
 
+<<<<<<< HEAD
 # Genesis-R 20
 
 **[[Home/Scripture/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 19#Genesis-R 19| Genesis 19]] - [[Readable Bible/01 - Genesis/Genesis 21#Genesis-R 21| Genesis 21]]
+=======
+# Genesis 20
+
+[[Readable Bible/01 - Genesis/Genesis 19|← Genesis 19]] | [[Readable Bible/01 - Genesis/Genesis 21|Genesis 21 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

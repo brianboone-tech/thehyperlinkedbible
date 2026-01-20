@@ -63,7 +63,11 @@ Testament: Old
 [[Lexicon/G3701-3800#G3756|You shall not]] [[Lexicon/G3401-3500#G3404|detest]] [[Lexicon/G1-100#G0080|your brother]] [[Lexicon/G1201-1300#G1271|your mind.]] [[Lexicon/G1601-1700#G1648|With rebuke]] [[Lexicon/G1601-1700#G1651|you shall reprove]] [[Lexicon/G4101-4200#G4139|your neighbor,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|you shall not]] [[Lexicon/G2901-3000#G2983|take]] [[Lexicon/G1201-1300#G1223|on account of]]
 
 #### Leviticus 19 - 18
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|shall not]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|you shall not]] [[Lexicon/G3301-3400#G3376|be infuriated at]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G2901-3000#G2992|of your people.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1-100#G0025|you shall love]] [[Lexicon/G4101-4200#G4139|your neighbor]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1401-1500#G1438|yourself.]] [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G2301-2400#G2316|your God.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|shall not]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|you shall not]] [[Lexicon/G3301-3400#G3376|be infuriated at]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G2901-3000#G2992|of your people.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1-100#G0025|you shall love]] [[Lexicon/G4101-4200#G4139|your neighbor]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1401-1500#G1438|yourself.]] [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G2301-2400#G2316|your God.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Leviticus 19 - 19
 [[Lexicon/G3501-3600#G3551|My law]] [[Lexicon/G5401-5500#G5442|you shall keep.]] [[Lexicon/G2901-3000#G2934|Your cattle]] [[Lexicon/G3701-3800#G3756|you shall not]] [[Lexicon/G2701-2800#G2735|mate]] [[Lexicon/G2001-2100#G2086|unequally yoked.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|you shall not]] [[Lexicon/G2601-2700#G2686|scatter abroad]] [[Lexicon/G1301-1400#G1313|diverse seed.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2401-2500#G2440|a garment]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G1401-1500#G1417|two materials]] [[Lexicon/G5301-5400#G5306|being woven]] [[Lexicon/G2701-2800#G2786|commingled]] [[Lexicon/G3701-3800#G3756|you shall not]] [[Lexicon/G1901-2000#G1911|put upon]] [[Lexicon/G4501-4600#G4572|yourself.]]
@@ -111,7 +115,11 @@ Testament: Old
 [[Lexicon/G1401-1500#G1437|And if]] [[Lexicon/G5001-5100#G5100|any]] [[Lexicon/G4301-4400#G4334|should come forward]] [[Lexicon/G3701-3800#G3756|you shall not]] [[Lexicon/G2301-2400#G2346|afflict]] [[Lexicon/G1401-1500#G1473|him.]]
 
 #### Leviticus 19 - 34
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1-100#G0025|you shall love]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4501-4600#G4572|yourself,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4301-4400#G4339|foreigners]] [[Lexicon/G1701-1800#G1722|in]] of Egypt. [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G2301-2400#G2316|your God.]]
+=======
+[[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1-100#G0025|you shall love]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4501-4600#G4572|yourself,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4301-4400#G4339|foreigners]] [[Lexicon/G1701-1800#G1722|in]] of Egypt. [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G2301-2400#G2316|your God.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Leviticus 19 - 35
 [[Lexicon/G3701-3800#G3756|You shall not]] [[Lexicon/G4101-4200#G4160|act]] [[Lexicon/G1-100#G0094|unjustly]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2901-3000#G2920|an equity]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G3301-3400#G3358|measures,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G4701-4800#G4712|weights,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G2201-2300#G2218|yoke balance scales.]]

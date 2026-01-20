@@ -13,7 +13,11 @@ Chapter: "6"
 ---
 
 ##### Exodus 6 - 1
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H6201-6300#H6258|“ Now]] [[Lexicon/H7101-7200#H7200|you will see]] [[Lexicon/H801-900#H834|what]] [[Lexicon/H6201-6300#H6213|I will do]] [[Lexicon/H6501-6600#H6547|to Pharaoh ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H2301-2400#H2389|because of My mighty]] [[Lexicon/H3001-3100#H3027|hand]] [[Lexicon/H7901-8000#H7971|he will let [the people] go ;]] [[Lexicon/H2301-2400#H2389|because of My strong]] [[Lexicon/H3001-3100#H3027|hand]] [[Lexicon/H1601-1700#H1644|he will drive them out of]] [[Lexicon/H701-800#H776|his land. ”]]
+=======
+[[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H6201-6300#H6258|“ Now]] [[Lexicon/H7101-7200#H7200|you will see]] [[Lexicon/H801-900#H834|what]] [[Lexicon/H6201-6300#H6213|I will do]] [[Lexicon/H6501-6600#H6547|to Pharaoh ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H2301-2400#H2389|because of My mighty]] [[Lexicon/H3001-3100#H3027|hand]] [[Lexicon/H7901-8000#H7971|he will let (the people) go ;]] [[Lexicon/H2301-2400#H2389|because of My strong]] [[Lexicon/H3001-3100#H3027|hand]] [[Lexicon/H1601-1700#H1644|he will drive them out of]] [[Lexicon/H701-800#H776|his land. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 1|LXX]] |
 
 ##### Exodus 6 - 2
@@ -21,7 +25,11 @@ Chapter: "6"
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 2|LXX]] |
 
 ##### Exodus 6 - 3
+<<<<<<< HEAD
 [[Lexicon/H7101-7200#H7200|I appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H85|Abraham ,]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3301-3400#H3327|Isaac ,]] [[Lexicon/H401-500#H413|and to]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H401-500#H410|as God]] [[Lexicon/H7701-7800#H7706|Almighty ,]] [[Lexicon/H8001-8100#H8034|but [by] My name]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3801-3900#H3808|I did not]] [[Lexicon/H3001-3100#H3045|make Myself known]]
+=======
+[[Lexicon/H7101-7200#H7200|I appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H85|Abraham ,]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3301-3400#H3327|Isaac ,]] [[Lexicon/H401-500#H413|and to]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H401-500#H410|as God]] [[Lexicon/H7701-7800#H7706|Almighty ,]] [[Lexicon/H8001-8100#H8034|but (by) My name]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3801-3900#H3808|I did not]] [[Lexicon/H3001-3100#H3045|make Myself known]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 3|LXX]] |
 
 ##### Exodus 6 - 4
@@ -45,7 +53,11 @@ Chapter: "6"
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 8|LXX]] |
 
 ##### Exodus 6 - 9
+<<<<<<< HEAD
 [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H1601-1700#H1696|relayed]] [[Lexicon/H3601-3700#H3651|this [message]]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|... ,]] [[Lexicon/H7101-7200#H7115|but on account of their broken]] [[Lexicon/H7301-7400#H7307|spirit]] [[Lexicon/H7101-7200#H7186|and cruel]] [[Lexicon/H5601-5700#H5656|bondage ,]] [[Lexicon/H3801-3900#H3808|they did not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|[him].]]
+=======
+[[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H1601-1700#H1696|relayed]] [[Lexicon/H3601-3700#H3651|this (message)]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|... ,]] [[Lexicon/H7101-7200#H7115|but on account of their broken]] [[Lexicon/H7301-7400#H7307|spirit]] [[Lexicon/H7101-7200#H7186|and cruel]] [[Lexicon/H5601-5700#H5656|bondage ,]] [[Lexicon/H3801-3900#H3808|they did not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|(him).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 9|LXX]] |
 
 ##### Exodus 6 - 10
@@ -65,11 +77,19 @@ Chapter: "6"
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 13|LXX]] |
 
 ##### Exodus 6 - 14
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|These]] [[Lexicon/H7201-7300#H7218|were the heads]] [[Lexicon/H1-100#H1|of their fathers’]] [[Lexicon/H1001-1100#H1004|houses :]] [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H7201-7300#H7205|of Reuben ,]] [[Lexicon/H1001-1100#H1060|the firstborn]] [[Lexicon/H3401-3500#H3478|of Israel, [were]]] [[Lexicon/H2501-2600#H2585|Hanoch]] [[Lexicon/H6301-6400#H6396|and Pallu ,]] [[Lexicon/H2601-2700#H2696|Hezron]] [[Lexicon/H3701-3800#H3756|and Carmi.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H4901-5000#H4940|were the clans]] [[Lexicon/H7201-7300#H7205|of Reuben.]]
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 14|LXX]] |
 
 ##### Exodus 6 - 15
 [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H8001-8100#H8095|of Simeon [were]]] [[Lexicon/H3201-3300#H3223|Jemuel ,]] [[Lexicon/H3201-3300#H3226|Jamin ,]] [[Lexicon/H101-200#H161|Ohad ,]] [[Lexicon/H3101-3200#H3199|Jachin ,]] [[Lexicon/H6701-6800#H6714|Zohar ,]] [[Lexicon/H7501-7600#H7586|and Shaul ,]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H3601-3700#H3669|of a Canaanite woman.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H4901-5000#H4940|were the clans]] [[Lexicon/H8001-8100#H8095|of Simeon.]]
+=======
+[[Lexicon/H401-500#H428|These]] [[Lexicon/H7201-7300#H7218|were the heads]] [[Lexicon/H1-100#H1|of their fathers’]] [[Lexicon/H1001-1100#H1004|houses :]] [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H7201-7300#H7205|of Reuben ,]] [[Lexicon/H1001-1100#H1060|the firstborn]] [[Lexicon/H3401-3500#H3478|of Israel, (were)]] [[Lexicon/H2501-2600#H2585|Hanoch]] [[Lexicon/H6301-6400#H6396|and Pallu ,]] [[Lexicon/H2601-2700#H2696|Hezron]] [[Lexicon/H3701-3800#H3756|and Carmi.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H4901-5000#H4940|were the clans]] [[Lexicon/H7201-7300#H7205|of Reuben.]]
+| [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 14|LXX]] |
+
+##### Exodus 6 - 15
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H8001-8100#H8095|of Simeon (were)]] [[Lexicon/H3201-3300#H3223|Jemuel ,]] [[Lexicon/H3201-3300#H3226|Jamin ,]] [[Lexicon/H101-200#H161|Ohad ,]] [[Lexicon/H3101-3200#H3199|Jachin ,]] [[Lexicon/H6701-6800#H6714|Zohar ,]] [[Lexicon/H7501-7600#H7586|and Shaul ,]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H3601-3700#H3669|of a Canaanite woman.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H4901-5000#H4940|were the clans]] [[Lexicon/H8001-8100#H8095|of Simeon.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 15|LXX]] |
 
 ##### Exodus 6 - 16
@@ -77,6 +97,7 @@ Chapter: "6"
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 16|LXX]] |
 
 ##### Exodus 6 - 17
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H1601-1700#H1648|of Gershon [were]]] [[Lexicon/H3801-3900#H3845|Libni]] [[Lexicon/H8001-8100#H8096|and Shimei ,]] [[Lexicon/H4901-5000#H4940|by their clans.]]
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 17|LXX]] |
 
@@ -86,6 +107,17 @@ Chapter: "6"
 
 ##### Exodus 6 - 19
 [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H4801-4900#H4847|of Merari [were]]] [[Lexicon/H4201-4300#H4249|Mahli]] [[Lexicon/H4101-4200#H4187|and Mushi.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H4901-5000#H4940|were the clans]] [[Lexicon/H3801-3900#H3878|of the Levites]] [[Lexicon/H8401-8500#H8435|according to their records.]]
+=======
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H1601-1700#H1648|of Gershon (were)]] [[Lexicon/H3801-3900#H3845|Libni]] [[Lexicon/H8001-8100#H8096|and Shimei ,]] [[Lexicon/H4901-5000#H4940|by their clans.]]
+| [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 17|LXX]] |
+
+##### Exodus 6 - 18
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H6901-7000#H6955|of Kohath (were)]] [[Lexicon/H6001-6100#H6019|Amram ,]] [[Lexicon/H3301-3400#H3324|Izhar ,]] [[Lexicon/H2201-2300#H2275|Hebron ,]] [[Lexicon/H5801-5900#H5816|and Uzziel.]] [[Lexicon/H8101-8200#H8141|]] [[Lexicon/H6901-7000#H6955|Kohath]] [[Lexicon/H2401-2500#H2416|lived]] [[Lexicon/H7901-8000#H7969|133]] [[Lexicon/H7901-8000#H7970|...]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H8101-8200#H8141|years.]]
+| [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 18|LXX]] |
+
+##### Exodus 6 - 19
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H4801-4900#H4847|of Merari (were)]] [[Lexicon/H4201-4300#H4249|Mahli]] [[Lexicon/H4101-4200#H4187|and Mushi.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H4901-5000#H4940|were the clans]] [[Lexicon/H3801-3900#H3878|of the Levites]] [[Lexicon/H8401-8500#H8435|according to their records.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 19|LXX]] |
 
 ##### Exodus 6 - 20
@@ -93,11 +125,19 @@ Chapter: "6"
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 20|LXX]] |
 
 ##### Exodus 6 - 21
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H3301-3400#H3324|of Izhar [were]]] [[Lexicon/H7101-7200#H7141|Korah ,]] [[Lexicon/H5201-5300#H5298|Nepheg ,]] [[Lexicon/H2101-2200#H2147|and Zichri.]]
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 21|LXX]] |
 
 ##### Exodus 6 - 22
 [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H5801-5900#H5816|of Uzziel [were]]] [[Lexicon/H4301-4400#H4332|Mishael ,]] [[Lexicon/H401-500#H469|Elzaphan ,]] [[Lexicon/H5601-5700#H5644|and Sithri.]]
+=======
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H3301-3400#H3324|of Izhar (were)]] [[Lexicon/H7101-7200#H7141|Korah ,]] [[Lexicon/H5201-5300#H5298|Nepheg ,]] [[Lexicon/H2101-2200#H2147|and Zichri.]]
+| [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 21|LXX]] |
+
+##### Exodus 6 - 22
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H5801-5900#H5816|of Uzziel (were)]] [[Lexicon/H4301-4400#H4332|Mishael ,]] [[Lexicon/H401-500#H469|Elzaphan ,]] [[Lexicon/H5601-5700#H5644|and Sithri.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 22|LXX]] |
 
 ##### Exodus 6 - 23
@@ -105,11 +145,19 @@ Chapter: "6"
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 23|LXX]] |
 
 ##### Exodus 6 - 24
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H7101-7200#H7141|of Korah [were]]] [[Lexicon/H601-700#H617|Assir ,]] [[Lexicon/H501-600#H511|Elkanah ,]] [[Lexicon/H1-100#H23|and Abiasaph.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H4901-5000#H4940|were the clans]] [[Lexicon/H7101-7200#H7145|of the Korahites.]]
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 24|LXX]] |
 
 ##### Exodus 6 - 25
 [[Lexicon/H101-200#H175|Aaron’s]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H401-500#H499|Eleazar]] [[Lexicon/H3901-4000#H3947|married]] [[Lexicon/H801-900#H802|-]] [[Lexicon/H1301-1400#H1323|[one] of the daughters]] [[Lexicon/H6301-6400#H6317|of Putiel]] [[Lexicon/H3201-3300#H3205|and she bore]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6301-6400#H6372|Phinehas.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H7201-7300#H7218|were the heads]] [[Lexicon/H3801-3900#H3881|of the Levite]] [[Lexicon/H1-100#H1|families]] [[Lexicon/H4901-5000#H4940|by their clans.]]
+=======
+[[Lexicon/H1101-1200#H1121|The sons]] [[Lexicon/H7101-7200#H7141|of Korah (were)]] [[Lexicon/H601-700#H617|Assir ,]] [[Lexicon/H501-600#H511|Elkanah ,]] [[Lexicon/H1-100#H23|and Abiasaph.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H4901-5000#H4940|were the clans]] [[Lexicon/H7101-7200#H7145|of the Korahites.]]
+| [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 24|LXX]] |
+
+##### Exodus 6 - 25
+[[Lexicon/H101-200#H175|Aaron’s]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H401-500#H499|Eleazar]] [[Lexicon/H3901-4000#H3947|married]] [[Lexicon/H801-900#H802|-]] [[Lexicon/H1301-1400#H1323|(one) of the daughters]] [[Lexicon/H6301-6400#H6317|of Putiel]] [[Lexicon/H3201-3300#H3205|and she bore]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6301-6400#H6372|Phinehas.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H7201-7300#H7218|were the heads]] [[Lexicon/H3801-3900#H3881|of the Levite]] [[Lexicon/H1-100#H1|families]] [[Lexicon/H4901-5000#H4940|by their clans.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 6#Exodus 6 - 25|LXX]] |
 
 ##### Exodus 6 - 26

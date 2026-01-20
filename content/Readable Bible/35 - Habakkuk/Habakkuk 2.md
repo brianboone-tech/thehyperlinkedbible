@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Habakkuk-R 2
 
 **[[Home/Scripture/35 - Habakkuk|Habakkuk]]**
 
 [[Readable Bible/35 - Habakkuk/Habakkuk 1#Habakkuk-R 1| Habakkuk 1]] - [[Readable Bible/35 - Habakkuk/Habakkuk 3#Habakkuk-R 3| Habakkuk 3]]
+=======
+# Habakkuk 2
+
+[[Readable Bible/35 - Habakkuk/Habakkuk 1|← Habakkuk 1]] | [[Readable Bible/35 - Habakkuk/Habakkuk 3|Habakkuk 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

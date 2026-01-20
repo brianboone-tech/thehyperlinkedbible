@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Jeremiah 51 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 50 - TOSK|← Ch 50]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 52 - TOSK|Ch 52 →]]
+=======
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 50 - TOSK|← Ch 50]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 52 - TOSK|Ch 52 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

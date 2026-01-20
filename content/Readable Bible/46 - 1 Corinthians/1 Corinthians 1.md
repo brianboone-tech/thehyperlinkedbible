@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Corinthians-R 1
 
 **[[Home/Scripture/46 - 1 Corinthians|1 Corinthians]]**
 
 [[Readable Bible/45 - Romans/Romans 16#Romans-R 16|Romans 16]] • [[Readable Bible/46 - 1 Corinthians/1 Corinthians 2#1 Corinthians-R 2|1 Corinthians 2]]
+=======
+# 1 Corinthians 1
+
+[[Readable Bible/45 - Romans/Romans 16|← Romans 16]] | [[Readable Bible/46 - 1 Corinthians/1 Corinthians 2|1 Corinthians 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

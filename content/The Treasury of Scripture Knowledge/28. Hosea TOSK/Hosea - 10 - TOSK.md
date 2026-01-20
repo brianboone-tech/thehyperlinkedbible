@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Hosea 10 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/28 - Hosea|← Hosea]]** | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 11 - TOSK|Ch 11 →]]
+=======
+**[[Home/Indexes/Readable Bible/28 - Hosea|← Hosea]]** | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 11 - TOSK|Ch 11 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

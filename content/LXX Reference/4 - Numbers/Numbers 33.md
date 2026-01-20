@@ -12,7 +12,11 @@ Testament: Old
 ---
 
 #### Numbers 33 - 1
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3778|these are]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4701-4800#G4712|posts]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel, [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1801-1900#G1831|they came forth]] [[Lexicon/G1501-1600#G1537|from]] of Egypt [[Lexicon/G4801-4900#G4862|with]] [[Lexicon/G1401-1500#G1411|their force]] [[Lexicon/G1701-1800#G1722|by]] of Moses [[Lexicon/G2501-2600#G2532|and]] Aaron.
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3778|these are]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4701-4800#G4712|posts]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel, [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1801-1900#G1831|they came forth]] [[Lexicon/G1501-1600#G1537|from]] of Egypt [[Lexicon/G4801-4900#G4862|with]] [[Lexicon/G1401-1500#G1411|their force]] [[Lexicon/G1701-1800#G1722|by]] of Moses [[Lexicon/G2501-2600#G2532|and]] Aaron.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Numbers 33 - 2
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1101-1200#G1125|Moses wrote]] [[Lexicon/G3501-3600#G3588|the things]] [[Lexicon/G501-600#G0533|of their departures,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the things]] [[Lexicon/G4701-4800#G4712|of their stages]] [[Lexicon/G1201-1300#G1223|through]] [[Lexicon/G2901-3000#G2962|of the lord.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3778|these are]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4701-4800#G4712|stages]] [[Lexicon/G4101-4200#G4197|of their goings.]]

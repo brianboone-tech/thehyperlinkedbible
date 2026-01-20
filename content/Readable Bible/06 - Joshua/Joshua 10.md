@@ -8,16 +8,26 @@ cssclasses:
 
 ---
 
+<<<<<<< HEAD
 # Joshua-R 10
 
 **[[Home/Scripture/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 9#Joshua-R 9| Joshua 9]] - [[Readable Bible/06 - Joshua/Joshua 11#Joshua-R 11| Joshua 11]]
+=======
+# Joshua 10
+
+[[Readable Bible/06 - Joshua/Joshua 9|← Joshua 9]] | [[Readable Bible/06 - Joshua/Joshua 11|Joshua 11 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Joshua 10 . 1
+<<<<<<< HEAD
 [[Reference Bible/6 - Joshua/Joshua 10#Joshua 10 - 1|1]] Now Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction—doing to Ai and its king as he had done to Jericho and its king—and that the people of Gibeon had made peace with Israel and were living near them.   || [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 10 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/6 - Joshua/Joshua 10#Joshua 10 - 1|1]] Now Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction—doing to Ai and its king as he had done to Jericho and its king—and that the people of Gibeon had made peace with Israel and were living near them.  | | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 10 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Joshua 10 . 2
 [[Reference Bible/6 - Joshua/Joshua 10#Joshua 10 - 2|2]] So Adoni-zedek and his people were greatly alarmed, because Gibeon was a great city, like one of the royal cities; it was larger than Ai, and all its men were mighty.  | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 10 - TOSK#Verse 2|TOSK]] |

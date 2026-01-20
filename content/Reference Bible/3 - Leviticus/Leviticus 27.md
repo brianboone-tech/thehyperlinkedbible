@@ -28,6 +28,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 4|LXX]] |
 
 ##### Leviticus 27 - 5
+<<<<<<< HEAD
 [[Lexicon/H501-600#H518|And if [the person is]]] [[Lexicon/H2501-2600#H2568|from five]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H6201-6300#H6242|twenty]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H1101-1200#H1121|years of age]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H6101-6200#H6187|then your valuation]] [[Lexicon/H2101-2200#H2145|for the male]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H6201-6300#H6242|twenty]] [[Lexicon/H8201-8300#H8255|shekels ,]] [[Lexicon/H5301-5400#H5347|and for the female]] [[Lexicon/H6201-6300#H6235|ten]] [[Lexicon/H8201-8300#H8255|shekels.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 5|LXX]] |
 
@@ -45,6 +46,25 @@ Book: Leviticus
 
 ##### Leviticus 27 - 9
 [[Lexicon/H501-600#H518|If [he vows]]] [[Lexicon/H4401-4500#H4480|an]] [[Lexicon/H901-1000#H929|animal]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H7101-7200#H7126|may be brought]] [[Lexicon/H7101-7200#H7133|as an offering]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H4401-4500#H4480|such [animal]]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|given]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H6901-7000#H6944|holy.]]
+=======
+[[Lexicon/H501-600#H518|And if (the person is)]] [[Lexicon/H2501-2600#H2568|from five]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H6201-6300#H6242|twenty]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H1101-1200#H1121|years of age]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H6101-6200#H6187|then your valuation]] [[Lexicon/H2101-2200#H2145|for the male]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H6201-6300#H6242|twenty]] [[Lexicon/H8201-8300#H8255|shekels ,]] [[Lexicon/H5301-5400#H5347|and for the female]] [[Lexicon/H6201-6300#H6235|ten]] [[Lexicon/H8201-8300#H8255|shekels.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 5|LXX]] |
+
+##### Leviticus 27 - 6
+[[Lexicon/H501-600#H518|Now if (the person is)]] [[Lexicon/H1101-1200#H1121|-]] [[Lexicon/H2301-2400#H2320|from one month]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H2501-2600#H2568|five]] [[Lexicon/H8101-8200#H8141|years of age ,]] [[Lexicon/H6101-6200#H6187|then your valuation]] [[Lexicon/H2101-2200#H2145|for the male]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H2501-2600#H2568|five]] [[Lexicon/H8201-8300#H8255|shekels]] [[Lexicon/H3701-3800#H3701|of silver ,]] [[Lexicon/H5301-5400#H5347|and for the female]] [[Lexicon/H6101-6200#H6187|-]] [[Lexicon/H7901-8000#H7969|three]] [[Lexicon/H8201-8300#H8255|shekels]] [[Lexicon/H3701-3800#H3701|of silver.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 6|LXX]] |
+
+##### Leviticus 27 - 7
+[[Lexicon/H501-600#H518|And if (the person is)]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H8301-8400#H8346|sixty]] [[Lexicon/H8101-8200#H8141|years of age]] [[Lexicon/H4601-4700#H4605|or older ,]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H6101-6200#H6187|then your valuation]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H2501-2600#H2568|fifteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H8201-8300#H8255|shekels]] [[Lexicon/H2101-2200#H2145|for the male]] [[Lexicon/H6201-6300#H6235|and ten]] [[Lexicon/H8201-8300#H8255|shekels]] [[Lexicon/H5301-5400#H5347|for the female.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 7|LXX]] |
+
+##### Leviticus 27 - 8
+[[Lexicon/H501-600#H518|But if]] [[Lexicon/H1901-2000#H1931|(the one making the vow)]] [[Lexicon/H4101-4200#H4134|is too poor to pay]] [[Lexicon/H6101-6200#H6187|the valuation ,]] [[Lexicon/H5901-6000#H5975|he is to present (the person)]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3501-3600#H3548|the priest ,]] [[Lexicon/H3501-3600#H3548|(who)]] [[Lexicon/H6101-6200#H6186|shall set the value]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3548|-]] [[Lexicon/H6101-6200#H6186|-]] [[Lexicon/H5901-6000#H5921|according to]] [[Lexicon/H6301-6400#H6310|...]] [[Lexicon/H801-900#H834|what]] [[Lexicon/H5001-5100#H5087|the one making the vow]] [[Lexicon/H5301-5400#H5381|can afford]] [[Lexicon/H3001-3100#H3027|....]]
+| [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 8|LXX]] |
+
+##### Leviticus 27 - 9
+[[Lexicon/H501-600#H518|If (he vows)]] [[Lexicon/H4401-4500#H4480|an]] [[Lexicon/H901-1000#H929|animal]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H7101-7200#H7126|may be brought]] [[Lexicon/H7101-7200#H7133|as an offering]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H4401-4500#H4480|such (animal)]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|given]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H1901-2000#H1961|shall be]] [[Lexicon/H6901-7000#H6944|holy.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 9|LXX]] |
 
 ##### Leviticus 27 - 10
@@ -60,7 +80,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 12|LXX]] |
 
 ##### Leviticus 27 - 13
+<<<<<<< HEAD
 [[Lexicon/H501-600#H518|If, however, [the owner]]] [[Lexicon/H1301-1400#H1350|decides to redeem [the animal]]] [[Lexicon/H1301-1400#H1350|... ,]] [[Lexicon/H3201-3300#H3254|he must add]] [[Lexicon/H2501-2600#H2549|a fifth]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H6101-6200#H6187|its value.]]
+=======
+[[Lexicon/H501-600#H518|If, however, (the owner)]] [[Lexicon/H1301-1400#H1350|decides to redeem (the animal)]] [[Lexicon/H1301-1400#H1350|... ,]] [[Lexicon/H3201-3300#H3254|he must add]] [[Lexicon/H2501-2600#H2549|a fifth]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H6101-6200#H6187|its value.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 13|LXX]] |
 
 ##### Leviticus 27 - 14
@@ -96,11 +120,19 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 21|LXX]] |
 
 ##### Leviticus 27 - 22
+<<<<<<< HEAD
 [[Lexicon/H501-600#H518|Now if]] [[Lexicon/H801-900#H853|]] [[Lexicon/H6901-7000#H6942|[a man] consecrates]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H7701-7800#H7704|a field]] [[Lexicon/H4701-4800#H4736|he has purchased ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H3801-3900#H3808|is not]] [[Lexicon/H7701-7800#H7704|a part]] [[Lexicon/H201-300#H272|of his own property ,]]
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 22|LXX]] |
 
 ##### Leviticus 27 - 23
 [[Lexicon/H3501-3600#H3548|then the priest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2801-2900#H2803|shall calculate]] [[Lexicon/H4301-4400#H4373|for him the value]] [[Lexicon/H6101-6200#H6187|...]] [[Lexicon/H5701-5800#H5704|up to]] [[Lexicon/H8101-8200#H8141|the Year]] [[Lexicon/H3101-3200#H3104|of Jubilee ,]] [[Lexicon/H5401-5500#H5414|and [the man] shall pay]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6101-6200#H6187|the assessed value]] [[Lexicon/H1901-2000#H1931|on that]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6901-7000#H6944|as a sacred offering]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+=======
+[[Lexicon/H501-600#H518|Now if]] [[Lexicon/H801-900#H853|]] [[Lexicon/H6901-7000#H6942|(a man) consecrates]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H7701-7800#H7704|a field]] [[Lexicon/H4701-4800#H4736|he has purchased ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H3801-3900#H3808|is not]] [[Lexicon/H7701-7800#H7704|a part]] [[Lexicon/H201-300#H272|of his own property ,]]
+| [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 22|LXX]] |
+
+##### Leviticus 27 - 23
+[[Lexicon/H3501-3600#H3548|then the priest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2801-2900#H2803|shall calculate]] [[Lexicon/H4301-4400#H4373|for him the value]] [[Lexicon/H6101-6200#H6187|...]] [[Lexicon/H5701-5800#H5704|up to]] [[Lexicon/H8101-8200#H8141|the Year]] [[Lexicon/H3101-3200#H3104|of Jubilee ,]] [[Lexicon/H5401-5500#H5414|and (the man) shall pay]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6101-6200#H6187|the assessed value]] [[Lexicon/H1901-2000#H1931|on that]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6901-7000#H6944|as a sacred offering]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 23|LXX]] |
 
 ##### Leviticus 27 - 24
@@ -112,6 +144,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 25|LXX]] |
 
 ##### Leviticus 27 - 26
+<<<<<<< HEAD
 [[Lexicon/H301-400#H389|But]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H301-400#H376|one]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6942|may consecrate]] [[Lexicon/H1001-1100#H1060|a firstborn]] [[Lexicon/H901-1000#H929|of the livestock ,]] [[Lexicon/H801-900#H834|because]] [[Lexicon/H1001-1100#H1069|a firstborn]] [[Lexicon/H3001-3100#H3068|belongs to the LORD.]] [[Lexicon/H501-600#H518|Whether [it is]]] [[Lexicon/H7701-7800#H7794|an ox]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H7701-7800#H7716|a sheep ,]] [[Lexicon/H1901-2000#H1931|it [is]]] [[Lexicon/H3001-3100#H3068|the LORD’s.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 26|LXX]] |
 
@@ -121,6 +154,17 @@ Book: Leviticus
 
 ##### Leviticus 27 - 28
 [[Lexicon/H301-400#H389|-]] [[Lexicon/H3601-3700#H3605|Nothing]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H2701-2800#H2764|sets apart]] [[Lexicon/H2701-2800#H2763|...]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H3601-3700#H3605|from all he owns —]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H101-200#H120|whether a man ,]] [[Lexicon/H901-1000#H929|an animal ,]] [[Lexicon/H7701-7800#H7704|or his inherited land]] [[Lexicon/H201-300#H272|... —]] [[Lexicon/H3801-3900#H3808|-]] [[Lexicon/H4301-4400#H4376|can be sold]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H1301-1400#H1350|or redeemed ;]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H2701-2800#H2764|so devoted]] [[Lexicon/H6901-7000#H6944|[is] most]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+=======
+[[Lexicon/H301-400#H389|But]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H301-400#H376|one]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6942|may consecrate]] [[Lexicon/H1001-1100#H1060|a firstborn]] [[Lexicon/H901-1000#H929|of the livestock ,]] [[Lexicon/H801-900#H834|because]] [[Lexicon/H1001-1100#H1069|a firstborn]] [[Lexicon/H3001-3100#H3068|belongs to the LORD.]] [[Lexicon/H501-600#H518|Whether (it is)]] [[Lexicon/H7701-7800#H7794|an ox]] [[Lexicon/H501-600#H518|or]] [[Lexicon/H7701-7800#H7716|a sheep ,]] [[Lexicon/H1901-2000#H1931|it (is)]] [[Lexicon/H3001-3100#H3068|the LORD’s.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 26|LXX]] |
+
+##### Leviticus 27 - 27
+[[Lexicon/H501-600#H518|But if]] [[Lexicon/H2901-3000#H2931|(it is) among the unclean]] [[Lexicon/H901-1000#H929|animals ,]] [[Lexicon/H6201-6300#H6299|then he may redeem]] [[Lexicon/H6101-6200#H6187|it according to your valuation]] [[Lexicon/H3201-3300#H3254|and add]] [[Lexicon/H2501-2600#H2549|a fifth]] [[Lexicon/H5901-6000#H5921|of its value.]] [[Lexicon/H501-600#H518|If]] [[Lexicon/H3801-3900#H3808|it is not]] [[Lexicon/H1301-1400#H1350|redeemed ,]] [[Lexicon/H4301-4400#H4376|then it shall be sold]] [[Lexicon/H6101-6200#H6187|according to your valuation.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 27|LXX]] |
+
+##### Leviticus 27 - 28
+[[Lexicon/H301-400#H389|-]] [[Lexicon/H3601-3700#H3605|Nothing]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H2701-2800#H2764|sets apart]] [[Lexicon/H2701-2800#H2763|...]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H3601-3700#H3605|from all he owns —]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H101-200#H120|whether a man ,]] [[Lexicon/H901-1000#H929|an animal ,]] [[Lexicon/H7701-7800#H7704|or his inherited land]] [[Lexicon/H201-300#H272|... —]] [[Lexicon/H3801-3900#H3808|-]] [[Lexicon/H4301-4400#H4376|can be sold]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H1301-1400#H1350|or redeemed ;]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H2701-2800#H2764|so devoted]] [[Lexicon/H6901-7000#H6944|(is) most]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 28|LXX]] |
 
 ##### Leviticus 27 - 29
@@ -128,7 +172,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 29|LXX]] |
 
 ##### Leviticus 27 - 30
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|Thus any]] [[Lexicon/H4601-4700#H4643|tithe]] [[Lexicon/H701-800#H776|from the land ,]] [[Lexicon/H2201-2300#H2233|[whether] from the seed]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H6501-6600#H6529|or the fruit]] [[Lexicon/H6001-6100#H6086|of the trees ,]] [[Lexicon/H3001-3100#H3068|belongs to the LORD ;]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H6901-7000#H6944|is holy]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+=======
+[[Lexicon/H3601-3700#H3605|Thus any]] [[Lexicon/H4601-4700#H4643|tithe]] [[Lexicon/H701-800#H776|from the land ,]] [[Lexicon/H2201-2300#H2233|(whether) from the seed]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H6501-6600#H6529|or the fruit]] [[Lexicon/H6001-6100#H6086|of the trees ,]] [[Lexicon/H3001-3100#H3068|belongs to the LORD ;]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H6901-7000#H6944|is holy]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 27#Leviticus 27 - 30|LXX]] |
 
 ##### Leviticus 27 - 31

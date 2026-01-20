@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 34
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 33#Ezekiel-R 33| Ezekiel 33]] - [[Readable Bible/26 - Ezekiel/Ezekiel 35#Ezekiel-R 35| Ezekiel 35]]
+=======
+# Ezekiel 34
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 33|← Ezekiel 33]] | [[Readable Bible/26 - Ezekiel/Ezekiel 35|Ezekiel 35 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Joel-R 1
 
 **[[Home/Scripture/29 - Joel|Joel]]**
 
 [[Hosea-R 14|Hosea 14]] • [[Joel-R 2|Joel 2]]
+=======
+# Joel 1
+
+[[Readable Bible/28 - Hosea/Hosea 14|← Hosea 14]] | [[Readable Bible/29 - Joel/Joel 2|Joel 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

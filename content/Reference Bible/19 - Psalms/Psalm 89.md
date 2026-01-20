@@ -74,7 +74,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 89#Psalm 89 - 16|LXX]] |
 
 ##### Psalm 89 - 17
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H8501-8600#H8597|[are] the glory]] [[Lexicon/H5701-5800#H5797|of their strength ,]] [[Lexicon/H7501-7600#H7522|and by Your favor]] [[Lexicon/H7101-7200#H7161|our horn]] [[Lexicon/H7301-7400#H7311|is exalted.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H8501-8600#H8597|(are) the glory]] [[Lexicon/H5701-5800#H5797|of their strength ,]] [[Lexicon/H7501-7600#H7522|and by Your favor]] [[Lexicon/H7101-7200#H7161|our horn]] [[Lexicon/H7301-7400#H7311|is exalted.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 89#Psalm 89 - 17|LXX]] |
 
 ##### Psalm 89 - 18
@@ -202,7 +206,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 89#Psalm 89 - 48|LXX]] |
 
 ##### Psalm 89 - 49
+<<<<<<< HEAD
 [[Lexicon/H301-400#H346|Where ,]] [[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H2601-2700#H2617|[is] Your loving devotion]] [[Lexicon/H7201-7300#H7223|of old ,]] [[Lexicon/H501-600#H530|which You faithfully]] [[Lexicon/H7601-7700#H7650|swore]] [[Lexicon/H1701-1800#H1732|to David ?]]
+=======
+[[Lexicon/H301-400#H346|Where ,]] [[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H2601-2700#H2617|(is) Your loving devotion]] [[Lexicon/H7201-7300#H7223|of old ,]] [[Lexicon/H501-600#H530|which You faithfully]] [[Lexicon/H7601-7700#H7650|swore]] [[Lexicon/H1701-1800#H1732|to David ?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 89#Psalm 89 - 49|LXX]] |
 
 ##### Psalm 89 - 50
@@ -210,7 +218,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 89#Psalm 89 - 50|LXX]] |
 
 ##### Psalm 89 - 51
+<<<<<<< HEAD
 [[Lexicon/H801-900#H834|how]] [[Lexicon/H301-400#H341|Your enemies]] [[Lexicon/H2701-2800#H2778|have taunted ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H801-900#H834|[and]]] [[Lexicon/H2701-2800#H2778|have mocked]] [[Lexicon/H6101-6200#H6119|every step]] [[Lexicon/H4801-4900#H4899|of Your anointed one !]]
+=======
+[[Lexicon/H801-900#H834|how]] [[Lexicon/H301-400#H341|Your enemies]] [[Lexicon/H2701-2800#H2778|have taunted ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H801-900#H834|(and)]] [[Lexicon/H2701-2800#H2778|have mocked]] [[Lexicon/H6101-6200#H6119|every step]] [[Lexicon/H4801-4900#H4899|of Your anointed one !]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 89#Psalm 89 - 51|LXX]] |
 
 ##### Psalm 89 - 52

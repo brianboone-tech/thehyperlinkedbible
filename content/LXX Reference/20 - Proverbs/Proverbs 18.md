@@ -58,13 +58,21 @@ Testament: Old
 [[Lexicon/G1301-1400#G1390|gift]] [[Lexicon/G401-500#G0444|man]] [[Lexicon/G1701-1800#G1706|widens]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G1401-1500#G1413|monarchs]] [[Lexicon/G2501-2600#G2522|sits]] [[Lexicon/G1401-1500#G1473|him]]
 
 #### Proverbs 18 - 17
+<<<<<<< HEAD
 [[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G1401-1500#G1438|himself]] [[Lexicon/G2701-2800#G2725|accuser]] [[Lexicon/G1701-1800#G1722|at]] [[Lexicon/G4401-4500#G4411|beginning of speaking]] [[Lexicon/G5601-5700#G5613|but when]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G1901-2000#G1911|demands attention]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0476|opponent]] [[Lexicon/G1601-1700#G1651|reproved]]
+=======
+[[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G1401-1500#G1438|himself]] [[Lexicon/G2701-2800#G2725|accuser]] [[Lexicon/G1701-1800#G1722|at]] [[Lexicon/G4401-4500#G4411|beginning of speaking]] [[Lexicon/G5601-5624#G5613|but when]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G1901-2000#G1911|demands attention]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0476|opponent]] [[Lexicon/G1601-1700#G1651|reproved]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Proverbs 18 - 18
 [[Lexicon/G401-500#G0485|disputes]] [[Lexicon/G3901-4000#G3973|ceases]] [[Lexicon/G2801-2900#G2819|lot]] [[Lexicon/G1701-1800#G1722|and]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G1401-1500#G1413|monarchs]] [[Lexicon/G3701-3800#G3724|defines]]
 
 #### Proverbs 18 - 19
+<<<<<<< HEAD
 [[Lexicon/G1-100#G0080|brother]] [[Lexicon/G5201-5300#G5259|by]] [[Lexicon/G1-100#G0080|brother]] [[Lexicon/G901-1000#G0997|helped]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4101-4200#G4172|city]] [[Lexicon/G3701-3800#G3793|fortified]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5308|high]] [[Lexicon/G2401-2500#G2480|strong]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G2301-2400#G2311|well founded]] [[Lexicon/G901-1000#G0933|palace]]
+=======
+[[Lexicon/G1-100#G0080|brother]] [[Lexicon/G5201-5300#G5259|by]] [[Lexicon/G1-100#G0080|brother]] [[Lexicon/G901-1000#G0997|helped]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4101-4200#G4172|city]] [[Lexicon/G3701-3800#G3793|fortified]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5308|high]] [[Lexicon/G2401-2500#G2480|strong]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G2301-2400#G2311|well founded]] [[Lexicon/G901-1000#G0933|palace]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Proverbs 18 - 20
 [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2590|fruits]] [[Lexicon/G4701-4800#G4750|mouth]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G4101-4200#G4130|fills]] [[Lexicon/G2801-2900#G2836|belly]] [[Lexicon/G1401-1500#G1473|his]] [[Lexicon/G501-600#G0575|and from]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G2501-2600#G2590|fruits]] [[Lexicon/G5401-5500#G5491|lips]] [[Lexicon/G1401-1500#G1473|his]] [[Lexicon/G1701-1800#G1705|filled up]]

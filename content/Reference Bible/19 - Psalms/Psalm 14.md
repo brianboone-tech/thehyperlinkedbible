@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 14 - 1
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H1701-1800#H1732|Of David.]] [[Lexicon/H5001-5100#H5036|The fool]] [[Lexicon/H501-600#H559|says]] [[Lexicon/H3801-3900#H3820|in his heart ,]] [[Lexicon/H301-400#H369|“ [There is] no]] [[Lexicon/H401-500#H430|God. ”]] [[Lexicon/H7801-7900#H7843|They are corrupt ;]] [[Lexicon/H5901-6000#H5949|their Acts -]] [[Lexicon/H8501-8600#H8581|are vile.]] [[Lexicon/H301-400#H369|There is no]] [[Lexicon/H6201-6300#H6213|one who does]] [[Lexicon/H2801-2900#H2896|good.]]
+=======
+[[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H1701-1800#H1732|Of David.]] [[Lexicon/H5001-5100#H5036|The fool]] [[Lexicon/H501-600#H559|says]] [[Lexicon/H3801-3900#H3820|in his heart ,]] [[Lexicon/H301-400#H369|“ (There is) no]] [[Lexicon/H401-500#H430|God. ”]] [[Lexicon/H7801-7900#H7843|They are corrupt ;]] [[Lexicon/H5901-6000#H5949|their Acts -]] [[Lexicon/H8501-8600#H8581|are vile.]] [[Lexicon/H301-400#H369|There is no]] [[Lexicon/H6201-6300#H6213|one who does]] [[Lexicon/H2801-2900#H2896|good.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 14#Psalm 14 - 1|LXX]] |
 
 ##### Psalm 14 - 2
@@ -22,6 +26,7 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 14#Psalm 14 - 3|LXX]] |
 
 ##### Psalm 14 - 4
+<<<<<<< HEAD
 [[Lexicon/H6401-6500#H6466|Will the workers]] [[Lexicon/H201-300#H205|of iniquity]] [[Lexicon/H3801-3900#H3808|never]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H3001-3100#H3045|learn ?]] [[Lexicon/H301-400#H398|They devour]] [[Lexicon/H5901-6000#H5971|my people]] [[Lexicon/H301-400#H398|[like]]] [[Lexicon/H3801-3900#H3899|bread ;]] [[Lexicon/H3801-3900#H3808|they refuse]] [[Lexicon/H7101-7200#H7121|to call upon]] [[Lexicon/H3001-3100#H3068|the LORD.]]
 | [[LXX Reference/19 - Psalms/Psalms 14#Psalm 14 - 4|LXX]] |
 
@@ -31,6 +36,17 @@ cssClasses: lexicon
 
 ##### Psalm 14 - 6
 [[Lexicon/H901-1000#H954|You [sinners] frustrate]] [[Lexicon/H6001-6100#H6098|the plans]] [[Lexicon/H6001-6100#H6041|of the oppressed ,]] [[Lexicon/H3501-3600#H3588|yet]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H4201-4300#H4268|is their shelter.]]
+=======
+[[Lexicon/H6401-6500#H6466|Will the workers]] [[Lexicon/H201-300#H205|of iniquity]] [[Lexicon/H3801-3900#H3808|never]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H3001-3100#H3045|learn ?]] [[Lexicon/H301-400#H398|They devour]] [[Lexicon/H5901-6000#H5971|my people]] [[Lexicon/H301-400#H398|(like)]] [[Lexicon/H3801-3900#H3899|bread ;]] [[Lexicon/H3801-3900#H3808|they refuse]] [[Lexicon/H7101-7200#H7121|to call upon]] [[Lexicon/H3001-3100#H3068|the LORD.]]
+| [[LXX Reference/19 - Psalms/Psalms 14#Psalm 14 - 4|LXX]] |
+
+##### Psalm 14 - 5
+[[Lexicon/H8001-8100#H8033|There they are ,]] [[Lexicon/H6301-6400#H6342|overwhelmed]] [[Lexicon/H6301-6400#H6343|with dread ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H1701-1800#H1755|(is) in the company]] [[Lexicon/H6601-6700#H6662|of the righteous.]]
+| [[LXX Reference/19 - Psalms/Psalms 14#Psalm 14 - 5|LXX]] |
+
+##### Psalm 14 - 6
+[[Lexicon/H901-1000#H954|You (sinners) frustrate]] [[Lexicon/H6001-6100#H6098|the plans]] [[Lexicon/H6001-6100#H6041|of the oppressed ,]] [[Lexicon/H3501-3600#H3588|yet]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H4201-4300#H4268|is their shelter.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 14#Psalm 14 - 6|LXX]] |
 
 ##### Psalm 14 - 7

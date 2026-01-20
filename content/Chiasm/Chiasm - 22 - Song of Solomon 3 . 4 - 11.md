@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/22 - Song of Solomon|← Song of Solomon]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/22 - Song of Solomon|← Song of Solomon]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

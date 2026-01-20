@@ -12,7 +12,11 @@ Book: Leviticus
 ---
 
 ##### Leviticus 2 - 1
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|[“] When]] [[Lexicon/H5301-5400#H5315|anyone]] [[Lexicon/H7101-7200#H7126|brings]] [[Lexicon/H7101-7200#H7133|a grain offering]] [[Lexicon/H4501-4600#H4503|...]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7101-7200#H7133|his offering]] [[Lexicon/H5501-5600#H5560|must consist of fine flour.]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H3301-3400#H3332|He is to pour]] [[Lexicon/H8001-8100#H8081|olive oil]] [[Lexicon/H5901-6000#H5921|on it ,]] [[Lexicon/H5401-5500#H5414|put]] [[Lexicon/H3801-3900#H3828|frankincense]] [[Lexicon/H5901-6000#H5921|on it ,]]
+=======
+[[Lexicon/H3501-3600#H3588|(“) When]] [[Lexicon/H5301-5400#H5315|anyone]] [[Lexicon/H7101-7200#H7126|brings]] [[Lexicon/H7101-7200#H7133|a grain offering]] [[Lexicon/H4501-4600#H4503|...]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7101-7200#H7133|his offering]] [[Lexicon/H5501-5600#H5560|must consist of fine flour.]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H3301-3400#H3332|He is to pour]] [[Lexicon/H8001-8100#H8081|olive oil]] [[Lexicon/H5901-6000#H5921|on it ,]] [[Lexicon/H5401-5500#H5414|put]] [[Lexicon/H3801-3900#H3828|frankincense]] [[Lexicon/H5901-6000#H5921|on it ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 2#Leviticus 2 - 1|LXX]] |
 
 ##### Leviticus 2 - 2
@@ -36,7 +40,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 2#Leviticus 2 - 6|LXX]] |
 
 ##### Leviticus 2 - 7
+<<<<<<< HEAD
 [[Lexicon/H501-600#H518|If]] [[Lexicon/H7101-7200#H7133|your offering]] [[Lexicon/H4501-4600#H4503|is a grain offering]] [[Lexicon/H4801-4900#H4802|[cooked] in a pan ,]] [[Lexicon/H6201-6300#H6213|it must consist]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H8001-8100#H8081|with oil.]]
+=======
+[[Lexicon/H501-600#H518|If]] [[Lexicon/H7101-7200#H7133|your offering]] [[Lexicon/H4501-4600#H4503|is a grain offering]] [[Lexicon/H4801-4900#H4802|(cooked) in a pan ,]] [[Lexicon/H6201-6300#H6213|it must consist]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H8001-8100#H8081|with oil.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 2#Leviticus 2 - 7|LXX]] |
 
 ##### Leviticus 2 - 8
@@ -72,5 +80,9 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 2#Leviticus 2 - 15|LXX]] |
 
 ##### Leviticus 2 - 16
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6999|shall then burn]] [[Lexicon/H201-300#H234|the memorial portion]] [[Lexicon/H1601-1700#H1643|of the crushed grain]] [[Lexicon/H8001-8100#H8081|and the oil ,]] [[Lexicon/H5901-6000#H5921|together with]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3801-3900#H3828|its frankincense ,]] [[Lexicon/H801-900#H801|as an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD. [’’]]]
+=======
+[[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6999|shall then burn]] [[Lexicon/H201-300#H234|the memorial portion]] [[Lexicon/H1601-1700#H1643|of the crushed grain]] [[Lexicon/H8001-8100#H8081|and the oil ,]] [[Lexicon/H5901-6000#H5921|together with]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3801-3900#H3828|its frankincense ,]] [[Lexicon/H801-900#H801|as an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD. (’’)]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 2#Leviticus 2 - 16|LXX]] |

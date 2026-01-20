@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Chronicles-R 9
 
 **[[Home/Scripture/14 - 2 Chronicles|2 Chronicles]]**
 
 [[Readable Bible/14 - 2 Chronicles/2 Chronicles 8#2 Chronicles-R 8| 2 Chronicles 8]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 10#2 Chronicles-R 10| 2 Chronicles 10]]
+=======
+# 2 Chronicles 9
+
+[[Readable Bible/14 - 2 Chronicles/2 Chronicles 8|← 2 Chronicles 8]] | [[Readable Bible/14 - 2 Chronicles/2 Chronicles 10|2 Chronicles 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### 2 Chronicles 9 . 1
+<<<<<<< HEAD
 [[Reference Bible/14 - 2 Chronicles/2 Chronicles 9#2 Chronicles 9 - 1|1]]  Now when the queen of Sheba heard about the fame of Solomon, she came to test him with difficult questions. She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in abundance, and precious stones. So she came to Solomon and spoke with him about all that was on her mind.   || [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 9.1-12 to 1 Kings 10.1-13|IP]] | [[Chiasm/Chiasm - 14 - 2 Chronicles 9 . 1 - 12|C]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 9 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/148 - Solomon (The King of Peace and Wisdom)|TT]] |
+=======
+[[Reference Bible/14 - 2 Chronicles/2 Chronicles 9#2 Chronicles 9 - 1|1]]  Now when the queen of Sheba heard about the fame of Solomon, she came to test him with difficult questions. She arrived in Jerusalem with a very large caravan—with camels bearing spices, gold in abundance, and precious stones. So she came to Solomon and spoke with him about all that was on her mind.  | | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 9.1-12 to 1 Kings 10.1-13|IP]] | [[Chiasm/Chiasm - 14 - 2 Chronicles 9 . 1 - 12|C]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 9 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/148 - Solomon (The King of Peace and Wisdom)|TT]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 2 Chronicles 9 . 2
 [[Reference Bible/14 - 2 Chronicles/2 Chronicles 9#2 Chronicles 9 - 2|2]]  And Solomon answered all her questions; nothing was too difficult for him to explain.  | [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 9.1-12 to 1 Kings 10.1-13|IP]] | [[Chiasm/Chiasm - 14 - 2 Chronicles 9 . 1 - 12|C]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 9 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/148 - Solomon (The King of Peace and Wisdom)|TT]] |

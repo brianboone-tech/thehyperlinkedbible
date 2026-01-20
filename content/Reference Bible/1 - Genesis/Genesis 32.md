@@ -17,7 +17,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 1|LXX]] |
 
 ##### Genesis 32 - 2
+<<<<<<< HEAD
 [[Lexicon/H801-900#H834|When]] [[Lexicon/H7101-7200#H7200|[Jacob] saw them ,]] [[Lexicon/H3201-3300#H3290|[he]]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H4201-4300#H4264|is the camp]] [[Lexicon/H401-500#H430|of God. ”]] [[Lexicon/H7101-7200#H7121|So he named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H4701-4800#H4725|place]] [[Lexicon/H4201-4300#H4266|Mahanaim.]]
+=======
+[[Lexicon/H801-900#H834|When]] [[Lexicon/H7101-7200#H7200|(Jacob) saw them ,]] [[Lexicon/H3201-3300#H3290|(he)]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H4201-4300#H4264|is the camp]] [[Lexicon/H401-500#H430|of God. ”]] [[Lexicon/H7101-7200#H7121|So he named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H4701-4800#H4725|place]] [[Lexicon/H4201-4300#H4266|Mahanaim.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 2|LXX]] |
 
 ##### Genesis 32 - 3
@@ -53,7 +57,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 10|LXX]] |
 
 ##### Genesis 32 - 11
+<<<<<<< HEAD
 [[Lexicon/H4901-5000#H4994|Please]] [[Lexicon/H5301-5400#H5337|deliver me]] [[Lexicon/H3001-3100#H3027|from the hand]] [[Lexicon/H201-300#H251|of my brother]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H6201-6300#H6215|Esau ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3373|am afraid that]] [[Lexicon/H6401-6500#H6435|vvv]] [[Lexicon/H901-1000#H935|he may come]] [[Lexicon/H5201-5300#H5221|and attack me]] [[Lexicon/H501-600#H517|and the mothers]] [[Lexicon/H5901-6000#H5921|and]] [[Lexicon/H1101-1200#H1121|children [with me].]]
+=======
+[[Lexicon/H4901-5000#H4994|Please]] [[Lexicon/H5301-5400#H5337|deliver me]] [[Lexicon/H3001-3100#H3027|from the hand]] [[Lexicon/H201-300#H251|of my brother]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H6201-6300#H6215|Esau ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3373|am afraid that]] [[Lexicon/H6401-6500#H6435|vvv]] [[Lexicon/H901-1000#H935|he may come]] [[Lexicon/H5201-5300#H5221|and attack me]] [[Lexicon/H501-600#H517|and the mothers]] [[Lexicon/H5901-6000#H5921|and]] [[Lexicon/H1101-1200#H1121|children (with me).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 11|LXX]] |
 
 ##### Genesis 32 - 12
@@ -61,7 +69,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 12|LXX]] |
 
 ##### Genesis 32 - 13
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3885|[Jacob] spent]] [[Lexicon/H1901-2000#H1931|the]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H8001-8100#H8033|there ,]] [[Lexicon/H901-1000#H935|and from what he had brought]] [[Lexicon/H3001-3100#H3027|with him ,]] [[Lexicon/H3901-4000#H3947|he selected]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H4501-4600#H4503|a gift]] [[Lexicon/H201-300#H251|for his brother]] [[Lexicon/H6201-6300#H6215|Esau :]]
+=======
+[[Lexicon/H3801-3900#H3885|(Jacob) spent]] [[Lexicon/H1901-2000#H1931|the]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H8001-8100#H8033|there ,]] [[Lexicon/H901-1000#H935|and from what he had brought]] [[Lexicon/H3001-3100#H3027|with him ,]] [[Lexicon/H3901-4000#H3947|he selected]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H4501-4600#H4503|a gift]] [[Lexicon/H201-300#H251|for his brother]] [[Lexicon/H6201-6300#H6215|Esau :]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 13|LXX]] |
 
 ##### Genesis 32 - 14
@@ -81,7 +93,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 17|LXX]] |
 
 ##### Genesis 32 - 18
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|then you are to say ,]] [[Lexicon/H5601-5700#H5650|‘ They belong to your servant]] [[Lexicon/H3201-3300#H3290|Jacob.]] [[Lexicon/H1901-2000#H1931|They]] [[Lexicon/H4501-4600#H4503|are a gift ,]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H101-200#H113|to my lord]] [[Lexicon/H6201-6300#H6215|Esau.]] [[Lexicon/H2001-2100#H2009|And behold ,]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H1901-2000#H1931|[Jacob]]] [[Lexicon/H301-400#H310|is behind us. ’”]]
+=======
+[[Lexicon/H501-600#H559|then you are to say ,]] [[Lexicon/H5601-5700#H5650|‘ They belong to your servant]] [[Lexicon/H3201-3300#H3290|Jacob.]] [[Lexicon/H1901-2000#H1931|They]] [[Lexicon/H4501-4600#H4503|are a gift ,]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H101-200#H113|to my lord]] [[Lexicon/H6201-6300#H6215|Esau.]] [[Lexicon/H2001-2100#H2009|And behold ,]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H1901-2000#H1931|(Jacob)]] [[Lexicon/H301-400#H310|is behind us. ’”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 18|LXX]] |
 
 ##### Genesis 32 - 19
@@ -89,11 +105,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 19|LXX]] |
 
 ##### Genesis 32 - 20
+<<<<<<< HEAD
 [[Lexicon/H1501-1600#H1571|You are also]] [[Lexicon/H501-600#H559|to say ,]] [[Lexicon/H2001-2100#H2009|‘ Look ,]] [[Lexicon/H5601-5700#H5650|your servant]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H301-400#H310|is right behind us. ’”]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H559|he thought ,]] [[Lexicon/H3701-3800#H3722|“ I will appease]] [[Lexicon/H6401-6500#H6440|[Esau]]] [[Lexicon/H4501-4600#H4503|with the gift]] [[Lexicon/H1901-2000#H1980|that is going]] [[Lexicon/H6401-6500#H6440|before me.]] [[Lexicon/H301-400#H310|After]] [[Lexicon/H3601-3700#H3651|that]] [[Lexicon/H7101-7200#H7200|I can face]] [[Lexicon/H6401-6500#H6440|him ,]] [[Lexicon/H101-200#H194|and perhaps]] [[Lexicon/H5301-5400#H5375|he will accept]] [[Lexicon/H6401-6500#H6440|me. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 20|LXX]] |
 
 ##### Genesis 32 - 21
 [[Lexicon/H4501-4600#H4503|So [Jacob’s] gifts]] [[Lexicon/H5601-5700#H5674|went]] [[Lexicon/H5901-6000#H5921|on before]] [[Lexicon/H6401-6500#H6440|him ,]] [[Lexicon/H1901-2000#H1931|while he]] [[Lexicon/H3801-3900#H3885|spent]] [[Lexicon/H1901-2000#H1931|the]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H4201-4300#H4264|in the camp.]]
+=======
+[[Lexicon/H1501-1600#H1571|You are also]] [[Lexicon/H501-600#H559|to say ,]] [[Lexicon/H2001-2100#H2009|‘ Look ,]] [[Lexicon/H5601-5700#H5650|your servant]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H301-400#H310|is right behind us. ’”]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H559|he thought ,]] [[Lexicon/H3701-3800#H3722|“ I will appease]] [[Lexicon/H6401-6500#H6440|(Esau)]] [[Lexicon/H4501-4600#H4503|with the gift]] [[Lexicon/H1901-2000#H1980|that is going]] [[Lexicon/H6401-6500#H6440|before me.]] [[Lexicon/H301-400#H310|After]] [[Lexicon/H3601-3700#H3651|that]] [[Lexicon/H7101-7200#H7200|I can face]] [[Lexicon/H6401-6500#H6440|him ,]] [[Lexicon/H101-200#H194|and perhaps]] [[Lexicon/H5301-5400#H5375|he will accept]] [[Lexicon/H6401-6500#H6440|me. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 20|LXX]] |
+
+##### Genesis 32 - 21
+[[Lexicon/H4501-4600#H4503|So (Jacob’s) gifts]] [[Lexicon/H5601-5700#H5674|went]] [[Lexicon/H5901-6000#H5921|on before]] [[Lexicon/H6401-6500#H6440|him ,]] [[Lexicon/H1901-2000#H1931|while he]] [[Lexicon/H3801-3900#H3885|spent]] [[Lexicon/H1901-2000#H1931|the]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H4201-4300#H4264|in the camp.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 21|LXX]] |
 
 ##### Genesis 32 - 22
@@ -105,6 +129,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 23|LXX]] |
 
 ##### Genesis 32 - 24
+<<<<<<< HEAD
 [[Lexicon/H3201-3300#H3290|So Jacob]] [[Lexicon/H3401-3500#H3498|was left]] [[Lexicon/H901-1000#H905|all alone ,]] [[Lexicon/H301-400#H376|and [there] a man]] [[Lexicon/H1-100#H79|wrestled]] [[Lexicon/H5901-6000#H5973|with him]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H5901-6000#H5927|daybreak]] [[Lexicon/H7801-7900#H7837|....]]
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 24|LXX]] |
 
@@ -114,6 +139,17 @@ Testament: Old
 
 ##### Genesis 32 - 26
 [[Lexicon/H501-600#H559|Then [the man] said ,]] [[Lexicon/H7901-8000#H7971|“ Let me go ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H5901-6000#H5927|it is daybreak]] [[Lexicon/H7801-7900#H7837|.... ”]] [[Lexicon/H501-600#H559|But Jacob replied ,]] [[Lexicon/H3801-3900#H3808|“ I will not]] [[Lexicon/H7901-8000#H7971|let you go]] [[Lexicon/H3501-3600#H3588|unless]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H1201-1300#H1288|you bless me. ”]]
+=======
+[[Lexicon/H3201-3300#H3290|So Jacob]] [[Lexicon/H3401-3500#H3498|was left]] [[Lexicon/H901-1000#H905|all alone ,]] [[Lexicon/H301-400#H376|and (there) a man]] [[Lexicon/H1-100#H79|wrestled]] [[Lexicon/H5901-6000#H5973|with him]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H5901-6000#H5927|daybreak]] [[Lexicon/H7801-7900#H7837|....]]
+| [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 24|LXX]] |
+
+##### Genesis 32 - 25
+[[Lexicon/H7101-7200#H7200|When the man saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3801-3900#H3808|he could not]] [[Lexicon/H3201-3300#H3201|overpower]] [[Lexicon/H5001-5100#H5060|he struck]] [[Lexicon/H3701-3800#H3709|the socket]] [[Lexicon/H3401-3500#H3409|of Jacob’s hip]] [[Lexicon/H3301-3400#H3363|and dislocated]] [[Lexicon/H3701-3800#H3709|...]] [[Lexicon/H3201-3300#H3290|(it)]] [[Lexicon/H3401-3500#H3409|...]] [[Lexicon/H5901-6000#H5973|as they]] [[Lexicon/H1-100#H79|wrestled.]]
+| [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 25|LXX]] |
+
+##### Genesis 32 - 26
+[[Lexicon/H501-600#H559|Then (the man) said ,]] [[Lexicon/H7901-8000#H7971|“ Let me go ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H5901-6000#H5927|it is daybreak]] [[Lexicon/H7801-7900#H7837|.... ”]] [[Lexicon/H501-600#H559|But Jacob replied ,]] [[Lexicon/H3801-3900#H3808|“ I will not]] [[Lexicon/H7901-8000#H7971|let you go]] [[Lexicon/H3501-3600#H3588|unless]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H1201-1300#H1288|you bless me. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 26|LXX]] |
 
 ##### Genesis 32 - 27
@@ -121,11 +157,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 27|LXX]] |
 
 ##### Genesis 32 - 28
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|Then [the man] said ,]] [[Lexicon/H8001-8100#H8034|“ Your name]] [[Lexicon/H3801-3900#H3808|will no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H501-600#H559|be]] [[Lexicon/H3201-3300#H3290|Jacob ,]] [[Lexicon/H3401-3500#H3478|but Israel]] [[Lexicon/H3501-3600#H3588|... ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H8201-8300#H8280|you have struggled]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H5901-6000#H5973|and with]] [[Lexicon/H301-400#H376|men ,]] [[Lexicon/H3201-3300#H3201|and you have prevailed. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 28|LXX]] |
 
 ##### Genesis 32 - 29
 [[Lexicon/H3201-3300#H3290|And Jacob]] [[Lexicon/H7501-7600#H7592|requested]] [[Lexicon/H501-600#H559|... ,]] [[Lexicon/H4901-5000#H4994|“ Please]] [[Lexicon/H5001-5100#H5046|tell me]] [[Lexicon/H8001-8100#H8034|your name. ”]] [[Lexicon/H501-600#H559|But he replied ,]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H7501-7600#H7592|do you ask]] [[Lexicon/H8001-8100#H8034|my name ? ”]] [[Lexicon/H1201-1300#H1288|Then he blessed]] [[Lexicon/H801-900#H853|[Jacob]]] [[Lexicon/H8001-8100#H8033|there.]]
+=======
+[[Lexicon/H501-600#H559|Then (the man) said ,]] [[Lexicon/H8001-8100#H8034|“ Your name]] [[Lexicon/H3801-3900#H3808|will no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H501-600#H559|be]] [[Lexicon/H3201-3300#H3290|Jacob ,]] [[Lexicon/H3401-3500#H3478|but Israel]] [[Lexicon/H3501-3600#H3588|... ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H8201-8300#H8280|you have struggled]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H5901-6000#H5973|and with]] [[Lexicon/H301-400#H376|men ,]] [[Lexicon/H3201-3300#H3201|and you have prevailed. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 28|LXX]] |
+
+##### Genesis 32 - 29
+[[Lexicon/H3201-3300#H3290|And Jacob]] [[Lexicon/H7501-7600#H7592|requested]] [[Lexicon/H501-600#H559|... ,]] [[Lexicon/H4901-5000#H4994|“ Please]] [[Lexicon/H5001-5100#H5046|tell me]] [[Lexicon/H8001-8100#H8034|your name. ”]] [[Lexicon/H501-600#H559|But he replied ,]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H7501-7600#H7592|do you ask]] [[Lexicon/H8001-8100#H8034|my name ? ”]] [[Lexicon/H1201-1300#H1288|Then he blessed]] [[Lexicon/H801-900#H853|(Jacob)]] [[Lexicon/H8001-8100#H8033|there.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 29|LXX]] |
 
 ##### Genesis 32 - 30
@@ -137,5 +181,9 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 31|LXX]] |
 
 ##### Genesis 32 - 32
+<<<<<<< HEAD
 [[Lexicon/H5901-6000#H5921|Therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3808|do not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H1501-1600#H1517|the tendon]] [[Lexicon/H5301-5400#H5384|...]] [[Lexicon/H801-900#H834|which [is]]] [[Lexicon/H5901-6000#H5921|at]] [[Lexicon/H3701-3800#H3709|the socket]] [[Lexicon/H3401-3500#H3409|of the hip ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3701-3800#H3709|the socket]] [[Lexicon/H3201-3300#H3290|of Jacob’s]] [[Lexicon/H3401-3500#H3409|hip]] [[Lexicon/H5001-5100#H5060|was struck]] [[Lexicon/H1501-1600#H1517|near that tendon]] [[Lexicon/H5301-5400#H5384|....]]
+=======
+[[Lexicon/H5901-6000#H5921|Therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3808|do not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H1501-1600#H1517|the tendon]] [[Lexicon/H5301-5400#H5384|...]] [[Lexicon/H801-900#H834|which (is)]] [[Lexicon/H5901-6000#H5921|at]] [[Lexicon/H3701-3800#H3709|the socket]] [[Lexicon/H3401-3500#H3409|of the hip ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3701-3800#H3709|the socket]] [[Lexicon/H3201-3300#H3290|of Jacob’s]] [[Lexicon/H3401-3500#H3409|hip]] [[Lexicon/H5001-5100#H5060|was struck]] [[Lexicon/H1501-1600#H1517|near that tendon]] [[Lexicon/H5301-5400#H5384|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 32#Genesis 32 - 32|LXX]] |

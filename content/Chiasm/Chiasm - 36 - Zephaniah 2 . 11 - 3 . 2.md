@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/36 - Zephaniah|← Zephaniah]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/36 - Zephaniah|← Zephaniah]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

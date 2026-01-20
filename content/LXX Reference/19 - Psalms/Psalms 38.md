@@ -21,7 +21,11 @@ Testament: Old
 [[Lexicon/G3701-3800#G3756|There is no]] [[Lexicon/G2301-2400#G2392|healing]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4501-4600#G4561|my flesh]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3701-3800#G3709|of your anger;]] [[Lexicon/G3701-3800#G3756|there is no]] [[Lexicon/G1501-1600#G1515|peace]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3747|my bones]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G201-300#G0266|of my sins.]]
 
 #### Psalms 38 - 4
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G401-500#G0458|my lawless deeds]] [[Lexicon/G5201-5300#G5229|are elevated above]] [[Lexicon/G2701-2800#G2776|my head;]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5401-5500#G5413|load]] [[Lexicon/G901-1000#G0925|they were oppressed]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|me.]]
+=======
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G401-500#G0458|my lawless deeds]] [[Lexicon/G5201-5300#G5229|are elevated above]] [[Lexicon/G2701-2800#G2776|my head;]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5401-5500#G5413|load]] [[Lexicon/G901-1000#G0925|they were oppressed]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|me.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 38 - 5
 [[Lexicon/G4301-4400#G4357|give out an odor]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G801-900#G0877|of my folly.]]
@@ -33,7 +37,11 @@ Testament: Old
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G5501-5600#G5589|my flanks]] [[Lexicon/G4101-4200#G4130|were filled]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|there is no]] [[Lexicon/G2301-2400#G2392|healing]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4501-4600#G4561|my flesh.]]
 
 #### Psalms 38 - 8
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2559|I was afflicted with evil]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5013|humbled,]] [[Lexicon/G2101-2200#G2193|even unto]] [[Lexicon/G4901-5000#G4970|exceedingly.]] [[Lexicon/G5601-5700#G5612|I roared]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2588|of my heart.]]
+=======
+[[Lexicon/G2501-2600#G2559|I was afflicted with evil]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5013|humbled,]] [[Lexicon/G2101-2200#G2193|even unto]] [[Lexicon/G4901-5000#G4970|exceedingly.]] [[Lexicon/G5601-5624#G5612|I roared]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2588|of my heart.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 38 - 9
 [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1901-2000#G1939|my desire;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4701-4800#G4726|my moaning]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G601-700#G0613|be concealed.]]
@@ -48,10 +56,17 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1545|expelled me]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2212|ones seeking]] [[Lexicon/G2501-2600#G2556|bad things]] [[Lexicon/G1401-1500#G1473|for me]] [[Lexicon/G2901-3000#G2980|spoke]] [[Lexicon/G3101-3200#G3153|follies;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1386|on deceits]]
 
 #### Psalms 38 - 13
+<<<<<<< HEAD
 [[Lexicon/G1401-1500#G1473|But I,]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G2901-3000#G2974|a deaf-mute,]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G101-200#G0191|hear;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G201-300#G0216|one speechless]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G401-500#G0455|opening]] [[Lexicon/G4701-4800#G4750|his mouth.]]
 
 #### Psalms 38 - 14
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|I became]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G401-500#G0444|a man]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G101-200#G0191|hearing,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G2101-2200#G2192|having]] [[Lexicon/G1701-1800#G1722|in]]
+=======
+[[Lexicon/G1401-1500#G1473|But I,]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G2901-3000#G2974|a deaf-mute,]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G101-200#G0191|hear;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G201-300#G0216|one speechless]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G401-500#G0455|opening]] [[Lexicon/G4701-4800#G4750|his mouth.]]
+
+#### Psalms 38 - 14
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|I became]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G401-500#G0444|a man]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G101-200#G0191|hearing,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G2101-2200#G2192|having]] [[Lexicon/G1701-1800#G1722|in]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 38 - 15
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G1601-1700#G1679|I hoped.]] [[Lexicon/G1401-1500#G1473|You]] [[Lexicon/G1501-1600#G1522|will hear,]] [[Lexicon/G2901-3000#G2962|O lord]] [[Lexicon/G2301-2400#G2316|my God.]]

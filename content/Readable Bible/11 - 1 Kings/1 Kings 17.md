@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Kings-R 17
 
 **[[Home/Scripture/11 - 1 Kings|1 Kings]]**
 
 [[Readable Bible/11 - 1 Kings/1 Kings 16#1 Kings-R 16| 1 Kings 16]] - [[Readable Bible/11 - 1 Kings/1 Kings 18#1 Kings-R 18| 1 Kings 18]]
+=======
+# 1 Kings 17
+
+[[Readable Bible/11 - 1 Kings/1 Kings 16|← 1 Kings 16]] | [[Readable Bible/11 - 1 Kings/1 Kings 18|1 Kings 18 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -42,6 +48,7 @@ cssClasses: lexicon
 
 ##### 1 Kings 17 . 10
 [[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 10|10]] So Elijah got up and went to Zarephath. When he arrived at the city gate, there was a widow gathering sticks. Elijah called to her and said, “Please bring me a little water in a cup, so that I may drink.”  | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 10|TOSK]] |
+<<<<<<< HEAD
   |  [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|Chiasm]]  |
 
 ##### 1 Kings 17 . 11
@@ -67,6 +74,33 @@ cssClasses: lexicon
 ##### 1 Kings 17 . 16
 [[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 16|16]] The jar of flour was not exhausted and the jug of oil did not run dry, according to the word that the LORD had spoken through Elijah.  | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 16|TOSK]] |
   |  [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|Chiasm]]  |
+=======
+ | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|Chiasm]]  |
+
+##### 1 Kings 17 . 11
+[[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 11|11]] And as she was going to get it, he called to her and said, “Please bring me a piece of bread.”  | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 11|TOSK]] |
+ | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|Chiasm]]  |
+
+##### 1 Kings 17 . 12
+[[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 12|12]] But she replied, “As surely as the LORD your God lives, I have no bread—only a handful of flour in a jar and a little oil in a jug. Look, I am gathering a couple of sticks to take home and prepare a meal for myself and my son, so that we may eat it and die.”  | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 12|TOSK]] |
+ | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|Chiasm]]  |
+
+##### 1 Kings 17 . 13
+[[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 13|13]] “Do not be afraid,” Elijah said to her. “Go and do as you have said. But first make me a small cake of bread from what you have, and bring it out to me. Afterward, make some for yourself and your son,  | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 13|TOSK]] |
+ | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|Chiasm]]  |
+
+##### 1 Kings 17 . 14
+[[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 14|14]] for this is what the LORD, the God of Israel, says: ‘The jar of flour will not be exhausted and the jug of oil will not run dry until the day the LORD sends rain upon the face of the earth.’”  | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 14|TOSK]] |
+ | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|Chiasm]]  |
+
+##### 1 Kings 17 . 15
+[[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 15|15]] So she went and did according to the word of Elijah, and there was food every day for Elijah and the woman and her household.  | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 15|TOSK]] |
+ | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|Chiasm]]  |
+
+##### 1 Kings 17 . 16
+[[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 16|16]] The jar of flour was not exhausted and the jug of oil did not run dry, according to the word that the LORD had spoken through Elijah.  | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 16|TOSK]] |
+ | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 8 - 16|Chiasm]]  |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Kings 17 . 17
 [[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 17|17]] Later, the son of the woman who owned the house became ill, and his sickness grew worse and worse, until no breath remained in him.  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.10 to 1 Kings 17.17-24|IP¹]] | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 9.32-43 to 1 Kings 17.17-24|IP²]] | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 17 - 18 . 2|C]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 17|TOSK]] | [[Trajectory Tables/050 - Elijah (Prophet of Fire and Restoration)|TT]] |
@@ -85,10 +119,18 @@ cssClasses: lexicon
 
 ##### 1 Kings 17 . 22
 [[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 22|22]] And the LORD listened to the voice of Elijah, and the child’s life returned to him, and he lived.  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.10 to 1 Kings 17.17-24|IP¹]] | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 9.32-43 to 1 Kings 17.17-24|IP²]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 22|TOSK]] |
+<<<<<<< HEAD
   |  [[Chiasm/Chiasm - 11 - 1 Kings 17 . 17 - 18 . 2|Chiasm]]  |
+=======
+ | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 17 - 18 . 2|Chiasm]]  |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Kings 17 . 23
 [[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 23|23]] Then Elijah took the child, brought him down from the upper room into the house, and gave him to his mother. “Look, your son is alive,” Elijah declared.  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.10 to 1 Kings 17.17-24|IP¹]] | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 9.32-43 to 1 Kings 17.17-24|IP²]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 23|TOSK]] |
 ##### 1 Kings 17 . 24
 [[Reference Bible/11 - 1 Kings/1 Kings 17#1 Kings 17 - 24|24]] Then the woman said to Elijah, “Now I know that you are a man of God and that the word of the LORD from your mouth is truth.”  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 20.10 to 1 Kings 17.17-24|IP¹]] | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 9.32-43 to 1 Kings 17.17-24|IP²]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 17 - TOSK#Verse 24|TOSK]] |
+<<<<<<< HEAD
   |  [[Chiasm/Chiasm - 11 - 1 Kings 17 . 17 - 18 . 2|Chiasm]]  |
+=======
+ | [[Chiasm/Chiasm - 11 - 1 Kings 17 . 17 - 18 . 2|Chiasm]]  |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

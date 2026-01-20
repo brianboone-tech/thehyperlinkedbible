@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Leviticus-R 10
 
 **[[Home/Scripture/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 9#Leviticus-R 9| Leviticus 9]] - [[Readable Bible/03 - Leviticus/Leviticus 11#Leviticus-R 11| Leviticus 11]]
+=======
+# Leviticus 10
+
+[[Readable Bible/03 - Leviticus/Leviticus 9|← Leviticus 9]] | [[Readable Bible/03 - Leviticus/Leviticus 11|Leviticus 11 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -71,4 +77,8 @@ cssClasses: lexicon
 [[Reference Bible/3 - Leviticus/Leviticus 10#Leviticus 10 - 19|19]] But Aaron replied to Moses, “Behold, this very day they presented their sin offering and their burnt offering before the LORD. Since these things have happened to me, if I had eaten the sin offering today, would it have been acceptable in the sight of the LORD?”  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 10 - TOSK#Verse 19|TOSK]] |
 
 ##### Leviticus 10 . 20
+<<<<<<< HEAD
 [[Reference Bible/3 - Leviticus/Leviticus 10#Leviticus 10 - 20|20]] And when Moses heard this explanation, he was satisfied.  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 10 - TOSK#Verse 20|TOSK]] | 
+=======
+[[Reference Bible/3 - Leviticus/Leviticus 10#Leviticus 10 - 20|20]] And when Moses heard this explanation, he was satisfied.  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 10 - TOSK#Verse 20|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

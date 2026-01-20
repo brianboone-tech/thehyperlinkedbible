@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Timothy-R 3
 
 **[[Home/Scripture/55 - 2 Timothy|2 Timothy]]**
 
 [[Readable Bible/55 - 2 Timothy/2 Timothy 2#2 Timothy-R 2| 2 Timothy 2]] - [[Readable Bible/55 - 2 Timothy/2 Timothy 4#2 Timothy-R 4| 2 Timothy 4]]
+=======
+# 2 Timothy 3
+
+[[Readable Bible/55 - 2 Timothy/2 Timothy 2|← 2 Timothy 2]] | [[Readable Bible/55 - 2 Timothy/2 Timothy 4|2 Timothy 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

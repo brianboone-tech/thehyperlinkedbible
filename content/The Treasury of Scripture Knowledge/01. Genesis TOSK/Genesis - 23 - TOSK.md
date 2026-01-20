@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Genesis 23 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 24 - TOSK|Ch 24 →]]
+=======
+**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 24 - TOSK|Ch 24 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

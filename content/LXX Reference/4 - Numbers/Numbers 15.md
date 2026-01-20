@@ -54,7 +54,11 @@ Testament: Old
 [[Lexicon/G1401-1500#G1437|And if]] [[Lexicon/G4301-4400#G4339|a foreigner]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G4301-4400#G4325|should unite]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1093|your land,]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G1001-1100#G1096|was born]] [[Lexicon/G1701-1800#G1722|to]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1001-1100#G1074|your generations,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|he shall offer]] [[Lexicon/G2501-2600#G2593|a yield offering]] [[Lexicon/G3701-3800#G3744|scent]] [[Lexicon/G2101-2200#G2175|of pleasant aroma]] [[Lexicon/G3701-3800#G3739|in which]] [[Lexicon/G5101-5200#G5158|manner]] [[Lexicon/G4101-4200#G4160|you do]] [[Lexicon/G1401-1500#G1473|yourselves ]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G4101-4200#G4160|shall offer]]
 
 #### Numbers 15 - 15
+<<<<<<< HEAD
 [[Lexicon/G3501-3600#G3551|law]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G4301-4400#G4339|foreigners]] [[Lexicon/G4301-4400#G4343|lying near]] [[Lexicon/G1701-1800#G1722|to]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G3501-3600#G3551|law]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G1001-1100#G1074|your generations.]] [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|also]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4339|foreigner]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G1701-1800#G1725|before]]
+=======
+[[Lexicon/G3501-3600#G3551|law]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G4301-4400#G4339|foreigners]] [[Lexicon/G4301-4400#G4343|lying near]] [[Lexicon/G1701-1800#G1722|to]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G3501-3600#G3551|law]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G1001-1100#G1074|your generations.]] [[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|also]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4339|foreigner]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G1701-1800#G1725|before]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Numbers 15 - 16
 [[Lexicon/G3501-3600#G3551|law]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1345|ordinance]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G4301-4400#G4339|foreigner]] [[Lexicon/G4301-4400#G4343|lying near]] [[Lexicon/G1701-1800#G1722|to]] [[Lexicon/G1401-1500#G1473|you.]]
@@ -69,7 +73,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G1501-1600#G1510|it will be]] [[Lexicon/G3701-3800#G3752|whenever]] [[Lexicon/G2001-2100#G2068|you yourselves should eat]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0740|bread loaves]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|land,]] [[Lexicon/G801-900#G0851|you shall remove]] [[Lexicon/G801-900#G0850|a cut-away portion]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G501-600#G0536|a first-fruit]] [[Lexicon/G5401-5500#G5445|of your batch of dough.]]
 
 #### Numbers 15 - 20
+<<<<<<< HEAD
 [[Lexicon/G701-800#G0740|bread]] [[Lexicon/G801-900#G0850|as a cut-away portion]] [[Lexicon/G1401-1500#G1473|to him.]] [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G801-900#G0850|a cut-away portion]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G801-900#G0851|shall you remove]] [[Lexicon/G1401-1500#G1473|it.]]
+=======
+[[Lexicon/G701-800#G0740|bread]] [[Lexicon/G801-900#G0850|as a cut-away portion]] [[Lexicon/G1401-1500#G1473|to him.]] [[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G801-900#G0850|a cut-away portion]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G801-900#G0851|shall you remove]] [[Lexicon/G1401-1500#G1473|it.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Numbers 15 - 21
 [[Lexicon/G501-600#G0536|As first-fruit]] [[Lexicon/G5401-5500#G5445|of your batch,]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G1301-1400#G1325|you shall give it]] [[Lexicon/G801-900#G0850|as cut-away portion]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G1001-1100#G1074|your generations.]]

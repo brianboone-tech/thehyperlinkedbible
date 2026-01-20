@@ -51,7 +51,11 @@ Testament: Old
 [[Lexicon/G2601-2700#G2681|O ones encamping]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G4101-4200#G4128|the]] [[Lexicon/G2301-2400#G2344|of her treasures,]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G4601-4700#G4698|your intestines.]]
 
 #### Jeremiah 51 - 14
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3601-3700#G3660|the]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G1001-1100#G1023|his arm, saying]] [[Lexicon/G1301-1400#G1360|For]] [[Lexicon/G4101-4200#G4137|I shall fill]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G401-500#G0444|of men]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G101-200#G0200|locusts,]] [[Lexicon/G2501-2600#G2532|and]]
+=======
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3601-3700#G3660|the]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G1001-1100#G1023|his arm, saying]] [[Lexicon/G1301-1400#G1360|For]] [[Lexicon/G4101-4200#G4137|I shall fill]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G401-500#G0444|of men]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G101-200#G0200|locusts,]] [[Lexicon/G2501-2600#G2532|and]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 51 - 15
 [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G4101-4200#G4160|making]] [[Lexicon/G1001-1100#G1093|the]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G2401-2500#G2479|his strength,]] [[Lexicon/G2001-2100#G2090|preparing]] [[Lexicon/G3601-3700#G3611|the]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4601-4700#G4678|his wisdom;]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G4901-5000#G4907|his understanding]] [[Lexicon/G1601-1700#G1614|he stretched out]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven.]]
@@ -84,13 +88,21 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G401-500#G0467|I will recompense]] [[Lexicon/G3501-3600#G3588|to]] Babylon [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|to all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2730|Chaldeans dwelling there]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G2501-2600#G2549|their evils]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4101-4200#G4160|they did]] [[Lexicon/G1901-2000#G1909|against]] Zion [[Lexicon/G2501-2600#G2596|before]] [[Lexicon/G3701-3800#G3788|your eyes,]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]]
 
 #### Jeremiah 51 - 25
+<<<<<<< HEAD
 [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G4301-4400#G4314|against]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G1301-1400#G1311|corrupting]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1601-1700#G1614|I will stretch out]] [[Lexicon/G5401-5500#G5495|my hand]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|you.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2601-2700#G2633|I will roll]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|I will make]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3701-3800#G3735|a mountain]] [[Lexicon/G1701-1800#G1716|being set on fire.]]
+=======
+[[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G4301-4400#G4314|against]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G1301-1400#G1311|corrupting]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1601-1700#G1614|I will stretch out]] [[Lexicon/G5401-5500#G5495|my hand]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|you.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2601-2700#G2633|I will roll]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|I will make]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3701-3800#G3735|a mountain]] [[Lexicon/G1701-1800#G1716|being set on fire.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 51 - 26
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G2901-3000#G2983|shall they take]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G3001-3100#G3037|a stone]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G1101-1200#G1137|a corner,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3037|a stone]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2301-2400#G2310|a foundation.]] [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G1501-1600#G1510|you will be,]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]]
 
 #### Jeremiah 51 - 27
+<<<<<<< HEAD
 [[Lexicon/G101-200#G0142|Lift up]] [[Lexicon/G4501-4600#G4592|a sign]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth!]] [[Lexicon/G4501-4600#G4537|Trump]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1484|the]] [[Lexicon/G4501-4600#G4536|with a trumpet!]] [[Lexicon/G1-100#G0037|Sanctify]] [[Lexicon/G3801-3900#G3853|Exhort]] Ararat [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] Ashchenazi! [[Lexicon/G2101-2200#G2186|Set]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G901-1000#G0956|a range of weapons!]] [[Lexicon/G301-400#G0307|Haul]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G2401-2500#G2462|the]] [[Lexicon/G5601-5700#G5613|as]]
+=======
+[[Lexicon/G101-200#G0142|Lift up]] [[Lexicon/G4501-4600#G4592|a sign]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth!]] [[Lexicon/G4501-4600#G4537|Trump]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1484|the]] [[Lexicon/G4501-4600#G4536|with a trumpet!]] [[Lexicon/G1-100#G0037|Sanctify]] [[Lexicon/G3801-3900#G3853|Exhort]] Ararat [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] Ashchenazi! [[Lexicon/G2101-2200#G2186|Set]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G901-1000#G0956|a range of weapons!]] [[Lexicon/G301-400#G0307|Haul]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G2401-2500#G2462|the]] [[Lexicon/G5601-5624#G5613|as]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 51 - 28
 [[Lexicon/G301-400#G0307|Haul up]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G3501-3600#G3588|of the]] Medes [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth;]] [[Lexicon/G2201-2300#G2233|his leaders,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4701-4800#G4755|of his commandants.]]
@@ -98,7 +110,11 @@ Testament: Old
 #### Jeremiah 51 - 29
 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4188|toiled]] [[Lexicon/G1301-1400#G1360|because]] 5 [[Lexicon/G5001-5100#G5087|to appoint]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Babylon [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G801-900#G0854|extinction,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|to not]] [[Lexicon/G2701-2800#G2730|inhabit]] [[Lexicon/G1401-1500#G1473|it.]]
 
+<<<<<<< HEAD
 #### Jeremiah 51 - 30 2 [[Lexicon/G4101-4200#G4170|to wage war,]] [[Lexicon/G2501-2600#G2521|they shall sit]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4001-4100#G4042|the]] [[Lexicon/G1001-1100#G1096|they became]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G1101-1200#G1135|women;]] [[Lexicon/G1701-1800#G1716|he set on fire]] [[Lexicon/G4601-4700#G4638|her tents;]]
+=======
+#### Jeremiah 51 - 30 2 [[Lexicon/G4101-4200#G4170|to wage war,]] [[Lexicon/G2501-2600#G2521|they shall sit]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4001-4100#G4042|the]] [[Lexicon/G1001-1100#G1096|they became]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G1101-1200#G1135|women;]] [[Lexicon/G1701-1800#G1716|he set on fire]] [[Lexicon/G4601-4700#G4638|her tents;]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 51 - 31
 [[Lexicon/G1301-1400#G1377|One is]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G501-600#G0529|meet]] [[Lexicon/G1301-1400#G1377|one pursuing]] [[Lexicon/G1301-1400#G1377|to pursue;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0312|one announcing]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G501-600#G0529|meet]] [[Lexicon/G301-400#G0312|one announcing]] [[Lexicon/G301-400#G0312|to announce]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G901-1000#G0935|king]] of Babylon [[Lexicon/G3701-3800#G3754|that]]
@@ -110,7 +126,11 @@ Testament: Old
 [[Lexicon/G1301-1400#G1360|For]] [[Lexicon/G3501-3600#G3592|thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1411|forces,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2316|God]] of Israel; [[Lexicon/G3601-3700#G3624|The]] [[Lexicon/G901-1000#G0935|of the]] of Babylon [[Lexicon/G2001-2100#G2089|still]] [[Lexicon/G3301-3400#G3397|a little]] [[Lexicon/G2501-2600#G2532|and]]
 
 #### Jeremiah 51 - 34
+<<<<<<< HEAD
 [[Lexicon/G2701-2800#G2719|He devoured]] [[Lexicon/G1401-1500#G1473|me,]] 1 3 [[Lexicon/G2601-2700#G2666|he swallowed me down]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1401-1500#G1404|a dragon;]] [[Lexicon/G4101-4200#G4130|he filled]] [[Lexicon/G2801-2900#G2836|his belly]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G5101-5200#G5172|my delicacies.]]
+=======
+[[Lexicon/G2701-2800#G2719|He devoured]] [[Lexicon/G1401-1500#G1473|me,]] 1 3 [[Lexicon/G2601-2700#G2666|he swallowed me down]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1401-1500#G1404|a dragon;]] [[Lexicon/G4101-4200#G4130|he filled]] [[Lexicon/G2801-2900#G2836|his belly]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G5101-5200#G5172|my delicacies.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 51 - 35
 [[Lexicon/G1501-1600#G1519|into]] Babylon, 2 [[Lexicon/G2501-2600#G2532|and,]] [[Lexicon/G101-200#G0129|My blood]] [[Lexicon/G1901-2000#G1909|is]] [[Lexicon/G3501-3600#G3588|the]] 1 1
@@ -122,13 +142,21 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|Babylon will be]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G801-900#G0854|extinction,]] [[Lexicon/G2701-2800#G2731|a dwelling]] [[Lexicon/G1401-1500#G1404|of dragons,]] [[Lexicon/G801-900#G0854|an extincion]] [[Lexicon/G4901-5000#G4947|hissing,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|it shall not be inhabited.]]
 
 #### Jeremiah 51 - 38
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G3001-3100#G3023|lions]] [[Lexicon/G1801-1900#G1825|they were aroused]] [[Lexicon/G201-300#G0260|together,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4601-4700#G4661|cubs]] [[Lexicon/G3001-3100#G3023|of lions.]]
+=======
+[[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G3001-3100#G3023|lions]] [[Lexicon/G1801-1900#G1825|they were aroused]] [[Lexicon/G201-300#G0260|together,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4601-4700#G4661|cubs]] [[Lexicon/G3001-3100#G3023|of lions.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 51 - 39
 [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G2301-2400#G2328|their heat]] [[Lexicon/G1301-1400#G1325|I will give]] [[Lexicon/G4201-4300#G4220|to them a drink,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3101-3200#G3184|I shall intoxicate]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G3701-3800#G3704|so that]] [[Lexicon/G2501-2600#G2589|they should be stupefied,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5258|should sleep]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3766|no way]] [[Lexicon/G1401-1500#G1453|should they be roused,]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]]
 
 #### Jeremiah 51 - 40
+<<<<<<< HEAD
 [[Lexicon/G2601-2700#G2601|I shall bring them down]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G701-800#G0704|lambs]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G4901-5000#G4967|slaughter,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2901-3000#G2919|rams]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G2001-2100#G2056|kids.]]
+=======
+[[Lexicon/G2601-2700#G2601|I shall bring them down]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G701-800#G0704|lambs]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G4901-5000#G4967|slaughter,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2901-3000#G2919|rams]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G2001-2100#G2056|kids.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 51 - 41
 [[Lexicon/G4401-4500#G4459|O how]] [[Lexicon/G201-300#G0234|Sheshach is]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4401-4500#G4459|O how]] [[Lexicon/G1001-1100#G1096|Babylon became]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G801-900#G0854|extinction]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations.]]
@@ -164,13 +192,21 @@ Testament: Old
 [[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G2001-2100#G2064|come,]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1556|I will take vengeance]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1001-1100#G1099|her carved images]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1001-1100#G1093|her land]]
 
 #### Jeremiah 51 - 53
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1401-1500#G1437|though]] [[Lexicon/G301-400#G0305|Babylon should ascend]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3754|though]] [[Lexicon/G3701-3800#G3793|she should fortify]] [[Lexicon/G5301-5400#G5311|the]] [[Lexicon/G2401-2500#G2479|of her strength;]] [[Lexicon/G3801-3900#G3844|from]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G2201-2300#G2240|shall come]] [[Lexicon/G1801-1900#G1842|ones utterly destroying]] [[Lexicon/G1401-1500#G1473|her,]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]]
+=======
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1401-1500#G1437|though]] [[Lexicon/G301-400#G0305|Babylon should ascend]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3754|though]] [[Lexicon/G3701-3800#G3793|she should fortify]] [[Lexicon/G5301-5400#G5311|the]] [[Lexicon/G2401-2500#G2479|of her strength;]] [[Lexicon/G3801-3900#G3844|from]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G2201-2300#G2240|shall come]] [[Lexicon/G1801-1900#G1842|ones utterly destroying]] [[Lexicon/G1401-1500#G1473|her,]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 51 - 54
 [[Lexicon/G5401-5500#G5456|The]] [[Lexicon/G2901-3000#G2906|of a cry]] [[Lexicon/G1701-1800#G1722|in]] Babylon, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1093|the]] of Chaldeans.
 
 #### Jeremiah 51 - 55
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1801-1900#G1842|the]] Babylon. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G601-700#G0622|he destroyed]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G2201-2300#G2278|sounding]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1301-1400#G1325|he gave]]
+=======
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1801-1900#G1842|the]] Babylon. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G601-700#G0622|he destroyed]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G2201-2300#G2278|sounding]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1301-1400#G1325|he gave]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 51 - 56
 [[Lexicon/G3701-3800#G3754|For]] 4 [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G401-500#G0467|recompenses]] [[Lexicon/G1401-1500#G1473|to them.]]

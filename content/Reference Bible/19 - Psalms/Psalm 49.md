@@ -50,7 +50,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 49#Psalm 49 - 10|LXX]] |
 
 ##### Psalm 49 - 11
+<<<<<<< HEAD
 [[Lexicon/H7101-7200#H7130|Their graves]] [[Lexicon/H5701-5800#H5769|are their eternal]] [[Lexicon/H1001-1100#H1004|homes —]] [[Lexicon/H4901-5000#H4908|their dwellings]] [[Lexicon/H1701-1800#H1755|for endless generations]] [[Lexicon/H1701-1800#H1755|... —]] [[Lexicon/H5901-6000#H5921|even though]] [[Lexicon/H101-200#H127|[their] lands]] [[Lexicon/H7101-7200#H7121|were their namesakes]] [[Lexicon/H8001-8100#H8034|....]]
+=======
+[[Lexicon/H7101-7200#H7130|Their graves]] [[Lexicon/H5701-5800#H5769|are their eternal]] [[Lexicon/H1001-1100#H1004|homes —]] [[Lexicon/H4901-5000#H4908|their dwellings]] [[Lexicon/H1701-1800#H1755|for endless generations]] [[Lexicon/H1701-1800#H1755|... —]] [[Lexicon/H5901-6000#H5921|even though]] [[Lexicon/H101-200#H127|(their) lands]] [[Lexicon/H7101-7200#H7121|were their namesakes]] [[Lexicon/H8001-8100#H8034|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 49#Psalm 49 - 11|LXX]] |
 
 ##### Psalm 49 - 12

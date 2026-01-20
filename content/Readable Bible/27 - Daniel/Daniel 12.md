@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Daniel-R 12
 
 **[[Home/Scripture/27 - Daniel|Daniel]]**
 
 [[Readable Bible/27 - Daniel/Daniel 11#Daniel-R 11| Daniel 11]]
+=======
+# Daniel 12
+
+[[Readable Bible/27 - Daniel/Daniel 11|← Daniel 11]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Daniel 12 . 1
+<<<<<<< HEAD
 [[Reference Bible/27 - Daniel/Daniel 12#Daniel 12 - 1|1]] “At that time Michael, the great prince who stands watch over your people, will rise up. There will be a time of distress, the likes of which will not have occurred from the beginning of nations until that time. But at that time your people—everyone whose name is found written in the book—will be delivered.   || [[Chiasm/Chiasm - 27 - Daniel 12 . 1 - 13|C]] | [[The Treasury of Scripture Knowledge/27. Daniel TOSK/Daniel - 12 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/016 - Book of Life (God's Record of the Elect)|TT]] |
+=======
+[[Reference Bible/27 - Daniel/Daniel 12#Daniel 12 - 1|1]] “At that time Michael, the great prince who stands watch over your people, will rise up. There will be a time of distress, the likes of which will not have occurred from the beginning of nations until that time. But at that time your people—everyone whose name is found written in the book—will be delivered.  | | [[Chiasm/Chiasm - 27 - Daniel 12 . 1 - 13|C]] | [[The Treasury of Scripture Knowledge/27. Daniel TOSK/Daniel - 12 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/016 - Book of Life (God's Record of the Elect)|TT]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Daniel 12 . 2
 [[Reference Bible/27 - Daniel/Daniel 12#Daniel 12 - 2|2]] And many who sleep in the dust of the earth will awake, some to everlasting life, but others to shame and everlasting contempt.  | [[Intertextuality Pairs/OT to OT/27 - Daniel/Daniel 12.2 to Isaiah 26.19|IP]] | [[Chiasm/Chiasm - 27 - Daniel 12 . 1 - 13|C]] | [[The Treasury of Scripture Knowledge/27. Daniel TOSK/Daniel - 12 - TOSK#Verse 2|TOSK]] |

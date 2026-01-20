@@ -20,7 +20,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 2|LXX]] |
 
 ##### Leviticus 22 - 3
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|Tell]] [[Lexicon/H401-500#H413|them [that]]] [[Lexicon/H1701-1800#H1755|for the generations to come ,]] [[Lexicon/H3601-3700#H3605|if any]] [[Lexicon/H301-400#H376|-]] [[Lexicon/H801-900#H834|]] [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H2201-2300#H2233|of [their] descendants]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H2901-3000#H2932|in a state of uncleanness]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7101-7200#H7126|approaches]] [[Lexicon/H6901-7000#H6944|the sacred offerings]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H6901-7000#H6942|consecrate]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H5301-5400#H5315|person]] [[Lexicon/H3701-3800#H3772|must be cut off]] [[Lexicon/H6401-6500#H6440|from My presence.]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD.]]
+=======
+[[Lexicon/H501-600#H559|Tell]] [[Lexicon/H401-500#H413|them (that)]] [[Lexicon/H1701-1800#H1755|for the generations to come ,]] [[Lexicon/H3601-3700#H3605|if any]] [[Lexicon/H301-400#H376|-]] [[Lexicon/H801-900#H834|]] [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H2201-2300#H2233|of (their) descendants]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H2901-3000#H2932|in a state of uncleanness]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7101-7200#H7126|approaches]] [[Lexicon/H6901-7000#H6944|the sacred offerings]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H6901-7000#H6942|consecrate]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H1901-2000#H1931|that]] [[Lexicon/H5301-5400#H5315|person]] [[Lexicon/H3701-3800#H3772|must be cut off]] [[Lexicon/H6401-6500#H6440|from My presence.]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 3|LXX]] |
 
 ##### Leviticus 22 - 4
@@ -44,6 +48,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 8|LXX]] |
 
 ##### Leviticus 22 - 9
+<<<<<<< HEAD
 [[Lexicon/H8101-8200#H8104|[The priests] must keep]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4901-5000#H4931|My charge ,]] [[Lexicon/H3801-3900#H3808|lest]] [[Lexicon/H5301-5400#H5375|they bear]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H2301-2400#H2399|the guilt]] [[Lexicon/H4101-4200#H4191|and die]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H2401-2500#H2490|they profane it.]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H6901-7000#H6942|who sanctifies them.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 9|LXX]] |
 
@@ -57,6 +62,21 @@ Book: Leviticus
 
 ##### Leviticus 22 - 12
 [[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H3501-3600#H3548|the priest’s]] [[Lexicon/H1301-1400#H1323|daughter]] [[Lexicon/H1901-2000#H1961|is married]] [[Lexicon/H301-400#H376|to a man]] [[Lexicon/H2101-2200#H2114|other [than a priest] ,]] [[Lexicon/H1901-2000#H1931|she]] [[Lexicon/H3801-3900#H3808|is not]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H6901-7000#H6944|of the sacred]] [[Lexicon/H8601-8674#H8641|contributions.]]
+=======
+[[Lexicon/H8101-8200#H8104|(The priests) must keep]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4901-5000#H4931|My charge ,]] [[Lexicon/H3801-3900#H3808|lest]] [[Lexicon/H5301-5400#H5375|they bear]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H2301-2400#H2399|the guilt]] [[Lexicon/H4101-4200#H4191|and die]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H2401-2500#H2490|they profane it.]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H6901-7000#H6942|who sanctifies them.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 9|LXX]] |
+
+##### Leviticus 22 - 10
+[[Lexicon/H3801-3900#H3808|No]] [[Lexicon/H3601-3700#H3605|one]] [[Lexicon/H2101-2200#H2114|outside (a priest’s family)]] [[Lexicon/H301-400#H398|may eat]] [[Lexicon/H6901-7000#H6944|the sacred offering ,]] [[Lexicon/H3801-3900#H3808|nor]] [[Lexicon/H8401-8500#H8453|may the guest]] [[Lexicon/H3501-3600#H3548|of a priest]] [[Lexicon/H7901-8000#H7916|or his hired hand]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H6901-7000#H6944|(it).]]
+| [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 10|LXX]] |
+
+##### Leviticus 22 - 11
+[[Lexicon/H3501-3600#H3588|But if]] [[Lexicon/H3501-3600#H3548|a priest]] [[Lexicon/H7001-7100#H7069|buys]] [[Lexicon/H5301-5400#H5315|a slave]] [[Lexicon/H7001-7100#H7075|with]] [[Lexicon/H3701-3800#H3701|his own money ,]] [[Lexicon/H1901-2000#H1992|or if (a slave)]] [[Lexicon/H3201-3300#H3211|is born]] [[Lexicon/H1001-1100#H1004|in his household ,]] [[Lexicon/H1901-2000#H1931|that (slave)]] [[Lexicon/H301-400#H398|may eat]] [[Lexicon/H301-400#H398|-]] [[Lexicon/H3801-3900#H3899|his food.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 11|LXX]] |
+
+##### Leviticus 22 - 12
+[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H3501-3600#H3548|the priest’s]] [[Lexicon/H1301-1400#H1323|daughter]] [[Lexicon/H1901-2000#H1961|is married]] [[Lexicon/H301-400#H376|to a man]] [[Lexicon/H2101-2200#H2114|other (than a priest) ,]] [[Lexicon/H1901-2000#H1931|she]] [[Lexicon/H3801-3900#H3808|is not]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H6901-7000#H6944|of the sacred]] [[Lexicon/H8601-8674#H8641|contributions.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 12|LXX]] |
 
 ##### Leviticus 22 - 13
@@ -68,7 +88,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 14|LXX]] |
 
 ##### Leviticus 22 - 15
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|The priests must not]] [[Lexicon/H2401-2500#H2490|profane]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6944|the sacred offerings]] [[Lexicon/H1101-1200#H1121|[that] the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7301-7400#H7311|present]] [[Lexicon/H3001-3100#H3068|to the LORD]]
+=======
+[[Lexicon/H3801-3900#H3808|The priests must not]] [[Lexicon/H2401-2500#H2490|profane]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6944|the sacred offerings]] [[Lexicon/H1101-1200#H1121|(that) the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7301-7400#H7311|present]] [[Lexicon/H3001-3100#H3068|to the LORD]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 15|LXX]] |
 
 ##### Leviticus 22 - 16
@@ -89,11 +113,19 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 20|LXX]] |
 
 ##### Leviticus 22 - 21
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H7101-7200#H7126|presents]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|a peace offering]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H1201-1300#H1241|from the herd]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H6601-6700#H6629|flock]] [[Lexicon/H6301-6400#H6381|to fulfill]] [[Lexicon/H5001-5100#H5088|a vow]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H5001-5100#H5071|as a freewill offering ,]] [[Lexicon/H1901-2000#H1961|it must be]] [[Lexicon/H8501-8600#H8549|without blemish]] [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H3801-3900#H3808|-]] [[Lexicon/H3901-4000#H3971|[or] defect]] [[Lexicon/H7501-7600#H7522|to be acceptable.]] [[Lexicon/H1901-2000#H1961|]]
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 21|LXX]] |
 
 ##### Leviticus 22 - 22
 [[Lexicon/H3801-3900#H3808|You are not]] [[Lexicon/H7101-7200#H7126|to present]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H401-500#H428|[any animal]]] [[Lexicon/H5701-5800#H5788|that is blind ,]] [[Lexicon/H7601-7700#H7667|injured ,]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H2701-2800#H2742|maimed ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H2901-3000#H2990|anything with a running sore ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H1601-1700#H1618|a festering rash ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H3201-3300#H3217|or a scab ;]] [[Lexicon/H3801-3900#H3808|you must not]] [[Lexicon/H5401-5500#H5414|put]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H4101-4200#H4196|the altar]] [[Lexicon/H801-900#H801|as an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+=======
+[[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H7101-7200#H7126|presents]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|a peace offering]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H1201-1300#H1241|from the herd]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H6601-6700#H6629|flock]] [[Lexicon/H6301-6400#H6381|to fulfill]] [[Lexicon/H5001-5100#H5088|a vow]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H5001-5100#H5071|as a freewill offering ,]] [[Lexicon/H1901-2000#H1961|it must be]] [[Lexicon/H8501-8600#H8549|without blemish]] [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H3801-3900#H3808|-]] [[Lexicon/H3901-4000#H3971|(or) defect]] [[Lexicon/H7501-7600#H7522|to be acceptable.]] [[Lexicon/H1901-2000#H1961|]]
+| [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 21|LXX]] |
+
+##### Leviticus 22 - 22
+[[Lexicon/H3801-3900#H3808|You are not]] [[Lexicon/H7101-7200#H7126|to present]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H401-500#H428|(any animal)]] [[Lexicon/H5701-5800#H5788|that is blind ,]] [[Lexicon/H7601-7700#H7667|injured ,]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H2701-2800#H2742|maimed ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H2901-3000#H2990|anything with a running sore ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H1601-1700#H1618|a festering rash ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H3201-3300#H3217|or a scab ;]] [[Lexicon/H3801-3900#H3808|you must not]] [[Lexicon/H5401-5500#H5414|put]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H4101-4200#H4196|the altar]] [[Lexicon/H801-900#H801|as an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 22|LXX]] |
 
 ##### Leviticus 22 - 23
@@ -101,11 +133,19 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 23|LXX]] |
 
 ##### Leviticus 22 - 24
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|You are not]] [[Lexicon/H7101-7200#H7126|to present]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H4501-4600#H4600|[an animal whose testicles are] bruised ,]] [[Lexicon/H3801-3900#H3807|crushed ,]] [[Lexicon/H5401-5500#H5423|torn ,]] [[Lexicon/H3701-3800#H3772|or cut ;]] [[Lexicon/H3801-3900#H3808|you are not to]] [[Lexicon/H6201-6300#H6213|sacrifice them]] [[Lexicon/H701-800#H776|in your land.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 24|LXX]] |
 
 ##### Leviticus 22 - 25
 [[Lexicon/H3001-3100#H3027|-]] [[Lexicon/H3801-3900#H3808|Neither you nor]] [[Lexicon/H1101-1200#H1121|a foreigner]] [[Lexicon/H5201-5300#H5236|...]] [[Lexicon/H7101-7200#H7126|shall present]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3899|food]] [[Lexicon/H401-500#H430|to your God]] [[Lexicon/H3601-3700#H3605|from any]] [[Lexicon/H401-500#H428|such [animal].]] [[Lexicon/H3801-3900#H3808|They will not]] [[Lexicon/H7501-7600#H7521|be accepted]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H4801-4900#H4893|they are deformed]] [[Lexicon/H3901-4000#H3971|and flawed. ’”]]
+=======
+[[Lexicon/H3801-3900#H3808|You are not]] [[Lexicon/H7101-7200#H7126|to present]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H4501-4600#H4600|(an animal whose testicles are) bruised ,]] [[Lexicon/H3801-3900#H3807|crushed ,]] [[Lexicon/H5401-5500#H5423|torn ,]] [[Lexicon/H3701-3800#H3772|or cut ;]] [[Lexicon/H3801-3900#H3808|you are not to]] [[Lexicon/H6201-6300#H6213|sacrifice them]] [[Lexicon/H701-800#H776|in your land.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 24|LXX]] |
+
+##### Leviticus 22 - 25
+[[Lexicon/H3001-3100#H3027|-]] [[Lexicon/H3801-3900#H3808|Neither you nor]] [[Lexicon/H1101-1200#H1121|a foreigner]] [[Lexicon/H5201-5300#H5236|...]] [[Lexicon/H7101-7200#H7126|shall present]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3899|food]] [[Lexicon/H401-500#H430|to your God]] [[Lexicon/H3601-3700#H3605|from any]] [[Lexicon/H401-500#H428|such (animal).]] [[Lexicon/H3801-3900#H3808|They will not]] [[Lexicon/H7501-7600#H7521|be accepted]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H4801-4900#H4893|they are deformed]] [[Lexicon/H3901-4000#H3971|and flawed. ’”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 22#Leviticus 22 - 25|LXX]] |
 
 ##### Leviticus 22 - 26

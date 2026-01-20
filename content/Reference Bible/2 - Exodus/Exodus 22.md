@@ -13,7 +13,11 @@ Chapter: "22"
 ---
 
 ##### Exodus 22 - 1
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|[“] If]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H1501-1600#H1589|steals]] [[Lexicon/H7701-7800#H7794|an ox]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H7701-7800#H7716|a sheep]] [[Lexicon/H2801-2900#H2873|and slaughters]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H4301-4400#H4376|sells it ,]] [[Lexicon/H7901-8000#H7999|he must repay]] [[Lexicon/H2501-2600#H2568|five]] [[Lexicon/H1201-1300#H1241|oxen]] [[Lexicon/H8401-8500#H8478|for]] [[Lexicon/H8401-8500#H8478|...]] [[Lexicon/H7701-7800#H7794|an ox]] [[Lexicon/H701-800#H702|and four]] [[Lexicon/H7701-7800#H7716|sheep]] [[Lexicon/H6601-6700#H6629|for a sheep.]]
+=======
+[[Lexicon/H3501-3600#H3588|(“) If]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H1501-1600#H1589|steals]] [[Lexicon/H7701-7800#H7794|an ox]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H7701-7800#H7716|a sheep]] [[Lexicon/H2801-2900#H2873|and slaughters]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H4301-4400#H4376|sells it ,]] [[Lexicon/H7901-8000#H7999|he must repay]] [[Lexicon/H2501-2600#H2568|five]] [[Lexicon/H1201-1300#H1241|oxen]] [[Lexicon/H8401-8500#H8478|for]] [[Lexicon/H8401-8500#H8478|...]] [[Lexicon/H7701-7800#H7794|an ox]] [[Lexicon/H701-800#H702|and four]] [[Lexicon/H7701-7800#H7716|sheep]] [[Lexicon/H6601-6700#H6629|for a sheep.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 1|LXX]] |
 
 ##### Exodus 22 - 2
@@ -53,6 +57,7 @@ Chapter: "22"
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 10|LXX]] |
 
 ##### Exodus 22 - 11
+<<<<<<< HEAD
 [[Lexicon/H7601-7700#H7621|an oath]] [[Lexicon/H3001-3100#H3068|before the LORD]] [[Lexicon/H1901-2000#H1961|shall be made]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H8101-8200#H8147|the parties]] [[Lexicon/H501-600#H518|to determine whether]] [[Lexicon/H3801-3900#H3808|or not]] [[Lexicon/H7901-8000#H7971|the man has taken]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H7401-7500#H7453|his neighbor’s]] [[Lexicon/H4301-4400#H4399|property.]] [[Lexicon/H1101-1200#H1167|The owner]] [[Lexicon/H3901-4000#H3947|must accept [the oath]]] [[Lexicon/H3801-3900#H3808|and require no]] [[Lexicon/H7901-8000#H7999|restitution.]]
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 11|LXX]] |
 
@@ -70,6 +75,25 @@ Chapter: "22"
 
 ##### Exodus 22 - 15
 [[Lexicon/H501-600#H518|If]] [[Lexicon/H1101-1200#H1167|the owner]] [[Lexicon/H5901-6000#H5973|was present ,]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H7901-8000#H7999|restitution is required.]] [[Lexicon/H501-600#H518|If]] [[Lexicon/H1901-2000#H1931|[the animal]]] [[Lexicon/H901-1000#H935|...]] [[Lexicon/H7901-8000#H7916|was rented ,]] [[Lexicon/H7901-8000#H7939|the fee covers the loss.]]
+=======
+[[Lexicon/H7601-7700#H7621|an oath]] [[Lexicon/H3001-3100#H3068|before the LORD]] [[Lexicon/H1901-2000#H1961|shall be made]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H8101-8200#H8147|the parties]] [[Lexicon/H501-600#H518|to determine whether]] [[Lexicon/H3801-3900#H3808|or not]] [[Lexicon/H7901-8000#H7971|the man has taken]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H7401-7500#H7453|his neighbor’s]] [[Lexicon/H4301-4400#H4399|property.]] [[Lexicon/H1101-1200#H1167|The owner]] [[Lexicon/H3901-4000#H3947|must accept (the oath)]] [[Lexicon/H3801-3900#H3808|and require no]] [[Lexicon/H7901-8000#H7999|restitution.]]
+| [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 11|LXX]] |
+
+##### Exodus 22 - 12
+[[Lexicon/H501-600#H518|But if]] [[Lexicon/H1501-1600#H1589|(the animal) was actually]] [[Lexicon/H1501-1600#H1589|stolen]] [[Lexicon/H5901-6000#H5973|from (the neighbor) ,]] [[Lexicon/H7901-8000#H7999|he must make restitution]] [[Lexicon/H1101-1200#H1167|to the owner.]]
+| [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 12|LXX]] |
+
+##### Exodus 22 - 13
+[[Lexicon/H501-600#H518|If]] [[Lexicon/H2901-3000#H2963|(the animal) was torn to pieces]] [[Lexicon/H2901-3000#H2963|... ,]] [[Lexicon/H901-1000#H935|he shall bring]] [[Lexicon/H5701-5800#H5707|it as evidence ;]] [[Lexicon/H3801-3900#H3808|he need not]] [[Lexicon/H7901-8000#H7999|make restitution]] [[Lexicon/H2901-3000#H2966|for the torn carcass.]]
+| [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 13|LXX]] |
+
+##### Exodus 22 - 14
+[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H7501-7600#H7592|borrows]] [[Lexicon/H5901-6000#H5973|(an animal)]] [[Lexicon/H7401-7500#H7453|from his neighbor]] [[Lexicon/H7601-7700#H7665|and it is injured]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H4101-4200#H4191|dies]] [[Lexicon/H1101-1200#H1167|while its owner]] [[Lexicon/H301-400#H369|is not]] [[Lexicon/H5901-6000#H5973|present ,]] [[Lexicon/H7901-8000#H7999|he must make full restitution]] [[Lexicon/H7901-8000#H7999|....]]
+| [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 14|LXX]] |
+
+##### Exodus 22 - 15
+[[Lexicon/H501-600#H518|If]] [[Lexicon/H1101-1200#H1167|the owner]] [[Lexicon/H5901-6000#H5973|was present ,]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H7901-8000#H7999|restitution is required.]] [[Lexicon/H501-600#H518|If]] [[Lexicon/H1901-2000#H1931|(the animal)]] [[Lexicon/H901-1000#H935|...]] [[Lexicon/H7901-8000#H7916|was rented ,]] [[Lexicon/H7901-8000#H7939|the fee covers the loss.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 15|LXX]] |
 
 ##### Exodus 22 - 16
@@ -77,7 +101,11 @@ Chapter: "22"
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 16|LXX]] |
 
 ##### Exodus 22 - 17
+<<<<<<< HEAD
 [[Lexicon/H501-600#H518|If]] [[Lexicon/H1-100#H1|her father]] [[Lexicon/H3901-4000#H3985|absolutely refuses]] [[Lexicon/H3901-4000#H3985|...]] [[Lexicon/H5401-5500#H5414|to give her]] [[Lexicon/H8201-8300#H8254|[the man] still must pay]] [[Lexicon/H3701-3800#H3701|an amount comparable]] [[Lexicon/H4101-4200#H4119|to the bridal price]] [[Lexicon/H1301-1400#H1330|of a virgin.]]
+=======
+[[Lexicon/H501-600#H518|If]] [[Lexicon/H1-100#H1|her father]] [[Lexicon/H3901-4000#H3985|absolutely refuses]] [[Lexicon/H3901-4000#H3985|...]] [[Lexicon/H5401-5500#H5414|to give her]] [[Lexicon/H8201-8300#H8254|(the man) still must pay]] [[Lexicon/H3701-3800#H3701|an amount comparable]] [[Lexicon/H4101-4200#H4119|to the bridal price]] [[Lexicon/H1301-1400#H1330|of a virgin.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 17|LXX]] |
 
 ##### Exodus 22 - 18
@@ -89,11 +117,19 @@ Chapter: "22"
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 19|LXX]] |
 
 ##### Exodus 22 - 20
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2076|[If] anyone sacrifices]] [[Lexicon/H401-500#H430|to any god]] [[Lexicon/H1101-1200#H1115|other than]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H901-1000#H905|alone ,]] [[Lexicon/H2701-2800#H2763|he must be set apart for destruction.]]
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 20|LXX]] |
 
 ##### Exodus 22 - 21
 [[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H3201-3300#H3238|exploit]] [[Lexicon/H3801-3900#H3808|or]] [[Lexicon/H3901-4000#H3905|oppress]] [[Lexicon/H1601-1700#H1616|a foreign resident ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1961|you [yourselves] were]] [[Lexicon/H1601-1700#H1616|foreigners]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
+=======
+[[Lexicon/H2001-2100#H2076|(If) anyone sacrifices]] [[Lexicon/H401-500#H430|to any god]] [[Lexicon/H1101-1200#H1115|other than]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H901-1000#H905|alone ,]] [[Lexicon/H2701-2800#H2763|he must be set apart for destruction.]]
+| [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 20|LXX]] |
+
+##### Exodus 22 - 21
+[[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H3201-3300#H3238|exploit]] [[Lexicon/H3801-3900#H3808|or]] [[Lexicon/H3901-4000#H3905|oppress]] [[Lexicon/H1601-1700#H1616|a foreign resident ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1961|you (yourselves) were]] [[Lexicon/H1601-1700#H1616|foreigners]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 21|LXX]] |
 
 ##### Exodus 22 - 22
@@ -101,6 +137,7 @@ Chapter: "22"
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 22|LXX]] |
 
 ##### Exodus 22 - 23
+<<<<<<< HEAD
 [[Lexicon/H501-600#H518|If]] [[Lexicon/H6001-6100#H6031|you do mistreat]] [[Lexicon/H6001-6100#H6031|them ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H6801-6900#H6817|[and] they cry out]] [[Lexicon/H401-500#H413|to Me]] [[Lexicon/H6801-6900#H6817|in distress ,]] [[Lexicon/H8001-8100#H8085|I will surely hear]] [[Lexicon/H8001-8100#H8085|...]] [[Lexicon/H6801-6900#H6818|their cry.]]
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 23|LXX]] |
 
@@ -110,6 +147,17 @@ Chapter: "22"
 
 ##### Exodus 22 - 25
 [[Lexicon/H501-600#H518|If]] [[Lexicon/H3801-3900#H3867|you lend]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3701-3800#H3701|money]] [[Lexicon/H5901-6000#H5971|to [one of] My people]] [[Lexicon/H5901-6000#H5973|among you]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6001-6100#H6041|[who is] poor ,]] [[Lexicon/H3801-3900#H3808|you must not]] [[Lexicon/H1901-2000#H1961|act]] [[Lexicon/H5301-5400#H5383|as a creditor]] [[Lexicon/H7701-7800#H7760|you are not to charge]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H5901-6000#H5921|him]] [[Lexicon/H5301-5400#H5392|interest.]]
+=======
+[[Lexicon/H501-600#H518|If]] [[Lexicon/H6001-6100#H6031|you do mistreat]] [[Lexicon/H6001-6100#H6031|them ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H6801-6900#H6817|(and) they cry out]] [[Lexicon/H401-500#H413|to Me]] [[Lexicon/H6801-6900#H6817|in distress ,]] [[Lexicon/H8001-8100#H8085|I will surely hear]] [[Lexicon/H8001-8100#H8085|...]] [[Lexicon/H6801-6900#H6818|their cry.]]
+| [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 23|LXX]] |
+
+##### Exodus 22 - 24
+[[Lexicon/H601-700#H639|My anger]] [[Lexicon/H2701-2800#H2734|will be kindled ,]] [[Lexicon/H2001-2100#H2026|and I will kill]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H2701-2800#H2719|with the sword ;]] [[Lexicon/H801-900#H802|then your wives]] [[Lexicon/H1901-2000#H1961|will become]] [[Lexicon/H401-500#H490|widows]] [[Lexicon/H1101-1200#H1121|and your children]] [[Lexicon/H3401-3500#H3490|(will be) fatherless.]]
+| [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 24|LXX]] |
+
+##### Exodus 22 - 25
+[[Lexicon/H501-600#H518|If]] [[Lexicon/H3801-3900#H3867|you lend]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3701-3800#H3701|money]] [[Lexicon/H5901-6000#H5971|to (one of) My people]] [[Lexicon/H5901-6000#H5973|among you]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6001-6100#H6041|(who is) poor ,]] [[Lexicon/H3801-3900#H3808|you must not]] [[Lexicon/H1901-2000#H1961|act]] [[Lexicon/H5301-5400#H5383|as a creditor]] [[Lexicon/H7701-7800#H7760|you are not to charge]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H5901-6000#H5921|him]] [[Lexicon/H5301-5400#H5392|interest.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 25|LXX]] |
 
 ##### Exodus 22 - 26
@@ -117,7 +165,11 @@ Chapter: "22"
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 26|LXX]] |
 
 ##### Exodus 22 - 27
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|[his cloak]]] [[Lexicon/H901-1000#H905|is the only]] [[Lexicon/H3601-3700#H3682|covering]] [[Lexicon/H1901-2000#H1931|he has]] [[Lexicon/H8001-8100#H8071|[for]]] [[Lexicon/H5701-5800#H5785|his body.]] [[Lexicon/H4001-4100#H4100|What else]] [[Lexicon/H7901-8000#H7901|will he sleep in ?]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H3501-3600#H3588|And if]] [[Lexicon/H6801-6900#H6817|he cries out]] [[Lexicon/H401-500#H413|to Me ,]] [[Lexicon/H8001-8100#H8085|I will hear ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H2501-2600#H2587|am compassionate.]]
+=======
+[[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|(his cloak)]] [[Lexicon/H901-1000#H905|is the only]] [[Lexicon/H3601-3700#H3682|covering]] [[Lexicon/H1901-2000#H1931|he has]] [[Lexicon/H8001-8100#H8071|(for)]] [[Lexicon/H5701-5800#H5785|his body.]] [[Lexicon/H4001-4100#H4100|What else]] [[Lexicon/H7901-8000#H7901|will he sleep in ?]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H3501-3600#H3588|And if]] [[Lexicon/H6801-6900#H6817|he cries out]] [[Lexicon/H401-500#H413|to Me ,]] [[Lexicon/H8001-8100#H8085|I will hear ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H2501-2600#H2587|am compassionate.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 27|LXX]] |
 
 ##### Exodus 22 - 28
@@ -125,7 +177,11 @@ Chapter: "22"
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 28|LXX]] |
 
 ##### Exodus 22 - 29
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H301-400#H309|hold back]] [[Lexicon/H4301-4400#H4395|[offerings] from your granaries]] [[Lexicon/H1801-1900#H1831|or vats.]] [[Lexicon/H5401-5500#H5414|You are to give]] [[Lexicon/H1001-1100#H1060|the firstborn]] [[Lexicon/H1101-1200#H1121|of your sons.]]
+=======
+[[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H301-400#H309|hold back]] [[Lexicon/H4301-4400#H4395|(offerings) from your granaries]] [[Lexicon/H1801-1900#H1831|or vats.]] [[Lexicon/H5401-5500#H5414|You are to give]] [[Lexicon/H1001-1100#H1060|the firstborn]] [[Lexicon/H1101-1200#H1121|of your sons.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 29|LXX]] |
 
 ##### Exodus 22 - 30
@@ -133,5 +189,9 @@ Chapter: "22"
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 30|LXX]] |
 
 ##### Exodus 22 - 31
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|You are to be]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H301-400#H376|people.]] [[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H1301-1400#H1320|the meat]] [[Lexicon/H2901-3000#H2966|of a mauled animal]] [[Lexicon/H7701-7800#H7704|found in the field ;]] [[Lexicon/H7901-8000#H7993|you are to throw]] [[Lexicon/H801-900#H853|it]] [[Lexicon/H3601-3700#H3611|to the dogs. [’’]]]
+=======
+[[Lexicon/H1901-2000#H1961|You are to be]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H301-400#H376|people.]] [[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H1301-1400#H1320|the meat]] [[Lexicon/H2901-3000#H2966|of a mauled animal]] [[Lexicon/H7701-7800#H7704|found in the field ;]] [[Lexicon/H7901-8000#H7993|you are to throw]] [[Lexicon/H801-900#H853|it]] [[Lexicon/H3601-3700#H3611|to the dogs. (’’)]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 22#Exodus 22 - 31|LXX]] |

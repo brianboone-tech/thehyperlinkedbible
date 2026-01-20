@@ -49,7 +49,11 @@ Chapter: "4"
 | [[LXX Reference/4 - Numbers/Numbers 4#Numbers 4 - 9|LXX]] |
 
 ##### Numbers 4 - 10
+<<<<<<< HEAD
 [[Lexicon/H5401-5500#H5414|Then they shall wrap]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H853|it]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3601-3700#H3627|its utensils]] [[Lexicon/H401-500#H413|inside]] [[Lexicon/H4301-4400#H4372|a covering]] [[Lexicon/H8401-8500#H8476|of fine leather]] [[Lexicon/H5701-5800#H5785|...]] [[Lexicon/H5401-5500#H5414|and put]] [[Lexicon/H5901-6000#H5921|[it] on]] [[Lexicon/H4101-4200#H4132|the carrying frame.]]
+=======
+[[Lexicon/H5401-5500#H5414|Then they shall wrap]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H853|it]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3601-3700#H3627|its utensils]] [[Lexicon/H401-500#H413|inside]] [[Lexicon/H4301-4400#H4372|a covering]] [[Lexicon/H8401-8500#H8476|of fine leather]] [[Lexicon/H5701-5800#H5785|...]] [[Lexicon/H5401-5500#H5414|and put]] [[Lexicon/H5901-6000#H5921|(it) on]] [[Lexicon/H4101-4200#H4132|the carrying frame.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 4#Numbers 4 - 10|LXX]] |
 
 ##### Numbers 4 - 11
@@ -89,7 +93,11 @@ Chapter: "4"
 | [[LXX Reference/4 - Numbers/Numbers 4#Numbers 4 - 19|LXX]] |
 
 ##### Numbers 4 - 20
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|But [the Kohathites] are not]] [[Lexicon/H901-1000#H935|to go in]] [[Lexicon/H7101-7200#H7200|and look]] [[Lexicon/H6901-7000#H6944|at the holy objects ,]] [[Lexicon/H1101-1200#H1104|even for a moment ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4101-4200#H4191|or they will die. ”]]
+=======
+[[Lexicon/H3801-3900#H3808|But (the Kohathites) are not]] [[Lexicon/H901-1000#H935|to go in]] [[Lexicon/H7101-7200#H7200|and look]] [[Lexicon/H6901-7000#H6944|at the holy objects ,]] [[Lexicon/H1101-1200#H1104|even for a moment ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4101-4200#H4191|or they will die. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 4#Numbers 4 - 20|LXX]] |
 
 ##### Numbers 4 - 21
@@ -113,7 +121,11 @@ Chapter: "4"
 | [[LXX Reference/4 - Numbers/Numbers 4#Numbers 4 - 25|LXX]] |
 
 ##### Numbers 4 - 26
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|-]] [[Lexicon/H7001-7100#H7050|the curtains]] [[Lexicon/H2601-2700#H2691|of the courtyard ,]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H4501-4600#H4539|the curtains]] [[Lexicon/H6601-6700#H6607|for the entrance]] [[Lexicon/H8101-8200#H8179|at the gate]] [[Lexicon/H2601-2700#H2691|of the courtyard]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|surrounds]] [[Lexicon/H4901-5000#H4908|the tabernacle]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H4101-4200#H4196|and altar ,]] [[Lexicon/H5401-5500#H5439|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4301-4400#H4340|along with their ropes]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3601-3700#H3627|the equipment]] [[Lexicon/H5601-5700#H5656|for their service.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5601-5700#H5647|[The Gershonites] will do]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H6201-6300#H6213|needs to be done]]
+=======
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H7001-7100#H7050|the curtains]] [[Lexicon/H2601-2700#H2691|of the courtyard ,]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H4501-4600#H4539|the curtains]] [[Lexicon/H6601-6700#H6607|for the entrance]] [[Lexicon/H8101-8200#H8179|at the gate]] [[Lexicon/H2601-2700#H2691|of the courtyard]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|surrounds]] [[Lexicon/H4901-5000#H4908|the tabernacle]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H4101-4200#H4196|and altar ,]] [[Lexicon/H5401-5500#H5439|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4301-4400#H4340|along with their ropes]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3601-3700#H3627|the equipment]] [[Lexicon/H5601-5700#H5656|for their service.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5601-5700#H5647|(The Gershonites) will do]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H6201-6300#H6213|needs to be done]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 4#Numbers 4 - 26|LXX]] |
 
 ##### Numbers 4 - 27

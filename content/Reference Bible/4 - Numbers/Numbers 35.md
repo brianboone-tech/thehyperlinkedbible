@@ -25,6 +25,7 @@ Chapter: "35"
 | [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 3|LXX]] |
 
 ##### Numbers 35 - 4
+<<<<<<< HEAD
 [[Lexicon/H4001-4100#H4054|The pasturelands]] [[Lexicon/H5801-5900#H5892|around the cities]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|you are to give]] [[Lexicon/H3801-3900#H3881|the Levites]] [[Lexicon/H5801-5900#H5892|-]] [[Lexicon/H2301-2400#H2351|[will extend]]] [[Lexicon/H501-600#H505|a thousand]] [[Lexicon/H501-600#H520|cubits]] [[Lexicon/H7001-7100#H7023|from the wall]] [[Lexicon/H5401-5500#H5439|on every side.]]
 | [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 4|LXX]] |
 
@@ -42,6 +43,25 @@ Chapter: "35"
 
 ##### Numbers 35 - 8
 [[Lexicon/H5801-5900#H5892|The cities]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5401-5500#H5414|you apportion]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H201-300#H272|from the territory]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|of the Israelites]] [[Lexicon/H5401-5500#H5414|should be given]] [[Lexicon/H5801-5900#H5892|-]] [[Lexicon/H3801-3900#H3881|to the Levites]] [[Lexicon/H6301-6400#H6310|in proportion to]] [[Lexicon/H5101-5200#H5159|the inheritance]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5101-5200#H5157|-]] [[Lexicon/H301-400#H376|of each [tribe] :]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H7201-7300#H7235|more from]] [[Lexicon/H7201-7300#H7227|a larger [tribe]]] [[Lexicon/H4501-4600#H4591|and less from]] [[Lexicon/H4501-4600#H4592|a smaller one. ”]]
+=======
+[[Lexicon/H4001-4100#H4054|The pasturelands]] [[Lexicon/H5801-5900#H5892|around the cities]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|you are to give]] [[Lexicon/H3801-3900#H3881|the Levites]] [[Lexicon/H5801-5900#H5892|-]] [[Lexicon/H2301-2400#H2351|(will extend)]] [[Lexicon/H501-600#H505|a thousand]] [[Lexicon/H501-600#H520|cubits]] [[Lexicon/H7001-7100#H7023|from the wall]] [[Lexicon/H5401-5500#H5439|on every side.]]
+| [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 4|LXX]] |
+
+##### Numbers 35 - 5
+[[Lexicon/H4001-4100#H4058|You are also to measure]] [[Lexicon/H501-600#H505|two thousand]] [[Lexicon/H501-600#H520|cubits]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H5801-5900#H5892|the city]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6924|on the east]] [[Lexicon/H6201-6300#H6285|- ,]] [[Lexicon/H501-600#H505|two thousand]] [[Lexicon/H501-600#H520|-]] [[Lexicon/H801-900#H853|]] [[Lexicon/H5001-5100#H5045|on the south]] [[Lexicon/H6201-6300#H6285|- ,]] [[Lexicon/H501-600#H505|two thousand]] [[Lexicon/H501-600#H520|-]] [[Lexicon/H801-900#H853|]] [[Lexicon/H3201-3300#H3220|on the west]] [[Lexicon/H6201-6300#H6285|- ,]] [[Lexicon/H501-600#H505|(and) two thousand]] [[Lexicon/H501-600#H520|-]] [[Lexicon/H6801-6900#H6828|on the north]] [[Lexicon/H6201-6300#H6285|- ,]] [[Lexicon/H5801-5900#H5892|with the city]] [[Lexicon/H8401-8500#H8432|in the center.]] [[Lexicon/H2001-2100#H2088|These areas]] [[Lexicon/H1901-2000#H1961|will serve]] [[Lexicon/H4001-4100#H4054|as larger pasturelands]] [[Lexicon/H5801-5900#H5892|for the cities.]]
+| [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 5|LXX]] |
+
+##### Numbers 35 - 6
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8337|Six]] [[Lexicon/H5801-5900#H5892|of the cities]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|you give]] [[Lexicon/H3801-3900#H3881|the Levites]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|are to be appointed]] [[Lexicon/H5801-5900#H5892|as cities]] [[Lexicon/H4701-4800#H4733|of refuge ,]] [[Lexicon/H7501-7600#H7523|to which a manslayer]] [[Lexicon/H5101-5200#H5127|may flee]] [[Lexicon/H8001-8100#H8033|-.]] [[Lexicon/H5901-6000#H5921|In addition to these ,]] [[Lexicon/H5401-5500#H5414|give (the Levites)]] [[Lexicon/H701-800#H705|forty-two]] [[Lexicon/H8101-8200#H8147|...]] [[Lexicon/H5801-5900#H5892|other cities.]]
+| [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 6|LXX]] |
+
+##### Numbers 35 - 7
+[[Lexicon/H3601-3700#H3605|The total]] [[Lexicon/H5801-5900#H5892|number of cities]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|you give]] [[Lexicon/H3801-3900#H3881|the Levites]] [[Lexicon/H701-800#H705|(will be) forty-eight]] [[Lexicon/H8001-8100#H8083|... ,]] [[Lexicon/H5801-5900#H5892|...]] [[Lexicon/H801-900#H853|with their corresponding]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4001-4100#H4054|pasturelands.]]
+| [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 7|LXX]] |
+
+##### Numbers 35 - 8
+[[Lexicon/H5801-5900#H5892|The cities]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5401-5500#H5414|you apportion]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H201-300#H272|from the territory]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|of the Israelites]] [[Lexicon/H5401-5500#H5414|should be given]] [[Lexicon/H5801-5900#H5892|-]] [[Lexicon/H3801-3900#H3881|to the Levites]] [[Lexicon/H6301-6400#H6310|in proportion to]] [[Lexicon/H5101-5200#H5159|the inheritance]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5101-5200#H5157|-]] [[Lexicon/H301-400#H376|of each (tribe) :]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H7201-7300#H7235|more from]] [[Lexicon/H7201-7300#H7227|a larger (tribe)]] [[Lexicon/H4501-4600#H4591|and less from]] [[Lexicon/H4501-4600#H4592|a smaller one. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 8|LXX]] |
 
 ##### Numbers 35 - 9
@@ -117,11 +137,19 @@ Chapter: "35"
 | [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 26|LXX]] |
 
 ##### Numbers 35 - 27
+<<<<<<< HEAD
 [[Lexicon/H1301-1400#H1350|and the avenger]] [[Lexicon/H1801-1900#H1818|of blood]] [[Lexicon/H4601-4700#H4672|finds]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H1301-1400#H1366|...]] [[Lexicon/H5801-5900#H5892|of his city]] [[Lexicon/H4701-4800#H4733|of refuge]] [[Lexicon/H7501-7600#H7523|and kills him ,]] [[Lexicon/H1301-1400#H1350|[then] the avenger]] [[Lexicon/H301-400#H369|will not]] [[Lexicon/H1801-1900#H1818|-]] [[Lexicon/H1801-1900#H1818|be guilty of bloodshed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7501-7600#H7523|-]]
 | [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 27|LXX]] |
 
 ##### Numbers 35 - 28
 [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3401-3500#H3427|[the manslayer] must remain]] [[Lexicon/H5801-5900#H5892|in his city]] [[Lexicon/H4701-4800#H4733|of refuge]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H4101-4200#H4194|the death]] [[Lexicon/H1401-1500#H1419|of the high]] [[Lexicon/H3501-3600#H3548|priest.]] [[Lexicon/H301-400#H310|Only after]] [[Lexicon/H4101-4200#H4194|the death]] [[Lexicon/H1401-1500#H1419|of the high]] [[Lexicon/H3501-3600#H3548|priest]] [[Lexicon/H7501-7600#H7523|may [he]]] [[Lexicon/H7701-7800#H7725|return]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H201-300#H272|he owns.]]
+=======
+[[Lexicon/H1301-1400#H1350|and the avenger]] [[Lexicon/H1801-1900#H1818|of blood]] [[Lexicon/H4601-4700#H4672|finds]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H1301-1400#H1366|...]] [[Lexicon/H5801-5900#H5892|of his city]] [[Lexicon/H4701-4800#H4733|of refuge]] [[Lexicon/H7501-7600#H7523|and kills him ,]] [[Lexicon/H1301-1400#H1350|(then) the avenger]] [[Lexicon/H301-400#H369|will not]] [[Lexicon/H1801-1900#H1818|-]] [[Lexicon/H1801-1900#H1818|be guilty of bloodshed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7501-7600#H7523|-]]
+| [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 27|LXX]] |
+
+##### Numbers 35 - 28
+[[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3401-3500#H3427|(the manslayer) must remain]] [[Lexicon/H5801-5900#H5892|in his city]] [[Lexicon/H4701-4800#H4733|of refuge]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H4101-4200#H4194|the death]] [[Lexicon/H1401-1500#H1419|of the high]] [[Lexicon/H3501-3600#H3548|priest.]] [[Lexicon/H301-400#H310|Only after]] [[Lexicon/H4101-4200#H4194|the death]] [[Lexicon/H1401-1500#H1419|of the high]] [[Lexicon/H3501-3600#H3548|priest]] [[Lexicon/H7501-7600#H7523|may (he)]] [[Lexicon/H7701-7800#H7725|return]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H201-300#H272|he owns.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 35#Numbers 35 - 28|LXX]] |
 
 ##### Numbers 35 - 29

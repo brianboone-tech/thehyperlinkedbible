@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 48
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 47#Psalm-R 47| Psalm 47]] - [[Readable Bible/19 - Psalms/Psalm 49#Psalm-R 49| Psalm 49]]
+=======
+# Psalm 48
+
+[[Readable Bible/19 - Psalms/Psalm 47|← Psalm 47]] | [[Readable Bible/19 - Psalms/Psalm 49|Psalm 49 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -17,7 +17,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 22#Genesis 22 - 1|LXX]] |
 
 ##### Genesis 22 - 2
+<<<<<<< HEAD
 [[Lexicon/H3901-4000#H3947|“ Take]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|your son , ”]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|[God] said ,]] [[Lexicon/H3101-3200#H3173|“ your only]] [[Lexicon/H3301-3400#H3327|son Isaac ,]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H101-200#H157|you love ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1901-2000#H1980|and go]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4101-4200#H4179|of Moriah.]] [[Lexicon/H5901-6000#H5927|Offer him]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H5901-6000#H5930|as a burnt offering]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H2001-2100#H2022|of the mountains ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H501-600#H559|I will show]] [[Lexicon/H401-500#H413|you. ”]]
+=======
+[[Lexicon/H3901-4000#H3947|“ Take]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|your son , ”]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|(God) said ,]] [[Lexicon/H3101-3200#H3173|“ your only]] [[Lexicon/H3301-3400#H3327|son Isaac ,]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H101-200#H157|you love ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1901-2000#H1980|and go]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4101-4200#H4179|of Moriah.]] [[Lexicon/H5901-6000#H5927|Offer him]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H5901-6000#H5930|as a burnt offering]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H2001-2100#H2022|of the mountains ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H501-600#H559|I will show]] [[Lexicon/H401-500#H413|you. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 22#Genesis 22 - 2|LXX]] |
 
 ##### Genesis 22 - 3
@@ -57,11 +61,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 22#Genesis 22 - 11|LXX]] |
 
 ##### Genesis 22 - 12
+<<<<<<< HEAD
 [[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H7901-8000#H7971|lay]] [[Lexicon/H3001-3100#H3027|a hand]] [[Lexicon/H401-500#H413|on]] [[Lexicon/H5201-5300#H5288|the boy]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H6201-6300#H6213|or do]] [[Lexicon/H3901-4000#H3972|anything]] [[Lexicon/H501-600#H559|said [the angel] ,]] [[Lexicon/H3501-3600#H3588|“ for]] [[Lexicon/H6201-6300#H6258|now]] [[Lexicon/H3001-3100#H3045|I know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H3301-3400#H3373|fear]] [[Lexicon/H401-500#H430|God ,]] [[Lexicon/H3801-3900#H3808|since you have not]] [[Lexicon/H2801-2900#H2820|withheld]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3173|your only]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4401-4500#H4480|from me. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 22#Genesis 22 - 12|LXX]] |
 
 ##### Genesis 22 - 13
 [[Lexicon/H1-100#H85|Then Abraham]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5375|looked up]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H7101-7200#H7200|and saw]] [[Lexicon/H2001-2100#H2009|]] [[Lexicon/H301-400#H310|behind [him]]] [[Lexicon/H301-400#H352|a ram]] [[Lexicon/H5401-5500#H5442|in a thicket ,]] [[Lexicon/H201-300#H270|caught]] [[Lexicon/H7101-7200#H7161|by its horns.]] [[Lexicon/H1-100#H85|So [he]]] [[Lexicon/H1901-2000#H1980|went]] [[Lexicon/H3901-4000#H3947|and took]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H352|the ram]] [[Lexicon/H5901-6000#H5927|and offered]] [[Lexicon/H5901-6000#H5930|it as a burnt offering]] [[Lexicon/H8401-8500#H8478|in place of]] [[Lexicon/H1101-1200#H1121|his son.]]
+=======
+[[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H7901-8000#H7971|lay]] [[Lexicon/H3001-3100#H3027|a hand]] [[Lexicon/H401-500#H413|on]] [[Lexicon/H5201-5300#H5288|the boy]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H6201-6300#H6213|or do]] [[Lexicon/H3901-4000#H3972|anything]] [[Lexicon/H501-600#H559|said (the angel) ,]] [[Lexicon/H3501-3600#H3588|“ for]] [[Lexicon/H6201-6300#H6258|now]] [[Lexicon/H3001-3100#H3045|I know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H3301-3400#H3373|fear]] [[Lexicon/H401-500#H430|God ,]] [[Lexicon/H3801-3900#H3808|since you have not]] [[Lexicon/H2801-2900#H2820|withheld]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3173|your only]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4401-4500#H4480|from me. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 22#Genesis 22 - 12|LXX]] |
+
+##### Genesis 22 - 13
+[[Lexicon/H1-100#H85|Then Abraham]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5375|looked up]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H7101-7200#H7200|and saw]] [[Lexicon/H2001-2100#H2009|]] [[Lexicon/H301-400#H310|behind (him)]] [[Lexicon/H301-400#H352|a ram]] [[Lexicon/H5401-5500#H5442|in a thicket ,]] [[Lexicon/H201-300#H270|caught]] [[Lexicon/H7101-7200#H7161|by its horns.]] [[Lexicon/H1-100#H85|So (he)]] [[Lexicon/H1901-2000#H1980|went]] [[Lexicon/H3901-4000#H3947|and took]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H352|the ram]] [[Lexicon/H5901-6000#H5927|and offered]] [[Lexicon/H5901-6000#H5930|it as a burnt offering]] [[Lexicon/H8401-8500#H8478|in place of]] [[Lexicon/H1101-1200#H1121|his son.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 22#Genesis 22 - 13|LXX]] |
 
 ##### Genesis 22 - 14
@@ -101,9 +113,17 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 22#Genesis 22 - 22|LXX]] |
 
 ##### Genesis 22 - 23
+<<<<<<< HEAD
 [[Lexicon/H1301-1400#H1328|And Bethuel]] [[Lexicon/H3201-3300#H3205|became the father of]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7259|Rebekah.]] [[Lexicon/H4401-4500#H4435|Milcah]] [[Lexicon/H3201-3300#H3205|bore]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H8001-8100#H8083|eight [sons]]] [[Lexicon/H1-100#H85|to Abraham’s]] [[Lexicon/H201-300#H251|brother]] [[Lexicon/H5101-5200#H5152|Nahor.]]
 | [[LXX Reference/1 - Genesis/Genesis 22#Genesis 22 - 23|LXX]] |
 
 ##### Genesis 22 - 24
 [[Lexicon/H1501-1600#H1571|Moreover ,]] [[Lexicon/H6301-6400#H6370|[Nahor’s] concubine ,]] [[Lexicon/H8001-8100#H8034|whose name]] [[Lexicon/H7201-7300#H7208|was Reumah ,]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3205|bore]] [[Lexicon/H2801-2900#H2875|Tebah ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1501-1600#H1514|Gaham ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8401-8500#H8477|Tahash ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4601-4700#H4601|and Maacah.]]
+=======
+[[Lexicon/H1301-1400#H1328|And Bethuel]] [[Lexicon/H3201-3300#H3205|became the father of]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7259|Rebekah.]] [[Lexicon/H4401-4500#H4435|Milcah]] [[Lexicon/H3201-3300#H3205|bore]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H8001-8100#H8083|eight (sons)]] [[Lexicon/H1-100#H85|to Abraham’s]] [[Lexicon/H201-300#H251|brother]] [[Lexicon/H5101-5200#H5152|Nahor.]]
+| [[LXX Reference/1 - Genesis/Genesis 22#Genesis 22 - 23|LXX]] |
+
+##### Genesis 22 - 24
+[[Lexicon/H1501-1600#H1571|Moreover ,]] [[Lexicon/H6301-6400#H6370|(Nahor’s) concubine ,]] [[Lexicon/H8001-8100#H8034|whose name]] [[Lexicon/H7201-7300#H7208|was Reumah ,]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3205|bore]] [[Lexicon/H2801-2900#H2875|Tebah ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1501-1600#H1514|Gaham ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8401-8500#H8477|Tahash ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4601-4700#H4601|and Maacah.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 22#Genesis 22 - 24|LXX]] |

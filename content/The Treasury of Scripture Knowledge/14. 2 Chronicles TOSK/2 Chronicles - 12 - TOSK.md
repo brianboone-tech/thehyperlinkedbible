@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 2 Chronicles 12 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/14 - 2 Chronicles|← 2 Chronicles]]** | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 13 - TOSK|Ch 13 →]]
+=======
+**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|← 2 Chronicles]]** | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/14. 2 Chronicles TOSK/2 Chronicles - 13 - TOSK|Ch 13 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

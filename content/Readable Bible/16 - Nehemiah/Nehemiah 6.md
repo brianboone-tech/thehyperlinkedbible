@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Nehemiah-R 6
 
 **[[Home/Scripture/16 - Nehemiah|Nehemiah]]**
 
 [[Readable Bible/16 - Nehemiah/Nehemiah 5#Nehemiah-R 5| Nehemiah 5]] - [[Readable Bible/16 - Nehemiah/Nehemiah 7#Nehemiah-R 7| Nehemiah 7]]
+=======
+# Nehemiah 6
+
+[[Readable Bible/16 - Nehemiah/Nehemiah 5|← Nehemiah 5]] | [[Readable Bible/16 - Nehemiah/Nehemiah 7|Nehemiah 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

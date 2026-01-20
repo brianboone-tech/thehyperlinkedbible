@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 30
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 29#Psalm-R 29| Psalm 29]] - [[Readable Bible/19 - Psalms/Psalm 31#Psalm-R 31| Psalm 31]]
+=======
+# Psalm 30
+
+[[Readable Bible/19 - Psalms/Psalm 29|← Psalm 29]] | [[Readable Bible/19 - Psalms/Psalm 31|Psalm 31 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -43,6 +49,10 @@ cssClasses: lexicon
 [[Reference Bible/19 - Psalms/Psalm 30#Psalm 30 - 10|10]] Hear me, O LORD, and have mercy; O LORD, be my helper.”  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 30 - TOSK#Verse 10|TOSK]] |
 
 ##### Psalm 30 . 11
+<<<<<<< HEAD
 [[Reference Bible/19 - Psalms/Psalm 30#Psalm 30 - 11|11]] You turned my mourning into dancing; You peeled off my sackcloth and clothed me with joy,  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 30 - TOSK#Verse 11|TOSK]] |
+=======
+[[Reference Bible/19 - Psalms/Psalm 30#Psalm 30 - 11|11]] You turned my mourning into dancing; You peeled off my sackcloth and clothed me with joy,  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 30 - TOSK#Verse 11|TOSK]] | [[182 - Lament to Praise (From Complaint to Thanksgiving)|TT]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ##### Psalm 30 . 12
 [[Reference Bible/19 - Psalms/Psalm 30#Psalm 30 - 12|12]] that my heart may sing Your praises and not be silent. O LORD my God, I will give thanks forever.  | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 30 - TOSK#Verse 12|TOSK]] |

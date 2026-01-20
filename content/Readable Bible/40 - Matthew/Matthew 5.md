@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Matthew-R 5
 
 **[[Home/Scripture/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 4#Matthew-R 4| Matthew 4]] - [[Readable Bible/40 - Matthew/Matthew 6#Matthew-R 6| Matthew 6]]
+=======
+# Matthew 5
+
+[[Readable Bible/40 - Matthew/Matthew 4|← Matthew 4]] | [[Readable Bible/40 - Matthew/Matthew 6|Matthew 6 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

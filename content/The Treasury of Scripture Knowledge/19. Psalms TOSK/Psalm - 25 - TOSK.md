@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 25 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 24 - TOSK|← Ch 24]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 26 - TOSK|Ch 26 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 24 - TOSK|← Ch 24]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 26 - TOSK|Ch 26 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

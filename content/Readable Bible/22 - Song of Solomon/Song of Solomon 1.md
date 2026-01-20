@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Song of Solomon-R 1
 
 **[[Home/Scripture/22 - Song of Solomon|Song of Solomon]]**
 
 [[Ecclesiastes-R 12|←]] • [[Song of Solomon-R 2|→]]
+=======
+# Song of Solomon 1
+
+[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 12|←]] | [[Readable Bible/22 - Song of Solomon/Song of Solomon 2|→]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

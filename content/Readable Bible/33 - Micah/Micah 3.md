@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Micah-R 3
 
 **[[Home/Scripture/33 - Micah|Micah]]**
 
 [[Readable Bible/33 - Micah/Micah 2#Micah-R 2| Micah 2]] - [[Readable Bible/33 - Micah/Micah 4#Micah-R 4| Micah 4]]
+=======
+# Micah 3
+
+[[Readable Bible/33 - Micah/Micah 2|← Micah 2]] | [[Readable Bible/33 - Micah/Micah 4|Micah 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -7,7 +7,11 @@ Testament: Old
 
 # 2 Chronicles 36
 
+<<<<<<< HEAD
 [[LXX Reference/14 - 2 Chronicles/2 Chronicles 35|←]] • [[LXX Reference/14 - 2 Chronicles/2 Chronicles 37|→]]
+=======
+[[LXX Reference/14 - 2 Chronicles/2 Chronicles 35|←]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

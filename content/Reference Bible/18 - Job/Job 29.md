@@ -52,7 +52,11 @@ cssClasses: lexicon
 [[Lexicon/H3801-3900#H3847|I put on]] [[Lexicon/H6601-6700#H6664|righteousness ,]] [[Lexicon/H3801-3900#H3847|and it clothed me ;]] [[Lexicon/H4901-5000#H4941|justice]] [[Lexicon/H4501-4600#H4598|was my robe]] [[Lexicon/H6701-6800#H6797|and my turban.]]
 
 ##### Job 29 - 15
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|I [served as]]] [[Lexicon/H5801-5900#H5869|eyes]] [[Lexicon/H5701-5800#H5787|to the blind]] [[Lexicon/H501-600#H589|[and]]] [[Lexicon/H7201-7300#H7272|as feet]] [[Lexicon/H6401-6500#H6455|to the lame.]]
+=======
+[[Lexicon/H1901-2000#H1961|I (served as)]] [[Lexicon/H5801-5900#H5869|eyes]] [[Lexicon/H5701-5800#H5787|to the blind]] [[Lexicon/H501-600#H589|(and)]] [[Lexicon/H7201-7300#H7272|as feet]] [[Lexicon/H6401-6500#H6455|to the lame.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 29 - 16
 [[Lexicon/H501-600#H595|I]] [[Lexicon/H1-100#H1|was a father]] [[Lexicon/H1-100#H34|to the needy ,]] [[Lexicon/H2701-2800#H2713|and I took up]] [[Lexicon/H7301-7400#H7379|the case]] [[Lexicon/H3801-3900#H3808|of the stranger]] [[Lexicon/H3001-3100#H3045|....]]
@@ -64,10 +68,17 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H559|So I thought :]] [[Lexicon/H1401-1500#H1478|‘ I will die]] [[Lexicon/H5901-6000#H5973|in]] [[Lexicon/H7001-7100#H7064|my nest]] [[Lexicon/H7201-7300#H7235|and multiply]] [[Lexicon/H3101-3200#H3117|my days]] [[Lexicon/H2301-2400#H2344|as the sand.]]
 
 ##### Job 29 - 19
+<<<<<<< HEAD
 [[Lexicon/H8301-8400#H8328|My roots]] [[Lexicon/H6601-6700#H6605|[will] spread out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4301-4400#H4325|the waters ,]] [[Lexicon/H2901-3000#H2919|and the dew]] [[Lexicon/H3801-3900#H3885|will rest nightly]] [[Lexicon/H7101-7200#H7105|on my branches.]]
 
 ##### Job 29 - 20
 [[Lexicon/H3501-3600#H3519|My glory]] [[Lexicon/H2301-2400#H2319|is [ever] new]] [[Lexicon/H5901-6000#H5978|within me ,]] [[Lexicon/H7101-7200#H7198|and my bow]] [[Lexicon/H2401-2500#H2498|is renewed]] [[Lexicon/H3001-3100#H3027|in my hand. ’]]
+=======
+[[Lexicon/H8301-8400#H8328|My roots]] [[Lexicon/H6601-6700#H6605|(will) spread out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4301-4400#H4325|the waters ,]] [[Lexicon/H2901-3000#H2919|and the dew]] [[Lexicon/H3801-3900#H3885|will rest nightly]] [[Lexicon/H7101-7200#H7105|on my branches.]]
+
+##### Job 29 - 20
+[[Lexicon/H3501-3600#H3519|My glory]] [[Lexicon/H2301-2400#H2319|is (ever) new]] [[Lexicon/H5901-6000#H5978|within me ,]] [[Lexicon/H7101-7200#H7198|and my bow]] [[Lexicon/H2401-2500#H2498|is renewed]] [[Lexicon/H3001-3100#H3027|in my hand. ’]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 29 - 21
 [[Lexicon/H8001-8100#H8085|Men listened]] [[Lexicon/H3101-3200#H3176|with expectation ,]] [[Lexicon/H1801-1900#H1826|waiting silently]] [[Lexicon/H3901-4000#H3926|for]] [[Lexicon/H6001-6100#H6098|my counsel.]]
@@ -82,4 +93,8 @@ cssClasses: lexicon
 [[Lexicon/H7801-7900#H7832|If I smiled]] [[Lexicon/H401-500#H413|at them ,]] [[Lexicon/H3801-3900#H3808|they did not]] [[Lexicon/H501-600#H539|believe it ;]] [[Lexicon/H201-300#H216|the light]] [[Lexicon/H6401-6500#H6440|of my countenance]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H5301-5400#H5307|was precious.]]
 
 ##### Job 29 - 25
+<<<<<<< HEAD
 [[Lexicon/H901-1000#H977|I chose]] [[Lexicon/H1801-1900#H1870|their course]] [[Lexicon/H3401-3500#H3427|and presided]] [[Lexicon/H7201-7300#H7218|as chief.]] [[Lexicon/H7901-8000#H7931|So I dwelt]] [[Lexicon/H4401-4500#H4428|as a king]] [[Lexicon/H1401-1500#H1416|among his troops ,]] [[Lexicon/H801-900#H834|as a comforter]] [[Lexicon/H5101-5200#H5162|...]] [[Lexicon/H1-100#H57|of the mourners. [’’]]]
+=======
+[[Lexicon/H901-1000#H977|I chose]] [[Lexicon/H1801-1900#H1870|their course]] [[Lexicon/H3401-3500#H3427|and presided]] [[Lexicon/H7201-7300#H7218|as chief.]] [[Lexicon/H7901-8000#H7931|So I dwelt]] [[Lexicon/H4401-4500#H4428|as a king]] [[Lexicon/H1401-1500#H1416|among his troops ,]] [[Lexicon/H801-900#H834|as a comforter]] [[Lexicon/H5101-5200#H5162|...]] [[Lexicon/H1-100#H57|of the mourners. (’’)]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

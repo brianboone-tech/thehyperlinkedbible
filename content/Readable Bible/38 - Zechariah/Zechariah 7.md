@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Zechariah-R 7
 
 **[[Home/Scripture/38 - Zechariah|Zechariah]]**
 
 [[Readable Bible/38 - Zechariah/Zechariah 6#Zechariah-R 6| Zechariah 6]] - [[Readable Bible/38 - Zechariah/Zechariah 8#Zechariah-R 8| Zechariah 8]]
+=======
+# Zechariah 7
+
+[[Readable Bible/38 - Zechariah/Zechariah 6|← Zechariah 6]] | [[Readable Bible/38 - Zechariah/Zechariah 8|Zechariah 8 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Zechariah 7 . 1
+<<<<<<< HEAD
 [[Reference Bible/38 - Zechariah/Zechariah 7#Zechariah 7 - 1|1]] In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth day of the ninth month, the month of Chislev.   || [[Chiasm/Chiasm - 38 - Zechariah 7 . 1 - 8 . 23|C]] | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 7 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/38 - Zechariah/Zechariah 7#Zechariah 7 - 1|1]] In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth day of the ninth month, the month of Chislev.  | | [[Chiasm/Chiasm - 38 - Zechariah 7 . 1 - 8 . 23|C]] | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 7 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Zechariah 7 . 2
 [[Reference Bible/38 - Zechariah/Zechariah 7#Zechariah 7 - 2|2]] Now the people of Bethel had sent Sharezer and Regem-melech, along with their men, to plead before the LORD  | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 7 - TOSK#Verse 2|TOSK]] |

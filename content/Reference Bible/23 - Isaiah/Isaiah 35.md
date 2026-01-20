@@ -28,7 +28,11 @@ cssClasses: lexicon
 [[Lexicon/H201-300#H227|Then]] [[Lexicon/H6401-6500#H6455|the lame]] [[Lexicon/H1801-1900#H1801|will leap]] [[Lexicon/H301-400#H354|like a deer]] [[Lexicon/H401-500#H483|and the mute]] [[Lexicon/H3901-4000#H3956|tongue]] [[Lexicon/H7401-7500#H7442|will shout for joy.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4301-4400#H4325|waters]] [[Lexicon/H1201-1300#H1234|will gush forth]] [[Lexicon/H4001-4100#H4057|in the wilderness ,]] [[Lexicon/H5101-5200#H5158|and streams]] [[Lexicon/H6101-6200#H6160|in the desert.]]
 
 ##### Isaiah 35 - 7
+<<<<<<< HEAD
 [[Lexicon/H8201-8300#H8273|The parched ground]] [[Lexicon/H1901-2000#H1961|will become]] [[Lexicon/H1-100#H98|a pool ,]] [[Lexicon/H6701-6800#H6774|the thirsty land]] [[Lexicon/H4001-4100#H4002|springs]] [[Lexicon/H4301-4400#H4325|of water.]] [[Lexicon/H5101-5200#H5116|In the haunt]] [[Lexicon/H8501-8600#H8577|where jackals]] [[Lexicon/H7201-7300#H7258|once lay ,]] [[Lexicon/H2601-2700#H2682|there will be grass]] [[Lexicon/H7001-7100#H7070|[and] reeds]] [[Lexicon/H1501-1600#H1573|and papyrus.]]
+=======
+[[Lexicon/H8201-8300#H8273|The parched ground]] [[Lexicon/H1901-2000#H1961|will become]] [[Lexicon/H1-100#H98|a pool ,]] [[Lexicon/H6701-6800#H6774|the thirsty land]] [[Lexicon/H4001-4100#H4002|springs]] [[Lexicon/H4301-4400#H4325|of water.]] [[Lexicon/H5101-5200#H5116|In the haunt]] [[Lexicon/H8501-8600#H8577|where jackals]] [[Lexicon/H7201-7300#H7258|once lay ,]] [[Lexicon/H2601-2700#H2682|there will be grass]] [[Lexicon/H7001-7100#H7070|(and) reeds]] [[Lexicon/H1501-1600#H1573|and papyrus.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Isaiah 35 - 8
 [[Lexicon/H8001-8100#H8033|And there]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H4501-4600#H4547|a highway]] [[Lexicon/H1801-1900#H1870|...]] [[Lexicon/H7101-7200#H7121|called]] [[Lexicon/H1801-1900#H1870|the Way]] [[Lexicon/H6901-7000#H6944|of Holiness.]] [[Lexicon/H2901-3000#H2931|The unclean]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H5601-5700#H5674|travel it —]] [[Lexicon/H1901-2000#H1931|only]] [[Lexicon/H1901-2000#H1980|those who walk]] [[Lexicon/H1801-1900#H1870|in the Way —]] [[Lexicon/H101-200#H191|and fools]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H8501-8600#H8582|stray onto it.]]

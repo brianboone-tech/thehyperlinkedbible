@@ -14,7 +14,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 63#Psalm 63 - 1|LXX]] |
 
 ##### Psalm 63 - 2
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3651|So]] [[Lexicon/H2301-2400#H2372|I have seen You]] [[Lexicon/H6901-7000#H6944|in the sanctuary]] [[Lexicon/H7101-7200#H7200|[and] beheld]] [[Lexicon/H5701-5800#H5797|Your power]] [[Lexicon/H3501-3600#H3519|and glory.]]
+=======
+[[Lexicon/H3601-3700#H3651|So]] [[Lexicon/H2301-2400#H2372|I have seen You]] [[Lexicon/H6901-7000#H6944|in the sanctuary]] [[Lexicon/H7101-7200#H7200|(and) beheld]] [[Lexicon/H5701-5800#H5797|Your power]] [[Lexicon/H3501-3600#H3519|and glory.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 63#Psalm 63 - 2|LXX]] |
 
 ##### Psalm 63 - 3

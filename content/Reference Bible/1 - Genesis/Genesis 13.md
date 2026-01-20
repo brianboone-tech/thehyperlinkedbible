@@ -13,7 +13,11 @@ Testament: Old
 ---
 
 ##### Genesis 13 - 1
+<<<<<<< HEAD
 [[Lexicon/H1-100#H87|So Abram]] [[Lexicon/H5901-6000#H5927|went up]] [[Lexicon/H4701-4800#H4714|out of Egypt]] [[Lexicon/H5001-5100#H5045|into the Negev —]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H801-900#H802|and his wife]] [[Lexicon/H3601-3700#H3605|and all his possessions]] [[Lexicon/H801-900#H834|...]] [[Lexicon/H3801-3900#H3876|and Lot [was]]] [[Lexicon/H5901-6000#H5973|with him.]]
+=======
+[[Lexicon/H1-100#H87|So Abram]] [[Lexicon/H5901-6000#H5927|went up]] [[Lexicon/H4701-4800#H4714|out of Egypt]] [[Lexicon/H5001-5100#H5045|into the Negev —]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H801-900#H802|and his wife]] [[Lexicon/H3601-3700#H3605|and all his possessions]] [[Lexicon/H801-900#H834|...]] [[Lexicon/H3801-3900#H3876|and Lot (was)]] [[Lexicon/H5901-6000#H5973|with him.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 13#Genesis 13 - 1|LXX]] |
 
 ##### Genesis 13 - 2
@@ -33,7 +37,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 13#Genesis 13 - 5|LXX]] |
 
 ##### Genesis 13 - 6
+<<<<<<< HEAD
 [[Lexicon/H701-800#H776|But the land]] [[Lexicon/H3801-3900#H3808|was unable]] [[Lexicon/H5301-5400#H5375|to support]] [[Lexicon/H801-900#H853|[both of] them]] [[Lexicon/H3401-3500#H3427|while they stayed]] [[Lexicon/H3101-3200#H3162|together ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1961|they had]] [[Lexicon/H7201-7300#H7227|so many]] [[Lexicon/H7301-7400#H7399|possessions]] [[Lexicon/H3201-3300#H3201|that they were unable]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H3401-3500#H3427|to coexist]] [[Lexicon/H3101-3200#H3162|....]]
+=======
+[[Lexicon/H701-800#H776|But the land]] [[Lexicon/H3801-3900#H3808|was unable]] [[Lexicon/H5301-5400#H5375|to support]] [[Lexicon/H801-900#H853|(both of) them]] [[Lexicon/H3401-3500#H3427|while they stayed]] [[Lexicon/H3101-3200#H3162|together ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1961|they had]] [[Lexicon/H7201-7300#H7227|so many]] [[Lexicon/H7301-7400#H7399|possessions]] [[Lexicon/H3201-3300#H3201|that they were unable]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H3401-3500#H3427|to coexist]] [[Lexicon/H3101-3200#H3162|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 13#Genesis 13 - 6|LXX]] |
 
 ##### Genesis 13 - 7
@@ -53,11 +61,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 13#Genesis 13 - 10|LXX]] |
 
 ##### Genesis 13 - 11
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3876|So Lot]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H977|chose]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H3601-3700#H3603|plain]] [[Lexicon/H3301-3400#H3383|of the Jordan]] [[Lexicon/H3801-3900#H3876|[and]]] [[Lexicon/H5201-5300#H5265|set out]] [[Lexicon/H6901-7000#H6924|toward the east.]] [[Lexicon/H6501-6600#H6504|And [Abram and Lot] parted]] [[Lexicon/H5901-6000#H5921|company]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H201-300#H251|....]]
 | [[LXX Reference/1 - Genesis/Genesis 13#Genesis 13 - 11|LXX]] |
 
 ##### Genesis 13 - 12
 [[Lexicon/H1-100#H87|Abram]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3667|of Canaan ,]] [[Lexicon/H3801-3900#H3876|but Lot]] [[Lexicon/H3401-3500#H3427|settled]] [[Lexicon/H5801-5900#H5892|in the cities]] [[Lexicon/H3601-3700#H3603|of the plain]] [[Lexicon/H101-200#H167|and pitched [his] tent]] [[Lexicon/H5701-5800#H5704|toward]] [[Lexicon/H5401-5500#H5467|Sodom.]]
+=======
+[[Lexicon/H3801-3900#H3876|So Lot]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H977|chose]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H3601-3700#H3603|plain]] [[Lexicon/H3301-3400#H3383|of the Jordan]] [[Lexicon/H3801-3900#H3876|(and)]] [[Lexicon/H5201-5300#H5265|set out]] [[Lexicon/H6901-7000#H6924|toward the east.]] [[Lexicon/H6501-6600#H6504|And (Abram and Lot) parted]] [[Lexicon/H5901-6000#H5921|company]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H201-300#H251|....]]
+| [[LXX Reference/1 - Genesis/Genesis 13#Genesis 13 - 11|LXX]] |
+
+##### Genesis 13 - 12
+[[Lexicon/H1-100#H87|Abram]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3667|of Canaan ,]] [[Lexicon/H3801-3900#H3876|but Lot]] [[Lexicon/H3401-3500#H3427|settled]] [[Lexicon/H5801-5900#H5892|in the cities]] [[Lexicon/H3601-3700#H3603|of the plain]] [[Lexicon/H101-200#H167|and pitched (his) tent]] [[Lexicon/H5701-5800#H5704|toward]] [[Lexicon/H5401-5500#H5467|Sodom.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 13#Genesis 13 - 12|LXX]] |
 
 ##### Genesis 13 - 13

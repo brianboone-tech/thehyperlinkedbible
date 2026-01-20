@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 2 Kings 25 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 24 - TOSK|← Ch 24]]
+=======
+**[[Home/Indexes/Readable Bible/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 24 - TOSK|← Ch 24]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

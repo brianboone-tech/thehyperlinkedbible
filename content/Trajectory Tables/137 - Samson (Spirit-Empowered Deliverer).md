@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## SAMSON (SPIRIT-EMPOWERED DELIVERER) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_B8AUtaRxeI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -10,6 +18,7 @@
 
 Samson's narrative (Judges 13-16) presents the most sustained account of Spirit-empowerment in the book of Judges. The Spirit of the LORD (רוּחַ יְהוָה) is explicitly mentioned in relation to Samson five times: the Spirit "began to stir him" (13:25), "came powerfully upon him" (14:6), "rushed upon him" (14:19), "came mightily upon him" (15:14), and implicitly returned when God answered his final prayer (16:28-30). This repeated Spirit-empowerment for mighty acts of deliverance makes Samson a providential type of the Spirit-anointed Messiah. Yet Samson's ministry was marked by contradiction: consecrated as a Nazirite from birth but repeatedly compromising his vows; Spirit-empowered for supernatural feats yet enslaved by fleshly desires; destined to "begin deliverance" (13:5) but unable to complete it. His story is one of wasted potential—yet Hebrews 11:32-34 commends him among faith heroes who "through faith...gained strength from weakness, became mighty in battle." The trajectory reveals that God accomplishes His purposes even through flawed instruments, preparing for the perfect Spirit-anointed Deliverer. Most strikingly, Samson's greatest victory came through his death: "he killed more when he died than while he lived" (16:30). This victory-through-death pattern foreshadows Christ's cross, where apparent defeat became cosmic victory. Samson, Spirit-empowered yet flawed, shadows Jesus, Spirit-anointed without measure, who accomplished not partial but complete deliverance.
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Type - Consecrated from Birth** | **Key Text:**<br>[[Readable Bible/07 - Judges/Judges 13#Judges 13 . 2\|Judges 13:2-5]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Samson (Spirit-Empowered Deliverer)/07 - Judges 13.2-5\|Judges 13:2-5]] | Samson's birth is announced by the Angel of the LORD to a barren woman—a pattern connecting to Isaac, Samuel, and John the Baptist. The child would be "a Nazirite to God from the womb" (נְזִיר אֱלֹהִים...מִן־הַבֶּטֶן). The Nazirite vow (Numbers 6) involved separation: no wine, no razor, no contact with death. Samson's consecration was lifelong and prenatal—set apart for divine purpose before birth. The angel's commission: "he will begin to deliver Israel from the hand of the Philistines" (וְהוּא יָחֵל לְהוֹשִׁיעַ). The verb יָחֵל ("begin") is significant—Samson would initiate, not complete. His partial deliverance points to the complete deliverance Christ would accomplish. | **OT to OT:**<br>[[Intertextuality Pairs/OT to OT/07 - Judges/Judges 13.5 to Numbers 6.2-8\|Judges 13:5 to Numbers 6:2-8]] |
@@ -22,6 +31,45 @@ Samson's narrative (Judges 13-16) presents the most sustained account of Spirit-
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Type - Consecrated from Birth** | [[Readable Bible/07 - Judges/Judges 13#Judges 13 . 2\|Judges 13:2-5]] | Samson's birth is announced by the Angel of the LORD to a barren woman—a pattern connecting to Isaac, Samuel, and John the Baptist. The child would be "a Nazirite to God from the womb" (נְזִיר אֱלֹהִים...מִן־הַבֶּטֶן). The Nazirite vow (Numbers 6) involved separation: no wine, no razor, no contact with death. Samson's consecration was lifelong and prenatal—set apart for divine purpose before birth. The angel's commission: "he will begin to deliver Israel from the hand of the Philistines" (וְהוּא יָחֵל לְהוֹשִׁיעַ). The verb יָחֵל ("begin") is significant—Samson would initiate, not complete. His partial deliverance points to the complete deliverance Christ would accomplish. **CRITICAL:** [[Intertextuality Pairs/OT to OT/07 - Judges/Judges 13.5 to Numbers 6.2-8\|Judges 13:5 to Numbers 6:2-8]] | [[Trajectory Tables - Foundation Texts/Samson (Spirit-Empowered Deliverer)/07 - Judges 13.2-5\|Judges 13:2-5]] |
+| 2 | **OT Development - Spirit Begins Stirring** | [[Readable Bible/07 - Judges/Judges 13#Judges 13 . 25\|Judges 13:25]] | After Samson's birth and growth (13:24), the narrative notes: "The Spirit of the LORD began to stir him (וַתָּחֶל רוּחַ יְהוָה לְפַעֲמוֹ) at Mahaneh-dan." The verb פָּעַם means "to impel, thrust, disturb"—the Spirit began moving him, creating inner restlessness for divine purpose. This initial stirring preceded the Spirit's more dramatic manifestations. The location "between Zorah and Eshtaol" connects Samson's spiritual awakening to his tribal inheritance. The pattern anticipates Jesus' growth "in wisdom and stature" (Luke 2:52) before His public Spirit-anointed ministry began at baptism. | [[Trajectory Tables - Foundation Texts/Samson (Spirit-Empowered Deliverer)/07 - Judges 13.25\|Judges 13:25]] |
+| 3 | **OT Pattern - Spirit Rushes for Victory** | [[Readable Bible/07 - Judges/Judges 14#Judges 14 . 6\|Judges 14:6]]; [[Readable Bible/07 - Judges/Judges 15#Judges 15 . 14\|Judges 15:14-15]] | The Spirit's action intensifies: "The Spirit of the LORD came powerfully upon him" (וַתִּצְלַח עָלָיו רוּחַ יְהוָה)—he tore apart a lion barehanded (14:6). Later, when bound and delivered to the Philistines: "The Spirit of the LORD came mightily upon him" (וַתִּצְלַח עָלָיו רוּחַ יְהוָה)—the ropes became like burnt flax, and he struck down a thousand with a donkey's jawbone (15:14-15). The verb צָלַח means "to rush upon, overwhelm"—sudden, powerful divine enabling for specific acts. Samson's Spirit-empowered victories over enemies anticipate Christ's Spirit-empowered conquest of Satan's kingdom: "If I cast out demons by the Spirit of God, then the kingdom of God has come upon you" (Matthew 12:28). **CRITICAL:** [[Intertextuality Pairs/OT to OT/07 - Judges/Judges 14.6 to Judges 3.10\|Judges 14:6 to Judges 3:10]] | [[Trajectory Tables - Foundation Texts/Samson (Spirit-Empowered Deliverer)/07 - Judges 14.6, 15.14-15\|Judges 14:6; 15:14-15]] |
+| 4 | **OT Crisis - Spirit Departs** | [[Readable Bible/07 - Judges/Judges 16#Judges 16 . 19\|Judges 16:19-21]] | Samson's compromise reached its nadir when he revealed his secret to Delilah: "If I am shaved, my strength will leave me" (16:17). After his hair was cut, he awoke thinking "I will shake myself free"—"but he did not know that the LORD had departed from him" (וְהוּא לֹא יָדַע כִּי יְהוָה סָר מֵעָלָיו). The Spirit's departure left Samson powerless before enemies who seized him, gouged out his eyes, and enslaved him. The tragic phrase "he did not know" reveals how spiritual compromise can proceed without immediate awareness of consequence. Yet even here, grace persists—"his hair began to grow back" (16:22), hinting at restoration. The contrast with Christ is absolute: Jesus, Spirit-anointed without measure, never compromised, never lost divine presence. | [[Trajectory Tables - Foundation Texts/Samson (Spirit-Empowered Deliverer)/07 - Judges 16.19-21\|Judges 16:19-21]] |
+| 5 | **OT Victory - Triumph Through Death** | [[Readable Bible/07 - Judges/Judges 16#Judges 16 . 28\|Judges 16:28-30]] | In Dagon's temple, blind and humiliated, Samson prayed: "O Lord GOD, please remember me. Strengthen me, O God, just once more" (16:28). God answered—Samson grasped the central pillars and said, "Let me die with the Philistines" (תָּמוֹת נַפְשִׁי עִם־פְּלִשְׁתִּים). With restored strength, he collapsed the temple: "he killed more when he died than while he lived" (וַיִּהְיוּ הַמֵּתִים אֲשֶׁר הֵמִית בְּמוֹתוֹ רַבִּים מֵאֲשֶׁר הֵמִית בְּחַיָּיו). This victory-through-death pattern is the clearest typological foreshadowing of Christ's cross. What appeared to be Samson's final defeat became his greatest victory. Similarly, Christ's crucifixion appeared to be Satan's triumph but was actually the devil's defeat (Colossians 2:15; Hebrews 2:14). | [[Trajectory Tables - Foundation Texts/Samson (Spirit-Empowered Deliverer)/07 - Judges 16.28-30\|Judges 16:28-30]] |
+| 6 | **NT Commendation - Faith Hero** | [[Readable Bible/58 - Hebrews/Hebrews 11#Hebrews 11 . 32\|Hebrews 11:32-34]] | Despite Samson's moral failures, Hebrews includes him among faith heroes: "Gideon, Barak, Samson, Jephthah...who through faith conquered kingdoms, administered justice, obtained promises...gained strength from weakness, became mighty in battle." The phrase "gained strength from weakness" (ἐδυναμώθησαν ἀπὸ ἀσθενείας) fits Samson's final prayer—from the weakness of blindness and bondage, he received supernatural strength. Hebrews reads Samson's core orientation as πίστις (faith), his final act as genuine trust in God. The commendation validates his typological significance: even flawed faith points to Christ's perfect faith. | [[Trajectory Tables - Foundation Texts/Samson (Spirit-Empowered Deliverer)/58 - Hebrews 11.32-34\|Hebrews 11:32-34]] |
+| 7 | **NT Fulfillment - Christ the Spirit-Anointed** | [[Readable Bible/42 - Luke/Luke 4#Luke 4 . 14\|Luke 4:14-21]]; [[Readable Bible/44 - Acts/Acts 10#Acts 10 . 38\|Acts 10:38]] | Jesus is the ultimate Spirit-anointed deliverer. Luke 4:14: "Jesus returned in the power of the Spirit." In Nazareth, He read Isaiah 61:1-2: "The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor...to set at liberty those who are oppressed" (Luke 4:18). Peter preached: "God anointed Jesus of Nazareth with the Holy Spirit and with power. He went about doing good and healing all who were oppressed by the devil" (Acts 10:38). Samson's Spirit-empowerment was episodic and eventually forfeited; Christ's was permanent and without measure. Samson began deliverance; Christ completed it. Samson killed more in death than in life; Christ through death destroyed him who had the power of death (Hebrews 2:14). Every aspect of Samson's Spirit-empowered ministry finds its perfect fulfillment in Jesus. **CRITICAL:** [[Intertextuality Pairs/NT to OT/42 - Luke/Luke 8.10 to Isaiah 1.1\|Luke 4:18 to Isaiah 61:1]]; [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 4.27 to Isaiah 61.1\|Acts 10:38 to Isaiah 61:1]]; [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 6.14 to Genesis 22.17\|Hebrews 2:14 to Genesis 3:15]] | [[Trajectory Tables - Foundation Texts/Samson (Spirit-Empowered Deliverer)/42 - Luke 4.14-21\|Luke 4:14-21]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+**07 - Judges**
+
+- [[Intertextuality Pairs/OT to OT/07 - Judges/Judges 13.5 to Numbers 6.2-8\|Judges 13:5  to  Numbers 6:2-8]] - **CRITICAL:** Samson's Nazirite status connects to the Nazirite vow legislation. His lifelong, prenatal consecration intensifies the pattern established in Numbers, anticipating one wholly set apart for God.
+
+- [[Intertextuality Pairs/OT to OT/07 - Judges/Judges 14.6 to Judges 3.10\|Judges 14:6  to  Judges 3:10]] - **CRITICAL:** The Spirit's coming upon Samson follows the pattern established with Othniel, the first judge. The Spirit empowers deliverers throughout Judges.
+
+### NT to OT
+
+**42 - Luke**
+
+- [[Intertextuality Pairs/NT to OT/42 - Luke/Luke 8.10 to Isaiah 1.1\|Luke 4:18  to  Isaiah 61:1]] - **CRITICAL:** Jesus' self-identification as the Spirit-anointed one fulfills Isaiah's prophecy and completes what Samson's Spirit-empowerment foreshadowed.
+
+**44 - Acts**
+
+- [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 4.27 to Isaiah 61.1\|Acts 10:38  to  Isaiah 61:1]] - **CRITICAL:** Peter's summary of Jesus' ministry ("God anointed Jesus with the Holy Spirit and power") presents Christ as the fulfillment of all Spirit-anointed deliverers.
+
+**58 - Hebrews**
+
+- [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 6.14 to Genesis 22.17\|Hebrews 2:14  to  Genesis 3:15]] - **CRITICAL:** Christ's victory through death ("that through death he might destroy the one who has the power of death") fulfills what Samson's death-victory foreshadowed.
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 ### 1. What You Must Do

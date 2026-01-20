@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Isaiah-R 36
 
 **[[Home/Scripture/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 35#Isaiah-R 35| Isaiah 35]] - [[Readable Bible/23 - Isaiah/Isaiah 37#Isaiah-R 37| Isaiah 37]]
+=======
+# Isaiah 36
+
+[[Readable Bible/23 - Isaiah/Isaiah 35|← Isaiah 35]] | [[Readable Bible/23 - Isaiah/Isaiah 37|Isaiah 37 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

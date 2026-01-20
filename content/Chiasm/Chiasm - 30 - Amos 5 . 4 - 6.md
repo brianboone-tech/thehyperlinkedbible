@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/30 - Amos|← Amos]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/30 - Amos|← Amos]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

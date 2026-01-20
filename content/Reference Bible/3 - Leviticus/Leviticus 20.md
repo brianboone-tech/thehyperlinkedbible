@@ -39,7 +39,11 @@ Book: Leviticus
 [[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H301-400#H376|anyone]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7001-7100#H7043|curses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H517|or mother ,]] [[Lexicon/H4101-4200#H4191|he must be put to death]] [[Lexicon/H4101-4200#H4191|....]] [[Lexicon/H7001-7100#H7043|He has cursed]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H501-600#H517|or mother ;]] [[Lexicon/H1801-1900#H1818|his blood]]
 
 ##### Leviticus 20 - 10
+<<<<<<< HEAD
 [[Lexicon/H301-400#H376|If a man]] [[Lexicon/H5001-5100#H5003|commits adultery]] [[Lexicon/H801-900#H853|with]] [[Lexicon/H301-400#H376|[another] man’s]] [[Lexicon/H801-900#H802|wife —]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5001-5100#H5003|-]] [[Lexicon/H801-900#H853|with]] [[Lexicon/H801-900#H802|the wife]] [[Lexicon/H7401-7500#H7453|of his neighbor —]] [[Lexicon/H5001-5100#H5003|both the adulterer]] [[Lexicon/H5001-5100#H5003|and the adulteress]] [[Lexicon/H4101-4200#H4191|must surely]] [[Lexicon/H4101-4200#H4191|be put to death.]]
+=======
+[[Lexicon/H301-400#H376|If a man]] [[Lexicon/H5001-5100#H5003|commits adultery]] [[Lexicon/H801-900#H853|with]] [[Lexicon/H301-400#H376|(another) man’s]] [[Lexicon/H801-900#H802|wife —]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5001-5100#H5003|-]] [[Lexicon/H801-900#H853|with]] [[Lexicon/H801-900#H802|the wife]] [[Lexicon/H7401-7500#H7453|of his neighbor —]] [[Lexicon/H5001-5100#H5003|both the adulterer]] [[Lexicon/H5001-5100#H5003|and the adulteress]] [[Lexicon/H4101-4200#H4191|must surely]] [[Lexicon/H4101-4200#H4191|be put to death.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Leviticus 20 - 11
 [[Lexicon/H301-400#H376|If a man]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7901-8000#H7901|lies]] [[Lexicon/H801-900#H853|with]] [[Lexicon/H1-100#H1|his father’s]] [[Lexicon/H801-900#H802|wife ,]] [[Lexicon/H1501-1600#H1540|he has uncovered]] [[Lexicon/H1-100#H1|his father’s]] [[Lexicon/H6101-6200#H6172|nakedness.]] [[Lexicon/H8101-8200#H8147|Both]] [[Lexicon/H4101-4200#H4191|must surely]] [[Lexicon/H4101-4200#H4191|be put to death ;]] [[Lexicon/H1801-1900#H1818|their blood]]

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Genesis-R 43
 
 **[[Home/Scripture/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 42#Genesis-R 42| Genesis 42]] - [[Readable Bible/01 - Genesis/Genesis 44#Genesis-R 44| Genesis 44]]
+=======
+# Genesis 43
+
+[[Readable Bible/01 - Genesis/Genesis 42|← Genesis 42]] | [[Readable Bible/01 - Genesis/Genesis 44|Genesis 44 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

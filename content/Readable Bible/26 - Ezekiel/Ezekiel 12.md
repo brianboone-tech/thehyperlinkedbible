@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 12
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 11#Ezekiel-R 11| Ezekiel 11]] - [[Readable Bible/26 - Ezekiel/Ezekiel 13#Ezekiel-R 13| Ezekiel 13]]
+=======
+# Ezekiel 12
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 11|← Ezekiel 11]] | [[Readable Bible/26 - Ezekiel/Ezekiel 13|Ezekiel 13 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

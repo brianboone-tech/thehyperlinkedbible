@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Hebrews 12 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/58 - Hebrews|← Hebrews]]** | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 13 - TOSK|Ch 13 →]]
+=======
+**[[Home/Indexes/Readable Bible/58 - Hebrews|← Hebrews]]** | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/58. Hebrews TOSK/Hebrews - 13 - TOSK|Ch 13 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

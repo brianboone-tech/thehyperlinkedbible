@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/62 - 1 John|← 1 John]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/62 - 1 John|← 1 John]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

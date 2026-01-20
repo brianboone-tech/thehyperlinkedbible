@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Isaiah 29 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 30 - TOSK|Ch 30 →]]
+=======
+**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 30 - TOSK|Ch 30 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

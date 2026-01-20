@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Leviticus-R 14
 
 **[[Home/Scripture/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 13#Leviticus-R 13| Leviticus 13]] - [[Readable Bible/03 - Leviticus/Leviticus 15#Leviticus-R 15| Leviticus 15]]
+=======
+# Leviticus 14
+
+[[Readable Bible/03 - Leviticus/Leviticus 13|← Leviticus 13]] | [[Readable Bible/03 - Leviticus/Leviticus 15|Leviticus 15 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

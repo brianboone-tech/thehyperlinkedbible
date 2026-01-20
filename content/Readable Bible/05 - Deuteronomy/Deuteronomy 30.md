@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Deuteronomy-R 30
 
 **[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 29#Deuteronomy-R 29| Deuteronomy 29]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 31#Deuteronomy-R 31| Deuteronomy 31]]
+=======
+# Deuteronomy 30
+
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 29|← Deuteronomy 29]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 31|Deuteronomy 31 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Joshua-R 12
 
 **[[Home/Scripture/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 11#Joshua-R 11| Joshua 11]] - [[Readable Bible/06 - Joshua/Joshua 13#Joshua-R 13| Joshua 13]]
+=======
+# Joshua 12
+
+[[Readable Bible/06 - Joshua/Joshua 11|← Joshua 11]] | [[Readable Bible/06 - Joshua/Joshua 13|Joshua 13 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

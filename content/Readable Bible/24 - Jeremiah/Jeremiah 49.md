@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jeremiah-R 49
 
 **[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 48#Jeremiah-R 48| Jeremiah 48]] - [[Readable Bible/24 - Jeremiah/Jeremiah 50#Jeremiah-R 50| Jeremiah 50]]
+=======
+# Jeremiah 49
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 48|← Jeremiah 48]] | [[Readable Bible/24 - Jeremiah/Jeremiah 50|Jeremiah 50 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

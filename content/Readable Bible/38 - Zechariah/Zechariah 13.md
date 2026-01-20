@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Zechariah-R 13
 
 **[[Home/Scripture/38 - Zechariah|Zechariah]]**
 
 [[Readable Bible/38 - Zechariah/Zechariah 12#Zechariah-R 12| Zechariah 12]] - [[Readable Bible/38 - Zechariah/Zechariah 14#Zechariah-R 14| Zechariah 14]]
+=======
+# Zechariah 13
+
+[[Readable Bible/38 - Zechariah/Zechariah 12|← Zechariah 12]] | [[Readable Bible/38 - Zechariah/Zechariah 14|Zechariah 14 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 141
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 140#Psalm-R 140| Psalm 140]] - [[Readable Bible/19 - Psalms/Psalm 142#Psalm-R 142| Psalm 142]]
+=======
+# Psalm 141
+
+[[Readable Bible/19 - Psalms/Psalm 140|← Psalm 140]] | [[Readable Bible/19 - Psalms/Psalm 142|Psalm 142 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

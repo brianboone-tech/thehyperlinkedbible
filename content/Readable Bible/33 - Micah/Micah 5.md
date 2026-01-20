@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Micah-R 5
 
 **[[Home/Scripture/33 - Micah|Micah]]**
 
 [[Readable Bible/33 - Micah/Micah 4#Micah-R 4| Micah 4]] - [[Readable Bible/33 - Micah/Micah 6#Micah-R 6| Micah 6]]
+=======
+# Micah 5
+
+[[Readable Bible/33 - Micah/Micah 4|← Micah 4]] | [[Readable Bible/33 - Micah/Micah 6|Micah 6 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Micah 5 . 1
+<<<<<<< HEAD
 [[Reference Bible/33 - Micah/Micah 5#Micah 5 - 1|1]] Now, O daughter of troops, mobilize your troops; for a siege is laid against us! With a rod they will strike the cheek of the judge of Israel.   || [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 5 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/33 - Micah/Micah 5#Micah 5 - 1|1]] Now, O daughter of troops, mobilize your troops; for a siege is laid against us! With a rod they will strike the cheek of the judge of Israel.  | | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 5 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Micah 5 . 2
 [[Reference Bible/33 - Micah/Micah 5#Micah 5 - 2|2]] But you, Bethlehem Ephrathah, who are small among the clans of Judah, out of you will come forth for Me One to be ruler over Israel—One whose origins are of old, from the days of eternity.  | [[Intertextuality Pairs/OT to OT/33 - Micah/Micah 5.2 to 1 Samuel 16.1|IP¹]] | [[Intertextuality Pairs/OT to OT/33 - Micah/Micah 5.2 to 1 Samuel 16.11|IP²]] | [[Intertextuality Pairs/OT to OT/33 - Micah/Micah 5.2 to 1 Samuel 9.21|IP³]] | [[Intertextuality Pairs/OT to OT/33 - Micah/Micah 5.2 to Genesis 35.18-19|IP⁴]] | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 5 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/088 - Judah's Scepter (Until Shiloh Comes)|TT¹]] | [[Trajectory Tables/036 - Covenant Succession (Inheritance and Election)|TT²]] | [[Trajectory Tables/041 - David (The King After God's Own Heart)|TT³]] | [[Trajectory Tables/129 - Rejection Then Exaltation (Pattern of Suffering and Glory)|TT⁴]] | [[Trajectory Tables/146 - Shepherd (Divine Shepherd Christology)|TT⁵]] | [[Trajectory Tables/077 - Isaac (Child of Promise)|TT⁵]] |

@@ -28,6 +28,7 @@ Testament: Old
 [[Lexicon/G2001-2100#G2089|And again]] [[Lexicon/G5201-5300#G5274|undertaking,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2962|lord]] [[Lexicon/G2001-2100#G2036|spoke]] [[Lexicon/G3501-3600#G3588|to]] *Job* [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3509|cloud, saying]],
 
 #### Job 40 - 7
+<<<<<<< HEAD
 [[Lexicon/G3301-3400#G3361|But no,]] [[Lexicon/G2201-2300#G2224|tie up]] [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G401-500#G0435|a man]] [[Lexicon/G3501-3600#G3588|your]] [[Lexicon/G3701-3800#G3751|loin]]! [[Lexicon/G2001-2100#G2065|And I will ask]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G1401-1500#G1473|then you]] [[Lexicon/G1401-1500#G1473|answer me!]]
 
 #### Job 40 - 8
@@ -35,6 +36,15 @@ Testament: Old
 
 #### Job 40 - 9
 [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G1001-1100#G1023|your arm]] [[G1510.2.3|is]] [[Lexicon/G2501-2600#G2596|as the arm]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2901-3000#G2962|lord]]? [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G5401-5500#G5456|with a voice]] [[Lexicon/G2501-2600#G2596|as]] [[Lexicon/G1401-1500#G1473|his]] [[G1026.2|do you thunder]]?
+=======
+[[Lexicon/G3301-3400#G3361|But no,]] [[Lexicon/G2201-2300#G2224|tie up]] [[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G401-500#G0435|a man]] [[Lexicon/G3501-3600#G3588|your]] [[Lexicon/G3701-3800#G3751|loin]]! [[Lexicon/G2001-2100#G2065|And I will ask]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G1401-1500#G1473|then you]] [[Lexicon/G1401-1500#G1473|answer me!]]
+
+#### Job 40 - 8
+[[Lexicon/G2201-2300#G2228|Or]] [[Lexicon/G601-700|should you undo]] [[Lexicon/G1401-1500#G1473|my]] [[Lexicon/G2901-3000#G2917|judgment]]? [[Lexicon/G3601-3700#G3633|And do you imagine]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G201-300#G0247|otherwise]] [[Lexicon/G1401-1500#G1473|executing things with you]]? [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G301-400#G0398|you should appear]] [[Lexicon/G1301-1400#G1342|just]]?
+
+#### Job 40 - 9
+[[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G1001-1100#G1023|your arm]] [[Lexicon/G1501-1600|is]] [[Lexicon/G2501-2600#G2596|as the arm]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2901-3000#G2962|lord]]? [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G5401-5500#G5456|with a voice]] [[Lexicon/G2501-2600#G2596|as]] [[Lexicon/G1401-1500#G1473|his]] [[Lexicon/G1001-1100|do you thunder]]?
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Job 40 - 10
 [[Lexicon/G301-400#G0353|Then lift yourself up]] [[Lexicon/G5301-5400#G5311|in stature]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1411|power,]] [[Lexicon/G1301-1400#G1391|with glory]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5092|honor]] [[Lexicon/G201-300#G0294|clothe yourself]]!
@@ -55,6 +65,7 @@ Testament: Old
 [[Lexicon/G201-300#G0235|But]] [[Lexicon/G1201-1300#G1211|indeed,]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G2301-2400#G2342|the wild beast]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G2401-2500#G2470|equal to]] [[Lexicon/G1001-1100#G1016|oxen]] [[Lexicon/G2001-2100#G2068|it eats]].
 
 #### Job 40 - 16
+<<<<<<< HEAD
 [[Lexicon/G2301-2400#G2400|Behold]] [[Lexicon/G1201-1300#G1211|indeed,]] [[Lexicon/G3501-3600#G3588|his]] [[Lexicon/G2401-2500#G2479|strength]] [[Lexicon/G1901-2000#G1909|is in]] [[Lexicon/G3701-3800#G3751|his loin,]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G1401-1500#G1411|his power]] [[Lexicon/G1901-2000#G1909|is in]] [[G3675.2|the navel]] [[Lexicon/G1001-1100#G1064|of his belly]].
 
 #### Job 40 - 17
@@ -80,3 +91,30 @@ Testament: Old
 
 #### Job 40 - 24
 [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3501-3600#G3588|his]] [[Lexicon/G3701-3800#G3788|eye]] [[Lexicon/G1201-1300#G1209|will one take]] [[Lexicon/G1401-1500#G1473|him?]] [[G1777.2|Being caught in a snare]] [[G5069.2|will you drill]] [[G4492.2|his nose]]?
+=======
+[[Lexicon/G2301-2400#G2400|Behold]] [[Lexicon/G1201-1300#G1211|indeed,]] [[Lexicon/G3501-3600#G3588|his]] [[Lexicon/G2401-2500#G2479|strength]] [[Lexicon/G1901-2000#G1909|is in]] [[Lexicon/G3701-3800#G3751|his loin,]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G1401-1500#G1411|his power]] [[Lexicon/G1901-2000#G1909|is in]] [[Lexicon/G3601-3700|the navel]] [[Lexicon/G1001-1100#G1064|of his belly]].
+
+#### Job 40 - 17
+[[Lexicon/G2401-2500#G2476|He sets]] [[Lexicon/G3701-3800#G3769|his tail]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2901-3000|a cypress;]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G3501-3600|his nerves]] [[Lexicon/G4801-4900|are closely joined]].
+
+#### Job 40 - 18
+[[Lexicon/G3501-3600#G3588|His]] [[Lexicon/G4101-4200#G4125|sides]] [[Lexicon/G4101-4200#G4125|are sides]] [[Lexicon/G5401-5500#G5470|of brass;]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G4401-4500|his spine]] [[Lexicon/G4601-4700#G4604|iron]] [[Lexicon/G5501-5600|is as cast]].
+
+#### Job 40 - 19
+[[Lexicon/G5101-5200#G5123|This is]] [[Lexicon/G701-800#G0746|the beginning]] [[Lexicon/G4101-4200#G4110|of the thing shaped]] [[Lexicon/G2901-3000#G2962|by the lord;]] [[Lexicon/G4101-4200#G4160|being made]] [[Lexicon/G1401-1500|to be mocked]] [[Lexicon/G5201-5300#G5259|by]] [[Lexicon/G3501-3600#G3588|his]] [[Lexicon/G1-100#G0032|angels]].
+
+#### Job 40 - 20
+[[Lexicon/G1901-2000#G1904|And coming]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3701-3800#G3735|mountain]] [[Lexicon/G201-300|a chiseled]], [[Lexicon/G4101-4200#G4160|he produces]] [[Lexicon/G5401-5500|a cause for joy]] [[Lexicon/G5001-5100#G5074|to the four-footed]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5001-5100|infernal region]].
+
+#### Job 40 - 21
+[[Lexicon/G5201-5300#G5259|Under]] [[Lexicon/G3801-3900|all kinds]] [[Lexicon/G1101-1200#G1186|of trees]] [[Lexicon/G2801-2900#G2837|he sleeps;]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G3801-3900|the papyrus,]] [[Lexicon/G2501-2600#G2563|reed]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100|flowering rush]].
+
+#### Job 40 - 22
+[[Lexicon/G4601-4700|Shadowed]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G1401-1500#G1473|in him]] [[Lexicon/G1101-1200#G1186|trees]] [[Lexicon/G4801-4900#G4862|with]] [[Lexicon/G3701-3800|scions]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2801-2900|branches]] [[Lexicon/G1-100|of the chaste tree]].
+
+#### Job 40 - 23
+[[Lexicon/G1401-1500#G1437|If]] [[Lexicon/G1001-1100#G1096|there becomes]] [[Lexicon/G4101-4200#G4132|an inundation,]] [[Lexicon/G3701-3800|in no way]] [[Lexicon/G101-200#G0143|shall it be perceived;]] [[Lexicon/G3901-4000#G3982|he relies]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G4301-4400|will rush up]] [[Lexicon/G3501-3600#G3588|the]] *Jordan* [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|his]] [[Lexicon/G4701-4800#G4750|mouth]].
+
+#### Job 40 - 24
+[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3501-3600#G3588|his]] [[Lexicon/G3701-3800#G3788|eye]] [[Lexicon/G1201-1300#G1209|will one take]] [[Lexicon/G1401-1500#G1473|him?]] [[Lexicon/G1701-1800|Being caught in a snare]] [[Lexicon/G5001-5100|will you drill]] [[Lexicon/G4401-4500|his nose]]?
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

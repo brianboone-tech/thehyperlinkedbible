@@ -12,7 +12,11 @@ Book: 1 Samuel
 ---
 
 ##### 1 Samuel 31 - 1
+<<<<<<< HEAD
 [[Lexicon/H6401-6500#H6430|Now the Philistines]] [[Lexicon/H3801-3900#H3898|fought]] [[Lexicon/H3401-3500#H3478|against Israel ,]] [[Lexicon/H501-600#H582|and the men]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H5101-5200#H5127|fled]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H6401-6500#H6430|them ,]] [[Lexicon/H5301-5400#H5307|and [many] fell]] [[Lexicon/H2401-2500#H2491|slain]] [[Lexicon/H2001-2100#H2022|on Mount]] [[Lexicon/H1501-1600#H1533|Gilboa.]]
+=======
+[[Lexicon/H6401-6500#H6430|Now the Philistines]] [[Lexicon/H3801-3900#H3898|fought]] [[Lexicon/H3401-3500#H3478|against Israel ,]] [[Lexicon/H501-600#H582|and the men]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H5101-5200#H5127|fled]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H6401-6500#H6430|them ,]] [[Lexicon/H5301-5400#H5307|and (many) fell]] [[Lexicon/H2401-2500#H2491|slain]] [[Lexicon/H2001-2100#H2022|on Mount]] [[Lexicon/H1501-1600#H1533|Gilboa.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Samuel 31 - 2
 [[Lexicon/H6401-6500#H6430|The Philistines]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1692|followed hard after]] [[Lexicon/H7501-7600#H7586|Saul]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|and his sons ,]] [[Lexicon/H5201-5300#H5221|and they killed]] [[Lexicon/H6401-6500#H6430|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7501-7600#H7586|Saul’s]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H3001-3100#H3083|Jonathan ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H41|Abinadab ,]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H4401-4500#H4444|-]] [[Lexicon/H4401-4500#H4444|Malchishua.]]
@@ -45,7 +49,11 @@ Book: 1 Samuel
 [[Lexicon/H3401-3500#H3427|When the people]] [[Lexicon/H3001-3100#H3003|of Jabesh-gilead]] [[Lexicon/H1501-1600#H1568|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8085|heard]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H801-900#H834|what]] [[Lexicon/H6401-6500#H6430|the Philistines]] [[Lexicon/H6201-6300#H6213|had done]] [[Lexicon/H7501-7600#H7586|to Saul ,]]
 
 ##### 1 Samuel 31 - 12
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H301-400#H376|their men]] [[Lexicon/H2401-2500#H2428|of valor]] [[Lexicon/H6901-7000#H6965|set out ,]] [[Lexicon/H1901-2000#H1980|journeyed]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3901-4000#H3915|night ,]] [[Lexicon/H3901-4000#H3947|and retrieved]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1401-1500#H1472|the bodies]] [[Lexicon/H7501-7600#H7586|of Saul]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1401-1500#H1472|[and]]] [[Lexicon/H1101-1200#H1121|his sons]] [[Lexicon/H2301-2400#H2346|from the wall]] [[Lexicon/H1001-1100#H1052|of]] [[Lexicon/H1001-1100#H1052|Beth-shan.]] [[Lexicon/H901-1000#H935|When they arrived]] [[Lexicon/H3001-3100#H3003|at Jabesh ,]] [[Lexicon/H8301-8400#H8313|they burned]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8033|the bodies there.]]
+=======
+[[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H301-400#H376|their men]] [[Lexicon/H2401-2500#H2428|of valor]] [[Lexicon/H6901-7000#H6965|set out ,]] [[Lexicon/H1901-2000#H1980|journeyed]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3901-4000#H3915|night ,]] [[Lexicon/H3901-4000#H3947|and retrieved]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1401-1500#H1472|the bodies]] [[Lexicon/H7501-7600#H7586|of Saul]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1401-1500#H1472|(and)]] [[Lexicon/H1101-1200#H1121|his sons]] [[Lexicon/H2301-2400#H2346|from the wall]] [[Lexicon/H1001-1100#H1052|of]] [[Lexicon/H1001-1100#H1052|Beth-shan.]] [[Lexicon/H901-1000#H935|When they arrived]] [[Lexicon/H3001-3100#H3003|at Jabesh ,]] [[Lexicon/H8301-8400#H8313|they burned]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8033|the bodies there.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Samuel 31 - 13
 [[Lexicon/H3901-4000#H3947|Then they took]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6101-6200#H6106|their bones]] [[Lexicon/H6901-7000#H6912|and buried them]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H801-900#H815|the tamarisk tree]] [[Lexicon/H3001-3100#H3003|in Jabesh ,]] [[Lexicon/H6601-6700#H6684|and they fasted]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H3101-3200#H3117|days.]]

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Numbers 28 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 27 - TOSK|← Ch 27]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 29 - TOSK|Ch 29 →]]
+=======
+**[[Home/Indexes/Readable Bible/04 - Numbers|← Numbers]]** | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 27 - TOSK|← Ch 27]] | [[The Treasury of Scripture Knowledge/04. Numbers TOSK/Numbers - 29 - TOSK|Ch 29 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/54 - 1 Timothy|← 1 Timothy]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/54 - 1 Timothy|← 1 Timothy]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

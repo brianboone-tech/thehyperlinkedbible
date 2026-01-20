@@ -10,22 +10,37 @@ cssClasses: lexicon
 ---
 
 ##### Micah 7 - 1
+<<<<<<< HEAD
 [[Lexicon/H401-500#H480|Woe is]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1961|I am]] [[Lexicon/H601-700#H625|like one gathering]] [[Lexicon/H7001-7100#H7019|summer fruit]] [[Lexicon/H5901-6000#H5955|at the gleaning]] [[Lexicon/H1201-1300#H1210|of the vineyard ;]] [[Lexicon/H301-400#H369|there [is no]]] [[Lexicon/H801-900#H811|cluster]] [[Lexicon/H301-400#H398|to eat ,]] [[Lexicon/H1001-1100#H1063|no early fig]] [[Lexicon/H5301-5400#H5315|that I]] [[Lexicon/H101-200#H183|crave.]]
 
 ##### Micah 7 - 2
 [[Lexicon/H2601-2700#H2623|The godly [man]]] [[Lexicon/H1-100#H6|has perished]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H701-800#H776|the earth ;]] [[Lexicon/H301-400#H369|there is no]] [[Lexicon/H3401-3500#H3477|one upright]] [[Lexicon/H101-200#H120|among men.]] [[Lexicon/H3601-3700#H3605|They all]] [[Lexicon/H601-700#H693|lie in wait]] [[Lexicon/H1801-1900#H1818|for blood ;]] [[Lexicon/H6601-6700#H6679|they hunt]] [[Lexicon/H301-400#H376|one]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H251|another]] [[Lexicon/H2701-2800#H2764|with a net.]]
+=======
+[[Lexicon/H401-500#H480|Woe is]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1961|I am]] [[Lexicon/H601-700#H625|like one gathering]] [[Lexicon/H7001-7100#H7019|summer fruit]] [[Lexicon/H5901-6000#H5955|at the gleaning]] [[Lexicon/H1201-1300#H1210|of the vineyard ;]] [[Lexicon/H301-400#H369|there (is no)]] [[Lexicon/H801-900#H811|cluster]] [[Lexicon/H301-400#H398|to eat ,]] [[Lexicon/H1001-1100#H1063|no early fig]] [[Lexicon/H5301-5400#H5315|that I]] [[Lexicon/H101-200#H183|crave.]]
+
+##### Micah 7 - 2
+[[Lexicon/H2601-2700#H2623|The godly (man)]] [[Lexicon/H1-100#H6|has perished]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H701-800#H776|the earth ;]] [[Lexicon/H301-400#H369|there is no]] [[Lexicon/H3401-3500#H3477|one upright]] [[Lexicon/H101-200#H120|among men.]] [[Lexicon/H3601-3700#H3605|They all]] [[Lexicon/H601-700#H693|lie in wait]] [[Lexicon/H1801-1900#H1818|for blood ;]] [[Lexicon/H6601-6700#H6679|they hunt]] [[Lexicon/H301-400#H376|one]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H251|another]] [[Lexicon/H2701-2800#H2764|with a net.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Micah 7 - 3
 [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H3701-3800#H3709|Both hands]] [[Lexicon/H3101-3200#H3190|are skilled]] [[Lexicon/H7401-7500#H7451|at evil ;]] [[Lexicon/H8201-8300#H8269|the prince]] [[Lexicon/H8101-8200#H8199|and the judge]] [[Lexicon/H7501-7600#H7592|demand]] [[Lexicon/H7901-8000#H7966|a bribe.]] [[Lexicon/H1401-1500#H1419|When the powerful]] [[Lexicon/H1601-1700#H1696|utters]] [[Lexicon/H1901-2000#H1931|his]] [[Lexicon/H1901-2000#H1942|evil]] [[Lexicon/H5301-5400#H5315|desire ,]] [[Lexicon/H5601-5700#H5686|they all conspire together.]]
 
 ##### Micah 7 - 4
+<<<<<<< HEAD
 [[Lexicon/H2801-2900#H2896|The best of them [is]]] [[Lexicon/H2301-2400#H2312|like a brier ;]] [[Lexicon/H3401-3500#H3477|the most upright [is sharper]]] [[Lexicon/H4501-4600#H4534|than a hedge of thorns.]] [[Lexicon/H3101-3200#H3117|The day]] [[Lexicon/H6801-6900#H6822|for your watchmen]] [[Lexicon/H901-1000#H935|has come ,]] [[Lexicon/H6401-6500#H6486|[the day of] your visitation.]] [[Lexicon/H6201-6300#H6258|Now]] [[Lexicon/H1901-2000#H1961|is [the time]]] [[Lexicon/H3901-4000#H3998|of their confusion.]]
+=======
+[[Lexicon/H2801-2900#H2896|The best of them (is)]] [[Lexicon/H2301-2400#H2312|like a brier ;]] [[Lexicon/H3401-3500#H3477|the most upright (is sharper)]] [[Lexicon/H4501-4600#H4534|than a hedge of thorns.]] [[Lexicon/H3101-3200#H3117|The day]] [[Lexicon/H6801-6900#H6822|for your watchmen]] [[Lexicon/H901-1000#H935|has come ,]] [[Lexicon/H6401-6500#H6486|(the day of) your visitation.]] [[Lexicon/H6201-6300#H6258|Now]] [[Lexicon/H1901-2000#H1961|is (the time)]] [[Lexicon/H3901-4000#H3998|of their confusion.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Micah 7 - 5
 [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H501-600#H539|rely]] [[Lexicon/H7401-7500#H7453|on a friend ;]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H901-1000#H982|trust]] [[Lexicon/H401-500#H441|in a companion.]] [[Lexicon/H8101-8200#H8104|Seal]] [[Lexicon/H6601-6700#H6607|the doors]] [[Lexicon/H6301-6400#H6310|of your mouth]] [[Lexicon/H7901-8000#H7901|from her who lies]] [[Lexicon/H2401-2500#H2436|in your arms.]]
 
 ##### Micah 7 - 6
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1101-1200#H1121|a son]] [[Lexicon/H5001-5100#H5034|dishonors]] [[Lexicon/H1-100#H1|his father ,]] [[Lexicon/H1301-1400#H1323|a daughter]] [[Lexicon/H6901-7000#H6965|rises]] [[Lexicon/H501-600#H517|against her mother ,]] [[Lexicon/H3601-3700#H3618|and a daughter-in-law]] [[Lexicon/H2501-2600#H2545|against her mother-in-law.]] [[Lexicon/H301-400#H376|A man’s]] [[Lexicon/H301-400#H341|enemies [are]]] [[Lexicon/H501-600#H582|the members]] [[Lexicon/H1001-1100#H1004|of his own household.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1101-1200#H1121|a son]] [[Lexicon/H5001-5100#H5034|dishonors]] [[Lexicon/H1-100#H1|his father ,]] [[Lexicon/H1301-1400#H1323|a daughter]] [[Lexicon/H6901-7000#H6965|rises]] [[Lexicon/H501-600#H517|against her mother ,]] [[Lexicon/H3601-3700#H3618|and a daughter-in-law]] [[Lexicon/H2501-2600#H2545|against her mother-in-law.]] [[Lexicon/H301-400#H376|A man’s]] [[Lexicon/H301-400#H341|enemies (are)]] [[Lexicon/H501-600#H582|the members]] [[Lexicon/H1001-1100#H1004|of his own household.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Micah 7 - 7
 [[Lexicon/H501-600#H589|But as for me ,]] [[Lexicon/H6801-6900#H6822|I will look]] [[Lexicon/H3001-3100#H3068|to the LORD ;]] [[Lexicon/H3101-3200#H3176|I will wait]] [[Lexicon/H401-500#H430|for the God]] [[Lexicon/H3401-3500#H3468|of my salvation.]] [[Lexicon/H401-500#H430|My God]] [[Lexicon/H8001-8100#H8085|will hear me.]]

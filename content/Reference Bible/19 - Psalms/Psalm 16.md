@@ -26,7 +26,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 16#Psalm 16 - 4|LXX]] |
 
 ##### Psalm 16 - 5
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H4401-4500#H4490|[is] my chosen portion]] [[Lexicon/H2501-2600#H2506|...]] [[Lexicon/H3501-3600#H3563|and my cup ;]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H8501-8600#H8551|have made]] [[Lexicon/H1401-1500#H1486|my lot {secure}.]]
+=======
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H4401-4500#H4490|(is) my chosen portion]] [[Lexicon/H2501-2600#H2506|...]] [[Lexicon/H3501-3600#H3563|and my cup ;]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H8501-8600#H8551|have made]] [[Lexicon/H1401-1500#H1486|my lot {secure}.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 16#Psalm 16 - 5|LXX]] |
 
 ##### Psalm 16 - 6

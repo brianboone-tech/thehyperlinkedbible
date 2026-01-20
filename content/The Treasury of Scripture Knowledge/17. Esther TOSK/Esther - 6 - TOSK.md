@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Esther 6 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/17 - Esther|← Esther]]** | [[The Treasury of Scripture Knowledge/17. Esther TOSK/Esther - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/17. Esther TOSK/Esther - 7 - TOSK|Ch 7 →]]
+=======
+**[[Home/Indexes/Readable Bible/17 - Esther|← Esther]]** | [[The Treasury of Scripture Knowledge/17. Esther TOSK/Esther - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/17. Esther TOSK/Esther - 7 - TOSK|Ch 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

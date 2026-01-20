@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## BRAZEN LAVER (CLEANSING FOR SERVICE) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ICw5q9WkpAM?si=Q20WJL_7ulv2Vlmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -8,6 +16,7 @@ The brazen (bronze) laver stood between the altar of burnt offering and the tabe
 
 **Type Classification**: **Direct Type** (divinely commanded institution) and **Forward-Looking** (expectational elements in the prophetic development).
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Type - Priestly Washing** | **Key Text:**<br>[[Readable Bible/02 - Exodus/Exodus 30#Exodus 30 . 17\|Exodus 30:17-21]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/02 - Exodus 30.17-21\|Exodus 30:17-21]] | God commands Moses to make a bronze laver for washing. Priests must wash their hands and feet "that they may not die" when entering the tent of meeting or approaching the altar. This establishes the principle: cleansing is required before serving in God's presence. The laver's position between altar and tent shows progression from sacrifice (atonement) to washing (sanctification) to service. | |
@@ -23,6 +32,47 @@ The brazen (bronze) laver stood between the altar of burnt offering and the tabe
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Type - Priestly Washing** | [[Readable Bible/02 - Exodus/Exodus 30#Exodus 30 . 17\|Exodus 30:17-21]] | God commands Moses to make a bronze laver for washing. Priests must wash their hands and feet "that they may not die" when entering the tent of meeting or approaching the altar. This establishes the principle: cleansing is required before serving in God's presence. The laver's position between altar and tent shows progression from sacrifice (atonement) to washing (sanctification) to service. | [[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/02 - Exodus 30.17-21\|Exodus 30:17-21]] |
+| 2 | **OT Type - Women's Mirrors** | [[Readable Bible/02 - Exodus/Exodus 38#Exodus 38 . 8\|Exodus 38:8]] | Bezalel made the laver "from the mirrors of the ministering women who ministered at the entrance of the tent of meeting." The transformation of mirrors (instruments of self-focus) into the laver (instrument of cleansing for service) symbolizes the spiritual exchange: self-examination becomes God-focused purification for ministry. | [[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/02 - Exodus 38.8\|Exodus 38:8]] |
+| 3 | **OT Development - Temple Escalation** | [[Readable Bible/11 - 1 Kings/1 Kings 7#1 Kings 7 . 23\|1 Kings 7:23-26, 38-39]] | Solomon's temple escalates the single tabernacle laver to a massive bronze sea (2,000-bath capacity) plus ten bronze basins. 2 Chronicles 4:6 clarifies: "the sea was for the priests to wash in, but the basins were for rinsing the burnt offerings." The escalation from one small laver to massive sea plus ten basins demonstrates the typological principle of increase. | [[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/11 - 1 Kings 7.23-26\|1 Kings 7:23-26]] |
+| 4 | **Prophetic Anticipation - Internal Cleansing** | [[Readable Bible/26 - Ezekiel/Ezekiel 36#Ezekiel 36 . 25\|Ezekiel 36:25-27]] | God promises: "I will sprinkle clean water on you, and you shall be clean... I will give you a new heart and a new spirit... I will put my Spirit within you." This transforms external washing into internal cleansing—what the laver symbolized, God will accomplish directly. The threefold promise (cleansing, new heart, Spirit indwelling) transcends what any physical washing could achieve. **CRITICAL:** [[Intertextuality Pairs/OT to OT/24 - Jeremiah/Jeremiah 31.33 to Ezekiel 36.26-27\|Jer 31:33→Ezek 36:26-27]] **CRITICAL:** [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 36.26-27 to Jeremiah 31.33\|Ezek 36:26-27→Jer 31:33]] | [[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/26 - Ezekiel 36.25-27\|Ezekiel 36:25-27]] |
+| 5 | **Prophetic Anticipation - Cleansing Fountain** | [[Readable Bible/38 - Zechariah/Zechariah 13#Zechariah 13 . 1\|Zechariah 13:1]] | "On that day there shall be a fountain opened for the house of David and the inhabitants of Jerusalem, to cleanse them from sin and uncleanness." This eschatological fountain fulfills what the laver prefigured—permanent, accessible cleansing from sin, not merely ceremonial defilement. The fountain imagery anticipates the "living water" Jesus offers (John 4:10-14; 7:38-39). | [[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/38 - Zechariah 13.1\|Zechariah 13:1]] |
+| 6 | **NT Fulfillment - Washing of Regeneration** | [[Readable Bible/56 - Titus/Titus 3#Titus 3 . 4\|Titus 3:4-7]] | Paul describes salvation as "the washing of regeneration and renewal of the Holy Spirit" (λουτροῦ παλιγγενεσίας). This directly fulfills Ezekiel 36:25-27: Ezekiel's "clean water" → Paul's "washing," Ezekiel's "new spirit" → Paul's "regeneration," Ezekiel's "my Spirit within" → Paul's "renewal of Holy Spirit." What priests did externally at the laver, God does internally through regeneration. **CRITICAL:** [[Intertextuality Pairs/NT to OT/56 - Titus/Titus 3.4-7 to Ezekiel 36.25-27\|Titus 3:4-7→Ezek 36:25-27]] | [[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/56 - Titus 3.5, John 3.5\|Titus 3:5]] |
+| 7 | **NT Fulfillment - Christ Washes the Church** | [[Readable Bible/49 - Ephesians/Ephesians 5#Ephesians 5 . 26\|Ephesians 5:26]] | Christ sanctifies the church "having cleansed her by the washing of water with the word." The laver's purifying function is now Christ's work through His word. The bridal imagery connects to Exodus 38:8's women's mirrors—Christ transforms self-focused humanity into a purified bride prepared for presentation to Himself "without spot or wrinkle" (v. 27). | [[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/49 - Ephesians 5.26\|Ephesians 5:26]] |
+| 8 | **NT Application - Drawing Near with Clean Hearts** | [[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 22\|Hebrews 10:22]] | Believers are invited to "draw near with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water." The dual reference (hearts sprinkled, bodies washed) combines the altar's blood-sprinkling with the laver's water-washing. What required two ritual acts is now accomplished in Christ's singular cleansing. | [[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/58 - Hebrews 10.22\|Hebrews 10:22]] |
+| 9 | **NT Application - Ongoing Cleansing** | [[Readable Bible/62 - 1 John/1 John 1#1 John 1 . 9\|1 John 1:9]] | "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse (καθαρίσῃ) us from all unrighteousness." Like priests who washed repeatedly at the laver before each ministry, believers require ongoing cleansing through confession. The cleansing vocabulary (καθαρίζω) is identical to laver-purification language. This shows NT application of the laver principle: confess and be cleansed for continued fellowship. | [[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/62 - 1 John 1.9\|1 John 1:9]] |
+| 10 | **Eschatological Consummation - River of Life** | [[Readable Bible/66 - Revelation/Revelation 22#Revelation 22 . 1\|Revelation 22:1-2]] | "The river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb." The laver's limited water becomes an inexhaustible river; the bronze basin becomes crystal purity; the tabernacle's furniture gives way to the throne itself as the fountain's source. The tree of life on its banks produces leaves "for the healing of the nations"—eschatological cleansing extending to all peoples. | [[Trajectory Tables - Foundation Texts/Brazen Laver (Cleansing for Service)/66 - Revelation 22.1-2\|Revelation 22:1-2]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+
+**11 - 1 Kings**
+
+- [[Intertextuality Pairs/OT to OT/11 - 1 Kings/1 Kings 7.15-51 to 2 Chronicles 3.15-5\|1 Kings 7.15-51 to 2 Chronicles 3.15-5]] - This expanded range includes the temple furnishings comprehensively, including the bronze sea (1 Kgs 7:23-26) and ten bronze basins (7:38-39), which ARE directly relevant to the laver trajectory. The Chronicles parallel includes the sea (2 Chr 4:2-6) with the important note that "the sea was for the priests to wash in" (4:6). This broader section encompasses both the pillars (tangential) and the actual washing vessels (central). Because verses 23-26 and 38-39 explicitly describe the temple's laver equivalents, this pair has MEDIUM to HIGH relevance despite including non-washing elements. The bronze sea's 2,000-bath capacity shows escalation from the tabernacle laver.
+
+**14 - 2 Chronicles**
+
+- [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 3.15-5 to 1 Kings 7.15-51\|2 Chronicles 3.15-5 to 1 Kings 7.15-51]] - This is the reverse of the previous pair, starting from Chronicles and linking to Kings. Same analysis applies: the range includes the bronze sea and basins used for priestly washing (2 Chr 4:2-6; 1 Kgs 7:23-26, 38-39) along with other temple furnishings. 2 Chronicles 4:6 explicitly states the sea's purpose: "the sea was for the priests to wash in, but the basins were for rinsing the burnt offerings." This direct washing function and the escalation from tabernacle's single laver to temple's massive sea plus ten basins demonstrates the trajectory's development.
+
+**24 - Jeremiah**
+
+- [[Intertextuality Pairs/OT to OT/24 - Jeremiah/Jeremiah 31.33 to Ezekiel 36.26-27\|Jeremiah 31.33 to Ezekiel 36.26-27]] - **CRITICAL:** Jeremiah 31:33 promises the new covenant with law written on hearts (לֵב), while Ezekiel 36:26-27 promises clean water sprinkling, new heart (לֵב חָדָשׁ), new spirit, and God's Spirit within. Both texts address internal transformation (new heart/spirit) that goes beyond external washing. Ezekiel 36:25's "clean water" (מַיִם טְהוֹרִים) directly echoes laver vocabulary, showing how the physical washing ritual pointed to spiritual reality. The pair demonstrates OT-internal development from covenant promise (Jeremiah) to cleansing implementation (Ezekiel). This is prophetic anticipation of what the laver symbolized - divine cleansing producing new hearts.
+
+**26 - Ezekiel**
+
+- [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 36.26-27 to Ezekiel 11.19-20\|Ezekiel 36.26-27 to Ezekiel 11.19-20]] - Extended ranges of both Ezekiel promises, adding the Spirit component (36:27; 11:20 - "I will put my Spirit within you"). This demonstrates Ezekiel's integrated vision: cleansing (36:25) + new heart (36:26) + Spirit indwelling (36:27) as unified work. The laver provided external cleansing; this prophetic vision promises God will accomplish internal cleansing, heart renewal, and Spirit empowerment. The connection to laver trajectory is through the escalation from human washing to divine transformation.
+
+- [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 36.26-27 to Jeremiah 31.33\|Ezekiel 36.26-27 to Jeremiah 31.33]] - **CRITICAL:** Expanded range adding the Spirit promise (Ezek 36:27). This fuller Ezekiel citation strengthens the connection to Jeremiah's covenant promise by showing the complete package: washing (v. 25), new heart (v. 26), Spirit indwelling (v. 27), and covenant obedience (v. 27). Demonstrates how the new covenant fulfills what the laver symbolized - not just external washing but comprehensive transformation. The Spirit component shows divine agency replacing human effort (priests washing themselves vs. God cleansing His people).
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 ### 1. What You Must Do

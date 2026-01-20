@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Hosea 5 - 1
+<<<<<<< HEAD
 [[Lexicon/H8001-8100#H8085|[“] Hear]] [[Lexicon/H2001-2100#H2063|this ,]] [[Lexicon/H3501-3600#H3548|O priests !]] [[Lexicon/H7101-7200#H7181|Take heed ,]] [[Lexicon/H1001-1100#H1004|O house]] [[Lexicon/H3401-3500#H3478|of Israel !]] [[Lexicon/H201-300#H238|Give ear ,]] [[Lexicon/H4401-4500#H4428|O royal]] [[Lexicon/H1001-1100#H1004|house !]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4901-5000#H4941|this judgment]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1961|you have been]] [[Lexicon/H6301-6400#H6341|a snare]] [[Lexicon/H4701-4800#H4709|at Mizpah ,]] [[Lexicon/H7501-7600#H7568|a net]] [[Lexicon/H6501-6600#H6566|spread out]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H8301-8400#H8396|Tabor.]]
+=======
+[[Lexicon/H8001-8100#H8085|(“) Hear]] [[Lexicon/H2001-2100#H2063|this ,]] [[Lexicon/H3501-3600#H3548|O priests !]] [[Lexicon/H7101-7200#H7181|Take heed ,]] [[Lexicon/H1001-1100#H1004|O house]] [[Lexicon/H3401-3500#H3478|of Israel !]] [[Lexicon/H201-300#H238|Give ear ,]] [[Lexicon/H4401-4500#H4428|O royal]] [[Lexicon/H1001-1100#H1004|house !]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4901-5000#H4941|this judgment]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1961|you have been]] [[Lexicon/H6301-6400#H6341|a snare]] [[Lexicon/H4701-4800#H4709|at Mizpah ,]] [[Lexicon/H7501-7600#H7568|a net]] [[Lexicon/H6501-6600#H6566|spread out]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H8301-8400#H8396|Tabor.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Hosea 5 - 2
 [[Lexicon/H7801-7900#H7846|The rebels]] [[Lexicon/H6001-6100#H6009|are deep]] [[Lexicon/H7801-7900#H7819|in slaughter ;]] [[Lexicon/H501-600#H589|but I]] [[Lexicon/H4101-4200#H4148|will chastise them]] [[Lexicon/H3601-3700#H3605|all.]]
@@ -46,10 +50,17 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H589|So I am]] [[Lexicon/H6201-6300#H6211|like a moth]] [[Lexicon/H601-700#H669|to Ephraim ,]] [[Lexicon/H7501-7600#H7538|and like decay]] [[Lexicon/H1001-1100#H1004|to the house]] [[Lexicon/H3001-3100#H3063|of Judah.]]
 
 ##### Hosea 5 - 13
+<<<<<<< HEAD
 [[Lexicon/H601-700#H669|When Ephraim]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H2401-2500#H2483|his sickness]] [[Lexicon/H3001-3100#H3063|and Judah]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4205|his wound ,]] [[Lexicon/H601-700#H669|then Ephraim]] [[Lexicon/H1901-2000#H1980|turned]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H801-900#H804|Assyria]] [[Lexicon/H7901-8000#H7971|and sent]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3301-3400#H3377|the great]] [[Lexicon/H4401-4500#H4428|king.]] [[Lexicon/H1901-2000#H1931|But he]] [[Lexicon/H3801-3900#H3808|cannot]] [[Lexicon/H3201-3300#H3201|...]] [[Lexicon/H7401-7500#H7495|cure]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H1401-1500#H1455|heal]] [[Lexicon/H4201-4300#H4205|your wound.]]
 
 ##### Hosea 5 - 14
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H7801-7900#H7826|am like a lion]] [[Lexicon/H601-700#H669|to Ephraim]] [[Lexicon/H3701-3800#H3715|and like a young lion]] [[Lexicon/H1001-1100#H1004|to the house]] [[Lexicon/H3001-3100#H3063|of Judah.]] [[Lexicon/H501-600#H589|I ,]] [[Lexicon/H501-600#H589|[even] I ,]] [[Lexicon/H2901-3000#H2963|will tear them to pieces]] [[Lexicon/H1901-2000#H1980|and then go away.]] [[Lexicon/H5301-5400#H5375|I will carry them off]] [[Lexicon/H301-400#H369|[where] no one]] [[Lexicon/H5301-5400#H5337|can rescue them.]]
+=======
+[[Lexicon/H601-700#H669|When Ephraim]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H2401-2500#H2483|his sickness]] [[Lexicon/H3001-3100#H3063|and Judah]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4205|his wound ,]] [[Lexicon/H601-700#H669|then Ephraim]] [[Lexicon/H1901-2000#H1980|turned]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H801-900#H804|Assyria]] [[Lexicon/H7901-8000#H7971|and sent]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3301-3400#H3377|the great]] [[Lexicon/H4401-4500#H4428|king.]] [[Lexicon/H1901-2000#H1931|But he]] [[Lexicon/H3801-3900#H3808|cannot]] [[Lexicon/H3201-3300#H3201|...]] [[Lexicon/H7401-7500#H7495|cure]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H1401-1500#H1455|heal]] [[Lexicon/H4201-4300#H4205|your wound.]]
+
+##### Hosea 5 - 14
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H7801-7900#H7826|am like a lion]] [[Lexicon/H601-700#H669|to Ephraim]] [[Lexicon/H3701-3800#H3715|and like a young lion]] [[Lexicon/H1001-1100#H1004|to the house]] [[Lexicon/H3001-3100#H3063|of Judah.]] [[Lexicon/H501-600#H589|I ,]] [[Lexicon/H501-600#H589|(even) I ,]] [[Lexicon/H2901-3000#H2963|will tear them to pieces]] [[Lexicon/H1901-2000#H1980|and then go away.]] [[Lexicon/H5301-5400#H5375|I will carry them off]] [[Lexicon/H301-400#H369|(where) no one]] [[Lexicon/H5301-5400#H5337|can rescue them.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Hosea 5 - 15
 [[Lexicon/H1901-2000#H1980|Then I will return]] [[Lexicon/H7701-7800#H7725|...]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4701-4800#H4725|My place]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H816|they admit their guilt]] [[Lexicon/H1201-1300#H1245|and seek]] [[Lexicon/H6401-6500#H6440|My face ;]] [[Lexicon/H6801-6900#H6862|in their affliction]] [[Lexicon/H7801-7900#H7836|they will earnestly seek Me]]

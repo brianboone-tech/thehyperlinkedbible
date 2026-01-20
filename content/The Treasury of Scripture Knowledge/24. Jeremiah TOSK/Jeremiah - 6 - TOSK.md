@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Jeremiah 6 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 7 - TOSK|Ch 7 →]]
+=======
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 7 - TOSK|Ch 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 43
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 42#Psalm-R 42| Psalm 42]] - [[Readable Bible/19 - Psalms/Psalm 44#Psalm-R 44| Psalm 44]]
+=======
+# Psalm 43
+
+[[Readable Bible/19 - Psalms/Psalm 42|← Psalm 42]] | [[Readable Bible/19 - Psalms/Psalm 44|Psalm 44 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

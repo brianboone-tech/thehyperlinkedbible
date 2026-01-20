@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 29
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 28#Ezekiel-R 28| Ezekiel 28]] - [[Readable Bible/26 - Ezekiel/Ezekiel 30#Ezekiel-R 30| Ezekiel 30]]
+=======
+# Ezekiel 29
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 28|← Ezekiel 28]] | [[Readable Bible/26 - Ezekiel/Ezekiel 30|Ezekiel 30 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

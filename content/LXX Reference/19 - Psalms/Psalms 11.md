@@ -12,7 +12,11 @@ Testament: Old
 ---
 
 #### Psalms 11 - 1
+<<<<<<< HEAD
 [[Lexicon/G1901-2000#G1909|Upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3982|I have yielded.]] [[Lexicon/G4401-4500#G4459|How]] [[Lexicon/G2001-2100#G2046|shall you say]] [[Lexicon/G5501-5600#G5590|my soul,]] [[Lexicon/G3301-3400#G3339|Migrate]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3735|mountains]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4701-4800#G4765|a sparrow?]]
+=======
+[[Lexicon/G1901-2000#G1909|Upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3982|I have yielded.]] [[Lexicon/G4401-4500#G4459|How]] [[Lexicon/G2001-2100#G2046|shall you say]] [[Lexicon/G5501-5600#G5590|my soul,]] [[Lexicon/G3301-3400#G3339|Migrate]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3735|mountains]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4701-4800#G4765|a sparrow?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 11 - 2
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0268|sinners]] [[Lexicon/G1701-1800#G1780|stretch tight]] [[Lexicon/G2001-2100#G2090|they prepare]] [[Lexicon/G901-1000#G0956|arrows]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2601-2700#G2700|to shoot]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4601-4700#G4654|moonlight]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2101-2200#G2117|straight]] [[Lexicon/G2501-2600#G2588|in heart.]]

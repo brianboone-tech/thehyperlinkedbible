@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Isaiah-R 49
 
 **[[Home/Scripture/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 48#Isaiah-R 48| Isaiah 48]] - [[Readable Bible/23 - Isaiah/Isaiah 50#Isaiah-R 50| Isaiah 50]]
+=======
+# Isaiah 49
+
+[[Readable Bible/23 - Isaiah/Isaiah 48|← Isaiah 48]] | [[Readable Bible/23 - Isaiah/Isaiah 50|Isaiah 50 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -24,7 +24,11 @@ Testament: Old
 [[Lexicon/G101-200#G0153|Let be ashamed]] [[Lexicon/G601-700#G0654|Let them be turned]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3694|rear,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2617|let be disgraced]]
 
 #### Psalms 35 - 5
+<<<<<<< HEAD
 [[Lexicon/G1001-1100#G1096|Let them become]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5501-5600#G5522|dust]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G401-500#G0417|of the wind!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0032|an angel]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G1501-1600#G1570|squeezing]] [[Lexicon/G1401-1500#G1473|them.]]
+=======
+[[Lexicon/G1001-1100#G1096|Let them become]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5501-5600#G5522|dust]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G401-500#G0417|of the wind!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0032|an angel]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G1501-1600#G1570|squeezing]] [[Lexicon/G1401-1500#G1473|them.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 35 - 6
 [[Lexicon/G1001-1100#G1096|Let become]] [[Lexicon/G4601-4700#G4655|darkness]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3643|slippery!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0032|an angel]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G2601-2700#G2614|pursuing]] [[Lexicon/G1401-1500#G1473|them.]]
@@ -51,7 +55,11 @@ Testament: Old
 [[Lexicon/G1401-1500#G1473|But I,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|their]] [[Lexicon/G3901-4000#G3926|troubling]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G1701-1800#G1746|put on]] [[Lexicon/G4501-4600#G4526|sackcloth.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5001-5100#G5013|I humbled]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4335|my prayer]] [[Lexicon/G1501-1600#G1519|unto]]
 
 #### Psalms 35 - 14
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G4101-4200#G4139|a neighbor,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1-100#G0080|brother]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G2001-2100#G2100|they were well-pleasing.]] [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G3901-4000#G3996|mourning]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4658|looking downcast]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G5001-5100#G5013|I humbled myself.]]
+=======
+[[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G4101-4200#G4139|a neighbor,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1-100#G0080|brother]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G2001-2100#G2100|they were well-pleasing.]] [[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G3901-4000#G3996|mourning]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4658|looking downcast]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G5001-5100#G5013|I humbled myself.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 35 - 15
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G2101-2200#G2165|they were glad]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4801-4900#G4863|they gathered together;]] [[Lexicon/G4801-4900#G4863|they gathered together]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|I did not]] [[Lexicon/G1001-1100#G1097|know;]] [[Lexicon/G1201-1300#G1294|they were cut asunder]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|were not]] [[Lexicon/G2601-2700#G2660|vexed.]]

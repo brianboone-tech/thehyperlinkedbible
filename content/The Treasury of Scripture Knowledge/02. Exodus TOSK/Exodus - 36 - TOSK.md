@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Exodus 36 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 35 - TOSK|← Ch 35]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 37 - TOSK|Ch 37 →]]
+=======
+**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 35 - TOSK|← Ch 35]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 37 - TOSK|Ch 37 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Joshua-R 17
 
 **[[Home/Scripture/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 16#Joshua-R 16| Joshua 16]] - [[Readable Bible/06 - Joshua/Joshua 18#Joshua-R 18| Joshua 18]]
+=======
+# Joshua 17
+
+[[Readable Bible/06 - Joshua/Joshua 16|← Joshua 16]] | [[Readable Bible/06 - Joshua/Joshua 18|Joshua 18 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Joshua 17 . 1
+<<<<<<< HEAD
 [[Reference Bible/6 - Joshua/Joshua 17#Joshua 17 - 1|1]] Now this was the allotment for the tribe of Manasseh as Joseph’s firstborn son, namely for Machir the firstborn of Manasseh and father of the Gileadites, who had received Gilead and Bashan because Machir was a man of war.   || [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 17 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/6 - Joshua/Joshua 17#Joshua 17 - 1|1]] Now this was the allotment for the tribe of Manasseh as Joseph’s firstborn son, namely for Machir the firstborn of Manasseh and father of the Gileadites, who had received Gilead and Bashan because Machir was a man of war.  | | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 17 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Joshua 17 . 2
 [[Reference Bible/6 - Joshua/Joshua 17#Joshua 17 - 2|2]] So this allotment was for the rest of the descendants of Manasseh—the clans of Abiezer, Helek, Asriel, Shechem, Hepher, and Shemida. These are the other male descendants of the clans of Manasseh son of Joseph.  | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 17 - TOSK#Verse 2|TOSK]] |

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Hosea-R 14
 
 **[[Home/Scripture/28 - Hosea|Hosea]]**
 
 [[Readable Bible/28 - Hosea/Hosea 13#Hosea-R 13| Hosea 13]]
+=======
+# Hosea 14
+
+[[Readable Bible/28 - Hosea/Hosea 13|← Hosea 13]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

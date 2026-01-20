@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Luke-R 9
 
 **[[Home/Scripture/42 - Luke|Luke]]**
 
 [[Readable Bible/42 - Luke/Luke 8#Luke-R 8| Luke 8]] - [[Readable Bible/42 - Luke/Luke 10#Luke-R 10| Luke 10]]
+=======
+# Luke 9
+
+[[Readable Bible/42 - Luke/Luke 8|← Luke 8]] | [[Readable Bible/42 - Luke/Luke 10|Luke 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

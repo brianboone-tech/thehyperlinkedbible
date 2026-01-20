@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Judges-R 14
 
 **[[Home/Scripture/07 - Judges|Judges]]**
 
 [[Readable Bible/07 - Judges/Judges 13#Judges-R 13| Judges 13]] - [[Readable Bible/07 - Judges/Judges 15#Judges-R 15| Judges 15]]
+=======
+# Judges 14
+
+[[Readable Bible/07 - Judges/Judges 13|← Judges 13]] | [[Readable Bible/07 - Judges/Judges 15|Judges 15 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

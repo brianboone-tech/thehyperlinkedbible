@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Philemon-R 1
 
 **[[Home/Scripture/57 - Philemon|Philemon]]**
 
 [[Readable Bible/56 - Titus/Titus 3#Titus-R 3| Titus 3]]
+=======
+# Philemon 1
+
+[[Readable Bible/56 - Titus/Titus 3|Titus 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

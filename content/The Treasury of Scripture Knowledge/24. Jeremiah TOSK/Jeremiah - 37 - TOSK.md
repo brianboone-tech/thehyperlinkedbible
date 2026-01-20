@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Jeremiah 37 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 36 - TOSK|← Ch 36]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 38 - TOSK|Ch 38 →]]
+=======
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 36 - TOSK|← Ch 36]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 38 - TOSK|Ch 38 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

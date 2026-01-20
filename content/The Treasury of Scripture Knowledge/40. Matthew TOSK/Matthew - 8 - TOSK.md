@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Matthew 8 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 9 - TOSK|Ch 9 →]]
+=======
+**[[Home/Indexes/Readable Bible/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 9 - TOSK|Ch 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

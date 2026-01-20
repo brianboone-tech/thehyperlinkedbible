@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 21
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 20#Ezekiel-R 20| Ezekiel 20]] - [[Readable Bible/26 - Ezekiel/Ezekiel 22#Ezekiel-R 22| Ezekiel 22]]
+=======
+# Ezekiel 21
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 20|← Ezekiel 20]] | [[Readable Bible/26 - Ezekiel/Ezekiel 22|Ezekiel 22 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Ezekiel 21 . 1
+<<<<<<< HEAD
 [[Reference Bible/26 - Ezekiel/Ezekiel 21#Ezekiel 21 - 1|1]] And the word of the LORD came to me, saying,   || [[Chiasm/Chiasm - 26 - Ezekiel 21 . 1 - 5|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 21 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/26 - Ezekiel/Ezekiel 21#Ezekiel 21 - 1|1]] And the word of the LORD came to me, saying,  | | [[Chiasm/Chiasm - 26 - Ezekiel 21 . 1 - 5|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 21 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 21 . 2
 [[Reference Bible/26 - Ezekiel/Ezekiel 21#Ezekiel 21 - 2|2]] “Son of man, set your face against Jerusalem and preach against the sanctuaries. Prophesy against the land of Israel  | [[Chiasm/Chiasm - 26 - Ezekiel 21 . 1 - 5|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 21 - TOSK#Verse 2|TOSK]] |

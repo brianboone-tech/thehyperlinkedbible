@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 1 Chronicles 14 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/13 - 1 Chronicles|← 1 Chronicles]]** | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 15 - TOSK|Ch 15 →]]
+=======
+**[[Home/Indexes/Readable Bible/13 - 1 Chronicles|← 1 Chronicles]]** | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 13 - TOSK|← Ch 13]] | [[The Treasury of Scripture Knowledge/13. 1 Chronicles TOSK/1 Chronicles - 15 - TOSK|Ch 15 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

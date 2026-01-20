@@ -14,7 +14,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 69#Psalm 69 - 1|LXX]] |
 
 ##### Psalm 69 - 2
+<<<<<<< HEAD
 [[Lexicon/H2801-2900#H2883|I have sunk]] [[Lexicon/H3101-3200#H3121|into the miry]] [[Lexicon/H4601-4700#H4688|depths ,]] [[Lexicon/H301-400#H369|where [there is] no]] [[Lexicon/H4601-4700#H4613|footing ;]] [[Lexicon/H901-1000#H935|I have drifted]] [[Lexicon/H4601-4700#H4615|into deep]] [[Lexicon/H4301-4400#H4325|waters ,]] [[Lexicon/H7601-7700#H7641|where the flood]] [[Lexicon/H7801-7900#H7857|engulfs me.]]
+=======
+[[Lexicon/H2801-2900#H2883|I have sunk]] [[Lexicon/H3101-3200#H3121|into the miry]] [[Lexicon/H4601-4700#H4688|depths ,]] [[Lexicon/H301-400#H369|where (there is) no]] [[Lexicon/H4601-4700#H4613|footing ;]] [[Lexicon/H901-1000#H935|I have drifted]] [[Lexicon/H4601-4700#H4615|into deep]] [[Lexicon/H4301-4400#H4325|waters ,]] [[Lexicon/H7601-7700#H7641|where the flood]] [[Lexicon/H7801-7900#H7857|engulfs me.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 69#Psalm 69 - 2|LXX]] |
 
 ##### Psalm 69 - 3
@@ -122,7 +126,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 69#Psalm 69 - 28|LXX]] |
 
 ##### Psalm 69 - 29
+<<<<<<< HEAD
 [[Lexicon/H501-600#H589|But I [am]]] [[Lexicon/H6001-6100#H6041|in pain]] [[Lexicon/H3501-3600#H3510|and distress ;]] [[Lexicon/H3401-3500#H3444|let Your salvation]] [[Lexicon/H7601-7700#H7682|protect me ,]] [[Lexicon/H401-500#H430|O God.]]
+=======
+[[Lexicon/H501-600#H589|But I (am)]] [[Lexicon/H6001-6100#H6041|in pain]] [[Lexicon/H3501-3600#H3510|and distress ;]] [[Lexicon/H3401-3500#H3444|let Your salvation]] [[Lexicon/H7601-7700#H7682|protect me ,]] [[Lexicon/H401-500#H430|O God.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 69#Psalm 69 - 29|LXX]] |
 
 ##### Psalm 69 - 30

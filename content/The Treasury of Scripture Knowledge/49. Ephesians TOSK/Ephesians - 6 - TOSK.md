@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Ephesians 6 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/49 - Ephesians|← Ephesians]]** | [[The Treasury of Scripture Knowledge/49. Ephesians TOSK/Ephesians - 5 - TOSK|← Ch 5]]
+=======
+**[[Home/Indexes/Readable Bible/49 - Ephesians|← Ephesians]]** | [[The Treasury of Scripture Knowledge/49. Ephesians TOSK/Ephesians - 5 - TOSK|← Ch 5]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

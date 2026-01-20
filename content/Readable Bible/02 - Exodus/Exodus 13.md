@@ -5,6 +5,7 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Exodus-R 13
 
 **[[Home/Scripture/02 - Exodus|Exodus]]**
@@ -14,6 +15,15 @@ cssClasses: lexicon
 ---
 ##### Exodus 13 . 1
 [[Reference Bible/2 - Exodus/Exodus 13#Exodus 13 - 1|1]] Then the LORD said to Moses,  | [[Intertextuality Pairs/NT to OT/42 - Luke/Luke 2.22-23 to Exodus 13.1|IP]] |  || [[Intertextuality Pairs/NT to OT/42 - Luke/Luke 2.22-23 to Exodus 13.1|IP]] | [[Chiasm/Chiasm - 02 - Exodus 13 . 1 - 16|C]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 13 - TOSK#Verse 1|TOSK]] |
+=======
+# Exodus 13
+
+[[Readable Bible/02 - Exodus/Exodus 12|← Exodus 12]] | [[Readable Bible/02 - Exodus/Exodus 14|Exodus 14 →]]
+
+---
+##### Exodus 13 . 1
+[[Reference Bible/2 - Exodus/Exodus 13#Exodus 13 - 1|1]] Then the LORD said to Moses,  | [[Intertextuality Pairs/NT to OT/42 - Luke/Luke 2.22-23 to Exodus 13.1|IP]] | | | [[Intertextuality Pairs/NT to OT/42 - Luke/Luke 2.22-23 to Exodus 13.1|IP]] | [[Chiasm/Chiasm - 02 - Exodus 13 . 1 - 16|C]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 13 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Exodus 13 . 2
 [[Reference Bible/2 - Exodus/Exodus 13#Exodus 13 - 2|2]] "Consecrate to Me every firstborn male. The firstborn from every womb among the Israelites belongs to Me, both of man and beast."  | [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 13.2 to Numbers 3.11-13|IP¹]] | [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 13.2 to Numbers 3.11|IP²]] | [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 13.2 to Numbers 3.8|IP³]] | [[Chiasm/Chiasm - 02 - Exodus 13 . 1 - 16|C]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 13 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/096 - Levites (Substitutionary Service)|TT¹]] | [[Trajectory Tables/061 - First-Born Redemption (Consecration to God)|TT²]] | [[Trajectory Tables/096 - Levites (Substitutionary Service)|TT²]] |

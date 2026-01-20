@@ -45,7 +45,11 @@ Chapter: "7"
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 8|LXX]] |
 
 ##### Exodus 7 - 9
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|“ When]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H1601-1700#H1696|tells you ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H501-600#H559|]] [[Lexicon/H5401-5500#H5414|‘ Perform]] [[Lexicon/H4101-4200#H4159|a miracle , ’]] [[Lexicon/H501-600#H559|you are to say]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H175|to Aaron ,]] [[Lexicon/H3901-4000#H3947|‘ Take]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4294|your staff]] [[Lexicon/H7901-8000#H7993|and throw it down]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H6501-6600#H6547|Pharaoh , ’]] [[Lexicon/H1901-2000#H1961|[and] it {will} become]] [[Lexicon/H8501-8600#H8577|a serpent. ”]]
+=======
+[[Lexicon/H3501-3600#H3588|“ When]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H1601-1700#H1696|tells you ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H501-600#H559|]] [[Lexicon/H5401-5500#H5414|‘ Perform]] [[Lexicon/H4101-4200#H4159|a miracle , ’]] [[Lexicon/H501-600#H559|you are to say]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H175|to Aaron ,]] [[Lexicon/H3901-4000#H3947|‘ Take]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4294|your staff]] [[Lexicon/H7901-8000#H7993|and throw it down]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H6501-6600#H6547|Pharaoh , ’]] [[Lexicon/H1901-2000#H1961|(and) it {will} become]] [[Lexicon/H8501-8600#H8577|a serpent. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 9|LXX]] |
 
 ##### Exodus 7 - 10
@@ -57,7 +61,11 @@ Chapter: "7"
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 11|LXX]] |
 
 ##### Exodus 7 - 12
+<<<<<<< HEAD
 [[Lexicon/H301-400#H376|Each]] [[Lexicon/H7901-8000#H7993|one threw down]] [[Lexicon/H4201-4300#H4294|his staff ,]] [[Lexicon/H1901-2000#H1961|and it became]] [[Lexicon/H8501-8600#H8577|a serpent.]] [[Lexicon/H101-200#H175|But Aaron’s]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4294|staff]] [[Lexicon/H1101-1200#H1104|swallowed up]] [[Lexicon/H4201-4300#H4294|[the other] staffs.]]
+=======
+[[Lexicon/H301-400#H376|Each]] [[Lexicon/H7901-8000#H7993|one threw down]] [[Lexicon/H4201-4300#H4294|his staff ,]] [[Lexicon/H1901-2000#H1961|and it became]] [[Lexicon/H8501-8600#H8577|a serpent.]] [[Lexicon/H101-200#H175|But Aaron’s]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4294|staff]] [[Lexicon/H1101-1200#H1104|swallowed up]] [[Lexicon/H4201-4300#H4294|(the other) staffs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 12|LXX]] |
 
 ##### Exodus 7 - 13
@@ -65,7 +73,11 @@ Chapter: "7"
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 13|LXX]] |
 
 ##### Exodus 7 - 14
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H6501-6600#H6547|“ Pharaoh’s]] [[Lexicon/H3801-3900#H3820|heart]] [[Lexicon/H3501-3600#H3515|[is] unyielding ;]] [[Lexicon/H3901-4000#H3985|he refuses]] [[Lexicon/H5901-6000#H5971|to let the people]] [[Lexicon/H7901-8000#H7971|go.]]
+=======
+[[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H6501-6600#H6547|“ Pharaoh’s]] [[Lexicon/H3801-3900#H3820|heart]] [[Lexicon/H3501-3600#H3515|(is) unyielding ;]] [[Lexicon/H3901-4000#H3985|he refuses]] [[Lexicon/H5901-6000#H5971|to let the people]] [[Lexicon/H7901-8000#H7971|go.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 14|LXX]] |
 
 ##### Exodus 7 - 15
@@ -85,11 +97,19 @@ Chapter: "7"
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 18|LXX]] |
 
 ##### Exodus 7 - 19
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|And the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H501-600#H559|“ Tell]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H175|Aaron ,]] [[Lexicon/H3901-4000#H3947|‘ Take]] [[Lexicon/H4201-4300#H4294|your staff]] [[Lexicon/H5101-5200#H5186|and stretch out]] [[Lexicon/H3001-3100#H3027|your hand]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H4701-4800#H4714|of Egypt —]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H5101-5200#H5104|their rivers]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H2901-3000#H2975|[and] canals]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H1-100#H98|and ponds]] [[Lexicon/H5901-6000#H5921|and]] [[Lexicon/H3601-3700#H3605|vvv]] [[Lexicon/H4301-4400#H4325|vvv]] [[Lexicon/H4701-4800#H4723|reservoirs —]] [[Lexicon/H1901-2000#H1961|that they may become]] [[Lexicon/H1801-1900#H1818|blood. ’]] [[Lexicon/H1901-2000#H1961|There will be]] [[Lexicon/H1801-1900#H1818|blood]] [[Lexicon/H3601-3700#H3605|throughout]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H6001-6100#H6086|even in the vessels of wood]] [[Lexicon/H1-100#H68|and stone. ”]]
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 19|LXX]] |
 
 ##### Exodus 7 - 20
 [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H101-200#H175|and Aaron]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6601-6700#H6680|had commanded ;]] [[Lexicon/H5801-5900#H5869|in the presence]] [[Lexicon/H6501-6600#H6547|of Pharaoh]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H5601-5700#H5650|and his officials ,]] [[Lexicon/H7301-7400#H7311|[Aaron] raised]] [[Lexicon/H4201-4300#H4294|the staff]] [[Lexicon/H5201-5300#H5221|and struck]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2901-3000#H2975|of the Nile ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2901-3000#H2975|-]] [[Lexicon/H2001-2100#H2015|was turned]] [[Lexicon/H1801-1900#H1818|to blood.]]
+=======
+[[Lexicon/H3001-3100#H3068|And the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H501-600#H559|“ Tell]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H175|Aaron ,]] [[Lexicon/H3901-4000#H3947|‘ Take]] [[Lexicon/H4201-4300#H4294|your staff]] [[Lexicon/H5101-5200#H5186|and stretch out]] [[Lexicon/H3001-3100#H3027|your hand]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H4701-4800#H4714|of Egypt —]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H5101-5200#H5104|their rivers]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H2901-3000#H2975|(and) canals]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H1-100#H98|and ponds]] [[Lexicon/H5901-6000#H5921|and]] [[Lexicon/H3601-3700#H3605|vvv]] [[Lexicon/H4301-4400#H4325|vvv]] [[Lexicon/H4701-4800#H4723|reservoirs —]] [[Lexicon/H1901-2000#H1961|that they may become]] [[Lexicon/H1801-1900#H1818|blood. ’]] [[Lexicon/H1901-2000#H1961|There will be]] [[Lexicon/H1801-1900#H1818|blood]] [[Lexicon/H3601-3700#H3605|throughout]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H6001-6100#H6086|even in the vessels of wood]] [[Lexicon/H1-100#H68|and stone. ”]]
+| [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 19|LXX]] |
+
+##### Exodus 7 - 20
+[[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H101-200#H175|and Aaron]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6601-6700#H6680|had commanded ;]] [[Lexicon/H5801-5900#H5869|in the presence]] [[Lexicon/H6501-6600#H6547|of Pharaoh]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H5601-5700#H5650|and his officials ,]] [[Lexicon/H7301-7400#H7311|(Aaron) raised]] [[Lexicon/H4201-4300#H4294|the staff]] [[Lexicon/H5201-5300#H5221|and struck]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2901-3000#H2975|of the Nile ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2901-3000#H2975|-]] [[Lexicon/H2001-2100#H2015|was turned]] [[Lexicon/H1801-1900#H1818|to blood.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 20|LXX]] |
 
 ##### Exodus 7 - 21
@@ -97,7 +117,11 @@ Chapter: "7"
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 21|LXX]] |
 
 ##### Exodus 7 - 22
+<<<<<<< HEAD
 [[Lexicon/H2701-2800#H2748|But the magicians]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3601-3700#H3651|the same things]] [[Lexicon/H3901-4000#H3909|by their magic arts.]] [[Lexicon/H6501-6600#H6547|So Pharaoh’s]] [[Lexicon/H3801-3900#H3820|heart]] [[Lexicon/H2301-2400#H2388|was hardened ,]] [[Lexicon/H3801-3900#H3808|and he would not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H401-500#H413|to [Moses and Aaron] ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|had said.]]
+=======
+[[Lexicon/H2701-2800#H2748|But the magicians]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3601-3700#H3651|the same things]] [[Lexicon/H3901-4000#H3909|by their magic arts.]] [[Lexicon/H6501-6600#H6547|So Pharaoh’s]] [[Lexicon/H3801-3900#H3820|heart]] [[Lexicon/H2301-2400#H2388|was hardened ,]] [[Lexicon/H3801-3900#H3808|and he would not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H401-500#H413|to (Moses and Aaron) ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|had said.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 7#Exodus 7 - 22|LXX]] |
 
 ##### Exodus 7 - 23

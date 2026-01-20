@@ -18,7 +18,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 110#Psalm 110 - 2|LXX]] |
 
 ##### Psalm 110 - 3
+<<<<<<< HEAD
 [[Lexicon/H5901-6000#H5971|Your people]] [[Lexicon/H5001-5100#H5071|[shall be] willing]] [[Lexicon/H3101-3200#H3117|on Your day]] [[Lexicon/H2401-2500#H2428|of battle.]] [[Lexicon/H6901-7000#H6944|Arrayed in holy]] [[Lexicon/H1901-2000#H1926|splendor ,]] [[Lexicon/H7301-7400#H7358|from the womb]] [[Lexicon/H4801-4900#H4891|of the dawn ,]] [[Lexicon/H2901-3000#H2919|the dew]] [[Lexicon/H3201-3300#H3208|of Your youth.]]
+=======
+[[Lexicon/H5901-6000#H5971|Your people]] [[Lexicon/H5001-5100#H5071|(shall be) willing]] [[Lexicon/H3101-3200#H3117|on Your day]] [[Lexicon/H2401-2500#H2428|of battle.]] [[Lexicon/H6901-7000#H6944|Arrayed in holy]] [[Lexicon/H1901-2000#H1926|splendor ,]] [[Lexicon/H7301-7400#H7358|from the womb]] [[Lexicon/H4801-4900#H4891|of the dawn ,]] [[Lexicon/H2901-3000#H2919|the dew]] [[Lexicon/H3201-3300#H3208|of Your youth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 110#Psalm 110 - 3|LXX]] |
 
 ##### Psalm 110 - 4

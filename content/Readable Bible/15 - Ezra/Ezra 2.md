@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezra-R 2
 
 **[[Home/Scripture/15 - Ezra|Ezra]]**
 
 [[Readable Bible/15 - Ezra/Ezra 1#Ezra-R 1| Ezra 1]] - [[Readable Bible/15 - Ezra/Ezra 3#Ezra-R 3| Ezra 3]]
+=======
+# Ezra 2
+
+[[Readable Bible/15 - Ezra/Ezra 1|← Ezra 1]] | [[Readable Bible/15 - Ezra/Ezra 3|Ezra 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

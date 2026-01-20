@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ecclesiastes-R 9
 
 **[[Home/Scripture/21 - Ecclesiastes|Ecclesiastes]]**
 
 [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 8#Ecclesiastes-R 8| Ecclesiastes 8]] - [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 10#Ecclesiastes-R 10| Ecclesiastes 10]]
+=======
+# Ecclesiastes 9
+
+[[Readable Bible/21 - Ecclesiastes/Ecclesiastes 8|← Ecclesiastes 8]] | [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 10|Ecclesiastes 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

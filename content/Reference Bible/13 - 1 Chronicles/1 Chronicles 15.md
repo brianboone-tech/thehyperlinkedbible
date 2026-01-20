@@ -39,13 +39,21 @@ Book: 1 Chronicles
 [[Lexicon/H1101-1200#H1121|from the Hebronites]] [[Lexicon/H2201-2300#H2275|... ,]] [[Lexicon/H401-500#H447|Eliel]] [[Lexicon/H8201-8300#H8269|the chief]] [[Lexicon/H8001-8100#H8084|and 80]] [[Lexicon/H201-300#H251|of his relatives ;]]
 
 ##### 1 Chronicles 15 - 10
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|[and] from the Uzzielites]] [[Lexicon/H5801-5900#H5816|... ,]] [[Lexicon/H5901-6000#H5992|Amminadab]] [[Lexicon/H8201-8300#H8269|the chief]] [[Lexicon/H3901-4000#H3967|and 112]] [[Lexicon/H8101-8200#H8147|...]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H201-300#H251|of his relatives.]]
+=======
+[[Lexicon/H1101-1200#H1121|(and) from the Uzzielites]] [[Lexicon/H5801-5900#H5816|... ,]] [[Lexicon/H5901-6000#H5992|Amminadab]] [[Lexicon/H8201-8300#H8269|the chief]] [[Lexicon/H3901-4000#H3967|and 112]] [[Lexicon/H8101-8200#H8147|...]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H201-300#H251|of his relatives.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Chronicles 15 - 11
 [[Lexicon/H1701-1800#H1732|David]] [[Lexicon/H7101-7200#H7121|summoned]] [[Lexicon/H3501-3600#H3548|the priests]] [[Lexicon/H6601-6700#H6659|Zadok]] [[Lexicon/H1-100#H54|and Abiathar]] [[Lexicon/H3801-3900#H3881|and the Levites]] [[Lexicon/H201-300#H222|Uriel ,]] [[Lexicon/H6201-6300#H6222|Asaiah ,]] [[Lexicon/H3001-3100#H3100|Joel - ,]] [[Lexicon/H8001-8100#H8098|Shemaiah ,]] [[Lexicon/H401-500#H447|Eliel ,]] [[Lexicon/H5901-6000#H5992|and Amminadab.]]
 
 ##### 1 Chronicles 15 - 12
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|And he said]] [[Lexicon/H801-900#H859|“ You]] [[Lexicon/H7201-7300#H7218|are the heads]] [[Lexicon/H3801-3900#H3881|of the Levitical]] [[Lexicon/H1-100#H1|families.]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H201-300#H251|and your relatives]] [[Lexicon/H6901-7000#H6942|must consecrate yourselves]] [[Lexicon/H5901-6000#H5927|so that you may bring]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H727|the ark]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H401-500#H413|to [the place]]] [[Lexicon/H3501-3600#H3559|I have prepared]]
+=======
+[[Lexicon/H501-600#H559|And he said]] [[Lexicon/H801-900#H859|“ You]] [[Lexicon/H7201-7300#H7218|are the heads]] [[Lexicon/H3801-3900#H3881|of the Levitical]] [[Lexicon/H1-100#H1|families.]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H201-300#H251|and your relatives]] [[Lexicon/H6901-7000#H6942|must consecrate yourselves]] [[Lexicon/H5901-6000#H5927|so that you may bring]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H727|the ark]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H401-500#H413|to (the place)]] [[Lexicon/H3501-3600#H3559|I have prepared]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Chronicles 15 - 13
 [[Lexicon/H3501-3600#H3588|It was because]] [[Lexicon/H801-900#H859|you Levites]] [[Lexicon/H3801-3900#H3808|were not with us]] [[Lexicon/H4001-4100#H4100|the first time]] [[Lexicon/H3001-3100#H3068|that the LORD]] [[Lexicon/H401-500#H430|our God]] [[Lexicon/H6501-6600#H6555|burst forth in anger]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3801-3900#H3808|we did not]] [[Lexicon/H1801-1900#H1875|consult Him]] [[Lexicon/H4901-5000#H4941|about the proper order. ”]]
@@ -75,7 +83,11 @@ Book: 1 Chronicles
 [[Lexicon/H4901-5000#H4993|And Mattithiah ,]] [[Lexicon/H401-500#H466|Eliphelehu ,]] [[Lexicon/H4701-4800#H4737|Mikneiah ,]] [[Lexicon/H5601-5700#H5654|vvv]] [[Lexicon/H5601-5700#H5654|Obed-edom ,]] [[Lexicon/H3201-3300#H3273|Jeiel ,]] [[Lexicon/H5801-5900#H5812|and Azaziah]] [[Lexicon/H5301-5400#H5329|were to lead the music]] [[Lexicon/H3601-3700#H3658|with lyres]] [[Lexicon/H5901-6000#H5921|according to]] [[Lexicon/H8001-8100#H8067|Sheminith.]]
 
 ##### 1 Chronicles 15 - 22
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3663|Chenaniah]] [[Lexicon/H8201-8300#H8269|the head]] [[Lexicon/H3801-3900#H3881|Levite]] [[Lexicon/H4801-4900#H4853|-]] [[Lexicon/H3201-3300#H3256|was the director]] [[Lexicon/H4801-4900#H4853|of the music]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|he [was]]] [[Lexicon/H901-1000#H995|highly skilled.]]
+=======
+[[Lexicon/H3601-3700#H3663|Chenaniah]] [[Lexicon/H8201-8300#H8269|the head]] [[Lexicon/H3801-3900#H3881|Levite]] [[Lexicon/H4801-4900#H4853|-]] [[Lexicon/H3201-3300#H3256|was the director]] [[Lexicon/H4801-4900#H4853|of the music]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|he (was)]] [[Lexicon/H901-1000#H995|highly skilled.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Chronicles 15 - 23
 [[Lexicon/H1201-1300#H1296|Berechiah]] [[Lexicon/H501-600#H511|and Elkanah]] [[Lexicon/H7701-7800#H7778|were to be guardians]] [[Lexicon/H701-800#H727|of the ark.]]

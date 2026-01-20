@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 107
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 106#Psalm-R 106| Psalm 106]] - [[Readable Bible/19 - Psalms/Psalm 108#Psalm-R 108| Psalm 108]]
+=======
+# Psalm 107
+
+[[Readable Bible/19 - Psalms/Psalm 106|← Psalm 106]] | [[Readable Bible/19 - Psalms/Psalm 108|Psalm 108 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

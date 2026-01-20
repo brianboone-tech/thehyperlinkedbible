@@ -7,7 +7,11 @@ Testament: Old
 
 # Ezekiel 48
 
+<<<<<<< HEAD
 [[LXX Reference/26 - Ezekiel/Ezekiel 47|←]] • [[LXX Reference/26 - Ezekiel/Ezekiel 49|→]]
+=======
+[[LXX Reference/26 - Ezekiel/Ezekiel 47|←]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

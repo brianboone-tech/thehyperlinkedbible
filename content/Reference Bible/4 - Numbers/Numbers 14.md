@@ -37,7 +37,11 @@ Chapter: "14"
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 6|LXX]] |
 
 ##### Numbers 14 - 7
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|and said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H501-600#H559|... ,]] [[Lexicon/H701-800#H776|“ The land]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5601-5700#H5674|we passed through]] [[Lexicon/H8401-8500#H8446|and explored]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3966|[is] an exceedingly]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H2801-2900#H2896|good]] [[Lexicon/H701-800#H776|land.]]
+=======
+[[Lexicon/H501-600#H559|and said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H501-600#H559|... ,]] [[Lexicon/H701-800#H776|“ The land]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5601-5700#H5674|we passed through]] [[Lexicon/H8401-8500#H8446|and explored]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3966|(is) an exceedingly]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H2801-2900#H2896|good]] [[Lexicon/H701-800#H776|land.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 7|LXX]] |
 
 ##### Numbers 14 - 8
@@ -49,7 +53,11 @@ Chapter: "14"
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 9|LXX]] |
 
 ##### Numbers 14 - 10
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|But the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H501-600#H559|threatened]] [[Lexicon/H7201-7300#H7275|to stone]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H68|[Joshua - and Caleb].]] [[Lexicon/H3501-3600#H3519|Then the glory]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H7101-7200#H7200|appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H101-200#H168|at the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting.]]
+=======
+[[Lexicon/H3601-3700#H3605|But the whole]] [[Lexicon/H5701-5800#H5712|congregation]] [[Lexicon/H501-600#H559|threatened]] [[Lexicon/H7201-7300#H7275|to stone]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H68|(Joshua - and Caleb).]] [[Lexicon/H3501-3600#H3519|Then the glory]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H7101-7200#H7200|appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H101-200#H168|at the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 10|LXX]] |
 
 ##### Numbers 14 - 11
@@ -65,7 +73,11 @@ Chapter: "14"
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 13|LXX]] |
 
 ##### Numbers 14 - 14
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|And they will tell it]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3401-3500#H3427|the inhabitants]] [[Lexicon/H2001-2100#H2063|of this]] [[Lexicon/H701-800#H776|land.]] [[Lexicon/H8001-8100#H8085|They have already heard]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H801-900#H859|You ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H7101-7200#H7130|are in the midst]] [[Lexicon/H2001-2100#H2088|of this]] [[Lexicon/H5901-6000#H5971|people ,]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H801-900#H859|You ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H7101-7200#H7200|have been seen]] [[Lexicon/H5801-5900#H5869|face]] [[Lexicon/H5801-5900#H5869|to face ,]] [[Lexicon/H6001-6100#H6051|[that] Your cloud]] [[Lexicon/H5901-6000#H5975|stands]] [[Lexicon/H5901-6000#H5921|over them ,]] [[Lexicon/H801-900#H859|and [that] You]] [[Lexicon/H1901-2000#H1980|go]] [[Lexicon/H6401-6500#H6440|before them]] [[Lexicon/H5901-6000#H5982|in a pillar]] [[Lexicon/H6001-6100#H6051|of cloud]] [[Lexicon/H3101-3200#H3119|by day]] [[Lexicon/H5901-6000#H5982|and a pillar]] [[Lexicon/H701-800#H784|of fire]] [[Lexicon/H3901-4000#H3915|by night.]]
+=======
+[[Lexicon/H501-600#H559|And they will tell it]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3401-3500#H3427|the inhabitants]] [[Lexicon/H2001-2100#H2063|of this]] [[Lexicon/H701-800#H776|land.]] [[Lexicon/H8001-8100#H8085|They have already heard]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H801-900#H859|You ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H7101-7200#H7130|are in the midst]] [[Lexicon/H2001-2100#H2088|of this]] [[Lexicon/H5901-6000#H5971|people ,]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H801-900#H859|You ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H7101-7200#H7200|have been seen]] [[Lexicon/H5801-5900#H5869|face]] [[Lexicon/H5801-5900#H5869|to face ,]] [[Lexicon/H6001-6100#H6051|(that) Your cloud]] [[Lexicon/H5901-6000#H5975|stands]] [[Lexicon/H5901-6000#H5921|over them ,]] [[Lexicon/H801-900#H859|and (that) You]] [[Lexicon/H1901-2000#H1980|go]] [[Lexicon/H6401-6500#H6440|before them]] [[Lexicon/H5901-6000#H5982|in a pillar]] [[Lexicon/H6001-6100#H6051|of cloud]] [[Lexicon/H3101-3200#H3119|by day]] [[Lexicon/H5901-6000#H5982|and a pillar]] [[Lexicon/H701-800#H784|of fire]] [[Lexicon/H3901-4000#H3915|by night.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 14|LXX]] |
 
 ##### Numbers 14 - 15
@@ -81,11 +93,19 @@ Chapter: "14"
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 17|LXX]] |
 
 ##### Numbers 14 - 18
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|‘ The LORD]] [[Lexicon/H701-800#H750|is slow]] [[Lexicon/H601-700#H639|to anger]] [[Lexicon/H7201-7300#H7227|and abounding]] [[Lexicon/H2601-2700#H2617|in loving devotion ,]] [[Lexicon/H5301-5400#H5375|forgiving]] [[Lexicon/H5701-5800#H5771|iniquity]] [[Lexicon/H6501-6600#H6588|and transgression.]] [[Lexicon/H3801-3900#H3808|Yet He will by no means]] [[Lexicon/H5301-5400#H5352|...]] [[Lexicon/H5301-5400#H5352|leave the guilty unpunished ;]] [[Lexicon/H6401-6500#H6485|He will visit]] [[Lexicon/H5701-5800#H5771|the iniquity]] [[Lexicon/H1-100#H1|of the fathers]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H1101-1200#H1121|their children]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H8001-8100#H8029|the third]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7201-7300#H7256|and fourth [generation]. ’]]
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 18|LXX]] |
 
 ##### Numbers 14 - 19
 [[Lexicon/H5501-5600#H5545|Pardon ,]] [[Lexicon/H4901-5000#H4994|I pray ,]] [[Lexicon/H5701-5800#H5771|the iniquity]] [[Lexicon/H2001-2100#H2088|of this]] [[Lexicon/H5901-6000#H5971|people ,]] [[Lexicon/H1401-1500#H1433|in keeping with the greatness]] [[Lexicon/H2601-2700#H2617|of Your loving devotion ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H5301-5400#H5375|You have forgiven]] [[Lexicon/H5901-6000#H5971|[them]]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H5701-5800#H5704|ever]] [[Lexicon/H2001-2100#H2008|since]] [[Lexicon/H4701-4800#H4714|[they left] Egypt. ”]]
+=======
+[[Lexicon/H3001-3100#H3068|‘ The LORD]] [[Lexicon/H701-800#H750|is slow]] [[Lexicon/H601-700#H639|to anger]] [[Lexicon/H7201-7300#H7227|and abounding]] [[Lexicon/H2601-2700#H2617|in loving devotion ,]] [[Lexicon/H5301-5400#H5375|forgiving]] [[Lexicon/H5701-5800#H5771|iniquity]] [[Lexicon/H6501-6600#H6588|and transgression.]] [[Lexicon/H3801-3900#H3808|Yet He will by no means]] [[Lexicon/H5301-5400#H5352|...]] [[Lexicon/H5301-5400#H5352|leave the guilty unpunished ;]] [[Lexicon/H6401-6500#H6485|He will visit]] [[Lexicon/H5701-5800#H5771|the iniquity]] [[Lexicon/H1-100#H1|of the fathers]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H1101-1200#H1121|their children]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H8001-8100#H8029|the third]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7201-7300#H7256|and fourth (generation). ’]]
+| [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 18|LXX]] |
+
+##### Numbers 14 - 19
+[[Lexicon/H5501-5600#H5545|Pardon ,]] [[Lexicon/H4901-5000#H4994|I pray ,]] [[Lexicon/H5701-5800#H5771|the iniquity]] [[Lexicon/H2001-2100#H2088|of this]] [[Lexicon/H5901-6000#H5971|people ,]] [[Lexicon/H1401-1500#H1433|in keeping with the greatness]] [[Lexicon/H2601-2700#H2617|of Your loving devotion ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H5301-5400#H5375|You have forgiven]] [[Lexicon/H5901-6000#H5971|(them)]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H5701-5800#H5704|ever]] [[Lexicon/H2001-2100#H2008|since]] [[Lexicon/H4701-4800#H4714|(they left) Egypt. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 19|LXX]] |
 
 ##### Numbers 14 - 20
@@ -97,7 +117,11 @@ Chapter: "14"
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 21|LXX]] |
 
 ##### Numbers 14 - 22
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H3601-3700#H3605|[not one]]] [[Lexicon/H501-600#H582|of the men]] [[Lexicon/H7101-7200#H7200|who have seen]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3519|My glory]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H226|and the signs]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6201-6300#H6213|I performed]] [[Lexicon/H4701-4800#H4714|in Egypt]] [[Lexicon/H4001-4100#H4057|and in the wilderness —]] [[Lexicon/H5201-5300#H5254|yet have tested]] [[Lexicon/H801-900#H853|Me]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H8001-8100#H8085|and disobeyed]] [[Lexicon/H6901-7000#H6963|Me]] [[Lexicon/H2001-2100#H2088|these]] [[Lexicon/H6201-6300#H6235|ten]] [[Lexicon/H6401-6500#H6471|times —]]
+=======
+[[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H3601-3700#H3605|(not one)]] [[Lexicon/H501-600#H582|of the men]] [[Lexicon/H7101-7200#H7200|who have seen]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3519|My glory]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H201-300#H226|and the signs]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6201-6300#H6213|I performed]] [[Lexicon/H4701-4800#H4714|in Egypt]] [[Lexicon/H4001-4100#H4057|and in the wilderness —]] [[Lexicon/H5201-5300#H5254|yet have tested]] [[Lexicon/H801-900#H853|Me]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H8001-8100#H8085|and disobeyed]] [[Lexicon/H6901-7000#H6963|Me]] [[Lexicon/H2001-2100#H2088|these]] [[Lexicon/H6201-6300#H6235|ten]] [[Lexicon/H6401-6500#H6471|times —]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 22|LXX]] |
 
 ##### Numbers 14 - 23
@@ -141,7 +165,11 @@ Chapter: "14"
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 32|LXX]] |
 
 ##### Numbers 14 - 33
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|Your children]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H7401-7500#H7462|shepherds]] [[Lexicon/H4001-4100#H4057|in the wilderness]] [[Lexicon/H701-800#H705|for forty]] [[Lexicon/H8101-8200#H8141|years ,]] [[Lexicon/H5301-5400#H5375|and they will suffer]] [[Lexicon/H801-900#H853|]] [[Lexicon/H2101-2200#H2184|[for] your unfaithfulness]] [[Lexicon/H5701-5800#H5704|until the last]] [[Lexicon/H6201-6300#H6297|of your bodies]] [[Lexicon/H8501-8600#H8552|lies]] [[Lexicon/H4001-4100#H4057|in the wilderness.]]
+=======
+[[Lexicon/H1101-1200#H1121|Your children]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H7401-7500#H7462|shepherds]] [[Lexicon/H4001-4100#H4057|in the wilderness]] [[Lexicon/H701-800#H705|for forty]] [[Lexicon/H8101-8200#H8141|years ,]] [[Lexicon/H5301-5400#H5375|and they will suffer]] [[Lexicon/H801-900#H853|]] [[Lexicon/H2101-2200#H2184|(for) your unfaithfulness]] [[Lexicon/H5701-5800#H5704|until the last]] [[Lexicon/H6201-6300#H6297|of your bodies]] [[Lexicon/H8501-8600#H8552|lies]] [[Lexicon/H4001-4100#H4057|in the wilderness.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 33|LXX]] |
 
 ##### Numbers 14 - 34
@@ -181,11 +209,19 @@ Chapter: "14"
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 42|LXX]] |
 
 ##### Numbers 14 - 43
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H6001-6100#H6003|the Amalekites]] [[Lexicon/H3601-3700#H3669|and Canaanites]] [[Lexicon/H6401-6500#H6440|will face you ,]] [[Lexicon/H5301-5400#H5307|and you will fall]] [[Lexicon/H2701-2800#H2719|by the sword.]] [[Lexicon/H3501-3600#H3588|Because]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H7701-7800#H7725|you have turned]] [[Lexicon/H301-400#H310|away]] [[Lexicon/H3001-3100#H3068|from the LORD ,]] [[Lexicon/H3001-3100#H3068|[He]]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H5901-6000#H5973|with you. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 43|LXX]] |
 
 ##### Numbers 14 - 44
 [[Lexicon/H6001-6100#H6075|But they dared]] [[Lexicon/H5901-6000#H5927|to go up]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H7201-7300#H7218|the ridge]] [[Lexicon/H2001-2100#H2022|of the hill country ,]] [[Lexicon/H3801-3900#H3808|though neither]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H701-800#H727|[nor] the ark]] [[Lexicon/H1201-1300#H1285|of the covenant]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H4101-4200#H4185|moved]] [[Lexicon/H7101-7200#H7130|from]] [[Lexicon/H4201-4300#H4264|the camp.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H6001-6100#H6003|the Amalekites]] [[Lexicon/H3601-3700#H3669|and Canaanites]] [[Lexicon/H6401-6500#H6440|will face you ,]] [[Lexicon/H5301-5400#H5307|and you will fall]] [[Lexicon/H2701-2800#H2719|by the sword.]] [[Lexicon/H3501-3600#H3588|Because]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H7701-7800#H7725|you have turned]] [[Lexicon/H301-400#H310|away]] [[Lexicon/H3001-3100#H3068|from the LORD ,]] [[Lexicon/H3001-3100#H3068|(He)]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H5901-6000#H5973|with you. ”]]
+| [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 43|LXX]] |
+
+##### Numbers 14 - 44
+[[Lexicon/H6001-6100#H6075|But they dared]] [[Lexicon/H5901-6000#H5927|to go up]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H7201-7300#H7218|the ridge]] [[Lexicon/H2001-2100#H2022|of the hill country ,]] [[Lexicon/H3801-3900#H3808|though neither]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H701-800#H727|(nor) the ark]] [[Lexicon/H1201-1300#H1285|of the covenant]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H4101-4200#H4185|moved]] [[Lexicon/H7101-7200#H7130|from]] [[Lexicon/H4201-4300#H4264|the camp.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 14#Numbers 14 - 44|LXX]] |
 
 ##### Numbers 14 - 45

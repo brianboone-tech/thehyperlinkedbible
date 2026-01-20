@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 16
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 15#Ezekiel-R 15| Ezekiel 15]] - [[Readable Bible/26 - Ezekiel/Ezekiel 17#Ezekiel-R 17| Ezekiel 17]]
+=======
+# Ezekiel 16
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 15|← Ezekiel 15]] | [[Readable Bible/26 - Ezekiel/Ezekiel 17|Ezekiel 17 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

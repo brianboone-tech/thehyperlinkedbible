@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Luke-R 10
 
 **[[Home/Scripture/42 - Luke|Luke]]**
 
 [[Readable Bible/42 - Luke/Luke 9#Luke-R 9| Luke 9]] - [[Readable Bible/42 - Luke/Luke 11#Luke-R 11| Luke 11]]
+=======
+# Luke 10
+
+[[Readable Bible/42 - Luke/Luke 9|← Luke 9]] | [[Readable Bible/42 - Luke/Luke 11|Luke 11 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Luke 10 . 1
+<<<<<<< HEAD
 [[Reference Bible/42 - Luke/Luke 10#Luke 10 - 1|1]] After this, the Lord appointed seventy-two others and sent them two by two ahead of Him to every town and place He was about to visit.   || [[Chiasm/Chiasm - 42 - Luke 10 . 01 - 24|C]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 10 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/42 - Luke/Luke 10#Luke 10 - 1|1]] After this, the Lord appointed seventy-two others and sent them two by two ahead of Him to every town and place He was about to visit.  | | [[Chiasm/Chiasm - 42 - Luke 10 . 01 - 24|C]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 10 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ##### Luke 10 . 2
 [[Reference Bible/42 - Luke/Luke 10#Luke 10 - 2|2]] And He told them, “The harvest is plentiful, but the workers are few. Ask the Lord of the harvest, therefore, to send out workers into His harvest.  | [[Chiasm/Chiasm - 42 - Luke 10 . 01 - 24|C]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 10 - TOSK#Verse 2|TOSK]] |
 

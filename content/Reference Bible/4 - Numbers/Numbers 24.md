@@ -21,7 +21,11 @@ Chapter: "24"
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 2|LXX]] |
 
 ##### Numbers 24 - 3
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5375|and he lifted up]] [[Lexicon/H4901-5000#H4912|an oracle ,]] [[Lexicon/H501-600#H559|saying :]] [[Lexicon/H5001-5100#H5002|“ [This is] the prophecy]] [[Lexicon/H1101-1200#H1109|of Balaam]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1160|of Beor ,]] [[Lexicon/H5001-5100#H5002|the prophecy]] [[Lexicon/H1301-1400#H1397|of a man]] [[Lexicon/H5801-5900#H5869|whose eyes]] [[Lexicon/H8301-8400#H8365|are open ,]]
+=======
+[[Lexicon/H5301-5400#H5375|and he lifted up]] [[Lexicon/H4901-5000#H4912|an oracle ,]] [[Lexicon/H501-600#H559|saying :]] [[Lexicon/H5001-5100#H5002|“ (This is) the prophecy]] [[Lexicon/H1101-1200#H1109|of Balaam]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1160|of Beor ,]] [[Lexicon/H5001-5100#H5002|the prophecy]] [[Lexicon/H1301-1400#H1397|of a man]] [[Lexicon/H5801-5900#H5869|whose eyes]] [[Lexicon/H8301-8400#H8365|are open ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 3|LXX]] |
 
 ##### Numbers 24 - 4
@@ -49,7 +53,11 @@ Chapter: "24"
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 9|LXX]] |
 
 ##### Numbers 24 - 10
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1111|Then Balak’s]] [[Lexicon/H601-700#H639|anger]] [[Lexicon/H2701-2800#H2734|burned]] [[Lexicon/H401-500#H413|against]] [[Lexicon/H1101-1200#H1109|Balaam ,]] [[Lexicon/H3701-3800#H3709|and he struck his hands]] [[Lexicon/H5601-5700#H5606|together]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H1101-1200#H1111|...]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1109|Balaam ,]] [[Lexicon/H7101-7200#H7121|“ I summoned you]] [[Lexicon/H6801-6900#H6895|to curse]] [[Lexicon/H301-400#H341|my enemies ,]] [[Lexicon/H2001-2100#H2009|but behold ,]] [[Lexicon/H1201-1300#H1288|you have persisted]] [[Lexicon/H1201-1300#H1288|in blessing]] [[Lexicon/H2001-2100#H2088|[them] these]] [[Lexicon/H7901-8000#H7969|three]] [[Lexicon/H6401-6500#H6471|times.]]
+=======
+[[Lexicon/H1101-1200#H1111|Then Balak’s]] [[Lexicon/H601-700#H639|anger]] [[Lexicon/H2701-2800#H2734|burned]] [[Lexicon/H401-500#H413|against]] [[Lexicon/H1101-1200#H1109|Balaam ,]] [[Lexicon/H3701-3800#H3709|and he struck his hands]] [[Lexicon/H5601-5700#H5606|together]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H1101-1200#H1111|...]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1109|Balaam ,]] [[Lexicon/H7101-7200#H7121|“ I summoned you]] [[Lexicon/H6801-6900#H6895|to curse]] [[Lexicon/H301-400#H341|my enemies ,]] [[Lexicon/H2001-2100#H2009|but behold ,]] [[Lexicon/H1201-1300#H1288|you have persisted]] [[Lexicon/H1201-1300#H1288|in blessing]] [[Lexicon/H2001-2100#H2088|(them) these]] [[Lexicon/H7901-8000#H7969|three]] [[Lexicon/H6401-6500#H6471|times.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 10|LXX]] |
 
 ##### Numbers 24 - 11
@@ -69,7 +77,11 @@ Chapter: "24"
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 14|LXX]] |
 
 ##### Numbers 24 - 15
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5375|Then [Balaam] lifted up]] [[Lexicon/H4901-5000#H4912|an oracle ,]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H5001-5100#H5002|“ [This is] the prophecy]] [[Lexicon/H1101-1200#H1109|of Balaam]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1160|of Beor ,]] [[Lexicon/H5001-5100#H5002|the prophecy]] [[Lexicon/H1301-1400#H1397|of a man]] [[Lexicon/H5801-5900#H5869|whose eyes]] [[Lexicon/H8301-8400#H8365|are open ,]]
+=======
+[[Lexicon/H5301-5400#H5375|Then (Balaam) lifted up]] [[Lexicon/H4901-5000#H4912|an oracle ,]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H5001-5100#H5002|“ (This is) the prophecy]] [[Lexicon/H1101-1200#H1109|of Balaam]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1160|of Beor ,]] [[Lexicon/H5001-5100#H5002|the prophecy]] [[Lexicon/H1301-1400#H1397|of a man]] [[Lexicon/H5801-5900#H5869|whose eyes]] [[Lexicon/H8301-8400#H8365|are open ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 15|LXX]] |
 
 ##### Numbers 24 - 16
@@ -81,7 +93,11 @@ Chapter: "24"
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 17|LXX]] |
 
 ##### Numbers 24 - 18
+<<<<<<< HEAD
 [[Lexicon/H101-200#H123|Edom]] [[Lexicon/H1901-2000#H1961|will become]] [[Lexicon/H3401-3500#H3424|a possession ,]] [[Lexicon/H3401-3500#H3424|[as]]] [[Lexicon/H1901-2000#H1961|will]] [[Lexicon/H8101-8200#H8165|Seir ,]] [[Lexicon/H301-400#H341|his enemy ;]] [[Lexicon/H3401-3500#H3478|but Israel]] [[Lexicon/H6201-6300#H6213|will perform]] [[Lexicon/H2401-2500#H2428|with valor.]]
+=======
+[[Lexicon/H101-200#H123|Edom]] [[Lexicon/H1901-2000#H1961|will become]] [[Lexicon/H3401-3500#H3424|a possession ,]] [[Lexicon/H3401-3500#H3424|(as)]] [[Lexicon/H1901-2000#H1961|will]] [[Lexicon/H8101-8200#H8165|Seir ,]] [[Lexicon/H301-400#H341|his enemy ;]] [[Lexicon/H3401-3500#H3478|but Israel]] [[Lexicon/H6201-6300#H6213|will perform]] [[Lexicon/H2401-2500#H2428|with valor.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 18|LXX]] |
 
 ##### Numbers 24 - 19
@@ -89,7 +105,11 @@ Chapter: "24"
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 19|LXX]] |
 
 ##### Numbers 24 - 20
+<<<<<<< HEAD
 [[Lexicon/H7101-7200#H7200|Then Balaam saw]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6001-6100#H6002|Amalek]] [[Lexicon/H5301-5400#H5375|and lifted up]] [[Lexicon/H4901-5000#H4912|an oracle ,]] [[Lexicon/H501-600#H559|saying :]] [[Lexicon/H6001-6100#H6002|“ Amalek]] [[Lexicon/H7201-7300#H7225|was first]] [[Lexicon/H1401-1500#H1471|among the nations ,]] [[Lexicon/H301-400#H319|but his end]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H1-100#H8|[is] destruction. ”]]
+=======
+[[Lexicon/H7101-7200#H7200|Then Balaam saw]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6001-6100#H6002|Amalek]] [[Lexicon/H5301-5400#H5375|and lifted up]] [[Lexicon/H4901-5000#H4912|an oracle ,]] [[Lexicon/H501-600#H559|saying :]] [[Lexicon/H6001-6100#H6002|“ Amalek]] [[Lexicon/H7201-7300#H7225|was first]] [[Lexicon/H1401-1500#H1471|among the nations ,]] [[Lexicon/H301-400#H319|but his end]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H1-100#H8|(is) destruction. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 20|LXX]] |
 
 ##### Numbers 24 - 21
@@ -101,11 +121,19 @@ Chapter: "24"
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 22|LXX]] |
 
 ##### Numbers 24 - 23
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5375|Once more [Balaam] lifted up]] [[Lexicon/H4901-5000#H4912|an oracle ,]] [[Lexicon/H501-600#H559|saying :]] [[Lexicon/H101-200#H188|“ Ah ,]] [[Lexicon/H4301-4400#H4310|who]] [[Lexicon/H2401-2500#H2421|can live]] [[Lexicon/H401-500#H410|unless God]] [[Lexicon/H7701-7800#H7760|has ordained it ?]]
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 23|LXX]] |
 
 ##### Numbers 24 - 24
 [[Lexicon/H6701-6800#H6716|Ships]] [[Lexicon/H3001-3100#H3027|[will come] from the coasts]] [[Lexicon/H3701-3800#H3794|of Cyprus ;]] [[Lexicon/H6001-6100#H6031|they will subdue]] [[Lexicon/H801-900#H804|Asshur]] [[Lexicon/H6001-6100#H6031|...]] [[Lexicon/H5601-5700#H5677|and Eber ,]] [[Lexicon/H1901-2000#H1931|but they]] [[Lexicon/H1501-1600#H1571|too]] [[Lexicon/H1-100#H8|will perish]] [[Lexicon/H5701-5800#H5704|forever. ”]]
+=======
+[[Lexicon/H5301-5400#H5375|Once more (Balaam) lifted up]] [[Lexicon/H4901-5000#H4912|an oracle ,]] [[Lexicon/H501-600#H559|saying :]] [[Lexicon/H101-200#H188|“ Ah ,]] [[Lexicon/H4301-4400#H4310|who]] [[Lexicon/H2401-2500#H2421|can live]] [[Lexicon/H401-500#H410|unless God]] [[Lexicon/H7701-7800#H7760|has ordained it ?]]
+| [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 23|LXX]] |
+
+##### Numbers 24 - 24
+[[Lexicon/H6701-6800#H6716|Ships]] [[Lexicon/H3001-3100#H3027|(will come) from the coasts]] [[Lexicon/H3701-3800#H3794|of Cyprus ;]] [[Lexicon/H6001-6100#H6031|they will subdue]] [[Lexicon/H801-900#H804|Asshur]] [[Lexicon/H6001-6100#H6031|...]] [[Lexicon/H5601-5700#H5677|and Eber ,]] [[Lexicon/H1901-2000#H1931|but they]] [[Lexicon/H1501-1600#H1571|too]] [[Lexicon/H1-100#H8|will perish]] [[Lexicon/H5701-5800#H5704|forever. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 24#Numbers 24 - 24|LXX]] |
 
 ##### Numbers 24 - 25

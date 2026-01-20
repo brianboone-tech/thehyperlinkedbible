@@ -15,7 +15,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|came]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G3001-3100#G3004|saying,]]
 
 #### Ezekiel 28 - 2
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G2001-2100#G2036|say]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G701-800#G0758|ruler]] of Tyre! [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] Adonai [[Lexicon/G401-500#G0446|because]] [[Lexicon/G5301-5400#G5312|was raised up high]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|you said,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2733| the dwelling]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2281|of the sea.]] [[Lexicon/G1401-1500#G1473|But you]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G401-500#G0444|a man,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|you made]] [[Lexicon/G2501-2600#G2588|your heart]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2301-2400#G2316|of God.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G2001-2100#G2036|say]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G701-800#G0758|ruler]] of Tyre! [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] Adonai [[Lexicon/G401-500#G0446|because]] [[Lexicon/G5301-5400#G5312|was raised up high]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|you said,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2733| the dwelling]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2281|of the sea.]] [[Lexicon/G1401-1500#G1473|But you]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G401-500#G0444|a man,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G2301-2400#G2316|God,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|you made]] [[Lexicon/G2501-2600#G2588|your heart]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2301-2400#G2316|of God.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Ezekiel 28 - 3
 [[Lexicon/G4601-4700#G4680|wiser than]] Daniel, [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G4601-4700#G4680| the wise]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1901-2000#G1989|their higher knowledge?]]
@@ -27,7 +31,11 @@ Testament: Old
 [[Lexicon/G2201-2300#G2228|Or]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G4101-4200#G4183|much]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1711|your trade]] [[Lexicon/G4101-4200#G4129|did you multiply]] [[Lexicon/G1401-1500#G1411|your power,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5312|raise up high]] [[Lexicon/G2501-2600#G2588|your heart]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1401-1500#G1411|your power?]]
 
 #### Ezekiel 28 - 6
+<<<<<<< HEAD
 [[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G3501-3600#G3592|thus]] [[Lexicon/G3001-3100#G3004|says]] Adonai [[Lexicon/G1801-1900#G1894|Since]] [[Lexicon/G1301-1400#G1325|you imputed]] [[Lexicon/G2501-2600#G2588|your heart]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2301-2400#G2316|of God;]]
+=======
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G3501-3600#G3592|thus]] [[Lexicon/G3001-3100#G3004|says]] Adonai [[Lexicon/G1801-1900#G1894|Since]] [[Lexicon/G1301-1400#G1325|you imputed]] [[Lexicon/G2501-2600#G2588|your heart]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2301-2400#G2316|of God;]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Ezekiel 28 - 7
 [[Lexicon/G401-500#G0473|for]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1801-1900#G1863|bring]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G201-300#G0245|strange]] [[Lexicon/G3001-3100#G3061|pestilent ones]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1573|they shall empty out]] [[Lexicon/G3101-3200#G3162|their swords]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2566|beauty]] [[Lexicon/G1901-2000#G1989|of your higher knowledge;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4701-4800#G4766|they shall spread]] [[Lexicon/G2501-2600#G2566|your beauty]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G601-700#G0684|destruction.]]

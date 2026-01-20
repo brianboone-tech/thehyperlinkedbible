@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 79 - 1
+<<<<<<< HEAD
 [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H601-700#H623|of Asaph.]] [[Lexicon/H1401-1500#H1471|The nations ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H901-1000#H935|have invaded]] [[Lexicon/H5101-5200#H5159|Your inheritance ;]] [[Lexicon/H2901-3000#H2930|they have defiled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6944|Your holy]] [[Lexicon/H1901-2000#H1964|temple]] [[Lexicon/H7701-7800#H7760|[and] reduced]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3389|Jerusalem]] [[Lexicon/H5801-5900#H5856|to rubble.]]
+=======
+[[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H601-700#H623|of Asaph.]] [[Lexicon/H1401-1500#H1471|The nations ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H901-1000#H935|have invaded]] [[Lexicon/H5101-5200#H5159|Your inheritance ;]] [[Lexicon/H2901-3000#H2930|they have defiled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6944|Your holy]] [[Lexicon/H1901-2000#H1964|temple]] [[Lexicon/H7701-7800#H7760|(and) reduced]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3389|Jerusalem]] [[Lexicon/H5801-5900#H5856|to rubble.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 79#Psalm 79 - 1|LXX]] |
 
 ##### Psalm 79 - 2
@@ -18,7 +22,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 79#Psalm 79 - 2|LXX]] |
 
 ##### Psalm 79 - 3
+<<<<<<< HEAD
 [[Lexicon/H8201-8300#H8210|They have poured out]] [[Lexicon/H1801-1900#H1818|their blood]] [[Lexicon/H4301-4400#H4325|like water]] [[Lexicon/H5401-5500#H5439|all around]] [[Lexicon/H3301-3400#H3389|Jerusalem ,]] [[Lexicon/H301-400#H369|and [there is] no one]] [[Lexicon/H6901-7000#H6912|to bury [the dead].]]
+=======
+[[Lexicon/H8201-8300#H8210|They have poured out]] [[Lexicon/H1801-1900#H1818|their blood]] [[Lexicon/H4301-4400#H4325|like water]] [[Lexicon/H5401-5500#H5439|all around]] [[Lexicon/H3301-3400#H3389|Jerusalem ,]] [[Lexicon/H301-400#H369|and (there is) no one]] [[Lexicon/H6901-7000#H6912|to bury (the dead).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 79#Psalm 79 - 3|LXX]] |
 
 ##### Psalm 79 - 4

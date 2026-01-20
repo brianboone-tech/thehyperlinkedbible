@@ -45,7 +45,11 @@ Chapter: "32"
 | [[LXX Reference/4 - Numbers/Numbers 32#Numbers 32 - 8|LXX]] |
 
 ##### Numbers 32 - 9
+<<<<<<< HEAD
 [[Lexicon/H5901-6000#H5927|For when [your fathers] went up]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H5101-5200#H5158|the Valley]] [[Lexicon/H801-900#H812|of Eshcol]] [[Lexicon/H7101-7200#H7200|and saw]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|the land ,]] [[Lexicon/H5101-5200#H5106|they discouraged]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3820|-]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1101-1200#H1115|from]] [[Lexicon/H901-1000#H935|entering]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5401-5500#H5414|had given]]
+=======
+[[Lexicon/H5901-6000#H5927|For when (your fathers) went up]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H5101-5200#H5158|the Valley]] [[Lexicon/H801-900#H812|of Eshcol]] [[Lexicon/H7101-7200#H7200|and saw]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|the land ,]] [[Lexicon/H5101-5200#H5106|they discouraged]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3820|-]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1101-1200#H1115|from]] [[Lexicon/H901-1000#H935|entering]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5401-5500#H5414|had given]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 32#Numbers 32 - 9|LXX]] |
 
 ##### Numbers 32 - 10
@@ -61,7 +65,11 @@ Chapter: "32"
 | [[LXX Reference/4 - Numbers/Numbers 32#Numbers 32 - 12|LXX]] |
 
 ##### Numbers 32 - 13
+<<<<<<< HEAD
 [[Lexicon/H601-700#H639|The anger]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H2701-2800#H2734|burned]] [[Lexicon/H3401-3500#H3478|against Israel ,]] [[Lexicon/H5101-5200#H5128|and He made them wander]] [[Lexicon/H4001-4100#H4057|in the wilderness]] [[Lexicon/H701-800#H705|forty]] [[Lexicon/H8101-8200#H8141|years ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H1701-1800#H1755|generation]] [[Lexicon/H6201-6300#H6213|who had done]] [[Lexicon/H7401-7500#H7451|evil]] [[Lexicon/H3001-3100#H3068|in [His]]] [[Lexicon/H5801-5900#H5869|sight]] [[Lexicon/H8501-8600#H8552|was gone.]]
+=======
+[[Lexicon/H601-700#H639|The anger]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H2701-2800#H2734|burned]] [[Lexicon/H3401-3500#H3478|against Israel ,]] [[Lexicon/H5101-5200#H5128|and He made them wander]] [[Lexicon/H4001-4100#H4057|in the wilderness]] [[Lexicon/H701-800#H705|forty]] [[Lexicon/H8101-8200#H8141|years ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H1701-1800#H1755|generation]] [[Lexicon/H6201-6300#H6213|who had done]] [[Lexicon/H7401-7500#H7451|evil]] [[Lexicon/H3001-3100#H3068|in (His)]] [[Lexicon/H5801-5900#H5869|sight]] [[Lexicon/H8501-8600#H8552|was gone.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 32#Numbers 32 - 13|LXX]] |
 
 ##### Numbers 32 - 14
@@ -73,7 +81,11 @@ Chapter: "32"
 | [[LXX Reference/4 - Numbers/Numbers 32#Numbers 32 - 15|LXX]] |
 
 ##### Numbers 32 - 16
+<<<<<<< HEAD
 [[Lexicon/H5001-5100#H5066|Then [the Gadites and Reubenites] approached]] [[Lexicon/H401-500#H413|[Moses]]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H1101-1200#H1129|“ We want to build]] [[Lexicon/H1401-1500#H1448|sheepfolds]] [[Lexicon/H6601-6700#H6629|...]] [[Lexicon/H6301-6400#H6311|here]] [[Lexicon/H4701-4800#H4735|for our livestock]] [[Lexicon/H5801-5900#H5892|and cities]] [[Lexicon/H2901-3000#H2945|for our little ones.]]
+=======
+[[Lexicon/H5001-5100#H5066|Then (the Gadites and Reubenites) approached]] [[Lexicon/H401-500#H413|(Moses)]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H1101-1200#H1129|“ We want to build]] [[Lexicon/H1401-1500#H1448|sheepfolds]] [[Lexicon/H6601-6700#H6629|...]] [[Lexicon/H6301-6400#H6311|here]] [[Lexicon/H4701-4800#H4735|for our livestock]] [[Lexicon/H5801-5900#H5892|and cities]] [[Lexicon/H2901-3000#H2945|for our little ones.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 32#Numbers 32 - 16|LXX]] |
 
 ##### Numbers 32 - 17
@@ -129,7 +141,11 @@ Chapter: "32"
 | [[LXX Reference/4 - Numbers/Numbers 32#Numbers 32 - 29|LXX]] |
 
 ##### Numbers 32 - 30
+<<<<<<< HEAD
 [[Lexicon/H501-600#H518|But if]] [[Lexicon/H3801-3900#H3808|they do not]] [[Lexicon/H2501-2600#H2502|arm themselves]] [[Lexicon/H5601-5700#H5674|[and] go across]] [[Lexicon/H801-900#H854|with you ,]] [[Lexicon/H201-300#H270|then they must accept their possession]] [[Lexicon/H8401-8500#H8432|among you]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3667|of Canaan. ”]]
+=======
+[[Lexicon/H501-600#H518|But if]] [[Lexicon/H3801-3900#H3808|they do not]] [[Lexicon/H2501-2600#H2502|arm themselves]] [[Lexicon/H5601-5700#H5674|(and) go across]] [[Lexicon/H801-900#H854|with you ,]] [[Lexicon/H201-300#H270|then they must accept their possession]] [[Lexicon/H8401-8500#H8432|among you]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3667|of Canaan. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 32#Numbers 32 - 30|LXX]] |
 
 ##### Numbers 32 - 31

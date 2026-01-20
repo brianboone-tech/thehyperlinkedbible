@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 2 Kings 22 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 21 - TOSK|← Ch 21]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 23 - TOSK|Ch 23 →]]
+=======
+**[[Home/Indexes/Readable Bible/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 21 - TOSK|← Ch 21]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 23 - TOSK|Ch 23 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Isaiah-R 27
 
 **[[Home/Scripture/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 26#Isaiah-R 26| Isaiah 26]] - [[Readable Bible/23 - Isaiah/Isaiah 28#Isaiah-R 28| Isaiah 28]]
+=======
+# Isaiah 27
+
+[[Readable Bible/23 - Isaiah/Isaiah 26|← Isaiah 26]] | [[Readable Bible/23 - Isaiah/Isaiah 28|Isaiah 28 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

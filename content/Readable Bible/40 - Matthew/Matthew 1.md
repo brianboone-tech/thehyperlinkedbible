@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Matthew-R 1
 
 **[[Home/Scripture/40 - Matthew|Matthew]]**
 
 [[Malachi-R 4|Malachi 4]] • [[Matthew-R 2|Matthew 2]]
+=======
+# Matthew 1
+
+[[Readable Bible/39 - Malachi/Malachi 4|← Malachi 4]] | [[Readable Bible/40 - Matthew/Matthew 2|Matthew 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

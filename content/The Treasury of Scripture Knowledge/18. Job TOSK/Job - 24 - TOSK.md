@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Job 24 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 23 - TOSK|← Ch 23]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 25 - TOSK|Ch 25 →]]
+=======
+**[[Home/Indexes/Readable Bible/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 23 - TOSK|← Ch 23]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 25 - TOSK|Ch 25 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

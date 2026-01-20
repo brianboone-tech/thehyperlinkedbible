@@ -15,10 +15,17 @@ Testament: Old
 [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G401-500#G0438|a flower]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3901-4000#G3977|plain;]] [[Lexicon/G2901-3000#G2918|a lily]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2801-2900#G2835|valleys.]]
 
 #### Song of Solomon 2 - 2
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G2901-3000#G2918|a lily]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G101-200#G0173|of thorn-bushes,]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G301-400#G0303|in the midst]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2301-2400#G2364|daughters.]]
 
 #### Song of Solomon 2 - 3
 [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G3301-3400#G3373|an apple]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3586|trees]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1409|groves,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G301-400#G0303|in the midst]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5201-5300#G5207|sons.]] [[Lexicon/G4601-4700#G4639|his shadow]] [[Lexicon/G1901-2000#G1937|I desired,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2523|I sat down,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2590|his fruit]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2901-3000#G2995|my throat.]]
+=======
+[[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G2901-3000#G2918|a lily]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G101-200#G0173|of thorn-bushes,]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G301-400#G0303|in the midst]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2301-2400#G2364|daughters.]]
+
+#### Song of Solomon 2 - 3
+[[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G3301-3400#G3373|an apple]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3586|trees]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1409|groves,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G301-400#G0303|in the midst]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5201-5300#G5207|sons.]] [[Lexicon/G4601-4700#G4639|his shadow]] [[Lexicon/G1901-2000#G1937|I desired,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2523|I sat down,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2590|his fruit]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2901-3000#G2995|my throat.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Song of Solomon 2 - 4
 [[Lexicon/G1501-1600#G1521|Bring]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3601-3700#G3631|of wine!]] [[Lexicon/G5001-5100#G5021|Order]] [[Lexicon/G1901-2000#G1909|for]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1-100#G0026|love!]]

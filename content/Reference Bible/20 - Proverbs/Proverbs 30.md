@@ -10,10 +10,17 @@ cssClasses: lexicon
 ---
 
 ##### Proverbs 30 - 1
+<<<<<<< HEAD
 [[Lexicon/H1601-1700#H1697|[These are] the words]] [[Lexicon/H1-100#H94|of Agur]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H3301-3400#H3348|of Jakeh —]] [[Lexicon/H4801-4900#H4853|the burden]] [[Lexicon/H1301-1400#H1397|that this man]] [[Lexicon/H5001-5100#H5002|declared]] [[Lexicon/H301-400#H384|to Ithiel :]] [[Lexicon/H301-400#H384|“ I am weary, O God,]] [[Lexicon/H401-500#H401|and worn out.]]
 
 ##### Proverbs 30 - 2
 [[Lexicon/H3501-3600#H3588|Surely]] [[Lexicon/H501-600#H595|I [am]]] [[Lexicon/H1101-1200#H1198|the most ignorant]] [[Lexicon/H301-400#H376|of men ,]] [[Lexicon/H3801-3900#H3808|and I lack]] [[Lexicon/H901-1000#H998|the understanding]] [[Lexicon/H101-200#H120|of a man]]
+=======
+[[Lexicon/H1601-1700#H1697|(These are) the words]] [[Lexicon/H1-100#H94|of Agur]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H3301-3400#H3348|of Jakeh —]] [[Lexicon/H4801-4900#H4853|the burden]] [[Lexicon/H1301-1400#H1397|that this man]] [[Lexicon/H5001-5100#H5002|declared]] [[Lexicon/H301-400#H384|to Ithiel :]] [[Lexicon/H301-400#H384|“ I am weary, O God,]] [[Lexicon/H401-500#H401|and worn out.]]
+
+##### Proverbs 30 - 2
+[[Lexicon/H3501-3600#H3588|Surely]] [[Lexicon/H501-600#H595|I (am)]] [[Lexicon/H1101-1200#H1198|the most ignorant]] [[Lexicon/H301-400#H376|of men ,]] [[Lexicon/H3801-3900#H3808|and I lack]] [[Lexicon/H901-1000#H998|the understanding]] [[Lexicon/H101-200#H120|of a man]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 30 - 3
 [[Lexicon/H3801-3900#H3808|I have not]] [[Lexicon/H3901-4000#H3925|learned]] [[Lexicon/H2401-2500#H2451|wisdom ,]] [[Lexicon/H1801-1900#H1847|and I have no knowledge]] [[Lexicon/H3001-3100#H3045|...]] [[Lexicon/H6901-7000#H6918|of the Holy One.]]
@@ -49,19 +56,33 @@ cssClasses: lexicon
 [[Lexicon/H1701-1800#H1755|There is a generation —]] [[Lexicon/H4001-4100#H4100|how]] [[Lexicon/H7301-7400#H7311|haughty]] [[Lexicon/H5801-5900#H5869|are their eyes]] [[Lexicon/H5301-5400#H5375|and pretentious]] [[Lexicon/H6001-6100#H6079|are their glances —]]
 
 ##### Proverbs 30 - 14
+<<<<<<< HEAD
 [[Lexicon/H1701-1800#H1755|there is a generation]] [[Lexicon/H8101-8200#H8127|whose teeth]] [[Lexicon/H2701-2800#H2719|are swords]] [[Lexicon/H4901-5000#H4973|and whose jaws]] [[Lexicon/H3901-4000#H3979|are knives ,]] [[Lexicon/H301-400#H398|devouring]] [[Lexicon/H6001-6100#H6041|the oppressed]] [[Lexicon/H701-800#H776|from the earth]] [[Lexicon/H1-100#H34|and the needy]] [[Lexicon/H101-200#H120|from [among] men.]]
 
 ##### Proverbs 30 - 15
 [[Lexicon/H5901-6000#H5936|The leech]] [[Lexicon/H8101-8200#H8147|has two]] [[Lexicon/H1301-1400#H1323|daughters :]] [[Lexicon/H3001-3100#H3051|Give]] [[Lexicon/H3001-3100#H3051|[and] Give.]] [[Lexicon/H2001-2100#H2007|There]] [[Lexicon/H7901-8000#H7969|are three]] [[Lexicon/H3801-3900#H3808|[things that] are never]] [[Lexicon/H7601-7700#H7646|satisfied ,]] [[Lexicon/H701-800#H702|four [that]]] [[Lexicon/H3801-3900#H3808|never]] [[Lexicon/H501-600#H559|say ,]] [[Lexicon/H1901-2000#H1952|‘ Enough !’:]]
+=======
+[[Lexicon/H1701-1800#H1755|there is a generation]] [[Lexicon/H8101-8200#H8127|whose teeth]] [[Lexicon/H2701-2800#H2719|are swords]] [[Lexicon/H4901-5000#H4973|and whose jaws]] [[Lexicon/H3901-4000#H3979|are knives ,]] [[Lexicon/H301-400#H398|devouring]] [[Lexicon/H6001-6100#H6041|the oppressed]] [[Lexicon/H701-800#H776|from the earth]] [[Lexicon/H1-100#H34|and the needy]] [[Lexicon/H101-200#H120|from (among) men.]]
+
+##### Proverbs 30 - 15
+[[Lexicon/H5901-6000#H5936|The leech]] [[Lexicon/H8101-8200#H8147|has two]] [[Lexicon/H1301-1400#H1323|daughters :]] [[Lexicon/H3001-3100#H3051|Give]] [[Lexicon/H3001-3100#H3051|(and) Give.]] [[Lexicon/H2001-2100#H2007|There]] [[Lexicon/H7901-8000#H7969|are three]] [[Lexicon/H3801-3900#H3808|(things that) are never]] [[Lexicon/H7601-7700#H7646|satisfied ,]] [[Lexicon/H701-800#H702|four (that)]] [[Lexicon/H3801-3900#H3808|never]] [[Lexicon/H501-600#H559|say ,]] [[Lexicon/H1901-2000#H1952|‘ Enough !’:]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 30 - 16
 [[Lexicon/H7501-7600#H7585|Sheol ,]] [[Lexicon/H6101-6200#H6115|the barren]] [[Lexicon/H7301-7400#H7356|womb ,]] [[Lexicon/H701-800#H776|land]] [[Lexicon/H3801-3900#H3808|never]] [[Lexicon/H7601-7700#H7646|satisfied]] [[Lexicon/H4301-4400#H4325|with water ,]] [[Lexicon/H701-800#H784|and fire]] [[Lexicon/H3801-3900#H3808|that never]] [[Lexicon/H501-600#H559|says ,]] [[Lexicon/H1901-2000#H1952|‘ Enough ! ’]]
 
 ##### Proverbs 30 - 17
+<<<<<<< HEAD
 [[Lexicon/H5801-5900#H5869|As for the eye]] [[Lexicon/H3901-4000#H3932|[that] mocks]] [[Lexicon/H1-100#H1|a father]] [[Lexicon/H901-1000#H936|and scorns]] [[Lexicon/H3301-3400#H3349|obedience]] [[Lexicon/H501-600#H517|to a mother ,]] [[Lexicon/H6101-6200#H6158|may the ravens]] [[Lexicon/H5101-5200#H5158|of the valley]] [[Lexicon/H5301-5400#H5365|pluck it out]] [[Lexicon/H1101-1200#H1121|and young]] [[Lexicon/H5401-5500#H5404|vultures]] [[Lexicon/H301-400#H398|devour it.]]
 
 ##### Proverbs 30 - 18
 [[Lexicon/H1901-2000#H1992|There]] [[Lexicon/H7901-8000#H7969|are three [things]]] [[Lexicon/H6301-6400#H6381|too wonderful]] [[Lexicon/H4401-4500#H4480|for me ,]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H3801-3900#H3808|that I cannot]] [[Lexicon/H3001-3100#H3045|understand :]]
+=======
+[[Lexicon/H5801-5900#H5869|As for the eye]] [[Lexicon/H3901-4000#H3932|(that) mocks]] [[Lexicon/H1-100#H1|a father]] [[Lexicon/H901-1000#H936|and scorns]] [[Lexicon/H3301-3400#H3349|obedience]] [[Lexicon/H501-600#H517|to a mother ,]] [[Lexicon/H6101-6200#H6158|may the ravens]] [[Lexicon/H5101-5200#H5158|of the valley]] [[Lexicon/H5301-5400#H5365|pluck it out]] [[Lexicon/H1101-1200#H1121|and young]] [[Lexicon/H5401-5500#H5404|vultures]] [[Lexicon/H301-400#H398|devour it.]]
+
+##### Proverbs 30 - 18
+[[Lexicon/H1901-2000#H1992|There]] [[Lexicon/H7901-8000#H7969|are three (things)]] [[Lexicon/H6301-6400#H6381|too wonderful]] [[Lexicon/H4401-4500#H4480|for me ,]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H3801-3900#H3808|that I cannot]] [[Lexicon/H3001-3100#H3045|understand :]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 30 - 19
 [[Lexicon/H1801-1900#H1870|the way]] [[Lexicon/H5401-5500#H5404|of an eagle]] [[Lexicon/H8001-8100#H8064|in the sky ,]] [[Lexicon/H1801-1900#H1870|the way]] [[Lexicon/H5101-5200#H5175|of a snake]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H6601-6700#H6697|a rock ,]] [[Lexicon/H1801-1900#H1870|the way]] [[Lexicon/H501-600#H591|of a ship]] [[Lexicon/H3801-3900#H3820|vvv]] [[Lexicon/H3201-3300#H3220|at sea ,]] [[Lexicon/H1801-1900#H1870|and the way]] [[Lexicon/H1301-1400#H1397|of a man]] [[Lexicon/H5901-6000#H5959|with a maiden.]]
@@ -91,7 +112,11 @@ cssClasses: lexicon
 [[Lexicon/H601-700#H697|the locusts]] [[Lexicon/H301-400#H369|have no]] [[Lexicon/H4401-4500#H4428|king ,]] [[Lexicon/H3601-3700#H3605|yet they all]] [[Lexicon/H3301-3400#H3318|advance]] [[Lexicon/H2601-2700#H2686|in formation ;]]
 
 ##### Proverbs 30 - 28
+<<<<<<< HEAD
 [[Lexicon/H8001-8100#H8079|and the lizard]] [[Lexicon/H8601-8674#H8610|can be caught]] [[Lexicon/H3001-3100#H3027|in one’s hands ,]] [[Lexicon/H1901-2000#H1931|yet it]] [[Lexicon/H1901-2000#H1964|[is found] in the palaces]] [[Lexicon/H4401-4500#H4428|of kings.]]
+=======
+[[Lexicon/H8001-8100#H8079|and the lizard]] [[Lexicon/H8601-8674#H8610|can be caught]] [[Lexicon/H3001-3100#H3027|in one’s hands ,]] [[Lexicon/H1901-2000#H1931|yet it]] [[Lexicon/H1901-2000#H1964|(is found) in the palaces]] [[Lexicon/H4401-4500#H4428|of kings.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 30 - 29
 [[Lexicon/H1901-2000#H1992|There]] [[Lexicon/H7901-8000#H7969|are three things]] [[Lexicon/H3101-3200#H3190|that are stately]] [[Lexicon/H6801-6900#H6806|in their stride ,]] [[Lexicon/H701-800#H702|and four that]] [[Lexicon/H3101-3200#H3190|are impressive]] [[Lexicon/H1901-2000#H1980|in their walk :]]

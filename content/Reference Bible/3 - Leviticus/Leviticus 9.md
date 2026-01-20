@@ -20,7 +20,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 2|LXX]] |
 
 ##### Leviticus 9 - 3
+<<<<<<< HEAD
 [[Lexicon/H1601-1700#H1696|Then speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|[and] say ,]] [[Lexicon/H3901-4000#H3947|‘ Take]] [[Lexicon/H8101-8200#H8163|a male goat]] [[Lexicon/H5701-5800#H5795|...]] [[Lexicon/H2401-2500#H2403|for a sin offering ,]] [[Lexicon/H5601-5700#H5695|a calf]] [[Lexicon/H3501-3600#H3532|and a lamb —]] [[Lexicon/H1101-1200#H1121|both a year old]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H8501-8600#H8549|[and] without blemish —]] [[Lexicon/H5901-6000#H5930|for a burnt offering ,]]
+=======
+[[Lexicon/H1601-1700#H1696|Then speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|(and) say ,]] [[Lexicon/H3901-4000#H3947|‘ Take]] [[Lexicon/H8101-8200#H8163|a male goat]] [[Lexicon/H5701-5800#H5795|...]] [[Lexicon/H2401-2500#H2403|for a sin offering ,]] [[Lexicon/H5601-5700#H5695|a calf]] [[Lexicon/H3501-3600#H3532|and a lamb —]] [[Lexicon/H1101-1200#H1121|both a year old]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H8501-8600#H8549|(and) without blemish —]] [[Lexicon/H5901-6000#H5930|for a burnt offering ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 3|LXX]] |
 
 ##### Leviticus 9 - 4
@@ -56,7 +60,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 11|LXX]] |
 
 ##### Leviticus 9 - 12
+<<<<<<< HEAD
 [[Lexicon/H7801-7900#H7819|Then [Aaron] slaughtered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5930|the burnt offering.]] [[Lexicon/H101-200#H175|[His]]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H4601-4700#H4672|brought him]] [[Lexicon/H1801-1900#H1818|the blood ,]] [[Lexicon/H2201-2300#H2236|and he sprinkled]] [[Lexicon/H5901-6000#H5921|it on]] [[Lexicon/H5401-5500#H5439|all sides]] [[Lexicon/H4101-4200#H4196|of the altar.]]
+=======
+[[Lexicon/H7801-7900#H7819|Then (Aaron) slaughtered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5930|the burnt offering.]] [[Lexicon/H101-200#H175|(His)]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H4601-4700#H4672|brought him]] [[Lexicon/H1801-1900#H1818|the blood ,]] [[Lexicon/H2201-2300#H2236|and he sprinkled]] [[Lexicon/H5901-6000#H5921|it on]] [[Lexicon/H5401-5500#H5439|all sides]] [[Lexicon/H4101-4200#H4196|of the altar.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 12|LXX]] |
 
 ##### Leviticus 9 - 13
@@ -64,7 +72,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 13|LXX]] |
 
 ##### Leviticus 9 - 14
+<<<<<<< HEAD
 [[Lexicon/H7301-7400#H7364|He washed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7130|the entrails]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3701-3800#H3767|and the legs]] [[Lexicon/H6901-7000#H6999|and burned [them]]] [[Lexicon/H5901-6000#H5921|atop]] [[Lexicon/H5901-6000#H5930|the burnt offering]] [[Lexicon/H4101-4200#H4196|on the altar.]]
+=======
+[[Lexicon/H7301-7400#H7364|He washed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7130|the entrails]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3701-3800#H3767|and the legs]] [[Lexicon/H6901-7000#H6999|and burned (them)]] [[Lexicon/H5901-6000#H5921|atop]] [[Lexicon/H5901-6000#H5930|the burnt offering]] [[Lexicon/H4101-4200#H4196|on the altar.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 14|LXX]] |
 
 ##### Leviticus 9 - 15
@@ -80,11 +92,19 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 17|LXX]] |
 
 ##### Leviticus 9 - 18
+<<<<<<< HEAD
 [[Lexicon/H7801-7900#H7819|Then he slaughtered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7701-7800#H7794|the ox]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H352|and the ram]] [[Lexicon/H5901-6000#H5971|as the people’s]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|peace offering.]] [[Lexicon/H101-200#H175|[His]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H4601-4700#H4672|brought him]] [[Lexicon/H1801-1900#H1818|the blood ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H2201-2300#H2236|and he sprinkled]] [[Lexicon/H5901-6000#H5921|it on]] [[Lexicon/H5401-5500#H5439|all sides]] [[Lexicon/H4101-4200#H4196|of the altar.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 18|LXX]] |
 
 ##### Leviticus 9 - 19
 [[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2459|They also brought the fat portions]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H7701-7800#H7794|the ox]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H301-400#H352|and the ram —]] [[Lexicon/H401-500#H451|the fat tail ,]] [[Lexicon/H4301-4400#H4374|[the fat] covering]] [[Lexicon/H3601-3700#H3629|the entrails, the kidneys ,]] [[Lexicon/H3501-3600#H3508|and the lobe]] [[Lexicon/H3501-3600#H3516|of the liver —]]
+=======
+[[Lexicon/H7801-7900#H7819|Then he slaughtered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7701-7800#H7794|the ox]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H352|and the ram]] [[Lexicon/H5901-6000#H5971|as the people’s]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|peace offering.]] [[Lexicon/H101-200#H175|(His)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H4601-4700#H4672|brought him]] [[Lexicon/H1801-1900#H1818|the blood ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H2201-2300#H2236|and he sprinkled]] [[Lexicon/H5901-6000#H5921|it on]] [[Lexicon/H5401-5500#H5439|all sides]] [[Lexicon/H4101-4200#H4196|of the altar.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 18|LXX]] |
+
+##### Leviticus 9 - 19
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2459|They also brought the fat portions]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H7701-7800#H7794|the ox]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H301-400#H352|and the ram —]] [[Lexicon/H401-500#H451|the fat tail ,]] [[Lexicon/H4301-4400#H4374|(the fat) covering]] [[Lexicon/H3601-3700#H3629|the entrails, the kidneys ,]] [[Lexicon/H3501-3600#H3508|and the lobe]] [[Lexicon/H3501-3600#H3516|of the liver —]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 19|LXX]] |
 
 ##### Leviticus 9 - 20
@@ -92,7 +112,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 20|LXX]] |
 
 ##### Leviticus 9 - 21
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|but]] [[Lexicon/H101-200#H175|[he]]] [[Lexicon/H5101-5200#H5130|waved]] [[Lexicon/H2301-2400#H2373|the breasts]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3225|and the right]] [[Lexicon/H7701-7800#H7785|thigh]] [[Lexicon/H8501-8600#H8573|as a wave offering]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H6601-6700#H6680|had commanded.]]
+=======
+[[Lexicon/H801-900#H853|but]] [[Lexicon/H101-200#H175|(he)]] [[Lexicon/H5101-5200#H5130|waved]] [[Lexicon/H2301-2400#H2373|the breasts]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3225|and the right]] [[Lexicon/H7701-7800#H7785|thigh]] [[Lexicon/H8501-8600#H8573|as a wave offering]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H6601-6700#H6680|had commanded.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 9#Leviticus 9 - 21|LXX]] |
 
 ##### Leviticus 9 - 22

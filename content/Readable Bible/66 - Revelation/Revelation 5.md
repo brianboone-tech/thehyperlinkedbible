@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Revelation-R 5
 
 **[[Home/Scripture/66 - Revelation|Revelation]]**
 
 [[Readable Bible/66 - Revelation/Revelation 4#Revelation-R 4| Revelation 4]] - [[Readable Bible/66 - Revelation/Revelation 6#Revelation-R 6| Revelation 6]]
+=======
+# Revelation 5
+
+[[Readable Bible/66 - Revelation/Revelation 4|← Revelation 4]] | [[Readable Bible/66 - Revelation/Revelation 6|Revelation 6 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -32,13 +38,21 @@ cssClasses: lexicon
 [[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 6|6]] Then I saw a Lamb who appeared to have been slain, standing in the center of the throne, encircled by the four living creatures and the elders. The Lamb had seven horns and seven eyes, which represent the seven Spirits of God sent out into all the earth.  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 6|TOSK]] | [[Trajectory Tables/017 - Brazen Altar (Place of Sacrifice)|TT¹]] | [[Trajectory Tables/114 - Passover (Christ Our Passover Lamb)|TT¹]] | [[Trajectory Tables/115 - Passover (Christ Our Passover)|TT²]] |
 
 ##### Revelation 5 . 7
+<<<<<<< HEAD
 [[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 7|7]] And He came and took the scroll from the right hand of the One seated on the throne.  |  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 7|TOSK]] |
+=======
+[[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 7|7]] And He came and took the scroll from the right hand of the One seated on the throne. |  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 7|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Revelation 5 . 8
 [[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 8|8]] When He had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb. Each one had a harp, and they were holding golden bowls full of incense, which are the prayers of the saints.  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 8|TOSK]] | [[Trajectory Tables/006 - Altar of Incense (Christ's Intercession)|TT¹]] | [[Trajectory Tables/101 - Meat-Offering (Tribute and Thanksgiving)|TT²]] | [[Trajectory Tables/120 - Pleasing Aroma (Divine Acceptance and Propitiation)|TT³]] |
 
 ##### Revelation 5 . 9
+<<<<<<< HEAD
 [[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 9|9]] And they sang a new song: “Worthy are You to take the scroll and open its seals, because You were slain, and by Your blood You purchased for God those from every tribe and tongue and people and nation.  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 9|TOSK]] | [[Trajectory Tables/015 - Boaz (Kinsman-Redeemer)|TT¹]] | [[Trajectory Tables/029 - Church as Israel (New Covenant People)|TT¹]] | [[Trajectory Tables/062 - Garden Commission (Extending Sacred Space)|TT²]] | [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)|TT³]] | [[Trajectory Tables/078 - Isaiah (Suffering Servant Messenger)|TT⁴]] | [[Trajectory Tables/091 - Kingdom of Priests and Holy Nation|TT⁵]] | [[Trajectory Tables/126 - Rahab and Jericho (Faith Saves Gentiles)|TT⁶]] | [[Trajectory Tables/129 - Rejection Then Exaltation (Pattern of Suffering and Glory)|TT⁷]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT⁸]] | [[Trajectory Tables/138 - Samuel (Prophet-Priest-Judge)|TT⁹]] | [[Trajectory Tables/155 - Suffering Servant (Vicarious Atonement)|TT^10]] |
+=======
+[[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 9|9]] And they sang a new song: "Worthy are You to take the scroll and open its seals, because You were slain, and by Your blood You purchased for God those from every tribe and tongue and people and nation.  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 9|TOSK]] | [[Trajectory Tables/015 - Boaz (Kinsman-Redeemer)|TT¹]] | [[Trajectory Tables/029 - Church as Israel (New Covenant People)|TT²]] | [[Trajectory Tables/062 - Garden Commission (Extending Sacred Space)|TT³]] | [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)|TT⁴]] | [[Trajectory Tables/078 - Isaiah (Suffering Servant Messenger)|TT⁵]] | [[Trajectory Tables/091 - Kingdom of Priests and Holy Nation|TT⁶]] | [[Trajectory Tables/126 - Rahab and Jericho (Faith Saves Gentiles)|TT⁷]] | [[Trajectory Tables/129 - Rejection Then Exaltation (Pattern of Suffering and Glory)|TT⁸]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT⁹]] | [[Trajectory Tables/138 - Samuel (Prophet-Priest-Judge)|TT^10]] | [[Trajectory Tables/155 - Suffering Servant (Vicarious Atonement)|TT^11]] | [[181 - The Singing Sufferer (Christ the Choir Master)|TT^12]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Revelation 5 . 10
 [[Reference Bible/66 - Revelation/Revelation 5#Revelation 5 - 10|10]] You have made them to be a kingdom and priests to serve our God, and they will reign upon the earth."  | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 5 - TOSK#Verse 10|TOSK]] | [[Trajectory Tables/091 - Kingdom of Priests and Holy Nation|TT¹]] | [[Trajectory Tables/096 - Levites (Substitutionary Service)|TT¹]] |

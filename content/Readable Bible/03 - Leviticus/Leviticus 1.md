@@ -5,16 +5,27 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Leviticus-R 1
 
 **[[Home/Scripture/03 - Leviticus|Leviticus]]**
 
  [[Readable Bible/02 - Exodus/Exodus 40#Exodus-R 40| Exodus 40]] - [[Readable Bible/03 - Leviticus/Leviticus 2#Leviticus-R 2| Leviticus 2]]
+=======
+# Leviticus 1
+
+
+ [[Readable Bible/02 - Exodus/Exodus 40|Exodus 40]] | [[Readable Bible/03 - Leviticus/Leviticus 2|Leviticus 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Leviticus 1 . 1
+<<<<<<< HEAD
 [[Reference Bible/3 - Leviticus/Leviticus 1#Leviticus 1 - 1|1]] Then the LORD called to Moses and spoke to him from the Tent of Meeting, saying,   || [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 1 to Psalm 40.6|IP]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 1 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/023 - Burnt Offering (Christ's Total Consecration)|TT¹]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT²]] | [[Trajectory Tables/094 - Legal Priesthood (Mediators and Ministers)|TT²]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT³]] |
+=======
+[[Reference Bible/3 - Leviticus/Leviticus 1#Leviticus 1 - 1|1]] Then the LORD called to Moses and spoke to him from the Tent of Meeting, saying,  | | [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 1 to Psalm 40.6|IP]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 1 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/023 - Burnt Offering (Christ's Total Consecration)|TT¹]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT²]] | [[Trajectory Tables/094 - Legal Priesthood (Mediators and Ministers)|TT²]] | [[Trajectory Tables/136 - Sacrificial System (Christ Our Sacrifice)|TT³]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Leviticus 1 . 2
 [[Reference Bible/3 - Leviticus/Leviticus 1#Leviticus 1 - 2|2]] “Speak to the Israelites and tell them: When any of you brings an offering to the LORD, you may bring as your offering an animal from the herd or the flock.  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 1 - TOSK#Verse 2|TOSK]] |

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Romans-R 6
 
 **[[Home/Scripture/45 - Romans|Romans]]**
 
 [[Readable Bible/45 - Romans/Romans 5#Romans-R 5| Romans 5]] - [[Readable Bible/45 - Romans/Romans 7#Romans-R 7| Romans 7]]
+=======
+# Romans 6
+
+[[Readable Bible/45 - Romans/Romans 5|← Romans 5]] | [[Readable Bible/45 - Romans/Romans 7|Romans 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

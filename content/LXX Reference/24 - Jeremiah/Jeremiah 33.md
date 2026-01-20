@@ -30,7 +30,11 @@ Testament: Old
 [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G301-400#G0321|lead]] [[Lexicon/G1401-1500#G1473|to her]] [[Lexicon/G4901-5000#G4927|a closing of her wound]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2386|a cure.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2301-2400#G2394|I will treat]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5319|I will make manifest]] [[Lexicon/G1401-1500#G1473|to them]] [[Lexicon/G1501-1600#G1522|to hear,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|I will make]] [[Lexicon/G1401-1500#G1473|to them]] [[Lexicon/G1501-1600#G1515|peace]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4102|trust.]]
 
 #### Jeremiah 33 - 7
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G601-700#G0654|I will return]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G501-600#G0599|resettlement]] of Judah [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0599|the]] of Israel; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3618|I will build]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4301-4400#G4387|prior.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G601-700#G0654|I will return]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G501-600#G0599|resettlement]] of Judah [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0599|the]] of Israel; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3618|I will build]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4301-4400#G4387|prior.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 33 - 8
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2501-2600#G2511|I will cleanse]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1-100#G0093|their iniquities]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G201-300#G0264|they sinned]] [[Lexicon/G1401-1500#G1473|against me.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G3401-3500#G3403|shall I remember]] [[Lexicon/G201-300#G0266|their sins]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G201-300#G0264|they sinned]] [[Lexicon/G1401-1500#G1473|against me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G0868|separated]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|me.]]
@@ -69,6 +73,7 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|came to pass]] [[Lexicon/G4401-4500#G4487|the]] [[Lexicon/G2901-3000#G2962|of the]] [[Lexicon/G4301-4400#G4314|to]] Jeremiah, [[Lexicon/G3001-3100#G3004|saying,]]
 
 #### Jeremiah 33 - 20
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3779|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G1401-1500#G1437|If]] [[Lexicon/G3501-3600#G3588|the covenant]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1242|my covenant]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3571|night,]] [[Lexicon/G5601-5700#G5620|so as for there]] [[Lexicon/G3301-3400#G3361|to not be]] [[Lexicon/G2201-2300#G2250|a day]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3571|a night]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2540|their time,]]
 
 #### Jeremiah 33 - 21
@@ -76,6 +81,15 @@ Testament: Old
 
 #### Jeremiah 33 - 22
 [[Lexicon/G5601-5700#G5618|As if]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G4101-4200#G4129|I shall multiply]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4690|seed]] of David [[Lexicon/G1101-1200#G1149|my firebrand,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|of the]] Levites [[Lexicon/G3001-3100#G3011|of my ministration.]]
+=======
+[[Lexicon/G3701-3800#G3779|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G1401-1500#G1437|If]] [[Lexicon/G3501-3600#G3588|the covenant]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1242|my covenant]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3571|night,]] [[Lexicon/G5601-5624#G5620|so as for there]] [[Lexicon/G3301-3400#G3361|to not be]] [[Lexicon/G2201-2300#G2250|a day]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3571|a night]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2540|their time,]]
+
+#### Jeremiah 33 - 21
+[[Lexicon/G2501-2600#G2532|then]] [[Lexicon/G1201-1300#G1242|my covenant]] [[Lexicon/G101-200#G0114|being annuled]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G3301-3400#G3326|with]] David [[Lexicon/G1401-1500#G1401|my servant,]] [[Lexicon/G5601-5624#G5620|so as]] [[Lexicon/G3301-3400#G3361|to not be]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G5201-5300#G5207|a son]] [[Lexicon/G901-1000#G0936|reigning]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2301-2400#G2362|his throne]] [[Lexicon/G2501-2600#G2532|nor]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3501-3600#G3588|the]] Levites [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2401-2500#G2409|priests]] [[Lexicon/G3001-3100#G3011|of my ministration.]]
+
+#### Jeremiah 33 - 22
+[[Lexicon/G5601-5624#G5618|As if]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G4101-4200#G4129|I shall multiply]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4690|seed]] of David [[Lexicon/G1101-1200#G1149|my firebrand,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|of the]] Levites [[Lexicon/G3001-3100#G3011|of my ministration.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 33 - 23
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|came to pass]] [[Lexicon/G4401-4500#G4487|the]] [[Lexicon/G2901-3000#G2962|of the]] [[Lexicon/G4301-4400#G4314|to]] Jeremiah, [[Lexicon/G3001-3100#G3004|saying,]]
@@ -87,4 +101,8 @@ Testament: Old
 [[Lexicon/G3701-3800#G3779|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G1401-1500#G1437|If]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3501-3600#G3571|night,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3551|laws]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3772|heaven]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G3301-3400#G3361|then]]
 
 #### Jeremiah 33 - 26
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3779|Thus]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4690|seed]] [[Lexicon/G3501-3600#G3588|of]] Jacob [[Lexicon/G2501-2600#G2532|and]] David [[Lexicon/G1401-1500#G1401|my servant]] [[Lexicon/G1801-1900#G1856|I would have banished,]] [[Lexicon/G5601-5700#G5620|so as]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G4601-4700#G4690|his seed]] [[Lexicon/G701-800#G0758|rulers]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4690|seed]] [[Lexicon/G3501-3600#G3588|of]] Abraham, [[Lexicon/G2501-2600#G2532|and]] of Isaac, [[Lexicon/G2501-2600#G2532|and]] of Jacob. [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G301-400#G0390|I shall return]] [[Lexicon/G101-200#G0161|their captivity,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1601-1700#G1653|I shall show mercy on]] [[Lexicon/G1401-1500#G1473|them.]]
+=======
+[[Lexicon/G3701-3800#G3779|Thus]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4690|seed]] [[Lexicon/G3501-3600#G3588|of]] Jacob [[Lexicon/G2501-2600#G2532|and]] David [[Lexicon/G1401-1500#G1401|my servant]] [[Lexicon/G1801-1900#G1856|I would have banished,]] [[Lexicon/G5601-5624#G5620|so as]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G4601-4700#G4690|his seed]] [[Lexicon/G701-800#G0758|rulers]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4690|seed]] [[Lexicon/G3501-3600#G3588|of]] Abraham, [[Lexicon/G2501-2600#G2532|and]] of Isaac, [[Lexicon/G2501-2600#G2532|and]] of Jacob. [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G301-400#G0390|I shall return]] [[Lexicon/G101-200#G0161|their captivity,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1601-1700#G1653|I shall show mercy on]] [[Lexicon/G1401-1500#G1473|them.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

@@ -69,7 +69,11 @@ Shimei [[Lexicon/G5201-5300#G5207|son]] of Elah Benjamin.
 Geber [[Lexicon/G5201-5300#G5207|son]] of Uri [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Gilead of Sihon [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G3501-3600#G3588|of the]] Amorites, [[Lexicon/G2501-2600#G2532|and]] Og [[Lexicon/G901-1000#G0935|king]] of Bashan; [[Lexicon/G2501-2600#G2532|and]] Naseb [[Lexicon/G1701-1800#G1722|in]] of Judah
 
 #### 1 Kings 4 - 20
+<<<<<<< HEAD
 Judah [[Lexicon/G2501-2600#G2532|and]] Israel [[Lexicon/G4101-4200#G4183|many]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0285|sand]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2281|sea]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G4101-4200#G4128|multitude,]] [[Lexicon/G2001-2100#G2068|eating]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4001-4100#G4095|drinking]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5463|rejoicing.]]
+=======
+Judah [[Lexicon/G2501-2600#G2532|and]] Israel [[Lexicon/G4101-4200#G4183|many]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0285|sand]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2281|sea]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G4101-4200#G4128|multitude,]] [[Lexicon/G2001-2100#G2068|eating]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4001-4100#G4095|drinking]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5463|rejoicing.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Kings 4 - 21
 [[Lexicon/G2501-2600#G2532|And]] Solomon [[Lexicon/G3701-3800#G3739|was]] [[Lexicon/G701-800#G0758|ruler]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0932|kingdoms]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1001-1100#G1093|of the land]] of the Philistines [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2193|unto]] of Egypt. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|they were]] [[Lexicon/G4301-4400#G4374|bringing]] [[Lexicon/G1401-1500#G1435|gifts,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1398|they served]] Solomon [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G2201-2300#G2222|of his life.]]
@@ -96,7 +100,11 @@ Judah [[Lexicon/G2501-2600#G2532|and]] Israel [[Lexicon/G4101-4200#G4183|many]] 
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2915|barley]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G801-900#G0892|straw]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G2401-2500#G2462|horses]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0716|chariots]] [[Lexicon/G101-200#G0142|they took]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5101-5200#G5117|place]] [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G1501-1600#G1510|might be]] [[Lexicon/G1501-1600#G1538|each]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G4901-5000#G4928|his arrangement.]]
 
 #### 1 Kings 4 - 29
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5401-5500#G5428|intellect]] to Solomon [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4678|wisdom]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5559|an increase]] [[Lexicon/G2501-2600#G2588|in heart,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0285|sand]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2281|sea.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5401-5500#G5428|intellect]] to Solomon [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4678|wisdom]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5559|an increase]] [[Lexicon/G2501-2600#G2588|in heart,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0285|sand]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2281|sea.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Kings 4 - 30
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4129|Solomon multiplied]] [[Lexicon/G4901-5000#G4970|exceedingly]] [[Lexicon/G5201-5300#G5228|over]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5428|intellect]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G401-500#G0444|men,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5228|above]] [[Lexicon/G3901-4000#G3956|all]] of Egypt.

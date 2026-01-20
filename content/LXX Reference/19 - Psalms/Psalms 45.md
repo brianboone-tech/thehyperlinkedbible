@@ -18,7 +18,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2566|in beauty]] [[Lexicon/G3801-3900#G3844|than]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G401-500#G0444|of men.]] [[Lexicon/G1601-1700#G1632|was poured out]] [[Lexicon/G1701-1800#G1722|on]] [[Lexicon/G5401-5500#G5491|your lips.]] [[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2101-2200#G2127|blessed]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon.]]
 
 #### Psalms 45 - 3
+<<<<<<< HEAD
 [[Lexicon/G4001-4100#G4024|Gird]] [[Lexicon/G4501-4600#G4501|your broadsword]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3301-3400#G3382|your thigh!]] [[Lexicon/G1401-1500#G1415|O mighty one,]] [[Lexicon/G5601-5700#G5611|in your beauty.]]
+=======
+[[Lexicon/G4001-4100#G4024|Gird]] [[Lexicon/G4501-4600#G4501|your broadsword]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3301-3400#G3382|your thigh!]] [[Lexicon/G1401-1500#G1415|O mighty one,]] [[Lexicon/G5601-5624#G5611|in your beauty.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 45 - 4
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2501-2600#G2566|your fineness,]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G1701-1800#G1780|stretch tight your bow,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2720|greatly prosper,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G901-1000#G0936|reign!]] [[Lexicon/G1701-1800#G1752|Because of]] [[Lexicon/G201-300#G0225|truth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4201-4300#G4236|gentleness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1343|righteousness]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G3501-3600#G3594|shall guide]]

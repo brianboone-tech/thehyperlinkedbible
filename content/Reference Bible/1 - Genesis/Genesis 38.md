@@ -21,7 +21,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 2|LXX]] |
 
 ##### Genesis 38 - 3
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2029|So she conceived]] [[Lexicon/H3201-3300#H3205|and gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H7101-7200#H7121|and [Judah] named]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8034|him]] [[Lexicon/H6101-6200#H6147|Er.]]
+=======
+[[Lexicon/H2001-2100#H2029|So she conceived]] [[Lexicon/H3201-3300#H3205|and gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H7101-7200#H7121|and (Judah) named]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8001-8100#H8034|him]] [[Lexicon/H6101-6200#H6147|Er.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 3|LXX]] |
 
 ##### Genesis 38 - 4
@@ -49,7 +53,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 9|LXX]] |
 
 ##### Genesis 38 - 10
+<<<<<<< HEAD
 [[Lexicon/H801-900#H834|What]] [[Lexicon/H6201-6300#H6213|he did]] [[Lexicon/H7401-7500#H7489|was wicked]] [[Lexicon/H5801-5900#H5869|in the sight]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H4101-4200#H4191|so He put [Onan] to death]] [[Lexicon/H1501-1600#H1571|as well]] [[Lexicon/H801-900#H853|-.]]
+=======
+[[Lexicon/H801-900#H834|What]] [[Lexicon/H6201-6300#H6213|he did]] [[Lexicon/H7401-7500#H7489|was wicked]] [[Lexicon/H5801-5900#H5869|in the sight]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H4101-4200#H4191|so He put (Onan) to death]] [[Lexicon/H1501-1600#H1571|as well]] [[Lexicon/H801-900#H853|-.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 10|LXX]] |
 
 ##### Genesis 38 - 11
@@ -77,7 +85,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 16|LXX]] |
 
 ##### Genesis 38 - 17
+<<<<<<< HEAD
 [[Lexicon/H501-600#H595|“ I]] [[Lexicon/H7901-8000#H7971|will send you]] [[Lexicon/H1401-1500#H1423|a young goat]] [[Lexicon/H5701-5800#H5795|...]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H6601-6700#H6629|my flock , ”]] [[Lexicon/H501-600#H559|[Judah] answered.]] [[Lexicon/H501-600#H559|But she replied ,]] [[Lexicon/H501-600#H518|“ Only if]] [[Lexicon/H5401-5500#H5414|you leave me]] [[Lexicon/H6101-6200#H6162|something as a pledge]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H7901-8000#H7971|you send it. ”]]
+=======
+[[Lexicon/H501-600#H595|“ I]] [[Lexicon/H7901-8000#H7971|will send you]] [[Lexicon/H1401-1500#H1423|a young goat]] [[Lexicon/H5701-5800#H5795|...]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H6601-6700#H6629|my flock , ”]] [[Lexicon/H501-600#H559|(Judah) answered.]] [[Lexicon/H501-600#H559|But she replied ,]] [[Lexicon/H501-600#H518|“ Only if]] [[Lexicon/H5401-5500#H5414|you leave me]] [[Lexicon/H6101-6200#H6162|something as a pledge]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H7901-8000#H7971|you send it. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 17|LXX]] |
 
 ##### Genesis 38 - 18
@@ -89,7 +101,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 19|LXX]] |
 
 ##### Genesis 38 - 20
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3063|Now when Judah]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H7401-7500#H7453|his friend [Hirah]]] [[Lexicon/H5701-5800#H5726|the Adullamite]] [[Lexicon/H3001-3100#H3027|with]] [[Lexicon/H1401-1500#H1423|the young goat]] [[Lexicon/H5701-5800#H5795|...]] [[Lexicon/H3901-4000#H3947|to collect]] [[Lexicon/H6101-6200#H6162|the items he had left with]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H801-900#H802|the woman ,]] [[Lexicon/H3801-3900#H3808|he could not]] [[Lexicon/H4601-4700#H4672|find her.]]
+=======
+[[Lexicon/H3001-3100#H3063|Now when Judah]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H7401-7500#H7453|his friend (Hirah)]] [[Lexicon/H5701-5800#H5726|the Adullamite]] [[Lexicon/H3001-3100#H3027|with]] [[Lexicon/H1401-1500#H1423|the young goat]] [[Lexicon/H5701-5800#H5795|...]] [[Lexicon/H3901-4000#H3947|to collect]] [[Lexicon/H6101-6200#H6162|the items he had left with]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H801-900#H802|the woman ,]] [[Lexicon/H3801-3900#H3808|he could not]] [[Lexicon/H4601-4700#H4672|find her.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 20|LXX]] |
 
 ##### Genesis 38 - 21
@@ -97,7 +113,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 21|LXX]] |
 
 ##### Genesis 38 - 22
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7725|So [Hirah] returned]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H3801-3900#H3808|“ I could not]] [[Lexicon/H4601-4700#H4672|find her ,]] [[Lexicon/H1501-1600#H1571|and furthermore ,]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H4701-4800#H4725|of that place]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H3801-3900#H3808|‘ No]] [[Lexicon/H6901-7000#H6948|shrine prostitute]] [[Lexicon/H1901-2000#H1961|has been]] [[Lexicon/H2001-2100#H2088|here. ’”]]
+=======
+[[Lexicon/H7701-7800#H7725|So (Hirah) returned]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H3801-3900#H3808|“ I could not]] [[Lexicon/H4601-4700#H4672|find her ,]] [[Lexicon/H1501-1600#H1571|and furthermore ,]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H4701-4800#H4725|of that place]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H3801-3900#H3808|‘ No]] [[Lexicon/H6901-7000#H6948|shrine prostitute]] [[Lexicon/H1901-2000#H1961|has been]] [[Lexicon/H2001-2100#H2088|here. ’”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 22|LXX]] |
 
 ##### Genesis 38 - 23
@@ -109,6 +129,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 24|LXX]] |
 
 ##### Genesis 38 - 25
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1931|As she]] [[Lexicon/H3301-3400#H3318|was being brought out ,]] [[Lexicon/H1901-2000#H1931|[Tamar]]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H501-600#H559|a message]] [[Lexicon/H301-400#H376|]] [[Lexicon/H401-500#H413|to her]] [[Lexicon/H2501-2600#H2524|father-in-law :]] [[Lexicon/H501-600#H595|“ I am]] [[Lexicon/H2001-2100#H2030|pregnant]] [[Lexicon/H801-900#H834|by the man to whom]] [[Lexicon/H401-500#H428|these items]] [[Lexicon/H501-600#H559|And she added ,]] [[Lexicon/H4901-5000#H4994|“ Please]] [[Lexicon/H5201-5300#H5234|examine them.]] [[Lexicon/H4301-4400#H4310|Whose]] [[Lexicon/H2801-2900#H2858|seal]] [[Lexicon/H6601-6700#H6616|and cord]] [[Lexicon/H4201-4300#H4294|and staff]] [[Lexicon/H401-500#H428|are these ? ”]]
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 25|LXX]] |
 
@@ -122,6 +143,21 @@ Testament: Old
 
 ##### Genesis 38 - 28
 [[Lexicon/H1901-2000#H1961|And]] [[Lexicon/H3201-3300#H3205|as she was giving birth ,]] [[Lexicon/H5401-5500#H5414|one of them put out]] [[Lexicon/H3001-3100#H3027|his hand ;]] [[Lexicon/H3201-3300#H3205|so the midwife]] [[Lexicon/H3901-4000#H3947|took]] [[Lexicon/H8101-8200#H8144|a scarlet thread]] [[Lexicon/H7101-7200#H7194|and tied [it]]] [[Lexicon/H5901-6000#H5921|around]] [[Lexicon/H3001-3100#H3027|his wrist.]] [[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H3301-3400#H3318|one came out]] [[Lexicon/H7201-7300#H7223|first , ”]] [[Lexicon/H501-600#H559|she announced.]]
+=======
+[[Lexicon/H1901-2000#H1931|As she]] [[Lexicon/H3301-3400#H3318|was being brought out ,]] [[Lexicon/H1901-2000#H1931|(Tamar)]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H501-600#H559|a message]] [[Lexicon/H301-400#H376|]] [[Lexicon/H401-500#H413|to her]] [[Lexicon/H2501-2600#H2524|father-in-law :]] [[Lexicon/H501-600#H595|“ I am]] [[Lexicon/H2001-2100#H2030|pregnant]] [[Lexicon/H801-900#H834|by the man to whom]] [[Lexicon/H401-500#H428|these items]] [[Lexicon/H501-600#H559|And she added ,]] [[Lexicon/H4901-5000#H4994|“ Please]] [[Lexicon/H5201-5300#H5234|examine them.]] [[Lexicon/H4301-4400#H4310|Whose]] [[Lexicon/H2801-2900#H2858|seal]] [[Lexicon/H6601-6700#H6616|and cord]] [[Lexicon/H4201-4300#H4294|and staff]] [[Lexicon/H401-500#H428|are these ? ”]]
+| [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 25|LXX]] |
+
+##### Genesis 38 - 26
+[[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H5201-5300#H5234|recognized (the items)]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H6601-6700#H6663|“ She is more righteous]] [[Lexicon/H4401-4500#H4480|than I ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H3801-3900#H3808|I did not]] [[Lexicon/H5401-5500#H5414|give her]] [[Lexicon/H1101-1200#H1121|to my son]] [[Lexicon/H7901-8000#H7956|Shelah. ”]] [[Lexicon/H3801-3900#H3808|And he did not]] [[Lexicon/H3001-3100#H3045|have relations with her]] [[Lexicon/H3201-3300#H3254|again]] [[Lexicon/H5701-5800#H5750|....]]
+| [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 26|LXX]] |
+
+##### Genesis 38 - 27
+[[Lexicon/H6201-6300#H6256|When the time]] [[Lexicon/H1901-2000#H1961|came]] [[Lexicon/H3201-3300#H3205|for (Tamar) to give birth ,]] [[Lexicon/H2001-2100#H2009|there]] [[Lexicon/H8301-8400#H8380|were twins]] [[Lexicon/H901-1000#H990|in her womb.]]
+| [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 27|LXX]] |
+
+##### Genesis 38 - 28
+[[Lexicon/H1901-2000#H1961|And]] [[Lexicon/H3201-3300#H3205|as she was giving birth ,]] [[Lexicon/H5401-5500#H5414|one of them put out]] [[Lexicon/H3001-3100#H3027|his hand ;]] [[Lexicon/H3201-3300#H3205|so the midwife]] [[Lexicon/H3901-4000#H3947|took]] [[Lexicon/H8101-8200#H8144|a scarlet thread]] [[Lexicon/H7101-7200#H7194|and tied (it)]] [[Lexicon/H5901-6000#H5921|around]] [[Lexicon/H3001-3100#H3027|his wrist.]] [[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H3301-3400#H3318|one came out]] [[Lexicon/H7201-7300#H7223|first , ”]] [[Lexicon/H501-600#H559|she announced.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 38#Genesis 38 - 28|LXX]] |
 
 ##### Genesis 38 - 29

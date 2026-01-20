@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Judges 19 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/07 - Judges|← Judges]]** | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 20 - TOSK|Ch 20 →]]
+=======
+**[[Home/Indexes/Readable Bible/07 - Judges|← Judges]]** | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/07. Judges TOSK/Judges - 20 - TOSK|Ch 20 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

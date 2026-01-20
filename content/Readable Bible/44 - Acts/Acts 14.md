@@ -5,12 +5,18 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Acts-R 14
 
 **[[Home/Scripture/44 - Acts|Acts]]**
 
 
 [[Readable Bible/44 - Acts/Acts 13#Acts-R 13| Acts 13]] - [[Readable Bible/44 - Acts/Acts 15#Acts-R 15| Acts 15]]
+=======
+# Acts 14
+
+[[Readable Bible/44 - Acts/Acts 13|← Acts 13]] | [[Readable Bible/44 - Acts/Acts 15|Acts 15 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

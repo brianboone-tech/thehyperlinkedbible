@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## REMNANT (FAITHFUL FEW PRESERVED) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fCWPKL34osQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -8,6 +16,7 @@ The remnant theme runs throughout Scripture as God's consistent pattern of prese
 
 **Type Classification**: **Providential Type** (sovereignly arranged historical pattern) and **Forward-Looking** (prophetic remnant texts explicitly anticipate fulfillment).
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Type - Noah's Family** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 6#Genesis 6 . 8\|Genesis 6:8]]; [[Readable Bible/01 - Genesis/Genesis 7#Genesis 7 . 23\|Genesis 7:23]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/01 - Genesis 6.8, 7.23\|Genesis 6:8]] | "Noah found favor (חֵן) in the eyes of the LORD... Only Noah was left (וַיִשָּׁאֶר), and those who were with him in the ark." The foundational remnant narrative: divine judgment (flood) destroys sinful humanity while grace (חֵן) preserves a faithful few through whom God's purposes continue. Noah's eight prefigure all who are saved through faith. | **OT to OT:**<br>[[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.14 to Genesis 6\|Ezek 14:14→Gen 6]]<br><br>**NT to OT:**<br>[[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 11.7 to Genesis 6.13-22\|Heb 11:7→Gen 6]] |
@@ -24,6 +33,104 @@ The remnant theme runs throughout Scripture as God's consistent pattern of prese
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Type - Noah's Family** | [[Readable Bible/01 - Genesis/Genesis 6#Genesis 6 . 8\|Genesis 6:8]]; [[Readable Bible/01 - Genesis/Genesis 7#Genesis 7 . 23\|Genesis 7:23]] | "Noah found favor (חֵן) in the eyes of the LORD... Only Noah was left (וַיִשָּׁאֶר), and those who were with him in the ark." The foundational remnant narrative: divine judgment (flood) destroys sinful humanity while grace (חֵן) preserves a faithful few through whom God's purposes continue. Noah's eight prefigure all who are saved through faith. **CRITICAL:** [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.14 to Genesis 6\|Ezek 14:14→Gen 6]] **CRITICAL:** [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 11.7 to Genesis 6.13-22\|Heb 11:7→Gen 6]] | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/01 - Genesis 6.8, 7.23\|Genesis 6:8]] |
+| 2 | **OT Type - Elijah's 7,000** | [[Readable Bible/11 - 1 Kings/1 Kings 19#1 Kings 19 . 18\|1 Kings 19:18]] | "Yet I will leave (וְהִשְׁאַרְתִּי) seven thousand in Israel, all the knees that have not bowed to Baal." The 7,000 remnant demonstrates God preserves faithful Israel even in apparent total apostasy. This becomes paradigmatic for remnant theology throughout Scripture, including Paul's quotation in Romans 11:4. **CRITICAL:** [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 11.2-4 to 1 Kings 19.10\|Rom 11:2-4→1 Kgs 19]] | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/11 - 1 Kings 19.18\|1 Kings 19:18]] |
+| 3 | **OT Development - Sodom's Survivors** | [[Readable Bible/23 - Isaiah/Isaiah 1#Isaiah 1 . 9\|Isaiah 1:9]] | "Unless the LORD of hosts had left us a few survivors (שָׂרִיד), we should have been like Sodom, and become like Gomorrah." Isaiah establishes the judicial context: without remnant preservation, total destruction like Sodom would follow. The "survivors" (שָׂרִיד) language shows mercy in the midst of judgment. | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/23 - Isaiah 1.9, 10.20-22\|Isaiah 1:9]] |
+| 4 | **Prophetic Anticipation - Holy Seed** | [[Readable Bible/23 - Isaiah/Isaiah 6#Isaiah 6 . 13\|Isaiah 6:13]] | "The holy seed (זֶרַע קֹדֶשׁ) is its stump." After Isaiah's devastating hardening commission (vv. 9-12), hope emerges: a holy seed remains as a stump. The tree is felled, but life persists. This foundational text shows remnant as solution to covenant faithlessness—the preserved kernel continues God's purposes. **CRITICAL:** [[Intertextuality Pairs/OT to OT/05 - Deuteronomy/Deuteronomy 7.6 to Isaiah 6.13\|Deut 7:6→Isa 6:13]] **CRITICAL:** [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 19.6 to Isaiah 6.13\|Exo 19:6→Isa 6:13]] **CRITICAL:** [[Intertextuality Pairs/NT to OT/40 - Matthew/Matthew 13.14-15 to Isaiah 6.9-10\|Matt 13:14-15→Isa 6]] **CRITICAL:** [[Intertextuality Pairs/NT to OT/41 - Mark/Mark 4.12 to Isaiah 6.9-10\|Mark 4:12→Isa 6]] **CRITICAL:** [[Intertextuality Pairs/NT to OT/43 - John/John 12.39-40 to Isaiah 6.10\|John 12:39-40→Isa 6]] **CRITICAL:** [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 28.25-27 to Isaiah 6.9-10\|Acts 28:25-27→Isa 6]] | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/23 - Isaiah 6.13, 11.11-16\|Isaiah 6:13]] |
+| 5 | **Prophetic Anticipation - Remnant Returns** | [[Readable Bible/23 - Isaiah/Isaiah 10#Isaiah 10 . 21\|Isaiah 10:20-22]] | "A remnant will return (שְׁאָר יָשׁוּב), the remnant of Jacob, to the mighty God. For though your people Israel be as the sand of the sea, only a remnant of them will return." Isaiah uses the foundational vocabulary (שְׁאָר—remnant) seven times in this chapter, establishing the theological framework Paul later applies in Romans 9:27-29. **CRITICAL:** [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 10.26 to Judges 7.25\|Isa 10:26→Judg 7:25]] **CRITICAL:** [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 11.15-16 to Exodus 23.20\|Isa 11:15-16→Exo 23:20]] **CRITICAL:** [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 9.27-29 to Isaiah 10.22\|Rom 9:27-29→Isa 10:22]] **CRITICAL:** [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 15.12 to Isaiah 11.10\|Rom 15:12→Isa 11:10]] | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/23 - Isaiah 10.20-22\|Isaiah 10:20-22]] |
+| 6 | **Prophetic Anticipation - Post-Exilic Remnant** | [[Readable Bible/15 - Ezra/Ezra 9#Ezra 9 . 8\|Ezra 9:8]]; [[Readable Bible/38 - Zechariah/Zechariah 8#Zechariah 8 . 6\|Zechariah 8:6-12]] | "To give us a surviving remnant (פְּלֵיטָה) and a secure hold within his holy place." The returned exiles represent the preserved few who must maintain covenant holiness. Ezra's lament over intermarriage shows the remnant's ongoing struggle—those whom God preserves must live as a "holy seed." | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/15 - Ezra 9.8, Zechariah 8.6-12\|Ezra 9:8]] |
+| 7 | **Prophetic Anticipation - Gathered Flock** | [[Readable Bible/24 - Jeremiah/Jeremiah 23#Jeremiah 23 . 3\|Jeremiah 23:3]]; [[Readable Bible/26 - Ezekiel/Ezekiel 34#Ezekiel 34 . 12\|Ezekiel 34:12]] | "I will gather the remnant (שְׁאֵרִית) of my flock out of all the countries where I have driven them." Both Jeremiah and Ezekiel promise divine intervention to preserve and restore the covenant community through the Messianic Shepherd. The scattered remnant will be regathered by the true Davidic Shepherd. **CRITICAL:** [[Intertextuality Pairs/OT to OT/24 - Jeremiah/Jeremiah 23.1 to Ezekiel 34.23\|Jer 23:1→Ezek 34:23]] | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/24 - Jeremiah 23.3, Ezekiel 6.8-10\|Jeremiah 23:3]] |
+| 8 | **NT Fulfillment - Election by Grace** | [[Readable Bible/45 - Romans/Romans 9#Romans 9 . 27\|Romans 9:27-29]] | "Though the number of the sons of Israel be as the sand of the sea, only a remnant (ὑπόλειμμα) of them will be saved." Paul quotes Isaiah's foundational remnant texts (10:22; 1:9), applying the same pattern to Jewish unbelief in his day. The remnant principle explains why mass rejection doesn't nullify God's promises—grace preserves a believing few. | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/45 - Romans 9.27-29, 11.1-5\|Romans 9:27-29]] |
+| 9 | **NT Fulfillment - Present Remnant** | [[Readable Bible/45 - Romans/Romans 11#Romans 11 . 5\|Romans 11:1-5]] | "So too at the present time there is a remnant (λεῖμμα), chosen by grace." Paul explicitly parallels Elijah's 7,000 with believing Jews in his day. The remnant principle continues: "God has not rejected his people whom he foreknew." Grace, not works, determines remnant membership—this is the "remnant according to the election of grace." | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/45 - Romans 11.1-5\|Romans 11:1-5]] |
+| 10 | **NT Application - Full Number** | [[Readable Bible/45 - Romans/Romans 11#Romans 11 . 25\|Romans 11:25-26]] | "A partial hardening has come upon Israel, until the fullness of the Gentiles has come in. And in this way all Israel will be saved." The Deliverer from Zion gathers the full remnant—Jewish believers throughout history plus future mass conversion. "All Israel" = the complete remnant from all generations. | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/45 - Romans 11.25-26, Galatians 3.29\|Romans 11:25-26]] |
+| 11 | **Eschatological Consummation - Multitude from Every Nation** | [[Readable Bible/66 - Revelation/Revelation 7#Revelation 7 . 9\|Revelation 7:9-14]] | "A great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne." The remnant principle reaches its zenith: the "few" becomes innumerable—not through lower standards but through Christ's effective redemption from all peoples. The preserved remnant becomes a vast multitude washed in the Lamb's blood. | [[Trajectory Tables - Foundation Texts/Remnant (Faithful Few Preserved)/66 - Revelation 7.9-14, 14.1-5\|Revelation 7:9-14]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+
+**02 - Exodus**
+
+- [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 14.16 to Isaiah 10.26\|Exodus 14.16 to Isaiah 10.26]] - Red Sea deliverance pattern (preservation of faithful Israel through judgment on Egypt) connects to Isaiah's promise of future deliverance using same exodus typology. Isaiah 10:20-22 explicitly mentions "the remnant will return" (שְׁאָר יָשׁוּב). This pair demonstrates remnant preservation through divine judgment on oppressors.
+
+- [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 19.6 to Isaiah 6.13\|Exodus 19.6 to Isaiah 6.13]] - "Holy nation" (גוֹי קָדוֹשׁ) at Sinai connects directly to Isaiah's "holy seed" (זֶרַע קֹדֶשׁ) as the remnant. Both passages use holiness language to describe the preserved community. Isaiah 6:13 is foundational remnant text - even after judgment devastating the land, a holy seed remains as a stump. Exodus 19:6 establishes Israel's covenantal identity that the remnant continues.
+
+- [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 34.11 to Ezra 9.1-2\|Exodus 34.11 to Ezra 9.1-2]] - Covenant command against intermarriage connects to post-exilic remnant's struggle to maintain holiness. Ezra 9:2 uses "holy seed" (זֶרַע הַקֹּדֶשׁ) language - the returning remnant must preserve covenant distinctiveness. This pair shows remnant preservation requires ongoing separation from corruption.
+
+- [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 34.11 to Ezra 9.1\|Exodus 34.11 to Ezra 9.1]] - Same holy seed preservation theme. Ezra's lament over the remnant's compromised holiness directly connects to Exodus covenant commands. The "holy seed" terminology makes this explicitly remnant-focused.
+
+**03 - Leviticus**
+
+- [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 18.27 to Ezra 9.11-12\|Leviticus 18.27 to Ezra 9.11-12]] - Land defilement warnings connect to Ezra's concern for the returned remnant. The post-exilic community represents survivors (פְּלֵיטָה, Ezra 9:8 "a surviving remnant") who must avoid the sins that brought exile. This pair shows remnant theology requiring covenant obedience to maintain preservation.
+
+- [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 18.27 to Ezra 9.11\|Leviticus 18.27 to Ezra 9.11]] - Same land defilement concern applied to the remnant. Ezra 9:8 explicitly states "to leave us a remnant" (לִתֶּת־לָנוּ פְלֵיטָה). The returned exiles are the preserved few who must maintain holiness.
+
+**05 - Deuteronomy**
+
+- [[Intertextuality Pairs/OT to OT/05 - Deuteronomy/Deuteronomy 7.1-3 to Ezra 9.1\|Deuteronomy 7.1-3 to Ezra 9.1]] - Conquest-era separation commands applied to post-exilic remnant. Ezra 9:1-2 concerns the "holy seed" mixing with surrounding peoples. The remnant's preservation requires maintaining covenant distinctiveness established in Deuteronomy.
+
+- [[Intertextuality Pairs/OT to OT/05 - Deuteronomy/Deuteronomy 7.6 to Isaiah 6.13\|Deuteronomy 7.6 to Isaiah 6.13]] - **CRITICAL:** "Holy people" (עַם קָדוֹשׁ) chosen by God connects directly to Isaiah's "holy seed" (זֶרַע קֹדֶשׁ) as the remnant stump. This is explicit remnant theology - Israel's election is preserved through judgment in a purified remnant that carries forward covenant identity.
+
+- [[Intertextuality Pairs/OT to OT/05 - Deuteronomy/Deuteronomy 32.1 to Isaiah 1.2\|Deuteronomy 32.1 to Isaiah 1.2]] - Covenant lawsuit format ("hear, O heavens") connects Moses' song to Isaiah's indictment. Isaiah 1:9 immediately follows with foundational remnant text: "Unless the LORD of hosts had left us a few survivors (שָׂרִיד), we should have been like Sodom." This pair frames judgment leading to remnant preservation.
+
+**11 - 1 Kings**
+
+- [[Intertextuality Pairs/OT to OT/11 - 1 Kings/1 Kings 19.11 to Exodus 33.21\|1 Kings 19.11 to Exodus 33.21]] - Reverses earlier Exodus 33:21 to 1 Kings 19:11 pair. Elijah's theophany leads to revelation of 7,000 remnant (1 Kings 19:18), demonstrating God preserves faithful Israel even in apparent total apostasy. This is foundational remnant text using שׁאר vocabulary.
+
+- [[Intertextuality Pairs/OT to OT/11 - 1 Kings/1 Kings 19.11-13 to Exodus 33.21-22\|1 Kings 19.11-13 to Exodus 33.21-22]] - Same theophanic parallel with explicit remnant revelation context. The 7,000 who "have not bowed to Baal" become paradigmatic for remnant theology throughout Scripture, including Paul's quotation in Romans 11:4.
+
+**15 - Ezra**
+
+- [[Intertextuality Pairs/OT to OT/15 - Ezra/Ezra 9.1-2 to Exodus 34.11\|Ezra 9.1-2 to Exodus 34.11]] - Holy seed preservation concern of post-exilic remnant connects to Sinai covenant commands. Ezra 9:2 uses explicit remnant language: "the holy seed (זֶרַע הַקֹּדֶשׁ) has mixed itself." The returned exiles are the preserved remnant whose holiness must be maintained.
+
+- [[Intertextuality Pairs/OT to OT/15 - Ezra/Ezra 9.11-12 to Leviticus 18.27\|Ezra 9.11-12 to Leviticus 18.27]] - Land defilement warnings applied to remnant community. Ezra 9:8 states "to give us a remnant (פְלֵיטָה) and a secure hold within his holy place." This explicitly identifies the post-exilic community as the surviving remnant preserved by grace.
+
+**23 - Isaiah**
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 1.2 to Deuteronomy 32.1\|Isaiah 1.2 to Deuteronomy 32.1]] - Covenant lawsuit introduction connects to remnant theology in Isaiah 1:9: "Unless the LORD had left us a few survivors (שָׂרִיד), we should have been like Sodom." This pair establishes the judicial context requiring remnant preservation - total judgment would mean complete destruction.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 1.10 to Deuteronomy 29.23\|Isaiah 1.10 to Deuteronomy 29.23]] - Sodom comparison frames remnant necessity. Isaiah 1:9 (between vv. 2 and 10) provides the key: "left us survivors" (הוֹתִיר לָנוּ שָׂרִיד). Without remnant preservation, Judah would experience total Sodom-like destruction. This pair demonstrates mercy in judgment through remnant.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 6.9 to Deuteronomy 29.2\|Isaiah 6.9 to Deuteronomy 29.2]] - Judicial hardening connects Moses' observation to Isaiah's commission. Isaiah 6:13 immediately provides remnant hope: "the holy seed is its stump." This pair demonstrates the pattern - widespread hardening/judgment → remnant preserved. The faithful few remain despite mass apostasy.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 6.9-10 to Deuteronomy 29.2-4\|Isaiah 6.9-10 to Deuteronomy 29.2-4]] - Expanded hardening parallel with remnant resolution. Isaiah 6:13's "holy seed" provides hope beyond the judgment decreed in vv. 9-12. This establishes remnant as solution to covenant faithlessness - preserved kernel continues God's purposes.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 6.13 to Deuteronomy 7.6\|Isaiah 6.13 to Deuteronomy 7.6]] - **CRITICAL:** "Holy seed" (זֶרַע קֹדֶשׁ) connects directly to "holy people" (עַם קָדוֹשׁ). This is explicit, foundational remnant theology - the chosen people's identity survives judgment in a holy remnant. The stump imagery (מַצֶּבֶת) shows life persisting after devastation.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 6.13 to Exodus 19.6\|Isaiah 6.13 to Exodus 19.6]] - **CRITICAL:** Holy seed remnant connects to Sinai's "holy nation" (גוֹי קָדוֹשׁ). Israel's covenantal calling continues through the preserved remnant despite judgment. This pair demonstrates covenant continuity through remnant preservation.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 10.26 to Exodus 14.16\|Isaiah 10.26 to Exodus 14.16]] - Divine deliverance at Red Sea parallels future remnant deliverance. Isaiah 10:20-22 provides explicit remnant theology: "A remnant will return (שְׁאָר יָשׁוּב), the remnant of Jacob." This pair uses exodus typology to promise remnant preservation through judgment.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 10.26 to Judges 7.25\|Isaiah 10.26 to Judges 7.25]] - **CRITICAL:** Midianite defeat parallels Assyrian judgment with remnant preservation. Isaiah 10:20-22 contains foundational remnant vocabulary (שְׁאָר - remnant, seven times in Isaiah 10). The faithful few return to "the Mighty God" (אֵל גִּבּוֹר, same title as Messiah in 9:6).
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 11.15 to Exodus 23.20\|Isaiah 11.15 to Exodus 23.20]] - New exodus highway for remnant return uses original exodus typology. Isaiah 11:11 states "the Lord will extend his hand...to recover the remnant (שְׁאָר) of his people." This pair demonstrates preservation through second exodus.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 11.15-16 to Exodus 23.20\|Isaiah 11.15-16 to Exodus 23.20]] - **CRITICAL:** Extended new exodus vision for remnant return. Verse 16 explicitly states "there will be a highway...for the remnant (לִשְׁאָר) of his people." This is direct remnant preservation language using exodus deliverance pattern.
+
+**24 - Jeremiah**
+
+- [[Intertextuality Pairs/OT to OT/24 - Jeremiah/Jeremiah 23.1 to Ezekiel 34.23\|Jeremiah 23.1 to Ezekiel 34.23]] - **CRITICAL:** False shepherds scatter flock; true Davidic Shepherd gathers remnant. Jeremiah 23:3 promises "I will gather the remnant (שְׁאֵרִית) of my flock." This pair develops remnant theology through shepherd imagery - God preserves and regathers the scattered faithful.
+
+- [[Intertextuality Pairs/OT to OT/24 - Jeremiah/Jeremiah 23.1-6 to Ezekiel 34.23-31\|Jeremiah 23.1-6 to Ezekiel 34.23-31]] - Extended shepherd oracle with explicit remnant language. Jeremiah 23:3 uses שְׁאֵרִית (remnant) for the regathered flock. Ezekiel 34 develops same theme - scattered sheep gathered by divine Shepherd. Both passages show remnant preservation through covenant faithfulness.
+
+**26 - Ezekiel**
+
+- [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.14 to Genesis 6\|Ezekiel 14.14 to Genesis 6]] - **CRITICAL:** Noah, Daniel, Job as exemplars of individual righteousness in judgment contexts. Noah's preservation through flood judgment establishes the remnant pattern. This pair invokes the foundational remnant narrative - even if these righteous men were present, only they would be delivered (Ezek 14:14-20).
+
+- [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.20 to Genesis 6\|Ezekiel 14.20 to Genesis 6]] - Repeats Noah reference emphasizing personal righteousness preserving individual life but not guaranteeing communal deliverance. This develops remnant theology - preservation is based on covenant faithfulness, not mere ethnicity.
+
+- [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 34.23 to Jeremiah 23.1\|Ezekiel 34.23 to Jeremiah 23.1]] - Divine Shepherd gathering scattered flock develops remnant theology. Ezekiel 34:12-13 promises "I will rescue them from all places...and gather them from the countries." The scattered remnant will be regathered by the true Davidic Shepherd.
+
+- [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 34.23-31 to Jeremiah 23.1-6\|Ezekiel 34.23-31 to Jeremiah 23.1-6]] - Extended shepherd oracle with remnant gathering. Ezekiel 34:13 uses gathering language central to remnant theology. Both prophets promise divine intervention to preserve and restore covenant community through Messianic Shepherd.
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 ### 1. What You Must Do

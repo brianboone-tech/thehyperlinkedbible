@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 9 - 1
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5329|For the choirmaster]] [[Lexicon/H5901-6000#H5961|.]] [[Lexicon/H4101-4200#H4192|To [the tune of] “The Death of the Son.”]] [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H3001-3100#H3034|I will give thanks]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H3601-3700#H3605|with all]] [[Lexicon/H3801-3900#H3820|my heart ;]] [[Lexicon/H5601-5700#H5608|I will recount]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6301-6400#H6381|Your wonders.]]
+=======
+[[Lexicon/H5301-5400#H5329|For the choirmaster]] [[Lexicon/H5901-6000#H5961|.]] [[Lexicon/H4101-4200#H4192|To (the tune of) “The Death of the Son.”]] [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H3001-3100#H3034|I will give thanks]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H3601-3700#H3605|with all]] [[Lexicon/H3801-3900#H3820|my heart ;]] [[Lexicon/H5601-5700#H5608|I will recount]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6301-6400#H6381|Your wonders.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 9#Psalm 9 - 1|LXX]] |
 
 ##### Psalm 9 - 2
@@ -86,5 +90,9 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 9#Psalm 9 - 19|LXX]] |
 
 ##### Psalm 9 - 20
+<<<<<<< HEAD
 [[Lexicon/H7801-7900#H7896|Lay]] [[Lexicon/H4101-4200#H4172|terror]] [[Lexicon/H3001-3100#H3068|upon them, [O LORD] ;]] [[Lexicon/H1401-1500#H1471|let the nations]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H501-600#H582|are but men.]] [[Lexicon/H1901-2000#H1992|...]] [[Lexicon/H5501-5600#H5542|Selah]]
+=======
+[[Lexicon/H7801-7900#H7896|Lay]] [[Lexicon/H4101-4200#H4172|terror]] [[Lexicon/H3001-3100#H3068|upon them, (O LORD) ;]] [[Lexicon/H1401-1500#H1471|let the nations]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H501-600#H582|are but men.]] [[Lexicon/H1901-2000#H1992|...]] [[Lexicon/H5501-5600#H5542|Selah]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 9#Psalm 9 - 20|LXX]] |

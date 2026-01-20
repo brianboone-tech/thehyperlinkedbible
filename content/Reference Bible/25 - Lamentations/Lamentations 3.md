@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Lamentations 3 - 1
+<<<<<<< HEAD
 [[Lexicon/H501-600#H589|I]] [[Lexicon/H1301-1400#H1397|am the man]] [[Lexicon/H7101-7200#H7200|who has seen]] [[Lexicon/H6001-6100#H6040|affliction]] [[Lexicon/H7601-7700#H7626|under the rod]] [[Lexicon/H5601-5700#H5678|of [God’s] wrath.]]
+=======
+[[Lexicon/H501-600#H589|I]] [[Lexicon/H1301-1400#H1397|am the man]] [[Lexicon/H7101-7200#H7200|who has seen]] [[Lexicon/H6001-6100#H6040|affliction]] [[Lexicon/H7601-7700#H7626|under the rod]] [[Lexicon/H5601-5700#H5678|of (God’s) wrath.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Lamentations 3 - 2
 [[Lexicon/H801-900#H853|-]] [[Lexicon/H5001-5100#H5090|He has driven me away]] [[Lexicon/H1901-2000#H1980|and made me walk]] [[Lexicon/H2801-2900#H2822|in darkness]] [[Lexicon/H3801-3900#H3808|instead of]] [[Lexicon/H201-300#H216|light.]]
@@ -124,7 +128,11 @@ cssClasses: lexicon
 [[Lexicon/H3801-3900#H3808|Do not]] [[Lexicon/H7401-7500#H7451|both adversity]] [[Lexicon/H2801-2900#H2896|and good]] [[Lexicon/H3301-3400#H3318|come]] [[Lexicon/H6301-6400#H6310|from the mouth]] [[Lexicon/H5901-6000#H5945|of the Most High ?]]
 
 ##### Lamentations 3 - 39
+<<<<<<< HEAD
 [[Lexicon/H4001-4100#H4100|Why]] [[Lexicon/H2401-2500#H2416|should any mortal]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H501-600#H596|complain ,]] [[Lexicon/H5901-6000#H5921|in view of]] [[Lexicon/H1301-1400#H1397|[his]]] [[Lexicon/H2301-2400#H2399|sins ?]]
+=======
+[[Lexicon/H4001-4100#H4100|Why]] [[Lexicon/H2401-2500#H2416|should any mortal]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H501-600#H596|complain ,]] [[Lexicon/H5901-6000#H5921|in view of]] [[Lexicon/H1301-1400#H1397|(his)]] [[Lexicon/H2301-2400#H2399|sins ?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Lamentations 3 - 40
 [[Lexicon/H2601-2700#H2664|Let us examine]] [[Lexicon/H2701-2800#H2713|and test]] [[Lexicon/H1801-1900#H1870|our ways ,]] [[Lexicon/H7701-7800#H7725|and turn back]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H3001-3100#H3068|the LORD.]]
@@ -205,4 +213,8 @@ cssClasses: lexicon
 [[Lexicon/H5401-5500#H5414|Put]] [[Lexicon/H4001-4100#H4044|a veil of anguish]] [[Lexicon/H3801-3900#H3820|over their hearts ;]] [[Lexicon/H8301-8400#H8381|may Your curse be]]
 
 ##### Lamentations 3 - 66
+<<<<<<< HEAD
 [[Lexicon/H7201-7300#H7291|You will pursue them]] [[Lexicon/H601-700#H639|in anger]] [[Lexicon/H8001-8100#H8045|and exterminate them]] [[Lexicon/H8401-8500#H8478|from under]] [[Lexicon/H8001-8100#H8064|[Your] heavens ,]] [[Lexicon/H3001-3100#H3068|O LORD.]]
+=======
+[[Lexicon/H7201-7300#H7291|You will pursue them]] [[Lexicon/H601-700#H639|in anger]] [[Lexicon/H8001-8100#H8045|and exterminate them]] [[Lexicon/H8401-8500#H8478|from under]] [[Lexicon/H8001-8100#H8064|(Your) heavens ,]] [[Lexicon/H3001-3100#H3068|O LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

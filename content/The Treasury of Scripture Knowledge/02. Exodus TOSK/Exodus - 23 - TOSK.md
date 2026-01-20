@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Exodus 23 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 24 - TOSK|Ch 24 →]]
+=======
+**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 22 - TOSK|← Ch 22]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 24 - TOSK|Ch 24 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

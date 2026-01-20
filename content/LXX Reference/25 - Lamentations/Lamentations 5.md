@@ -39,7 +39,11 @@ Egypt [[Lexicon/G1301-1400#G1325|gave]] [[Lexicon/G5401-5500#G5495|a hand;]] Ass
 [[Lexicon/G1701-1800#G1722|With]] [[Lexicon/G5501-5600#G5590|our lives]] [[Lexicon/G1501-1600#G1533|we will carry in]] [[Lexicon/G701-800#G0740|our bread]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4301-4400#G4383|in front]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2001-2100#G2048|wilderness.]]
 
 #### Lamentations 5 - 10
+<<<<<<< HEAD
 [[Lexicon/G1101-1200#G1192|Our skin]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4901-5000#G4952|they were made to shrivel]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2601-2700#G2616|of blasts]] [[Lexicon/G3001-3100#G3042|of famine.]]
+=======
+[[Lexicon/G1101-1200#G1192|Our skin]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4901-5000#G4952|they were made to shrivel]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2601-2700#G2616|of blasts]] [[Lexicon/G3001-3100#G3042|of famine.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Lamentations 5 - 11
 [[Lexicon/G1101-1200#G1135|women]] [[Lexicon/G3901-4000#G3933|virgins]] [[Lexicon/G1701-1800#G1722|in]] of Judah.

@@ -33,7 +33,11 @@ cssClasses: lexicon
 [[Lexicon/H401-500#H430|God]] [[Lexicon/H1601-1700#H1696|has spoken]] [[Lexicon/H6901-7000#H6944|from His sanctuary :]] [[Lexicon/H5901-6000#H5937|“ I will triumph !]] [[Lexicon/H2501-2600#H2505|I will parcel out]] [[Lexicon/H7901-8000#H7927|Shechem]] [[Lexicon/H4001-4100#H4058|and apportion]] [[Lexicon/H6001-6100#H6010|the Valley]] [[Lexicon/H5501-5600#H5523|of Succoth.]]
 
 ##### Psalm 60 - 7
+<<<<<<< HEAD
 [[Lexicon/H1501-1600#H1568|Gilead]] [[Lexicon/H4501-4600#H4519|and Manasseh]] [[Lexicon/H601-700#H669|Ephraim]] [[Lexicon/H4501-4600#H4581|is My helmet]] [[Lexicon/H7201-7300#H7218|... ,]] [[Lexicon/H3001-3100#H3063|Judah [is]]] [[Lexicon/H2701-2800#H2710|My scepter.]]
+=======
+[[Lexicon/H1501-1600#H1568|Gilead]] [[Lexicon/H4501-4600#H4519|and Manasseh]] [[Lexicon/H601-700#H669|Ephraim]] [[Lexicon/H4501-4600#H4581|is My helmet]] [[Lexicon/H7201-7300#H7218|... ,]] [[Lexicon/H3001-3100#H3063|Judah (is)]] [[Lexicon/H2701-2800#H2710|My scepter.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Psalm 60 - 8
 [[Lexicon/H4101-4200#H4124|Moab]] [[Lexicon/H5501-5600#H5518|is My washbasin]] [[Lexicon/H7301-7400#H7366|... ;]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H101-200#H123|Edom]] [[Lexicon/H7901-8000#H7993|I toss]] [[Lexicon/H5201-5300#H5275|My sandal ;]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H6401-6500#H6429|Philistia]] [[Lexicon/H7301-7400#H7321|I shout in triumph. ”]]

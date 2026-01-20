@@ -84,7 +84,11 @@ Testament: Old
 [[Lexicon/H3801-3900#H3837|Laban]] [[Lexicon/H501-600#H559|replied ,]] [[Lexicon/H2801-2900#H2896|“ Better]] [[Lexicon/H5401-5500#H5414|that I give]] [[Lexicon/H801-900#H853|her]] [[Lexicon/H5401-5500#H5414|than]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H376|-]] [[Lexicon/H301-400#H312|to another.]] [[Lexicon/H3401-3500#H3427|Stay here]] [[Lexicon/H5901-6000#H5978|with me. ”]]
 
 ##### Genesis 29 - 20
+<<<<<<< HEAD
 [[Lexicon/H3201-3300#H3290|So Jacob]] [[Lexicon/H5601-5700#H5647|served]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H8101-8200#H8141|years]] [[Lexicon/H7301-7400#H7354|for Rachel ,]] [[Lexicon/H1901-2000#H1961|yet it seemed]] [[Lexicon/H5801-5900#H5869|]] [[Lexicon/H201-300#H259|[but] a few]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H101-200#H160|because of his love]] [[Lexicon/H801-900#H853|for her.]]
+=======
+[[Lexicon/H3201-3300#H3290|So Jacob]] [[Lexicon/H5601-5700#H5647|served]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H8101-8200#H8141|years]] [[Lexicon/H7301-7400#H7354|for Rachel ,]] [[Lexicon/H1901-2000#H1961|yet it seemed]] [[Lexicon/H5801-5900#H5869|]] [[Lexicon/H201-300#H259|(but) a few]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H101-200#H160|because of his love]] [[Lexicon/H801-900#H853|for her.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Genesis 29 - 21
 [[Lexicon/H3201-3300#H3290|Finally Jacob]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3801-3900#H3837|Laban ,]] [[Lexicon/H3001-3100#H3051|“ Grant]] [[Lexicon/H801-900#H853|me]] [[Lexicon/H801-900#H802|my wife ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3101-3200#H3117|my time]] [[Lexicon/H4301-4400#H4390|is complete ,]] [[Lexicon/H901-1000#H935|and I want to sleep with]] [[Lexicon/H401-500#H413|her. ”]]
@@ -117,16 +121,27 @@ Testament: Old
 [[Lexicon/H901-1000#H935|Jacob slept with]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7301-7400#H7354|Rachel]] [[Lexicon/H1501-1600#H1571|as well ,]] [[Lexicon/H1501-1600#H1571|and indeed ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H157|he loved]] [[Lexicon/H7301-7400#H7354|Rachel]] [[Lexicon/H3801-3900#H3812|more than Leah.]] [[Lexicon/H5601-5700#H5647|So he worked]] [[Lexicon/H5901-6000#H5973|for]] [[Lexicon/H5701-5800#H5750|Laban]] [[Lexicon/H301-400#H312|another]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H8101-8200#H8141|years.]]
 
 ##### Genesis 29 - 31
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|When the LORD]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3801-3900#H3812|Leah]] [[Lexicon/H8101-8200#H8130|was unloved ,]] [[Lexicon/H6601-6700#H6605|He opened]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7358|her womb ;]] [[Lexicon/H7301-7400#H7354|but Rachel]] [[Lexicon/H6101-6200#H6135|[was] barren.]]
+=======
+[[Lexicon/H3001-3100#H3068|When the LORD]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3801-3900#H3812|Leah]] [[Lexicon/H8101-8200#H8130|was unloved ,]] [[Lexicon/H6601-6700#H6605|He opened]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7358|her womb ;]] [[Lexicon/H7301-7400#H7354|but Rachel]] [[Lexicon/H6101-6200#H6135|(was) barren.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Genesis 29 - 32
 [[Lexicon/H3801-3900#H3812|And Leah]] [[Lexicon/H2001-2100#H2029|conceived]] [[Lexicon/H3201-3300#H3205|and gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H7101-7200#H7121|and she named him]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H7201-7300#H7205|Reuben ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H559|she said ,]] [[Lexicon/H3001-3100#H3068|“ The LORD]] [[Lexicon/H7101-7200#H7200|has seen]] [[Lexicon/H6001-6100#H6040|my affliction.]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H3501-3600#H3588|Surely]] [[Lexicon/H301-400#H376|my husband]] [[Lexicon/H101-200#H157|will love me]] [[Lexicon/H6201-6300#H6258|now. ”]]
 
 ##### Genesis 29 - 33
+<<<<<<< HEAD
 [[Lexicon/H5701-5800#H5750|Again]] [[Lexicon/H2001-2100#H2029|she conceived]] [[Lexicon/H3201-3300#H3205|and gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H501-600#H559|and she said ,]] [[Lexicon/H3001-3100#H3068|“ Because the LORD]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H8001-8100#H8085|has heard]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H8101-8200#H8130|am unloved ,]] [[Lexicon/H5401-5500#H5414|He has given]] [[Lexicon/H2001-2100#H2088|this [son]]] [[Lexicon/H1501-1600#H1571|as well. ”]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7121|So she named him]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H8001-8100#H8095|Simeon.]]
 
 ##### Genesis 29 - 34
 [[Lexicon/H5701-5800#H5750|Once again]] [[Lexicon/H2001-2100#H2029|[Leah] conceived]] [[Lexicon/H3201-3300#H3205|and gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H501-600#H559|and she said ,]] [[Lexicon/H6201-6300#H6258|“ Now]] [[Lexicon/H6401-6500#H6471|at last]] [[Lexicon/H301-400#H376|my husband]] [[Lexicon/H3801-3900#H3867|will become attached]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3201-3300#H3205|I have borne]] [[Lexicon/H7901-8000#H7969|three]] [[Lexicon/H1101-1200#H1121|sons. ”]] [[Lexicon/H5901-6000#H5921|So]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H7101-7200#H7121|he was named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H3801-3900#H3878|Levi.]]
+=======
+[[Lexicon/H5701-5800#H5750|Again]] [[Lexicon/H2001-2100#H2029|she conceived]] [[Lexicon/H3201-3300#H3205|and gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H501-600#H559|and she said ,]] [[Lexicon/H3001-3100#H3068|“ Because the LORD]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H8001-8100#H8085|has heard]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H8101-8200#H8130|am unloved ,]] [[Lexicon/H5401-5500#H5414|He has given]] [[Lexicon/H2001-2100#H2088|this (son)]] [[Lexicon/H1501-1600#H1571|as well. ”]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7121|So she named him]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H8001-8100#H8095|Simeon.]]
+
+##### Genesis 29 - 34
+[[Lexicon/H5701-5800#H5750|Once again]] [[Lexicon/H2001-2100#H2029|(Leah) conceived]] [[Lexicon/H3201-3300#H3205|and gave birth to]] [[Lexicon/H1101-1200#H1121|a son ,]] [[Lexicon/H501-600#H559|and she said ,]] [[Lexicon/H6201-6300#H6258|“ Now]] [[Lexicon/H6401-6500#H6471|at last]] [[Lexicon/H301-400#H376|my husband]] [[Lexicon/H3801-3900#H3867|will become attached]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3201-3300#H3205|I have borne]] [[Lexicon/H7901-8000#H7969|three]] [[Lexicon/H1101-1200#H1121|sons. ”]] [[Lexicon/H5901-6000#H5921|So]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H7101-7200#H7121|he was named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H3801-3900#H3878|Levi.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Genesis 29 - 35
 [[Lexicon/H5701-5800#H5750|And once more]] [[Lexicon/H2001-2100#H2029|she conceived]] [[Lexicon/H3201-3300#H3205|and gave birth to]] [[Lexicon/H1101-1200#H1121|a son]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H6401-6500#H6471|“ This time]] [[Lexicon/H3001-3100#H3034|I will praise]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD. ”]] [[Lexicon/H5901-6000#H5921|So]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H7101-7200#H7121|she named him]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H3001-3100#H3063|Judah.]] [[Lexicon/H5901-6000#H5975|Then Leah stopped]] [[Lexicon/H3201-3300#H3205|having children.]]

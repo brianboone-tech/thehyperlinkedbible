@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Hosea-R 12
 
 **[[Home/Scripture/28 - Hosea|Hosea]]**
 
 [[Readable Bible/28 - Hosea/Hosea 11#Hosea-R 11| Hosea 11]] - [[Readable Bible/28 - Hosea/Hosea 13#Hosea-R 13| Hosea 13]]
+=======
+# Hosea 12
+
+[[Readable Bible/28 - Hosea/Hosea 11|← Hosea 11]] | [[Readable Bible/28 - Hosea/Hosea 13|Hosea 13 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Hosea 12 . 1
+<<<<<<< HEAD
 [[Reference Bible/28 - Hosea/Hosea 12#Hosea 12 - 1|1]] Ephraim chases the wind and pursues the east wind all day long; he multiplies lies and violence; he makes a covenant with Assyria and sends olive oil to Egypt.   || [[Chiasm/Chiasm - 28 - Hosea 11 . 11 - 12 . 1|C]] | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 12 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/28 - Hosea/Hosea 12#Hosea 12 - 1|1]] Ephraim chases the wind and pursues the east wind all day long; he multiplies lies and violence; he makes a covenant with Assyria and sends olive oil to Egypt.  | | [[Chiasm/Chiasm - 28 - Hosea 11 . 11 - 12 . 1|C]] | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 12 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Hosea 12 . 2
 [[Reference Bible/28 - Hosea/Hosea 12#Hosea 12 - 2|2]] The LORD also brings a charge against Judah. He will punish Jacob according to his ways and repay him according to his deeds.  | [[Chiasm/Chiasm - 28 - Hosea 12 . 2 - 14|C]] | [[The Treasury of Scripture Knowledge/28. Hosea TOSK/Hosea - 12 - TOSK#Verse 2|TOSK]] |

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Joshua-R 18
 
 **[[Home/Scripture/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 17#Joshua-R 17| Joshua 17]] - [[Readable Bible/06 - Joshua/Joshua 19#Joshua-R 19| Joshua 19]]
+=======
+# Joshua 18
+
+[[Readable Bible/06 - Joshua/Joshua 17|← Joshua 17]] | [[Readable Bible/06 - Joshua/Joshua 19|Joshua 19 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

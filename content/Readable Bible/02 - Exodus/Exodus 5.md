@@ -6,11 +6,17 @@ cssClasses: lexicon
 ---
 
 
+<<<<<<< HEAD
 # Exodus-R 5
 
 **[[Home/Scripture/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 4#Exodus-R 4| Exodus 4]] - [[Readable Bible/02 - Exodus/Exodus 6#Exodus-R 6| Exodus 6]]
+=======
+# Exodus 5
+
+[[Readable Bible/02 - Exodus/Exodus 4|← Exodus 4]] | [[Readable Bible/02 - Exodus/Exodus 6|Exodus 6 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

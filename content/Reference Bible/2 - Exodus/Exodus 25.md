@@ -52,7 +52,11 @@ Chapter: "25"
 [[Lexicon/H6201-6300#H6213|And make]] [[Lexicon/H901-1000#H905|poles]] [[Lexicon/H7801-7900#H7848|of acacia]] [[Lexicon/H6001-6100#H6086|wood]] [[Lexicon/H6801-6900#H6823|and overlay]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H2001-2100#H2091|with gold.]]
 
 ##### Exodus 25 - 14
+<<<<<<< HEAD
 [[Lexicon/H901-1000#H935|Insert]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H905|the poles]] [[Lexicon/H2801-2900#H2885|into the rings]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H6701-6800#H6763|the sides]] [[Lexicon/H701-800#H727|of the ark ,]] [[Lexicon/H5301-5400#H5375|in order to carry]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H727|[it]]]
+=======
+[[Lexicon/H901-1000#H935|Insert]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H905|the poles]] [[Lexicon/H2801-2900#H2885|into the rings]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H6701-6800#H6763|the sides]] [[Lexicon/H701-800#H727|of the ark ,]] [[Lexicon/H5301-5400#H5375|in order to carry]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H727|(it)]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Exodus 25 - 15
 [[Lexicon/H901-1000#H905|The poles]] [[Lexicon/H1901-2000#H1961|are to remain]] [[Lexicon/H2801-2900#H2885|in the rings]] [[Lexicon/H701-800#H727|of the ark ;]] [[Lexicon/H3801-3900#H3808|they must not]] [[Lexicon/H5401-5500#H5493|be removed]] [[Lexicon/H4401-4500#H4480|-.]]
@@ -64,6 +68,7 @@ Chapter: "25"
 [[Lexicon/H6201-6300#H6213|And you are to construct]] [[Lexicon/H3701-3800#H3727|a mercy seat]] [[Lexicon/H2801-2900#H2889|of pure]] [[Lexicon/H2001-2100#H2091|gold ,]] [[Lexicon/H501-600#H520|two]] [[Lexicon/H2601-2700#H2677|and a half cubits]] [[Lexicon/H701-800#H753|long]] [[Lexicon/H501-600#H520|and a cubit]] [[Lexicon/H2601-2700#H2677|and a half]] [[Lexicon/H7301-7400#H7341|wide.]]
 
 ##### Exodus 25 - 18
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6213|Make]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H3701-3800#H3742|cherubim]] [[Lexicon/H6201-6300#H6213|-]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4701-4800#H4749|of hammered]] [[Lexicon/H2001-2100#H2091|gold]] [[Lexicon/H8101-8200#H8147|[at the]]] [[Lexicon/H7001-7100#H7098|ends]] [[Lexicon/H3701-3800#H3727|of the mercy seat ,]]
 
 ##### Exodus 25 - 19
@@ -71,6 +76,15 @@ Chapter: "25"
 
 ##### Exodus 25 - 20
 [[Lexicon/H3701-3800#H3742|And the cherubim]] [[Lexicon/H1901-2000#H1961|are to have]] [[Lexicon/H3601-3700#H3671|wings]] [[Lexicon/H6501-6600#H6566|that spread]] [[Lexicon/H4601-4700#H4605|upward ,]] [[Lexicon/H5501-5600#H5526|overshadowing]] [[Lexicon/H3701-3800#H3727|the mercy seat]] [[Lexicon/H3601-3700#H3671|-.]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H6401-6500#H6440|[The cherubim] are to face]] [[Lexicon/H301-400#H376|each]] [[Lexicon/H201-300#H251|other ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H6401-6500#H6440|-]] [[Lexicon/H3701-3800#H3742|-]] [[Lexicon/H1901-2000#H1961|looking]] [[Lexicon/H401-500#H413|toward]] [[Lexicon/H3701-3800#H3727|the mercy seat.]]
+=======
+[[Lexicon/H6201-6300#H6213|Make]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H3701-3800#H3742|cherubim]] [[Lexicon/H6201-6300#H6213|-]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4701-4800#H4749|of hammered]] [[Lexicon/H2001-2100#H2091|gold]] [[Lexicon/H8101-8200#H8147|(at the)]] [[Lexicon/H7001-7100#H7098|ends]] [[Lexicon/H3701-3800#H3727|of the mercy seat ,]]
+
+##### Exodus 25 - 19
+[[Lexicon/H6201-6300#H6213|-]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H3701-3800#H3742|cherub]] [[Lexicon/H2001-2100#H2088|on one]] [[Lexicon/H7001-7100#H7098|end]] [[Lexicon/H201-300#H259|and one]] [[Lexicon/H3701-3800#H3742|-]] [[Lexicon/H2001-2100#H2088|-]] [[Lexicon/H7001-7100#H7098|on the other]] [[Lexicon/H4401-4500#H4480|]] [[Lexicon/H3701-3800#H3727|,]] [[Lexicon/H6201-6300#H6213|(all) made]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3701-3800#H3742|]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H8101-8200#H8147|-]] [[Lexicon/H7001-7100#H7098|(from one piece of gold).]]
+
+##### Exodus 25 - 20
+[[Lexicon/H3701-3800#H3742|And the cherubim]] [[Lexicon/H1901-2000#H1961|are to have]] [[Lexicon/H3601-3700#H3671|wings]] [[Lexicon/H6501-6600#H6566|that spread]] [[Lexicon/H4601-4700#H4605|upward ,]] [[Lexicon/H5501-5600#H5526|overshadowing]] [[Lexicon/H3701-3800#H3727|the mercy seat]] [[Lexicon/H3601-3700#H3671|-.]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H6401-6500#H6440|(The cherubim) are to face]] [[Lexicon/H301-400#H376|each]] [[Lexicon/H201-300#H251|other ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H6401-6500#H6440|-]] [[Lexicon/H3701-3800#H3742|-]] [[Lexicon/H1901-2000#H1961|looking]] [[Lexicon/H401-500#H413|toward]] [[Lexicon/H3701-3800#H3727|the mercy seat.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Exodus 25 - 21
 [[Lexicon/H5401-5500#H5414|Set]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3701-3800#H3727|the mercy seat]] [[Lexicon/H5901-6000#H5921|atop]] [[Lexicon/H4601-4700#H4605|...]] [[Lexicon/H701-800#H727|the ark ,]] [[Lexicon/H5401-5500#H5414|and put]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5701-5800#H5715|the Testimony]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5401-5500#H5414|I will give]] [[Lexicon/H401-500#H413|you]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H701-800#H727|the ark.]]
@@ -88,7 +102,11 @@ Chapter: "25"
 [[Lexicon/H6201-6300#H6213|And make]] [[Lexicon/H4501-4600#H4526|a rim]] [[Lexicon/H5401-5500#H5439|around it]] [[Lexicon/H2901-3000#H2948|a handbreadth wide]] [[Lexicon/H6201-6300#H6213|and put]] [[Lexicon/H2001-2100#H2091|a gold]] [[Lexicon/H2201-2300#H2213|molding]] [[Lexicon/H5401-5500#H5439|on]] [[Lexicon/H4501-4600#H4526|the rim.]]
 
 ##### Exodus 25 - 26
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6213|Make]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H2001-2100#H2091|gold]] [[Lexicon/H2801-2900#H2885|rings]] [[Lexicon/H5401-5500#H5414|and fasten]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2801-2900#H2885|[them]]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H701-800#H702|the four]] [[Lexicon/H6201-6300#H6285|corners]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H701-800#H702|at its four]] [[Lexicon/H7201-7300#H7272|legs.]]
+=======
+[[Lexicon/H6201-6300#H6213|Make]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H2001-2100#H2091|gold]] [[Lexicon/H2801-2900#H2885|rings]] [[Lexicon/H5401-5500#H5414|and fasten]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2801-2900#H2885|(them)]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H701-800#H702|the four]] [[Lexicon/H6201-6300#H6285|corners]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H701-800#H702|at its four]] [[Lexicon/H7201-7300#H7272|legs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Exodus 25 - 27
 [[Lexicon/H2801-2900#H2885|The rings]] [[Lexicon/H1901-2000#H1961|are to be]] [[Lexicon/H5901-6000#H5980|close]] [[Lexicon/H4501-4600#H4526|to the rim ,]] [[Lexicon/H1001-1100#H1004|to serve as holders]] [[Lexicon/H901-1000#H905|for the poles]] [[Lexicon/H5301-5400#H5375|used to carry]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7979|the table.]]
@@ -118,16 +136,30 @@ Chapter: "25"
 [[Lexicon/H8301-8400#H8337|For the six]] [[Lexicon/H7001-7100#H7070|branches]] [[Lexicon/H3301-3400#H3318|that extend]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H4501-4600#H4501|the lampstand ,]] [[Lexicon/H3701-3800#H3730|a bud]] [[Lexicon/H8401-8500#H8478|must be under]] [[Lexicon/H8101-8200#H8147|the first pair]] [[Lexicon/H7001-7100#H7070|of branches]] [[Lexicon/H4401-4500#H4480|- ,]] [[Lexicon/H7001-7100#H7070|]] [[Lexicon/H4401-4500#H4480|]] [[Lexicon/H3701-3800#H3730|a bud]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H8101-8200#H8147|the second pair]] [[Lexicon/H7001-7100#H7070|-]] [[Lexicon/H4401-4500#H4480|- ,]] [[Lexicon/H3701-3800#H3730|and a bud]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H8101-8200#H8147|the third pair.]]
 
 ##### Exodus 25 - 36
+<<<<<<< HEAD
 [[Lexicon/H3701-3800#H3730|The buds]] [[Lexicon/H7001-7100#H7070|and branches]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H1901-2000#H1961|are to be]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H201-300#H259|of one piece [with the lampstand] ,]] [[Lexicon/H4701-4800#H4749|hammered]] [[Lexicon/H2801-2900#H2889|out of pure]] [[Lexicon/H2001-2100#H2091|gold.]]
 
 ##### Exodus 25 - 37
 [[Lexicon/H6201-6300#H6213|Make]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H5201-5300#H5216|lamps]] [[Lexicon/H5901-6000#H5927|and set them up]] [[Lexicon/H801-900#H853|on [the lampstand]]] [[Lexicon/H5201-5300#H5216|so that [they]]] [[Lexicon/H201-300#H215|illuminate]] [[Lexicon/H5601-5700#H5676|the area]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H6401-6500#H6440|front of it.]]
+=======
+[[Lexicon/H3701-3800#H3730|The buds]] [[Lexicon/H7001-7100#H7070|and branches]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H1901-2000#H1961|are to be]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H201-300#H259|of one piece (with the lampstand) ,]] [[Lexicon/H4701-4800#H4749|hammered]] [[Lexicon/H2801-2900#H2889|out of pure]] [[Lexicon/H2001-2100#H2091|gold.]]
+
+##### Exodus 25 - 37
+[[Lexicon/H6201-6300#H6213|Make]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H5201-5300#H5216|lamps]] [[Lexicon/H5901-6000#H5927|and set them up]] [[Lexicon/H801-900#H853|on (the lampstand)]] [[Lexicon/H5201-5300#H5216|so that (they)]] [[Lexicon/H201-300#H215|illuminate]] [[Lexicon/H5601-5700#H5676|the area]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H6401-6500#H6440|front of it.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Exodus 25 - 38
 [[Lexicon/H4401-4500#H4457|The wick trimmers]] [[Lexicon/H4201-4300#H4289|and their trays]] [[Lexicon/H2801-2900#H2889|must be of pure]] [[Lexicon/H2001-2100#H2091|gold.]]
 
 ##### Exodus 25 - 39
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|[The lampstand]]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H3601-3700#H3627|utensils]] [[Lexicon/H6201-6300#H6213|shall be made]] [[Lexicon/H801-900#H853|from]] [[Lexicon/H3601-3700#H3603|a talent]] [[Lexicon/H2801-2900#H2889|of pure]] [[Lexicon/H2001-2100#H2091|gold.]]
 
 ##### Exodus 25 - 40
 [[Lexicon/H7101-7200#H7200|See to it that]] [[Lexicon/H6201-6300#H6213|you make [everything]]] [[Lexicon/H8401-8500#H8403|according to the pattern]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7200|shown]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H2001-2100#H2022|on the mountain. [’’]]]
+=======
+[[Lexicon/H801-900#H853|(The lampstand)]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H3601-3700#H3627|utensils]] [[Lexicon/H6201-6300#H6213|shall be made]] [[Lexicon/H801-900#H853|from]] [[Lexicon/H3601-3700#H3603|a talent]] [[Lexicon/H2801-2900#H2889|of pure]] [[Lexicon/H2001-2100#H2091|gold.]]
+
+##### Exodus 25 - 40
+[[Lexicon/H7101-7200#H7200|See to it that]] [[Lexicon/H6201-6300#H6213|you make (everything)]] [[Lexicon/H8401-8500#H8403|according to the pattern]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7200|shown]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H2001-2100#H2022|on the mountain. (’’)]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

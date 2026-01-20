@@ -25,7 +25,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 3|LXX]] |
 
 ##### Genesis 1 - 4
+<<<<<<< HEAD
 [[Lexicon/H401-500#H430|And God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H201-300#H216|the light]] [[Lexicon/H2801-2900#H2896|[was] good ,]] [[Lexicon/H401-500#H430|and [He]]] [[Lexicon/H901-1000#H914|separated]] [[Lexicon/H201-300#H216|the light]] [[Lexicon/H901-1000#H996|from]] [[Lexicon/H901-1000#H996|...]] [[Lexicon/H2801-2900#H2822|the darkness.]]
+=======
+[[Lexicon/H401-500#H430|And God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H201-300#H216|the light]] [[Lexicon/H2801-2900#H2896|(was) good ,]] [[Lexicon/H401-500#H430|and (He)]] [[Lexicon/H901-1000#H914|separated]] [[Lexicon/H201-300#H216|the light]] [[Lexicon/H901-1000#H996|from]] [[Lexicon/H901-1000#H996|...]] [[Lexicon/H2801-2900#H2822|the darkness.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 4|LXX]] |
 
 ##### Genesis 1 - 5
@@ -37,7 +41,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 6|LXX]] |
 
 ##### Genesis 1 - 7
+<<<<<<< HEAD
 [[Lexicon/H401-500#H430|So God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H7501-7600#H7549|the expanse]] [[Lexicon/H901-1000#H914|and separated]] [[Lexicon/H901-1000#H996|...]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8401-8500#H8478|beneath]] [[Lexicon/H7501-7600#H7549|[it]]] [[Lexicon/H901-1000#H996|from]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5921|above]] [[Lexicon/H7501-7600#H7549|-.]] [[Lexicon/H1901-2000#H1961|And it was]] [[Lexicon/H3601-3700#H3651|so.]]
+=======
+[[Lexicon/H401-500#H430|So God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H7501-7600#H7549|the expanse]] [[Lexicon/H901-1000#H914|and separated]] [[Lexicon/H901-1000#H996|...]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8401-8500#H8478|beneath]] [[Lexicon/H7501-7600#H7549|(it)]] [[Lexicon/H901-1000#H996|from]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5921|above]] [[Lexicon/H7501-7600#H7549|-.]] [[Lexicon/H1901-2000#H1961|And it was]] [[Lexicon/H3601-3700#H3651|so.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 7|LXX]] |
 
 ##### Genesis 1 - 8
@@ -45,11 +53,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 8|LXX]] |
 
 ##### Genesis 1 - 9
+<<<<<<< HEAD
 [[Lexicon/H401-500#H430|And God]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H4301-4400#H4325|“ Let the waters]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H8001-8100#H8064|the sky]] [[Lexicon/H6901-7000#H6960|be gathered]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H4701-4800#H4725|place ,]] [[Lexicon/H3001-3100#H3004|so that the dry [land]]] [[Lexicon/H7101-7200#H7200|may appear. ”]] [[Lexicon/H1901-2000#H1961|And it was]] [[Lexicon/H3601-3700#H3651|so.]]
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 9|LXX]] |
 
 ##### Genesis 1 - 10
 [[Lexicon/H401-500#H430|God]] [[Lexicon/H7101-7200#H7121|called]] [[Lexicon/H3001-3100#H3004|the dry [land]]] [[Lexicon/H701-800#H776|“ earth , ”]] [[Lexicon/H4701-4800#H4723|and the gathering]] [[Lexicon/H4301-4400#H4325|of waters]] [[Lexicon/H7101-7200#H7121|He called]] [[Lexicon/H3201-3300#H3220|“ seas. ”]] [[Lexicon/H401-500#H430|And God]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2801-2900#H2896|[it was] good.]]
+=======
+[[Lexicon/H401-500#H430|And God]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H4301-4400#H4325|“ Let the waters]] [[Lexicon/H8401-8500#H8478|under]] [[Lexicon/H8001-8100#H8064|the sky]] [[Lexicon/H6901-7000#H6960|be gathered]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H4701-4800#H4725|place ,]] [[Lexicon/H3001-3100#H3004|so that the dry (land)]] [[Lexicon/H7101-7200#H7200|may appear. ”]] [[Lexicon/H1901-2000#H1961|And it was]] [[Lexicon/H3601-3700#H3651|so.]]
+| [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 9|LXX]] |
+
+##### Genesis 1 - 10
+[[Lexicon/H401-500#H430|God]] [[Lexicon/H7101-7200#H7121|called]] [[Lexicon/H3001-3100#H3004|the dry (land)]] [[Lexicon/H701-800#H776|“ earth , ”]] [[Lexicon/H4701-4800#H4723|and the gathering]] [[Lexicon/H4301-4400#H4325|of waters]] [[Lexicon/H7101-7200#H7121|He called]] [[Lexicon/H3201-3300#H3220|“ seas. ”]] [[Lexicon/H401-500#H430|And God]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2801-2900#H2896|(it was) good.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 10|LXX]] |
 
 ##### Genesis 1 - 11
@@ -65,7 +81,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 13|LXX]] |
 
 ##### Genesis 1 - 14
+<<<<<<< HEAD
 [[Lexicon/H401-500#H430|And God]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H1901-2000#H1961|“ Let there be]] [[Lexicon/H3901-4000#H3974|lights]] [[Lexicon/H7501-7600#H7549|in the expanse]] [[Lexicon/H8001-8100#H8064|of the sky]] [[Lexicon/H901-1000#H914|to distinguish]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H3101-3200#H3117|the day]] [[Lexicon/H901-1000#H996|and]] [[Lexicon/H3901-4000#H3915|the night ,]] [[Lexicon/H1901-2000#H1961|and let them be]] [[Lexicon/H201-300#H226|signs to Mark -]] [[Lexicon/H4101-4200#H4150|[the] seasons]] [[Lexicon/H3101-3200#H3117|and days]] [[Lexicon/H8101-8200#H8141|and years.]]
+=======
+[[Lexicon/H401-500#H430|And God]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H1901-2000#H1961|“ Let there be]] [[Lexicon/H3901-4000#H3974|lights]] [[Lexicon/H7501-7600#H7549|in the expanse]] [[Lexicon/H8001-8100#H8064|of the sky]] [[Lexicon/H901-1000#H914|to distinguish]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H3101-3200#H3117|the day]] [[Lexicon/H901-1000#H996|and]] [[Lexicon/H3901-4000#H3915|the night ,]] [[Lexicon/H1901-2000#H1961|and let them be]] [[Lexicon/H201-300#H226|signs to Mark -]] [[Lexicon/H4101-4200#H4150|(the) seasons]] [[Lexicon/H3101-3200#H3117|and days]] [[Lexicon/H8101-8200#H8141|and years.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 14|LXX]] |
 
 ##### Genesis 1 - 15
@@ -73,6 +93,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 15|LXX]] |
 
 ##### Genesis 1 - 16
+<<<<<<< HEAD
 [[Lexicon/H401-500#H430|God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H1401-1500#H1419|great]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3974|lights :]] [[Lexicon/H1401-1500#H1419|the greater]] [[Lexicon/H3901-4000#H3974|light]] [[Lexicon/H4401-4500#H4475|to rule]] [[Lexicon/H3101-3200#H3117|the day]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H6901-7000#H6996|the lesser]] [[Lexicon/H3901-4000#H3974|light]] [[Lexicon/H4401-4500#H4475|to rule]] [[Lexicon/H3901-4000#H3915|the night.]] [[Lexicon/H801-900#H853|And [He made]]] [[Lexicon/H3501-3600#H3556|the stars {as well}.]]
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 16|LXX]] |
 
@@ -82,6 +103,17 @@ Testament: Old
 
 ##### Genesis 1 - 18
 [[Lexicon/H4901-5000#H4910|to preside over]] [[Lexicon/H3101-3200#H3117|the day]] [[Lexicon/H3901-4000#H3915|and the night ,]] [[Lexicon/H901-1000#H914|and to separate]] [[Lexicon/H201-300#H216|the light]] [[Lexicon/H901-1000#H996|from]] [[Lexicon/H901-1000#H996|...]] [[Lexicon/H2801-2900#H2822|the darkness.]] [[Lexicon/H401-500#H430|And God]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2801-2900#H2896|[it was] good.]]
+=======
+[[Lexicon/H401-500#H430|God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H1401-1500#H1419|great]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3974|lights :]] [[Lexicon/H1401-1500#H1419|the greater]] [[Lexicon/H3901-4000#H3974|light]] [[Lexicon/H4401-4500#H4475|to rule]] [[Lexicon/H3101-3200#H3117|the day]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H6901-7000#H6996|the lesser]] [[Lexicon/H3901-4000#H3974|light]] [[Lexicon/H4401-4500#H4475|to rule]] [[Lexicon/H3901-4000#H3915|the night.]] [[Lexicon/H801-900#H853|And (He made)]] [[Lexicon/H3501-3600#H3556|the stars {as well}.]]
+| [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 16|LXX]] |
+
+##### Genesis 1 - 17
+[[Lexicon/H401-500#H430|God]] [[Lexicon/H5401-5500#H5414|set]] [[Lexicon/H801-900#H853|(these lights)]] [[Lexicon/H7501-7600#H7549|in the expanse]] [[Lexicon/H8001-8100#H8064|of the sky]] [[Lexicon/H201-300#H215|to shine]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H701-800#H776|the earth ,]]
+| [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 17|LXX]] |
+
+##### Genesis 1 - 18
+[[Lexicon/H4901-5000#H4910|to preside over]] [[Lexicon/H3101-3200#H3117|the day]] [[Lexicon/H3901-4000#H3915|and the night ,]] [[Lexicon/H901-1000#H914|and to separate]] [[Lexicon/H201-300#H216|the light]] [[Lexicon/H901-1000#H996|from]] [[Lexicon/H901-1000#H996|...]] [[Lexicon/H2801-2900#H2822|the darkness.]] [[Lexicon/H401-500#H430|And God]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2801-2900#H2896|(it was) good.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 18|LXX]] |
 
 ##### Genesis 1 - 19
@@ -93,11 +125,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 20|LXX]] |
 
 ##### Genesis 1 - 21
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|So]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H1201-1300#H1254|created]] [[Lexicon/H1401-1500#H1419|the great]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8501-8600#H8577|sea creatures]] [[Lexicon/H3601-3700#H3605|and every]] [[Lexicon/H2401-2500#H2416|living]] [[Lexicon/H5301-5400#H5315|thing]] [[Lexicon/H7401-7500#H7430|that moves ,]] [[Lexicon/H801-900#H834|[with] which]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H8301-8400#H8317|teemed]] [[Lexicon/H4301-4400#H4327|according to their kinds ,]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H5701-5800#H5775|bird]] [[Lexicon/H3601-3700#H3671|of flight]] [[Lexicon/H4301-4400#H4327|after its kind.]] [[Lexicon/H401-500#H430|And God]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2801-2900#H2896|[it was] good.]]
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 21|LXX]] |
 
 ##### Genesis 1 - 22
 [[Lexicon/H401-500#H430|Then God]] [[Lexicon/H1201-1300#H1288|blessed]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H501-600#H559|[and] said ,]] [[Lexicon/H6501-6600#H6509|“ Be fruitful]] [[Lexicon/H7201-7300#H7235|and multiply]] [[Lexicon/H4301-4400#H4390|and fill]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H3201-3300#H3220|of the seas ,]] [[Lexicon/H5701-5800#H5775|and let birds]] [[Lexicon/H7201-7300#H7235|multiply]] [[Lexicon/H701-800#H776|on the earth. ”]]
+=======
+[[Lexicon/H801-900#H853|So]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H1201-1300#H1254|created]] [[Lexicon/H1401-1500#H1419|the great]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8501-8600#H8577|sea creatures]] [[Lexicon/H3601-3700#H3605|and every]] [[Lexicon/H2401-2500#H2416|living]] [[Lexicon/H5301-5400#H5315|thing]] [[Lexicon/H7401-7500#H7430|that moves ,]] [[Lexicon/H801-900#H834|(with) which]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H8301-8400#H8317|teemed]] [[Lexicon/H4301-4400#H4327|according to their kinds ,]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H5701-5800#H5775|bird]] [[Lexicon/H3601-3700#H3671|of flight]] [[Lexicon/H4301-4400#H4327|after its kind.]] [[Lexicon/H401-500#H430|And God]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2801-2900#H2896|(it was) good.]]
+| [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 21|LXX]] |
+
+##### Genesis 1 - 22
+[[Lexicon/H401-500#H430|Then God]] [[Lexicon/H1201-1300#H1288|blessed]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H501-600#H559|(and) said ,]] [[Lexicon/H6501-6600#H6509|“ Be fruitful]] [[Lexicon/H7201-7300#H7235|and multiply]] [[Lexicon/H4301-4400#H4390|and fill]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H3201-3300#H3220|of the seas ,]] [[Lexicon/H5701-5800#H5775|and let birds]] [[Lexicon/H7201-7300#H7235|multiply]] [[Lexicon/H701-800#H776|on the earth. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 22|LXX]] |
 
 ##### Genesis 1 - 23
@@ -109,6 +149,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 24|LXX]] |
 
 ##### Genesis 1 - 25
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H2401-2500#H2416|the beasts]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H4301-4400#H4327|according to their kinds ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H929|the livestock]] [[Lexicon/H4301-4400#H4327|according to their kinds ,]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H7401-7500#H7431|that crawls]] [[Lexicon/H101-200#H127|upon the earth]] [[Lexicon/H4301-4400#H4327|according to its kind.]] [[Lexicon/H401-500#H430|And God]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2801-2900#H2896|[it was] good.]]
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 25|LXX]] |
 
@@ -118,6 +159,17 @@ Testament: Old
 
 ##### Genesis 1 - 27
 [[Lexicon/H401-500#H430|So God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1254|created]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H6701-6800#H6754|in His [own] image ;]] [[Lexicon/H6701-6800#H6754|in the image]] [[Lexicon/H401-500#H430|of God]] [[Lexicon/H1201-1300#H1254|He created]] [[Lexicon/H801-900#H853|him ;]] [[Lexicon/H2101-2200#H2145|male]] [[Lexicon/H5301-5400#H5347|and female]] [[Lexicon/H1201-1300#H1254|He created]] [[Lexicon/H801-900#H853|them.]]
+=======
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H6201-6300#H6213|made]] [[Lexicon/H2401-2500#H2416|the beasts]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H4301-4400#H4327|according to their kinds ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H929|the livestock]] [[Lexicon/H4301-4400#H4327|according to their kinds ,]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H7401-7500#H7431|that crawls]] [[Lexicon/H101-200#H127|upon the earth]] [[Lexicon/H4301-4400#H4327|according to its kind.]] [[Lexicon/H401-500#H430|And God]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2801-2900#H2896|(it was) good.]]
+| [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 25|LXX]] |
+
+##### Genesis 1 - 26
+[[Lexicon/H401-500#H430|Then God]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H6201-6300#H6213|“ Let Us make]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H6701-6800#H6754|in Our image ,]] [[Lexicon/H1801-1900#H1823|after Our likeness ,]] [[Lexicon/H7201-7300#H7287|to rule]] [[Lexicon/H1701-1800#H1710|over the fish]] [[Lexicon/H3201-3300#H3220|of the sea]] [[Lexicon/H5701-5800#H5775|and the birds]] [[Lexicon/H8001-8100#H8064|of the air ,]] [[Lexicon/H901-1000#H929|over the livestock ,]] [[Lexicon/H3601-3700#H3605|and over all]] [[Lexicon/H701-800#H776|the earth itself]] [[Lexicon/H3601-3700#H3605|and every]] [[Lexicon/H7401-7500#H7431|creature]] [[Lexicon/H7401-7500#H7430|that crawls]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H701-800#H776|(it). ”]]
+| [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 26|LXX]] |
+
+##### Genesis 1 - 27
+[[Lexicon/H401-500#H430|So God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1254|created]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H6701-6800#H6754|in His (own) image ;]] [[Lexicon/H6701-6800#H6754|in the image]] [[Lexicon/H401-500#H430|of God]] [[Lexicon/H1201-1300#H1254|He created]] [[Lexicon/H801-900#H853|him ;]] [[Lexicon/H2101-2200#H2145|male]] [[Lexicon/H5301-5400#H5347|and female]] [[Lexicon/H1201-1300#H1254|He created]] [[Lexicon/H801-900#H853|them.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 27|LXX]] |
 
 ##### Genesis 1 - 28
@@ -129,10 +181,18 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 29|LXX]] |
 
 ##### Genesis 1 - 30
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|And to every]] [[Lexicon/H2401-2500#H2416|beast]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H3601-3700#H3605|and every]] [[Lexicon/H5701-5800#H5775|bird]] [[Lexicon/H8001-8100#H8064|of the air]] [[Lexicon/H3601-3700#H3605|and every]] [[Lexicon/H7401-7500#H7430|creature that crawls]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H701-800#H776|the earth —]] [[Lexicon/H801-900#H834|everything that has]] [[Lexicon/H5301-5400#H5315|the breath]] [[Lexicon/H2401-2500#H2416|of life]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|[I have given] every]] [[Lexicon/H3401-3500#H3418|green]] [[Lexicon/H6201-6300#H6212|plant]] [[Lexicon/H401-500#H402|for food. ”]] [[Lexicon/H1901-2000#H1961|And it was]] [[Lexicon/H3601-3700#H3651|so.]]
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 30|LXX]] |
 
 ##### Genesis 1 - 31
 [[Lexicon/H401-500#H430|And God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|looked upon]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H6201-6300#H6213|He had made ,]] [[Lexicon/H2001-2100#H2009|and indeed ,]] [[Lexicon/H3901-4000#H3966|[it was] very]] [[Lexicon/H2801-2900#H2896|good.]] [[Lexicon/H1901-2000#H1961|And there was]] [[Lexicon/H6101-6200#H6153|evening ,]] [[Lexicon/H1901-2000#H1961|and there was]] [[Lexicon/H1201-1300#H1242|morning —]] [[Lexicon/H8301-8400#H8345|the sixth]] [[Lexicon/H3101-3200#H3117|day.]]
+=======
+[[Lexicon/H3601-3700#H3605|And to every]] [[Lexicon/H2401-2500#H2416|beast]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H3601-3700#H3605|and every]] [[Lexicon/H5701-5800#H5775|bird]] [[Lexicon/H8001-8100#H8064|of the air]] [[Lexicon/H3601-3700#H3605|and every]] [[Lexicon/H7401-7500#H7430|creature that crawls]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H701-800#H776|the earth —]] [[Lexicon/H801-900#H834|everything that has]] [[Lexicon/H5301-5400#H5315|the breath]] [[Lexicon/H2401-2500#H2416|of life]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|(I have given) every]] [[Lexicon/H3401-3500#H3418|green]] [[Lexicon/H6201-6300#H6212|plant]] [[Lexicon/H401-500#H402|for food. ”]] [[Lexicon/H1901-2000#H1961|And it was]] [[Lexicon/H3601-3700#H3651|so.]]
+| [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 30|LXX]] |
+
+##### Genesis 1 - 31
+[[Lexicon/H401-500#H430|And God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|looked upon]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H6201-6300#H6213|He had made ,]] [[Lexicon/H2001-2100#H2009|and indeed ,]] [[Lexicon/H3901-4000#H3966|(it was) very]] [[Lexicon/H2801-2900#H2896|good.]] [[Lexicon/H1901-2000#H1961|And there was]] [[Lexicon/H6101-6200#H6153|evening ,]] [[Lexicon/H1901-2000#H1961|and there was]] [[Lexicon/H1201-1300#H1242|morning —]] [[Lexicon/H8301-8400#H8345|the sixth]] [[Lexicon/H3101-3200#H3117|day.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 1#Genesis 1 - 31|LXX]] |
 

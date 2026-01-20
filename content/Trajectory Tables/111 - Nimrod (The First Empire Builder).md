@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## NIMROD (THE FIRST EMPIRE BUILDER) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6R2YFciLimM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -8,6 +16,7 @@ Nimrod represents the first post-flood attempt to establish human kingdom in def
 
 **Classification**: Providential (sovereignly arranged as negative example); Backward-Looking (recognized as antitype pattern from NT perspective)
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **Negative Type - First Empire** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 10#Genesis 10 . 8\|Genesis 10:8-12]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Nimrod (The First Empire Builder)/01 - Genesis 10.8-12\|Genesis 10:8-12]] | Nimrod becomes "a mighty one" (גִּבֹּר) on earth—the first to establish human empire after the flood. He founds Babylon and expands to Assyria, building Nineveh. The phrase "before the LORD" (לִפְנֵי יְהוָה) likely indicates defiance rather than devotion. Nimrod represents centralized human power apart from God. |  |
@@ -21,6 +30,36 @@ Nimrod represents the first post-flood attempt to establish human kingdom in def
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **Negative Type - First Empire** | [[Readable Bible/01 - Genesis/Genesis 10#Genesis 10 . 8\|Genesis 10:8-12]] | Nimrod becomes "a mighty one" (גִּבֹּר) on earth—the first to establish human empire after the flood. He founds Babylon and expands to Assyria, building Nineveh. The phrase "before the LORD" (לִפְנֵי יְהוָה) likely indicates defiance rather than devotion. Nimrod represents centralized human power apart from God. | [[Trajectory Tables - Foundation Texts/Nimrod (The First Empire Builder)/01 - Genesis 10.8-12\|Genesis 10:8-12]] |
+| 2 | **Empire's Pride Condemned** | [[Readable Bible/23 - Isaiah/Isaiah 14#Isaiah 14 . 4\|Isaiah 14:4-15]] | Isaiah's taunt song against the "king of Babylon" addresses all who inherit Nimrod's spirit of self-exaltation. The five "I will" statements (vv. 13-14) reveal empire's essence: "I will ascend... I will raise my throne... I will make myself like the Most High." This pride leads to descent into Sheol. | [[Trajectory Tables - Foundation Texts/Nimrod (The First Empire Builder)/23 - Isaiah 14.4-15\|Isaiah 14:4-15]] |
+| 3 | **Prophetic Promise - Messiah Defeats Nimrod's Land** | [[Readable Bible/33 - Micah/Micah 5#Micah 5 . 5\|Micah 5:5-6]] | The Bethlehem-born Ruler (v. 2) will shepherd His flock and "deliver us when Assyria invades." Israel will "rule the land of Assyria with the sword, and the land of Nimrod with the blade drawn." The explicit naming of "the land of Nimrod" connects Assyrian aggression to its founder's rebellious spirit. **CRITICAL:** Verbal anchor - "land of Nimrod" (אֶרֶץ נִמְרֹד) explicitly connects Messianic deliverance to Nimrod typology. | [[Trajectory Tables - Foundation Texts/Nimrod (The First Empire Builder)/33 - Micah 5.5-6\|Micah 5:5-6]] |
+| 4 | **Empire's Succession - Four Kingdoms** | [[Readable Bible/27 - Daniel/Daniel 2#Daniel 2 . 31\|Daniel 2:31-45]] | Nebuchadnezzar's dream reveals Babylon as the "head of gold" in a succession of world empires. Though kingdoms rise and fall, a stone "cut without hands" will destroy all human empire and establish God's eternal kingdom. Babylon inaugurates the pattern that God's kingdom will terminate. **CRITICAL:** Key typological establishment - Babylon as head of world empire pattern that Christ's kingdom destroys. | [[Trajectory Tables - Foundation Texts/Nimrod (The First Empire Builder)/27 - Daniel 2.31-45\|Daniel 2:31-45]] |
+| 5 | **Judgment Pronounced on Babylon** | [[Readable Bible/24 - Jeremiah/Jeremiah 50#Jeremiah 50 . 29\|Jeremiah 50:29-40]] | Jeremiah's oracle announces Babylon's total destruction: "She has sinned against the LORD... Repay her according to her deeds." What Nimrod founded in pride will become "a dwelling for jackals, an object of horror." No one will live there again. | [[Trajectory Tables - Foundation Texts/Nimrod (The First Empire Builder)/24 - Jeremiah 50.29-40\|Jeremiah 50:29-40]] |
+| 6 | **NT Contrast - Christ's Humble Kingdom** | [[Readable Bible/50 - Philippians/Philippians 2#Philippians 2 . 5\|Philippians 2:5-11]] | Where Nimrod grasped for divine status, Christ "did not consider equality with God something to be grasped, but emptied Himself." The Nimrods of history ascend by conquest; Christ descends by service. Yet God exalts the humble Christ to the name "above every name"—true dominion through self-giving. **CRITICAL:** Escalation demonstration - Christ's self-emptying contrasts with Nimrod's self-exaltation; true dominion through humility. | [[Trajectory Tables - Foundation Texts/Nimrod (The First Empire Builder)/50 - Philippians 2.5-11\|Philippians 2:5-11]] |
+| 7 | **Eschatological Babylon Revealed** | [[Readable Bible/66 - Revelation/Revelation 17#Revelation 17 . 5\|Revelation 17:5-6, 14]] | "BABYLON THE GREAT" appears as the mother of abominations, drunk with the blood of saints. This is Nimrod's legacy in final form—human empire in ultimate rebellion against God. Yet the Lamb will triumph over her, for "He is Lord of lords and King of kings." **CRITICAL:** "BABYLON THE GREAT" directly echoes OT Babylon corpus (Isaiah 13-14, 47; Jeremiah 50-51); eschatological anti-type of Nimrod's original empire. | [[Trajectory Tables - Foundation Texts/Nimrod (The First Empire Builder)/66 - Revelation 17.5-6,14\|Revelation 17:5-6, 14]] |
+| 8 | **Eschatological Consummation - Babylon Destroyed** | [[Readable Bible/66 - Revelation/Revelation 18#Revelation 18 . 2\|Revelation 18:2, 21]]; [[Readable Bible/66 - Revelation/Revelation 19#Revelation 19 . 2\|Revelation 19:2]] | "Fallen, fallen is Babylon the great!" A mighty angel casts a millstone into the sea: "With such violence Babylon will be cast down, never to be seen again." Heaven rejoices: "He has judged the great prostitute... He has avenged the blood of His servants." What Nimrod founded is forever destroyed. | [[Trajectory Tables - Foundation Texts/Nimrod (The First Empire Builder)/66 - Revelation 18.2,21; 19.2\|Revelation 18:2, 21; 19:2]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+**23 - Isaiah**
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 14.7 to Zechariah 1.11\|Isaiah 14:7  to  Zechariah 1:11]] - **CRITICAL:** The earth "at peace and at rest" after Babylon's fall echoes forward to post-exilic peace, showing Babylon's fall as paradigmatic for all divine judgment on oppressive empire.
+
+### NT to OT
+
+**66 - Revelation**
+
+- **CRITICAL:** The explicit naming of eschatological Babylon draws the entire OT anti-Babylon corpus into Revelation's vision. John's "Babylon the Great" (17:5) fulfills Isaiah 13-14, 47; Jeremiah 50-51; and Daniel's fourth kingdom, showing that human empire in its final form will be utterly destroyed by the Lamb.
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 ### 1. What You Must Do

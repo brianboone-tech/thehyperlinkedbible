@@ -10,6 +10,7 @@ cssClasses: lexicon
 ---
 
 ##### Ezekiel 11 - 1
+<<<<<<< HEAD
 [[Lexicon/H7301-7400#H7307|Then the Spirit]] [[Lexicon/H5301-5400#H5375|lifted me up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H935|and brought]] [[Lexicon/H801-900#H853|me]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6901-7000#H6931|-]] [[Lexicon/H8101-8200#H8179|the gate]] [[Lexicon/H1001-1100#H1004|of the house]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H6401-6500#H6437|that faces]] [[Lexicon/H6901-7000#H6921|east.]] [[Lexicon/H2001-2100#H2009|And there]] [[Lexicon/H6601-6700#H6607|at the entrance]] [[Lexicon/H8101-8200#H8179|of the gate]] [[Lexicon/H6201-6300#H6242|[were] twenty-five]] [[Lexicon/H2501-2600#H2568|...]] [[Lexicon/H301-400#H376|men.]] [[Lexicon/H8401-8500#H8432|Among]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H7101-7200#H7200|I saw]] [[Lexicon/H2901-3000#H2970|Jaazaniah]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H5801-5900#H5809|of Azzur]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6410|and Pelatiah]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1141|of Benaiah ,]] [[Lexicon/H8201-8300#H8269|who were leaders]] [[Lexicon/H5901-6000#H5971|of the people.]]
 
 ##### Ezekiel 11 - 2
@@ -17,6 +18,15 @@ cssClasses: lexicon
 
 ##### Ezekiel 11 - 3
 [[Lexicon/H501-600#H559|They are saying ,]] [[Lexicon/H3801-3900#H3808|‘ Is not]] [[Lexicon/H7101-7200#H7138|the time near]] [[Lexicon/H1101-1200#H1129|to build]] [[Lexicon/H1001-1100#H1004|houses ?]] [[Lexicon/H1901-2000#H1931|The city]] [[Lexicon/H5501-5600#H5518|[is] the cooking pot ,]] [[Lexicon/H501-600#H587|and we]] [[Lexicon/H1301-1400#H1320|are the meat. ’]]
+=======
+[[Lexicon/H7301-7400#H7307|Then the Spirit]] [[Lexicon/H5301-5400#H5375|lifted me up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H935|and brought]] [[Lexicon/H801-900#H853|me]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6901-7000#H6931|-]] [[Lexicon/H8101-8200#H8179|the gate]] [[Lexicon/H1001-1100#H1004|of the house]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H6401-6500#H6437|that faces]] [[Lexicon/H6901-7000#H6921|east.]] [[Lexicon/H2001-2100#H2009|And there]] [[Lexicon/H6601-6700#H6607|at the entrance]] [[Lexicon/H8101-8200#H8179|of the gate]] [[Lexicon/H6201-6300#H6242|(were) twenty-five]] [[Lexicon/H2501-2600#H2568|...]] [[Lexicon/H301-400#H376|men.]] [[Lexicon/H8401-8500#H8432|Among]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H7101-7200#H7200|I saw]] [[Lexicon/H2901-3000#H2970|Jaazaniah]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H5801-5900#H5809|of Azzur]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6410|and Pelatiah]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1141|of Benaiah ,]] [[Lexicon/H8201-8300#H8269|who were leaders]] [[Lexicon/H5901-6000#H5971|of the people.]]
+
+##### Ezekiel 11 - 2
+[[Lexicon/H501-600#H559|And (the LORD) said]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H1101-1200#H1121|“ Son]] [[Lexicon/H101-200#H120|of man ,]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H501-600#H582|are the men]] [[Lexicon/H2801-2900#H2803|who plot]] [[Lexicon/H201-300#H205|evil]] [[Lexicon/H3201-3300#H3289|and give]] [[Lexicon/H7401-7500#H7451|wicked]] [[Lexicon/H6001-6100#H6098|counsel]] [[Lexicon/H2001-2100#H2063|in this]] [[Lexicon/H5801-5900#H5892|city.]]
+
+##### Ezekiel 11 - 3
+[[Lexicon/H501-600#H559|They are saying ,]] [[Lexicon/H3801-3900#H3808|‘ Is not]] [[Lexicon/H7101-7200#H7138|the time near]] [[Lexicon/H1101-1200#H1129|to build]] [[Lexicon/H1001-1100#H1004|houses ?]] [[Lexicon/H1901-2000#H1931|The city]] [[Lexicon/H5501-5600#H5518|(is) the cooking pot ,]] [[Lexicon/H501-600#H587|and we]] [[Lexicon/H1301-1400#H1320|are the meat. ’]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 11 - 4
 [[Lexicon/H3601-3700#H3651|Therefore]] [[Lexicon/H5001-5100#H5012|prophesy]] [[Lexicon/H5901-6000#H5921|against them ;]] [[Lexicon/H5001-5100#H5012|prophesy ,]] [[Lexicon/H1101-1200#H1121|O son]] [[Lexicon/H101-200#H120|of man ! ”]]
@@ -28,13 +38,21 @@ cssClasses: lexicon
 [[Lexicon/H7201-7300#H7235|You have multiplied]] [[Lexicon/H2401-2500#H2491|those you killed]] [[Lexicon/H2001-2100#H2063|in this]] [[Lexicon/H5801-5900#H5892|city]] [[Lexicon/H4301-4400#H4390|and filled]] [[Lexicon/H2301-2400#H2351|its streets]] [[Lexicon/H2401-2500#H2491|with the dead.]]
 
 ##### Ezekiel 11 - 7
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3651|Therefore]] [[Lexicon/H3501-3600#H3541|this is what]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H2401-2500#H2491|The slain]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7701-7800#H7760|you have laid]] [[Lexicon/H8401-8500#H8432|within]] [[Lexicon/H1901-2000#H1992|[this city]]] [[Lexicon/H1301-1400#H1320|are the meat ,]] [[Lexicon/H1901-2000#H1931|and the city]] [[Lexicon/H5501-5600#H5518|is the pot ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3318|but I will remove you]] [[Lexicon/H8401-8500#H8432|from it.]]
+=======
+[[Lexicon/H3601-3700#H3651|Therefore]] [[Lexicon/H3501-3600#H3541|this is what]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H2401-2500#H2491|The slain]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7701-7800#H7760|you have laid]] [[Lexicon/H8401-8500#H8432|within]] [[Lexicon/H1901-2000#H1992|(this city)]] [[Lexicon/H1301-1400#H1320|are the meat ,]] [[Lexicon/H1901-2000#H1931|and the city]] [[Lexicon/H5501-5600#H5518|is the pot ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3318|but I will remove you]] [[Lexicon/H8401-8500#H8432|from it.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 11 - 8
 [[Lexicon/H3301-3400#H3372|You fear]] [[Lexicon/H2701-2800#H2719|the sword ,]] [[Lexicon/H901-1000#H935|so I will bring]] [[Lexicon/H2701-2800#H2719|the sword]] [[Lexicon/H5901-6000#H5921|against you ,]] [[Lexicon/H5001-5100#H5002|declares]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD.]]
 
 ##### Ezekiel 11 - 9
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3318|I will bring you]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8401-8500#H8432|out of [the city]]] [[Lexicon/H5401-5500#H5414|and deliver]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H3001-3100#H3027|into the hands]] [[Lexicon/H2101-2200#H2114|of foreigners ,]] [[Lexicon/H6201-6300#H6213|and I will execute]] [[Lexicon/H8201-8300#H8201|judgments]]
+=======
+[[Lexicon/H3301-3400#H3318|I will bring you]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8401-8500#H8432|out of (the city)]] [[Lexicon/H5401-5500#H5414|and deliver]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H3001-3100#H3027|into the hands]] [[Lexicon/H2101-2200#H2114|of foreigners ,]] [[Lexicon/H6201-6300#H6213|and I will execute]] [[Lexicon/H8201-8300#H8201|judgments]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 11 - 10
 [[Lexicon/H5301-5400#H5307|You will fall]] [[Lexicon/H2701-2800#H2719|by the sword ,]] [[Lexicon/H8101-8200#H8199|and I will judge]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H5901-6000#H5921|even]] [[Lexicon/H1301-1400#H1366|to the borders]] [[Lexicon/H3401-3500#H3478|of Israel.]] [[Lexicon/H3001-3100#H3045|Then you will know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD.]]
@@ -79,7 +97,11 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3519|And the glory]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H5901-6000#H5927|rose up]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H8401-8500#H8432|within]] [[Lexicon/H5801-5900#H5892|the city]] [[Lexicon/H5901-6000#H5975|and stood]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H2001-2100#H2022|the mountain]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6901-7000#H6924|east]] [[Lexicon/H5801-5900#H5892|of the city.]]
 
 ##### Ezekiel 11 - 24
+<<<<<<< HEAD
 [[Lexicon/H7301-7400#H7307|And the Spirit]] [[Lexicon/H5301-5400#H5375|lifted me up]] [[Lexicon/H901-1000#H935|and carried me]] [[Lexicon/H401-500#H413|back]] [[Lexicon/H3701-3800#H3778|to Chaldea ,]] [[Lexicon/H1401-1500#H1473|to the exiles]] [[Lexicon/H4701-4800#H4758|in the vision [given]]] [[Lexicon/H7301-7400#H7307|by the Spirit]] [[Lexicon/H401-500#H430|of God.]] [[Lexicon/H4701-4800#H4758|After the vision]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7200|-]] [[Lexicon/H5901-6000#H5927|had gone up]] [[Lexicon/H5901-6000#H5921|from me ,]]
+=======
+[[Lexicon/H7301-7400#H7307|And the Spirit]] [[Lexicon/H5301-5400#H5375|lifted me up]] [[Lexicon/H901-1000#H935|and carried me]] [[Lexicon/H401-500#H413|back]] [[Lexicon/H3701-3800#H3778|to Chaldea ,]] [[Lexicon/H1401-1500#H1473|to the exiles]] [[Lexicon/H4701-4800#H4758|in the vision (given)]] [[Lexicon/H7301-7400#H7307|by the Spirit]] [[Lexicon/H401-500#H430|of God.]] [[Lexicon/H4701-4800#H4758|After the vision]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7200|-]] [[Lexicon/H5901-6000#H5927|had gone up]] [[Lexicon/H5901-6000#H5921|from me ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 11 - 25
 [[Lexicon/H1601-1700#H1696|I told]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1401-1500#H1473|the exiles]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7200|had shown me.]]

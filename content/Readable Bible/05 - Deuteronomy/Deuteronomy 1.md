@@ -5,11 +5,18 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Deuteronomy-R 1
 
 **[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
 
  [[Readable Bible/04 - Numbers/Numbers 36#Numbers-R 36| Numbers 36]]- [[Readable Bible/05 - Deuteronomy/Deuteronomy 2#Deuteronomy-R 2| Deuteronomy 2]]
+=======
+# Deuteronomy 1
+
+
+ [[Readable Bible/04 - Numbers/Numbers 36|Numbers 36]]- [[Readable Bible/05 - Deuteronomy/Deuteronomy 2|Deuteronomy 2]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

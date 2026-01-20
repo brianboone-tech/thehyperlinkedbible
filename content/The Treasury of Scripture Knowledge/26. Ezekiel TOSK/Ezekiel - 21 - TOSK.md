@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Ezekiel 21 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 20 - TOSK|← Ch 20]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 22 - TOSK|Ch 22 →]]
+=======
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 20 - TOSK|← Ch 20]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 22 - TOSK|Ch 22 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

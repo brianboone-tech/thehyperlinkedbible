@@ -18,7 +18,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 113#Psalm 113 - 2|LXX]] |
 
 ##### Psalm 113 - 3
+<<<<<<< HEAD
 [[Lexicon/H4201-4300#H4217|From where the sun rises]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H3901-4000#H3996|where it sets]] [[Lexicon/H8101-8200#H8121|... ,]] [[Lexicon/H8001-8100#H8034|the name]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1901-2000#H1984|[is] praised.]]
+=======
+[[Lexicon/H4201-4300#H4217|From where the sun rises]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H3901-4000#H3996|where it sets]] [[Lexicon/H8101-8200#H8121|... ,]] [[Lexicon/H8001-8100#H8034|the name]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1901-2000#H1984|(is) praised.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 113#Psalm 113 - 3|LXX]] |
 
 ##### Psalm 113 - 4

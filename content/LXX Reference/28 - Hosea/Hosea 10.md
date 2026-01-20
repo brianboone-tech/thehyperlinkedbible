@@ -30,7 +30,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G601-700#G0667|they carried away]] [[Lexicon/G3501-3600#G3579|tribute]] [[Lexicon/G901-1000#G0935|to king]] Jareb [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1301-1400#G1390|a gift;]] Ephraim [[Lexicon/G1201-1300#G1209|shall receive]] [[Lexicon/G101-200#G0152|shame;]] [[Lexicon/G101-200#G0153|Israel shall be ashamed]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1012|his counsel.]]
 
 #### Hosea 10 - 7
+<<<<<<< HEAD
 [[Lexicon/G601-700#G0641|Samaria threw off]] [[Lexicon/G901-1000#G0935|her king]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5401-5500#G5434|a stick]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G5201-5300#G5204|of the water.]]
+=======
+[[Lexicon/G601-700#G0641|Samaria threw off]] [[Lexicon/G901-1000#G0935|her king]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5401-5500#G5434|a stick]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G5201-5300#G5204|of the water.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Hosea 10 - 8
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1808|shall be lifted away]] of Israel. [[Lexicon/G101-200#G0173|Thorn-bushes]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5101-5200#G5146|thistles]] [[Lexicon/G301-400#G0305|shall ascend]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2301-2400#G2379|their altars;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2046|they shall say]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3701-3800#G3735|mountains,]] [[Lexicon/G2501-2600#G2572|Cover]] [[Lexicon/G1401-1500#G1473|us!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1001-1100#G1015|hills,]] [[Lexicon/G4001-4100#G4098|Fall]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|us!]]
@@ -51,7 +55,11 @@ Ephraim [[Lexicon/G1101-1200#G1151|a heifer]] [[Lexicon/G1301-1400#G1321|being t
 [[Lexicon/G2401-2500#G2444|Why did]] [[Lexicon/G3901-4000#G3902|you pass over in silence]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0093|of her iniquity]] [[Lexicon/G2001-2100#G2068|You ate]] [[Lexicon/G2501-2600#G2590|fruit]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1601-1700#G1679|you hoped]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G701-800#G0716|your chariots,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1411|of your power.]]
 
 #### Hosea 10 - 14
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1817|shall rise up]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G2901-3000#G2992|your people,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4001-4100#G4058|your places being walled around]] [[Lexicon/G3601-3700#G3634|shall be undone.]] [[Lexicon/G5601-5700#G5613|As]] Shalman [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] of Jeroboam [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4171|of battle,]] [[Lexicon/G3301-3400#G3384| the mother]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1817|shall rise up]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G2901-3000#G2992|your people,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4001-4100#G4058|your places being walled around]] [[Lexicon/G3601-3700#G3634|shall be undone.]] [[Lexicon/G5601-5624#G5613|As]] Shalman [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] of Jeroboam [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4171|of battle,]] [[Lexicon/G3301-3400#G3384| the mother]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Hosea 10 - 15
 [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G4101-4200#G4160|I will do]] [[Lexicon/G1401-1500#G1473|to you,]] [[Lexicon/G3601-3700#G3624|O house]] of Israel, [[Lexicon/G501-600#G0575|in front of]] [[Lexicon/G2501-2600#G2549|your evils.]]

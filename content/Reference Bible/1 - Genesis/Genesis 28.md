@@ -29,7 +29,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 28#Genesis 28 - 4|LXX]] |
 
 ##### Genesis 28 - 5
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3327|So Isaac]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H1901-2000#H1980|...]] [[Lexicon/H6301-6400#H6307|vvv]] [[Lexicon/H701-800#H758|to Paddan-aram ,]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3801-3900#H3837|Laban]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1301-1400#H1328|of Bethuel]] [[Lexicon/H701-800#H761|the Aramean ,]] [[Lexicon/H201-300#H251|the brother]] [[Lexicon/H7201-7300#H7259|of Rebekah ,]] [[Lexicon/H501-600#H517|[who was] the mother]] [[Lexicon/H3201-3300#H3290|of Jacob]] [[Lexicon/H6201-6300#H6215|and Esau.]]
+=======
+[[Lexicon/H3301-3400#H3327|So Isaac]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H1901-2000#H1980|...]] [[Lexicon/H6301-6400#H6307|vvv]] [[Lexicon/H701-800#H758|to Paddan-aram ,]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3801-3900#H3837|Laban]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1301-1400#H1328|of Bethuel]] [[Lexicon/H701-800#H761|the Aramean ,]] [[Lexicon/H201-300#H251|the brother]] [[Lexicon/H7201-7300#H7259|of Rebekah ,]] [[Lexicon/H501-600#H517|(who was) the mother]] [[Lexicon/H3201-3300#H3290|of Jacob]] [[Lexicon/H6201-6300#H6215|and Esau.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 28#Genesis 28 - 5|LXX]] |
 
 ##### Genesis 28 - 6
@@ -45,7 +49,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 28#Genesis 28 - 8|LXX]] |
 
 ##### Genesis 28 - 9
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H1901-2000#H1980|went]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3401-3500#H3458|Ishmael]] [[Lexicon/H3901-4000#H3947|and married]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4258|Mahalath ,]] [[Lexicon/H201-300#H269|the sister]] [[Lexicon/H5001-5100#H5032|of Nebaioth]] [[Lexicon/H1301-1400#H1323|[and] daughter]] [[Lexicon/H1-100#H85|of Abraham’s]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H3401-3500#H3458|Ishmael ,]] [[Lexicon/H5901-6000#H5921|in addition to]] [[Lexicon/H801-900#H802|the wives]] [[Lexicon/H801-900#H802|...]]
+=======
+[[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H1901-2000#H1980|went]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3401-3500#H3458|Ishmael]] [[Lexicon/H3901-4000#H3947|and married]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4258|Mahalath ,]] [[Lexicon/H201-300#H269|the sister]] [[Lexicon/H5001-5100#H5032|of Nebaioth]] [[Lexicon/H1301-1400#H1323|(and) daughter]] [[Lexicon/H1-100#H85|of Abraham’s]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H3401-3500#H3458|Ishmael ,]] [[Lexicon/H5901-6000#H5921|in addition to]] [[Lexicon/H801-900#H802|the wives]] [[Lexicon/H801-900#H802|...]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 28#Genesis 28 - 9|LXX]] |
 
 ##### Genesis 28 - 10
@@ -57,7 +65,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 28#Genesis 28 - 11|LXX]] |
 
 ##### Genesis 28 - 12
+<<<<<<< HEAD
 [[Lexicon/H2401-2500#H2492|And [Jacob] had a dream]] [[Lexicon/H2001-2100#H2009|about]] [[Lexicon/H5501-5600#H5551|a ladder]] [[Lexicon/H5301-5400#H5324|that rested]] [[Lexicon/H701-800#H776|on the earth]] [[Lexicon/H7201-7300#H7218|with its top]] [[Lexicon/H5001-5100#H5060|reaching]] [[Lexicon/H8001-8100#H8064|up to heaven ,]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H401-500#H430|and God’s]] [[Lexicon/H4301-4400#H4397|angels]] [[Lexicon/H5901-6000#H5927|were going up]] [[Lexicon/H3301-3400#H3381|and down]]
+=======
+[[Lexicon/H2401-2500#H2492|And (Jacob) had a dream]] [[Lexicon/H2001-2100#H2009|about]] [[Lexicon/H5501-5600#H5551|a ladder]] [[Lexicon/H5301-5400#H5324|that rested]] [[Lexicon/H701-800#H776|on the earth]] [[Lexicon/H7201-7300#H7218|with its top]] [[Lexicon/H5001-5100#H5060|reaching]] [[Lexicon/H8001-8100#H8064|up to heaven ,]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H401-500#H430|and God’s]] [[Lexicon/H4301-4400#H4397|angels]] [[Lexicon/H5901-6000#H5927|were going up]] [[Lexicon/H3301-3400#H3381|and down]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 28#Genesis 28 - 12|LXX]] |
 
 ##### Genesis 28 - 13
@@ -77,7 +89,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 28#Genesis 28 - 16|LXX]] |
 
 ##### Genesis 28 - 17
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3372|And he was afraid]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H4001-4100#H4100|“ How]] [[Lexicon/H3301-3400#H3372|awesome]] [[Lexicon/H2001-2100#H2088|[is] this]] [[Lexicon/H4701-4800#H4725|place !]] [[Lexicon/H2001-2100#H2088|This]] [[Lexicon/H301-400#H369|is none]] [[Lexicon/H3501-3600#H3588|other than]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H401-500#H430|of God ;]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H8101-8200#H8179|is the gate]] [[Lexicon/H8001-8100#H8064|of heaven ! ”]]
+=======
+[[Lexicon/H3301-3400#H3372|And he was afraid]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H4001-4100#H4100|“ How]] [[Lexicon/H3301-3400#H3372|awesome]] [[Lexicon/H2001-2100#H2088|(is) this]] [[Lexicon/H4701-4800#H4725|place !]] [[Lexicon/H2001-2100#H2088|This]] [[Lexicon/H301-400#H369|is none]] [[Lexicon/H3501-3600#H3588|other than]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H401-500#H430|of God ;]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H8101-8200#H8179|is the gate]] [[Lexicon/H8001-8100#H8064|of heaven ! ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 28#Genesis 28 - 17|LXX]] |
 
 ##### Genesis 28 - 18

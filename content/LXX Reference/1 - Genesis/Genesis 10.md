@@ -36,7 +36,11 @@ Gomer, [[Lexicon/G2501-2600#G2532|and]] Magog, [[Lexicon/G2501-2600#G2532|and]] 
 [[Lexicon/G1101-1200#G1161|And Cush]] [[Lexicon/G1001-1100#G1080|procreated]] Nimrod. [[Lexicon/G3701-3800#G3778|This one]] [[Lexicon/G701-800#G0756|began]] [[Lexicon/G1501-1600#G1510|to be]] [[Lexicon/G1001-1100#G1095|a giant]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth.]]
 
 #### Genesis 10 - 9
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3778|This one]] [[Lexicon/G1501-1600#G1510|was]] [[Lexicon/G1001-1100#G1095|a giant]] [[Lexicon/G2901-3000#G2952|hunter with hounds]] [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G2301-2400#G2316|God.]] [[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2001-2100#G2046|they shall say,]] [[Lexicon/G5601-5700#G5613|As]] Nimrod [[Lexicon/G1001-1100#G1095|a giant]] [[Lexicon/G2901-3000#G2952|hunter with hounds]] [[Lexicon/G1701-1800#G1726|before]]
+=======
+[[Lexicon/G3701-3800#G3778|This one]] [[Lexicon/G1501-1600#G1510|was]] [[Lexicon/G1001-1100#G1095|a giant]] [[Lexicon/G2901-3000#G2952|hunter with hounds]] [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G2301-2400#G2316|God.]] [[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2001-2100#G2046|they shall say,]] [[Lexicon/G5601-5624#G5613|As]] Nimrod [[Lexicon/G1001-1100#G1095|a giant]] [[Lexicon/G2901-3000#G2952|hunter with hounds]] [[Lexicon/G1701-1800#G1726|before]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Genesis 10 - 10
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|came to pass]] [[Lexicon/G901-1000#G0932|of his kingdom ]] Babel, [[Lexicon/G2501-2600#G2532|and]] Erech, [[Lexicon/G2501-2600#G2532|and]] Accad, [[Lexicon/G2501-2600#G2532|and]] Calneh, [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Shinar.

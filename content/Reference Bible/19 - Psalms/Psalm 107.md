@@ -30,7 +30,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 5|LXX]] |
 
 ##### Psalm 107 - 6
+<<<<<<< HEAD
 [[Lexicon/H6801-6900#H6817|Then they cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6801-6900#H6862|in their trouble ,]] [[Lexicon/H5301-5400#H5337|[and] He delivered]] [[Lexicon/H4601-4700#H4691|from their distress.]]
+=======
+[[Lexicon/H6801-6900#H6817|Then they cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6801-6900#H6862|in their trouble ,]] [[Lexicon/H5301-5400#H5337|(and) He delivered]] [[Lexicon/H4601-4700#H4691|from their distress.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 6|LXX]] |
 
 ##### Psalm 107 - 7
@@ -58,7 +62,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 12|LXX]] |
 
 ##### Psalm 107 - 13
+<<<<<<< HEAD
 [[Lexicon/H2101-2200#H2199|Then they cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6801-6900#H6862|in their trouble ,]] [[Lexicon/H3401-3500#H3467|[and] He saved]] [[Lexicon/H4601-4700#H4691|from their distress.]]
+=======
+[[Lexicon/H2101-2200#H2199|Then they cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6801-6900#H6862|in their trouble ,]] [[Lexicon/H3401-3500#H3467|(and) He saved]] [[Lexicon/H4601-4700#H4691|from their distress.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 13|LXX]] |
 
 ##### Psalm 107 - 14
@@ -82,7 +90,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 18|LXX]] |
 
 ##### Psalm 107 - 19
+<<<<<<< HEAD
 [[Lexicon/H2101-2200#H2199|Then they cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6801-6900#H6862|in their trouble]] [[Lexicon/H3401-3500#H3467|[and] He saved them]] [[Lexicon/H4601-4700#H4691|from their distress.]]
+=======
+[[Lexicon/H2101-2200#H2199|Then they cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6801-6900#H6862|in their trouble]] [[Lexicon/H3401-3500#H3467|(and) He saved them]] [[Lexicon/H4601-4700#H4691|from their distress.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 19|LXX]] |
 
 ##### Psalm 107 - 20
@@ -106,11 +118,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 24|LXX]] |
 
 ##### Psalm 107 - 25
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|For He spoke]] [[Lexicon/H5901-6000#H5975|and raised]] [[Lexicon/H7301-7400#H7307|vvv]] [[Lexicon/H5501-5600#H5591|a tempest]] [[Lexicon/H7301-7400#H7311|that lifted]] [[Lexicon/H1501-1600#H1530|the waves [of the sea].]]
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 25|LXX]] |
 
 ##### Psalm 107 - 26
 [[Lexicon/H5901-6000#H5927|They mounted up]] [[Lexicon/H8001-8100#H8064|to the heavens ,]] [[Lexicon/H3301-3400#H3381|[then] sunk]] [[Lexicon/H8401-8500#H8415|to the depths ;]] [[Lexicon/H5301-5400#H5315|their courage]] [[Lexicon/H4101-4200#H4127|melted]] [[Lexicon/H7401-7500#H7451|in their anguish.]]
+=======
+[[Lexicon/H501-600#H559|For He spoke]] [[Lexicon/H5901-6000#H5975|and raised]] [[Lexicon/H7301-7400#H7307|vvv]] [[Lexicon/H5501-5600#H5591|a tempest]] [[Lexicon/H7301-7400#H7311|that lifted]] [[Lexicon/H1501-1600#H1530|the waves (of the sea).]]
+| [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 25|LXX]] |
+
+##### Psalm 107 - 26
+[[Lexicon/H5901-6000#H5927|They mounted up]] [[Lexicon/H8001-8100#H8064|to the heavens ,]] [[Lexicon/H3301-3400#H3381|(then) sunk]] [[Lexicon/H8401-8500#H8415|to the depths ;]] [[Lexicon/H5301-5400#H5315|their courage]] [[Lexicon/H4101-4200#H4127|melted]] [[Lexicon/H7401-7500#H7451|in their anguish.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 26|LXX]] |
 
 ##### Psalm 107 - 27
@@ -142,7 +162,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 33|LXX]] |
 
 ##### Psalm 107 - 34
+<<<<<<< HEAD
 [[Lexicon/H6501-6600#H6529|[and] fruitful]] [[Lexicon/H701-800#H776|land]] [[Lexicon/H4401-4500#H4420|into fields of salt ,]] [[Lexicon/H7401-7500#H7451|because of the wickedness]] [[Lexicon/H3401-3500#H3427|of its dwellers]]
+=======
+[[Lexicon/H6501-6600#H6529|(and) fruitful]] [[Lexicon/H701-800#H776|land]] [[Lexicon/H4401-4500#H4420|into fields of salt ,]] [[Lexicon/H7401-7500#H7451|because of the wickedness]] [[Lexicon/H3401-3500#H3427|of its dwellers]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 107#Psalm 107 - 34|LXX]] |
 
 ##### Psalm 107 - 35

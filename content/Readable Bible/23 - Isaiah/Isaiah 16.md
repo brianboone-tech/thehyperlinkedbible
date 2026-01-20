@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Isaiah-R 16
 
 **[[Home/Scripture/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 15#Isaiah-R 15| Isaiah 15]] - [[Readable Bible/23 - Isaiah/Isaiah 17#Isaiah-R 17| Isaiah 17]]
+=======
+# Isaiah 16
+
+[[Readable Bible/23 - Isaiah/Isaiah 15|← Isaiah 15]] | [[Readable Bible/23 - Isaiah/Isaiah 17|Isaiah 17 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

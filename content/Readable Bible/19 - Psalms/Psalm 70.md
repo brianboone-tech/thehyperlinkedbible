@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 70
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 69#Psalm-R 69| Psalm 69]] - [[Readable Bible/19 - Psalms/Psalm 71#Psalm-R 71| Psalm 71]]
+=======
+# Psalm 70
+
+[[Readable Bible/19 - Psalms/Psalm 69|← Psalm 69]] | [[Readable Bible/19 - Psalms/Psalm 71|Psalm 71 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

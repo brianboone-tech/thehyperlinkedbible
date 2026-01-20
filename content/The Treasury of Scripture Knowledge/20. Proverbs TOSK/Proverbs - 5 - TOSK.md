@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Proverbs 5 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/20 - Proverbs|← Proverbs]]** | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 4 - TOSK|← Ch 4]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 6 - TOSK|Ch 6 →]]
+=======
+**[[Home/Indexes/Readable Bible/20 - Proverbs|← Proverbs]]** | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 4 - TOSK|← Ch 4]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 6 - TOSK|Ch 6 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Colossians-R 2
 
 **[[Home/Scripture/51 - Colossians|Colossians]]**
 
 [[Readable Bible/51 - Colossians/Colossians 1#Colossians-R 1| Colossians 1]] - [[Readable Bible/51 - Colossians/Colossians 3#Colossians-R 3| Colossians 3]]
+=======
+# Colossians 2
+
+[[Readable Bible/51 - Colossians/Colossians 1|← Colossians 1]] | [[Readable Bible/51 - Colossians/Colossians 3|Colossians 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

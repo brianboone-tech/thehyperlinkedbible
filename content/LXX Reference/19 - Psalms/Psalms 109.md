@@ -63,10 +63,17 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1-100#G0025|he loved]] [[Lexicon/G2601-2700#G2671|a curse,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2201-2300#G2240|it shall come]] [[Lexicon/G1401-1500#G1473|to him;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|he did not]] [[Lexicon/G2301-2400#G2309|want]] [[Lexicon/G2101-2200#G2129|a blessing,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3101-3200#G3118|it shall be far]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|him.]]
 
 #### Psalms 109 - 18
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1701-1800#G1746|he put on]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2401-2500#G2440|a cloak,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1525|it entered]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G1401-1500#G1458|his insides,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G1601-1700#G1637|oil]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3747|his bones.]]
 
 #### Psalms 109 - 19
 [[Lexicon/G1001-1100#G1096|Let it be]] [[Lexicon/G1401-1500#G1473|to him]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2401-2500#G2440|a cloak]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4001-4100#G4016|he puts around,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G2201-2300#G2223|a belt]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1201-1300#G1275|he always]] [[Lexicon/G4001-4100#G4024|girds himself!]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1701-1800#G1746|he put on]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2401-2500#G2440|a cloak,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1525|it entered]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G1401-1500#G1458|his insides,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G1601-1700#G1637|oil]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3747|his bones.]]
+
+#### Psalms 109 - 19
+[[Lexicon/G1001-1100#G1096|Let it be]] [[Lexicon/G1401-1500#G1473|to him]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2401-2500#G2440|a cloak]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4001-4100#G4016|he puts around,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G2201-2300#G2223|a belt]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1201-1300#G1275|he always]] [[Lexicon/G4001-4100#G4024|girds himself!]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 109 - 20
 [[Lexicon/G3701-3800#G3778|This is]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2041|work]] [[Lexicon/G3501-3600#G3588|of the ones]] [[Lexicon/G1701-1800#G1736|slandering]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2901-3000#G2980|speaking]] [[Lexicon/G4101-4200#G4190|evil]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G5501-5600#G5590|my soul.]]
@@ -78,7 +85,11 @@ Testament: Old
 [[Lexicon/G4501-4600#G4506|Rescue]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4401-4500#G4434|poor]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2588|my heart]] [[Lexicon/G5001-5100#G5015|is disturbed]] [[Lexicon/G1701-1800#G1787|within]] [[Lexicon/G1401-1500#G1473|me.]]
 
 #### Psalms 109 - 23
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5616|As]] [[Lexicon/G4601-4700#G4639|shade]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1501-1600#G1578|its turning aside,]] [[Lexicon/G401-500#G0465|I was taken away in return;]] [[Lexicon/G1601-1700#G1621|I was shaken away]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G101-200#G0200|locusts.]]
+=======
+[[Lexicon/G5601-5624#G5616|As]] [[Lexicon/G4601-4700#G4639|shade]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1501-1600#G1578|its turning aside,]] [[Lexicon/G401-500#G0465|I was taken away in return;]] [[Lexicon/G1601-1700#G1621|I was shaken away]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G101-200#G0200|locusts.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 109 - 24
 [[Lexicon/G1101-1200#G1119|My knees]] [[Lexicon/G701-800#G0770|weakened]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3521|fasting,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4501-4600#G4561|my flesh]] [[Lexicon/G201-300#G0241|was changed]] [[Lexicon/G1201-1300#G1223|through]]

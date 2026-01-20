@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Matthew-R 3
 
 **[[Home/Scripture/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 2#Matthew-R 2| Matthew 2]] - [[Readable Bible/40 - Matthew/Matthew 4#Matthew-R 4| Matthew 4]]
+=======
+# Matthew 3
+
+[[Readable Bible/40 - Matthew/Matthew 2|← Matthew 2]] | [[Readable Bible/40 - Matthew/Matthew 4|Matthew 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -25,4 +25,8 @@ cssClasses: lexicon
 [[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H1201-1300#H1254|will create]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4301-4400#H4349|-]] [[Lexicon/H2001-2100#H2022|of Mount]] [[Lexicon/H6701-6800#H6726|Zion]] [[Lexicon/H5901-6000#H5921|and over]] [[Lexicon/H4701-4800#H4744|her assemblies]] [[Lexicon/H6001-6100#H6051|a cloud]] [[Lexicon/H6201-6300#H6227|of smoke]] [[Lexicon/H3101-3200#H3119|by day]] [[Lexicon/H5001-5100#H5051|and a glowing]] [[Lexicon/H3801-3900#H3852|flame]] [[Lexicon/H701-800#H784|of fire]] [[Lexicon/H3901-4000#H3915|by night.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3501-3600#H3519|the glory]] [[Lexicon/H2601-2700#H2646|there will be a canopy ,]]
 
 ##### Isaiah 4 - 6
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H5501-5600#H5521|a shelter]] [[Lexicon/H6701-6800#H6738|to [give] shade]] [[Lexicon/H2701-2800#H2721|from the heat]] [[Lexicon/H3101-3200#H3119|by day ,]] [[Lexicon/H4201-4300#H4268|and a refuge]] [[Lexicon/H4501-4600#H4563|and hiding place]] [[Lexicon/H2201-2300#H2230|from the storm]] [[Lexicon/H4301-4400#H4306|and the rain.]]
+=======
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H5501-5600#H5521|a shelter]] [[Lexicon/H6701-6800#H6738|to (give) shade]] [[Lexicon/H2701-2800#H2721|from the heat]] [[Lexicon/H3101-3200#H3119|by day ,]] [[Lexicon/H4201-4300#H4268|and a refuge]] [[Lexicon/H4501-4600#H4563|and hiding place]] [[Lexicon/H2201-2300#H2230|from the storm]] [[Lexicon/H4301-4400#H4306|and the rain.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

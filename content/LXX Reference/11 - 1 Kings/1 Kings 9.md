@@ -12,7 +12,11 @@ Testament: Old
 ---
 
 #### 1 Kings 9 - 1
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4901-5000#G4931|Solomon completed]] [[Lexicon/G3601-3700#G3618|constructing]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|king,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4201-4300#G4230|matters]] of Solomon, [[Lexicon/G3701-3800#G3745|as many things as]] [[Lexicon/G2301-2400#G2309|he wanted]] [[Lexicon/G4101-4200#G4160|to do,]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4901-5000#G4931|Solomon completed]] [[Lexicon/G3601-3700#G3618|constructing]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|king,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4201-4300#G4230|matters]] of Solomon, [[Lexicon/G3701-3800#G3745|as many things as]] [[Lexicon/G2301-2400#G2309|he wanted]] [[Lexicon/G4101-4200#G4160|to do,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Kings 9 - 2
 [[Lexicon/G2501-2600#G2532|that]] to Solomon [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1201-1300#G1208|second time,]] [[Lexicon/G2501-2600#G2531|as]] [[Lexicon/G3701-3800#G3708|he appeared]] [[Lexicon/G1401-1500#G1473|to him]] [[Lexicon/G1701-1800#G1722|in]] Gibeon.

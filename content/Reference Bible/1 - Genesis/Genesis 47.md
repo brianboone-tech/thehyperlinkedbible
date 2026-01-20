@@ -21,7 +21,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 2|LXX]] |
 
 ##### Genesis 47 - 3
+<<<<<<< HEAD
 [[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H4601-4700#H4639|is your occupation ? ”]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H501-600#H559|asked]] [[Lexicon/H201-300#H251|[Joseph’s] brothers.]] [[Lexicon/H5601-5700#H5650|“ Your servants]] [[Lexicon/H7401-7500#H7462|are shepherds]] [[Lexicon/H6601-6700#H6629|... , ”]] [[Lexicon/H501-600#H559|they replied]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H6501-6600#H6547|... ,]] [[Lexicon/H1501-1600#H1571|“ both]] [[Lexicon/H501-600#H587|we]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H1-100#H1|our fathers. ”]]
+=======
+[[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H4601-4700#H4639|is your occupation ? ”]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H501-600#H559|asked]] [[Lexicon/H201-300#H251|(Joseph’s) brothers.]] [[Lexicon/H5601-5700#H5650|“ Your servants]] [[Lexicon/H7401-7500#H7462|are shepherds]] [[Lexicon/H6601-6700#H6629|... , ”]] [[Lexicon/H501-600#H559|they replied]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H6501-6600#H6547|... ,]] [[Lexicon/H1501-1600#H1571|“ both]] [[Lexicon/H501-600#H587|we]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H1-100#H1|our fathers. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 3|LXX]] |
 
 ##### Genesis 47 - 4
@@ -45,11 +49,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 8|LXX]] |
 
 ##### Genesis 47 - 9
+<<<<<<< HEAD
 [[Lexicon/H4001-4100#H4033|“ My travels]] [[Lexicon/H3901-4000#H3967|[have lasted] 130]] [[Lexicon/H7901-8000#H7970|...]] [[Lexicon/H8101-8200#H8141|years , ”]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H501-600#H559|replied]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H6501-6600#H6547|....]] [[Lexicon/H3101-3200#H3117|“ My years]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H2401-2500#H2416|...]] [[Lexicon/H1901-2000#H1961|have been]] [[Lexicon/H4501-4600#H4592|few]] [[Lexicon/H7401-7500#H7451|and hard ,]] [[Lexicon/H3801-3900#H3808|and they have not]] [[Lexicon/H5301-5400#H5381|matched]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3117|the years]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H2401-2500#H2416|...]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H4001-4100#H4033|of the travels]] [[Lexicon/H1-100#H1|of my fathers. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 9|LXX]] |
 
 ##### Genesis 47 - 10
 [[Lexicon/H3201-3300#H3290|Then Jacob]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1288|blessed]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H3301-3400#H3318|and departed]] [[Lexicon/H6501-6600#H6547|from [his]]] [[Lexicon/H6401-6500#H6440|presence.]]
+=======
+[[Lexicon/H4001-4100#H4033|“ My travels]] [[Lexicon/H3901-4000#H3967|(have lasted) 130]] [[Lexicon/H7901-8000#H7970|...]] [[Lexicon/H8101-8200#H8141|years , ”]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H501-600#H559|replied]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H6501-6600#H6547|....]] [[Lexicon/H3101-3200#H3117|“ My years]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H2401-2500#H2416|...]] [[Lexicon/H1901-2000#H1961|have been]] [[Lexicon/H4501-4600#H4592|few]] [[Lexicon/H7401-7500#H7451|and hard ,]] [[Lexicon/H3801-3900#H3808|and they have not]] [[Lexicon/H5301-5400#H5381|matched]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3117|the years]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H2401-2500#H2416|...]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H4001-4100#H4033|of the travels]] [[Lexicon/H1-100#H1|of my fathers. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 9|LXX]] |
+
+##### Genesis 47 - 10
+[[Lexicon/H3201-3300#H3290|Then Jacob]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1288|blessed]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H3301-3400#H3318|and departed]] [[Lexicon/H6501-6600#H6547|from (his)]] [[Lexicon/H6401-6500#H6440|presence.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 10|LXX]] |
 
 ##### Genesis 47 - 11
@@ -57,7 +69,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 11|LXX]] |
 
 ##### Genesis 47 - 12
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3130|Joseph also]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3557|provided]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H201-300#H251|brothers]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H1-100#H1|his father’s]] [[Lexicon/H1001-1100#H1004|household]] [[Lexicon/H3801-3900#H3899|with food]] [[Lexicon/H6301-6400#H6310|for]] [[Lexicon/H2901-3000#H2945|[their] families.]]
+=======
+[[Lexicon/H3101-3200#H3130|Joseph also]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3557|provided]] [[Lexicon/H1-100#H1|his father]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H201-300#H251|brothers]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H1-100#H1|his father’s]] [[Lexicon/H1001-1100#H1004|household]] [[Lexicon/H3801-3900#H3899|with food]] [[Lexicon/H6301-6400#H6310|for]] [[Lexicon/H2901-3000#H2945|(their) families.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 12|LXX]] |
 
 ##### Genesis 47 - 13
@@ -65,7 +81,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 13|LXX]] |
 
 ##### Genesis 47 - 14
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3950|collected]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3701-3800#H3701|the money]] [[Lexicon/H4601-4700#H4672|to be found]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H701-800#H776|and the land]] [[Lexicon/H3601-3700#H3667|of Canaan]] [[Lexicon/H7601-7700#H7668|in exchange for the grain]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1992|they]] [[Lexicon/H7601-7700#H7666|were buying ,]] [[Lexicon/H3101-3200#H3130|and he]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H935|brought]] [[Lexicon/H3701-3800#H3701|[it]]] [[Lexicon/H6501-6600#H6547|into Pharaoh’s]] [[Lexicon/H1001-1100#H1004|palace.]]
+=======
+[[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3950|collected]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3701-3800#H3701|the money]] [[Lexicon/H4601-4700#H4672|to be found]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H701-800#H776|and the land]] [[Lexicon/H3601-3700#H3667|of Canaan]] [[Lexicon/H7601-7700#H7668|in exchange for the grain]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1992|they]] [[Lexicon/H7601-7700#H7666|were buying ,]] [[Lexicon/H3101-3200#H3130|and he]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H935|brought]] [[Lexicon/H3701-3800#H3701|(it)]] [[Lexicon/H6501-6600#H6547|into Pharaoh’s]] [[Lexicon/H1001-1100#H1004|palace.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 14|LXX]] |
 
 ##### Genesis 47 - 15
@@ -81,7 +101,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 17|LXX]] |
 
 ##### Genesis 47 - 18
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1931|When that]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H8501-8600#H8552|was over ,]] [[Lexicon/H901-1000#H935|they came]] [[Lexicon/H401-500#H413|to him]] [[Lexicon/H8101-8200#H8145|the second]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H3801-3900#H3808|“ We cannot]] [[Lexicon/H3501-3600#H3582|hide]] [[Lexicon/H101-200#H113|from our lord]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3701-3800#H3701|our money]] [[Lexicon/H8501-8600#H8552|is gone]] [[Lexicon/H4701-4800#H4735|and all our livestock]] [[Lexicon/H901-1000#H929|...]] [[Lexicon/H401-500#H413|belongs to]] [[Lexicon/H101-200#H113|[you].]] [[Lexicon/H3801-3900#H3808|There is nothing]] [[Lexicon/H7601-7700#H7604|left]] [[Lexicon/H6401-6500#H6440|for]] [[Lexicon/H101-200#H113|our lord]] [[Lexicon/H1101-1200#H1115|except]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H1401-1500#H1472|our bodies]] [[Lexicon/H101-200#H127|and our land.]]
+=======
+[[Lexicon/H1901-2000#H1931|When that]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H8501-8600#H8552|was over ,]] [[Lexicon/H901-1000#H935|they came]] [[Lexicon/H401-500#H413|to him]] [[Lexicon/H8101-8200#H8145|the second]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H3801-3900#H3808|“ We cannot]] [[Lexicon/H3501-3600#H3582|hide]] [[Lexicon/H101-200#H113|from our lord]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3701-3800#H3701|our money]] [[Lexicon/H8501-8600#H8552|is gone]] [[Lexicon/H4701-4800#H4735|and all our livestock]] [[Lexicon/H901-1000#H929|...]] [[Lexicon/H401-500#H413|belongs to]] [[Lexicon/H101-200#H113|(you).]] [[Lexicon/H3801-3900#H3808|There is nothing]] [[Lexicon/H7601-7700#H7604|left]] [[Lexicon/H6401-6500#H6440|for]] [[Lexicon/H101-200#H113|our lord]] [[Lexicon/H1101-1200#H1115|except]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H1401-1500#H1472|our bodies]] [[Lexicon/H101-200#H127|and our land.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 18|LXX]] |
 
 ##### Genesis 47 - 19
@@ -133,5 +157,9 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 30|LXX]] |
 
 ##### Genesis 47 - 31
+<<<<<<< HEAD
 [[Lexicon/H7601-7700#H7650|“ Swear]] [[Lexicon/H501-600#H559|Jacob said.]] [[Lexicon/H7601-7700#H7650|So Joseph swore]] [[Lexicon/H3401-3500#H3478|and Israel]] [[Lexicon/H7801-7900#H7812|bowed [in worship]]] [[Lexicon/H5901-6000#H5921|at]] [[Lexicon/H7201-7300#H7218|the head]] [[Lexicon/H4201-4300#H4296|of his bed.]]
+=======
+[[Lexicon/H7601-7700#H7650|“ Swear]] [[Lexicon/H501-600#H559|Jacob said.]] [[Lexicon/H7601-7700#H7650|So Joseph swore]] [[Lexicon/H3401-3500#H3478|and Israel]] [[Lexicon/H7801-7900#H7812|bowed (in worship)]] [[Lexicon/H5901-6000#H5921|at]] [[Lexicon/H7201-7300#H7218|the head]] [[Lexicon/H4201-4300#H4296|of his bed.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 47#Genesis 47 - 31|LXX]] |

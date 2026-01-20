@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Leviticus-R 23
 
 **[[Home/Scripture/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 22#Leviticus-R 22| Leviticus 22]] - [[Readable Bible/03 - Leviticus/Leviticus 24#Leviticus-R 24| Leviticus 24]]
+=======
+# Leviticus 23
+
+[[Readable Bible/03 - Leviticus/Leviticus 22|← Leviticus 22]] | [[Readable Bible/03 - Leviticus/Leviticus 24|Leviticus 24 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

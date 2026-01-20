@@ -13,11 +13,19 @@ Testament: Old
 ---
 
 ##### Genesis 26 - 1
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|Now there was]] [[Lexicon/H7401-7500#H7458|another famine]] [[Lexicon/H701-800#H776|in the land ,]] [[Lexicon/H901-1000#H905|subsequent to]] [[Lexicon/H7401-7500#H7458|the [one]]] [[Lexicon/H7201-7300#H7223|...]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1901-2000#H1961|had occurred]] [[Lexicon/H1-100#H85|in Abraham’s]] [[Lexicon/H3101-3200#H3117|time.]] [[Lexicon/H3301-3400#H3327|And Isaac]] [[Lexicon/H1901-2000#H1980|went]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H40|Abimelech]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H6401-6500#H6430|of the Philistines]] [[Lexicon/H1601-1700#H1642|at Gerar.]]
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 1|LXX]] |
 
 ##### Genesis 26 - 2
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H7101-7200#H7200|appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H501-600#H559|[Isaac] and said ,]] [[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H3301-3400#H3381|go down]] [[Lexicon/H4701-4800#H4714|to Egypt.]] [[Lexicon/H7901-8000#H7931|Settle]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H501-600#H559|I tell you.]] [[Lexicon/H401-500#H413|...]]
+=======
+[[Lexicon/H1901-2000#H1961|Now there was]] [[Lexicon/H7401-7500#H7458|another famine]] [[Lexicon/H701-800#H776|in the land ,]] [[Lexicon/H901-1000#H905|subsequent to]] [[Lexicon/H7401-7500#H7458|the (one)]] [[Lexicon/H7201-7300#H7223|...]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1901-2000#H1961|had occurred]] [[Lexicon/H1-100#H85|in Abraham’s]] [[Lexicon/H3101-3200#H3117|time.]] [[Lexicon/H3301-3400#H3327|And Isaac]] [[Lexicon/H1901-2000#H1980|went]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H40|Abimelech]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H6401-6500#H6430|of the Philistines]] [[Lexicon/H1601-1700#H1642|at Gerar.]]
+| [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 1|LXX]] |
+
+##### Genesis 26 - 2
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H7101-7200#H7200|appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H501-600#H559|(Isaac) and said ,]] [[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H3301-3400#H3381|go down]] [[Lexicon/H4701-4800#H4714|to Egypt.]] [[Lexicon/H7901-8000#H7931|Settle]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H501-600#H559|I tell you.]] [[Lexicon/H401-500#H413|...]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 2|LXX]] |
 
 ##### Genesis 26 - 3
@@ -25,7 +33,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 3|LXX]] |
 
 ##### Genesis 26 - 4
+<<<<<<< HEAD
 [[Lexicon/H2201-2300#H2233|I will make your descendants]] [[Lexicon/H7201-7300#H7235|as numerous]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3556|as the stars]] [[Lexicon/H8001-8100#H8064|in the sky ,]] [[Lexicon/H5401-5500#H5414|and I will give]] [[Lexicon/H2201-2300#H2233|[them]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H411|these]] [[Lexicon/H701-800#H776|lands ,]] [[Lexicon/H2201-2300#H2233|and through your offspring]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1401-1500#H1471|nations]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H1201-1300#H1288|will be blessed ,]]
+=======
+[[Lexicon/H2201-2300#H2233|I will make your descendants]] [[Lexicon/H7201-7300#H7235|as numerous]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3556|as the stars]] [[Lexicon/H8001-8100#H8064|in the sky ,]] [[Lexicon/H5401-5500#H5414|and I will give]] [[Lexicon/H2201-2300#H2233|(them)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H411|these]] [[Lexicon/H701-800#H776|lands ,]] [[Lexicon/H2201-2300#H2233|and through your offspring]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1401-1500#H1471|nations]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H1201-1300#H1288|will be blessed ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 4|LXX]] |
 
 ##### Genesis 26 - 5
@@ -37,7 +49,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 6|LXX]] |
 
 ##### Genesis 26 - 7
+<<<<<<< HEAD
 [[Lexicon/H501-600#H582|But when the men]] [[Lexicon/H4701-4800#H4725|of that place]] [[Lexicon/H7501-7600#H7592|asked]] [[Lexicon/H801-900#H802|about his wife ,]] [[Lexicon/H501-600#H559|he said ,]] [[Lexicon/H1901-2000#H1931|“ She]] [[Lexicon/H201-300#H269|is my sister. ”]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3301-3400#H3372|he was afraid]] [[Lexicon/H501-600#H559|to say ,]] [[Lexicon/H801-900#H802|“ [She is] my wife , ”]] [[Lexicon/H6401-6500#H6435|since he thought to himself ,]] [[Lexicon/H501-600#H582|“ The men]] [[Lexicon/H4701-4800#H4725|of this place]] [[Lexicon/H2001-2100#H2026|will kill me]] [[Lexicon/H5901-6000#H5921|on account of]] [[Lexicon/H7201-7300#H7259|Rebekah ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|she]] [[Lexicon/H2801-2900#H2896|is so beautiful]] [[Lexicon/H4701-4800#H4758|.... ”]]
+=======
+[[Lexicon/H501-600#H582|But when the men]] [[Lexicon/H4701-4800#H4725|of that place]] [[Lexicon/H7501-7600#H7592|asked]] [[Lexicon/H801-900#H802|about his wife ,]] [[Lexicon/H501-600#H559|he said ,]] [[Lexicon/H1901-2000#H1931|“ She]] [[Lexicon/H201-300#H269|is my sister. ”]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3301-3400#H3372|he was afraid]] [[Lexicon/H501-600#H559|to say ,]] [[Lexicon/H801-900#H802|“ (She is) my wife , ”]] [[Lexicon/H6401-6500#H6435|since he thought to himself ,]] [[Lexicon/H501-600#H582|“ The men]] [[Lexicon/H4701-4800#H4725|of this place]] [[Lexicon/H2001-2100#H2026|will kill me]] [[Lexicon/H5901-6000#H5921|on account of]] [[Lexicon/H7201-7300#H7259|Rebekah ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|she]] [[Lexicon/H2801-2900#H2896|is so beautiful]] [[Lexicon/H4701-4800#H4758|.... ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 7|LXX]] |
 
 ##### Genesis 26 - 8
@@ -61,7 +77,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 12|LXX]] |
 
 ##### Genesis 26 - 13
+<<<<<<< HEAD
 [[Lexicon/H301-400#H376|and [he]]] [[Lexicon/H1401-1500#H1431|became richer and richer]] [[Lexicon/H1901-2000#H1980|vvv]] [[Lexicon/H1901-2000#H1980|... ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H1401-1500#H1431|...]] [[Lexicon/H3901-4000#H3966|he was exceedingly]] [[Lexicon/H1401-1500#H1432|wealthy.]]
+=======
+[[Lexicon/H301-400#H376|and (he)]] [[Lexicon/H1401-1500#H1431|became richer and richer]] [[Lexicon/H1901-2000#H1980|vvv]] [[Lexicon/H1901-2000#H1980|... ,]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H1401-1500#H1431|...]] [[Lexicon/H3901-4000#H3966|he was exceedingly]] [[Lexicon/H1401-1500#H1432|wealthy.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 13|LXX]] |
 
 ##### Genesis 26 - 14
@@ -97,11 +117,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 21|LXX]] |
 
 ##### Genesis 26 - 22
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6275|He moved on]] [[Lexicon/H8001-8100#H8033|from there]] [[Lexicon/H2601-2700#H2658|and dug]] [[Lexicon/H801-900#H875|...]] [[Lexicon/H301-400#H312|another [well] ,]] [[Lexicon/H3801-3900#H3808|and they did not]] [[Lexicon/H7301-7400#H7378|quarrel]] [[Lexicon/H5901-6000#H5921|over it.]] [[Lexicon/H7101-7200#H7121|He named]] [[Lexicon/H8001-8100#H8034|it]] [[Lexicon/H7301-7400#H7344|Rehoboth]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H3501-3600#H3588|“ At last]] [[Lexicon/H6201-6300#H6258|...]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H7301-7400#H7337|has made room]] [[Lexicon/H6501-6600#H6509|and we will be fruitful]] [[Lexicon/H701-800#H776|in the land. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 22|LXX]] |
 
 ##### Genesis 26 - 23
 [[Lexicon/H8001-8100#H8033|From there]] [[Lexicon/H801-900#H884|]] [[Lexicon/H5901-6000#H5927|[Isaac] went up]] [[Lexicon/H801-900#H884|to Beersheba ,]]
+=======
+[[Lexicon/H6201-6300#H6275|He moved on]] [[Lexicon/H8001-8100#H8033|from there]] [[Lexicon/H2601-2700#H2658|and dug]] [[Lexicon/H801-900#H875|...]] [[Lexicon/H301-400#H312|another (well) ,]] [[Lexicon/H3801-3900#H3808|and they did not]] [[Lexicon/H7301-7400#H7378|quarrel]] [[Lexicon/H5901-6000#H5921|over it.]] [[Lexicon/H7101-7200#H7121|He named]] [[Lexicon/H8001-8100#H8034|it]] [[Lexicon/H7301-7400#H7344|Rehoboth]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H3501-3600#H3588|“ At last]] [[Lexicon/H6201-6300#H6258|...]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H7301-7400#H7337|has made room]] [[Lexicon/H6501-6600#H6509|and we will be fruitful]] [[Lexicon/H701-800#H776|in the land. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 22|LXX]] |
+
+##### Genesis 26 - 23
+[[Lexicon/H8001-8100#H8033|From there]] [[Lexicon/H801-900#H884|]] [[Lexicon/H5901-6000#H5927|(Isaac) went up]] [[Lexicon/H801-900#H884|to Beersheba ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 23|LXX]] |
 
 ##### Genesis 26 - 24
@@ -109,11 +137,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 24|LXX]] |
 
 ##### Genesis 26 - 25
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1129|So [Isaac] built]] [[Lexicon/H4101-4200#H4196|an altar]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H7101-7200#H7121|and called]] [[Lexicon/H8001-8100#H8034|on the name]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H5101-5200#H5186|and he pitched]] [[Lexicon/H101-200#H168|his tent]] [[Lexicon/H8001-8100#H8033|there.]] [[Lexicon/H3301-3400#H3327|[His]]] [[Lexicon/H5601-5700#H5650|servants]] [[Lexicon/H3701-3800#H3738|also dug]] [[Lexicon/H801-900#H875|a well]] [[Lexicon/H8001-8100#H8033|there.]]
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 25|LXX]] |
 
 ##### Genesis 26 - 26
 [[Lexicon/H1-100#H40|Later, Abimelech]] [[Lexicon/H1901-2000#H1980|came]] [[Lexicon/H401-500#H413|to [Isaac]]] [[Lexicon/H1601-1700#H1642|from Gerar ,]] [[Lexicon/H201-300#H276|with Ahuzzath]] [[Lexicon/H4801-4900#H4828|his adviser]] [[Lexicon/H6301-6400#H6369|and Phicol]] [[Lexicon/H8201-8300#H8269|the commander]] [[Lexicon/H6601-6700#H6635|of his army.]]
+=======
+[[Lexicon/H1101-1200#H1129|So (Isaac) built]] [[Lexicon/H4101-4200#H4196|an altar]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H7101-7200#H7121|and called]] [[Lexicon/H8001-8100#H8034|on the name]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H5101-5200#H5186|and he pitched]] [[Lexicon/H101-200#H168|his tent]] [[Lexicon/H8001-8100#H8033|there.]] [[Lexicon/H3301-3400#H3327|(His)]] [[Lexicon/H5601-5700#H5650|servants]] [[Lexicon/H3701-3800#H3738|also dug]] [[Lexicon/H801-900#H875|a well]] [[Lexicon/H8001-8100#H8033|there.]]
+| [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 25|LXX]] |
+
+##### Genesis 26 - 26
+[[Lexicon/H1-100#H40|Later, Abimelech]] [[Lexicon/H1901-2000#H1980|came]] [[Lexicon/H401-500#H413|to (Isaac)]] [[Lexicon/H1601-1700#H1642|from Gerar ,]] [[Lexicon/H201-300#H276|with Ahuzzath]] [[Lexicon/H4801-4900#H4828|his adviser]] [[Lexicon/H6301-6400#H6369|and Phicol]] [[Lexicon/H8201-8300#H8269|the commander]] [[Lexicon/H6601-6700#H6635|of his army.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 26|LXX]] |
 
 ##### Genesis 26 - 27
@@ -129,7 +165,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 29|LXX]] |
 
 ##### Genesis 26 - 30
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6213|So [Isaac] prepared]] [[Lexicon/H4901-5000#H4960|a feast]] [[Lexicon/H301-400#H398|and they ate]] [[Lexicon/H8301-8400#H8354|and drank.]]
+=======
+[[Lexicon/H6201-6300#H6213|So (Isaac) prepared]] [[Lexicon/H4901-5000#H4960|a feast]] [[Lexicon/H301-400#H398|and they ate]] [[Lexicon/H8301-8400#H8354|and drank.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 26#Genesis 26 - 30|LXX]] |
 
 ##### Genesis 26 - 31

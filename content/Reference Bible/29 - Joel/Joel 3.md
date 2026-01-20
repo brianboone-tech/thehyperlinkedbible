@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Joel 3 - 1
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|[“] Yes ,]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H1901-2000#H1992|in those]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H1901-2000#H1931|and at that]] [[Lexicon/H6201-6300#H6256|time ,]] [[Lexicon/H801-900#H834|when]] [[Lexicon/H7701-7800#H7725|I restore]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H3301-3400#H3389|and Jerusalem]] [[Lexicon/H7601-7700#H7622|from captivity ,]]
+=======
+[[Lexicon/H3501-3600#H3588|(“) Yes ,]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H1901-2000#H1992|in those]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H1901-2000#H1931|and at that]] [[Lexicon/H6201-6300#H6256|time ,]] [[Lexicon/H801-900#H834|when]] [[Lexicon/H7701-7800#H7725|I restore]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H3301-3400#H3389|and Jerusalem]] [[Lexicon/H7601-7700#H7622|from captivity ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Joel 3 - 2
 [[Lexicon/H6901-7000#H6908|I will gather]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1401-1500#H1471|the nations]] [[Lexicon/H3301-3400#H3381|and bring them down]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6001-6100#H6010|the Valley]] [[Lexicon/H3001-3100#H3092|of Jehoshaphat.]] [[Lexicon/H8001-8100#H8033|There]] [[Lexicon/H8101-8200#H8199|I will enter into judgment]] [[Lexicon/H5901-6000#H5973|against them]] [[Lexicon/H5901-6000#H5921|concerning]] [[Lexicon/H5901-6000#H5971|My people ,]] [[Lexicon/H5101-5200#H5159|My inheritance ,]] [[Lexicon/H3401-3500#H3478|Israel ,]] [[Lexicon/H801-900#H834|whom]] [[Lexicon/H6301-6400#H6340|they have scattered]] [[Lexicon/H1401-1500#H1471|among the nations]] [[Lexicon/H801-900#H853|as]] [[Lexicon/H2501-2600#H2505|they divided up]] [[Lexicon/H701-800#H776|My land.]]
@@ -37,7 +41,11 @@ cssClasses: lexicon
 [[Lexicon/H7101-7200#H7121|Proclaim]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H1401-1500#H1471|among the nations :]] [[Lexicon/H6901-7000#H6942|“ Prepare]] [[Lexicon/H4401-4500#H4421|for war ;]] [[Lexicon/H5701-5800#H5782|rouse]] [[Lexicon/H1301-1400#H1368|the mighty men ;]] [[Lexicon/H3601-3700#H3605|let all]] [[Lexicon/H301-400#H376|the men]] [[Lexicon/H4401-4500#H4421|of war]] [[Lexicon/H5001-5100#H5066|advance]] [[Lexicon/H5901-6000#H5927|and attack !]]
 
 ##### Joel 3 - 10
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3807|Beat]] [[Lexicon/H801-900#H855|your plowshares]] [[Lexicon/H2701-2800#H2719|into swords]] [[Lexicon/H4201-4300#H4211|and your pruning hooks]] [[Lexicon/H7401-7500#H7420|into spears.]] [[Lexicon/H2501-2600#H2523|Let the weak]] [[Lexicon/H501-600#H559|say ,]] [[Lexicon/H501-600#H589|‘ I [am]]] [[Lexicon/H1301-1400#H1368|strong ! ’]]
+=======
+[[Lexicon/H3801-3900#H3807|Beat]] [[Lexicon/H801-900#H855|your plowshares]] [[Lexicon/H2701-2800#H2719|into swords]] [[Lexicon/H4201-4300#H4211|and your pruning hooks]] [[Lexicon/H7401-7500#H7420|into spears.]] [[Lexicon/H2501-2600#H2523|Let the weak]] [[Lexicon/H501-600#H559|say ,]] [[Lexicon/H501-600#H589|‘ I (am)]] [[Lexicon/H1301-1400#H1368|strong ! ’]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Joel 3 - 11
 [[Lexicon/H901-1000#H935|Come]] [[Lexicon/H5701-5800#H5789|quickly ,]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5401-5500#H5439|{you} surrounding]] [[Lexicon/H1401-1500#H1471|nations ,]] [[Lexicon/H6901-7000#H6908|and gather yourselves.]] [[Lexicon/H5101-5200#H5181|Bring down]] [[Lexicon/H1301-1400#H1368|Your mighty ones]] [[Lexicon/H8001-8100#H8033|- ,]] [[Lexicon/H3001-3100#H3068|O LORD.]]

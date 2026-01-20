@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Job-R 7
 
 **[[Home/Scripture/18 - Job|Job]]**
 
 [[Readable Bible/18 - Job/Job 6#Job-R 6| Job 6]] - [[Readable Bible/18 - Job/Job 8#Job-R 8| Job 8]]
+=======
+# Job 7
+
+[[Readable Bible/18 - Job/Job 6|← Job 6]] | [[Readable Bible/18 - Job/Job 8|Job 8 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Job 7 . 1
+<<<<<<< HEAD
 [[Reference Bible/18 - Job/Job 7#Job 7 - 1|1]] “Is not man consigned to labor on earth? Are not his days like those of a hired hand?   || [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 7 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/18 - Job/Job 7#Job 7 - 1|1]] “Is not man consigned to labor on earth? Are not his days like those of a hired hand?  | | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 7 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ##### Job 7 . 2
 [[Reference Bible/18 - Job/Job 7#Job 7 - 2|2]] Like a slave he longs for shade; like a hireling he waits for his wages.  | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 7 - TOSK#Verse 2|TOSK]] |
 ##### Job 7 . 3

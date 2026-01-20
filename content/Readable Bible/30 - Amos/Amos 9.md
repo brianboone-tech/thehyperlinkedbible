@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Amos-R 9
 
 **[[Home/Scripture/30 - Amos|Amos]]**
 
 [[Readable Bible/30 - Amos/Amos 8#Amos-R 8| Amos 8]]
+=======
+# Amos 9
+
+[[Readable Bible/30 - Amos/Amos 8|← Amos 8]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

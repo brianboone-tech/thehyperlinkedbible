@@ -36,7 +36,11 @@ Testament: Old
 [[Lexicon/G4901-5000#G4907|I will bring understanding to]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4801-4900#G4822|I will instruct]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3598|this way]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4101-4200#G4198|you shall go.]] [[Lexicon/G1901-2000#G1991|I will stay]] [[Lexicon/G1901-2000#G1909|upon]]
 
 #### Psalms 32 - 9
+<<<<<<< HEAD
 [[Lexicon/G3301-3400#G3361|Do not]] [[Lexicon/G1001-1100#G1096|become]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2401-2500#G2462|a horse]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2201-2300#G2254|mule]] [[Lexicon/G3701-3800#G3739|in which]] [[Lexicon/G3701-3800#G3756|there is no]] [[Lexicon/G4901-5000#G4907|understanding;]] [[Lexicon/G2701-2800#G2777|muzzle]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5469|bridle]] [[Lexicon/G4501-4600#G4600|their jaws]] [[Lexicon/G3501-3600#G3588|of the ones]] [[Lexicon/G3301-3400#G3361|not]] [[Lexicon/G1401-1500#G1448|approaching]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you.]]
+=======
+[[Lexicon/G3301-3400#G3361|Do not]] [[Lexicon/G1001-1100#G1096|become]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2401-2500#G2462|a horse]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2201-2300#G2254|mule]] [[Lexicon/G3701-3800#G3739|in which]] [[Lexicon/G3701-3800#G3756|there is no]] [[Lexicon/G4901-5000#G4907|understanding;]] [[Lexicon/G2701-2800#G2777|muzzle]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5469|bridle]] [[Lexicon/G4501-4600#G4600|their jaws]] [[Lexicon/G3501-3600#G3588|of the ones]] [[Lexicon/G3301-3400#G3361|not]] [[Lexicon/G1401-1500#G1448|approaching]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 32 - 10
 [[Lexicon/G4101-4200#G4183|Many]] [[Lexicon/G3101-3200#G3148|whips]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G201-300#G0268|sinner;]] [[Lexicon/G3501-3600#G3588|the one]]

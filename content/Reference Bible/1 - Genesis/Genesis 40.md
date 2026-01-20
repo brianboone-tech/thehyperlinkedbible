@@ -53,11 +53,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 40#Genesis 40 - 10|LXX]] |
 
 ##### Genesis 40 - 11
+<<<<<<< HEAD
 [[Lexicon/H6501-6600#H6547|Pharaoh’s]] [[Lexicon/H3501-3600#H3563|cup]] [[Lexicon/H3001-3100#H3027|was in my hand ,]] [[Lexicon/H3901-4000#H3947|and I took]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6001-6100#H6025|the grapes ,]] [[Lexicon/H7801-7900#H7818|squeezed]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H6501-6600#H6547|[his]]] [[Lexicon/H3501-3600#H3563|cup ,]] [[Lexicon/H5401-5500#H5414|and placed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3563|the cup]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H6501-6600#H6547|[his]]] [[Lexicon/H3701-3800#H3709|hand. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 40#Genesis 40 - 11|LXX]] |
 
 ##### Genesis 40 - 12
 [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H501-600#H559|replied]] [[Lexicon/H2001-2100#H2088|“ This [is]]] [[Lexicon/H6601-6700#H6623|the interpretation :]] [[Lexicon/H7901-8000#H7969|The three]] [[Lexicon/H8201-8300#H8299|branches]] [[Lexicon/H7901-8000#H7969|are three]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H1901-2000#H1992|....]]
+=======
+[[Lexicon/H6501-6600#H6547|Pharaoh’s]] [[Lexicon/H3501-3600#H3563|cup]] [[Lexicon/H3001-3100#H3027|was in my hand ,]] [[Lexicon/H3901-4000#H3947|and I took]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6001-6100#H6025|the grapes ,]] [[Lexicon/H7801-7900#H7818|squeezed]] [[Lexicon/H801-900#H853|them]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H6501-6600#H6547|(his)]] [[Lexicon/H3501-3600#H3563|cup ,]] [[Lexicon/H5401-5500#H5414|and placed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3563|the cup]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H6501-6600#H6547|(his)]] [[Lexicon/H3701-3800#H3709|hand. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 40#Genesis 40 - 11|LXX]] |
+
+##### Genesis 40 - 12
+[[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H501-600#H559|replied]] [[Lexicon/H2001-2100#H2088|“ This (is)]] [[Lexicon/H6601-6700#H6623|the interpretation :]] [[Lexicon/H7901-8000#H7969|The three]] [[Lexicon/H8201-8300#H8299|branches]] [[Lexicon/H7901-8000#H7969|are three]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H1901-2000#H1992|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 40#Genesis 40 - 12|LXX]] |
 
 ##### Genesis 40 - 13
@@ -89,7 +97,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 40#Genesis 40 - 19|LXX]] |
 
 ##### Genesis 40 - 20
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H7901-8000#H7992|On the third]] [[Lexicon/H3101-3200#H3117|day ,]] [[Lexicon/H6501-6600#H6547|which was Pharaoh’s]] [[Lexicon/H3101-3200#H3117|birthday]] [[Lexicon/H3201-3300#H3205|... ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6201-6300#H6213|he held]] [[Lexicon/H4901-5000#H4960|a feast]] [[Lexicon/H3601-3700#H3605|for all]] [[Lexicon/H5601-5700#H5650|his officials ,]] [[Lexicon/H8401-8500#H8432|and in]] [[Lexicon/H5601-5700#H5650|[their presence]]] [[Lexicon/H5301-5400#H5375|he lifted up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7218|the heads]] [[Lexicon/H8201-8300#H8269|of the chief]] [[Lexicon/H4901-5000#H4945|cupbearer]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7218|-]] [[Lexicon/H8201-8300#H8269|and the chief]] [[Lexicon/H601-700#H644|baker.]]
+=======
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H7901-8000#H7992|On the third]] [[Lexicon/H3101-3200#H3117|day ,]] [[Lexicon/H6501-6600#H6547|which was Pharaoh’s]] [[Lexicon/H3101-3200#H3117|birthday]] [[Lexicon/H3201-3300#H3205|... ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6201-6300#H6213|he held]] [[Lexicon/H4901-5000#H4960|a feast]] [[Lexicon/H3601-3700#H3605|for all]] [[Lexicon/H5601-5700#H5650|his officials ,]] [[Lexicon/H8401-8500#H8432|and in]] [[Lexicon/H5601-5700#H5650|(their presence)]] [[Lexicon/H5301-5400#H5375|he lifted up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7218|the heads]] [[Lexicon/H8201-8300#H8269|of the chief]] [[Lexicon/H4901-5000#H4945|cupbearer]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7218|-]] [[Lexicon/H8201-8300#H8269|and the chief]] [[Lexicon/H601-700#H644|baker.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 40#Genesis 40 - 20|LXX]] |
 
 ##### Genesis 40 - 21

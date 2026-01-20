@@ -7,7 +7,11 @@ Testament: Old
 
 # Deuteronomy 34
 
+<<<<<<< HEAD
 [[LXX Reference/05 - Deuteronomy/Deuteronomy 33|←]] • [[LXX Reference/05 - Deuteronomy/Deuteronomy 35|→]]
+=======
+[[LXX Reference/05 - Deuteronomy/Deuteronomy 33|←]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -39,7 +43,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] Joshua [[Lexicon/G5201-5300#G5207|son]] of Nun [[Lexicon/G1701-1800#G1705|was filled]] [[Lexicon/G4101-4200#G4151|of spirit]] [[Lexicon/G4901-5000#G4907|of understanding;]] [[Lexicon/G2001-2100#G2007|placed]] [[Lexicon/G5401-5500#G5495|his hands]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|him.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1522|hearkened to]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|they did]] [[Lexicon/G2501-2600#G2530|in so far as]] Moses.
 
 #### Deuteronomy 34 - 10
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|rose up not]] [[Lexicon/G2001-2100#G2089|any longer]] [[Lexicon/G4301-4400#G4396|a prophet]] [[Lexicon/G1701-1800#G1722|in]] Israel [[Lexicon/G5601-5700#G5613|as]] Moses, [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G4301-4400#G4383|face]] [[Lexicon/G2501-2600#G2596|to]] [[Lexicon/G4301-4400#G4383|face,]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|rose up not]] [[Lexicon/G2001-2100#G2089|any longer]] [[Lexicon/G4301-4400#G4396|a prophet]] [[Lexicon/G1701-1800#G1722|in]] Israel [[Lexicon/G5601-5624#G5613|as]] Moses, [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G4301-4400#G4383|face]] [[Lexicon/G2501-2600#G2596|to]] [[Lexicon/G4301-4400#G4383|face,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Deuteronomy 34 - 11
 [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4592|signs]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5059|miracles,]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G601-700#G0649|sent]] [[Lexicon/G4101-4200#G4160|to do]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|in]] of Egypt, to Pharaoh, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2324|his attendants,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|to all]] [[Lexicon/G1001-1100#G1093|his land;]]

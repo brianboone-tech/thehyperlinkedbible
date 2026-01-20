@@ -21,6 +21,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 2|LXX]] |
 
 ##### Genesis 9 - 3
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|Everything]] [[Lexicon/H2401-2500#H2416|that lives]] [[Lexicon/H7401-7500#H7431|[and] moves]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H401-500#H402|food]] [[Lexicon/H3401-3500#H3418|just as I gave you the green]] [[Lexicon/H6201-6300#H6212|plants ,]] [[Lexicon/H5401-5500#H5414|I now give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all things.]]
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 3|LXX]] |
 
@@ -30,6 +31,17 @@ Testament: Old
 
 ##### Genesis 9 - 5
 [[Lexicon/H301-400#H389|And surely]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1801-1900#H1875|I will require]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H3601-3700#H3605|the life of any]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H2401-2500#H2416|or beast]] [[Lexicon/H1801-1900#H1875|-]] [[Lexicon/H3001-3100#H3027|-]] [[Lexicon/H3001-3100#H3027|by whose hand]] [[Lexicon/H5301-5400#H5315|your lifeblood [is shed]]] [[Lexicon/H1801-1900#H1818|....]] [[Lexicon/H1801-1900#H1875|I will demand an accounting]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H120|from anyone]] [[Lexicon/H5301-5400#H5315|[who takes] the life]] [[Lexicon/H301-400#H376|of his fellow man]] [[Lexicon/H201-300#H251|... :]]
+=======
+[[Lexicon/H3601-3700#H3605|Everything]] [[Lexicon/H2401-2500#H2416|that lives]] [[Lexicon/H7401-7500#H7431|(and) moves]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H401-500#H402|food]] [[Lexicon/H3401-3500#H3418|just as I gave you the green]] [[Lexicon/H6201-6300#H6212|plants ,]] [[Lexicon/H5401-5500#H5414|I now give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all things.]]
+| [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 3|LXX]] |
+
+##### Genesis 9 - 4
+[[Lexicon/H301-400#H389|But]] [[Lexicon/H3801-3900#H3808|you must not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H1301-1400#H1320|meat]] [[Lexicon/H5301-5400#H5315|with its lifeblood]] [[Lexicon/H1801-1900#H1818|(still) in it.]]
+| [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 4|LXX]] |
+
+##### Genesis 9 - 5
+[[Lexicon/H301-400#H389|And surely]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1801-1900#H1875|I will require]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H3601-3700#H3605|the life of any]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H2401-2500#H2416|or beast]] [[Lexicon/H1801-1900#H1875|-]] [[Lexicon/H3001-3100#H3027|-]] [[Lexicon/H3001-3100#H3027|by whose hand]] [[Lexicon/H5301-5400#H5315|your lifeblood (is shed)]] [[Lexicon/H1801-1900#H1818|....]] [[Lexicon/H1801-1900#H1875|I will demand an accounting]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H120|from anyone]] [[Lexicon/H5301-5400#H5315|(who takes) the life]] [[Lexicon/H301-400#H376|of his fellow man]] [[Lexicon/H201-300#H251|... :]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 5|LXX]] |
 
 ##### Genesis 9 - 6
@@ -49,7 +61,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 9|LXX]] |
 
 ##### Genesis 9 - 10
+<<<<<<< HEAD
 [[Lexicon/H801-900#H854|and with]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H2401-2500#H2416|living]] [[Lexicon/H5301-5400#H5315|creature]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H801-900#H854|[was] with you —]] [[Lexicon/H5701-5800#H5775|the birds ,]] [[Lexicon/H901-1000#H929|the livestock ,]] [[Lexicon/H3601-3700#H3605|and every]] [[Lexicon/H2401-2500#H2416|beast]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H801-900#H854|- —]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H2401-2500#H2416|living thing]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H3301-3400#H3318|that came out]] [[Lexicon/H8301-8400#H8392|of the ark]] [[Lexicon/H3601-3700#H3605|....]]
+=======
+[[Lexicon/H801-900#H854|and with]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H2401-2500#H2416|living]] [[Lexicon/H5301-5400#H5315|creature]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H801-900#H854|(was) with you —]] [[Lexicon/H5701-5800#H5775|the birds ,]] [[Lexicon/H901-1000#H929|the livestock ,]] [[Lexicon/H3601-3700#H3605|and every]] [[Lexicon/H2401-2500#H2416|beast]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H801-900#H854|- —]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H2401-2500#H2416|living thing]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H3301-3400#H3318|that came out]] [[Lexicon/H8301-8400#H8392|of the ark]] [[Lexicon/H3601-3700#H3605|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 10|LXX]] |
 
 ##### Genesis 9 - 11
@@ -57,7 +73,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 11|LXX]] |
 
 ##### Genesis 9 - 12
+<<<<<<< HEAD
 [[Lexicon/H401-500#H430|And God]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H2001-2100#H2063|“ This]] [[Lexicon/H201-300#H226|is the sign]] [[Lexicon/H1201-1300#H1285|of the covenant]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H5401-5500#H5414|am making]] [[Lexicon/H901-1000#H996|between Me]] [[Lexicon/H901-1000#H996|and you]] [[Lexicon/H901-1000#H996|and]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H2401-2500#H2416|living]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5301-5400#H5315|creature]] [[Lexicon/H801-900#H854|with you ,]] [[Lexicon/H1701-1800#H1755|[a covenant] for all generations]] [[Lexicon/H5701-5800#H5769|to come :]]
+=======
+[[Lexicon/H401-500#H430|And God]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H2001-2100#H2063|“ This]] [[Lexicon/H201-300#H226|is the sign]] [[Lexicon/H1201-1300#H1285|of the covenant]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H5401-5500#H5414|am making]] [[Lexicon/H901-1000#H996|between Me]] [[Lexicon/H901-1000#H996|and you]] [[Lexicon/H901-1000#H996|and]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H2401-2500#H2416|living]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5301-5400#H5315|creature]] [[Lexicon/H801-900#H854|with you ,]] [[Lexicon/H1701-1800#H1755|(a covenant) for all generations]] [[Lexicon/H5701-5800#H5769|to come :]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 12|LXX]] |
 
 ##### Genesis 9 - 13
@@ -73,7 +93,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 15|LXX]] |
 
 ##### Genesis 9 - 16
+<<<<<<< HEAD
 [[Lexicon/H7101-7200#H7198|And whenever the rainbow]] [[Lexicon/H1901-2000#H1961|appears]] [[Lexicon/H6001-6100#H6051|in the clouds ,]] [[Lexicon/H7101-7200#H7200|I will see it]] [[Lexicon/H2101-2200#H2142|and remember]] [[Lexicon/H5701-5800#H5769|the everlasting]] [[Lexicon/H1201-1300#H1285|covenant]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H901-1000#H996|and]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H2401-2500#H2416|living]] [[Lexicon/H5301-5400#H5315|creature]] [[Lexicon/H3601-3700#H3605|of every]] [[Lexicon/H1301-1400#H1320|kind]] [[Lexicon/H801-900#H834|that [is]]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H776|the earth. ”]]
+=======
+[[Lexicon/H7101-7200#H7198|And whenever the rainbow]] [[Lexicon/H1901-2000#H1961|appears]] [[Lexicon/H6001-6100#H6051|in the clouds ,]] [[Lexicon/H7101-7200#H7200|I will see it]] [[Lexicon/H2101-2200#H2142|and remember]] [[Lexicon/H5701-5800#H5769|the everlasting]] [[Lexicon/H1201-1300#H1285|covenant]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H901-1000#H996|and]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H2401-2500#H2416|living]] [[Lexicon/H5301-5400#H5315|creature]] [[Lexicon/H3601-3700#H3605|of every]] [[Lexicon/H1301-1400#H1320|kind]] [[Lexicon/H801-900#H834|that (is)]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H776|the earth. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 16|LXX]] |
 
 ##### Genesis 9 - 17
@@ -113,7 +137,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 25|LXX]] |
 
 ##### Genesis 9 - 26
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|He also declared :]] [[Lexicon/H1201-1300#H1288|“ Blessed]] [[Lexicon/H3001-3100#H3068|[be] the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H8001-8100#H8035|of Shem !]] [[Lexicon/H3601-3700#H3667|May Canaan]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H5601-5700#H5650|the servant]]
+=======
+[[Lexicon/H501-600#H559|He also declared :]] [[Lexicon/H1201-1300#H1288|“ Blessed]] [[Lexicon/H3001-3100#H3068|(be) the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H8001-8100#H8035|of Shem !]] [[Lexicon/H3601-3700#H3667|May Canaan]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H5601-5700#H5650|the servant]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 9#Genesis 9 - 26|LXX]] |
 
 ##### Genesis 9 - 27

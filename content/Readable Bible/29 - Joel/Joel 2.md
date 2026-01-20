@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Joel-R 2
 
 **[[Home/Scripture/29 - Joel|Joel]]**
 
 [[Readable Bible/29 - Joel/Joel 1#Joel-R 1| Joel 1]] - [[Readable Bible/29 - Joel/Joel 3#Joel-R 3| Joel 3]]
+=======
+# Joel 2
+
+[[Readable Bible/29 - Joel/Joel 1|← Joel 1]] | [[Readable Bible/29 - Joel/Joel 3|Joel 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 2 Timothy 1 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/55 - 2 Timothy|← 2 Timothy]]** | [[The Treasury of Scripture Knowledge/55. 2 Timothy TOSK/2 Timothy - 2 - TOSK|Ch 2 →]]
+=======
+**[[Home/Indexes/Readable Bible/55 - 2 Timothy|← 2 Timothy]]** | [[The Treasury of Scripture Knowledge/55. 2 Timothy TOSK/2 Timothy - 2 - TOSK|Ch 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

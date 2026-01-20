@@ -18,7 +18,11 @@ Testament: Old
 [[Lexicon/G3601-3700#G3649|Let shriek]] [[Lexicon/G1301-1400#G1360|because]] [[Lexicon/G4001-4100#G4098|has fallen]] [[Lexicon/G1301-1400#G1360|for]] [[Lexicon/G5001-5100#G5003|were in misery]] [[Lexicon/G3601-3700#G3649|Shriek,]] [[Lexicon/G1401-1500#G1409|O oaks]] of Bashan! [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G2601-2700#G2686|were torn down]]
 
 #### Zechariah 11 - 3
+<<<<<<< HEAD
 [[Lexicon/G5401-5500#G5456|A sound]] [[Lexicon/G2301-2400#G2354|of wailing]] [[Lexicon/G4101-4200#G4166|of shepherds,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G5001-5100#G5003|languishes]] [[Lexicon/G5401-5500#G5456|A sound]] [[Lexicon/G5601-5700#G5612|of roaring]] [[Lexicon/G3001-3100#G3023|lions,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G5001-5100#G5003|languishes]]
+=======
+[[Lexicon/G5401-5500#G5456|A sound]] [[Lexicon/G2301-2400#G2354|of wailing]] [[Lexicon/G4101-4200#G4166|of shepherds,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G5001-5100#G5003|languishes]] [[Lexicon/G5401-5500#G5456|A sound]] [[Lexicon/G5601-5624#G5612|of roaring]] [[Lexicon/G3001-3100#G3023|lions,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G5001-5100#G5003|languishes]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Zechariah 11 - 4
 [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G3801-3900#G3841|almighty,]] [[Lexicon/G4101-4200#G4165|Tend]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4201-4300#G4263|sheep]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4901-5000#G4967|slaughter,]]

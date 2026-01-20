@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Matthew-R 17
 
 **[[Home/Scripture/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 16#Matthew-R 16| Matthew 16]] - [[Readable Bible/40 - Matthew/Matthew 18#Matthew-R 18| Matthew 18]]
+=======
+# Matthew 17
+
+[[Readable Bible/40 - Matthew/Matthew 16|← Matthew 16]] | [[Readable Bible/40 - Matthew/Matthew 18|Matthew 18 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -30,7 +30,11 @@ Testament: Old
 [[Lexicon/G1301-1400#G1343|Your righteousness]] [[Lexicon/G2301-2400#G2316|of God;]] [[Lexicon/G2901-3000#G2917|your judgments]] [[Lexicon/G1-100#G0012|abyss]] [[Lexicon/G401-500#G0444|men]] [[Lexicon/G2901-3000#G2962|O lord.]]
 
 #### Psalms 36 - 7
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|How]] [[Lexicon/G4101-4200#G4129|you multiplied]] [[Lexicon/G1601-1700#G1656|your mercy,]] [[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God;]] [[Lexicon/G3501-3600#G3588|and the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G401-500#G0444|of men]] [[Lexicon/G1701-1800#G1722|in]]
+=======
+[[Lexicon/G5601-5624#G5613|How]] [[Lexicon/G4101-4200#G4129|you multiplied]] [[Lexicon/G1601-1700#G1656|your mercy,]] [[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G2301-2400#G2316|God;]] [[Lexicon/G3501-3600#G3588|and the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G401-500#G0444|of men]] [[Lexicon/G1701-1800#G1722|in]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 36 - 8
 [[Lexicon/G3101-3200#G3184|They shall be intoxicated]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3601-3700#G3624|of your house;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|of the]]

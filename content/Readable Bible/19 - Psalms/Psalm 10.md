@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 10
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 9#Psalm-R 9| Psalm 9]] - [[Readable Bible/19 - Psalms/Psalm 11#Psalm-R 11| Psalm 11]]
+=======
+# Psalm 10
+
+[[Readable Bible/19 - Psalms/Psalm 9|← Psalm 9]] | [[Readable Bible/19 - Psalms/Psalm 11|Psalm 11 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

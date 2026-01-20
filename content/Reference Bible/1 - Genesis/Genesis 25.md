@@ -81,7 +81,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 17|LXX]] |
 
 ##### Genesis 25 - 18
+<<<<<<< HEAD
 [[Lexicon/H7901-8000#H7931|[Ishmael’s descendants] settled]] [[Lexicon/H2301-2400#H2341|from Havilah]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H7701-7800#H7793|Shur ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H5901-6000#H5921|is near]] [[Lexicon/H6401-6500#H6440|the border]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H901-1000#H935|as you go]] [[Lexicon/H801-900#H804|toward Asshur.]] [[Lexicon/H5301-5400#H5307|And they lived]] [[Lexicon/H5901-6000#H5921|in hostility]] [[Lexicon/H6401-6500#H6440|toward]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H201-300#H251|their brothers.]]
+=======
+[[Lexicon/H7901-8000#H7931|(Ishmael’s descendants) settled]] [[Lexicon/H2301-2400#H2341|from Havilah]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H7701-7800#H7793|Shur ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H5901-6000#H5921|is near]] [[Lexicon/H6401-6500#H6440|the border]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H901-1000#H935|as you go]] [[Lexicon/H801-900#H804|toward Asshur.]] [[Lexicon/H5301-5400#H5307|And they lived]] [[Lexicon/H5901-6000#H5921|in hostility]] [[Lexicon/H6401-6500#H6440|toward]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H201-300#H251|their brothers.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 18|LXX]] |
 
 ##### Genesis 25 - 19
@@ -93,6 +97,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 20|LXX]] |
 
 ##### Genesis 25 - 21
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3327|Later, Isaac]] [[Lexicon/H6201-6300#H6279|prayed]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H5201-5300#H5227|on behalf of]] [[Lexicon/H801-900#H802|his wife ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|she]] [[Lexicon/H6101-6200#H6135|[was] barren.]] [[Lexicon/H3001-3100#H3068|And the LORD]] [[Lexicon/H6201-6300#H6279|heard his prayer]] [[Lexicon/H801-900#H802|and his wife]] [[Lexicon/H7201-7300#H7259|Rebekah]] [[Lexicon/H2001-2100#H2029|conceived.]]
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 21|LXX]] |
 
@@ -102,6 +107,17 @@ Testament: Old
 
 ##### Genesis 25 - 23
 [[Lexicon/H3001-3100#H3068|and [He]]] [[Lexicon/H501-600#H559|to her :]] [[Lexicon/H8101-8200#H8147|“ Two]] [[Lexicon/H1401-1500#H1471|nations]] [[Lexicon/H901-1000#H990|are in your womb ,]] [[Lexicon/H8101-8200#H8147|and two]] [[Lexicon/H3801-3900#H3816|peoples]] [[Lexicon/H4501-4600#H4578|from within you]] [[Lexicon/H6501-6600#H6504|will be separated ;]] [[Lexicon/H3801-3900#H3816|one people]] [[Lexicon/H501-600#H553|will be stronger]] [[Lexicon/H3801-3900#H3816|than the other ,]] [[Lexicon/H7201-7300#H7227|and the older]] [[Lexicon/H5601-5700#H5647|will serve]] [[Lexicon/H6801-6900#H6810|the younger. ”]]
+=======
+[[Lexicon/H3301-3400#H3327|Later, Isaac]] [[Lexicon/H6201-6300#H6279|prayed]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H5201-5300#H5227|on behalf of]] [[Lexicon/H801-900#H802|his wife ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|she]] [[Lexicon/H6101-6200#H6135|(was) barren.]] [[Lexicon/H3001-3100#H3068|And the LORD]] [[Lexicon/H6201-6300#H6279|heard his prayer]] [[Lexicon/H801-900#H802|and his wife]] [[Lexicon/H7201-7300#H7259|Rebekah]] [[Lexicon/H2001-2100#H2029|conceived.]]
+| [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 21|LXX]] |
+
+##### Genesis 25 - 22
+[[Lexicon/H1101-1200#H1121|But the children]] [[Lexicon/H7101-7200#H7130|inside her]] [[Lexicon/H7501-7600#H7533|struggled with each other ,]] [[Lexicon/H501-600#H559|and she said ,]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H2001-2100#H2088|is this]] [[Lexicon/H501-600#H595|happening to me ? ”]] [[Lexicon/H1901-2000#H1980|So (Rebekah) went]] [[Lexicon/H1801-1900#H1875|to inquire]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|of the LORD ,]]
+| [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 22|LXX]] |
+
+##### Genesis 25 - 23
+[[Lexicon/H3001-3100#H3068|and (He)]] [[Lexicon/H501-600#H559|to her :]] [[Lexicon/H8101-8200#H8147|“ Two]] [[Lexicon/H1401-1500#H1471|nations]] [[Lexicon/H901-1000#H990|are in your womb ,]] [[Lexicon/H8101-8200#H8147|and two]] [[Lexicon/H3801-3900#H3816|peoples]] [[Lexicon/H4501-4600#H4578|from within you]] [[Lexicon/H6501-6600#H6504|will be separated ;]] [[Lexicon/H3801-3900#H3816|one people]] [[Lexicon/H501-600#H553|will be stronger]] [[Lexicon/H3801-3900#H3816|than the other ,]] [[Lexicon/H7201-7300#H7227|and the older]] [[Lexicon/H5601-5700#H5647|will serve]] [[Lexicon/H6801-6900#H6810|the younger. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 23|LXX]] |
 
 ##### Genesis 25 - 24
@@ -113,7 +129,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 25|LXX]] |
 
 ##### Genesis 25 - 26
+<<<<<<< HEAD
 [[Lexicon/H301-400#H310|After]] [[Lexicon/H3601-3700#H3651|this ,]] [[Lexicon/H201-300#H251|his brother]] [[Lexicon/H3301-3400#H3318|came out]] [[Lexicon/H201-300#H270|grasping]] [[Lexicon/H6201-6300#H6215|Esau’s]] [[Lexicon/H6101-6200#H6119|heel]] [[Lexicon/H3001-3100#H3027|- ;]] [[Lexicon/H7101-7200#H7121|so he was named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H3201-3300#H3290|Jacob.]] [[Lexicon/H3301-3400#H3327|And Isaac]] [[Lexicon/H8301-8400#H8346|was sixty]] [[Lexicon/H1101-1200#H1121|years old]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H3201-3300#H3205|when [the twins] were born]] [[Lexicon/H801-900#H853|-.]]
+=======
+[[Lexicon/H301-400#H310|After]] [[Lexicon/H3601-3700#H3651|this ,]] [[Lexicon/H201-300#H251|his brother]] [[Lexicon/H3301-3400#H3318|came out]] [[Lexicon/H201-300#H270|grasping]] [[Lexicon/H6201-6300#H6215|Esau’s]] [[Lexicon/H6101-6200#H6119|heel]] [[Lexicon/H3001-3100#H3027|- ;]] [[Lexicon/H7101-7200#H7121|so he was named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H3201-3300#H3290|Jacob.]] [[Lexicon/H3301-3400#H3327|And Isaac]] [[Lexicon/H8301-8400#H8346|was sixty]] [[Lexicon/H1101-1200#H1121|years old]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H3201-3300#H3205|when (the twins) were born]] [[Lexicon/H801-900#H853|-.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 26|LXX]] |
 
 ##### Genesis 25 - 27
@@ -129,7 +149,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 29|LXX]] |
 
 ##### Genesis 25 - 30
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6215|He]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3201-3300#H3290|Jacob ,]] [[Lexicon/H3901-4000#H3938|“ Let me eat]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H2001-2100#H2088|that]] [[Lexicon/H101-200#H122|red]] [[Lexicon/H101-200#H122|[stew] ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H595|I am]] [[Lexicon/H5801-5900#H5889|famished. ”]] [[Lexicon/H5901-6000#H5921|( That is why]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H7101-7200#H7121|he was also called]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H101-200#H123|Edom. )]]
+=======
+[[Lexicon/H6201-6300#H6215|He]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3201-3300#H3290|Jacob ,]] [[Lexicon/H3901-4000#H3938|“ Let me eat]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H2001-2100#H2088|that]] [[Lexicon/H101-200#H122|red]] [[Lexicon/H101-200#H122|(stew) ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H595|I am]] [[Lexicon/H5801-5900#H5889|famished. ”]] [[Lexicon/H5901-6000#H5921|( That is why]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H7101-7200#H7121|he was also called]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H101-200#H123|Edom. )]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 30|LXX]] |
 
 ##### Genesis 25 - 31
@@ -141,9 +165,17 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 32|LXX]] |
 
 ##### Genesis 25 - 33
+<<<<<<< HEAD
 [[Lexicon/H7601-7700#H7650|“ Swear to me first]] [[Lexicon/H3101-3200#H3117|- , ”]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H501-600#H559|said.]] [[Lexicon/H7601-7700#H7650|So [Esau] swore]] [[Lexicon/H4301-4400#H4376|and sold]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3290|him]] [[Lexicon/H1001-1100#H1062|the birthright.]]
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 33|LXX]] |
 
 ##### Genesis 25 - 34
 [[Lexicon/H3201-3300#H3290|Then Jacob]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H3801-3900#H3899|some bread]] [[Lexicon/H5701-5800#H5742|and lentil]] [[Lexicon/H5101-5200#H5138|stew]] [[Lexicon/H6201-6300#H6215|to Esau ,]] [[Lexicon/H301-400#H398|[who] ate]] [[Lexicon/H8301-8400#H8354|and drank]] [[Lexicon/H6901-7000#H6965|and then got up]] [[Lexicon/H1901-2000#H1980|and went away.]] [[Lexicon/H6201-6300#H6215|Thus Esau]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H959|despised]] [[Lexicon/H1001-1100#H1062|his birthright.]]
+=======
+[[Lexicon/H7601-7700#H7650|“ Swear to me first]] [[Lexicon/H3101-3200#H3117|- , ”]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H501-600#H559|said.]] [[Lexicon/H7601-7700#H7650|So (Esau) swore]] [[Lexicon/H4301-4400#H4376|and sold]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3290|him]] [[Lexicon/H1001-1100#H1062|the birthright.]]
+| [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 33|LXX]] |
+
+##### Genesis 25 - 34
+[[Lexicon/H3201-3300#H3290|Then Jacob]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H3801-3900#H3899|some bread]] [[Lexicon/H5701-5800#H5742|and lentil]] [[Lexicon/H5101-5200#H5138|stew]] [[Lexicon/H6201-6300#H6215|to Esau ,]] [[Lexicon/H301-400#H398|(who) ate]] [[Lexicon/H8301-8400#H8354|and drank]] [[Lexicon/H6901-7000#H6965|and then got up]] [[Lexicon/H1901-2000#H1980|and went away.]] [[Lexicon/H6201-6300#H6215|Thus Esau]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H959|despised]] [[Lexicon/H1001-1100#H1062|his birthright.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 25#Genesis 25 - 34|LXX]] |

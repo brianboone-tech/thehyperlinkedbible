@@ -21,7 +21,11 @@ Testament: Old
 [[Lexicon/G1301-1400#G1360|For]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G1601-1700#G1607|goes forth]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G5101-5200#G5117|his place,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2597|he will go down,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1910|will mount]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5301-5400#G5311|heights]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|earth.]]
 
 #### Micah 1 - 4
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4501-4600#G4531|shall be shaken]] [[Lexicon/G5201-5300#G5270|from beneath]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2801-2900#G2835|valleys]] [[Lexicon/G5001-5100#G5080|shall melt away]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G2701-2800#G2781|beeswax]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4301-4400#G4383|in front]] [[Lexicon/G4401-4500#G4442|of fire,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G2701-2800#G2702|being carried down]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2600|a descent.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4501-4600#G4531|shall be shaken]] [[Lexicon/G5201-5300#G5270|from beneath]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2801-2900#G2835|valleys]] [[Lexicon/G5001-5100#G5080|shall melt away]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G2701-2800#G2781|beeswax]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4301-4400#G4383|in front]] [[Lexicon/G4401-4500#G4442|of fire,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G2701-2800#G2702|being carried down]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2600|a descent.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Micah 1 - 5
 [[Lexicon/G1201-1300#G1223| are on account of]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G3601-3700#G3624|of the house]] of Israel. [[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G701-800#G0763|impiety]] of Jacob? Samaria? [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5001-5100#G5100|what]] [[Lexicon/G201-300#G0266|sin]] [[Lexicon/G3601-3700#G3624|of the house]] of Judah? Jerusalem?
@@ -33,7 +37,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1001-1100#G1099|her carved images]] [[Lexicon/G2601-2700#G2629|I will cut in pieces,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3401-3500#G3410|her hires]] [[Lexicon/G1701-1800#G1714|shall burn]] [[Lexicon/G4401-4500#G4442|in fire,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1401-1500#G1497|her idols]] [[Lexicon/G5001-5100#G5087|I shall establish]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G801-900#G0854|extinction,]] [[Lexicon/G1301-1400#G1360|because]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G4201-4300#G4204|of harlotry]] [[Lexicon/G2601-2700#G2690|he eradicated.]]
 
 #### Micah 1 - 8
+<<<<<<< HEAD
 [[Lexicon/G1701-1800#G1752|Because of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2801-2900#G2875|she shall beat her chest]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2354|wail.]] [[Lexicon/G4101-4200#G4198|She shall go]] [[Lexicon/G501-600#G0504|barefoot]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1101-1200#G1131|naked.]] [[Lexicon/G4101-4200#G4160|She shall make]] [[Lexicon/G2801-2900#G2870|a beating of the breast]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1401-1500#G1404|dragons,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3997|mourning]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4501-4600#G4577|of sirens.]]
+=======
+[[Lexicon/G1701-1800#G1752|Because of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2801-2900#G2875|she shall beat her chest]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2354|wail.]] [[Lexicon/G4101-4200#G4198|She shall go]] [[Lexicon/G501-600#G0504|barefoot]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1101-1200#G1131|naked.]] [[Lexicon/G4101-4200#G4160|She shall make]] [[Lexicon/G2801-2900#G2870|a beating of the breast]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1401-1500#G1404|dragons,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3997|mourning]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4501-4600#G4577|of sirens.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Micah 1 - 9
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G2601-2700#G2629|holds firmly]] [[Lexicon/G1301-1400#G1360|because]] [[Lexicon/G2001-2100#G2064|it went]] [[Lexicon/G2101-2200#G2193|unto]] Judah; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0680|it touched]] [[Lexicon/G2101-2200#G2193|unto]] [[Lexicon/G2901-3000#G2992|of my people,]] [[Lexicon/G2101-2200#G2193|unto]] Jerusalem.
@@ -57,4 +65,8 @@ Testament: Old
 [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1473|to you,]] [[Lexicon/G2701-2800#G2730|O inhabitant]] of Lachish, [[Lexicon/G2801-2900#G2817|your inheritance.]] [[Lexicon/G2101-2200#G2193|Unto]] Adullam [[Lexicon/G2201-2300#G2240|shall come]]
 
 #### Micah 1 - 16
+<<<<<<< HEAD
 [[Lexicon/G3501-3600#G3587|Shave]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2751|shear]] [[Lexicon/G1901-2000#G1909|for]] [[Lexicon/G5001-5100#G5043|children]] [[Lexicon/G1701-1800#G1706|widening]] [[Lexicon/G3501-3600#G3587|your shaving]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G101-200#G0105|an eagle,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G101-200#G0162|they were taken captive]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|you.]]
+=======
+[[Lexicon/G3501-3600#G3587|Shave]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2751|shear]] [[Lexicon/G1901-2000#G1909|for]] [[Lexicon/G5001-5100#G5043|children]] [[Lexicon/G1701-1800#G1706|widening]] [[Lexicon/G3501-3600#G3587|your shaving]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G101-200#G0105|an eagle,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G101-200#G0162|they were taken captive]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|you.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

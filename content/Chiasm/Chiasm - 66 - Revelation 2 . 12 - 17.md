@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/66 - Revelation|← Revelation]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/66 - Revelation|← Revelation]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

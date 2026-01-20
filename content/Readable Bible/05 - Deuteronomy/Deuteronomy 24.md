@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Deuteronomy-R 24
 
 **[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 23#Deuteronomy-R 23| Deuteronomy 23]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 25#Deuteronomy-R 25| Deuteronomy 25]]
+=======
+# Deuteronomy 24
+
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 23|← Deuteronomy 23]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 25|Deuteronomy 25 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

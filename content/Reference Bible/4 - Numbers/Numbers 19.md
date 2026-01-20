@@ -25,7 +25,11 @@ Chapter: "19"
 | [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 3|LXX]] |
 
 ##### Numbers 19 - 4
+<<<<<<< HEAD
 [[Lexicon/H401-500#H499|Eleazar]] [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H3901-4000#H3947|is to take]] [[Lexicon/H1801-1900#H1818|some of its blood]] [[Lexicon/H601-700#H676|on his finger]] [[Lexicon/H5101-5200#H5137|and sprinkle]] [[Lexicon/H1801-1900#H1818|[it]]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H6401-6500#H6471|times]] [[Lexicon/H401-500#H413|toward]] [[Lexicon/H5201-5300#H5227|...]] [[Lexicon/H6401-6500#H6440|the front]] [[Lexicon/H101-200#H168|of the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting.]]
+=======
+[[Lexicon/H401-500#H499|Eleazar]] [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H3901-4000#H3947|is to take]] [[Lexicon/H1801-1900#H1818|some of its blood]] [[Lexicon/H601-700#H676|on his finger]] [[Lexicon/H5101-5200#H5137|and sprinkle]] [[Lexicon/H1801-1900#H1818|(it)]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H6401-6500#H6471|times]] [[Lexicon/H401-500#H413|toward]] [[Lexicon/H5201-5300#H5227|...]] [[Lexicon/H6401-6500#H6440|the front]] [[Lexicon/H101-200#H168|of the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 4|LXX]] |
 
 ##### Numbers 19 - 5
@@ -41,11 +45,19 @@ Chapter: "19"
 | [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 7|LXX]] |
 
 ##### Numbers 19 - 8
+<<<<<<< HEAD
 [[Lexicon/H8301-8400#H8313|The one who burned]] [[Lexicon/H801-900#H853|[the heifer]]] [[Lexicon/H3501-3600#H3526|must also wash]] [[Lexicon/H801-900#H899|his clothes]] [[Lexicon/H7301-7400#H7364|and bathe]] [[Lexicon/H1301-1400#H1320|his body]] [[Lexicon/H4301-4400#H4325|...]] [[Lexicon/H4301-4400#H4325|in water ,]] [[Lexicon/H2901-3000#H2930|and he too will be ceremonially unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening.]]
 | [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 8|LXX]] |
 
 ##### Numbers 19 - 9
 [[Lexicon/H301-400#H376|Then a man]] [[Lexicon/H2801-2900#H2889|who is ceremonially clean]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H601-700#H622|is to gather up]] [[Lexicon/H601-700#H665|the ashes]] [[Lexicon/H6501-6600#H6510|of the heifer]] [[Lexicon/H5101-5200#H5117|and store [them]]] [[Lexicon/H2801-2900#H2889|in a ceremonially clean]] [[Lexicon/H4701-4800#H4725|place]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H4201-4300#H4264|the camp.]] [[Lexicon/H1901-2000#H1961|They must be]] [[Lexicon/H4901-5000#H4931|kept]] [[Lexicon/H5701-5800#H5712|by the congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H4301-4400#H4325|for preparing the water]] [[Lexicon/H5001-5100#H5079|of purification ;]] [[Lexicon/H1901-2000#H1931|this [is]]] [[Lexicon/H2401-2500#H2403|for purification from sin.]]
+=======
+[[Lexicon/H8301-8400#H8313|The one who burned]] [[Lexicon/H801-900#H853|(the heifer)]] [[Lexicon/H3501-3600#H3526|must also wash]] [[Lexicon/H801-900#H899|his clothes]] [[Lexicon/H7301-7400#H7364|and bathe]] [[Lexicon/H1301-1400#H1320|his body]] [[Lexicon/H4301-4400#H4325|...]] [[Lexicon/H4301-4400#H4325|in water ,]] [[Lexicon/H2901-3000#H2930|and he too will be ceremonially unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening.]]
+| [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 8|LXX]] |
+
+##### Numbers 19 - 9
+[[Lexicon/H301-400#H376|Then a man]] [[Lexicon/H2801-2900#H2889|who is ceremonially clean]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H601-700#H622|is to gather up]] [[Lexicon/H601-700#H665|the ashes]] [[Lexicon/H6501-6600#H6510|of the heifer]] [[Lexicon/H5101-5200#H5117|and store (them)]] [[Lexicon/H2801-2900#H2889|in a ceremonially clean]] [[Lexicon/H4701-4800#H4725|place]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H4201-4300#H4264|the camp.]] [[Lexicon/H1901-2000#H1961|They must be]] [[Lexicon/H4901-5000#H4931|kept]] [[Lexicon/H5701-5800#H5712|by the congregation]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H4301-4400#H4325|for preparing the water]] [[Lexicon/H5001-5100#H5079|of purification ;]] [[Lexicon/H1901-2000#H1931|this (is)]] [[Lexicon/H2401-2500#H2403|for purification from sin.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 9|LXX]] |
 
 ##### Numbers 19 - 10
@@ -77,7 +89,11 @@ Chapter: "19"
 | [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 16|LXX]] |
 
 ##### Numbers 19 - 17
+<<<<<<< HEAD
 [[Lexicon/H2901-3000#H2931|[For the purification] of the unclean person,]] [[Lexicon/H3901-4000#H3947|take]] [[Lexicon/H6001-6100#H6083|some of the ashes]] [[Lexicon/H8301-8400#H8316|of the burnt]] [[Lexicon/H2401-2500#H2403|sin offering ,]] [[Lexicon/H5401-5500#H5414|put them]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H3601-3700#H3627|a jar ,]] [[Lexicon/H2401-2500#H2416|and pour fresh]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H5901-6000#H5921|over them.]]
+=======
+[[Lexicon/H2901-3000#H2931|(For the purification) of the unclean person,]] [[Lexicon/H3901-4000#H3947|take]] [[Lexicon/H6001-6100#H6083|some of the ashes]] [[Lexicon/H8301-8400#H8316|of the burnt]] [[Lexicon/H2401-2500#H2403|sin offering ,]] [[Lexicon/H5401-5500#H5414|put them]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H3601-3700#H3627|a jar ,]] [[Lexicon/H2401-2500#H2416|and pour fresh]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H5901-6000#H5921|over them.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 17|LXX]] |
 
 ##### Numbers 19 - 18
@@ -85,6 +101,7 @@ Chapter: "19"
 | [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 18|LXX]] |
 
 ##### Numbers 19 - 19
+<<<<<<< HEAD
 [[Lexicon/H2801-2900#H2889|The man who is ceremonially clean]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5101-5200#H5137|is to sprinkle]] [[Lexicon/H2901-3000#H2931|the unclean person]] [[Lexicon/H7901-8000#H7992|on the third]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7637|and on the seventh]] [[Lexicon/H3101-3200#H3117|day.]] [[Lexicon/H2301-2400#H2398|After he purifies]] [[Lexicon/H7601-7700#H7637|the unclean person on the seventh]] [[Lexicon/H3101-3200#H3117|day ,]] [[Lexicon/H3501-3600#H3526|[the one being cleansed] must wash]] [[Lexicon/H801-900#H899|his clothes]] [[Lexicon/H7301-7400#H7364|and bathe]] [[Lexicon/H4301-4400#H4325|in water ,]] [[Lexicon/H6101-6200#H6153|and that evening]] [[Lexicon/H2801-2900#H2891|he will be clean.]]
 | [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 19|LXX]] |
 
@@ -94,6 +111,17 @@ Chapter: "19"
 
 ##### Numbers 19 - 21
 [[Lexicon/H1901-2000#H1961|This]] [[Lexicon/H5701-5800#H5769|is a permanent]] [[Lexicon/H2701-2800#H2708|statute]] [[Lexicon/H5101-5200#H5137|The one who sprinkles]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H5001-5100#H5079|of [purification]]] [[Lexicon/H3501-3600#H3526|must wash]] [[Lexicon/H801-900#H899|his clothes ,]] [[Lexicon/H5001-5100#H5060|and whoever touches]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H5001-5100#H5079|of [purification]]] [[Lexicon/H2901-3000#H2930|will be unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening.]]
+=======
+[[Lexicon/H2801-2900#H2889|The man who is ceremonially clean]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5101-5200#H5137|is to sprinkle]] [[Lexicon/H2901-3000#H2931|the unclean person]] [[Lexicon/H7901-8000#H7992|on the third]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7637|and on the seventh]] [[Lexicon/H3101-3200#H3117|day.]] [[Lexicon/H2301-2400#H2398|After he purifies]] [[Lexicon/H7601-7700#H7637|the unclean person on the seventh]] [[Lexicon/H3101-3200#H3117|day ,]] [[Lexicon/H3501-3600#H3526|(the one being cleansed) must wash]] [[Lexicon/H801-900#H899|his clothes]] [[Lexicon/H7301-7400#H7364|and bathe]] [[Lexicon/H4301-4400#H4325|in water ,]] [[Lexicon/H6101-6200#H6153|and that evening]] [[Lexicon/H2801-2900#H2891|he will be clean.]]
+| [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 19|LXX]] |
+
+##### Numbers 19 - 20
+[[Lexicon/H301-400#H376|But if a person]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H2901-3000#H2930|is unclean]] [[Lexicon/H3801-3900#H3808|does not]] [[Lexicon/H2301-2400#H2398|purify]] [[Lexicon/H1901-2000#H1931|himself ,]] [[Lexicon/H5301-5400#H5315|(he)]] [[Lexicon/H3701-3800#H3772|will be cut off]] [[Lexicon/H8401-8500#H8432|from]] [[Lexicon/H6901-7000#H6951|the assembly ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2901-3000#H2930|he has defiled]] [[Lexicon/H4701-4800#H4720|the sanctuary]] [[Lexicon/H3001-3100#H3068|of the LORD.]] [[Lexicon/H4301-4400#H4325|The water]] [[Lexicon/H5001-5100#H5079|of (purification)]] [[Lexicon/H3801-3900#H3808|has not]] [[Lexicon/H2201-2300#H2236|been sprinkled]] [[Lexicon/H5901-6000#H5921|on him ;]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H2901-3000#H2931|is unclean.]]
+| [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 20|LXX]] |
+
+##### Numbers 19 - 21
+[[Lexicon/H1901-2000#H1961|This]] [[Lexicon/H5701-5800#H5769|is a permanent]] [[Lexicon/H2701-2800#H2708|statute]] [[Lexicon/H5101-5200#H5137|The one who sprinkles]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H5001-5100#H5079|of (purification)]] [[Lexicon/H3501-3600#H3526|must wash]] [[Lexicon/H801-900#H899|his clothes ,]] [[Lexicon/H5001-5100#H5060|and whoever touches]] [[Lexicon/H4301-4400#H4325|the water]] [[Lexicon/H5001-5100#H5079|of (purification)]] [[Lexicon/H2901-3000#H2930|will be unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 19#Numbers 19 - 21|LXX]] |
 
 ##### Numbers 19 - 22

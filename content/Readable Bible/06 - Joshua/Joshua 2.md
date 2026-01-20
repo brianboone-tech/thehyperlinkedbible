@@ -6,11 +6,17 @@ cssclasses:
   - lexicon
 ---
 
+<<<<<<< HEAD
 # Joshua-R 2
 
 **[[Home/Scripture/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 1#Joshua-R 1| Joshua 1]] - [[Readable Bible/06 - Joshua/Joshua 3#Joshua-R 3| Joshua 3]]
+=======
+# Joshua 2
+
+[[Readable Bible/06 - Joshua/Joshua 1|← Joshua 1]] | [[Readable Bible/06 - Joshua/Joshua 3|Joshua 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

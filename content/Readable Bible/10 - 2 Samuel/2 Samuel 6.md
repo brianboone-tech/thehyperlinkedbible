@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Samuel-R 6
 
 **[[Home/Scripture/10 - 2 Samuel|2 Samuel]]**
 
 [[Readable Bible/10 - 2 Samuel/2 Samuel 5#2 Samuel-R 5| 2 Samuel 5]] - [[Readable Bible/10 - 2 Samuel/2 Samuel 7#2 Samuel-R 7| 2 Samuel 7]]
+=======
+# 2 Samuel 6
+
+[[Readable Bible/10 - 2 Samuel/2 Samuel 5|← 2 Samuel 5]] | [[Readable Bible/10 - 2 Samuel/2 Samuel 7|2 Samuel 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -80,5 +86,9 @@ cssClasses: lexicon
 [[Reference Bible/10 - 2 Samuel/2 Samuel 6#2 Samuel 6 - 22|22]] and I will humiliate and humble myself even more than this. Yet I will be honored by the maidservants of whom you have spoken.”  | [[Intertextuality Pairs/OT to OT/10 - 2 Samuel/2 Samuel 6.12-23 to 1 Chronicles 15.1-16|IP]] | [[Chiasm/Chiasm - 10 - 2 Samuel 6 . 20 - 23|C]] | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 6 - TOSK#Verse 22|TOSK]] |
 
 ##### 2 Samuel 6 . 23
+<<<<<<< HEAD
 [[Reference Bible/10 - 2 Samuel/2 Samuel 6#2 Samuel 6 - 23|23]] And Michal the daughter of Saul had no children to the day of her death.  | [[Intertextuality Pairs/OT to OT/10 - 2 Samuel/2 Samuel 6.12-23 to 1 Chronicles 15.1-16|IP]] | [[Chiasm/Chiasm - 10 - 2 Samuel 6 . 20 - 23|C]] | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 6 - TOSK#Verse 23|TOSK]] | |
+=======
+[[Reference Bible/10 - 2 Samuel/2 Samuel 6#2 Samuel 6 - 23|23]] And Michal the daughter of Saul had no children to the day of her death.  | [[Intertextuality Pairs/OT to OT/10 - 2 Samuel/2 Samuel 6.12-23 to 1 Chronicles 15.1-16|IP]] | [[Chiasm/Chiasm - 10 - 2 Samuel 6 . 20 - 23|C]] | [[The Treasury of Scripture Knowledge/10. 2 Samuel TOSK/2 Samuel - 6 - TOSK#Verse 23|TOSK]] ||
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 

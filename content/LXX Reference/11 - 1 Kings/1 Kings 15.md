@@ -24,7 +24,11 @@ Testament: Old
 [[Lexicon/G3701-3800#G3754|But]] [[Lexicon/G1201-1300#G1223|on account of]] David [[Lexicon/G1301-1400#G1325|gave]] [[Lexicon/G2601-2700#G2640|a vestige]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem, [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G2401-2500#G2476|he should establish]] [[Lexicon/G5001-5100#G5043|his children]] [[Lexicon/G3301-3400#G3326|after]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2401-2500#G2476|establish]] Jerusalem,
 
 #### 1 Kings 15 - 5
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4101-4200#G4160|David did]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2101-2200#G2112|upright thing]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G1501-1600#G1578|turn aside]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1701-1800#G1781|he gave charge]] [[Lexicon/G1401-1500#G1473|to him,]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G2201-2300#G2222|of his life,]]
+=======
+[[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4101-4200#G4160|David did]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2101-2200#G2112|upright thing]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G1501-1600#G1578|turn aside]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1701-1800#G1781|he gave charge]] [[Lexicon/G1401-1500#G1473|to him,]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G2201-2300#G2222|of his life,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Kings 15 - 6
 [[Lexicon/G1601-1700#G1623|except]] [[Lexicon/G1701-1800#G1722|in]] of Uriah [[Lexicon/G3501-3600#G3588|the]] Hittite. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4171|war]] [[Lexicon/G1501-1600#G1510|was]] [[Lexicon/G3301-3400#G3342|between]] Rehoboam [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3342|between]] Jeroboam [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G2201-2300#G2222|of his life.]]
@@ -42,7 +46,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5001-5100#G5062|forty]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1520|one]] [[Lexicon/G2001-2100#G2094|year]] [[Lexicon/G901-1000#G0936|he reigned]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3301-3400#G3384|of his mother]] [[Lexicon/G2301-2400#G2364|daughter]] of Abishalom.
 
 #### 1 Kings 15 - 11
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4160|Asa did]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2101-2200#G2112|upright thing]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G5601-5700#G5613|as]] David [[Lexicon/G3901-4000#G3962|his father.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4160|Asa did]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2101-2200#G2112|upright thing]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G5601-5624#G5613|as]] David [[Lexicon/G3901-4000#G3962|his father.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Kings 15 - 12
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G801-900#G0851|he removed]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5001-5100#G5052|mystic rites]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1821|sent out]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2006|practices]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4101-4200#G4160|did]]
@@ -72,7 +80,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G101-200#G0191|hearkened]] Asa, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0649|he sent]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0758|rulers]] [[Lexicon/G1401-1500#G1411|of his force]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G4101-4200#G4172|cities]] of Israel. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3960|he struck]] Ijon, [[Lexicon/G2501-2600#G2532|and]] Dan, [[Lexicon/G2501-2600#G2532|and]] Abel [[Lexicon/G3601-3700#G3624|of the house]] of Maachah, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] Cinneroth, [[Lexicon/G2101-2200#G2193|unto]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Naphtali.
 
 #### 1 Kings 15 - 21
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5700#G5613|when]] [[Lexicon/G101-200#G0191|Baasha heard,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G1201-1300#G1257|he stopped]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3618|building]] of Ramah, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0390|he returned]] [[Lexicon/G1501-1600#G1519|unto]] Tizrah.
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5624#G5613|when]] [[Lexicon/G101-200#G0191|Baasha heard,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G1201-1300#G1257|he stopped]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3618|building]] of Ramah, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0390|he returned]] [[Lexicon/G1501-1600#G1519|unto]] Tizrah.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Kings 15 - 22
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G901-1000#G0935|king]] Asa [[Lexicon/G3801-3900#G3853|exhorted]] [[Lexicon/G3901-4000#G3956|all]] Judah [[Lexicon/G1501-1600#G1519|with]] no exceptions. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G101-200#G0142|they lifted]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3037|stones]] of Ramah, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3586|its timbers,]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3601-3700#G3618|Baasha constructed.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3601-3700#G3618|built]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1015|hill]] of Benjamin, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4648|height.]]
@@ -96,7 +108,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2201-2300#G2289|put him to death]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2001-2100#G2094|year]] of Asa [[Lexicon/G901-1000#G0935|king]] of Judah. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G901-1000#G0936|he reigned]] [[Lexicon/G401-500#G0473|instead of]] [[Lexicon/G1401-1500#G1473|him.]]
 
 #### 1 Kings 15 - 29
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G901-1000#G0936|he reigned,]] [[Lexicon/G3901-4000#G3960|he struck]] [[Lexicon/G3601-3700#G3624|house]] of Jeroboam; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|he left not]] [[Lexicon/G3901-4000#G3956|any]] of Jeroboam, [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G1801-1900#G1842|utterly destroying]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2596|(according to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4401-4500#G4487|saying]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G2901-3000#G2980|he spoke]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1401-1500#G1401|of his servant]] Ahijah [[Lexicon/G3501-3600#G3588|the]] Shilonite,)
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G901-1000#G0936|he reigned,]] [[Lexicon/G3901-4000#G3960|he struck]] [[Lexicon/G3601-3700#G3624|house]] of Jeroboam; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|he left not]] [[Lexicon/G3901-4000#G3956|any]] of Jeroboam, [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G1801-1900#G1842|utterly destroying]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2596|(according to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4401-4500#G4487|saying]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G2901-3000#G2980|he spoke]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1401-1500#G1401|of his servant]] Ahijah [[Lexicon/G3501-3600#G3588|the]] Shilonite,)
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Kings 15 - 30
 [[Lexicon/G4001-4100#G4012|for]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0266|sins]] of Jeroboam, [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1801-1900#G1814|he led Israel into sin,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3950|his provoking to anger]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3901-4000#G3949|he provoked to anger]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2316|God]] of Israel.

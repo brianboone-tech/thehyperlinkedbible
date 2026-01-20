@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Deuteronomy-R 13
 
 **[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 12#Deuteronomy-R 12| Deuteronomy 12]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 14#Deuteronomy-R 14| Deuteronomy 14]]
+=======
+# Deuteronomy 13
+
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 12|← Deuteronomy 12]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 14|Deuteronomy 14 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

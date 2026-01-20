@@ -12,7 +12,11 @@ Book: Leviticus
 ---
 
 ##### Leviticus 21 - 1
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H501-600#H559|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H175|Aaron’s]] [[Lexicon/H1101-1200#H1121|sons ,]] [[Lexicon/H3501-3600#H3548|the priests ,]] [[Lexicon/H501-600#H559|and tell]] [[Lexicon/H401-500#H413|them [that]]] [[Lexicon/H3801-3900#H3808|[a priest] is not]] [[Lexicon/H2901-3000#H2930|to defile himself]] [[Lexicon/H5301-5400#H5315|for a dead person]] [[Lexicon/H5901-6000#H5971|among his people ,]]
+=======
+[[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H501-600#H559|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H175|Aaron’s]] [[Lexicon/H1101-1200#H1121|sons ,]] [[Lexicon/H3501-3600#H3548|the priests ,]] [[Lexicon/H501-600#H559|and tell]] [[Lexicon/H401-500#H413|them (that)]] [[Lexicon/H3801-3900#H3808|(a priest) is not]] [[Lexicon/H2901-3000#H2930|to defile himself]] [[Lexicon/H5301-5400#H5315|for a dead person]] [[Lexicon/H5901-6000#H5971|among his people ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 21#Leviticus 21 - 1|LXX]] |
 
 ##### Leviticus 21 - 2
@@ -36,7 +40,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 21#Leviticus 21 - 6|LXX]] |
 
 ##### Leviticus 21 - 7
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|[A priest] must not]] [[Lexicon/H3901-4000#H3947|marry]] [[Lexicon/H801-900#H802|...]] [[Lexicon/H801-900#H802|a woman]] [[Lexicon/H2401-2500#H2491|defiled]] [[Lexicon/H2101-2200#H2181|by prostitution]] [[Lexicon/H3801-3900#H3808|or]] [[Lexicon/H3901-4000#H3947|-]] [[Lexicon/H1601-1700#H1644|divorced]] [[Lexicon/H301-400#H376|by her husband ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|[the priest]]] [[Lexicon/H6901-7000#H6918|is holy]] [[Lexicon/H401-500#H430|to his God.]]
+=======
+[[Lexicon/H3801-3900#H3808|(A priest) must not]] [[Lexicon/H3901-4000#H3947|marry]] [[Lexicon/H801-900#H802|...]] [[Lexicon/H801-900#H802|a woman]] [[Lexicon/H2401-2500#H2491|defiled]] [[Lexicon/H2101-2200#H2181|by prostitution]] [[Lexicon/H3801-3900#H3808|or]] [[Lexicon/H3901-4000#H3947|-]] [[Lexicon/H1601-1700#H1644|divorced]] [[Lexicon/H301-400#H376|by her husband ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|(the priest)]] [[Lexicon/H6901-7000#H6918|is holy]] [[Lexicon/H401-500#H430|to his God.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 21#Leviticus 21 - 7|LXX]] |
 
 ##### Leviticus 21 - 8
@@ -92,11 +100,19 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 21#Leviticus 21 - 20|LXX]] |
 
 ##### Leviticus 21 - 21
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|No]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H2201-2300#H2233|descendant]] [[Lexicon/H101-200#H175|of Aaron]] [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3901-4000#H3971|has a defect]] [[Lexicon/H5001-5100#H5066|shall approach]] [[Lexicon/H7101-7200#H7126|to present]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H801|the offerings made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H3901-4000#H3971|[Since] he has a defect]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H3801-3900#H3808|he is not]] [[Lexicon/H5001-5100#H5066|to come near]] [[Lexicon/H7101-7200#H7126|to offer]] [[Lexicon/H3801-3900#H3899|the food]] [[Lexicon/H401-500#H430|of his God.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 21#Leviticus 21 - 21|LXX]] |
 
 ##### Leviticus 21 - 22
 [[Lexicon/H301-400#H398|He may eat]] [[Lexicon/H6901-7000#H6944|the most]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H3801-3900#H3899|food]] [[Lexicon/H401-500#H430|of his God]] [[Lexicon/H4401-4500#H4480|as well as]] [[Lexicon/H6901-7000#H6944|the holy [food] ,]]
+=======
+[[Lexicon/H3601-3700#H3605|No]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H2201-2300#H2233|descendant]] [[Lexicon/H101-200#H175|of Aaron]] [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3901-4000#H3971|has a defect]] [[Lexicon/H5001-5100#H5066|shall approach]] [[Lexicon/H7101-7200#H7126|to present]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H801|the offerings made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]] [[Lexicon/H3901-4000#H3971|(Since) he has a defect]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H3801-3900#H3808|he is not]] [[Lexicon/H5001-5100#H5066|to come near]] [[Lexicon/H7101-7200#H7126|to offer]] [[Lexicon/H3801-3900#H3899|the food]] [[Lexicon/H401-500#H430|of his God.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 21#Leviticus 21 - 21|LXX]] |
+
+##### Leviticus 21 - 22
+[[Lexicon/H301-400#H398|He may eat]] [[Lexicon/H6901-7000#H6944|the most]] [[Lexicon/H6901-7000#H6944|holy]] [[Lexicon/H3801-3900#H3899|food]] [[Lexicon/H401-500#H430|of his God]] [[Lexicon/H4401-4500#H4480|as well as]] [[Lexicon/H6901-7000#H6944|the holy (food) ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 21#Leviticus 21 - 22|LXX]] |
 
 ##### Leviticus 21 - 23

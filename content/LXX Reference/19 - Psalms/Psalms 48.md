@@ -27,7 +27,11 @@ Testament: Old
 [[Lexicon/G1401-1500#G1473|They]] [[Lexicon/G1401-1500#G1492|in seeing]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G2201-2300#G2296|wondered;]] [[Lexicon/G5001-5100#G5015|they were disturbed;]] [[Lexicon/G4501-4600#G4531|they were shaken.]]
 
 #### Psalms 48 - 6
+<<<<<<< HEAD
 [[Lexicon/G5101-5200#G5156|Trembling]] [[Lexicon/G1901-2000#G1949|took hold of]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G5601-5700#G5604|pangs]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5001-5100#G5088|a woman giving birth.]]
+=======
+[[Lexicon/G5101-5200#G5156|Trembling]] [[Lexicon/G1901-2000#G1949|took hold of]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G5601-5624#G5604|pangs]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5001-5100#G5088|a woman giving birth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 48 - 7
 [[Lexicon/G1701-1800#G1722|By]] [[Lexicon/G4101-4200#G4151|wind]] [[Lexicon/G4901-5000#G4937|you shall break]] of Tarshish.

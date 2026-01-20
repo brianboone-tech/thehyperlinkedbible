@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # John-R 1
 
 **[[Home/Scripture/43 - John|John]]**
 
 [[Readable Bible/42 - Luke/Luke 24#Luke-R 24|Luke 24]] • [[Readable Bible/43 - John/John 2#John-R 2|John 2]]
+=======
+# John 1
+
+[[Readable Bible/42 - Luke/Luke 24|← Luke 24]] | [[Readable Bible/43 - John/John 2|John 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

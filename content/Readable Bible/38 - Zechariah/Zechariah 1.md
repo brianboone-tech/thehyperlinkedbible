@@ -5,16 +5,27 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Zechariah-R 1
 
 **[[Home/Scripture/38 - Zechariah|Zechariah]]**
 
 [[Haggai 2|Haggai 2]] • [[Zechariah 2|Zechariah 2]]
+=======
+# Zechariah 1
+
+
+[[Haggai 2|Haggai 2]] | [[Zechariah 2|Zechariah 2]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Zechariah 1 . 1
+<<<<<<< HEAD
 [[Reference Bible/38 - Zechariah/Zechariah 1#Zechariah 1 - 1|1]] In the eighth month of the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berechiah, the son of Iddo, saying:   || [[Chiasm/Chiasm - 38 - Zechariah 1 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 1 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/38 - Zechariah/Zechariah 1#Zechariah 1 - 1|1]] In the eighth month of the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berechiah, the son of Iddo, saying:  | | [[Chiasm/Chiasm - 38 - Zechariah 1 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 1 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Zechariah 1 . 2
 [[Reference Bible/38 - Zechariah/Zechariah 1#Zechariah 1 - 2|2]] “The LORD was very angry with your fathers.  | [[Chiasm/Chiasm - 38 - Zechariah 1 . 1 - 6|C]] | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 1 - TOSK#Verse 2|TOSK]] |

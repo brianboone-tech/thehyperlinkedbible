@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 96 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 95 - TOSK|← Ch 95]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 97 - TOSK|Ch 97 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 95 - TOSK|← Ch 95]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 97 - TOSK|Ch 97 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

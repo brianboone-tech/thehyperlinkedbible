@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Ezekiel 27 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 26 - TOSK|← Ch 26]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 28 - TOSK|Ch 28 →]]
+=======
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 26 - TOSK|← Ch 26]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 28 - TOSK|Ch 28 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

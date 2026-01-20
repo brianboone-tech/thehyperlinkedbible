@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Isaiah-R 22
 
 **[[Home/Scripture/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 21#Isaiah-R 21| Isaiah 21]] - [[Readable Bible/23 - Isaiah/Isaiah 23#Isaiah-R 23| Isaiah 23]]
+=======
+# Isaiah 22
+
+[[Readable Bible/23 - Isaiah/Isaiah 21|← Isaiah 21]] | [[Readable Bible/23 - Isaiah/Isaiah 23|Isaiah 23 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

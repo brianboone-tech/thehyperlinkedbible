@@ -12,7 +12,11 @@ Testament: Old
 ---
 
 #### 2 Kings 2 - 1
+<<<<<<< HEAD
 [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G301-400#G0321|lord]] Elijah [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4901-5000#G4952|a rumbling]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G1501-1600#G1537|from out of]] Gilgal.
+=======
+[[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G301-400#G0321|lord]] Elijah [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4901-5000#G4952|a rumbling]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G1501-1600#G1537|from out of]] Gilgal.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 2 Kings 2 - 2
 [[Lexicon/G2001-2100#G2036|Elijah said]] [[Lexicon/G4301-4400#G4314|to]] Elisha, [[Lexicon/G2501-2600#G2521|Sit down]] [[Lexicon/G1201-1300#G1211|indeed]] [[Lexicon/G1701-1800#G1778|here!]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G601-700#G0649|has sent]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G2101-2200#G2193|unto]] Bethel. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|Elisha said,]] [[Lexicon/G2101-2200#G2198|As the]] [[Lexicon/G2501-2600#G2532|and as]] [[Lexicon/G1401-1500#G1487|shall]] [[Lexicon/G1401-1500#G1459|I abandon]] [[Lexicon/G1401-1500#G1473|you, no]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2064|they came]] [[Lexicon/G1501-1600#G1519|unto]] Bethel.

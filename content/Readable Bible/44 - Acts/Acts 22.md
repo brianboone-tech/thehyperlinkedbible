@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Acts-R 22
 
 **[[Home/Scripture/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 21#Acts-R 21| Acts 21]] - [[Readable Bible/44 - Acts/Acts 23#Acts-R 23| Acts 23]]
+=======
+# Acts 22
+
+[[Readable Bible/44 - Acts/Acts 21|← Acts 21]] | [[Readable Bible/44 - Acts/Acts 23|Acts 23 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 ##### Acts 22 . 1

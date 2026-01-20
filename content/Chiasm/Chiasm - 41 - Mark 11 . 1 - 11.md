@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/41 - Mark|← Mark]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/41 - Mark|← Mark]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

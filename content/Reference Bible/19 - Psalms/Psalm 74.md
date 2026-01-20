@@ -54,7 +54,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 74#Psalm 74 - 11|LXX]] |
 
 ##### Psalm 74 - 12
+<<<<<<< HEAD
 [[Lexicon/H401-500#H430|Yet God]] [[Lexicon/H4401-4500#H4428|[is] my King]] [[Lexicon/H6901-7000#H6924|from ancient times ,]] [[Lexicon/H6401-6500#H6466|working]] [[Lexicon/H3401-3500#H3444|salvation]] [[Lexicon/H7101-7200#H7130|on]] [[Lexicon/H701-800#H776|the earth.]]
+=======
+[[Lexicon/H401-500#H430|Yet God]] [[Lexicon/H4401-4500#H4428|(is) my King]] [[Lexicon/H6901-7000#H6924|from ancient times ,]] [[Lexicon/H6401-6500#H6466|working]] [[Lexicon/H3401-3500#H3444|salvation]] [[Lexicon/H7101-7200#H7130|on]] [[Lexicon/H701-800#H776|the earth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 74#Psalm 74 - 12|LXX]] |
 
 ##### Psalm 74 - 13

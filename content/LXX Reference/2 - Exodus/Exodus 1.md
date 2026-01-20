@@ -66,7 +66,11 @@ Dan, [[Lexicon/G2501-2600#G2532|and]] Naphtali, Gad, [[Lexicon/G2501-2600#G2532|
 [[Lexicon/G2501-2600#G2564|called]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3101-3200#G3103|midwives,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G1401-1500#G1473|to them,]] [[Lexicon/G5001-5100#G5100|Why]] [[Lexicon/G4101-4200#G4160|you did]] [[Lexicon/G4201-4300#G4229|this thing,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2201-2300#G2225|brought forth alive]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0730|males?]]
 
 #### Exodus 1 - 19
+<<<<<<< HEAD
 [[Lexicon/G2001-2100#G2036|said]] to Pharaoh, [[Lexicon/G3701-3800#G3756|Not]] [[Lexicon/G5601-5700#G5613|as]] of Egypt Hebrews, [[Lexicon/G5001-5100#G5088|for they give birth]] [[Lexicon/G4201-4300#G4250|before]] [[Lexicon/G1501-1600#G1525|entered]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5088|they bear.]]
+=======
+[[Lexicon/G2001-2100#G2036|said]] to Pharaoh, [[Lexicon/G3701-3800#G3756|Not]] [[Lexicon/G5601-5624#G5613|as]] of Egypt Hebrews, [[Lexicon/G5001-5100#G5088|for they give birth]] [[Lexicon/G4201-4300#G4250|before]] [[Lexicon/G1501-1600#G1525|entered]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5088|they bear.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Exodus 1 - 20
 [[Lexicon/G2001-2100#G2095|good]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3101-3200#G3103|midwives.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4129|he multiplied]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2992|people,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2401-2500#G2480|it became strong]] [[Lexicon/G4901-5000#G4970|exceedingly.]]

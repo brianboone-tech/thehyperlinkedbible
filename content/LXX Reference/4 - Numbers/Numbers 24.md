@@ -24,19 +24,33 @@ Testament: Old
 [[Lexicon/G5301-5400#G5346|Says]] [[Lexicon/G3001-3100#G3051|oracles]] [[Lexicon/G2301-2400#G2316|of God,]] [[Lexicon/G3701-3800#G3748|who]] [[Lexicon/G3701-3800#G3706|a vision]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5201-5300#G5258|sleep;]] [[Lexicon/G601-700#G0601|uncovering]] [[Lexicon/G3701-3800#G3788|his eyes.]]
 
 #### Numbers 24 - 5
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|How]] [[Lexicon/G2501-2600#G2570|good]] O Jacob, [[Lexicon/G4601-4700#G4633|your tents,]] O Israel.
 
 #### Numbers 24 - 6
 [[Lexicon/G5601-5700#G5616|As]] [[Lexicon/G3401-3500#G3486|groves]] [[Lexicon/G4601-4700#G4639|shadowing,]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G3801-3900#G3857|parks]] [[Lexicon/G1901-2000#G1909|near]] [[Lexicon/G4201-4300#G4215|a river,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G4601-4700#G4633|tents]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G2701-2800#G2748|cedars]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G5201-5300#G5204|waters.]]
+=======
+[[Lexicon/G5601-5624#G5613|How]] [[Lexicon/G2501-2600#G2570|good]] O Jacob, [[Lexicon/G4601-4700#G4633|your tents,]] O Israel.
+
+#### Numbers 24 - 6
+[[Lexicon/G5601-5624#G5616|As]] [[Lexicon/G3401-3500#G3486|groves]] [[Lexicon/G4601-4700#G4639|shadowing,]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G3801-3900#G3857|parks]] [[Lexicon/G1901-2000#G1909|near]] [[Lexicon/G4201-4300#G4215|a river,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G4601-4700#G4633|tents]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G2701-2800#G2748|cedars]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G5201-5300#G5204|waters.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Numbers 24 - 7
 [[Lexicon/G1801-1900#G1831|came forth]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G4601-4700#G4690|his seed,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2961|he shall dominate]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5301-5400#G5312|shall be raised up high]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G0837|shall be increased]]
 
 #### Numbers 24 - 8
+<<<<<<< HEAD
 [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G3501-3600#G3594|guided]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1501-1600#G1537|from out of]] Egypt; [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3401-3500#G3439|of a unicorn]] [[Lexicon/G1401-1500#G1473|to him.]] [[Lexicon/G2001-2100#G2068|He shall eat]] [[Lexicon/G2101-2200#G2190|of his enemies,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3974|of their thickness]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1002|his arrows]] [[Lexicon/G2601-2700#G2700|he shall shoot]] [[Lexicon/G2101-2200#G2190|an enemy.]]
 
 #### Numbers 24 - 9
 [[Lexicon/G2601-2700#G2625|Lying down]] [[Lexicon/G301-400#G0373|he rested]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3001-3100#G3023|a lion,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G4601-4700#G4661|a cub]] [[Lexicon/G5001-5100#G5100|who]] [[Lexicon/G401-500#G0450|shall raise]] [[Lexicon/G1401-1500#G1473|him?]] [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G2101-2200#G2127|ones blessing]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2101-2200#G2127|they are blessed;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2601-2700#G2672|ones cursing]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2601-2700#G2672|they are cursed.]]
+=======
+[[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G3501-3600#G3594|guided]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1501-1600#G1537|from out of]] Egypt; [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3401-3500#G3439|of a unicorn]] [[Lexicon/G1401-1500#G1473|to him.]] [[Lexicon/G2001-2100#G2068|He shall eat]] [[Lexicon/G2101-2200#G2190|of his enemies,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3974|of their thickness]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1002|his arrows]] [[Lexicon/G2601-2700#G2700|he shall shoot]] [[Lexicon/G2101-2200#G2190|an enemy.]]
+
+#### Numbers 24 - 9
+[[Lexicon/G2601-2700#G2625|Lying down]] [[Lexicon/G301-400#G0373|he rested]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3001-3100#G3023|a lion,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G4601-4700#G4661|a cub]] [[Lexicon/G5001-5100#G5100|who]] [[Lexicon/G401-500#G0450|shall raise]] [[Lexicon/G1401-1500#G1473|him?]] [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G2101-2200#G2127|ones blessing]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2101-2200#G2127|they are blessed;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2601-2700#G2672|ones cursing]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2601-2700#G2672|they are cursed.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Numbers 24 - 10
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2301-2400#G2373|Balak was enraged]] [[Lexicon/G1901-2000#G1909|at]] Balaam, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4701-4800#G4793|he struck together]] [[Lexicon/G5401-5500#G5495|his hands.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|Balak said]] [[Lexicon/G4301-4400#G4314|to]] Balaam, [[Lexicon/G2601-2700#G2672|To imprecate maledictions upon]] [[Lexicon/G2101-2200#G2190|my enemy]] [[Lexicon/G2501-2600#G2564|I have called]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G2101-2200#G2127|blessing]] [[Lexicon/G2101-2200#G2127|you blessed]] [[Lexicon/G5101-5200#G5154|this third time.]]

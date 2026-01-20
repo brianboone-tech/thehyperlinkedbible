@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/52 - 1 Thessalonians|← 1 Thessalonians]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/52 - 1 Thessalonians|← 1 Thessalonians]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

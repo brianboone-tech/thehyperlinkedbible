@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Luke 7 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 6 - TOSK|← Ch 6]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 8 - TOSK|Ch 8 →]]
+=======
+**[[Home/Indexes/Readable Bible/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 6 - TOSK|← Ch 6]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 8 - TOSK|Ch 8 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

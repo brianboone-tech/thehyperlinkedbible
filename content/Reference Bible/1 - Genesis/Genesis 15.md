@@ -13,7 +13,11 @@ Testament: Old
 ---
 
 ##### Genesis 15 - 1
+<<<<<<< HEAD
 [[Lexicon/H301-400#H310|After]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H1601-1700#H1697|events ,]] [[Lexicon/H1601-1700#H1697|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1901-2000#H1961|came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H87|Abram]] [[Lexicon/H4201-4300#H4236|in a vision :]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H3301-3400#H3372|be afraid ,]] [[Lexicon/H1-100#H87|Abram.]] [[Lexicon/H501-600#H595|I [am]]] [[Lexicon/H4001-4100#H4043|shield ,]] [[Lexicon/H3901-4000#H3966|your very]] [[Lexicon/H7201-7300#H7235|great]] [[Lexicon/H7901-8000#H7939|reward. ”]]
+=======
+[[Lexicon/H301-400#H310|After]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H1601-1700#H1697|events ,]] [[Lexicon/H1601-1700#H1697|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1901-2000#H1961|came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H87|Abram]] [[Lexicon/H4201-4300#H4236|in a vision :]] [[Lexicon/H501-600#H559|...]] [[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H3301-3400#H3372|be afraid ,]] [[Lexicon/H1-100#H87|Abram.]] [[Lexicon/H501-600#H595|I (am)]] [[Lexicon/H4001-4100#H4043|shield ,]] [[Lexicon/H3901-4000#H3966|your very]] [[Lexicon/H7201-7300#H7235|great]] [[Lexicon/H7901-8000#H7939|reward. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 1|LXX]] |
 
 ##### Genesis 15 - 2
@@ -25,11 +29,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 3|LXX]] |
 
 ##### Genesis 15 - 4
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2009|Then]] [[Lexicon/H1601-1700#H1697|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H413|came to [Abram] ,]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H3801-3900#H3808|one will not]] [[Lexicon/H3401-3500#H3423|be your heir ,]] [[Lexicon/H3501-3600#H3588|but]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H1901-2000#H1931|one]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3301-3400#H3318|comes from]] [[Lexicon/H4501-4600#H4578|your own body]] [[Lexicon/H3401-3500#H3423|will be your heir. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 4|LXX]] |
 
 ##### Genesis 15 - 5
 [[Lexicon/H3301-3400#H3318|And [the LORD] took]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H4901-5000#H4994|“ Now]] [[Lexicon/H5001-5100#H5027|look]] [[Lexicon/H8001-8100#H8064|to the heavens]] [[Lexicon/H5601-5700#H5608|and count]] [[Lexicon/H3501-3600#H3556|the stars ,]] [[Lexicon/H501-600#H518|if you]] [[Lexicon/H3201-3300#H3201|are able]] [[Lexicon/H5601-5700#H5608|.... ”]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|Then He told]] [[Lexicon/H3501-3600#H3541|“ So {shall}]] [[Lexicon/H2201-2300#H2233|your offspring]] [[Lexicon/H1901-2000#H1961|be. ”]]
+=======
+[[Lexicon/H2001-2100#H2009|Then]] [[Lexicon/H1601-1700#H1697|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H413|came to (Abram) ,]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H3801-3900#H3808|one will not]] [[Lexicon/H3401-3500#H3423|be your heir ,]] [[Lexicon/H3501-3600#H3588|but]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H1901-2000#H1931|one]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3301-3400#H3318|comes from]] [[Lexicon/H4501-4600#H4578|your own body]] [[Lexicon/H3401-3500#H3423|will be your heir. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 4|LXX]] |
+
+##### Genesis 15 - 5
+[[Lexicon/H3301-3400#H3318|And (the LORD) took]] [[Lexicon/H801-900#H853|him]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H4901-5000#H4994|“ Now]] [[Lexicon/H5001-5100#H5027|look]] [[Lexicon/H8001-8100#H8064|to the heavens]] [[Lexicon/H5601-5700#H5608|and count]] [[Lexicon/H3501-3600#H3556|the stars ,]] [[Lexicon/H501-600#H518|if you]] [[Lexicon/H3201-3300#H3201|are able]] [[Lexicon/H5601-5700#H5608|.... ”]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|Then He told]] [[Lexicon/H3501-3600#H3541|“ So {shall}]] [[Lexicon/H2201-2300#H2233|your offspring]] [[Lexicon/H1901-2000#H1961|be. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 5|LXX]] |
 
 ##### Genesis 15 - 6
@@ -37,6 +49,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 6|LXX]] |
 
 ##### Genesis 15 - 7
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|[The LORD] also told]] [[Lexicon/H401-500#H413|him ,]] [[Lexicon/H501-600#H589|“ I]] [[Lexicon/H3001-3100#H3068|am the LORD ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3301-3400#H3318|brought you]] [[Lexicon/H201-300#H218|out of Ur]] [[Lexicon/H3701-3800#H3778|of the Chaldeans]] [[Lexicon/H5401-5500#H5414|to give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H701-800#H776|land]] [[Lexicon/H3401-3500#H3423|to possess. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 7|LXX]] |
 
@@ -50,6 +63,21 @@ Testament: Old
 
 ##### Genesis 15 - 10
 [[Lexicon/H3901-4000#H3947|So [Abram] brought]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H1301-1400#H1334|split]] [[Lexicon/H801-900#H853|each of them]] [[Lexicon/H8401-8500#H8432|down the middle ,]] [[Lexicon/H5401-5500#H5414|and laid]] [[Lexicon/H1301-1400#H1335|the halves]] [[Lexicon/H7101-7200#H7122|opposite]] [[Lexicon/H301-400#H376|each]] [[Lexicon/H7401-7500#H7453|other.]] [[Lexicon/H6801-6900#H6833|The birds ,]] [[Lexicon/H801-900#H853|however ,]] [[Lexicon/H3801-3900#H3808|he did not]] [[Lexicon/H1301-1400#H1334|cut in half.]]
+=======
+[[Lexicon/H501-600#H559|(The LORD) also told]] [[Lexicon/H401-500#H413|him ,]] [[Lexicon/H501-600#H589|“ I]] [[Lexicon/H3001-3100#H3068|am the LORD ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3301-3400#H3318|brought you]] [[Lexicon/H201-300#H218|out of Ur]] [[Lexicon/H3701-3800#H3778|of the Chaldeans]] [[Lexicon/H5401-5500#H5414|to give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H701-800#H776|land]] [[Lexicon/H3401-3500#H3423|to possess. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 7|LXX]] |
+
+##### Genesis 15 - 8
+[[Lexicon/H501-600#H559|But (Abram) replied ,]] [[Lexicon/H101-200#H136|“ Lord]] [[Lexicon/H3001-3100#H3069|GOD ,]] [[Lexicon/H4001-4100#H4100|how]] [[Lexicon/H3001-3100#H3045|can I know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3401-3500#H3423|I will possess it ? ”]]
+| [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 8|LXX]] |
+
+##### Genesis 15 - 9
+[[Lexicon/H501-600#H559|And (the LORD) said]] [[Lexicon/H401-500#H413|to him ,]] [[Lexicon/H3901-4000#H3947|“ Bring]] [[Lexicon/H8001-8100#H8027|-]] [[Lexicon/H5601-5700#H5697|a heifer ,]] [[Lexicon/H8001-8100#H8027|-]] [[Lexicon/H5701-5800#H5795|a goat ,]] [[Lexicon/H301-400#H352|and a ram ,]] [[Lexicon/H8001-8100#H8027|(each) three years old ,]] [[Lexicon/H8401-8500#H8449|along with a turtledove]] [[Lexicon/H1401-1500#H1469|and a young pigeon. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 9|LXX]] |
+
+##### Genesis 15 - 10
+[[Lexicon/H3901-4000#H3947|So (Abram) brought]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H1301-1400#H1334|split]] [[Lexicon/H801-900#H853|each of them]] [[Lexicon/H8401-8500#H8432|down the middle ,]] [[Lexicon/H5401-5500#H5414|and laid]] [[Lexicon/H1301-1400#H1335|the halves]] [[Lexicon/H7101-7200#H7122|opposite]] [[Lexicon/H301-400#H376|each]] [[Lexicon/H7401-7500#H7453|other.]] [[Lexicon/H6801-6900#H6833|The birds ,]] [[Lexicon/H801-900#H853|however ,]] [[Lexicon/H3801-3900#H3808|he did not]] [[Lexicon/H1301-1400#H1334|cut in half.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 10|LXX]] |
 
 ##### Genesis 15 - 11
@@ -61,7 +89,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 12|LXX]] |
 
 ##### Genesis 15 - 13
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|Then [the LORD] said]] [[Lexicon/H1-100#H87|to Abram ,]] [[Lexicon/H3001-3100#H3045|“ Know]] [[Lexicon/H3001-3100#H3045|for certain]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2201-2300#H2233|your descendants]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H1601-1700#H1616|strangers]] [[Lexicon/H701-800#H776|in a land]] [[Lexicon/H3801-3900#H3808|that is not]] [[Lexicon/H5601-5700#H5647|and they will be enslaved]] [[Lexicon/H6001-6100#H6031|and mistreated]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H3901-4000#H3967|hundred]] [[Lexicon/H8101-8200#H8141|years.]]
+=======
+[[Lexicon/H501-600#H559|Then (the LORD) said]] [[Lexicon/H1-100#H87|to Abram ,]] [[Lexicon/H3001-3100#H3045|“ Know]] [[Lexicon/H3001-3100#H3045|for certain]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H2201-2300#H2233|your descendants]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H1601-1700#H1616|strangers]] [[Lexicon/H701-800#H776|in a land]] [[Lexicon/H3801-3900#H3808|that is not]] [[Lexicon/H5601-5700#H5647|and they will be enslaved]] [[Lexicon/H6001-6100#H6031|and mistreated]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H3901-4000#H3967|hundred]] [[Lexicon/H8101-8200#H8141|years.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 13|LXX]] |
 
 ##### Genesis 15 - 14
@@ -73,11 +105,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 15|LXX]] |
 
 ##### Genesis 15 - 16
+<<<<<<< HEAD
 [[Lexicon/H7201-7300#H7243|In the fourth]] [[Lexicon/H1701-1800#H1755|generation]] [[Lexicon/H7701-7800#H7725|[your descendants] will return]] [[Lexicon/H2001-2100#H2008|here ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H5701-5800#H5771|the iniquity]] [[Lexicon/H501-600#H567|of the Amorites]] [[Lexicon/H3801-3900#H3808|[is] not]] [[Lexicon/H5701-5800#H5704|yet]] [[Lexicon/H2001-2100#H2008|...]] [[Lexicon/H8001-8100#H8003|complete. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 16|LXX]] |
 
 ##### Genesis 15 - 17
 [[Lexicon/H8101-8200#H8121|When the sun]] [[Lexicon/H901-1000#H935|had set]] [[Lexicon/H5901-6000#H5939|and darkness]] [[Lexicon/H1901-2000#H1961|had fallen ,]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H2001-2100#H2009|behold ,]] [[Lexicon/H6201-6300#H6227|a smoking]] [[Lexicon/H8501-8600#H8574|firepot]] [[Lexicon/H701-800#H784|and a flaming]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3901-4000#H3940|torch]] [[Lexicon/H5601-5700#H5674|appeared and passed]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H1501-1600#H1506|the halves]] [[Lexicon/H401-500#H428|[of the carcasses].]]
+=======
+[[Lexicon/H7201-7300#H7243|In the fourth]] [[Lexicon/H1701-1800#H1755|generation]] [[Lexicon/H7701-7800#H7725|(your descendants) will return]] [[Lexicon/H2001-2100#H2008|here ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H5701-5800#H5771|the iniquity]] [[Lexicon/H501-600#H567|of the Amorites]] [[Lexicon/H3801-3900#H3808|(is) not]] [[Lexicon/H5701-5800#H5704|yet]] [[Lexicon/H2001-2100#H2008|...]] [[Lexicon/H8001-8100#H8003|complete. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 16|LXX]] |
+
+##### Genesis 15 - 17
+[[Lexicon/H8101-8200#H8121|When the sun]] [[Lexicon/H901-1000#H935|had set]] [[Lexicon/H5901-6000#H5939|and darkness]] [[Lexicon/H1901-2000#H1961|had fallen ,]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H2001-2100#H2009|behold ,]] [[Lexicon/H6201-6300#H6227|a smoking]] [[Lexicon/H8501-8600#H8574|firepot]] [[Lexicon/H701-800#H784|and a flaming]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3901-4000#H3940|torch]] [[Lexicon/H5601-5700#H5674|appeared and passed]] [[Lexicon/H901-1000#H996|between]] [[Lexicon/H1501-1600#H1506|the halves]] [[Lexicon/H401-500#H428|(of the carcasses).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 15#Genesis 15 - 17|LXX]] |
 
 ##### Genesis 15 - 18

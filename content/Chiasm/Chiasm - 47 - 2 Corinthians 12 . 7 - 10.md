@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/47 - 2 Corinthians|← 2 Corinthians]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/47 - 2 Corinthians|← 2 Corinthians]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

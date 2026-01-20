@@ -39,7 +39,11 @@ Testament: Old
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3701-3800#G3735|of mountains]] [[Lexicon/G3701-3800#G3708|I shall see]] [[Lexicon/G1401-1500#G1473|him;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1001-1100#G1015|hills]] [[Lexicon/G4301-4400#G4357|I shall pay attention to]] [[Lexicon/G1401-1500#G1473|him.]] [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G2901-3000#G2992|a people]] [[Lexicon/G3401-3500#G3441|alone]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3701-3800#G3756|they shall not be reckoned together.]]
 
 #### Numbers 23 - 10
+<<<<<<< HEAD
 [[Lexicon/G5001-5100#G5100|Who]] [[Lexicon/G1801-1900#G1812|determined exactly]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4690|seed]] of Jacob, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5100|who]] [[Lexicon/G1801-1900#G1821|shall count out]] [[Lexicon/G1201-1300#G1218|peoples]] of Israel? [[Lexicon/G501-600#G0599|May die]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G5501-5600#G5590|souls]] [[Lexicon/G1301-1400#G1342|of the just,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1096|may become]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4690|seed]] [[Lexicon/G3701-3800#G3778|of this.]]
+=======
+[[Lexicon/G5001-5100#G5100|Who]] [[Lexicon/G1801-1900#G1812|determined exactly]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4690|seed]] of Jacob, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5100|who]] [[Lexicon/G1801-1900#G1821|shall count out]] [[Lexicon/G1201-1300#G1218|peoples]] of Israel? [[Lexicon/G501-600#G0599|May die]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G5501-5600#G5590|souls]] [[Lexicon/G1301-1400#G1342|of the just,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1096|may become]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4690|seed]] [[Lexicon/G3701-3800#G3778|of this.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Numbers 23 - 11
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|Balak said]] [[Lexicon/G4301-4400#G4314|to]] Balaam, [[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G4101-4200#G4160|have you done]] [[Lexicon/G1401-1500#G1473|to me?]] [[Lexicon/G1501-1600#G1519|For]] [[Lexicon/G2601-2700#G2672|a curse]] [[Lexicon/G2101-2200#G2190|for my enemies]] [[Lexicon/G2501-2600#G2564|I have called]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G2101-2200#G2127|you have blessed]] [[Lexicon/G2101-2200#G2129|a blessing.]]
@@ -66,7 +70,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G301-400#G0353|taking up]] [[Lexicon/G3801-3900#G3850|his parable,]] [[Lexicon/G2001-2100#G2036|he said,]] [[Lexicon/G401-500#G0450|Rise up,]] O Balak, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0191|hear!]] [[Lexicon/G1801-1900#G1801|Give ear,]] [[Lexicon/G3101-3200#G3144|O witness]] [[Lexicon/G5201-5300#G5207|son]] of Zippor!
 
 #### Numbers 23 - 19
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3756|is not]] [[Lexicon/G1201-1300#G1284|to waver,]] [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5201-5300#G5207|a son]] [[Lexicon/G401-500#G0444|of man]] [[Lexicon/G501-600#G0546|to be threatened.]] [[Lexicon/G1401-1500#G1473|He]] [[Lexicon/G2001-2100#G2036|in speaking,]] [[Lexicon/G3701-3800#G3780|shall he not]] [[Lexicon/G4101-4200#G4160|do?]] [[Lexicon/G2901-3000#G2980|Shall he speak,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3780|not]] [[Lexicon/G1601-1700#G1696|adhere to?]]
+=======
+[[Lexicon/G3701-3800#G3756|is not]] [[Lexicon/G1201-1300#G1284|to waver,]] [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5201-5300#G5207|a son]] [[Lexicon/G401-500#G0444|of man]] [[Lexicon/G501-600#G0546|to be threatened.]] [[Lexicon/G1401-1500#G1473|He]] [[Lexicon/G2001-2100#G2036|in speaking,]] [[Lexicon/G3701-3800#G3780|shall he not]] [[Lexicon/G4101-4200#G4160|do?]] [[Lexicon/G2901-3000#G2980|Shall he speak,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3780|not]] [[Lexicon/G1601-1700#G1696|adhere to?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Numbers 23 - 20
 [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G2101-2200#G2127|to bless]] [[Lexicon/G2101-2200#G2127|I will bless]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G601-700#G0654|shall I turn back.]]
@@ -75,13 +83,21 @@ Testament: Old
 [[Lexicon/G3701-3800#G3756|There shall not]] [[Lexicon/G1501-1600#G1510|be]] [[Lexicon/G3401-3500#G3449|trouble]] [[Lexicon/G1701-1800#G1722|in]] Jacob, [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G3701-3800#G3708|shall appear]] [[Lexicon/G1701-1800#G1722|in]] Israel. [[Lexicon/G2301-2400#G2316|his God]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1701-1800#G1741|honorable ones]] [[Lexicon/G701-800#G0758|of the rulers]] [[Lexicon/G1401-1500#G1473|him.]]
 
 #### Numbers 23 - 22
+<<<<<<< HEAD
 [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1801-1900#G1806|one leading]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1501-1600#G1537|out of]] Egypt; [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3401-3500#G3439|of his unicorn.]]
+=======
+[[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1801-1900#G1806|one leading]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1501-1600#G1537|out of]] Egypt; [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3401-3500#G3439|of his unicorn.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Numbers 23 - 23
 [[Lexicon/G3701-3800#G3756|no]] [[Lexicon/G3601-3700#G3634|omen]] [[Lexicon/G1701-1800#G1722|in]] Jacob, [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G3101-3200#G3131|divination]] [[Lexicon/G1701-1800#G1722|in]] Israel. [[Lexicon/G2501-2600#G2596|In]] [[Lexicon/G2501-2600#G2540|time]] [[Lexicon/G2001-2100#G2046|it shall be told]] to Jacob [[Lexicon/G2501-2600#G2532|and]] Israel [[Lexicon/G5001-5100#G5100|what]] [[Lexicon/G2001-2100#G2005|shall complete]]
 
 #### Numbers 23 - 24
+<<<<<<< HEAD
 [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4601-4700#G4661|a cub]] [[Lexicon/G401-500#G0450|shall raise up,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3001-3100#G3023|a lion]] [[Lexicon/G1001-1100#G1064|it shall prance;]] [[Lexicon/G3701-3800#G3756|It shall not]] [[Lexicon/G2801-2900#G2837|go to sleep]] [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G2001-2100#G2068|it shall eat]] [[Lexicon/G2301-2400#G2339|game,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5101-5200#G5134|of the slain]] [[Lexicon/G4001-4100#G4095|it shall drink.]]
+=======
+[[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4601-4700#G4661|a cub]] [[Lexicon/G401-500#G0450|shall raise up,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3001-3100#G3023|a lion]] [[Lexicon/G1001-1100#G1064|it shall prance;]] [[Lexicon/G3701-3800#G3756|It shall not]] [[Lexicon/G2801-2900#G2837|go to sleep]] [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G2001-2100#G2068|it shall eat]] [[Lexicon/G2301-2400#G2339|game,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5101-5200#G5134|of the slain]] [[Lexicon/G4001-4100#G4095|it shall drink.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Numbers 23 - 25
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|Balak said]] [[Lexicon/G4301-4400#G4314|to]] Balaam, [[Lexicon/G3701-3800#G3777|Neither]] [[Lexicon/G2601-2700#G2671|in curses]] [[Lexicon/G2601-2700#G2672|shall you curse]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G3701-3800#G3777|nor]] [[Lexicon/G2101-2200#G2127|blessings]] [[Lexicon/G3301-3400#G3361|shall you]] [[Lexicon/G2101-2200#G2127|bless]] [[Lexicon/G1401-1500#G1473|him.]]
@@ -96,7 +112,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3801-3900#G3880|Balak took]] Balaam [[Lexicon/G1901-2000#G1909|upon]] of Peor, [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3905|part extending]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2048|wilderness.]]
 
 #### Numbers 23 - 29
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|Balaam said]] [[Lexicon/G4301-4400#G4314|to]] Balak, [[Lexicon/G3601-3700#G3618|Build]] [[Lexicon/G1401-1500#G1473|for me]] [[Lexicon/G5601-5700#G5602|here]] [[Lexicon/G2001-2100#G2033|seven]] [[Lexicon/G1001-1100#G1041|shrines,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2090|prepare]] [[Lexicon/G1401-1500#G1473|for me]] [[Lexicon/G5601-5700#G5602|here]] [[Lexicon/G2001-2100#G2033|seven]] [[Lexicon/G3401-3500#G3448|calves,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2033|seven]] [[Lexicon/G2901-3000#G2919|rams!]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|Balaam said]] [[Lexicon/G4301-4400#G4314|to]] Balak, [[Lexicon/G3601-3700#G3618|Build]] [[Lexicon/G1401-1500#G1473|for me]] [[Lexicon/G5601-5624#G5602|here]] [[Lexicon/G2001-2100#G2033|seven]] [[Lexicon/G1001-1100#G1041|shrines,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2090|prepare]] [[Lexicon/G1401-1500#G1473|for me]] [[Lexicon/G5601-5624#G5602|here]] [[Lexicon/G2001-2100#G2033|seven]] [[Lexicon/G3401-3500#G3448|calves,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2033|seven]] [[Lexicon/G2901-3000#G2919|rams!]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Numbers 23 - 30
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4160|Balak did]] [[Lexicon/G2501-2600#G2509|just as]] [[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0399|he bore]] [[Lexicon/G3401-3500#G3448|a calf]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2919|a ram]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1041|shrine.]]

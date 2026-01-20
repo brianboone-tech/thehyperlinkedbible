@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 3 John-R 1
 
 **[[Home/Scripture/64 - 3 John|3 John]]**
 
 [[Readable Bible/63 - 2 John/2 John 1#2 John-R 1| 2 John 1]]
+=======
+# 3 John 1
+
+[[Readable Bible/63 - 2 John/2 John 1|2 John 1 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

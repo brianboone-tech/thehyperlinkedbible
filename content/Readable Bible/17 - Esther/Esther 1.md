@@ -5,12 +5,18 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Esther-R 1
 
 **[[Home/Scripture/17 - Esther|Esther]]**
 
 
 [[Readable Bible/17 - Esther/Esther 3#Esther-R 2| Esther 2]]
+=======
+# Esther 1
+
+[[Readable Bible/17 - Esther/Esther 3|Esther 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

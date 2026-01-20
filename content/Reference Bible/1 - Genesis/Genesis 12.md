@@ -37,11 +37,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 12#Genesis 12 - 6|LXX]] |
 
 ##### Genesis 12 - 7
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H7101-7200#H7200|appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H87|Abram]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H5401-5500#H5414|“ I will give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H701-800#H776|land]] [[Lexicon/H2201-2300#H2233|to your offspring. ”]] [[Lexicon/H1101-1200#H1129|So [Abram] built]] [[Lexicon/H4101-4200#H4196|an altar]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7101-7200#H7200|who had appeared]] [[Lexicon/H401-500#H413|to him.]]
 | [[LXX Reference/1 - Genesis/Genesis 12#Genesis 12 - 7|LXX]] |
 
 ##### Genesis 12 - 8
 [[Lexicon/H8001-8100#H8033|From there]] [[Lexicon/H6201-6300#H6275|[Abram] moved on]] [[Lexicon/H2001-2100#H2022|to the hill country]] [[Lexicon/H6901-7000#H6924|east]] [[Lexicon/H1001-1100#H1008|of]] [[Lexicon/H1001-1100#H1008|Bethel]] [[Lexicon/H5101-5200#H5186|and pitched]] [[Lexicon/H101-200#H168|his tent ,]] [[Lexicon/H1001-1100#H1008|with Bethel]] [[Lexicon/H1001-1100#H1008|...]] [[Lexicon/H3201-3300#H3220|to the west]] [[Lexicon/H5801-5900#H5857|and Ai]] [[Lexicon/H6901-7000#H6924|to the east.]] [[Lexicon/H8001-8100#H8033|There]] [[Lexicon/H1101-1200#H1129|he built]] [[Lexicon/H4101-4200#H4196|an altar]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7101-7200#H7121|and he called]] [[Lexicon/H8001-8100#H8034|on the name]] [[Lexicon/H3001-3100#H3068|of the LORD.]]
+=======
+[[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H7101-7200#H7200|appeared]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H87|Abram]] [[Lexicon/H501-600#H559|and said ,]] [[Lexicon/H5401-5500#H5414|“ I will give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H701-800#H776|land]] [[Lexicon/H2201-2300#H2233|to your offspring. ”]] [[Lexicon/H1101-1200#H1129|So (Abram) built]] [[Lexicon/H4101-4200#H4196|an altar]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7101-7200#H7200|who had appeared]] [[Lexicon/H401-500#H413|to him.]]
+| [[LXX Reference/1 - Genesis/Genesis 12#Genesis 12 - 7|LXX]] |
+
+##### Genesis 12 - 8
+[[Lexicon/H8001-8100#H8033|From there]] [[Lexicon/H6201-6300#H6275|(Abram) moved on]] [[Lexicon/H2001-2100#H2022|to the hill country]] [[Lexicon/H6901-7000#H6924|east]] [[Lexicon/H1001-1100#H1008|of]] [[Lexicon/H1001-1100#H1008|Bethel]] [[Lexicon/H5101-5200#H5186|and pitched]] [[Lexicon/H101-200#H168|his tent ,]] [[Lexicon/H1001-1100#H1008|with Bethel]] [[Lexicon/H1001-1100#H1008|...]] [[Lexicon/H3201-3300#H3220|to the west]] [[Lexicon/H5801-5900#H5857|and Ai]] [[Lexicon/H6901-7000#H6924|to the east.]] [[Lexicon/H8001-8100#H8033|There]] [[Lexicon/H1101-1200#H1129|he built]] [[Lexicon/H4101-4200#H4196|an altar]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7101-7200#H7121|and he called]] [[Lexicon/H8001-8100#H8034|on the name]] [[Lexicon/H3001-3100#H3068|of the LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 12#Genesis 12 - 8|LXX]] |
 
 ##### Genesis 12 - 9
@@ -53,7 +61,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 12#Genesis 12 - 10|LXX]] |
 
 ##### Genesis 12 - 11
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H801-900#H834|As]] [[Lexicon/H7101-7200#H7126|he was about]] [[Lexicon/H901-1000#H935|to enter]] [[Lexicon/H4701-4800#H4714|Egypt ,]] [[Lexicon/H501-600#H559|he said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H801-900#H802|his wife]] [[Lexicon/H8201-8300#H8297|Sarai ,]] [[Lexicon/H2001-2100#H2009|“ Look ,]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H3001-3100#H3045|I know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H3301-3400#H3303|[are] a beautiful]] [[Lexicon/H4701-4800#H4758|...]] [[Lexicon/H801-900#H802|woman ,]]
+=======
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H801-900#H834|As]] [[Lexicon/H7101-7200#H7126|he was about]] [[Lexicon/H901-1000#H935|to enter]] [[Lexicon/H4701-4800#H4714|Egypt ,]] [[Lexicon/H501-600#H559|he said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H801-900#H802|his wife]] [[Lexicon/H8201-8300#H8297|Sarai ,]] [[Lexicon/H2001-2100#H2009|“ Look ,]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H3001-3100#H3045|I know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H3301-3400#H3303|(are) a beautiful]] [[Lexicon/H4701-4800#H4758|...]] [[Lexicon/H801-900#H802|woman ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 12#Genesis 12 - 11|LXX]] |
 
 ##### Genesis 12 - 12
@@ -69,7 +81,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 12#Genesis 12 - 14|LXX]] |
 
 ##### Genesis 12 - 15
+<<<<<<< HEAD
 [[Lexicon/H6501-6600#H6547|When Pharaoh’s]] [[Lexicon/H8201-8300#H8269|officials]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H801-900#H853|[Sarai] ,]] [[Lexicon/H1901-2000#H1984|they commended]] [[Lexicon/H801-900#H853|her]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6501-6600#H6547|[him] ,]] [[Lexicon/H801-900#H802|and she]] [[Lexicon/H3901-4000#H3947|was taken]] [[Lexicon/H1001-1100#H1004|into the palace]] [[Lexicon/H6501-6600#H6547|of Pharaoh.]]
+=======
+[[Lexicon/H6501-6600#H6547|When Pharaoh’s]] [[Lexicon/H8201-8300#H8269|officials]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H801-900#H853|(Sarai) ,]] [[Lexicon/H1901-2000#H1984|they commended]] [[Lexicon/H801-900#H853|her]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6501-6600#H6547|(him) ,]] [[Lexicon/H801-900#H802|and she]] [[Lexicon/H3901-4000#H3947|was taken]] [[Lexicon/H1001-1100#H1004|into the palace]] [[Lexicon/H6501-6600#H6547|of Pharaoh.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 12#Genesis 12 - 15|LXX]] |
 
 ##### Genesis 12 - 16
@@ -89,6 +105,10 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 12#Genesis 12 - 19|LXX]] |
 
 ##### Genesis 12 - 20
+<<<<<<< HEAD
 [[Lexicon/H6501-6600#H6547|Then Pharaoh]] [[Lexicon/H501-600#H582|gave his men]] [[Lexicon/H6601-6700#H6680|orders]] [[Lexicon/H5901-6000#H5921|concerning [Abram] ,]] [[Lexicon/H7901-8000#H7971|and they sent him away]] [[Lexicon/H801-900#H853|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H802|with his wife]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all his possessions]] [[Lexicon/H801-900#H834|-]]
+=======
+[[Lexicon/H6501-6600#H6547|Then Pharaoh]] [[Lexicon/H501-600#H582|gave his men]] [[Lexicon/H6601-6700#H6680|orders]] [[Lexicon/H5901-6000#H5921|concerning (Abram) ,]] [[Lexicon/H7901-8000#H7971|and they sent him away]] [[Lexicon/H801-900#H853|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H802|with his wife]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all his possessions]] [[Lexicon/H801-900#H834|-]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 12#Genesis 12 - 20|LXX]] |
 

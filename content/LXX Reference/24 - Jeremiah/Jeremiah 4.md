@@ -48,7 +48,11 @@ Testament: Old
 [[Lexicon/G4101-4200#G4151|A spirit]] [[Lexicon/G4101-4200#G4138|of fullness]] [[Lexicon/G2201-2300#G2240|shall come]] [[Lexicon/G1401-1500#G1473|to me;]] [[Lexicon/G3501-3600#G3568|but now]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G2901-3000#G2980|shall speak]] [[Lexicon/G2901-3000#G2917|my judgments]] [[Lexicon/G4301-4400#G4314|against]] [[Lexicon/G1401-1500#G1473|them.]]
 
 #### Jeremiah 4 - 13
+<<<<<<< HEAD
 [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3507|a cloud]] [[Lexicon/G301-400#G0305|he shall ascend,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2801-2900#G2893|Lighter than]] [[Lexicon/G101-200#G0105|eagles]] [[Lexicon/G3501-3600#G3588|are]] [[Lexicon/G2401-2500#G2462|his horses.]] [[Lexicon/G3701-3800#G3759|Woe]] [[Lexicon/G1401-1500#G1473|to us,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G5001-5100#G5003|we are in misery.]]
+=======
+[[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3507|a cloud]] [[Lexicon/G301-400#G0305|he shall ascend,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2801-2900#G2893|Lighter than]] [[Lexicon/G101-200#G0105|eagles]] [[Lexicon/G3501-3600#G3588|are]] [[Lexicon/G2401-2500#G2462|his horses.]] [[Lexicon/G3701-3800#G3759|Woe]] [[Lexicon/G1401-1500#G1473|to us,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G5001-5100#G5003|we are in misery.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 4 - 14
 [[Lexicon/G601-700#G0637|Wash]] O Jerusalem! [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G4901-5000#G4982|you should be delivered.]] [[Lexicon/G2101-2200#G2193|For]] [[Lexicon/G4201-4300#G4219|how long]] [[Lexicon/G5201-5300#G5224|shall]]
@@ -58,7 +62,11 @@ Testament: Old
 
 #### Jeremiah 4 - 16
 [[Lexicon/G301-400#G0363|Remind]] [[Lexicon/G1401-1500#G1484|nations!]] [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G301-400#G0312|announce]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem! [[Lexicon/G4901-5000#G4963|Confederacies]] [[Lexicon/G2001-2100#G2064|are come]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G1001-1100#G1093|a land]] [[Lexicon/G3101-3200#G3113|far off,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|they uttered]] 5 #### Jeremiah 4 - 17
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G5401-5500#G5442|ones guarding]] [[Lexicon/G1-100#G0068|a field]] [[Lexicon/G1001-1100#G1096|they have come]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G2901-3000#G2945|round about;]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1401-1500#G1473|you neglected me,]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]]
+=======
+[[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G5401-5500#G5442|ones guarding]] [[Lexicon/G1-100#G0068|a field]] [[Lexicon/G1001-1100#G1096|they have come]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G2901-3000#G2945|round about;]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1401-1500#G1473|you neglected me,]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 4 - 18
 [[Lexicon/G3501-3600#G3598|Your ways]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2006|your practices]] [[Lexicon/G4101-4200#G4160|did]] [[Lexicon/G3701-3800#G3778|these things]] [[Lexicon/G1401-1500#G1473|to you;]] [[Lexicon/G3701-3800#G3778|this is]] [[Lexicon/G2501-2600#G2549|your evil,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4001-4100#G4089|it is]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G601-700#G0680|it touched]] [[Lexicon/G2101-2200#G2193|unto]] [[Lexicon/G2501-2600#G2588|your heart.]]
@@ -100,4 +108,8 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G5001-5100#G5100|what]] [[Lexicon/G4101-4200#G4160|shall you do?]] [[Lexicon/G1401-1500#G1437|If]] [[Lexicon/G4001-4100#G4016|you should put on]] [[Lexicon/G2801-2900#G2847|scarlet,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2801-2900#G2885|should be adorned]] [[Lexicon/G2801-2900#G2889|with an ornament]] [[Lexicon/G5501-5600#G5557|of gold;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G1401-1500#G1472|you should rub]] [[Lexicon/G4701-4800#G4741|antimony on]] [[Lexicon/G3701-3800#G3788|your eyes,]]
 
 #### Jeremiah 4 - 31
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4701-4800#G4726|your moaning]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4401-4500#G4414|one giving birth for the first time.]] [[Lexicon/G5401-5500#G5456|The]] [[Lexicon/G2301-2400#G2364|of the]] of Zion [[Lexicon/G1501-1600#G1590|shall faint,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3629|saying]] [[Lexicon/G1401-1500#G1473|I,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G301-400#G0337|being done away with.]]
+=======
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4701-4800#G4726|your moaning]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4401-4500#G4414|one giving birth for the first time.]] [[Lexicon/G5401-5500#G5456|The]] [[Lexicon/G2301-2400#G2364|of the]] of Zion [[Lexicon/G1501-1600#G1590|shall faint,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3629|saying]] [[Lexicon/G1401-1500#G1473|I,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G301-400#G0337|being done away with.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

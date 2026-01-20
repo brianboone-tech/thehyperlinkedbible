@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Acts-R 21
 
 **[[Home/Scripture/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 20#Acts-R 20| Acts 20]] - [[Readable Bible/44 - Acts/Acts 22#Acts-R 22| Acts 22]]
+=======
+# Acts 21
+
+[[Readable Bible/44 - Acts/Acts 20|← Acts 20]] | [[Readable Bible/44 - Acts/Acts 22|Acts 22 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Acts 21 . 1
+<<<<<<< HEAD
 [[Reference Bible/44 - Acts/Acts 21#Acts 21 - 1|1]] After we had torn ourselves away from them, we sailed directly to Cos, and the next day on to Rhodes, and from there to Patara.   || [[Chiasm/Chiasm - 44 - Acts 21 . 01 - 16|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 21 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/44 - Acts/Acts 21#Acts 21 - 1|1]] After we had torn ourselves away from them, we sailed directly to Cos, and the next day on to Rhodes, and from there to Patara.  | | [[Chiasm/Chiasm - 44 - Acts 21 . 01 - 16|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 21 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Acts 21 . 2
 [[Reference Bible/44 - Acts/Acts 21#Acts 21 - 2|2]] Finding a ship crossing over to Phoenicia, we boarded it and set sail.  | [[Chiasm/Chiasm - 44 - Acts 21 . 01 - 16|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 21 - TOSK#Verse 2|TOSK]] |

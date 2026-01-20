@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Hebrews-R 5
 
 **[[Home/Scripture/58 - Hebrews|Hebrews]]**
 
 [[Readable Bible/58 - Hebrews/Hebrews 4#Hebrews-R 4| Hebrews 4]] - [[Readable Bible/58 - Hebrews/Hebrews 6#Hebrews-R 6| Hebrews 6]]
+=======
+# Hebrews 5
+
+[[Readable Bible/58 - Hebrews/Hebrews 4|← Hebrews 4]] | [[Readable Bible/58 - Hebrews/Hebrews 6|Hebrews 6 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

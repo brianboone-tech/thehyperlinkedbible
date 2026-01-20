@@ -19,7 +19,11 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H7601-7700#H7626|the scepter]] [[Lexicon/H7501-7600#H7562|of the wicked]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H5101-5200#H5117|rest]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H1401-1500#H1486|the land allotted]] [[Lexicon/H6601-6700#H6662|to the righteous ,]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H6601-6700#H6662|the righteous]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H7901-8000#H7971|put forth]] [[Lexicon/H3001-3100#H3027|their hands]] [[Lexicon/H5701-5800#H5766|to injustice.]]
 
 ##### Psalm 125 - 4
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3190|Do good ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H2801-2900#H2896|to [those who are] good ,]] [[Lexicon/H3401-3500#H3477|and to the upright]] [[Lexicon/H3801-3900#H3826|in heart.]]
+=======
+[[Lexicon/H3101-3200#H3190|Do good ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H2801-2900#H2896|to (those who are) good ,]] [[Lexicon/H3401-3500#H3477|and to the upright]] [[Lexicon/H3801-3900#H3826|in heart.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Psalm 125 - 5
 [[Lexicon/H5101-5200#H5186|But those who turn]] [[Lexicon/H6101-6200#H6128|to crooked ways]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H1901-2000#H1980|will banish]] [[Lexicon/H6401-6500#H6466|with the evildoers]] [[Lexicon/H201-300#H205|....]] [[Lexicon/H7901-8000#H7965|Peace]] [[Lexicon/H5901-6000#H5921|be upon]] [[Lexicon/H3401-3500#H3478|Israel.]]

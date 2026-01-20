@@ -13,7 +13,11 @@ cssClasses: lexicon
 [[Lexicon/H1101-1200#H1121|“ Son]] [[Lexicon/H101-200#H120|of man , ”]] [[Lexicon/H501-600#H559|He said]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H5901-6000#H5975|“ stand up]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H7201-7300#H7272|your feet]] [[Lexicon/H1601-1700#H1696|and I will speak]] [[Lexicon/H801-900#H853|to you. ”]]
 
 ##### Ezekiel 2 - 2
+<<<<<<< HEAD
 [[Lexicon/H801-900#H834|And as]] [[Lexicon/H1601-1700#H1696|He spoke]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H7301-7400#H7307|the Spirit]] [[Lexicon/H901-1000#H935|entered]] [[Lexicon/H5901-6000#H5975|and set me]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H7201-7300#H7272|my feet ,]] [[Lexicon/H8001-8100#H8085|and I heard]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1696|[Him] speaking]] [[Lexicon/H401-500#H413|to me.]]
+=======
+[[Lexicon/H801-900#H834|And as]] [[Lexicon/H1601-1700#H1696|He spoke]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H7301-7400#H7307|the Spirit]] [[Lexicon/H901-1000#H935|entered]] [[Lexicon/H5901-6000#H5975|and set me]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H7201-7300#H7272|my feet ,]] [[Lexicon/H8001-8100#H8085|and I heard]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1601-1700#H1696|(Him) speaking]] [[Lexicon/H401-500#H413|to me.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 2 - 3
 [[Lexicon/H1101-1200#H1121|“ Son]] [[Lexicon/H101-200#H120|of man , ”]] [[Lexicon/H501-600#H559|He said]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H501-600#H589|“ I]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|am sending]] [[Lexicon/H401-500#H413|you to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|... ,]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4701-4800#H4775|a rebellious]] [[Lexicon/H1401-1500#H1471|nation]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H4701-4800#H4775|has rebelled]] [[Lexicon/H5701-5800#H5704|To]] [[Lexicon/H6101-6200#H6106|...]] [[Lexicon/H2001-2100#H2088|this very]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H1901-2000#H1992|they]] [[Lexicon/H1-100#H1|and their fathers]] [[Lexicon/H6501-6600#H6586|have rebelled]]
@@ -37,5 +41,9 @@ cssClasses: lexicon
 [[Lexicon/H7101-7200#H7200|Then I looked]] [[Lexicon/H2001-2100#H2009|and saw]] [[Lexicon/H3001-3100#H3027|a hand]] [[Lexicon/H7901-8000#H7971|reaching out]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H2001-2100#H2009|and]] [[Lexicon/H4001-4100#H4039|was a scroll]] [[Lexicon/H5601-5700#H5612|... ,]]
 
 ##### Ezekiel 2 - 10
+<<<<<<< HEAD
 [[Lexicon/H6501-6600#H6566|which He unrolled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6440|before me.]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H3701-3800#H3789|And written]] [[Lexicon/H6401-6500#H6440|on the front]] [[Lexicon/H201-300#H268|and back]] [[Lexicon/H3701-3800#H3789|-]] [[Lexicon/H401-500#H413|of it]] [[Lexicon/H7001-7100#H7015|[were] words of lamentation ,]] [[Lexicon/H1801-1900#H1899|mourning ,]] [[Lexicon/H1901-2000#H1958|and woe.]]
+=======
+[[Lexicon/H6501-6600#H6566|which He unrolled]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6440|before me.]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H3701-3800#H3789|And written]] [[Lexicon/H6401-6500#H6440|on the front]] [[Lexicon/H201-300#H268|and back]] [[Lexicon/H3701-3800#H3789|-]] [[Lexicon/H401-500#H413|of it]] [[Lexicon/H7001-7100#H7015|(were) words of lamentation ,]] [[Lexicon/H1801-1900#H1899|mourning ,]] [[Lexicon/H1901-2000#H1958|and woe.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 

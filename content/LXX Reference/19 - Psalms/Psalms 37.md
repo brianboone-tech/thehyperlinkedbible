@@ -15,7 +15,11 @@ Testament: Old
 [[Lexicon/G3301-3400#G3361|Be not]] [[Lexicon/G3801-3900#G3863|provoked to jealousy]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G4101-4200#G4188|ones acting wickedly,]] [[Lexicon/G3301-3400#G3366|nor]] [[Lexicon/G2201-2300#G2206|be jealous]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4101-4200#G4160|ones doing]] [[Lexicon/G401-500#G0458|lawlessness!]]
 
 #### Psalms 37 - 2
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G3001-3100#G3001|vegetation]] [[Lexicon/G5501-5600#G5514|of tender shoots]] [[Lexicon/G5001-5100#G5036|they shall quickly]] [[Lexicon/G601-700#G0634|fall away.]]
+=======
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G3001-3100#G3001|vegetation]] [[Lexicon/G5501-5600#G5514|of tender shoots]] [[Lexicon/G5001-5100#G5036|they shall quickly]] [[Lexicon/G601-700#G0634|fall away.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 37 - 3
 [[Lexicon/G1601-1700#G1679|Hope]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|execute]] [[Lexicon/G5501-5600#G5544|graciousness!]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2601-2700#G2681|encamp]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G1001-1100#G1093|land!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4165|you shall be tended]] [[Lexicon/G1901-2000#G1909|by]] [[Lexicon/G4101-4200#G4149|its riches.]]
@@ -27,13 +31,21 @@ Testament: Old
 [[Lexicon/G601-700#G0601|Reveal]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3501-3600#G3598|your way,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1601-1700#G1679|hope]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|him!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|he]] [[Lexicon/G4101-4200#G4160|will act.]]
 
 #### Psalms 37 - 6
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1601-1700#G1627|he shall bring forth]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2917|your practice]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3301-3400#G3314|at midday.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1601-1700#G1627|he shall bring forth]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2917|your practice]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3301-3400#G3314|at midday.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 37 - 7
 [[Lexicon/G5201-5300#G5293|Submit]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2401-2500#G2427|entreat]] [[Lexicon/G1401-1500#G1473|him!]] [[Lexicon/G3301-3400#G3361|Be not]] [[Lexicon/G3801-3900#G3863|provoked to jealousy]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2720|prospering]] [[Lexicon/G1701-1800#G1722|in]]
 
 #### Psalms 37 - 8
+<<<<<<< HEAD
 [[Lexicon/G3901-4000#G3973|Cease]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3701-3800#G3709|anger,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1459|abandon]] [[Lexicon/G2301-2400#G2372|rage!]] [[Lexicon/G3301-3400#G3361|Be not]] [[Lexicon/G3801-3900#G3863|provoked to jealousy]] [[Lexicon/G5601-5700#G5620|so as to]] [[Lexicon/G4101-4200#G4188|do wicked!]]
+=======
+[[Lexicon/G3901-4000#G3973|Cease]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3701-3800#G3709|anger,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1459|abandon]] [[Lexicon/G2301-2400#G2372|rage!]] [[Lexicon/G3301-3400#G3361|Be not]] [[Lexicon/G3801-3900#G3863|provoked to jealousy]] [[Lexicon/G5601-5624#G5620|so as to]] [[Lexicon/G4101-4200#G4188|do wicked!]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 37 - 9
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G4101-4200#G4188|doing wicked]] [[Lexicon/G1801-1900#G1842|shall be utterly destroyed;]] [[Lexicon/G3501-3600#G3588|but the ones]] [[Lexicon/G5201-5300#G5278|waiting on]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G2801-2900#G2816|shall inherit]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land.]]
@@ -114,7 +126,11 @@ Testament: Old
 [[Lexicon/G5201-5300#G5278|Wait]] [[Lexicon/G3501-3600#G3588|on the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5442|guard]] [[Lexicon/G3501-3600#G3598|his way!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5312|he shall exalt]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2601-2700#G2624|to inherit]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G1801-1900#G1842|being utterly destroyed]]
 
 #### Psalms 37 - 35
+<<<<<<< HEAD
 [[Lexicon/G1401-1500#G1492|I beheld]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0765|impious]] [[Lexicon/G5201-5300#G5251|being greatly exalted,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1869|being lifted up]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2748|cedars]] of Lebanon.
+=======
+[[Lexicon/G1401-1500#G1492|I beheld]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0765|impious]] [[Lexicon/G5201-5300#G5251|being greatly exalted,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1869|being lifted up]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2748|cedars]] of Lebanon.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 37 - 36
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3928|I went by,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G3701-3800#G3756|he was not.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2201-2300#G2212|I sought]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|was not]]

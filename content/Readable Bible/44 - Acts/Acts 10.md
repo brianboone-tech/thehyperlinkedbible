@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Acts-R 10
 
 **[[Home/Scripture/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 9#Acts-R 9| Acts 9]] - [[Readable Bible/44 - Acts/Acts 11#Acts-R 11| Acts 11]]
+=======
+# Acts 10
+
+[[Readable Bible/44 - Acts/Acts 9|← Acts 9]] | [[Readable Bible/44 - Acts/Acts 11|Acts 11 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Acts 10 . 1
+<<<<<<< HEAD
 [[Reference Bible/44 - Acts/Acts 10#Acts 10 - 1|1]] At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment.   || [[Chiasm/Chiasm - 44 - Acts 10 . 01 - 22|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 10 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/44 - Acts/Acts 10#Acts 10 - 1|1]] At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment.  | | [[Chiasm/Chiasm - 44 - Acts 10 . 01 - 22|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 10 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Acts 10 . 2
 [[Reference Bible/44 - Acts/Acts 10#Acts 10 - 2|2]] He and all his household were devout and God-fearing. He gave generously to the people and prayed to God regularly.  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 10.2 to 1 Chronicles 5.6|IP]] | [[Chiasm/Chiasm - 44 - Acts 10 . 01 - 22|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 10 - TOSK#Verse 2|TOSK]] |

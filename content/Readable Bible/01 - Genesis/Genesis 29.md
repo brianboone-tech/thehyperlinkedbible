@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Genesis-R 29
 
 **[[Home/Scripture/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 28#Genesis-R 28| Genesis 28]] - [[Readable Bible/01 - Genesis/Genesis 30#Genesis-R 30| Genesis 30]]
+=======
+# Genesis 29
+
+[[Readable Bible/01 - Genesis/Genesis 28|← Genesis 28]] | [[Readable Bible/01 - Genesis/Genesis 30|Genesis 30 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

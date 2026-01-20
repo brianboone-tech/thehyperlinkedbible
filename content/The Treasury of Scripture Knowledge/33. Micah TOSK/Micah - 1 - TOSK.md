@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Micah 1 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/33 - Micah|← Micah]]** | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 2 - TOSK|Ch 2 →]]
+=======
+**[[Home/Indexes/Readable Bible/33 - Micah|← Micah]]** | [[The Treasury of Scripture Knowledge/33. Micah TOSK/Micah - 2 - TOSK|Ch 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## ESAU (THE PROFANE PERSON) TRAJECTORY TABLE
 
 Esau represents a **negative type** of those who despise their spiritual inheritance and prioritize immediate, fleshly gratification over covenant blessings. As a **backward-looking providential type**, his significance is recognized retrospectively from the vantage point of New Testament revelation (Hebrews 12:16-17; Romans 9:13). Unlike Jacob, who valued spiritual things and wrestled for God's blessing, Esau demonstrates the tragic pattern of profanity—treating sacred privileges with contempt and forfeiting eternal blessing for temporary satisfaction.
@@ -6,6 +14,7 @@ Esau represents a **negative type** of those who despise their spiritual inherit
 
 **Fairbairn's Principle**: Esau exemplifies the danger of presuming upon natural advantages (birthright, physical descent) while despising the spiritual element essential to covenant membership. His case teaches that "mere natural descent and priority of birth was not here the principal, but only the secondary thing, and that higher and more important than any natural advantage was the grace of God manifesting itself in the faith and holiness of men."
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Type - Birth and Election** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 25#Genesis 25 . 22\|Genesis 25:22-23]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/01 - Genesis 25.22-23\|Genesis 25:22-23]] | Twin sons struggle in womb. Divine oracle declares "the older will serve the younger"—election before birth, independent of works. God's sovereign choice establishes Jacob (younger) over Esau (older). | |
@@ -21,6 +30,46 @@ Esau represents a **negative type** of those who despise their spiritual inherit
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Type - Birth and Election** | [[Readable Bible/01 - Genesis/Genesis 25#Genesis 25 . 22\|Genesis 25:22-23]] | Twin sons struggle in womb. Divine oracle declares "the older will serve the younger"—election before birth, independent of works. God's sovereign choice establishes Jacob (younger) over Esau (older). | [[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/01 - Genesis 25.22-23\|Genesis 25:22-23]] |
+| 2 | **OT Development - Despising the Birthright** | [[Readable Bible/01 - Genesis/Genesis 25#Genesis 25 . 29\|Genesis 25:29-34]] | Esau sells birthright for single meal of lentil stew. Genesis 25:34: "Thus Esau despised his birthright." Immediate gratification valued above spiritual inheritance. Profane attitude toward sacred privilege. | [[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/01 - Genesis 25.29-34\|Genesis 25:29-34]] |
+| 3 | **OT Crisis - Lost Blessing** | [[Readable Bible/01 - Genesis/Genesis 27#Genesis 27 . 30\|Genesis 27:30-40]] | Isaac intends to bless Esau despite divine oracle. Jacob (through deception) receives covenant blessing. Esau arrives too late—blessing irrevocably given to Jacob. Natural priority overruled by divine election. | [[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/01 - Genesis 27.30-40\|Genesis 27:30-40]] |
+| 4 | **OT Consequence - Seeking with Tears** | [[Readable Bible/01 - Genesis/Genesis 27#Genesis 27 . 34\|Genesis 27:34-38]] | Esau cries "with an exceedingly great and bitter cry" (27:34). Seeks blessing earnestly with tears (27:38). No genuine repentance for despising birthright—only regret for lost advantage. Too late for reversal. | [[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/01 - Genesis 27.34-38\|Genesis 27:34-38]] |
+| 5 | **OT Aftermath - Worldly Character** | [[Readable Bible/01 - Genesis/Genesis 26#Genesis 26 . 34\|Genesis 26:34-35]]; [[Readable Bible/01 - Genesis/Genesis 28#Genesis 28 . 8\|Genesis 28:8-9]] | Esau marries Canaanite women, bringing grief to Isaac and Rebekah (26:35). Shows disregard for covenant holiness. Worldly alliances demonstrate profane character—valuing natural over spiritual. | [[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/01 - Genesis 26.34-35\|Genesis 26:34-35]] |
+| 6 | **Prophetic Interpretation - Malachi's Declaration** | [[Readable Bible/39 - Malachi/Malachi 1#Malachi 1 . 2\|Malachi 1:2-3]] | "Jacob I have loved, but Esau I have hated" (Mal 1:2-3). Divine election expressed in covenantal love/hate language. Edom (Esau's descendants) experiences judgment. God's sovereign choice vindicated in history. | [[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/39 - Malachi 1.2-3\|Malachi 1:2-3]] |
+| 7 | **NT Interpretation - Election** | [[Readable Bible/45 - Romans/Romans 9#Romans 9 . 10\|Romans 9:10-13]] | Paul cites Jacob/Esau to demonstrate sovereign election. "Before twins were born or had done anything good or bad" (Rom 9:11). Election based on God's purpose, not human works or merit. Esau represents reprobate. **CRITICAL:** [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 9.10-13 to Genesis 25.23\|Romans 9:10-13 to Genesis 25:23]] | [[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/45 - Romans 9.10-13\|Romans 9:10-13]] |
+| 8 | **NT Warning - Profane Example** | [[Readable Bible/58 - Hebrews/Hebrews 12#Hebrews 12 . 16\|Hebrews 12:16]] | "See to it that no one is sexually immoral, or is godless like Esau, who for a single meal sold his birthright" (Heb 12:16). Esau labeled **profane/godless** (βέβηλος). Warning against despising spiritual inheritance for temporal pleasure. **CRITICAL:** [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 12.16-17 to Genesis 25.29-34\|Hebrews 12:16-17 to Genesis 25:29-34]] | [[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/58 - Hebrews 12.16\|Hebrews 12:16]] |
+| 9 | **NT Application - No Second Repentance** | [[Readable Bible/58 - Hebrews/Hebrews 12#Hebrews 12 . 17\|Hebrews 12:17]] | "Afterward, when he wanted to inherit the blessing, he was rejected. He could find no ground for repentance, though he sought the blessing with tears" (Heb 12:17). Warning: opportunity for repentance has limits. Tears without true repentance ineffective. Irrevocable consequences. | [[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/58 - Hebrews 12.17\|Hebrews 12:17]] |
+| 10 | **Eschatological - Final Separation** | [[Readable Bible/66 - Revelation/Revelation 20#Revelation 20 . 15\|Revelation 20:15]]; [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 8\|Revelation 21:8]] | Final judgment separates elect from reprobate eternally. Those who despise spiritual inheritance cast into lake of fire (Rev 20:15). Contrast: Jacob's elect inherit New Jerusalem (Rev 21:7), while profane excluded (Rev 21:8). | [[Trajectory Tables - Foundation Texts/Esau (The Profane Person)/66 - Revelation 20.15\|Revelation 20:15]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+**01 - Genesis**
+
+- [[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 25.22 to Hosea 12.3\|Genesis 25:22 to Hosea 12.3]] - Hosea recalls Jacob's struggle from womb, establishing prophetic trajectory of election.
+
+- [[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 25.26 to Hosea 12.3\|Genesis 25:26 to Hosea 12.3]] - Jacob grasping Esau's heel foreshadows divine election overturning natural priority.
+
+- [[Intertextuality Pairs/OT to OT/39 - Malachi/Malachi 1.2-3 to Genesis 25\|Malachi 1:2-3 to Genesis 25]] - Malachi interprets election of Jacob over Esau as covenantal love versus hatred.
+
+### NT to OT
+
+**45 - Romans**
+
+- [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 9.10-13 to Genesis 25.23\|Romans 9:10-13 to Genesis 25:23]] - **CRITICAL:** Paul uses Jacob/Esau to demonstrate unconditional election. Before birth, before works (good or bad), God's sovereign purpose chose Jacob over Esau. This exemplifies election based on God's will alone, not human merit. Romans 9:13 quotes Malachi 1:2-3 to show covenant love/hate fulfilled in history. Esau represents those passed over in God's elective decree—not based on foreseen wickedness, but sovereign choice for His glory.
+
+**58 - Hebrews**
+
+- [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 12.16-17 to Genesis 25.29-34\|Hebrews 12:16-17 to Genesis 25:29-34]] - **CRITICAL:** Hebrews labels Esau "profane" (βέβηλος—godless, treating sacred things as common). Despising birthright for single meal exemplifies those who trade eternal inheritance for temporal pleasure. Hebrews 12:17 warns that Esau's later tears were unavailing—he "found no place for repentance" (μετάνοια). Not that God refused to forgive genuine repentance, but that Esau's emotion was mere regret for lost advantage, not true turning from profanity. Irreversible consequences demonstrate that presuming on grace while despising covenant privileges leads to final loss.
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 **1. What You Must Do:**

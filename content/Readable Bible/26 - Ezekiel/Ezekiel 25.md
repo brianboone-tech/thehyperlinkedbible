@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 25
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 24#Ezekiel-R 24| Ezekiel 24]] - [[Readable Bible/26 - Ezekiel/Ezekiel 26#Ezekiel-R 26| Ezekiel 26]]
+=======
+# Ezekiel 25
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 24|← Ezekiel 24]] | [[Readable Bible/26 - Ezekiel/Ezekiel 26|Ezekiel 26 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

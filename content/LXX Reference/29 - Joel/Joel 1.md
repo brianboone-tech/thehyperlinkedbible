@@ -27,7 +27,11 @@ Testament: Old
 [[Lexicon/G1501-1600#G1594|Sober up,]] [[Lexicon/G3501-3600#G3588|O ones]] [[Lexicon/G3101-3200#G3184|being intoxicated]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3601-3700#G3631|their wine!]] [[Lexicon/G2701-2800#G2799|Weep]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2354|wail]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4001-4100#G4095|drinking]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3631|wine]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G3101-3200#G3178|intoxication!]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1801-1900#G1808|it was lifted away]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G4701-4800#G4750|your mouth.]]
 
 #### Joel 1 - 6
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1401-1500#G1484|a nation]] [[Lexicon/G301-400#G0305|ascended]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1001-1100#G1093|my land,]] [[Lexicon/G2401-2500#G2478|one strong]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0382|innumerable.]] [[Lexicon/G3501-3600#G3599|His teeth]] [[Lexicon/G3501-3600#G3599|teeth]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3401-3500#G3456|his molars]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4601-4700#G4661|cubs.]]
+=======
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1401-1500#G1484|a nation]] [[Lexicon/G301-400#G0305|ascended]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1001-1100#G1093|my land,]] [[Lexicon/G2401-2500#G2478|one strong]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0382|innumerable.]] [[Lexicon/G3501-3600#G3599|His teeth]] [[Lexicon/G3501-3600#G3599|teeth]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3401-3500#G3456|his molars]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4601-4700#G4661|cubs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Joel 1 - 7
 [[Lexicon/G5001-5100#G5087|He appointed]] [[Lexicon/G201-300#G0288|my grapevine]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G801-900#G0854|extinction,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4801-4900#G4808|my fig-trees]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G4701-4800#G4787|a splinter.]] [[Lexicon/G2001-2100#G2045|In searching]] [[Lexicon/G1801-1900#G1830|he searched]] [[Lexicon/G1401-1500#G1473|it,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4401-4500#G4495|tossed it down;]] [[Lexicon/G3001-3100#G3021|he whitened]] [[Lexicon/G2801-2900#G2814|its branches.]]
@@ -54,7 +58,11 @@ Testament: Old
 [[Lexicon/G1-100#G0037|Sanctify]] [[Lexicon/G3501-3600#G3521|a fast!]] [[Lexicon/G2701-2800#G2784|Proclaim]] [[Lexicon/G2301-2400#G2322|a sacred service!]] [[Lexicon/G4801-4900#G4863|Bring together]] [[Lexicon/G4201-4300#G4245|elders!]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2701-2800#G2730|dwelling]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land,]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G2301-2400#G2316|your God.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2801-2900#G2896|cry out]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1601-1700#G1619|fervently!]]
 
 #### Joel 1 - 15
+<<<<<<< HEAD
 [[Lexicon/G3601-3700#G3629|Woe,]] [[Lexicon/G3601-3700#G3629|woe,]] [[Lexicon/G3601-3700#G3629|woe]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1401-1500#G1451| is near]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5001-5100#G5004|misery]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G5001-5100#G5004|misery,]] [[Lexicon/G2201-2300#G2240|it shall come.]]
+=======
+[[Lexicon/G3601-3700#G3629|Woe,]] [[Lexicon/G3601-3700#G3629|woe,]] [[Lexicon/G3601-3700#G3629|woe]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1401-1500#G1451| is near]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5001-5100#G5004|misery]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G5001-5100#G5004|misery,]] [[Lexicon/G2201-2300#G2240|it shall come.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Joel 1 - 16
 [[Lexicon/G3701-3800#G3780|Were not]] [[Lexicon/G2701-2800#G2713|in front of]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G2301-2400#G2316|of your God]] [[Lexicon/G2101-2200#G2167|gladness]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5479|joy?]]
@@ -66,7 +74,14 @@ Testament: Old
 [[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G601-700#G0659|shall we put aside]] [[Lexicon/G1401-1500#G1438|for ourselves?]] [[Lexicon/G2701-2800#G2799|weep]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G3701-3800#G3756|no]] [[Lexicon/G5201-5300#G5224|exists]] [[Lexicon/G1401-1500#G1473|to them;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4168|flocks]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4201-4300#G4263|sheep]] [[Lexicon/G801-900#G0853|were obliterated.]]
 
 #### Joel 1 - 19
+<<<<<<< HEAD
 [[Lexicon/G4301-4400#G4314|To]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G901-1000#G0994|we shall yell.]] [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G301-400#G0355|consumed]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5601-5700#G5611|beautiful things]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2001-2100#G2048|wilderness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5395|a flame]] [[Lexicon/G2601-2700#G2618|incinerated]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3586|trees]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1-100#G0068|field.]]
 
 #### Joel 1 - 20
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2934|cattle]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3901-4000#G3977|plain]] [[Lexicon/G301-400#G0308|look up]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G3501-3600#G3583|were dried up]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G2701-2800#G2719|devoured]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5601-5700#G5611|beautiful things]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2001-2100#G2048|wilderness.]]
+=======
+[[Lexicon/G4301-4400#G4314|To]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G901-1000#G0994|we shall yell.]] [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G301-400#G0355|consumed]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5601-5624#G5611|beautiful things]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2001-2100#G2048|wilderness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5395|a flame]] [[Lexicon/G2601-2700#G2618|incinerated]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3586|trees]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1-100#G0068|field.]]
+
+#### Joel 1 - 20
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2934|cattle]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3901-4000#G3977|plain]] [[Lexicon/G301-400#G0308|look up]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G3501-3600#G3583|were dried up]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G2701-2800#G2719|devoured]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5601-5624#G5611|beautiful things]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2001-2100#G2048|wilderness.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

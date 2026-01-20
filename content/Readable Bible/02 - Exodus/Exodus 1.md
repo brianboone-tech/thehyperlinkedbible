@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Exodus-R 1
 
 **[[Home/Scripture/02 - Exodus|Exodus]]**
 
 [[Readable Bible/01 - Genesis/Genesis 50#Genesis-R 50| Genesis 50]] - [[Readable Bible/02 - Exodus/Exodus 2#Exodus-R 2| Exodus 2]]
+=======
+# Exodus 1
+
+[[Readable Bible/01 - Genesis/Genesis 50|← Genesis 50]] | [[Readable Bible/02 - Exodus/Exodus 2|Exodus 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

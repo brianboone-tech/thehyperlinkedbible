@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jeremiah-R 24
 
 **[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 23#Jeremiah-R 23| Jeremiah 23]] - [[Readable Bible/24 - Jeremiah/Jeremiah 25#Jeremiah-R 25| Jeremiah 25]]
+=======
+# Jeremiah 24
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 23|← Jeremiah 23]] | [[Readable Bible/24 - Jeremiah/Jeremiah 25|Jeremiah 25 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

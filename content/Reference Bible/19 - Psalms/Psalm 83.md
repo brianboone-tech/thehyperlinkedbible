@@ -34,7 +34,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 83#Psalm 83 - 6|LXX]] |
 
 ##### Psalm 83 - 7
+<<<<<<< HEAD
 [[Lexicon/H1301-1400#H1381|[of] Gebal ,]] [[Lexicon/H5901-6000#H5983|Ammon ,]] [[Lexicon/H6001-6100#H6002|and Amalek ,]] [[Lexicon/H6401-6500#H6429|[of] Philistia]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H3401-3500#H3427|the people]] [[Lexicon/H6801-6900#H6865|of Tyre.]]
+=======
+[[Lexicon/H1301-1400#H1381|(of) Gebal ,]] [[Lexicon/H5901-6000#H5983|Ammon ,]] [[Lexicon/H6001-6100#H6002|and Amalek ,]] [[Lexicon/H6401-6500#H6429|(of) Philistia]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H3401-3500#H3427|the people]] [[Lexicon/H6801-6900#H6865|of Tyre.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 83#Psalm 83 - 7|LXX]] |
 
 ##### Psalm 83 - 8
@@ -46,7 +50,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 83#Psalm 83 - 9|LXX]] |
 
 ##### Psalm 83 - 10
+<<<<<<< HEAD
 [[Lexicon/H8001-8100#H8045|who perished]] [[Lexicon/H5801-5900#H5874|vvv]] [[Lexicon/H5801-5900#H5874|at Endor]] [[Lexicon/H1901-2000#H1961|and became]] [[Lexicon/H1801-1900#H1828|[like] dung]] [[Lexicon/H101-200#H127|on the ground.]]
+=======
+[[Lexicon/H8001-8100#H8045|who perished]] [[Lexicon/H5801-5900#H5874|vvv]] [[Lexicon/H5801-5900#H5874|at Endor]] [[Lexicon/H1901-2000#H1961|and became]] [[Lexicon/H1801-1900#H1828|(like) dung]] [[Lexicon/H101-200#H127|on the ground.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 83#Psalm 83 - 10|LXX]] |
 
 ##### Psalm 83 - 11

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Isaiah-R 42
 
 **[[Home/Scripture/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 41#Isaiah-R 41| Isaiah 41]] - [[Readable Bible/23 - Isaiah/Isaiah 43#Isaiah-R 43| Isaiah 43]]
+=======
+# Isaiah 42
+
+[[Readable Bible/23 - Isaiah/Isaiah 41|← Isaiah 41]] | [[Readable Bible/23 - Isaiah/Isaiah 43|Isaiah 43 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

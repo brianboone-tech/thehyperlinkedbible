@@ -33,7 +33,11 @@ Testament: Old
 [[Lexicon/G2201-2300#G2298|Show the wonder]] [[Lexicon/G1601-1700#G1656|of your mercies!]] [[Lexicon/G3501-3600#G3588|O]] [[Lexicon/G4901-5000#G4982|one delivering]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1601-1700#G1679|ones hoping]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G401-500#G0436|opposing]] [[Lexicon/G1101-1200#G1188|your right.]]
 
 #### Psalms 17 - 8
+<<<<<<< HEAD
 [[Lexicon/G5401-5500#G5442|Guard]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3701-3800#G3788|of the eye!]] [[Lexicon/G1701-1800#G1722|Under]] [[Lexicon/G4401-4500#G4420|of your wings]] [[Lexicon/G4601-4700#G4628|shelter]] [[Lexicon/G1401-1500#G1473|me!]]
+=======
+[[Lexicon/G5401-5500#G5442|Guard]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3701-3800#G3788|of the eye!]] [[Lexicon/G1701-1800#G1722|Under]] [[Lexicon/G4401-4500#G4420|of your wings]] [[Lexicon/G4601-4700#G4628|shelter]] [[Lexicon/G1401-1500#G1473|me!]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 17 - 9
 [[Lexicon/G701-800#G0765|of the impious]] [[Lexicon/G5001-5100#G5003|ones causing misery]] [[Lexicon/G1401-1500#G1473|for me.]] [[Lexicon/G2101-2200#G2190|My enemies]] [[Lexicon/G5501-5600#G5590|my soul]]
@@ -45,7 +49,11 @@ Testament: Old
 [[Lexicon/G1501-1600#G1544|They are casting me out]] [[Lexicon/G3501-3600#G3568|now;]] [[Lexicon/G4001-4100#G4033|they surrounded]] [[Lexicon/G1401-1500#G1473|me;]] [[Lexicon/G3701-3800#G3788|their eyes]] [[Lexicon/G5001-5100#G5087|set]] [[Lexicon/G1501-1600#G1578|to turn me]] [[Lexicon/G1701-1800#G1722|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|ground.]]
 
 #### Psalms 17 - 12
+<<<<<<< HEAD
 [[Lexicon/G5201-5300#G5274|they undertook]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G4601-4700#G4661|a cub]] [[Lexicon/G3601-3700#G3611|living]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G601-700#G0614|concealment.]]
+=======
+[[Lexicon/G5201-5300#G5274|they undertook]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G4601-4700#G4661|a cub]] [[Lexicon/G3601-3700#G3611|living]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G601-700#G0614|concealment.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 17 - 13
 [[Lexicon/G401-500#G0450|Rise up,]] [[Lexicon/G2901-3000#G2962|O lord!]] [[Lexicon/G4301-4400#G4399|Be there beforehand with]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5286|trip]] [[Lexicon/G1401-1500#G1473|them!]] [[Lexicon/G4501-4600#G4506|Rescue]] [[Lexicon/G5501-5600#G5590|my soul]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4501-4600#G4501|by your broadsword!]]

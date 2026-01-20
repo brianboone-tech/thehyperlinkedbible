@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jeremiah-R 42
 
 **[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 41#Jeremiah-R 41| Jeremiah 41]] - [[Readable Bible/24 - Jeremiah/Jeremiah 43#Jeremiah-R 43| Jeremiah 43]]
+=======
+# Jeremiah 42
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 41|← Jeremiah 41]] | [[Readable Bible/24 - Jeremiah/Jeremiah 43|Jeremiah 43 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

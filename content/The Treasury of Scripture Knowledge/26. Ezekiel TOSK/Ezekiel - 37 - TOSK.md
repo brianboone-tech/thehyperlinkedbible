@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Ezekiel 37 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 36 - TOSK|← Ch 36]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 38 - TOSK|Ch 38 →]]
+=======
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 36 - TOSK|← Ch 36]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 38 - TOSK|Ch 38 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

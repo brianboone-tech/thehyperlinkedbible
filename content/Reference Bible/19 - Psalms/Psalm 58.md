@@ -22,7 +22,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 58#Psalm 58 - 3|LXX]] |
 
 ##### Psalm 58 - 4
+<<<<<<< HEAD
 [[Lexicon/H2501-2600#H2534|Their venom]] [[Lexicon/H1801-1900#H1823|[is] like]] [[Lexicon/H2501-2600#H2534|the venom]] [[Lexicon/H5101-5200#H5175|of a snake ,]] [[Lexicon/H3601-3700#H3644|like]] [[Lexicon/H6601-6700#H6620|a cobra]] [[Lexicon/H2701-2800#H2795|that shuts]] [[Lexicon/H301-400#H331|...]] [[Lexicon/H201-300#H241|its ears ,]]
+=======
+[[Lexicon/H2501-2600#H2534|Their venom]] [[Lexicon/H1801-1900#H1823|(is) like]] [[Lexicon/H2501-2600#H2534|the venom]] [[Lexicon/H5101-5200#H5175|of a snake ,]] [[Lexicon/H3601-3700#H3644|like]] [[Lexicon/H6601-6700#H6620|a cobra]] [[Lexicon/H2701-2800#H2795|that shuts]] [[Lexicon/H301-400#H331|...]] [[Lexicon/H201-300#H241|its ears ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 58#Psalm 58 - 4|LXX]] |
 
 ##### Psalm 58 - 5
@@ -42,7 +46,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 58#Psalm 58 - 8|LXX]] |
 
 ##### Psalm 58 - 9
+<<<<<<< HEAD
 [[Lexicon/H2901-3000#H2962|Before]] [[Lexicon/H5501-5600#H5518|your pots]] [[Lexicon/H901-1000#H995|can feel]] [[Lexicon/H301-400#H329|[the burning] thorns —]] [[Lexicon/H2401-2500#H2416|whether green]] [[Lexicon/H3601-3700#H3644|or]] [[Lexicon/H3601-3700#H3644|...]] [[Lexicon/H2701-2800#H2740|dry —]] [[Lexicon/H8101-8200#H8175|He will sweep them away.]]
+=======
+[[Lexicon/H2901-3000#H2962|Before]] [[Lexicon/H5501-5600#H5518|your pots]] [[Lexicon/H901-1000#H995|can feel]] [[Lexicon/H301-400#H329|(the burning) thorns —]] [[Lexicon/H2401-2500#H2416|whether green]] [[Lexicon/H3601-3700#H3644|or]] [[Lexicon/H3601-3700#H3644|...]] [[Lexicon/H2701-2800#H2740|dry —]] [[Lexicon/H8101-8200#H8175|He will sweep them away.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 58#Psalm 58 - 9|LXX]] |
 
 ##### Psalm 58 - 10

@@ -10,10 +10,17 @@ cssClasses: lexicon
 ---
 
 ##### Job 31 - 1
+<<<<<<< HEAD
 [[Lexicon/H3701-3800#H3772|[“] I have made]] [[Lexicon/H1201-1300#H1285|a covenant]] [[Lexicon/H5801-5900#H5869|with my eyes.]] [[Lexicon/H4001-4100#H4100|How then]] [[Lexicon/H901-1000#H995|could I gaze [with desire]]] [[Lexicon/H5901-6000#H5921|at]] [[Lexicon/H1301-1400#H1330|a virgin ?]]
 
 ##### Job 31 - 2
 [[Lexicon/H4001-4100#H4100|For what [is]]] [[Lexicon/H2501-2600#H2506|the allotment]] [[Lexicon/H401-500#H433|of God]] [[Lexicon/H4601-4700#H4605|from above ,]] [[Lexicon/H5101-5200#H5159|or the heritage]] [[Lexicon/H7701-7800#H7706|from the Almighty]] [[Lexicon/H4701-4800#H4791|on high ?]]
+=======
+[[Lexicon/H3701-3800#H3772|(“) I have made]] [[Lexicon/H1201-1300#H1285|a covenant]] [[Lexicon/H5801-5900#H5869|with my eyes.]] [[Lexicon/H4001-4100#H4100|How then]] [[Lexicon/H901-1000#H995|could I gaze (with desire)]] [[Lexicon/H5901-6000#H5921|at]] [[Lexicon/H1301-1400#H1330|a virgin ?]]
+
+##### Job 31 - 2
+[[Lexicon/H4001-4100#H4100|For what (is)]] [[Lexicon/H2501-2600#H2506|the allotment]] [[Lexicon/H401-500#H433|of God]] [[Lexicon/H4601-4700#H4605|from above ,]] [[Lexicon/H5101-5200#H5159|or the heritage]] [[Lexicon/H7701-7800#H7706|from the Almighty]] [[Lexicon/H4701-4800#H4791|on high ?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 31 - 3
 [[Lexicon/H3801-3900#H3808|Does not]] [[Lexicon/H301-400#H343|disaster]] [[Lexicon/H5701-5800#H5767|come to the unjust]] [[Lexicon/H5201-5300#H5235|and calamity]] [[Lexicon/H6401-6500#H6466|to the workers]] [[Lexicon/H201-300#H205|of iniquity ?]]
@@ -37,10 +44,17 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H518|If]] [[Lexicon/H3801-3900#H3820|my heart]] [[Lexicon/H6601-6700#H6601|has been enticed]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H7401-7500#H7453|my neighbor’s]] [[Lexicon/H801-900#H802|wife ,]] [[Lexicon/H601-700#H693|or I have lurked]] [[Lexicon/H5901-6000#H5921|at]] [[Lexicon/H6601-6700#H6607|his door ,]]
 
 ##### Job 31 - 10
+<<<<<<< HEAD
 [[Lexicon/H801-900#H802|then may my own wife]] [[Lexicon/H2901-3000#H2912|grind [grain]]] [[Lexicon/H301-400#H312|for another ,]] [[Lexicon/H301-400#H312|and may other men]] [[Lexicon/H3701-3800#H3766|sleep]] [[Lexicon/H5901-6000#H5921|with her.]]
 
 ##### Job 31 - 11
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1931|that [would be]]] [[Lexicon/H2101-2200#H2154|a heinous crime ,]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H5701-5800#H5771|an iniquity]] [[Lexicon/H6401-6500#H6414|to be judged.]]
+=======
+[[Lexicon/H801-900#H802|then may my own wife]] [[Lexicon/H2901-3000#H2912|grind (grain)]] [[Lexicon/H301-400#H312|for another ,]] [[Lexicon/H301-400#H312|and may other men]] [[Lexicon/H3701-3800#H3766|sleep]] [[Lexicon/H5901-6000#H5921|with her.]]
+
+##### Job 31 - 11
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1931|that (would be)]] [[Lexicon/H2101-2200#H2154|a heinous crime ,]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H5701-5800#H5771|an iniquity]] [[Lexicon/H6401-6500#H6414|to be judged.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 31 - 12
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H701-800#H784|is a fire]] [[Lexicon/H301-400#H398|that burns]] [[Lexicon/H5701-5800#H5704|down to]] [[Lexicon/H1-100#H11|Abaddon ;]] [[Lexicon/H8301-8400#H8327|it would root out]] [[Lexicon/H3601-3700#H3605|my entire]] [[Lexicon/H8301-8400#H8393|harvest.]]
@@ -61,7 +75,11 @@ cssClasses: lexicon
 [[Lexicon/H301-400#H398|if I have eaten]] [[Lexicon/H6501-6600#H6595|my morsel]] [[Lexicon/H901-1000#H905|alone ,]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H301-400#H398|sharing]] [[Lexicon/H4401-4500#H4480|it]] [[Lexicon/H3401-3500#H3490|with the fatherless —]]
 
 ##### Job 31 - 18
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|though]] [[Lexicon/H5201-5300#H5271|from my youth]] [[Lexicon/H1401-1500#H1431|I reared him]] [[Lexicon/H1-100#H1|as would a father ,]] [[Lexicon/H501-600#H517|and from my mother’s]] [[Lexicon/H901-1000#H990|womb]] [[Lexicon/H5101-5200#H5148|I guided [the widow] —]]
+=======
+[[Lexicon/H3501-3600#H3588|though]] [[Lexicon/H5201-5300#H5271|from my youth]] [[Lexicon/H1401-1500#H1431|I reared him]] [[Lexicon/H1-100#H1|as would a father ,]] [[Lexicon/H501-600#H517|and from my mother’s]] [[Lexicon/H901-1000#H990|womb]] [[Lexicon/H5101-5200#H5148|I guided (the widow) —]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 31 - 19
 [[Lexicon/H501-600#H518|if]] [[Lexicon/H7101-7200#H7200|I have seen]] [[Lexicon/H1-100#H6|one perish]] [[Lexicon/H1001-1100#H1097|for lack]] [[Lexicon/H3801-3900#H3830|of clothing ,]] [[Lexicon/H1-100#H34|or a needy man]] [[Lexicon/H301-400#H369|without]] [[Lexicon/H3601-3700#H3682|a cloak ,]]
@@ -103,7 +121,11 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H518|if]] [[Lexicon/H4901-5000#H4962|the men]] [[Lexicon/H101-200#H168|of my house]] [[Lexicon/H3801-3900#H3808|have not]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H4301-4400#H4310|‘ Who]] [[Lexicon/H5401-5500#H5414|is there]] [[Lexicon/H1301-1400#H1320|...]] [[Lexicon/H3801-3900#H3808|who has not]] [[Lexicon/H7601-7700#H7646|had his fill ? ’—]]
 
 ##### Job 31 - 32
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|[but] no]] [[Lexicon/H1601-1700#H1616|stranger]] [[Lexicon/H3801-3900#H3885|had to lodge]] [[Lexicon/H2301-2400#H2351|on the street ,]] [[Lexicon/H1801-1900#H1817|for my door]] [[Lexicon/H6601-6700#H6605|has been open]] [[Lexicon/H701-800#H734|to the traveler —]]
+=======
+[[Lexicon/H3801-3900#H3808|(but) no]] [[Lexicon/H1601-1700#H1616|stranger]] [[Lexicon/H3801-3900#H3885|had to lodge]] [[Lexicon/H2301-2400#H2351|on the street ,]] [[Lexicon/H1801-1900#H1817|for my door]] [[Lexicon/H6601-6700#H6605|has been open]] [[Lexicon/H701-800#H734|to the traveler —]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 31 - 33
 [[Lexicon/H501-600#H518|if]] [[Lexicon/H3601-3700#H3680|I have covered]] [[Lexicon/H6501-6600#H6588|my transgressions]] [[Lexicon/H101-200#H120|like Adam]] [[Lexicon/H2901-3000#H2934|by hiding]] [[Lexicon/H5701-5800#H5771|my guilt]] [[Lexicon/H2201-2300#H2243|in my heart ,]]

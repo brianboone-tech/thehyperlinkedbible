@@ -57,10 +57,17 @@ Testament: Old
 [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G601-700#G0649|one sending]] [[Lexicon/G3001-3100#G3051|his oracle]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1001-1100#G1093|earth;]] [[Lexicon/G5001-5100#G5034|quickly]] [[Lexicon/G5101-5200#G5143|shall run]]
 
 #### Psalms 147 - 16
+<<<<<<< HEAD
 [[Lexicon/G1301-1400#G1325|yielding up]] [[Lexicon/G5501-5600#G5510|his snow]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G2001-2100#G2053|wool;]] [[Lexicon/G3601-3700#G3658|fog]]
 
 #### Psalms 147 - 17
 [[Lexicon/G901-1000#G0906|throwing]] [[Lexicon/G2901-3000#G2930|his ice]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5501-5600#G5596|morsels.]] [[Lexicon/G2501-2600#G2596|Before]] [[Lexicon/G5501-5600#G5592|of his chilliness]] [[Lexicon/G5001-5100#G5100|who]] [[Lexicon/G5301-5400#G5307|shall stand?]]
+=======
+[[Lexicon/G1301-1400#G1325|yielding up]] [[Lexicon/G5501-5600#G5510|his snow]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G2001-2100#G2053|wool;]] [[Lexicon/G3601-3700#G3658|fog]]
+
+#### Psalms 147 - 17
+[[Lexicon/G901-1000#G0906|throwing]] [[Lexicon/G2901-3000#G2930|his ice]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5501-5600#G5596|morsels.]] [[Lexicon/G2501-2600#G2596|Before]] [[Lexicon/G5501-5600#G5592|of his chilliness]] [[Lexicon/G5001-5100#G5100|who]] [[Lexicon/G5301-5400#G5307|shall stand?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 147 - 18
 [[Lexicon/G1801-1900#G1821|He shall send out]] [[Lexicon/G3001-3100#G3056|his word,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5080|melt]] [[Lexicon/G1401-1500#G1473|them.]] [[Lexicon/G4101-4200#G4154|He shall breathe]] [[Lexicon/G4101-4200#G4151|his breath]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4401-4500#G4482|shall flow]]

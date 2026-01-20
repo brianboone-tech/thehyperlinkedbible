@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Timothy-R 3
 
 **[[Home/Scripture/54 - 1 Timothy|1 Timothy]]**
 
 [[Readable Bible/54 - 1 Timothy/1 Timothy 2#1 Timothy-R 2| 1 Timothy 2]] - [[Readable Bible/54 - 1 Timothy/1 Timothy 4#1 Timothy-R 4| 1 Timothy 4]]
+=======
+# 1 Timothy 3
+
+[[Readable Bible/54 - 1 Timothy/1 Timothy 2|← 1 Timothy 2]] | [[Readable Bible/54 - 1 Timothy/1 Timothy 4|1 Timothy 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Malachi-R 3
 
 **[[Home/Scripture/39 - Malachi|Malachi]]**
 
 [[Readable Bible/39 - Malachi/Malachi 2#Malachi-R 2| Malachi 2]] - [[Readable Bible/39 - Malachi/Malachi 4#Malachi-R 4| Malachi 4]]
+=======
+# Malachi 3
+
+[[Readable Bible/39 - Malachi/Malachi 2|← Malachi 2]] | [[Readable Bible/39 - Malachi/Malachi 4|Malachi 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

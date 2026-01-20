@@ -22,7 +22,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 10#Psalm 10 - 3|LXX]] |
 
 ##### Psalm 10 - 4
+<<<<<<< HEAD
 [[Lexicon/H1301-1400#H1363|In his pride]] [[Lexicon/H601-700#H639|...]] [[Lexicon/H7501-7600#H7563|the wicked [man]]] [[Lexicon/H1001-1100#H1077|does not]] [[Lexicon/H1801-1900#H1875|seek [Him] ;]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H4201-4300#H4209|his schemes]] [[Lexicon/H301-400#H369|there is no]] [[Lexicon/H401-500#H430|God.]]
+=======
+[[Lexicon/H1301-1400#H1363|In his pride]] [[Lexicon/H601-700#H639|...]] [[Lexicon/H7501-7600#H7563|the wicked (man)]] [[Lexicon/H1001-1100#H1077|does not]] [[Lexicon/H1801-1900#H1875|seek (Him) ;]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H4201-4300#H4209|his schemes]] [[Lexicon/H301-400#H369|there is no]] [[Lexicon/H401-500#H430|God.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 10#Psalm 10 - 4|LXX]] |
 
 ##### Psalm 10 - 5
@@ -58,11 +62,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 10#Psalm 10 - 12|LXX]] |
 
 ##### Psalm 10 - 13
+<<<<<<< HEAD
 [[Lexicon/H5901-6000#H5921|Why]] [[Lexicon/H4001-4100#H4100|...]] [[Lexicon/H7501-7600#H7563|has the wicked man]] [[Lexicon/H5001-5100#H5006|renounced]] [[Lexicon/H401-500#H430|God ?]] [[Lexicon/H501-600#H559|He says]] [[Lexicon/H3801-3900#H3820|to himself ,]] [[Lexicon/H3801-3900#H3808|“ You will never]] [[Lexicon/H1801-1900#H1875|call [me] to account. ”]]
 | [[LXX Reference/19 - Psalms/Psalms 10#Psalm 10 - 13|LXX]] |
 
 ##### Psalm 10 - 14
 [[Lexicon/H3501-3600#H3588|But]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H7101-7200#H7200|have regarded]] [[Lexicon/H5901-6000#H5999|trouble]] [[Lexicon/H3701-3800#H3708|and grief ;]] [[Lexicon/H5001-5100#H5027|You see]] [[Lexicon/H5401-5500#H5414|to repay [it]]] [[Lexicon/H3001-3100#H3027|by Your hand.]] [[Lexicon/H2401-2500#H2489|The victim]] [[Lexicon/H5701-5800#H5800|entrusts himself]] [[Lexicon/H5901-6000#H5921|to You ;]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H1901-2000#H1961|are]] [[Lexicon/H5801-5900#H5826|the helper]] [[Lexicon/H3401-3500#H3490|of the fatherless.]]
+=======
+[[Lexicon/H5901-6000#H5921|Why]] [[Lexicon/H4001-4100#H4100|...]] [[Lexicon/H7501-7600#H7563|has the wicked man]] [[Lexicon/H5001-5100#H5006|renounced]] [[Lexicon/H401-500#H430|God ?]] [[Lexicon/H501-600#H559|He says]] [[Lexicon/H3801-3900#H3820|to himself ,]] [[Lexicon/H3801-3900#H3808|“ You will never]] [[Lexicon/H1801-1900#H1875|call (me) to account. ”]]
+| [[LXX Reference/19 - Psalms/Psalms 10#Psalm 10 - 13|LXX]] |
+
+##### Psalm 10 - 14
+[[Lexicon/H3501-3600#H3588|But]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H7101-7200#H7200|have regarded]] [[Lexicon/H5901-6000#H5999|trouble]] [[Lexicon/H3701-3800#H3708|and grief ;]] [[Lexicon/H5001-5100#H5027|You see]] [[Lexicon/H5401-5500#H5414|to repay (it)]] [[Lexicon/H3001-3100#H3027|by Your hand.]] [[Lexicon/H2401-2500#H2489|The victim]] [[Lexicon/H5701-5800#H5800|entrusts himself]] [[Lexicon/H5901-6000#H5921|to You ;]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H1901-2000#H1961|are]] [[Lexicon/H5801-5900#H5826|the helper]] [[Lexicon/H3401-3500#H3490|of the fatherless.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 10#Psalm 10 - 14|LXX]] |
 
 ##### Psalm 10 - 15

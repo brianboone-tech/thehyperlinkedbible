@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Acts-R 28
 
 **[[Home/Scripture/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 27#Acts-R 27| Acts 27]]
+=======
+# Acts 28
+
+[[Readable Bible/44 - Acts/Acts 27|← Acts 27]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Acts 28 . 1
+<<<<<<< HEAD
 [[Reference Bible/44 - Acts/Acts 28#Acts 28 - 1|1]] Once we were safely ashore, we learned that the island was called Malta.   || [[Chiasm/Chiasm - 44 - Acts 28 . 01 - 10|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 28 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/44 - Acts/Acts 28#Acts 28 - 1|1]] Once we were safely ashore, we learned that the island was called Malta.  | | [[Chiasm/Chiasm - 44 - Acts 28 . 01 - 10|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 28 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Acts 28 . 2
 [[Reference Bible/44 - Acts/Acts 28#Acts 28 - 2|2]] The islanders showed us extraordinary kindness. They kindled a fire and welcomed all of us because it was raining and cold.  | [[Chiasm/Chiasm - 44 - Acts 28 . 01 - 10|C]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 28 - TOSK#Verse 2|TOSK]] |

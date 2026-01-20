@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Exodus-R 36
 
 **[[Home/Scripture/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 35#Exodus-R 35| Exodus 35]] - [[Readable Bible/02 - Exodus/Exodus 37#Exodus-R 37| Exodus 37]]
+=======
+# Exodus 36
+
+[[Readable Bible/02 - Exodus/Exodus 35|← Exodus 35]] | [[Readable Bible/02 - Exodus/Exodus 37|Exodus 37 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

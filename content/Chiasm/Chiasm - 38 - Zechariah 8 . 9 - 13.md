@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/38 - Zechariah|← Zechariah]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/38 - Zechariah|← Zechariah]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

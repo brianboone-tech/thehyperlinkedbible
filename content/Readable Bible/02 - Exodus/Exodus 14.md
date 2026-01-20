@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Exodus-R 14
 
 **[[Home/Scripture/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 13#Exodus-R 13| Exodus 13]] - [[Readable Bible/02 - Exodus/Exodus 15#Exodus-R 15| Exodus 15]]
+=======
+# Exodus 14
+
+[[Readable Bible/02 - Exodus/Exodus 13|← Exodus 13]] | [[Readable Bible/02 - Exodus/Exodus 15|Exodus 15 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

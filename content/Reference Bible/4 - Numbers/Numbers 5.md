@@ -25,7 +25,11 @@ Chapter: "5"
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 3|LXX]] |
 
 ##### Numbers 5 - 4
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|So the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3601-3700#H3651|this ,]] [[Lexicon/H7901-8000#H7971|sending]] [[Lexicon/H801-900#H853|[such people]]] [[Lexicon/H401-500#H413|vvv]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H4201-4300#H4264|the camp.]] [[Lexicon/H1101-1200#H1121|[They]]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1601-1700#H1696|had instructed]] [[Lexicon/H4801-4900#H4872|Moses.]] [[Lexicon/H3601-3700#H3651|...]]
+=======
+[[Lexicon/H1101-1200#H1121|So the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3601-3700#H3651|this ,]] [[Lexicon/H7901-8000#H7971|sending]] [[Lexicon/H801-900#H853|(such people)]] [[Lexicon/H401-500#H413|vvv]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H4201-4300#H4264|the camp.]] [[Lexicon/H1101-1200#H1121|(They)]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1601-1700#H1696|had instructed]] [[Lexicon/H4801-4900#H4872|Moses.]] [[Lexicon/H3601-3700#H3651|...]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 4|LXX]] |
 
 ##### Numbers 5 - 5
@@ -49,7 +53,11 @@ Chapter: "5"
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 9|LXX]] |
 
 ##### Numbers 5 - 10
+<<<<<<< HEAD
 [[Lexicon/H301-400#H376|Each man’s]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6944|sacred gifts]] [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H801-900#H834|[but] whatever]] [[Lexicon/H301-400#H376|[he]]] [[Lexicon/H5401-5500#H5414|gives]] [[Lexicon/H3501-3600#H3548|to the priest]] [[Lexicon/H1901-2000#H1961|will belong to]]
+=======
+[[Lexicon/H301-400#H376|Each man’s]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6944|sacred gifts]] [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H801-900#H834|(but) whatever]] [[Lexicon/H301-400#H376|(he)]] [[Lexicon/H5401-5500#H5414|gives]] [[Lexicon/H3501-3600#H3548|to the priest]] [[Lexicon/H1901-2000#H1961|will belong to]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 10|LXX]] |
 
 ##### Numbers 5 - 11
@@ -65,6 +73,7 @@ Chapter: "5"
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 13|LXX]] |
 
 ##### Numbers 5 - 14
+<<<<<<< HEAD
 [[Lexicon/H7301-7400#H7307|and if a feeling]] [[Lexicon/H7001-7100#H7068|of jealousy]] [[Lexicon/H5601-5700#H5674|comes over]] [[Lexicon/H5901-6000#H5921|[her husband]]] [[Lexicon/H7001-7100#H7065|and he suspects]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H802|his wife]] [[Lexicon/H1901-2000#H1931|who]] [[Lexicon/H2901-3000#H2930|has defiled herself —]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H7301-7400#H7307|if a feeling]] [[Lexicon/H7001-7100#H7068|of jealousy]] [[Lexicon/H5601-5700#H5674|comes over]] [[Lexicon/H5901-6000#H5921|him]] [[Lexicon/H7001-7100#H7065|and he suspects]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H802|her]] [[Lexicon/H1901-2000#H1931|even though she]] [[Lexicon/H3801-3900#H3808|has not]] [[Lexicon/H2901-3000#H2930|defiled herself —]]
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 14|LXX]] |
 
@@ -78,6 +87,21 @@ Chapter: "5"
 
 ##### Numbers 5 - 17
 [[Lexicon/H3501-3600#H3548|Then [he]]] [[Lexicon/H3901-4000#H3947|is to take]] [[Lexicon/H6901-7000#H6918|[some] holy]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H2701-2800#H2789|in a clay]] [[Lexicon/H3601-3700#H3627|jar]] [[Lexicon/H3901-4000#H3947|-]] [[Lexicon/H3501-3600#H3548|-]] [[Lexicon/H5401-5500#H5414|and put]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H6001-6100#H6083|the dust]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H4901-5000#H4908|from the tabernacle]] [[Lexicon/H7101-7200#H7172|floor]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H4301-4400#H4325|the water.]]
+=======
+[[Lexicon/H7301-7400#H7307|and if a feeling]] [[Lexicon/H7001-7100#H7068|of jealousy]] [[Lexicon/H5601-5700#H5674|comes over]] [[Lexicon/H5901-6000#H5921|(her husband)]] [[Lexicon/H7001-7100#H7065|and he suspects]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H802|his wife]] [[Lexicon/H1901-2000#H1931|who]] [[Lexicon/H2901-3000#H2930|has defiled herself —]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H7301-7400#H7307|if a feeling]] [[Lexicon/H7001-7100#H7068|of jealousy]] [[Lexicon/H5601-5700#H5674|comes over]] [[Lexicon/H5901-6000#H5921|him]] [[Lexicon/H7001-7100#H7065|and he suspects]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H802|her]] [[Lexicon/H1901-2000#H1931|even though she]] [[Lexicon/H3801-3900#H3808|has not]] [[Lexicon/H2901-3000#H2930|defiled herself —]]
+| [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 14|LXX]] |
+
+##### Numbers 5 - 15
+[[Lexicon/H301-400#H376|then (he)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H935|is to bring]] [[Lexicon/H801-900#H802|his wife]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3501-3600#H3548|the priest.]] [[Lexicon/H901-1000#H935|He must also bring]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5921|for her]] [[Lexicon/H7101-7200#H7133|an offering]] [[Lexicon/H6201-6300#H6224|of a tenth]] [[Lexicon/H301-400#H374|of an ephah]] [[Lexicon/H8101-8200#H8184|of barley]] [[Lexicon/H7001-7100#H7058|flour.]] [[Lexicon/H3801-3900#H3808|He is not]] [[Lexicon/H3301-3400#H3332|to pour]] [[Lexicon/H8001-8100#H8081|oil]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H5401-5500#H5414|it or put]] [[Lexicon/H3801-3900#H3828|frankincense]] [[Lexicon/H5901-6000#H5921|on it ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H4501-4600#H4503|is a grain offering]] [[Lexicon/H7001-7100#H7068|for jealousy ,]] [[Lexicon/H4501-4600#H4503|an offering]] [[Lexicon/H2101-2200#H2146|of memorial]] [[Lexicon/H2101-2200#H2142|as a reminder]] [[Lexicon/H5701-5800#H5771|of iniquity.]]
+| [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 15|LXX]] |
+
+##### Numbers 5 - 16
+[[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H7101-7200#H7126|is to bring (the wife) forward]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5975|and have her stand]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD.]]
+| [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 16|LXX]] |
+
+##### Numbers 5 - 17
+[[Lexicon/H3501-3600#H3548|Then (he)]] [[Lexicon/H3901-4000#H3947|is to take]] [[Lexicon/H6901-7000#H6918|(some) holy]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H2701-2800#H2789|in a clay]] [[Lexicon/H3601-3700#H3627|jar]] [[Lexicon/H3901-4000#H3947|-]] [[Lexicon/H3501-3600#H3548|-]] [[Lexicon/H5401-5500#H5414|and put]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H6001-6100#H6083|the dust]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H4901-5000#H4908|from the tabernacle]] [[Lexicon/H7101-7200#H7172|floor]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H4301-4400#H4325|the water.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 17|LXX]] |
 
 ##### Numbers 5 - 18
@@ -85,7 +109,11 @@ Chapter: "5"
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 18|LXX]] |
 
 ##### Numbers 5 - 19
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3548|And [he]]] [[Lexicon/H7601-7700#H7650|is to put the woman under oath]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|and say]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H801-900#H802|her ,]] [[Lexicon/H501-600#H518|‘ If]] [[Lexicon/H3801-3900#H3808|no other]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H7901-8000#H7901|has slept with you]] [[Lexicon/H501-600#H518|and]] [[Lexicon/H3801-3900#H3808|you have not]] [[Lexicon/H7801-7900#H7847|gone astray]] [[Lexicon/H2901-3000#H2932|and become defiled]] [[Lexicon/H8401-8500#H8478|while under]] [[Lexicon/H301-400#H376|your husband’s authority ,]] [[Lexicon/H5301-5400#H5352|may you be immune]] [[Lexicon/H401-500#H428|to this]] [[Lexicon/H4701-4800#H4751|bitter]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H701-800#H779|that brings a curse.]]
+=======
+[[Lexicon/H3501-3600#H3548|And (he)]] [[Lexicon/H7601-7700#H7650|is to put the woman under oath]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|and say]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H801-900#H802|her ,]] [[Lexicon/H501-600#H518|‘ If]] [[Lexicon/H3801-3900#H3808|no other]] [[Lexicon/H301-400#H376|man]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H7901-8000#H7901|has slept with you]] [[Lexicon/H501-600#H518|and]] [[Lexicon/H3801-3900#H3808|you have not]] [[Lexicon/H7801-7900#H7847|gone astray]] [[Lexicon/H2901-3000#H2932|and become defiled]] [[Lexicon/H8401-8500#H8478|while under]] [[Lexicon/H301-400#H376|your husband’s authority ,]] [[Lexicon/H5301-5400#H5352|may you be immune]] [[Lexicon/H401-500#H428|to this]] [[Lexicon/H4701-4800#H4751|bitter]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H701-800#H779|that brings a curse.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 19|LXX]] |
 
 ##### Numbers 5 - 20
@@ -109,7 +137,11 @@ Chapter: "5"
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 24|LXX]] |
 
 ##### Numbers 5 - 25
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H3901-4000#H3947|shall take]] [[Lexicon/H801-900#H802|from [her]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3027|hand]] [[Lexicon/H4501-4600#H4503|the grain offering]] [[Lexicon/H7001-7100#H7068|for jealousy ,]] [[Lexicon/H5101-5200#H5130|wave]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4501-4600#H4503|[it]]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H7101-7200#H7126|and bring]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H413|it to]] [[Lexicon/H4101-4200#H4196|the altar.]]
+=======
+[[Lexicon/H3501-3600#H3548|The priest]] [[Lexicon/H3901-4000#H3947|shall take]] [[Lexicon/H801-900#H802|from (her)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3027|hand]] [[Lexicon/H4501-4600#H4503|the grain offering]] [[Lexicon/H7001-7100#H7068|for jealousy ,]] [[Lexicon/H5101-5200#H5130|wave]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4501-4600#H4503|(it)]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H7101-7200#H7126|and bring]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H413|it to]] [[Lexicon/H4101-4200#H4196|the altar.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 5#Numbers 5 - 25|LXX]] |
 
 ##### Numbers 5 - 26

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Luke-R 21
 
 **[[Home/Scripture/42 - Luke|Luke]]**
 
 [[Readable Bible/42 - Luke/Luke 20#Luke-R 20| Luke 20]] - [[Readable Bible/42 - Luke/Luke 22#Luke-R 22| Luke 22]]
+=======
+# Luke 21
+
+[[Readable Bible/42 - Luke/Luke 20|← Luke 20]] | [[Readable Bible/42 - Luke/Luke 22|Luke 22 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

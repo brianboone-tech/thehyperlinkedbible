@@ -26,7 +26,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 96#Psalm 96 - 4|LXX]] |
 
 ##### Psalm 96 - 5
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H430|the gods]] [[Lexicon/H5901-6000#H5971|of the nations]] [[Lexicon/H401-500#H457|are idols ,]] [[Lexicon/H3001-3100#H3068|but [it is] the LORD]] [[Lexicon/H6201-6300#H6213|who made]] [[Lexicon/H8001-8100#H8064|the heavens.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H430|the gods]] [[Lexicon/H5901-6000#H5971|of the nations]] [[Lexicon/H401-500#H457|are idols ,]] [[Lexicon/H3001-3100#H3068|but (it is) the LORD]] [[Lexicon/H6201-6300#H6213|who made]] [[Lexicon/H8001-8100#H8064|the heavens.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 96#Psalm 96 - 5|LXX]] |
 
 ##### Psalm 96 - 6
@@ -38,7 +42,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 96#Psalm 96 - 7|LXX]] |
 
 ##### Psalm 96 - 8
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3051|Ascribe]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H3501-3600#H3519|the glory]] [[Lexicon/H8001-8100#H8034|[due] His name ;]] [[Lexicon/H5301-5400#H5375|bring]] [[Lexicon/H4501-4600#H4503|an offering]] [[Lexicon/H901-1000#H935|and enter]] [[Lexicon/H2601-2700#H2691|His courts.]]
+=======
+[[Lexicon/H3001-3100#H3051|Ascribe]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H3501-3600#H3519|the glory]] [[Lexicon/H8001-8100#H8034|(due) His name ;]] [[Lexicon/H5301-5400#H5375|bring]] [[Lexicon/H4501-4600#H4503|an offering]] [[Lexicon/H901-1000#H935|and enter]] [[Lexicon/H2601-2700#H2691|His courts.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 96#Psalm 96 - 8|LXX]] |
 
 ##### Psalm 96 - 9
@@ -54,7 +62,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 96#Psalm 96 - 11|LXX]] |
 
 ##### Psalm 96 - 12
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7704|Let the fields]] [[Lexicon/H5901-6000#H5937|exult ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H801-900#H834|that [is]]] [[Lexicon/H201-300#H227|Then]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6001-6100#H6086|the trees]] [[Lexicon/H3201-3300#H3293|of the forest]] [[Lexicon/H7401-7500#H7442|will sing for joy]]
+=======
+[[Lexicon/H7701-7800#H7704|Let the fields]] [[Lexicon/H5901-6000#H5937|exult ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H801-900#H834|that (is)]] [[Lexicon/H201-300#H227|Then]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6001-6100#H6086|the trees]] [[Lexicon/H3201-3300#H3293|of the forest]] [[Lexicon/H7401-7500#H7442|will sing for joy]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 96#Psalm 96 - 12|LXX]] |
 
 ##### Psalm 96 - 13

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Daniel-R 6
 
 **[[Home/Scripture/27 - Daniel|Daniel]]**
 
 [[Readable Bible/27 - Daniel/Daniel 5#Daniel-R 5| Daniel 5]] - [[Readable Bible/27 - Daniel/Daniel 7#Daniel-R 7| Daniel 7]]
+=======
+# Daniel 6
+
+[[Readable Bible/27 - Daniel/Daniel 5|← Daniel 5]] | [[Readable Bible/27 - Daniel/Daniel 7|Daniel 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

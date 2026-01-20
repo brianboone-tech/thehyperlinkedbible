@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Matthew-R 25
 
 **[[Home/Scripture/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 24#Matthew-R 24| Matthew 24]] - [[Readable Bible/40 - Matthew/Matthew 26#Matthew-R 26| Matthew 26]]
+=======
+# Matthew 25
+
+[[Readable Bible/40 - Matthew/Matthew 24|← Matthew 24]] | [[Readable Bible/40 - Matthew/Matthew 26|Matthew 26 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

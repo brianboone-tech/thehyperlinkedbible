@@ -6,11 +6,17 @@ cssclasses:
   - lexicon
 ---
 
+<<<<<<< HEAD
 # Genesis-R 7
 
 **[[Home/Scripture/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 6#Genesis-R 6| Genesis 6]] - [[Readable Bible/01 - Genesis/Genesis 8#Genesis-R 8| Genesis 8]]
+=======
+# Genesis 7
+
+[[Readable Bible/01 - Genesis/Genesis 6|← Genesis 6]] | [[Readable Bible/01 - Genesis/Genesis 8|Genesis 8 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

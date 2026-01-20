@@ -12,7 +12,11 @@ Testament: Old
 ---
 
 #### 2 Chronicles 28 - 1
+<<<<<<< HEAD
 [[Lexicon/G5201-5300#G5207|a son]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G901-1000#G0936|his taking reign,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1571|sixteen]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G901-1000#G0936|he reigned]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|He did not do]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2101-2200#G2112|upright thing]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G5601-5700#G5613|as]] David [[Lexicon/G3901-4000#G3962|his father.]]
+=======
+[[Lexicon/G5201-5300#G5207|a son]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G901-1000#G0936|his taking reign,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1571|sixteen]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G901-1000#G0936|he reigned]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|He did not do]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2101-2200#G2112|upright thing]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G5601-5624#G5613|as]] David [[Lexicon/G3901-4000#G3962|his father.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 2 Chronicles 28 - 2
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4198|he went]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3598|ways]] [[Lexicon/G901-1000#G0935|of the kings]] of Israel, [[Lexicon/G1001-1100#G1063|for]] [[Lexicon/G1001-1100#G1099|carved images]] [[Lexicon/G3501-3600#G3588|to the]] Baals.
@@ -48,7 +52,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G401-500#G0450|rose up]] (Azariah [[Lexicon/G3501-3600#G3588|the]] Johanan, [[Lexicon/G2501-2600#G2532|and]] Berechiah [[Lexicon/G3501-3600#G3588|the]] Meshillemoth, [[Lexicon/G2501-2600#G2532|and]] Jehizkiah [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3588|son of]] Shallum, [[Lexicon/G2501-2600#G2532|and]] Amasa [[Lexicon/G3501-3600#G3588|the]] Hadlai) [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2001-2100#G2064|coming]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4171|war.]]
 
 #### 2 Chronicles 28 - 13
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|they said]] [[Lexicon/G1401-1500#G1473|to them,]] [[Lexicon/G3701-3800#G3766|In no way]] [[Lexicon/G1501-1600#G1521|should you bring]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0161|captivity]] [[Lexicon/G5601-5700#G5602|here]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|us,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G4101-4200#G4131|trespassing]] [[Lexicon/G3501-3600#G3588|against the]] [[Lexicon/G4301-4400#G4369|to add]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G201-300#G0266|our sins,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1-100#G0052|our ignorance,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4101-4200#G4183| is great]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2372|of the rage]] [[Lexicon/G2901-3000#G2962|of the lord]] Israel.
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|they said]] [[Lexicon/G1401-1500#G1473|to them,]] [[Lexicon/G3701-3800#G3766|In no way]] [[Lexicon/G1501-1600#G1521|should you bring]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0161|captivity]] [[Lexicon/G5601-5624#G5602|here]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|us,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G4101-4200#G4131|trespassing]] [[Lexicon/G3501-3600#G3588|against the]] [[Lexicon/G4301-4400#G4369|to add]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G201-300#G0266|our sins,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1-100#G0052|our ignorance,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4101-4200#G4183| is great]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2372|of the rage]] [[Lexicon/G2901-3000#G2962|of the lord]] Israel.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 2 Chronicles 28 - 14
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G801-900#G0863|released]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0161|captivity]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4661|spoils]] [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0758|rulers]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1501-1600#G1577|assembly.]]

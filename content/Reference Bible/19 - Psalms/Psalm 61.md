@@ -14,7 +14,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 61#Psalm 61 - 1|LXX]] |
 
 ##### Psalm 61 - 2
+<<<<<<< HEAD
 [[Lexicon/H7001-7100#H7097|From the ends]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H7101-7200#H7121|I call out]] [[Lexicon/H401-500#H413|to You]] [[Lexicon/H3801-3900#H3820|whenever my heart]] [[Lexicon/H5801-5900#H5848|is faint.]] [[Lexicon/H5101-5200#H5148|Lead me]] [[Lexicon/H6601-6700#H6697|to the rock]] [[Lexicon/H7301-7400#H7311|[that] is higher]] [[Lexicon/H4401-4500#H4480|than I.]]
+=======
+[[Lexicon/H7001-7100#H7097|From the ends]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H7101-7200#H7121|I call out]] [[Lexicon/H401-500#H413|to You]] [[Lexicon/H3801-3900#H3820|whenever my heart]] [[Lexicon/H5801-5900#H5848|is faint.]] [[Lexicon/H5101-5200#H5148|Lead me]] [[Lexicon/H6601-6700#H6697|to the rock]] [[Lexicon/H7301-7400#H7311|(that) is higher]] [[Lexicon/H4401-4500#H4480|than I.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 61#Psalm 61 - 2|LXX]] |
 
 ##### Psalm 61 - 3

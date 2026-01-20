@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 103 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 102 - TOSK|← Ch 102]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 104 - TOSK|Ch 104 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 102 - TOSK|← Ch 102]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 104 - TOSK|Ch 104 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

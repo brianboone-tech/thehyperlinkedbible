@@ -21,11 +21,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 2|LXX]] |
 
 ##### Genesis 41 - 3
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2009|-]] [[Lexicon/H301-400#H310|After them ,]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H301-400#H312|other]] [[Lexicon/H6501-6600#H6510|cows ,]] [[Lexicon/H7401-7500#H7451|sickly]] [[Lexicon/H4701-4800#H4758|...]] [[Lexicon/H1801-1900#H1851|and thin]] [[Lexicon/H1301-1400#H1320|... ,]] [[Lexicon/H5901-6000#H5927|came up]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H2901-3000#H2975|the Nile]] [[Lexicon/H5901-6000#H5975|and stood]] [[Lexicon/H601-700#H681|beside]] [[Lexicon/H6501-6600#H6510|the [well-fed] cows]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H8101-8200#H8193|the bank]] [[Lexicon/H2901-3000#H2975|of the river.]]
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 3|LXX]] |
 
 ##### Genesis 41 - 4
 [[Lexicon/H6501-6600#H6510|And the cows]] [[Lexicon/H7401-7500#H7451|[that were] sickly]] [[Lexicon/H4701-4800#H4758|...]] [[Lexicon/H1801-1900#H1851|and thin]] [[Lexicon/H1301-1400#H1320|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H398|devoured]] [[Lexicon/H7601-7700#H7651|the seven]] [[Lexicon/H3301-3400#H3303|sleek]] [[Lexicon/H4701-4800#H4758|... ,]] [[Lexicon/H1201-1300#H1277|well-fed]] [[Lexicon/H6501-6600#H6510|cows.]] [[Lexicon/H6501-6600#H6547|Then Pharaoh]] [[Lexicon/H3301-3400#H3364|woke up ,]]
+=======
+[[Lexicon/H2001-2100#H2009|-]] [[Lexicon/H301-400#H310|After them ,]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H301-400#H312|other]] [[Lexicon/H6501-6600#H6510|cows ,]] [[Lexicon/H7401-7500#H7451|sickly]] [[Lexicon/H4701-4800#H4758|...]] [[Lexicon/H1801-1900#H1851|and thin]] [[Lexicon/H1301-1400#H1320|... ,]] [[Lexicon/H5901-6000#H5927|came up]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H2901-3000#H2975|the Nile]] [[Lexicon/H5901-6000#H5975|and stood]] [[Lexicon/H601-700#H681|beside]] [[Lexicon/H6501-6600#H6510|the (well-fed) cows]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H8101-8200#H8193|the bank]] [[Lexicon/H2901-3000#H2975|of the river.]]
+| [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 3|LXX]] |
+
+##### Genesis 41 - 4
+[[Lexicon/H6501-6600#H6510|And the cows]] [[Lexicon/H7401-7500#H7451|(that were) sickly]] [[Lexicon/H4701-4800#H4758|...]] [[Lexicon/H1801-1900#H1851|and thin]] [[Lexicon/H1301-1400#H1320|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H301-400#H398|devoured]] [[Lexicon/H7601-7700#H7651|the seven]] [[Lexicon/H3301-3400#H3303|sleek]] [[Lexicon/H4701-4800#H4758|... ,]] [[Lexicon/H1201-1300#H1277|well-fed]] [[Lexicon/H6501-6600#H6510|cows.]] [[Lexicon/H6501-6600#H6547|Then Pharaoh]] [[Lexicon/H3301-3400#H3364|woke up ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 4|LXX]] |
 
 ##### Genesis 41 - 5
@@ -53,11 +61,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 10|LXX]] |
 
 ##### Genesis 41 - 11
+<<<<<<< HEAD
 [[Lexicon/H201-300#H259|One]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H1901-2000#H1931|both [the chief baker]]] [[Lexicon/H501-600#H589|and I]] [[Lexicon/H2401-2500#H2492|had dreams]] [[Lexicon/H2401-2500#H2472|... ,]] [[Lexicon/H301-400#H376|[and] each]] [[Lexicon/H2401-2500#H2472|dream]] [[Lexicon/H2401-2500#H2492|...]] [[Lexicon/H6601-6700#H6623|had its own meaning.]]
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 11|LXX]] |
 
 ##### Genesis 41 - 12
 [[Lexicon/H5201-5300#H5288|Now a young]] [[Lexicon/H5601-5700#H5680|Hebrew]] [[Lexicon/H8001-8100#H8033|was there]] [[Lexicon/H801-900#H854|with us ,]] [[Lexicon/H5601-5700#H5650|a servant]] [[Lexicon/H8201-8300#H8269|of the captain]] [[Lexicon/H2801-2900#H2876|of the guard.]] [[Lexicon/H5601-5700#H5608|We told him]] [[Lexicon/H6601-6700#H6622|and he interpreted]] [[Lexicon/H2401-2500#H2472|[them]]] [[Lexicon/H801-900#H853|us]] [[Lexicon/H301-400#H376|individually]] [[Lexicon/H2401-2500#H2472|...]] [[Lexicon/H6601-6700#H6622|....]]
+=======
+[[Lexicon/H201-300#H259|One]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H1901-2000#H1931|both (the chief baker)]] [[Lexicon/H501-600#H589|and I]] [[Lexicon/H2401-2500#H2492|had dreams]] [[Lexicon/H2401-2500#H2472|... ,]] [[Lexicon/H301-400#H376|(and) each]] [[Lexicon/H2401-2500#H2472|dream]] [[Lexicon/H2401-2500#H2492|...]] [[Lexicon/H6601-6700#H6623|had its own meaning.]]
+| [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 11|LXX]] |
+
+##### Genesis 41 - 12
+[[Lexicon/H5201-5300#H5288|Now a young]] [[Lexicon/H5601-5700#H5680|Hebrew]] [[Lexicon/H8001-8100#H8033|was there]] [[Lexicon/H801-900#H854|with us ,]] [[Lexicon/H5601-5700#H5650|a servant]] [[Lexicon/H8201-8300#H8269|of the captain]] [[Lexicon/H2801-2900#H2876|of the guard.]] [[Lexicon/H5601-5700#H5608|We told him]] [[Lexicon/H6601-6700#H6622|and he interpreted]] [[Lexicon/H2401-2500#H2472|(them)]] [[Lexicon/H801-900#H853|us]] [[Lexicon/H301-400#H376|individually]] [[Lexicon/H2401-2500#H2472|...]] [[Lexicon/H6601-6700#H6622|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 12|LXX]] |
 
 ##### Genesis 41 - 13
@@ -93,7 +109,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 20|LXX]] |
 
 ##### Genesis 41 - 21
+<<<<<<< HEAD
 [[Lexicon/H901-1000#H935|When they had devoured]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7101-7200#H7130|them, however ,]] [[Lexicon/H3801-3900#H3808|no one could]] [[Lexicon/H3001-3100#H3045|tell]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H901-1000#H935|they had [done so]]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7101-7200#H7130|... ;]] [[Lexicon/H4701-4800#H4758|their appearance]] [[Lexicon/H7401-7500#H7451|was as ugly]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H8401-8500#H8462|it had been before.]] [[Lexicon/H3301-3400#H3364|Then I awoke.]]
+=======
+[[Lexicon/H901-1000#H935|When they had devoured]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7101-7200#H7130|them, however ,]] [[Lexicon/H3801-3900#H3808|no one could]] [[Lexicon/H3001-3100#H3045|tell]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H901-1000#H935|they had (done so)]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H7101-7200#H7130|... ;]] [[Lexicon/H4701-4800#H4758|their appearance]] [[Lexicon/H7401-7500#H7451|was as ugly]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H8401-8500#H8462|it had been before.]] [[Lexicon/H3301-3400#H3364|Then I awoke.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 21|LXX]] |
 
 ##### Genesis 41 - 22
@@ -105,7 +125,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 23|LXX]] |
 
 ##### Genesis 41 - 24
+<<<<<<< HEAD
 [[Lexicon/H1801-1900#H1851|And the thin]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7601-7700#H7641|heads of grain]] [[Lexicon/H1101-1200#H1104|swallowed]] [[Lexicon/H7601-7700#H7651|the seven]] [[Lexicon/H2801-2900#H2896|plump]] [[Lexicon/H7601-7700#H7641|ones.]] [[Lexicon/H501-600#H559|I told]] [[Lexicon/H401-500#H413|this [dream] to]] [[Lexicon/H2701-2800#H2748|the magicians ,]] [[Lexicon/H301-400#H369|but no]] [[Lexicon/H5001-5100#H5046|one could explain it]]
+=======
+[[Lexicon/H1801-1900#H1851|And the thin]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7601-7700#H7641|heads of grain]] [[Lexicon/H1101-1200#H1104|swallowed]] [[Lexicon/H7601-7700#H7651|the seven]] [[Lexicon/H2801-2900#H2896|plump]] [[Lexicon/H7601-7700#H7641|ones.]] [[Lexicon/H501-600#H559|I told]] [[Lexicon/H401-500#H413|this (dream) to]] [[Lexicon/H2701-2800#H2748|the magicians ,]] [[Lexicon/H301-400#H369|but no]] [[Lexicon/H5001-5100#H5046|one could explain it]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 24|LXX]] |
 
 ##### Genesis 41 - 25
@@ -133,7 +157,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 30|LXX]] |
 
 ##### Genesis 41 - 31
+<<<<<<< HEAD
 [[Lexicon/H7601-7700#H7647|The abundance]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H3001-3100#H3045|be remembered ,]] [[Lexicon/H6401-6500#H6440|since]] [[Lexicon/H1901-2000#H1931|the]] [[Lexicon/H7401-7500#H7458|famine]] [[Lexicon/H301-400#H310|that follows]] [[Lexicon/H3601-3700#H3651|it]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H3901-4000#H3966|[will be] so]] [[Lexicon/H3501-3600#H3515|severe]] [[Lexicon/H1901-2000#H1931|-.]]
+=======
+[[Lexicon/H7601-7700#H7647|The abundance]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H3001-3100#H3045|be remembered ,]] [[Lexicon/H6401-6500#H6440|since]] [[Lexicon/H1901-2000#H1931|the]] [[Lexicon/H7401-7500#H7458|famine]] [[Lexicon/H301-400#H310|that follows]] [[Lexicon/H3601-3700#H3651|it]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H3901-4000#H3966|(will be) so]] [[Lexicon/H3501-3600#H3515|severe]] [[Lexicon/H1901-2000#H1931|-.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 31|LXX]] |
 
 ##### Genesis 41 - 32
@@ -161,7 +189,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 37|LXX]] |
 
 ##### Genesis 41 - 38
+<<<<<<< HEAD
 [[Lexicon/H6501-6600#H6547|So Pharaoh]] [[Lexicon/H501-600#H559|asked]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5601-5700#H5650|[them] ,]] [[Lexicon/H4601-4700#H4672|“ Can we find]] [[Lexicon/H2001-2100#H2088|anyone like this]] [[Lexicon/H301-400#H376|man ,]] [[Lexicon/H801-900#H834|in whom]] [[Lexicon/H7301-7400#H7307|the Spirit]] [[Lexicon/H401-500#H430|of God]]
+=======
+[[Lexicon/H6501-6600#H6547|So Pharaoh]] [[Lexicon/H501-600#H559|asked]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5601-5700#H5650|(them) ,]] [[Lexicon/H4601-4700#H4672|“ Can we find]] [[Lexicon/H2001-2100#H2088|anyone like this]] [[Lexicon/H301-400#H376|man ,]] [[Lexicon/H801-900#H834|in whom]] [[Lexicon/H7301-7400#H7307|the Spirit]] [[Lexicon/H401-500#H430|of God]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 38|LXX]] |
 
 ##### Genesis 41 - 39
@@ -189,7 +221,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 44|LXX]] |
 
 ##### Genesis 41 - 45
+<<<<<<< HEAD
 [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H7101-7200#H7121|gave]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H8001-8100#H8034|the name]] [[Lexicon/H6801-6900#H6847|vvv]] [[Lexicon/H6801-6900#H6847|Zaphenath-paneah ,]] [[Lexicon/H5401-5500#H5414|and he gave]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H601-700#H621|Asenath]] [[Lexicon/H1301-1400#H1323|daughter]] [[Lexicon/H6301-6400#H6319|vvv]] [[Lexicon/H6301-6400#H6319|of Potiphera ,]] [[Lexicon/H3501-3600#H3548|priest]] [[Lexicon/H201-300#H204|of On ,]] [[Lexicon/H801-900#H802|to be his wife.]] [[Lexicon/H3101-3200#H3130|And Joseph]] [[Lexicon/H3301-3400#H3318|took charge]] [[Lexicon/H5901-6000#H5921|of [all]]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
+=======
+[[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H7101-7200#H7121|gave]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H8001-8100#H8034|the name]] [[Lexicon/H6801-6900#H6847|vvv]] [[Lexicon/H6801-6900#H6847|Zaphenath-paneah ,]] [[Lexicon/H5401-5500#H5414|and he gave]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H601-700#H621|Asenath]] [[Lexicon/H1301-1400#H1323|daughter]] [[Lexicon/H6301-6400#H6319|vvv]] [[Lexicon/H6301-6400#H6319|of Potiphera ,]] [[Lexicon/H3501-3600#H3548|priest]] [[Lexicon/H201-300#H204|of On ,]] [[Lexicon/H801-900#H802|to be his wife.]] [[Lexicon/H3101-3200#H3130|And Joseph]] [[Lexicon/H3301-3400#H3318|took charge]] [[Lexicon/H5901-6000#H5921|of (all)]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 41#Genesis 41 - 45|LXX]] |
 
 ##### Genesis 41 - 46
@@ -212,7 +248,11 @@ Testament: Old
 [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7121|named]] [[Lexicon/H8001-8100#H8034|...]] [[Lexicon/H1001-1100#H1060|the firstborn]] [[Lexicon/H4501-4600#H4519|Manasseh ,]] [[Lexicon/H3501-3600#H3588|saying ,]] [[Lexicon/H401-500#H430|“ God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5382|has made me forget]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5901-6000#H5999|my hardship]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H1-100#H1|my father’s]] [[Lexicon/H1001-1100#H1004|household. ”]]
 
 ##### Genesis 41 - 52
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|-]] [[Lexicon/H8101-8200#H8145|And the second [son]]] [[Lexicon/H8001-8100#H8034|he named]] [[Lexicon/H7101-7200#H7121|...]] [[Lexicon/H601-700#H669|Ephraim ,]] [[Lexicon/H3501-3600#H3588|saying ,]] [[Lexicon/H401-500#H430|“ God]] [[Lexicon/H6501-6600#H6509|has made me fruitful]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H6001-6100#H6040|of my affliction. ”]]
+=======
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H8101-8200#H8145|And the second (son)]] [[Lexicon/H8001-8100#H8034|he named]] [[Lexicon/H7101-7200#H7121|...]] [[Lexicon/H601-700#H669|Ephraim ,]] [[Lexicon/H3501-3600#H3588|saying ,]] [[Lexicon/H401-500#H430|“ God]] [[Lexicon/H6501-6600#H6509|has made me fruitful]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H6001-6100#H6040|of my affliction. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Genesis 41 - 53
 [[Lexicon/H7601-7700#H7651|When the seven]] [[Lexicon/H8101-8200#H8141|years]] [[Lexicon/H7601-7700#H7647|of abundance]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H3601-3700#H3615|came to an end ,]]
@@ -221,7 +261,11 @@ Testament: Old
 [[Lexicon/H7601-7700#H7651|the seven]] [[Lexicon/H8101-8200#H8141|years]] [[Lexicon/H7401-7500#H7458|of famine]] [[Lexicon/H901-1000#H935|...]] [[Lexicon/H2401-2500#H2490|began ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H501-600#H559|had said.]] [[Lexicon/H1901-2000#H1961|And although there was]] [[Lexicon/H7401-7500#H7458|famine]] [[Lexicon/H3601-3700#H3605|in every]] [[Lexicon/H701-800#H776|country ,]] [[Lexicon/H1901-2000#H1961|there was]] [[Lexicon/H3801-3900#H3899|food]] [[Lexicon/H3601-3700#H3605|throughout]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
 
 ##### Genesis 41 - 55
+<<<<<<< HEAD
 [[Lexicon/H7401-7500#H7456|When extreme hunger]] [[Lexicon/H3601-3700#H3605|came to all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H5901-6000#H5971|and the people]] [[Lexicon/H6801-6900#H6817|cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H3801-3900#H3899|for food ,]] [[Lexicon/H6501-6600#H6547|[he]]] [[Lexicon/H501-600#H559|told]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4701-4800#H4713|the Egyptians ,]] [[Lexicon/H1901-2000#H1980|“ Go]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H6201-6300#H6213|and do]] [[Lexicon/H801-900#H834|whatever]] [[Lexicon/H501-600#H559|he tells]]
+=======
+[[Lexicon/H7401-7500#H7456|When extreme hunger]] [[Lexicon/H3601-3700#H3605|came to all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H5901-6000#H5971|and the people]] [[Lexicon/H6801-6900#H6817|cried out]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H3801-3900#H3899|for food ,]] [[Lexicon/H6501-6600#H6547|(he)]] [[Lexicon/H501-600#H559|told]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4701-4800#H4713|the Egyptians ,]] [[Lexicon/H1901-2000#H1980|“ Go]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H6201-6300#H6213|and do]] [[Lexicon/H801-900#H834|whatever]] [[Lexicon/H501-600#H559|he tells]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Genesis 41 - 56
 [[Lexicon/H7401-7500#H7458|When the famine]] [[Lexicon/H1901-2000#H1961|had spread]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6401-6500#H6440|the]] [[Lexicon/H701-800#H776|land ,]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6605|opened up]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|the storehouses]] [[Lexicon/H7601-7700#H7666|and sold grain]] [[Lexicon/H4701-4800#H4714|to the Egyptians ;]] [[Lexicon/H7401-7500#H7458|for the famine]] [[Lexicon/H2301-2400#H2388|was severe]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]

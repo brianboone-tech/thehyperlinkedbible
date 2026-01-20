@@ -18,7 +18,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 42#Psalm 42 - 2|LXX]] |
 
 ##### Psalm 42 - 3
+<<<<<<< HEAD
 [[Lexicon/H1801-1900#H1832|My tears]] [[Lexicon/H1901-2000#H1961|have been]] [[Lexicon/H3801-3900#H3899|food]] [[Lexicon/H3101-3200#H3119|[both] day]] [[Lexicon/H3901-4000#H3915|and night ,]] [[Lexicon/H501-600#H559|while men ask]] [[Lexicon/H401-500#H413|me]] [[Lexicon/H3601-3700#H3605|all day long]] [[Lexicon/H3101-3200#H3117|... ,]] [[Lexicon/H301-400#H346|“ Where]] [[Lexicon/H401-500#H430|is your God ? ”]]
+=======
+[[Lexicon/H1801-1900#H1832|My tears]] [[Lexicon/H1901-2000#H1961|have been]] [[Lexicon/H3801-3900#H3899|food]] [[Lexicon/H3101-3200#H3119|(both) day]] [[Lexicon/H3901-4000#H3915|and night ,]] [[Lexicon/H501-600#H559|while men ask]] [[Lexicon/H401-500#H413|me]] [[Lexicon/H3601-3700#H3605|all day long]] [[Lexicon/H3101-3200#H3117|... ,]] [[Lexicon/H301-400#H346|“ Where]] [[Lexicon/H401-500#H430|is your God ? ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 42#Psalm 42 - 3|LXX]] |
 
 ##### Psalm 42 - 4
@@ -30,7 +34,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 42#Psalm 42 - 5|LXX]] |
 
 ##### Psalm 42 - 6
+<<<<<<< HEAD
 [[Lexicon/H401-500#H430|O my God ,]] [[Lexicon/H5301-5400#H5315|my soul]] [[Lexicon/H7801-7900#H7817|despairs]] [[Lexicon/H5901-6000#H5921|within me.]] [[Lexicon/H5901-6000#H5921|Therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H2101-2200#H2142|I remember You]] [[Lexicon/H701-800#H776|from the land]] [[Lexicon/H3301-3400#H3383|of Jordan]] [[Lexicon/H2701-2800#H2769|and the peaks of Hermon —]] [[Lexicon/H2001-2100#H2022|[even] from Mount]] [[Lexicon/H4701-4800#H4706|Mizar.]]
+=======
+[[Lexicon/H401-500#H430|O my God ,]] [[Lexicon/H5301-5400#H5315|my soul]] [[Lexicon/H7801-7900#H7817|despairs]] [[Lexicon/H5901-6000#H5921|within me.]] [[Lexicon/H5901-6000#H5921|Therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H2101-2200#H2142|I remember You]] [[Lexicon/H701-800#H776|from the land]] [[Lexicon/H3301-3400#H3383|of Jordan]] [[Lexicon/H2701-2800#H2769|and the peaks of Hermon —]] [[Lexicon/H2001-2100#H2022|(even) from Mount]] [[Lexicon/H4701-4800#H4706|Mizar.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 42#Psalm 42 - 6|LXX]] |
 
 ##### Psalm 42 - 7
@@ -38,7 +46,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 42#Psalm 42 - 7|LXX]] |
 
 ##### Psalm 42 - 8
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H6601-6700#H6680|decrees]] [[Lexicon/H2601-2700#H2617|His loving devotion]] [[Lexicon/H3101-3200#H3119|by day ,]] [[Lexicon/H3901-4000#H3915|and at night]] [[Lexicon/H7801-7900#H7892|His song]] [[Lexicon/H5901-6000#H5973|is with me]] [[Lexicon/H8601-8674#H8605|[as] a prayer]] [[Lexicon/H401-500#H410|to the God]] [[Lexicon/H2401-2500#H2416|of my life.]]
+=======
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H6601-6700#H6680|decrees]] [[Lexicon/H2601-2700#H2617|His loving devotion]] [[Lexicon/H3101-3200#H3119|by day ,]] [[Lexicon/H3901-4000#H3915|and at night]] [[Lexicon/H7801-7900#H7892|His song]] [[Lexicon/H5901-6000#H5973|is with me]] [[Lexicon/H8601-8674#H8605|(as) a prayer]] [[Lexicon/H401-500#H410|to the God]] [[Lexicon/H2401-2500#H2416|of my life.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 42#Psalm 42 - 8|LXX]] |
 
 ##### Psalm 42 - 9

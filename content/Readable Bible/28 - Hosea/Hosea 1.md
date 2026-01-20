@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Hosea-R 1
 
 **[[Home/Scripture/28 - Hosea|Hosea]]**
 
 [[Readable Bible/27 - Daniel/Daniel 12#Daniel-R 12|Daniel 12]] • [[Readable Bible/28 - Hosea/Hosea 2#Hosea-R 2|Hosea 2]]
+=======
+# Hosea 1
+
+[[Readable Bible/27 - Daniel/Daniel 12|← Daniel 12]] | [[Readable Bible/28 - Hosea/Hosea 2|Hosea 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

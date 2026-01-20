@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Numbers-R 33
 
 **[[Home/Scripture/04 - Numbers|Numbers]]**
 
 [[Readable Bible/04 - Numbers/Numbers 32#Numbers-R 32| Numbers 32]] - [[Readable Bible/04 - Numbers/Numbers 34#Numbers-R 34| Numbers 34]]
+=======
+# Numbers 33
+
+[[Readable Bible/04 - Numbers/Numbers 32|← Numbers 32]] | [[Readable Bible/04 - Numbers/Numbers 34|Numbers 34 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

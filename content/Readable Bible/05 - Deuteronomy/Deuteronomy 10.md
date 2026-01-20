@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Deuteronomy-R 10
 
 **[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 9#Deuteronomy-R 9| Deuteronomy 9]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 11#Deuteronomy-R 11| Deuteronomy 11]]
+=======
+# Deuteronomy 10
+
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 9|← Deuteronomy 9]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 11|Deuteronomy 11 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Deuteronomy 10 . 1
+<<<<<<< HEAD
 [[Reference Bible/5 - Deuteronomy/Deuteronomy 10#Deuteronomy 10 - 1|1]] At that time the LORD said to me, “Chisel out two stone tablets like the originals, come up to Me on the mountain, and make an ark of wood.   || [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 10 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/5 - Deuteronomy/Deuteronomy 10#Deuteronomy 10 - 1|1]] At that time the LORD said to me, “Chisel out two stone tablets like the originals, come up to Me on the mountain, and make an ark of wood.  | | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 10 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Deuteronomy 10 . 2
 [[Reference Bible/5 - Deuteronomy/Deuteronomy 10#Deuteronomy 10 - 2|2]] And I will write on the tablets the words that were on the first tablets, which you broke; and you are to place them in the ark.”  | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 10 - TOSK#Verse 2|TOSK]] |

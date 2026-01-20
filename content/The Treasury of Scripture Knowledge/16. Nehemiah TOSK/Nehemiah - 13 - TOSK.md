@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Nehemiah 13 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/16 - Nehemiah|← Nehemiah]]** | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 12 - TOSK|← Ch 12]]
+=======
+**[[Home/Indexes/Readable Bible/16 - Nehemiah|← Nehemiah]]** | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 12 - TOSK|← Ch 12]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

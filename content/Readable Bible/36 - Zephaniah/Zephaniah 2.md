@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Zephaniah-R 2
 
 **[[Home/Scripture/36 - Zephaniah|Zephaniah]]**
 
 [[Readable Bible/36 - Zephaniah/Zephaniah 1#Zephaniah-R 1| Zephaniah 1]] - [[Readable Bible/36 - Zephaniah/Zephaniah 3#Zephaniah-R 3| Zephaniah 3]]
+=======
+# Zephaniah 2
+
+[[Readable Bible/36 - Zephaniah/Zephaniah 1|← Zephaniah 1]] | [[Readable Bible/36 - Zephaniah/Zephaniah 3|Zephaniah 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

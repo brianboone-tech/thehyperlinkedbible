@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Titus-R 2
 
 **[[Home/Scripture/56 - Titus|Titus]]**
 
 [[Readable Bible/56 - Titus/Titus 1#Titus-R 1| Titus 1]] - [[Readable Bible/56 - Titus/Titus 3#Titus-R 3| Titus 3]]
+=======
+# Titus 2
+
+[[Readable Bible/56 - Titus/Titus 1|← Titus 1]] | [[Readable Bible/56 - Titus/Titus 3|Titus 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

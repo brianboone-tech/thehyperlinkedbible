@@ -18,7 +18,11 @@ Testament: Old
 [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G1801-1900#G1869|being encouraged]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G5501-5600#G5553|gold,]] [[Lexicon/G4401-4500#G4459|O how]] [[Lexicon/G3001-3100#G3049|they are considered]] [[Lexicon/G1501-1600#G1519|as]] [[Lexicon/G1-100#G0030|receptacles]] [[Lexicon/G2001-2100#G2041|works]] [[Lexicon/G5401-5500#G5495|of the hands]] [[Lexicon/G2701-2800#G2763|of the potter.]]
 
 #### Lamentations 4 - 3
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1065|indeed,]] [[Lexicon/G1401-1500#G1404|dragons]] [[Lexicon/G1501-1600#G1562|stripped]] [[Lexicon/G2301-2400#G2337|they nursed]] [[Lexicon/G4601-4700#G4661|their cubs;]] [[Lexicon/G2901-3000#G2992|of my people]] [[Lexicon/G401-500#G0446|irretrievability]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4701-4800#G4765|a sparrow]] [[Lexicon/G1701-1800#G1722|in]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1065|indeed,]] [[Lexicon/G1401-1500#G1404|dragons]] [[Lexicon/G1501-1600#G1562|stripped]] [[Lexicon/G2301-2400#G2337|they nursed]] [[Lexicon/G4601-4700#G4661|their cubs;]] [[Lexicon/G2901-3000#G2992|of my people]] [[Lexicon/G401-500#G0446|irretrievability]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4701-4800#G4765|a sparrow]] [[Lexicon/G1701-1800#G1722|in]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Lamentations 4 - 4
 [[Lexicon/G2801-2900#G2853|cleaves]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G5301-5400#G5333|its throat]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1301-1400#G1373|thirst.]] [[Lexicon/G3501-3600#G3516|Infants]] [[Lexicon/G101-200#G0154|ask]] [[Lexicon/G701-800#G0740|for bread,]] [[Lexicon/G1201-1300#G1246|one snapping it]] [[Lexicon/G1401-1500#G1473|for them.]]
@@ -27,13 +31,21 @@ Testament: Old
 [[Lexicon/G3501-3600#G3588|The ones]] [[Lexicon/G2001-2100#G2068|eating]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5101-5200#G5172|delicacies]] [[Lexicon/G801-900#G0853|were removed]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1801-1900#G1841|streets.]] [[Lexicon/G3501-3600#G3588|The ones]] [[Lexicon/G5001-5100#G5087|having been suckled]] [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G2801-2900#G2848|scarlet]] [[Lexicon/G4001-4100#G4033|were embracing]] [[Lexicon/G2801-2900#G2874|dung.]]
 
 #### Lamentations 4 - 6
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3101-3200#G3170|was magnified]] [[Lexicon/G5201-5300#G5228|over]] of Sodom, [[Lexicon/G3501-3600#G3588|the place]] [[Lexicon/G2601-2700#G2690|being eradicated]] [[Lexicon/G5601-5700#G5618|as with]] [[Lexicon/G4701-4800#G4710|promptness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|they did not]] [[Lexicon/G4101-4200#G4188|toil]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G5401-5500#G5495|hands.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3101-3200#G3170|was magnified]] [[Lexicon/G5201-5300#G5228|over]] of Sodom, [[Lexicon/G3501-3600#G3588|the place]] [[Lexicon/G2601-2700#G2690|being eradicated]] [[Lexicon/G5601-5624#G5618|as with]] [[Lexicon/G4701-4800#G4710|promptness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|they did not]] [[Lexicon/G4101-4200#G4188|toil]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|her]] [[Lexicon/G5401-5500#G5495|hands.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Lamentations 4 - 7
 [[Lexicon/G2501-2600#G2510|were clean]] [[Lexicon/G5201-5300#G5228|more than]] [[Lexicon/G5201-5300#G5228|more than]] [[Lexicon/G5201-5300#G5228| were above]]
 
 #### Lamentations 4 - 8
+<<<<<<< HEAD
 [[Lexicon/G4601-4700#G4651|darkened]] [[Lexicon/G3701-3800#G3756|they are not]] [[Lexicon/G1901-2000#G1921|recognized]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1801-1900#G1841|streets;]] [[Lexicon/G4001-4100#G4078|was fixed]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G3701-3800#G3747|their bones;]] [[Lexicon/G3501-3600#G3583|they are dried up,]] [[Lexicon/G1001-1100#G1096|they were]] [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G3501-3600#G3586|wood.]]
+=======
+[[Lexicon/G4601-4700#G4651|darkened]] [[Lexicon/G3701-3800#G3756|they are not]] [[Lexicon/G1901-2000#G1921|recognized]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1801-1900#G1841|streets;]] [[Lexicon/G4001-4100#G4078|was fixed]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G3701-3800#G3747|their bones;]] [[Lexicon/G3501-3600#G3583|they are dried up,]] [[Lexicon/G1001-1100#G1096|they were]] [[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G3501-3600#G3586|wood.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Lamentations 4 - 9
 [[Lexicon/G2501-2600#G2570|Better]] [[Lexicon/G1501-1600#G1510|were]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G5101-5200#G5134|slain]] [[Lexicon/G4501-4600#G4501|by the broadsword]] [[Lexicon/G2201-2300#G2228|than]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G5101-5200#G5134|slain]] [[Lexicon/G3001-3100#G3042|by hunger;]] [[Lexicon/G4101-4200#G4198|they went]] [[Lexicon/G1501-1600#G1574|being pierced]] [[Lexicon/G501-600#G0575|by want]] [[Lexicon/G1001-1100#G1081|of produce]] [[Lexicon/G1-100#G0068|of the fields.]]

@@ -18,7 +18,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3301-3400#G3361|you should not]] [[Lexicon/G1501-1600#G1525|enter]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2901-3000#G2920|judgment]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1401|your servant,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G3701-3800#G3756|not]]
 
 #### Psalms 143 - 3
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G2601-2700#G2614|pursued]] [[Lexicon/G5501-5600#G5590|my soul;]] [[Lexicon/G5001-5100#G5013|he humbled]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G2501-2600#G2523|he seated]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4601-4700#G4652|dark places]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G101-200#G0165|of the eon.]]
+=======
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G2601-2700#G2614|pursued]] [[Lexicon/G5501-5600#G5590|my soul;]] [[Lexicon/G5001-5100#G5013|he humbled]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G2501-2600#G2523|he seated]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4601-4700#G4652|dark places]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G101-200#G0165|of the eon.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 143 - 4
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G101-200#G0185|was discouraged]] [[Lexicon/G1701-1800#G1722|within]]
@@ -27,7 +31,11 @@ Testament: Old
 [[Lexicon/G3401-3500#G3403|I remembered]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G701-800#G0744|of old.]] [[Lexicon/G3101-3200#G3191|I meditated]] [[Lexicon/G1701-1800#G1722|on]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G2001-2100#G2041|your works.]] [[Lexicon/G1701-1800#G1722|on]]
 
 #### Psalms 143 - 6
+<<<<<<< HEAD
 [[Lexicon/G1201-1300#G1276|I opened and spread out]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5401-5500#G5495|my hands.]] [[Lexicon/G5501-5600#G5590|My soul]] [[Lexicon/G5601-5700#G5613|is as]] [[Lexicon/G1001-1100#G1093|land]] [[Lexicon/G1401-1500#G1473|to you.]]
+=======
+[[Lexicon/G1201-1300#G1276|I opened and spread out]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5401-5500#G5495|my hands.]] [[Lexicon/G5501-5600#G5590|My soul]] [[Lexicon/G5601-5624#G5613|is as]] [[Lexicon/G1001-1100#G1093|land]] [[Lexicon/G1401-1500#G1473|to you.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 143 - 7
 [[Lexicon/G5001-5100#G5036|Quickly]] [[Lexicon/G1501-1600#G1522|listen to]] [[Lexicon/G1401-1500#G1473|me!]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G1501-1600#G1587|fails]] [[Lexicon/G3301-3400#G3361|You should not]] [[Lexicon/G601-700#G0654|turn]] [[Lexicon/G4301-4400#G4383|your face]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|so that]] [[Lexicon/G3601-3700#G3666|I shall be like]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2501-2600#G2597|going down]] [[Lexicon/G1501-1600#G1519|into]]

@@ -11,3 +11,12 @@
 
 ---
 
+<<<<<<< HEAD
+=======
+## Related Trajectory Tables
+
+- [[182 - Lament to Praise (From Complaint to Thanksgiving)|Lament to Praise (From Complaint to Thanksgiving)]] - Christ enters the lament (Ps 22:1) to complete the arc to praise (Ps 22:22)
+- [[Trajectory Tables/155 - Suffering Servant (Vicarious Atonement)|Suffering Servant (Vicarious Atonement)]] - The suffering itself
+- [[181 - The Singing Sufferer (Christ the Choir Master)|The Singing Sufferer (Christ the Choir Master)]] - Christ's voice in the Psalms
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

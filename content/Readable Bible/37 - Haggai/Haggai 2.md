@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Haggai-R 2
 
 **[[Home/Scripture/37 - Haggai|Haggai]]**
 
 [[Readable Bible/37 - Haggai/Haggai 1#Haggai-R 1| Haggai 1]]
+=======
+# Haggai 2
+
+[[Readable Bible/37 - Haggai/Haggai 1|← Haggai 1]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

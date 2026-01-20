@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # John-R 14
 
 **[[Home/Scripture/43 - John|John]]**
 
 [[Readable Bible/43 - John/John 13#John-R 13| John 13]] - [[Readable Bible/43 - John/John 15#John-R 15| John 15]]
+=======
+# John 14
+
+[[Readable Bible/43 - John/John 13|← John 13]] | [[Readable Bible/43 - John/John 15|John 15 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

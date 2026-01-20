@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Job 8 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 9 - TOSK|Ch 9 →]]
+=======
+**[[Home/Indexes/Readable Bible/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 9 - TOSK|Ch 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

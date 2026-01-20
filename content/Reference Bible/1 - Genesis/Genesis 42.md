@@ -29,6 +29,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 4|LXX]] |
 
 ##### Genesis 42 - 5
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|So the sons]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H8401-8500#H8432|were among]] [[Lexicon/H901-1000#H935|those who]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H7601-7700#H7666|to buy grain ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H7401-7500#H7458|the famine]] [[Lexicon/H1901-2000#H1961|had [also] spread]] [[Lexicon/H701-800#H776|to the land]] [[Lexicon/H3601-3700#H3667|of Canaan.]]
 | [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 5|LXX]] |
 
@@ -38,6 +39,17 @@ Testament: Old
 
 ##### Genesis 42 - 7
 [[Lexicon/H3101-3200#H3130|And when Joseph]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H201-300#H251|his brothers ,]] [[Lexicon/H5201-5300#H5234|he recognized them ,]] [[Lexicon/H5201-5300#H5234|but he treated them as strangers]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1601-1700#H1696|and spoke]] [[Lexicon/H7101-7200#H7186|harshly]] [[Lexicon/H801-900#H854|to them.]] [[Lexicon/H301-400#H370|“ Where]] [[Lexicon/H901-1000#H935|have you come from ? ”]] [[Lexicon/H501-600#H559|he asked]] [[Lexicon/H401-500#H413|....]] [[Lexicon/H701-800#H776|“ From the land]] [[Lexicon/H3601-3700#H3667|of Canaan , ”]] [[Lexicon/H501-600#H559|they replied.]] [[Lexicon/H7601-7700#H7666|“ [We are here] to buy]] [[Lexicon/H301-400#H400|food. ”]]
+=======
+[[Lexicon/H1101-1200#H1121|So the sons]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H8401-8500#H8432|were among]] [[Lexicon/H901-1000#H935|those who]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H7601-7700#H7666|to buy grain ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H7401-7500#H7458|the famine]] [[Lexicon/H1901-2000#H1961|had (also) spread]] [[Lexicon/H701-800#H776|to the land]] [[Lexicon/H3601-3700#H3667|of Canaan.]]
+| [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 5|LXX]] |
+
+##### Genesis 42 - 6
+[[Lexicon/H3101-3200#H3130|Now Joseph]] [[Lexicon/H1901-2000#H1931|was]] [[Lexicon/H7901-8000#H7989|the ruler]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H701-800#H776|the land ;]] [[Lexicon/H1901-2000#H1931|(he was the one) who]] [[Lexicon/H7601-7700#H7666|sold grain]] [[Lexicon/H3601-3700#H3605|to all]] [[Lexicon/H701-800#H776|its]] [[Lexicon/H5901-6000#H5971|people.]] [[Lexicon/H3101-3200#H3130|So when (his)]] [[Lexicon/H201-300#H251|brothers]] [[Lexicon/H901-1000#H935|arrived ,]] [[Lexicon/H7801-7900#H7812|they bowed down]] [[Lexicon/H601-700#H639|with their faces]] [[Lexicon/H701-800#H776|to the ground.]]
+| [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 6|LXX]] |
+
+##### Genesis 42 - 7
+[[Lexicon/H3101-3200#H3130|And when Joseph]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H201-300#H251|his brothers ,]] [[Lexicon/H5201-5300#H5234|he recognized them ,]] [[Lexicon/H5201-5300#H5234|but he treated them as strangers]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1601-1700#H1696|and spoke]] [[Lexicon/H7101-7200#H7186|harshly]] [[Lexicon/H801-900#H854|to them.]] [[Lexicon/H301-400#H370|“ Where]] [[Lexicon/H901-1000#H935|have you come from ? ”]] [[Lexicon/H501-600#H559|he asked]] [[Lexicon/H401-500#H413|....]] [[Lexicon/H701-800#H776|“ From the land]] [[Lexicon/H3601-3700#H3667|of Canaan , ”]] [[Lexicon/H501-600#H559|they replied.]] [[Lexicon/H7601-7700#H7666|“ (We are here) to buy]] [[Lexicon/H301-400#H400|food. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 7|LXX]] |
 
 ##### Genesis 42 - 8
@@ -45,7 +57,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 8|LXX]] |
 
 ##### Genesis 42 - 9
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2101-2200#H2142|remembered]] [[Lexicon/H2401-2500#H2472|his dreams]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2401-2500#H2492|-]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H401-500#H413|... ,]] [[Lexicon/H801-900#H859|“ You]] [[Lexicon/H7201-7300#H7270|are spies !]] [[Lexicon/H901-1000#H935|You have come]] [[Lexicon/H7101-7200#H7200|to see]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|if our land]] [[Lexicon/H6101-6200#H6172|[is] vulnerable. ”]]
+=======
+[[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2101-2200#H2142|remembered]] [[Lexicon/H2401-2500#H2472|his dreams]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2401-2500#H2492|-]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H401-500#H413|... ,]] [[Lexicon/H801-900#H859|“ You]] [[Lexicon/H7201-7300#H7270|are spies !]] [[Lexicon/H901-1000#H935|You have come]] [[Lexicon/H7101-7200#H7200|to see]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|if our land]] [[Lexicon/H6101-6200#H6172|(is) vulnerable. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 9|LXX]] |
 
 ##### Genesis 42 - 10
@@ -53,11 +69,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 10|LXX]] |
 
 ##### Genesis 42 - 11
+<<<<<<< HEAD
 [[Lexicon/H5101-5200#H5168|We]] [[Lexicon/H3601-3700#H3605|are all]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H201-300#H259|of one]] [[Lexicon/H301-400#H376|man.]] [[Lexicon/H5601-5700#H5650|Your servants]] [[Lexicon/H501-600#H587|...]] [[Lexicon/H1901-2000#H1961|are]] [[Lexicon/H3601-3700#H3651|honest [men] ,]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H7201-7300#H7270|spies. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 11|LXX]] |
 
 ##### Genesis 42 - 12
 [[Lexicon/H3801-3900#H3808|“ No , ”]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H501-600#H559|he told]] [[Lexicon/H401-500#H413|them.]] [[Lexicon/H901-1000#H935|“ You have come]] [[Lexicon/H7101-7200#H7200|to see]] [[Lexicon/H701-800#H776|if our land]] [[Lexicon/H6101-6200#H6172|[is] vulnerable. ”]]
+=======
+[[Lexicon/H5101-5200#H5168|We]] [[Lexicon/H3601-3700#H3605|are all]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H201-300#H259|of one]] [[Lexicon/H301-400#H376|man.]] [[Lexicon/H5601-5700#H5650|Your servants]] [[Lexicon/H501-600#H587|...]] [[Lexicon/H1901-2000#H1961|are]] [[Lexicon/H3601-3700#H3651|honest (men) ,]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H7201-7300#H7270|spies. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 11|LXX]] |
+
+##### Genesis 42 - 12
+[[Lexicon/H3801-3900#H3808|“ No , ”]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H501-600#H559|he told]] [[Lexicon/H401-500#H413|them.]] [[Lexicon/H901-1000#H935|“ You have come]] [[Lexicon/H7101-7200#H7200|to see]] [[Lexicon/H701-800#H776|if our land]] [[Lexicon/H6101-6200#H6172|(is) vulnerable. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 12|LXX]] |
 
 ##### Genesis 42 - 13
@@ -81,7 +105,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 17|LXX]] |
 
 ##### Genesis 42 - 18
+<<<<<<< HEAD
 [[Lexicon/H7901-8000#H7992|and on the third]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H3101-3200#H3130|[he]]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to them ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H589|“ I]] [[Lexicon/H3301-3400#H3373|fear]] [[Lexicon/H401-500#H430|God.]] [[Lexicon/H6201-6300#H6213|So do]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H2401-2500#H2421|and you will live :]]
+=======
+[[Lexicon/H7901-8000#H7992|and on the third]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H3101-3200#H3130|(he)]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to them ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H589|“ I]] [[Lexicon/H3301-3400#H3373|fear]] [[Lexicon/H401-500#H430|God.]] [[Lexicon/H6201-6300#H6213|So do]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H2401-2500#H2421|and you will live :]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 42#Genesis 42 - 18|LXX]] |
 
 ##### Genesis 42 - 19

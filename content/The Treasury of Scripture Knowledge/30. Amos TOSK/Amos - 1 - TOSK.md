@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Amos 1 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/30 - Amos|← Amos]]** | [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 2 - TOSK|Ch 2 →]]
+=======
+**[[Home/Indexes/Readable Bible/30 - Amos|← Amos]]** | [[The Treasury of Scripture Knowledge/30. Amos TOSK/Amos - 2 - TOSK|Ch 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

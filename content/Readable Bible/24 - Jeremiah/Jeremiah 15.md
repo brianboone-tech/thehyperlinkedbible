@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jeremiah-R 15
 
 **[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 14#Jeremiah-R 14| Jeremiah 14]] - [[Readable Bible/24 - Jeremiah/Jeremiah 16#Jeremiah-R 16| Jeremiah 16]]
+=======
+# Jeremiah 15
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 14|← Jeremiah 14]] | [[Readable Bible/24 - Jeremiah/Jeremiah 16|Jeremiah 16 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

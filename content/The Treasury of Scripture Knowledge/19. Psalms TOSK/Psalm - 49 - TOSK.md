@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 49 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 48 - TOSK|← Ch 48]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 50 - TOSK|Ch 50 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 48 - TOSK|← Ch 48]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 50 - TOSK|Ch 50 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

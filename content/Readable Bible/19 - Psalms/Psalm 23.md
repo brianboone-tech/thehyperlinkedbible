@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 23
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 22#Psalm-R 22| Psalm 22]] - [[Readable Bible/19 - Psalms/Psalm 24#Psalm-R 24| Psalm 24]]
+=======
+# Psalm 23
+
+[[Readable Bible/19 - Psalms/Psalm 22|← Psalm 22]] | [[Readable Bible/19 - Psalms/Psalm 24|Psalm 24 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

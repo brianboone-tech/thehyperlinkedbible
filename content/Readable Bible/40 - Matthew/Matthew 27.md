@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Matthew-R 27
 
 **[[Home/Scripture/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 26#Matthew-R 26| Matthew 26]] - [[Readable Bible/40 - Matthew/Matthew 28#Matthew-R 28| Matthew 28]]
+=======
+# Matthew 27
+
+[[Readable Bible/40 - Matthew/Matthew 26|← Matthew 26]] | [[Readable Bible/40 - Matthew/Matthew 28|Matthew 28 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -149,7 +155,11 @@ cssClasses: lexicon
 [[Reference Bible/40 - Matthew/Matthew 27#Matthew 27 - 45|45]] From the sixth hour until the ninth hour darkness came over all the land.  | [[Chiasm/Chiasm - 40 - Matthew 27 . 45 - 53|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 27 - TOSK#Verse 45|TOSK]] |
 
 ##### Matthew 27 . 46
+<<<<<<< HEAD
 [[Reference Bible/40 - Matthew/Matthew 27#Matthew 27 - 46|46]] About the ninth hour Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” which means, “My God, My God, why have You forsaken Me?”  | [[Intertextuality Pairs/NT to OT/40 - Matthew/Matthew 27.46 to Psalms 22.1|IP]] | [[Chiasm/Chiasm - 40 - Matthew 27 . 45 - 53|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 27 - TOSK#Verse 46|TOSK]] | [[Trajectory Tables/167 - Veil (Access Through Christ's Flesh)|TT¹]] | [[Trajectory Tables/011 - Babylonian Exile (Judgment and Discipline)|TT¹]] | [[Trajectory Tables/041 - David (The King After God's Own Heart)|TT²]] |
+=======
+[[Reference Bible/40 - Matthew/Matthew 27#Matthew 27 - 46|46]] About the ninth hour Jesus cried out in a loud voice, "Eli, Eli, lema sabachthani?" which means, "My God, My God, why have You forsaken Me?"  | [[Intertextuality Pairs/NT to OT/40 - Matthew/Matthew 27.46 to Psalms 22.1|IP]] | [[Chiasm/Chiasm - 40 - Matthew 27 . 45 - 53|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 27 - TOSK#Verse 46|TOSK]] | [[Trajectory Tables/167 - Veil (Access Through Christ's Flesh)|TT¹]] | [[Trajectory Tables/011 - Babylonian Exile (Judgment and Discipline)|TT²]] | [[Trajectory Tables/041 - David (The King After God's Own Heart)|TT³]] | [[181 - The Singing Sufferer (Christ the Choir Master)|TT⁴]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Matthew 27 . 47
 [[Reference Bible/40 - Matthew/Matthew 27#Matthew 27 - 47|47]] When some of those standing there heard this, they said, “He is calling Elijah.”  | [[Chiasm/Chiasm - 40 - Matthew 27 . 45 - 53|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 27 - TOSK#Verse 47|TOSK]] |

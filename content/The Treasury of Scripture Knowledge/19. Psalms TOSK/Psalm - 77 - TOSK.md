@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 77 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 76 - TOSK|← Ch 76]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 78 - TOSK|Ch 78 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 76 - TOSK|← Ch 76]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 78 - TOSK|Ch 78 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

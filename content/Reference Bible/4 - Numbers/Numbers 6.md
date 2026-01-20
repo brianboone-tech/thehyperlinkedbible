@@ -21,7 +21,11 @@ Chapter: "6"
 | [[LXX Reference/4 - Numbers/Numbers 6#Numbers 6 - 2|LXX]] |
 
 ##### Numbers 6 - 3
+<<<<<<< HEAD
 [[Lexicon/H5101-5200#H5144|he is to abstain]] [[Lexicon/H3101-3200#H3196|from wine]] [[Lexicon/H7901-8000#H7941|and strong drink.]] [[Lexicon/H3801-3900#H3808|He must not]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H2501-2600#H2558|vinegar]] [[Lexicon/H3101-3200#H3196|made from wine]] [[Lexicon/H2501-2600#H2558|...]] [[Lexicon/H7901-8000#H7941|[or] strong drink ,]] [[Lexicon/H3801-3900#H3808|and he must not]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H6001-6100#H6025|grape]] [[Lexicon/H4901-5000#H4952|juice]] [[Lexicon/H301-400#H398|or eat]] [[Lexicon/H3801-3900#H3892|fresh]] [[Lexicon/H6001-6100#H6025|grapes]] [[Lexicon/H3001-3100#H3002|or raisins]] [[Lexicon/H3801-3900#H3808|....]]
+=======
+[[Lexicon/H5101-5200#H5144|he is to abstain]] [[Lexicon/H3101-3200#H3196|from wine]] [[Lexicon/H7901-8000#H7941|and strong drink.]] [[Lexicon/H3801-3900#H3808|He must not]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H2501-2600#H2558|vinegar]] [[Lexicon/H3101-3200#H3196|made from wine]] [[Lexicon/H2501-2600#H2558|...]] [[Lexicon/H7901-8000#H7941|(or) strong drink ,]] [[Lexicon/H3801-3900#H3808|and he must not]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H6001-6100#H6025|grape]] [[Lexicon/H4901-5000#H4952|juice]] [[Lexicon/H301-400#H398|or eat]] [[Lexicon/H3801-3900#H3892|fresh]] [[Lexicon/H6001-6100#H6025|grapes]] [[Lexicon/H3001-3100#H3002|or raisins]] [[Lexicon/H3801-3900#H3808|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 6#Numbers 6 - 3|LXX]] |
 
 ##### Numbers 6 - 4
@@ -85,7 +89,11 @@ Chapter: "6"
 | [[LXX Reference/4 - Numbers/Numbers 6#Numbers 6 - 18|LXX]] |
 
 ##### Numbers 6 - 19
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3548|And the priest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|is to take]] [[Lexicon/H1301-1400#H1311|the boiled]] [[Lexicon/H2201-2300#H2220|shoulder]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H301-400#H352|the ram ,]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H4601-4700#H4682|unleavened]] [[Lexicon/H2401-2500#H2471|cake]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H5501-5600#H5536|the basket ,]] [[Lexicon/H201-300#H259|and one]] [[Lexicon/H4601-4700#H4682|unleavened]] [[Lexicon/H7501-7600#H7550|wafer ,]] [[Lexicon/H5401-5500#H5414|and put them]] [[Lexicon/H5901-6000#H5921|into]] [[Lexicon/H3701-3800#H3709|the hands]] [[Lexicon/H5101-5200#H5139|of the Nazirite]] [[Lexicon/H301-400#H310|who has just]] [[Lexicon/H1501-1600#H1548|shaved]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5101-5200#H5145|[the hair of] his consecration.]]
+=======
+[[Lexicon/H3501-3600#H3548|And the priest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|is to take]] [[Lexicon/H1301-1400#H1311|the boiled]] [[Lexicon/H2201-2300#H2220|shoulder]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H301-400#H352|the ram ,]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H4601-4700#H4682|unleavened]] [[Lexicon/H2401-2500#H2471|cake]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H5501-5600#H5536|the basket ,]] [[Lexicon/H201-300#H259|and one]] [[Lexicon/H4601-4700#H4682|unleavened]] [[Lexicon/H7501-7600#H7550|wafer ,]] [[Lexicon/H5401-5500#H5414|and put them]] [[Lexicon/H5901-6000#H5921|into]] [[Lexicon/H3701-3800#H3709|the hands]] [[Lexicon/H5101-5200#H5139|of the Nazirite]] [[Lexicon/H301-400#H310|who has just]] [[Lexicon/H1501-1600#H1548|shaved]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5101-5200#H5145|(the hair of) his consecration.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 6#Numbers 6 - 19|LXX]] |
 
 ##### Numbers 6 - 20
@@ -93,7 +101,11 @@ Chapter: "6"
 | [[LXX Reference/4 - Numbers/Numbers 6#Numbers 6 - 20|LXX]] |
 
 ##### Numbers 6 - 21
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2063|This]] [[Lexicon/H8401-8500#H8451|[is] the law]] [[Lexicon/H5101-5200#H5139|of the Nazirite]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H5001-5100#H5087|vows]] [[Lexicon/H7101-7200#H7133|his offering]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H5101-5200#H5145|his separation ,]] [[Lexicon/H901-1000#H905|in addition to]] [[Lexicon/H801-900#H834|whatever else]] [[Lexicon/H5301-5400#H5381|he can afford]] [[Lexicon/H3001-3100#H3027|... ;]] [[Lexicon/H6301-6400#H6310|...]] [[Lexicon/H6201-6300#H6213|he must fulfill]] [[Lexicon/H801-900#H834|whatever]] [[Lexicon/H5001-5100#H5088|vow]] [[Lexicon/H5001-5100#H5087|he makes ,]] [[Lexicon/H3601-3700#H3651|vvv]] [[Lexicon/H5901-6000#H5921|according to]] [[Lexicon/H8401-8500#H8451|the law]] [[Lexicon/H5101-5200#H5145|of his separation. ”]]
+=======
+[[Lexicon/H2001-2100#H2063|This]] [[Lexicon/H8401-8500#H8451|(is) the law]] [[Lexicon/H5101-5200#H5139|of the Nazirite]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H5001-5100#H5087|vows]] [[Lexicon/H7101-7200#H7133|his offering]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H5101-5200#H5145|his separation ,]] [[Lexicon/H901-1000#H905|in addition to]] [[Lexicon/H801-900#H834|whatever else]] [[Lexicon/H5301-5400#H5381|he can afford]] [[Lexicon/H3001-3100#H3027|... ;]] [[Lexicon/H6301-6400#H6310|...]] [[Lexicon/H6201-6300#H6213|he must fulfill]] [[Lexicon/H801-900#H834|whatever]] [[Lexicon/H5001-5100#H5088|vow]] [[Lexicon/H5001-5100#H5087|he makes ,]] [[Lexicon/H3601-3700#H3651|vvv]] [[Lexicon/H5901-6000#H5921|according to]] [[Lexicon/H8401-8500#H8451|the law]] [[Lexicon/H5101-5200#H5145|of his separation. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 6#Numbers 6 - 21|LXX]] |
 
 ##### Numbers 6 - 22

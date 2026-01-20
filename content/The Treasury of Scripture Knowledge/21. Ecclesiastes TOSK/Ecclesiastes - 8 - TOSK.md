@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Ecclesiastes 8 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/21 - Ecclesiastes|← Ecclesiastes]]** | [[The Treasury of Scripture Knowledge/21. Ecclesiastes TOSK/Ecclesiastes - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/21. Ecclesiastes TOSK/Ecclesiastes - 9 - TOSK|Ch 9 →]]
+=======
+**[[Home/Indexes/Readable Bible/21 - Ecclesiastes|← Ecclesiastes]]** | [[The Treasury of Scripture Knowledge/21. Ecclesiastes TOSK/Ecclesiastes - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/21. Ecclesiastes TOSK/Ecclesiastes - 9 - TOSK|Ch 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

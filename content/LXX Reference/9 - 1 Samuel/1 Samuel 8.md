@@ -12,7 +12,11 @@ Testament: Old
 ---
 
 #### 1 Samuel 8 - 1
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1001-1100#G1095|Samuel grew old,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G2501-2600#G2525|he placed]] [[Lexicon/G5201-5300#G5207|his sons]] [[Lexicon/G1301-1400#G1348|as magistrates]] in Israel.
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1001-1100#G1095|Samuel grew old,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G2501-2600#G2525|he placed]] [[Lexicon/G5201-5300#G5207|his sons]] [[Lexicon/G1301-1400#G1348|as magistrates]] in Israel.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Samuel 8 - 2
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3778|these are]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3686|names]] [[Lexicon/G5201-5300#G5207|of his sons.]] [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G4401-4500#G4416|first-born]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1201-1300#G1208|second]] Abiah, [[Lexicon/G1301-1400#G1348|magistrates]] [[Lexicon/G1701-1800#G1722|in]] Beer-sheba.
@@ -27,7 +31,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|they said]] [[Lexicon/G1401-1500#G1473|to him,]] [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1001-1100#G1095|grow old,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5207|your sons]] [[Lexicon/G3701-3800#G3756|do not]] [[Lexicon/G4101-4200#G4198|go]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3598|your way.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3568|now]] [[Lexicon/G2501-2600#G2525|place]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G901-1000#G0935|a king]] [[Lexicon/G1301-1400#G1340|to adjudicate]] [[Lexicon/G1401-1500#G1473|for us]] [[Lexicon/G2501-2600#G2531|as]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations!]]
 
 #### 1 Samuel 8 - 6
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|was]] [[Lexicon/G1701-1800#G1722|in]] of Samuel, [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2001-2100#G2036|they said,]] [[Lexicon/G1301-1400#G1325|Give]] [[Lexicon/G1401-1500#G1473|to us]] [[Lexicon/G901-1000#G0935|a king]] [[Lexicon/G1301-1400#G1340|to adjudicate]] [[Lexicon/G1401-1500#G1473|for us!]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4336|Samuel prayed]] [[Lexicon/G4301-4400#G4314|to]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|was]] [[Lexicon/G1701-1800#G1722|in]] of Samuel, [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2001-2100#G2036|they said,]] [[Lexicon/G1301-1400#G1325|Give]] [[Lexicon/G1401-1500#G1473|to us]] [[Lexicon/G901-1000#G0935|a king]] [[Lexicon/G1301-1400#G1340|to adjudicate]] [[Lexicon/G1401-1500#G1473|for us!]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4336|Samuel prayed]] [[Lexicon/G4301-4400#G4314|to]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Samuel 8 - 7
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4314|to]] Samuel, [[Lexicon/G101-200#G0191|Hearken]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G5401-5500#G5456|voice]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2901-3000#G2992|people!]] [[Lexicon/G2501-2600#G2505|as]] [[Lexicon/G301-400#G0302|whatever]] [[Lexicon/G2901-3000#G2980|they should speak]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1801-1900#G1848|they treat with contempt,]] [[Lexicon/G201-300#G0237|but only]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1801-1900#G1848|they treat with contempt,]] [[Lexicon/G3301-3400#G3361|to not]] [[Lexicon/G901-1000#G0936|reign]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G1401-1500#G1473|them.]]

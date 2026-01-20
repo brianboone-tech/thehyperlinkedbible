@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 9
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 8#Ezekiel-R 8| Ezekiel 8]] - [[Readable Bible/26 - Ezekiel/Ezekiel 10#Ezekiel-R 10| Ezekiel 10]]
+=======
+# Ezekiel 9
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 8|← Ezekiel 8]] | [[Readable Bible/26 - Ezekiel/Ezekiel 10|Ezekiel 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

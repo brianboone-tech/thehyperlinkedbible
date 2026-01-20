@@ -16,6 +16,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 1|LXX]] |
 
 ##### Leviticus 11 - 2
+<<<<<<< HEAD
 [[Lexicon/H1601-1700#H1696|“ Say]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|- ,]] [[Lexicon/H2001-2100#H2063|‘ -]] [[Lexicon/H3601-3700#H3605|Of all]] [[Lexicon/H901-1000#H929|the beasts]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H701-800#H776|the earth ,]] [[Lexicon/H2401-2500#H2416|[these ones]]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H301-400#H398|you may eat :]]
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 2|LXX]] |
 
@@ -25,6 +26,17 @@ Book: Leviticus
 
 ##### Leviticus 11 - 4
 [[Lexicon/H301-400#H389|But]] [[Lexicon/H801-900#H853|of those]] [[Lexicon/H5901-6000#H5927|that [only] chew]] [[Lexicon/H1601-1700#H1625|the cud]] [[Lexicon/H6501-6600#H6536|or [only] have a divided]] [[Lexicon/H6501-6600#H6541|hoof ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3808|you are not]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H2001-2100#H2088|the following :]] [[Lexicon/H1501-1600#H1581|The camel ,]] [[Lexicon/H3501-3600#H3588|though]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H5901-6000#H5927|chews]] [[Lexicon/H1601-1700#H1625|the cud ,]] [[Lexicon/H301-400#H369|does not]] [[Lexicon/H6501-6600#H6536|have a divided]] [[Lexicon/H6501-6600#H6541|hoof ;]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H2901-3000#H2931|is unclean]]
+=======
+[[Lexicon/H1601-1700#H1696|“ Say]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|- ,]] [[Lexicon/H2001-2100#H2063|‘ -]] [[Lexicon/H3601-3700#H3605|Of all]] [[Lexicon/H901-1000#H929|the beasts]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H701-800#H776|the earth ,]] [[Lexicon/H2401-2500#H2416|(these ones)]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H301-400#H398|you may eat :]]
+| [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 2|LXX]] |
+
+##### Leviticus 11 - 3
+[[Lexicon/H301-400#H398|You may eat]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H901-1000#H929|animal]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8101-8200#H8157|(that has) a split]] [[Lexicon/H6501-6600#H6541|...]] [[Lexicon/H6501-6600#H6536|-]] [[Lexicon/H6501-6600#H6541|hoof]] [[Lexicon/H8101-8200#H8156|completely divided]] [[Lexicon/H5901-6000#H5927|and that chews]] [[Lexicon/H1601-1700#H1625|the cud.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 3|LXX]] |
+
+##### Leviticus 11 - 4
+[[Lexicon/H301-400#H389|But]] [[Lexicon/H801-900#H853|of those]] [[Lexicon/H5901-6000#H5927|that (only) chew]] [[Lexicon/H1601-1700#H1625|the cud]] [[Lexicon/H6501-6600#H6536|or (only) have a divided]] [[Lexicon/H6501-6600#H6541|hoof ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3808|you are not]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H2001-2100#H2088|the following :]] [[Lexicon/H1501-1600#H1581|The camel ,]] [[Lexicon/H3501-3600#H3588|though]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H5901-6000#H5927|chews]] [[Lexicon/H1601-1700#H1625|the cud ,]] [[Lexicon/H301-400#H369|does not]] [[Lexicon/H6501-6600#H6536|have a divided]] [[Lexicon/H6501-6600#H6541|hoof ;]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H2901-3000#H2931|is unclean]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 4|LXX]] |
 
 ##### Leviticus 11 - 5
@@ -36,7 +48,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 6|LXX]] |
 
 ##### Leviticus 11 - 7
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|And]] [[Lexicon/H2301-2400#H2386|the pig ,]] [[Lexicon/H3501-3600#H3588|though]] [[Lexicon/H1901-2000#H1931|it [has]]] [[Lexicon/H8101-8200#H8157|a split]] [[Lexicon/H6501-6600#H6541|hoof]] [[Lexicon/H6501-6600#H6536|completely divided]] [[Lexicon/H8101-8200#H8156|...]] [[Lexicon/H6501-6600#H6541|- ,]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H3801-3900#H3808|does not]] [[Lexicon/H1601-1700#H1641|chew]] [[Lexicon/H1601-1700#H1625|the cud ;]] [[Lexicon/H1901-2000#H1931|it [is]]] [[Lexicon/H2901-3000#H2931|unclean]]
+=======
+[[Lexicon/H801-900#H853|And]] [[Lexicon/H2301-2400#H2386|the pig ,]] [[Lexicon/H3501-3600#H3588|though]] [[Lexicon/H1901-2000#H1931|it (has)]] [[Lexicon/H8101-8200#H8157|a split]] [[Lexicon/H6501-6600#H6541|hoof]] [[Lexicon/H6501-6600#H6536|completely divided]] [[Lexicon/H8101-8200#H8156|...]] [[Lexicon/H6501-6600#H6541|- ,]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H3801-3900#H3808|does not]] [[Lexicon/H1601-1700#H1641|chew]] [[Lexicon/H1601-1700#H1625|the cud ;]] [[Lexicon/H1901-2000#H1931|it (is)]] [[Lexicon/H2901-3000#H2931|unclean]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 7|LXX]] |
 
 ##### Leviticus 11 - 8
@@ -44,7 +60,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 8|LXX]] |
 
 ##### Leviticus 11 - 9
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|Of all [the creatures]]] [[Lexicon/H801-900#H834|that [live]]] [[Lexicon/H4301-4400#H4325|in the water ,]] [[Lexicon/H3201-3300#H3220|whether in the seas]] [[Lexicon/H5101-5200#H5158|or in the streams]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H301-400#H398|-]] [[Lexicon/H301-400#H398|you may eat]] [[Lexicon/H2001-2100#H2088|-]] [[Lexicon/H3601-3700#H3605|anything]] [[Lexicon/H801-900#H834|]] [[Lexicon/H5501-5600#H5579|with fins]] [[Lexicon/H7101-7200#H7193|and scales]] [[Lexicon/H4301-4400#H4325|....]]
+=======
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|Of all (the creatures)]] [[Lexicon/H801-900#H834|that (live)]] [[Lexicon/H4301-4400#H4325|in the water ,]] [[Lexicon/H3201-3300#H3220|whether in the seas]] [[Lexicon/H5101-5200#H5158|or in the streams]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H301-400#H398|-]] [[Lexicon/H301-400#H398|you may eat]] [[Lexicon/H2001-2100#H2088|-]] [[Lexicon/H3601-3700#H3605|anything]] [[Lexicon/H801-900#H834|]] [[Lexicon/H5501-5600#H5579|with fins]] [[Lexicon/H7101-7200#H7193|and scales]] [[Lexicon/H4301-4400#H4325|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 9|LXX]] |
 
 ##### Leviticus 11 - 10
@@ -88,7 +108,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 19|LXX]] |
 
 ##### Leviticus 11 - 20
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H5701-5800#H5775|flying]] [[Lexicon/H8301-8400#H8318|insects]] [[Lexicon/H1901-2000#H1980|that walk]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H702|[all] fours]] [[Lexicon/H8201-8300#H8263|are detestable]] [[Lexicon/H1901-2000#H1931|...]]
+=======
+[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H5701-5800#H5775|flying]] [[Lexicon/H8301-8400#H8318|insects]] [[Lexicon/H1901-2000#H1980|that walk]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H702|(all) fours]] [[Lexicon/H8201-8300#H8263|are detestable]] [[Lexicon/H1901-2000#H1931|...]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 20|LXX]] |
 
 ##### Leviticus 11 - 21
@@ -100,11 +124,19 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 22|LXX]] |
 
 ##### Leviticus 11 - 23
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|All [other]]] [[Lexicon/H5701-5800#H5775|flying]] [[Lexicon/H8301-8400#H8318|insects]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H7201-7300#H7272|legs]] [[Lexicon/H8201-8300#H8263|are detestable]] [[Lexicon/H1901-2000#H1931|...]]
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 23|LXX]] |
 
 ##### Leviticus 11 - 24
 [[Lexicon/H401-500#H428|These [creatures]]] [[Lexicon/H2901-3000#H2930|will make you unclean.]] [[Lexicon/H3601-3700#H3605|Whoever]] [[Lexicon/H5001-5100#H5060|touches]] [[Lexicon/H5001-5100#H5038|their carcasses]] [[Lexicon/H2901-3000#H2930|will be unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening ,]]
+=======
+[[Lexicon/H3601-3700#H3605|All (other)]] [[Lexicon/H5701-5800#H5775|flying]] [[Lexicon/H8301-8400#H8318|insects]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H7201-7300#H7272|legs]] [[Lexicon/H8201-8300#H8263|are detestable]] [[Lexicon/H1901-2000#H1931|...]]
+| [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 23|LXX]] |
+
+##### Leviticus 11 - 24
+[[Lexicon/H401-500#H428|These (creatures)]] [[Lexicon/H2901-3000#H2930|will make you unclean.]] [[Lexicon/H3601-3700#H3605|Whoever]] [[Lexicon/H5001-5100#H5060|touches]] [[Lexicon/H5001-5100#H5038|their carcasses]] [[Lexicon/H2901-3000#H2930|will be unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 24|LXX]] |
 
 ##### Leviticus 11 - 25
@@ -132,6 +164,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 30|LXX]] |
 
 ##### Leviticus 11 - 31
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|These [animals]]] [[Lexicon/H2901-3000#H2931|are unclean]] [[Lexicon/H3601-3700#H3605|among all]] [[Lexicon/H8301-8400#H8318|the crawling creatures.]] [[Lexicon/H3601-3700#H3605|Whoever]] [[Lexicon/H5001-5100#H5060|touches]] [[Lexicon/H4101-4200#H4194|when they are dead]] [[Lexicon/H2901-3000#H2930|shall be unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 31|LXX]] |
 
@@ -145,6 +178,21 @@ Book: Leviticus
 
 ##### Leviticus 11 - 34
 [[Lexicon/H3601-3700#H3605|Any]] [[Lexicon/H301-400#H398|vvv]] [[Lexicon/H801-900#H834|vvv]] [[Lexicon/H301-400#H400|food]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H901-1000#H935|coming]] [[Lexicon/H5901-6000#H5921|into contact]] [[Lexicon/H4301-4400#H4325|with water [from that pot]]] [[Lexicon/H2901-3000#H2930|will be unclean ,]] [[Lexicon/H3601-3700#H3605|and any]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H4901-5000#H4945|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3601-3700#H3605|in such a]] [[Lexicon/H3601-3700#H3627|container]] [[Lexicon/H2901-3000#H2930|will be unclean.]]
+=======
+[[Lexicon/H401-500#H428|These (animals)]] [[Lexicon/H2901-3000#H2931|are unclean]] [[Lexicon/H3601-3700#H3605|among all]] [[Lexicon/H8301-8400#H8318|the crawling creatures.]] [[Lexicon/H3601-3700#H3605|Whoever]] [[Lexicon/H5001-5100#H5060|touches]] [[Lexicon/H4101-4200#H4194|when they are dead]] [[Lexicon/H2901-3000#H2930|shall be unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 31|LXX]] |
+
+##### Leviticus 11 - 32
+[[Lexicon/H3601-3700#H3605|When]] [[Lexicon/H801-900#H834|one of them]] [[Lexicon/H4101-4200#H4194|dies]] [[Lexicon/H5301-5400#H5307|and falls]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H2901-3000#H2930|(that article) becomes unclean ;]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H3601-3700#H3627|article]] [[Lexicon/H6001-6100#H6086|of wood ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H801-900#H899|clothing ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H5701-5800#H5785|leather ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H8201-8300#H8242|sackcloth ,]] [[Lexicon/H3601-3700#H3605|or any]] [[Lexicon/H3601-3700#H3627|implement]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6201-6300#H6213|used]] [[Lexicon/H4301-4400#H4399|for work]] [[Lexicon/H4301-4400#H4325|must be rinsed with water]] [[Lexicon/H901-1000#H935|...]] [[Lexicon/H2901-3000#H2930|and will remain unclean]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening ;]] [[Lexicon/H2801-2900#H2891|then it will be clean.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 32|LXX]] |
+
+##### Leviticus 11 - 33
+[[Lexicon/H5301-5400#H5307|falls]] [[Lexicon/H401-500#H413|into]] [[Lexicon/H8401-8500#H8432|...]] [[Lexicon/H3601-3700#H3605|a]] [[Lexicon/H2701-2800#H2789|clay]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3601-3700#H3627|pot ,]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8401-8500#H8432|in]] [[Lexicon/H2901-3000#H2930|it will be unclean ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7601-7700#H7665|you must break (the pot).]]
+| [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 33|LXX]] |
+
+##### Leviticus 11 - 34
+[[Lexicon/H3601-3700#H3605|Any]] [[Lexicon/H301-400#H398|vvv]] [[Lexicon/H801-900#H834|vvv]] [[Lexicon/H301-400#H400|food]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H901-1000#H935|coming]] [[Lexicon/H5901-6000#H5921|into contact]] [[Lexicon/H4301-4400#H4325|with water (from that pot)]] [[Lexicon/H2901-3000#H2930|will be unclean ,]] [[Lexicon/H3601-3700#H3605|and any]] [[Lexicon/H8301-8400#H8354|drink]] [[Lexicon/H4901-5000#H4945|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3601-3700#H3605|in such a]] [[Lexicon/H3601-3700#H3627|container]] [[Lexicon/H2901-3000#H2930|will be unclean.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 34|LXX]] |
 
 ##### Leviticus 11 - 35
@@ -156,7 +204,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 36|LXX]] |
 
 ##### Leviticus 11 - 37
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H5001-5100#H5038|a carcass]] [[Lexicon/H5301-5400#H5307|falls]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H2201-2300#H2233|seed]] [[Lexicon/H2201-2300#H2221|for sowing]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2201-2300#H2232|- ,]] [[Lexicon/H1901-2000#H1931|[the seed]]] [[Lexicon/H2801-2900#H2889|is clean ;]]
+=======
+[[Lexicon/H3501-3600#H3588|If]] [[Lexicon/H5001-5100#H5038|a carcass]] [[Lexicon/H5301-5400#H5307|falls]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H2201-2300#H2233|seed]] [[Lexicon/H2201-2300#H2221|for sowing]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2201-2300#H2232|- ,]] [[Lexicon/H1901-2000#H1931|(the seed)]] [[Lexicon/H2801-2900#H2889|is clean ;]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 37|LXX]] |
 
 ##### Leviticus 11 - 38
@@ -176,7 +228,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 41|LXX]] |
 
 ##### Leviticus 11 - 42
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|Do not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H8301-8400#H8318|any creature]] [[Lexicon/H8301-8400#H8317|that moves]] [[Lexicon/H5901-6000#H5921|along]] [[Lexicon/H701-800#H776|the ground ,]] [[Lexicon/H3601-3700#H3605|whether]] [[Lexicon/H1901-2000#H1980|it crawls]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H1501-1600#H1512|its belly]] [[Lexicon/H3601-3700#H3605|or]] [[Lexicon/H1901-2000#H1980|walks]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H5701-5800#H5704|or]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H7201-7300#H7235|more]] [[Lexicon/H7201-7300#H7272|feet ;]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1992|such [creatures]]] [[Lexicon/H8201-8300#H8263|are detestable.]]
+=======
+[[Lexicon/H3801-3900#H3808|Do not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H8301-8400#H8318|any creature]] [[Lexicon/H8301-8400#H8317|that moves]] [[Lexicon/H5901-6000#H5921|along]] [[Lexicon/H701-800#H776|the ground ,]] [[Lexicon/H3601-3700#H3605|whether]] [[Lexicon/H1901-2000#H1980|it crawls]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H1501-1600#H1512|its belly]] [[Lexicon/H3601-3700#H3605|or]] [[Lexicon/H1901-2000#H1980|walks]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H5701-5800#H5704|or]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H7201-7300#H7235|more]] [[Lexicon/H7201-7300#H7272|feet ;]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1992|such (creatures)]] [[Lexicon/H8201-8300#H8263|are detestable.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 11#Leviticus 11 - 42|LXX]] |
 
 ##### Leviticus 11 - 43

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Genesis-R 38
 
 **[[Home/Scripture/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 37#Genesis-R 37| Genesis 37]] - [[Readable Bible/01 - Genesis/Genesis 39#Genesis-R 39| Genesis 39]]
+=======
+# Genesis 38
+
+[[Readable Bible/01 - Genesis/Genesis 37|← Genesis 37]] | [[Readable Bible/01 - Genesis/Genesis 39|Genesis 39 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

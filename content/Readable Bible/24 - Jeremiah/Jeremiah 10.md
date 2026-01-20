@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jeremiah-R 10
 
 **[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 9#Jeremiah-R 9| Jeremiah 9]] - [[Readable Bible/24 - Jeremiah/Jeremiah 11#Jeremiah-R 11| Jeremiah 11]]
+=======
+# Jeremiah 10
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 9|← Jeremiah 9]] | [[Readable Bible/24 - Jeremiah/Jeremiah 11|Jeremiah 11 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

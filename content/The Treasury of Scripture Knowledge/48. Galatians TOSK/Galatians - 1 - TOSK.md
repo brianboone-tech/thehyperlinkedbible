@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Galatians 1 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/48 - Galatians|← Galatians]]** | [[The Treasury of Scripture Knowledge/48. Galatians TOSK/Galatians - 2 - TOSK|Ch 2 →]]
+=======
+**[[Home/Indexes/Readable Bible/48 - Galatians|← Galatians]]** | [[The Treasury of Scripture Knowledge/48. Galatians TOSK/Galatians - 2 - TOSK|Ch 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

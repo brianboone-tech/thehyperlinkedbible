@@ -13,11 +13,19 @@ Testament: Old
 ---
 
 ##### Genesis 45 - 1
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3130|Then Joseph]] [[Lexicon/H3201-3300#H3201|could]] [[Lexicon/H3801-3900#H3808|no longer]] [[Lexicon/H601-700#H662|control himself]] [[Lexicon/H3601-3700#H3605|before all]] [[Lexicon/H5301-5400#H5324|his attendants ,]] [[Lexicon/H5901-6000#H5921|vvv]] [[Lexicon/H7101-7200#H7121|and he cried out ,]] [[Lexicon/H3601-3700#H3605|“ Send everyone]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H3301-3400#H3318|away]] [[Lexicon/H5901-6000#H5921|from me ! ”]] [[Lexicon/H3801-3900#H3808|So none]] [[Lexicon/H5901-6000#H5975|[of them] were with]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H801-900#H854|[Joseph]]] [[Lexicon/H3101-3200#H3130|when he]] [[Lexicon/H3001-3100#H3045|made himself known]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H201-300#H251|his brothers.]]
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 1|LXX]] |
 
 ##### Genesis 45 - 2
 [[Lexicon/H1001-1100#H1065|But he wept]] [[Lexicon/H5401-5500#H5414|so loudly]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6963|-]] [[Lexicon/H4701-4800#H4713|that the Egyptians]] [[Lexicon/H8001-8100#H8085|heard him ,]] [[Lexicon/H6501-6600#H6547|and Pharaoh’s]] [[Lexicon/H1001-1100#H1004|household]] [[Lexicon/H8001-8100#H8085|[soon] heard of it.]]
+=======
+[[Lexicon/H3101-3200#H3130|Then Joseph]] [[Lexicon/H3201-3300#H3201|could]] [[Lexicon/H3801-3900#H3808|no longer]] [[Lexicon/H601-700#H662|control himself]] [[Lexicon/H3601-3700#H3605|before all]] [[Lexicon/H5301-5400#H5324|his attendants ,]] [[Lexicon/H5901-6000#H5921|vvv]] [[Lexicon/H7101-7200#H7121|and he cried out ,]] [[Lexicon/H3601-3700#H3605|“ Send everyone]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H3301-3400#H3318|away]] [[Lexicon/H5901-6000#H5921|from me ! ”]] [[Lexicon/H3801-3900#H3808|So none]] [[Lexicon/H5901-6000#H5975|(of them) were with]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H801-900#H854|(Joseph)]] [[Lexicon/H3101-3200#H3130|when he]] [[Lexicon/H3001-3100#H3045|made himself known]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H201-300#H251|his brothers.]]
+| [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 1|LXX]] |
+
+##### Genesis 45 - 2
+[[Lexicon/H1001-1100#H1065|But he wept]] [[Lexicon/H5401-5500#H5414|so loudly]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6963|-]] [[Lexicon/H4701-4800#H4713|that the Egyptians]] [[Lexicon/H8001-8100#H8085|heard him ,]] [[Lexicon/H6501-6600#H6547|and Pharaoh’s]] [[Lexicon/H1001-1100#H1004|household]] [[Lexicon/H8001-8100#H8085|(soon) heard of it.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 2|LXX]] |
 
 ##### Genesis 45 - 3
@@ -25,7 +33,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 3|LXX]] |
 
 ##### Genesis 45 - 4
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3130|Then Joseph]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H201-300#H251|his brothers ,]] [[Lexicon/H4901-5000#H4994|“ Please]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5001-5100#H5066|come near me. ”]] [[Lexicon/H5001-5100#H5066|And they [did so].]] [[Lexicon/H501-600#H589|“ I]] [[Lexicon/H3101-3200#H3130|am Joseph ,]] [[Lexicon/H201-300#H251|your brother , ”]] [[Lexicon/H501-600#H559|he said ,]] [[Lexicon/H801-900#H834|“ the one]] [[Lexicon/H4301-4400#H4376|you sold]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4701-4800#H4714|into Egypt !]]
+=======
+[[Lexicon/H3101-3200#H3130|Then Joseph]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H201-300#H251|his brothers ,]] [[Lexicon/H4901-5000#H4994|“ Please]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5001-5100#H5066|come near me. ”]] [[Lexicon/H5001-5100#H5066|And they (did so).]] [[Lexicon/H501-600#H589|“ I]] [[Lexicon/H3101-3200#H3130|am Joseph ,]] [[Lexicon/H201-300#H251|your brother , ”]] [[Lexicon/H501-600#H559|he said ,]] [[Lexicon/H801-900#H834|“ the one]] [[Lexicon/H4301-4400#H4376|you sold]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4701-4800#H4714|into Egypt !]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 4|LXX]] |
 
 ##### Genesis 45 - 5
@@ -57,7 +69,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 11|LXX]] |
 
 ##### Genesis 45 - 12
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2009|Behold !]] [[Lexicon/H5801-5900#H5869|You]] [[Lexicon/H201-300#H251|and my brother]] [[Lexicon/H1101-1200#H1144|Benjamin]] [[Lexicon/H5801-5900#H5869|vvv]] [[Lexicon/H7101-7200#H7200|can see]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H6301-6400#H6310|I, [Joseph],]] [[Lexicon/H1601-1700#H1696|am [the one] speaking]] [[Lexicon/H401-500#H413|with you.]]
+=======
+[[Lexicon/H2001-2100#H2009|Behold !]] [[Lexicon/H5801-5900#H5869|You]] [[Lexicon/H201-300#H251|and my brother]] [[Lexicon/H1101-1200#H1144|Benjamin]] [[Lexicon/H5801-5900#H5869|vvv]] [[Lexicon/H7101-7200#H7200|can see]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H6301-6400#H6310|I, (Joseph),]] [[Lexicon/H1601-1700#H1696|am (the one) speaking]] [[Lexicon/H401-500#H413|with you.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 12|LXX]] |
 
 ##### Genesis 45 - 13
@@ -93,11 +109,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 20|LXX]] |
 
 ##### Genesis 45 - 21
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|So the sons]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3601-3700#H3651|[as they were told].]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H5601-5700#H5699|wagons]] [[Lexicon/H5901-6000#H5921|as]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H6301-6400#H6310|had instructed ,]] [[Lexicon/H5401-5500#H5414|and he also gave]] [[Lexicon/H6701-6800#H6720|provisions]] [[Lexicon/H1801-1900#H1870|for their journey.]]
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 21|LXX]] |
 
 ##### Genesis 45 - 22
 [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H5401-5500#H5414|He gave]] [[Lexicon/H2401-2500#H2487|new]] [[Lexicon/H8001-8100#H8071|garments]] [[Lexicon/H301-400#H376|to each of them ,]] [[Lexicon/H1101-1200#H1144|but to Benjamin]] [[Lexicon/H5401-5500#H5414|he gave]] [[Lexicon/H7901-8000#H7969|three]] [[Lexicon/H3901-4000#H3967|hundred [shekels]]] [[Lexicon/H3701-3800#H3701|of silver]] [[Lexicon/H2501-2600#H2568|and five]] [[Lexicon/H2401-2500#H2487|sets]] [[Lexicon/H8001-8100#H8071|of clothes.]]
+=======
+[[Lexicon/H1101-1200#H1121|So the sons]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H3601-3700#H3651|(as they were told).]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H5601-5700#H5699|wagons]] [[Lexicon/H5901-6000#H5921|as]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H6301-6400#H6310|had instructed ,]] [[Lexicon/H5401-5500#H5414|and he also gave]] [[Lexicon/H6701-6800#H6720|provisions]] [[Lexicon/H1801-1900#H1870|for their journey.]]
+| [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 21|LXX]] |
+
+##### Genesis 45 - 22
+[[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H5401-5500#H5414|He gave]] [[Lexicon/H2401-2500#H2487|new]] [[Lexicon/H8001-8100#H8071|garments]] [[Lexicon/H301-400#H376|to each of them ,]] [[Lexicon/H1101-1200#H1144|but to Benjamin]] [[Lexicon/H5401-5500#H5414|he gave]] [[Lexicon/H7901-8000#H7969|three]] [[Lexicon/H3901-4000#H3967|hundred (shekels)]] [[Lexicon/H3701-3800#H3701|of silver]] [[Lexicon/H2501-2600#H2568|and five]] [[Lexicon/H2401-2500#H2487|sets]] [[Lexicon/H8001-8100#H8071|of clothes.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 22|LXX]] |
 
 ##### Genesis 45 - 23
@@ -109,7 +133,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 24|LXX]] |
 
 ##### Genesis 45 - 25
+<<<<<<< HEAD
 [[Lexicon/H5901-6000#H5927|So [the brothers] went up]] [[Lexicon/H4701-4800#H4714|out of Egypt]] [[Lexicon/H901-1000#H935|and came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3667|of Canaan.]]
+=======
+[[Lexicon/H5901-6000#H5927|So (the brothers) went up]] [[Lexicon/H4701-4800#H4714|out of Egypt]] [[Lexicon/H901-1000#H935|and came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1-100#H1|their father]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3667|of Canaan.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 45#Genesis 45 - 25|LXX]] |
 
 ##### Genesis 45 - 26

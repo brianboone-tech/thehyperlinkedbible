@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Leviticus-R 6
 
 **[[Home/Scripture/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 5#Leviticus-R 5| Leviticus 5]] - [[Readable Bible/03 - Leviticus/Leviticus 7#Leviticus-R 7| Leviticus 7]]
+=======
+# Leviticus 6
+
+[[Readable Bible/03 - Leviticus/Leviticus 5|← Leviticus 5]] | [[Readable Bible/03 - Leviticus/Leviticus 7|Leviticus 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Leviticus 6 . 1
+<<<<<<< HEAD
 [[Reference Bible/3 - Leviticus/Leviticus 6#Leviticus 6 - 1|1]] And the LORD said to Moses,   || [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 6 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/163 - Trespass-Offering (Restitution and Restoration)|TT]] |
+=======
+[[Reference Bible/3 - Leviticus/Leviticus 6#Leviticus 6 - 1|1]] And the LORD said to Moses,  | | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 6 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/163 - Trespass-Offering (Restitution and Restoration)|TT]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Leviticus 6 . 2
 [[Reference Bible/3 - Leviticus/Leviticus 6#Leviticus 6 - 2|2]] "If someone sins and acts unfaithfully against the LORD by deceiving his neighbor in regard to a deposit or security entrusted to him or stolen, or if he extorts his neighbor  | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 6 - TOSK#Verse 2|TOSK]] |

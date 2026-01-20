@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/61 - 2 Peter|← 2 Peter]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/61 - 2 Peter|← 2 Peter]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

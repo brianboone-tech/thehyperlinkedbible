@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Acts-R 20
 
 **[[Home/Scripture/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 19#Acts-R 19| Acts 19]] - [[Readable Bible/44 - Acts/Acts 21#Acts-R 21| Acts 21]]
+=======
+# Acts 20
+
+[[Readable Bible/44 - Acts/Acts 19|← Acts 19]] | [[Readable Bible/44 - Acts/Acts 21|Acts 21 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Acts 20 . 1
+<<<<<<< HEAD
 [[Reference Bible/44 - Acts/Acts 20#Acts 20 - 1|1]] When the uproar had ended, Paul sent for the disciples. And after encouraging them, he said goodbye to them and left for Macedonia.   || [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 20 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/44 - Acts/Acts 20#Acts 20 - 1|1]] When the uproar had ended, Paul sent for the disciples. And after encouraging them, he said goodbye to them and left for Macedonia.  | | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 20 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Acts 20 . 2
 [[Reference Bible/44 - Acts/Acts 20#Acts 20 - 2|2]] After traveling through that area and speaking many words of encouragement, he arrived in Greece,  | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 20 - TOSK#Verse 2|TOSK]] |

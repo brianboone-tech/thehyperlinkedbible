@@ -52,7 +52,11 @@ cssClasses: lexicon
 [[Lexicon/H201-300#H227|Then]] [[Lexicon/H4301-4400#H4325|I will let her waters]] [[Lexicon/H8201-8300#H8257|settle]] [[Lexicon/H5101-5200#H5104|and will make her rivers]] [[Lexicon/H1901-2000#H1980|flow]] [[Lexicon/H8001-8100#H8081|like oil , ’]] [[Lexicon/H5001-5100#H5002|declares]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD.]]
 
 ##### Ezekiel 32 - 15
+<<<<<<< HEAD
 [[Lexicon/H5401-5500#H5414|‘ When I make]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H8001-8100#H8077|a desolation]] [[Lexicon/H8001-8100#H8074|and empty]] [[Lexicon/H701-800#H776|[it]]] [[Lexicon/H4301-4400#H4393|of all that filled it ,]] [[Lexicon/H5201-5300#H5221|when I strike down]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3401-3500#H3427|who live]] [[Lexicon/H3001-3100#H3045|then they will know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD. ’]]
+=======
+[[Lexicon/H5401-5500#H5414|‘ When I make]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H8001-8100#H8077|a desolation]] [[Lexicon/H8001-8100#H8074|and empty]] [[Lexicon/H701-800#H776|(it)]] [[Lexicon/H4301-4400#H4393|of all that filled it ,]] [[Lexicon/H5201-5300#H5221|when I strike down]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3401-3500#H3427|who live]] [[Lexicon/H3001-3100#H3045|then they will know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD. ’]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 32 - 16
 [[Lexicon/H1901-2000#H1931|This]] [[Lexicon/H6901-7000#H6969|is the lament]] [[Lexicon/H7001-7100#H7015|they will chant for her ;]] [[Lexicon/H1301-1400#H1323|the daughters]] [[Lexicon/H1401-1500#H1471|of the nations]] [[Lexicon/H6901-7000#H6969|will chant it]] [[Lexicon/H801-900#H853|-.]] [[Lexicon/H5901-6000#H5921|Over]] [[Lexicon/H4701-4800#H4714|Egypt]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H1901-2000#H1995|her multitudes]] [[Lexicon/H6901-7000#H6969|they will chant it]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H5001-5100#H5002|declares]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD. ”]]
@@ -67,10 +71,17 @@ cssClasses: lexicon
 [[Lexicon/H4301-4400#H4310|Whom]] [[Lexicon/H5201-5300#H5276|do you surpass in beauty ?]] [[Lexicon/H3301-3400#H3381|Go down]] [[Lexicon/H7901-8000#H7901|and be placed]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H6101-6200#H6189|the uncircumcised !]]
 
 ##### Ezekiel 32 - 20
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5307|They will fall]] [[Lexicon/H8401-8500#H8432|among]] [[Lexicon/H2401-2500#H2491|those slain]] [[Lexicon/H2701-2800#H2719|by the sword.]] [[Lexicon/H2701-2800#H2719|The sword]] [[Lexicon/H5401-5500#H5414|is appointed !]] [[Lexicon/H4801-4900#H4900|Let [them] drag her away]] [[Lexicon/H3601-3700#H3605|along with all]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1901-2000#H1995|her multitudes.]]
 
 ##### Ezekiel 32 - 21
 [[Lexicon/H1301-1400#H1368|Mighty]] [[Lexicon/H301-400#H352|chiefs]] [[Lexicon/H1601-1700#H1696|will speak]] [[Lexicon/H8401-8500#H8432|from the midst]] [[Lexicon/H7501-7600#H7585|of Sheol]] [[Lexicon/H801-900#H854|about [Egypt]]] [[Lexicon/H5801-5900#H5826|and her allies :]] [[Lexicon/H3301-3400#H3381|‘ They have come down]] [[Lexicon/H7901-8000#H7901|and lie]] [[Lexicon/H6101-6200#H6189|with the uncircumcised ,]] [[Lexicon/H2401-2500#H2491|with those slain]] [[Lexicon/H2701-2800#H2719|by the sword. ’]]
+=======
+[[Lexicon/H5301-5400#H5307|They will fall]] [[Lexicon/H8401-8500#H8432|among]] [[Lexicon/H2401-2500#H2491|those slain]] [[Lexicon/H2701-2800#H2719|by the sword.]] [[Lexicon/H2701-2800#H2719|The sword]] [[Lexicon/H5401-5500#H5414|is appointed !]] [[Lexicon/H4801-4900#H4900|Let (them) drag her away]] [[Lexicon/H3601-3700#H3605|along with all]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1901-2000#H1995|her multitudes.]]
+
+##### Ezekiel 32 - 21
+[[Lexicon/H1301-1400#H1368|Mighty]] [[Lexicon/H301-400#H352|chiefs]] [[Lexicon/H1601-1700#H1696|will speak]] [[Lexicon/H8401-8500#H8432|from the midst]] [[Lexicon/H7501-7600#H7585|of Sheol]] [[Lexicon/H801-900#H854|about (Egypt)]] [[Lexicon/H5801-5900#H5826|and her allies :]] [[Lexicon/H3301-3400#H3381|‘ They have come down]] [[Lexicon/H7901-8000#H7901|and lie]] [[Lexicon/H6101-6200#H6189|with the uncircumcised ,]] [[Lexicon/H2401-2500#H2491|with those slain]] [[Lexicon/H2701-2800#H2719|by the sword. ’]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 32 - 22
 [[Lexicon/H801-900#H804|Assyria]] [[Lexicon/H8001-8100#H8033|is there]] [[Lexicon/H3601-3700#H3605|with her whole]] [[Lexicon/H6901-7000#H6951|company ;]] [[Lexicon/H6901-7000#H6913|her graves]] [[Lexicon/H5401-5500#H5439|are all around her.]] [[Lexicon/H3601-3700#H3605|All of them]] [[Lexicon/H2401-2500#H2491|are slain ,]] [[Lexicon/H5301-5400#H5307|fallen]] [[Lexicon/H2701-2800#H2719|by the sword.]]

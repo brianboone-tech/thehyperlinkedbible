@@ -5,12 +5,18 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Romans-R 9
 
 **[[Home/Scripture/45 - Romans|Romans]]**
 
 
 [[Readable Bible/45 - Romans/Romans 8#Romans-R 8| Romans 8]] - [[Readable Bible/45 - Romans/Romans 10#Romans-R 10| Romans 10]]
+=======
+# Romans 9
+
+[[Readable Bible/45 - Romans/Romans 8|← Romans 8]] | [[Readable Bible/45 - Romans/Romans 10|Romans 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

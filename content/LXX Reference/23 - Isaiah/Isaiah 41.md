@@ -15,7 +15,11 @@ Testament: Old
 [[Lexicon/G1401-1500#G1457|Dedicate a feast]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G3501-3600#G3520|O islands,]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G701-800#G0758|rulers]] [[Lexicon/G201-300#G0236|shall change]] [[Lexicon/G2401-2500#G2479|strength.]] [[Lexicon/G1401-1500#G1448|Let them approach]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2980|speak]] [[Lexicon/G201-300#G0260|together,]] [[Lexicon/G5101-5200#G5119|then]] [[Lexicon/G2901-3000#G2920|judgment]]
 
 #### Isaiah 41 - 2
+<<<<<<< HEAD
 [[Lexicon/G5001-5100#G5100|Who]] [[Lexicon/G1801-1900#G1825|awakened]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2564|called]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G2501-2600#G2596|by]] [[Lexicon/G4201-4300#G4228|his feet,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4198|it shall go?]] [[Lexicon/G1301-1400#G1325|He shall appoint]] [[Lexicon/G1701-1800#G1726|against]] [[Lexicon/G1401-1500#G1484|nations,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G901-1000#G0935|kings]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|he shall put]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]]
+=======
+[[Lexicon/G5001-5100#G5100|Who]] [[Lexicon/G1801-1900#G1825|awakened]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2564|called]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G2501-2600#G2596|by]] [[Lexicon/G4201-4300#G4228|his feet,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4198|it shall go?]] [[Lexicon/G1301-1400#G1325|He shall appoint]] [[Lexicon/G1701-1800#G1726|against]] [[Lexicon/G1401-1500#G1484|nations,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G901-1000#G0935|kings]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|he shall put]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 41 - 3
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1301-1400#G1377|he shall pursue]] [[Lexicon/G1401-1500#G1473|them;]] [[Lexicon/G1301-1400#G1330|shall go through]]
@@ -42,10 +46,17 @@ Testament: Old
 [[Lexicon/G3301-3400#G3361|Do not]] [[Lexicon/G5301-5400#G5399|fear!]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3301-3400#G3361|Do not]] [[Lexicon/G4101-4200#G4105|wander!]] [[Lexicon/G1401-1500#G1473|for I]] [[Lexicon/G1501-1600#G1510|am]] [[Lexicon/G2301-2400#G2316|your God;]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1701-1800#G1765|one strengthening]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G901-1000#G0997|I will give help]] [[Lexicon/G1401-1500#G1473|to you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G0805|safeguard]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1101-1200#G1188|right hand]]
 
 #### Isaiah 41 - 11
+<<<<<<< HEAD
 [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G101-200#G0153|shall be ashamed]] [[Lexicon/G1501-1600#G1510|for they will be]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5201-5300#G5224|existing;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0622|shall perish]]
 
 #### Isaiah 41 - 12
 [[Lexicon/G2201-2300#G2212|You shall seek]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G2101-2200#G2147|shall you find]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0444|men]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G3901-4000#G3942|shall insult while drunk with wine]] [[Lexicon/G1501-1600#G1519|against]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G1501-1600#G1510|for they shall be]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3701-3800#G3756|ones not]] [[Lexicon/G1501-1600#G1510|being;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|shall not]]
+=======
+[[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G101-200#G0153|shall be ashamed]] [[Lexicon/G1501-1600#G1510|for they will be]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5201-5300#G5224|existing;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0622|shall perish]]
+
+#### Isaiah 41 - 12
+[[Lexicon/G2201-2300#G2212|You shall seek]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G2101-2200#G2147|shall you find]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0444|men]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G3901-4000#G3942|shall insult while drunk with wine]] [[Lexicon/G1501-1600#G1519|against]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G1501-1600#G1510|for they shall be]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3701-3800#G3756|ones not]] [[Lexicon/G1501-1600#G1510|being;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|shall not]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 41 - 13
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G2301-2400#G2316|your God,]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2901-3000#G2902|holding]] [[Lexicon/G1101-1200#G1188|your right hand,]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G3001-3100#G3004|saying]] [[Lexicon/G1401-1500#G1473|to you,]]
@@ -54,7 +65,11 @@ Testament: Old
 [[Lexicon/G3301-3400#G3361|Do not]] [[Lexicon/G5301-5400#G5399|fear,]] O Jacob, [[Lexicon/G3601-3700#G3641|O Israel, very few in number!]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G901-1000#G0997|gave help]] [[Lexicon/G1401-1500#G1473|to you,]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2301-2400#G2316|your God,]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G3001-3100#G3084|ransoming]] [[Lexicon/G1401-1500#G1473|you,]] O Israel.
 
 #### Isaiah 41 - 15
+<<<<<<< HEAD
 [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G4101-4200#G4160|I made]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5101-5200#G5164|wheels]] [[Lexicon/G201-300#G0261|of a wagon]] [[Lexicon/G201-300#G0248|threshing]] [[Lexicon/G2501-2600#G2537|new,]] [[Lexicon/G4201-4300#G4252|toothed ;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G201-300#G0248|you shall thresh]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3016|shall thin out]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]]
+=======
+[[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G4101-4200#G4160|I made]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5101-5200#G5164|wheels]] [[Lexicon/G201-300#G0261|of a wagon]] [[Lexicon/G201-300#G0248|threshing]] [[Lexicon/G2501-2600#G2537|new,]] [[Lexicon/G4201-4300#G4252|toothed ;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G201-300#G0248|you shall thresh]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3016|shall thin out]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 41 - 16
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3001-3100#G3039|you shall winnow them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0417|a wind]] [[Lexicon/G2901-3000#G2983|shall take]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1289|shall scatter]] [[Lexicon/G1401-1500#G1473|them.]] [[Lexicon/G1401-1500#G1473|But you]] [[Lexicon/G2101-2200#G2165|shall be glad]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G0039|holy ones]] of Israel.
@@ -84,7 +99,11 @@ Testament: Old
 [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4101-4200#G4159|from what place]] [[Lexicon/G1501-1600#G1510|you are,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4159|from what place]] [[Lexicon/G2001-2100#G2039|your work is from;]] [[Lexicon/G1501-1600#G1537|out of]]
 
 #### Isaiah 41 - 25
+<<<<<<< HEAD
 [[Lexicon/G1401-1500#G1473|But I]] [[Lexicon/G1401-1500#G1453|raised up]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G301-400#G0395|eastward;]] [[Lexicon/G2501-2600#G2564|they shall be called]] [[Lexicon/G3601-3700#G3686|by my name;]] [[Lexicon/G2001-2100#G2064|let come]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4001-4100#G4081|clay]] [[Lexicon/G2701-2800#G2763|of a potter,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2701-2800#G2763|a potter]] [[Lexicon/G2601-2700#G2662|trampling down]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4001-4100#G4081|clay,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G2601-2700#G2662|you shall be trampled.]]
+=======
+[[Lexicon/G1401-1500#G1473|But I]] [[Lexicon/G1401-1500#G1453|raised up]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G301-400#G0395|eastward;]] [[Lexicon/G2501-2600#G2564|they shall be called]] [[Lexicon/G3601-3700#G3686|by my name;]] [[Lexicon/G2001-2100#G2064|let come]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4001-4100#G4081|clay]] [[Lexicon/G2701-2800#G2763|of a potter,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2701-2800#G2763|a potter]] [[Lexicon/G2601-2700#G2662|trampling down]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4001-4100#G4081|clay,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G2601-2700#G2662|you shall be trampled.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 41 - 26
 [[Lexicon/G5001-5100#G5100|For who]] [[Lexicon/G301-400#G0312|shall announce]] [[Lexicon/G3501-3600#G3588|the things]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G1001-1100#G1097|we should know]] [[Lexicon/G2501-2600#G2532|also]] [[Lexicon/G3501-3600#G3588|the things]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2046|we shall say]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G201-300#G0227|they are true?]] [[Lexicon/G3701-3800#G3756|There is not]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G4301-4400#G4302|speaking beforehand,]] [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G3501-3600#G3588|one]] [[Lexicon/G101-200#G0191|hearing]] [[Lexicon/G1401-1500#G1473|your]] [[Lexicon/G3001-3100#G3056|words.]]

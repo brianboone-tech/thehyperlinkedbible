@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Peter-R 3
 
 **[[Home/Scripture/61 - 2 Peter|2 Peter]]**
 
 [[Readable Bible/61 - 2 Peter/2 Peter 2#2 Peter-R 2| 2 Peter 2]] - [[Readable Bible/61 - 2 Peter/2 Peter 4#2 Peter-R 4| 2 Peter 4]]
+=======
+# 2 Peter 3
+
+[[Readable Bible/61 - 2 Peter/2 Peter 2|← 2 Peter 2]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

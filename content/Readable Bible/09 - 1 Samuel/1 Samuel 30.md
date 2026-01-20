@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Samuel-R 30
 
 **[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
 
 [[Readable Bible/09 - 1 Samuel/1 Samuel 29#1 Samuel-R 29| 1 Samuel 29]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 31#1 Samuel-R 31| 1 Samuel 31]]
+=======
+# 1 Samuel 30
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 29|← 1 Samuel 29]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 31|1 Samuel 31 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

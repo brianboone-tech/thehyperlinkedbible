@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Romans-R 8
 
 **[[Home/Scripture/45 - Romans|Romans]]**
 
 [[Readable Bible/45 - Romans/Romans 7#Romans-R 7| Romans 7]] - [[Readable Bible/45 - Romans/Romans 9#Romans-R 9| Romans 9]]
+=======
+# Romans 8
+
+[[Readable Bible/45 - Romans/Romans 7|← Romans 7]] | [[Readable Bible/45 - Romans/Romans 9|Romans 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Romans 8 . 1
+<<<<<<< HEAD
 [[Reference Bible/45 - Romans/Romans 8#Romans 8 - 1|1]] Therefore, there is now no condemnation for those who are in Christ Jesus.   || [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 8 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/141 - Scapegoat (Removal of Sins)|TT¹]] | [[Trajectory Tables/031 - Cities of Refuge (Safety in Christ)|TT¹]] |
+=======
+[[Reference Bible/45 - Romans/Romans 8#Romans 8 - 1|1]] Therefore, there is now no condemnation for those who are in Christ Jesus.  | | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 8 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/141 - Scapegoat (Removal of Sins)|TT¹]] | [[Trajectory Tables/031 - Cities of Refuge (Safety in Christ)|TT¹]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ##### Romans 8 . 2
 [[Reference Bible/45 - Romans/Romans 8#Romans 8 - 2|2]] For in Christ Jesus the law of the Spirit of life set you free from the law of sin and death.  | [[The Treasury of Scripture Knowledge/45. Romans TOSK/Romans - 8 - TOSK#Verse 2|TOSK]] |
 ##### Romans 8 . 3

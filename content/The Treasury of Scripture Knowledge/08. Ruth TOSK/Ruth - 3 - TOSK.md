@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Ruth 3 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/08 - Ruth|← Ruth]]** | [[The Treasury of Scripture Knowledge/08. Ruth TOSK/Ruth - 2 - TOSK|← Ch 2]] | [[The Treasury of Scripture Knowledge/08. Ruth TOSK/Ruth - 4 - TOSK|Ch 4 →]]
+=======
+**[[Home/Indexes/Readable Bible/08 - Ruth|← Ruth]]** | [[The Treasury of Scripture Knowledge/08. Ruth TOSK/Ruth - 2 - TOSK|← Ch 2]] | [[The Treasury of Scripture Knowledge/08. Ruth TOSK/Ruth - 4 - TOSK|Ch 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

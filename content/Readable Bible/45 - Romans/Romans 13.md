@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Romans-R 13
 
 **[[Home/Scripture/45 - Romans|Romans]]**
 
 [[Readable Bible/45 - Romans/Romans 12#Romans-R 12| Romans 12]] - [[Readable Bible/45 - Romans/Romans 14#Romans-R 14| Romans 14]]
+=======
+# Romans 13
+
+[[Readable Bible/45 - Romans/Romans 12|← Romans 12]] | [[Readable Bible/45 - Romans/Romans 14|Romans 14 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

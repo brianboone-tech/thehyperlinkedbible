@@ -14,7 +14,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 104#Psalm 104 - 1|LXX]] |
 
 ##### Psalm 104 - 2
+<<<<<<< HEAD
 [[Lexicon/H5801-5900#H5844|He wraps Himself]] [[Lexicon/H201-300#H216|in light]] [[Lexicon/H8001-8100#H8008|as [with] a garment ;]] [[Lexicon/H5101-5200#H5186|He stretches out]] [[Lexicon/H8001-8100#H8064|the heavens]] [[Lexicon/H3401-3500#H3407|like a tent ,]]
+=======
+[[Lexicon/H5801-5900#H5844|He wraps Himself]] [[Lexicon/H201-300#H216|in light]] [[Lexicon/H8001-8100#H8008|as (with) a garment ;]] [[Lexicon/H5101-5200#H5186|He stretches out]] [[Lexicon/H8001-8100#H8064|the heavens]] [[Lexicon/H3401-3500#H3407|like a tent ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 104#Psalm 104 - 2|LXX]] |
 
 ##### Psalm 104 - 3
@@ -66,7 +70,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 104#Psalm 104 - 14|LXX]] |
 
 ##### Psalm 104 - 15
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3196|wine]] [[Lexicon/H8001-8100#H8055|that gladdens]] [[Lexicon/H3801-3900#H3824|the heart]] [[Lexicon/H501-600#H582|of man ,]] [[Lexicon/H8001-8100#H8081|oil]] [[Lexicon/H6401-6500#H6440|that makes his face]] [[Lexicon/H6601-6700#H6670|to shine ,]] [[Lexicon/H3801-3900#H3899|and bread]] [[Lexicon/H5501-5600#H5582|that sustains]] [[Lexicon/H501-600#H582|[his]]] [[Lexicon/H3801-3900#H3824|heart.]]
+=======
+[[Lexicon/H3101-3200#H3196|wine]] [[Lexicon/H8001-8100#H8055|that gladdens]] [[Lexicon/H3801-3900#H3824|the heart]] [[Lexicon/H501-600#H582|of man ,]] [[Lexicon/H8001-8100#H8081|oil]] [[Lexicon/H6401-6500#H6440|that makes his face]] [[Lexicon/H6601-6700#H6670|to shine ,]] [[Lexicon/H3801-3900#H3899|and bread]] [[Lexicon/H5501-5600#H5582|that sustains]] [[Lexicon/H501-600#H582|(his)]] [[Lexicon/H3801-3900#H3824|heart.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 104#Psalm 104 - 15|LXX]] |
 
 ##### Psalm 104 - 16
@@ -114,7 +122,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 104#Psalm 104 - 26|LXX]] |
 
 ##### Psalm 104 - 27
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|All [creatures]]] [[Lexicon/H7601-7700#H7663|look]] [[Lexicon/H401-500#H413|to You]] [[Lexicon/H5401-5500#H5414|to give [them]]] [[Lexicon/H301-400#H400|their food]] [[Lexicon/H6201-6300#H6256|in due season.]]
+=======
+[[Lexicon/H3601-3700#H3605|All (creatures)]] [[Lexicon/H7601-7700#H7663|look]] [[Lexicon/H401-500#H413|to You]] [[Lexicon/H5401-5500#H5414|to give (them)]] [[Lexicon/H301-400#H400|their food]] [[Lexicon/H6201-6300#H6256|in due season.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 104#Psalm 104 - 27|LXX]] |
 
 ##### Psalm 104 - 28

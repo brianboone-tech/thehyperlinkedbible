@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 1 Samuel 2 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/09 - 1 Samuel|← 1 Samuel]]** | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 3 - TOSK|Ch 3 →]]
+=======
+**[[Home/Indexes/Readable Bible/09 - 1 Samuel|← 1 Samuel]]** | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 3 - TOSK|Ch 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

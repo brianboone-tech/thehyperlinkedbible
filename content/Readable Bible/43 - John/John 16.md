@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # John-R 16
 
 **[[Home/Scripture/43 - John|John]]**
 
 [[Readable Bible/43 - John/John 15#John-R 15| John 15]] - [[Readable Bible/43 - John/John 17#John-R 17| John 17]]
+=======
+# John 16
+
+[[Readable Bible/43 - John/John 15|← John 15]] | [[Readable Bible/43 - John/John 17|John 17 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### John 16 . 1
+<<<<<<< HEAD
 [[Reference Bible/43 - John/John 16#John 16 - 1|1]] “I have told you these things so that you will not fall away.   || [[The Treasury of Scripture Knowledge/43. John TOSK/John - 16 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/43 - John/John 16#John 16 - 1|1]] “I have told you these things so that you will not fall away.  | | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 16 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### John 16 . 2
 [[Reference Bible/43 - John/John 16#John 16 - 2|2]] They will put you out of the synagogues. In fact, a time is coming when anyone who kills you will think he is offering a service to God.  | [[Intertextuality Pairs/NT to OT/43 - John/John 16.2 to Isaiah 39.6|IP]] | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 16 - TOSK#Verse 2|TOSK]] |

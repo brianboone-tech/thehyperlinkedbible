@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Samuel-R 7
 
 **[[Home/Scripture/10 - 2 Samuel|2 Samuel]]**
 
 [[Readable Bible/10 - 2 Samuel/2 Samuel 6#2 Samuel-R 6| 2 Samuel 6]] - [[Readable Bible/10 - 2 Samuel/2 Samuel 8#2 Samuel-R 8| 2 Samuel 8]]
+=======
+# 2 Samuel 7
+
+[[Readable Bible/10 - 2 Samuel/2 Samuel 6|← 2 Samuel 6]] | [[Readable Bible/10 - 2 Samuel/2 Samuel 8|2 Samuel 8 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

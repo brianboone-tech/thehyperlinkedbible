@@ -21,7 +21,11 @@ Chapter: "3"
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 2|LXX]] |
 
 ##### Numbers 3 - 3
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|These]] [[Lexicon/H101-200#H175|[were] Aaron’s]] [[Lexicon/H8001-8100#H8034|-]] [[Lexicon/H1101-1200#H1121|sons ,]] [[Lexicon/H4801-4900#H4886|the anointed]] [[Lexicon/H3501-3600#H3548|priests ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4301-4400#H4390|were ordained]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H3501-3600#H3547|to serve as priests.]]
+=======
+[[Lexicon/H401-500#H428|These]] [[Lexicon/H101-200#H175|(were) Aaron’s]] [[Lexicon/H8001-8100#H8034|-]] [[Lexicon/H1101-1200#H1121|sons ,]] [[Lexicon/H4801-4900#H4886|the anointed]] [[Lexicon/H3501-3600#H3548|priests ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4301-4400#H4390|were ordained]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H3501-3600#H3547|to serve as priests.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 3|LXX]] |
 
 ##### Numbers 3 - 4
@@ -49,7 +53,11 @@ Chapter: "3"
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 9|LXX]] |
 
 ##### Numbers 3 - 10
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|So]] [[Lexicon/H6401-6500#H6485|you shall appoint]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H8101-8200#H8104|to carry out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3550|the duties of the priesthood ;]] [[Lexicon/H2101-2200#H2114|but any outsider]] [[Lexicon/H7101-7200#H7131|who approaches [the tabernacle]]] [[Lexicon/H4101-4200#H4191|must be put to death. ”]]
+=======
+[[Lexicon/H801-900#H853|So]] [[Lexicon/H6401-6500#H6485|you shall appoint]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H8101-8200#H8104|to carry out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3501-3600#H3550|the duties of the priesthood ;]] [[Lexicon/H2101-2200#H2114|but any outsider]] [[Lexicon/H7101-7200#H7131|who approaches (the tabernacle)]] [[Lexicon/H4101-4200#H4191|must be put to death. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 10|LXX]] |
 
 ##### Numbers 3 - 11
@@ -109,11 +117,19 @@ Chapter: "3"
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 24|LXX]] |
 
 ##### Numbers 3 - 25
+<<<<<<< HEAD
 [[Lexicon/H4901-5000#H4931|The duties]] [[Lexicon/H1101-1200#H1121|of the Gershonites]] [[Lexicon/H1601-1700#H1648|...]] [[Lexicon/H101-200#H168|at the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H4901-5000#H4908|[were] the tabernacle]] [[Lexicon/H101-200#H168|and tent ,]] [[Lexicon/H4301-4400#H4372|its covering ,]] [[Lexicon/H4501-4600#H4539|the curtain]] [[Lexicon/H6601-6700#H6607|for the entrance]] [[Lexicon/H101-200#H168|to the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting ,]]
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 25|LXX]] |
 
 ##### Numbers 3 - 26
 [[Lexicon/H7001-7100#H7050|the curtains]] [[Lexicon/H2601-2700#H2691|of the courtyard ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4501-4600#H4539|the curtain]] [[Lexicon/H6601-6700#H6607|for the entrance]] [[Lexicon/H2601-2700#H2691|to the courtyard]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|surrounds]] [[Lexicon/H4901-5000#H4908|the tabernacle]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H4101-4200#H4196|and altar ,]] [[Lexicon/H5401-5500#H5439|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4301-4400#H4340|and the cords —]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5601-5700#H5656|the service [for these items].]]
+=======
+[[Lexicon/H4901-5000#H4931|The duties]] [[Lexicon/H1101-1200#H1121|of the Gershonites]] [[Lexicon/H1601-1700#H1648|...]] [[Lexicon/H101-200#H168|at the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H4901-5000#H4908|(were) the tabernacle]] [[Lexicon/H101-200#H168|and tent ,]] [[Lexicon/H4301-4400#H4372|its covering ,]] [[Lexicon/H4501-4600#H4539|the curtain]] [[Lexicon/H6601-6700#H6607|for the entrance]] [[Lexicon/H101-200#H168|to the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting ,]]
+| [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 25|LXX]] |
+
+##### Numbers 3 - 26
+[[Lexicon/H7001-7100#H7050|the curtains]] [[Lexicon/H2601-2700#H2691|of the courtyard ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4501-4600#H4539|the curtain]] [[Lexicon/H6601-6700#H6607|for the entrance]] [[Lexicon/H2601-2700#H2691|to the courtyard]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H5901-6000#H5921|surrounds]] [[Lexicon/H4901-5000#H4908|the tabernacle]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H4101-4200#H4196|and altar ,]] [[Lexicon/H5401-5500#H5439|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4301-4400#H4340|and the cords —]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5601-5700#H5656|the service (for these items).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 26|LXX]] |
 
 ##### Numbers 3 - 27
@@ -133,7 +149,11 @@ Chapter: "3"
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 30|LXX]] |
 
 ##### Numbers 3 - 31
+<<<<<<< HEAD
 [[Lexicon/H4901-5000#H4931|Their duties]] [[Lexicon/H701-800#H727|[were] the ark ,]] [[Lexicon/H7901-8000#H7979|the table ,]] [[Lexicon/H4501-4600#H4501|the lampstand ,]] [[Lexicon/H4101-4200#H4196|the altars ,]] [[Lexicon/H3601-3700#H3627|the articles]] [[Lexicon/H6901-7000#H6944|of the sanctuary]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8301-8400#H8334|used]] [[Lexicon/H4501-4600#H4539|and the curtain —]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5601-5700#H5656|the service [for these items].]]
+=======
+[[Lexicon/H4901-5000#H4931|Their duties]] [[Lexicon/H701-800#H727|(were) the ark ,]] [[Lexicon/H7901-8000#H7979|the table ,]] [[Lexicon/H4501-4600#H4501|the lampstand ,]] [[Lexicon/H4101-4200#H4196|the altars ,]] [[Lexicon/H3601-3700#H3627|the articles]] [[Lexicon/H6901-7000#H6944|of the sanctuary]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8301-8400#H8334|used]] [[Lexicon/H4501-4600#H4539|and the curtain —]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5601-5700#H5656|the service (for these items).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 31|LXX]] |
 
 ##### Numbers 3 - 32
@@ -153,7 +173,11 @@ Chapter: "3"
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 35|LXX]] |
 
 ##### Numbers 3 - 36
+<<<<<<< HEAD
 [[Lexicon/H4901-5000#H4931|The duties]] [[Lexicon/H6401-6500#H6486|assigned]] [[Lexicon/H1101-1200#H1121|to the sons]] [[Lexicon/H4801-4900#H4847|of Merari]] [[Lexicon/H4901-5000#H4908|were the tabernacle’s]] [[Lexicon/H7101-7200#H7175|frames ,]] [[Lexicon/H1201-1300#H1280|crossbars ,]] [[Lexicon/H5901-6000#H5982|posts ,]] [[Lexicon/H101-200#H134|bases ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3601-3700#H3627|its equipment —]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5601-5700#H5656|the service for these [items] ,]]
+=======
+[[Lexicon/H4901-5000#H4931|The duties]] [[Lexicon/H6401-6500#H6486|assigned]] [[Lexicon/H1101-1200#H1121|to the sons]] [[Lexicon/H4801-4900#H4847|of Merari]] [[Lexicon/H4901-5000#H4908|were the tabernacle’s]] [[Lexicon/H7101-7200#H7175|frames ,]] [[Lexicon/H1201-1300#H1280|crossbars ,]] [[Lexicon/H5901-6000#H5982|posts ,]] [[Lexicon/H101-200#H134|bases ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H3601-3700#H3627|its equipment —]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5601-5700#H5656|the service for these (items) ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 36|LXX]] |
 
 ##### Numbers 3 - 37
@@ -161,7 +185,11 @@ Chapter: "3"
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 37|LXX]] |
 
 ##### Numbers 3 - 38
+<<<<<<< HEAD
 [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H101-200#H175|Aaron ,]] [[Lexicon/H1101-1200#H1121|and [Aaron’s sons]]] [[Lexicon/H2501-2600#H2583|were to camp]] [[Lexicon/H6901-7000#H6924|to the east]] [[Lexicon/H6401-6500#H6440|]] [[Lexicon/H4901-5000#H4908|of the tabernacle ,]] [[Lexicon/H4201-4300#H4217|toward the sunrise ,]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H101-200#H168|the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting.]] [[Lexicon/H8101-8200#H8104|They were to perform]] [[Lexicon/H4901-5000#H4931|the duties]] [[Lexicon/H4701-4800#H4720|of the sanctuary]] [[Lexicon/H4901-5000#H4931|as a service]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|on behalf of the Israelites ;]] [[Lexicon/H2101-2200#H2114|but any outsider]] [[Lexicon/H7101-7200#H7131|who approached [the sanctuary]]] [[Lexicon/H4101-4200#H4191|was to be put to death.]]
+=======
+[[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H101-200#H175|Aaron ,]] [[Lexicon/H1101-1200#H1121|and (Aaron’s sons)]] [[Lexicon/H2501-2600#H2583|were to camp]] [[Lexicon/H6901-7000#H6924|to the east]] [[Lexicon/H6401-6500#H6440|]] [[Lexicon/H4901-5000#H4908|of the tabernacle ,]] [[Lexicon/H4201-4300#H4217|toward the sunrise ,]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H101-200#H168|the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting.]] [[Lexicon/H8101-8200#H8104|They were to perform]] [[Lexicon/H4901-5000#H4931|the duties]] [[Lexicon/H4701-4800#H4720|of the sanctuary]] [[Lexicon/H4901-5000#H4931|as a service]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|on behalf of the Israelites ;]] [[Lexicon/H2101-2200#H2114|but any outsider]] [[Lexicon/H7101-7200#H7131|who approached (the sanctuary)]] [[Lexicon/H4101-4200#H4191|was to be put to death.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 38|LXX]] |
 
 ##### Numbers 3 - 39
@@ -213,5 +241,9 @@ Chapter: "3"
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 50|LXX]] |
 
 ##### Numbers 3 - 51
+<<<<<<< HEAD
 [[Lexicon/H4801-4900#H4872|And Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H6301-6400#H6302|the redemption]] [[Lexicon/H3701-3800#H3701|money]] [[Lexicon/H101-200#H175|to Aaron]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H5901-6000#H5921|in obedience to]] [[Lexicon/H6301-6400#H6310|the word]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H4801-4900#H4872|[him].]]
+=======
+[[Lexicon/H4801-4900#H4872|And Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H6301-6400#H6302|the redemption]] [[Lexicon/H3701-3800#H3701|money]] [[Lexicon/H101-200#H175|to Aaron]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H5901-6000#H5921|in obedience to]] [[Lexicon/H6301-6400#H6310|the word]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H4801-4900#H4872|(him).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 3#Numbers 3 - 51|LXX]] |

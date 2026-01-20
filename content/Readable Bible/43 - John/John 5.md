@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # John-R 5
 
 **[[Home/Scripture/43 - John|John]]**
 
 [[Readable Bible/43 - John/John 4#John-R 4| John 4]] - [[Readable Bible/43 - John/John 6#John-R 6| John 6]]
+=======
+# John 5
+
+[[Readable Bible/43 - John/John 4|← John 4]] | [[Readable Bible/43 - John/John 6|John 6 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -152,7 +158,11 @@ cssClasses: lexicon
 [[Reference Bible/43 - John/John 5#John 5 - 46|46]] If you had believed Moses, you would believe Me, because he wrote about Me.  | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 5 - TOSK#Verse 46|TOSK]] |
 
 ##### John 5 . 47
+<<<<<<< HEAD
 [[Reference Bible/43 - John/John 5#John 5 - 47|47]] But since you do not believe what he wrote, how will you believe what I say?”  | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 5 - TOSK#Verse 47|TOSK]] | |
+=======
+[[Reference Bible/43 - John/John 5#John 5 - 47|47]] But since you do not believe what he wrote, how will you believe what I say?”  | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 5 - TOSK#Verse 47|TOSK]] ||
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### John 5 . 47
 [[Reference Bible/43 - John/John 5#John 5 - 47|47]] But since you do not believe what he wrote, how will you believe what I say?”  | [[The Treasury of Scripture Knowledge/43. John TOSK/John - 5 - TOSK#Verse 47|TOSK]] |

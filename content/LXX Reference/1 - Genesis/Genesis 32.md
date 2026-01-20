@@ -45,7 +45,11 @@ Testament: Old
 [[Lexicon/G1801-1900#G1807|Rescue]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G1-100#G0080|of my brother,]] [[Lexicon/G1501-1600#G1537|from]] of Esau! [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G5301-5400#G5399|I fear]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G3301-3400#G3379|lest]] [[Lexicon/G2001-2100#G2064|coming]] [[Lexicon/G3901-4000#G3960|he should strike]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|with]] [[Lexicon/G5001-5100#G5043|children.]]
 
 #### Genesis 32 - 12
+<<<<<<< HEAD
 [[Lexicon/G1401-1500#G1473|But you,]] [[Lexicon/G2001-2100#G2036|you said,]] [[Lexicon/G2001-2100#G2095|good]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5087|I will establish]] [[Lexicon/G4601-4700#G4690|your seed]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0285|sand]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2201-2300#G2281|sea,]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3701-3800#G3756|shall not be counted]] [[Lexicon/G5201-5300#G5259|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4128|multitude.]]
+=======
+[[Lexicon/G1401-1500#G1473|But you,]] [[Lexicon/G2001-2100#G2036|you said,]] [[Lexicon/G2001-2100#G2095|good]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5087|I will establish]] [[Lexicon/G4601-4700#G4690|your seed]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G201-300#G0285|sand]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2201-2300#G2281|sea,]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3701-3800#G3756|shall not be counted]] [[Lexicon/G5201-5300#G5259|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4128|multitude.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Genesis 32 - 13
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2801-2900#G2837|he went to sleep]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G3501-3600#G3571|that night.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2983|he took]] [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1821|he sent]] to Esau [[Lexicon/G1-100#G0080|his brother;]]

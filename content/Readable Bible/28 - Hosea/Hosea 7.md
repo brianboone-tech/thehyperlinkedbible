@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Hosea-R 7
 
 **[[Home/Scripture/28 - Hosea|Hosea]]**
 
 [[Readable Bible/28 - Hosea/Hosea 6#Hosea-R 6| Hosea 6]] - [[Readable Bible/28 - Hosea/Hosea 8#Hosea-R 8| Hosea 8]]
+=======
+# Hosea 7
+
+[[Readable Bible/28 - Hosea/Hosea 6|← Hosea 6]] | [[Readable Bible/28 - Hosea/Hosea 8|Hosea 8 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Leviticus 19 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 20 - TOSK|Ch 20 →]]
+=======
+**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 20 - TOSK|Ch 20 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

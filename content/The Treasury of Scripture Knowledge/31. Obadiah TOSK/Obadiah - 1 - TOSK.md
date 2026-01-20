@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Obadiah 1 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/31 - Obadiah|← Obadiah]]**
+=======
+**[[Home/Indexes/Readable Bible/31 - Obadiah|← Obadiah]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

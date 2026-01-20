@@ -19,7 +19,11 @@ cssClasses: lexicon
 [[Lexicon/H3101-3200#H3198|Should he argue]] [[Lexicon/H3801-3900#H3808|with useless]] [[Lexicon/H5501-5600#H5532|...]] [[Lexicon/H1601-1700#H1697|words]] [[Lexicon/H4401-4500#H4405|or speeches]] [[Lexicon/H3801-3900#H3808|that serve no]] [[Lexicon/H3201-3300#H3276|purpose]]
 
 ##### Job 15 - 4
+<<<<<<< HEAD
 [[Lexicon/H601-700#H637|But]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H6501-6600#H6565|even undermine]] [[Lexicon/H3301-3400#H3374|the fear [of God]]] [[Lexicon/H1601-1700#H1639|and hinder]] [[Lexicon/H7801-7900#H7881|meditation]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H401-500#H410|Him.]]
+=======
+[[Lexicon/H601-700#H637|But]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H6501-6600#H6565|even undermine]] [[Lexicon/H3301-3400#H3374|the fear (of God)]] [[Lexicon/H1601-1700#H1639|and hinder]] [[Lexicon/H7801-7900#H7881|meditation]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H401-500#H410|Him.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 15 - 5
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H5701-5800#H5771|your iniquity]] [[Lexicon/H501-600#H502|instructs]] [[Lexicon/H6301-6400#H6310|your mouth ,]] [[Lexicon/H901-1000#H977|and you choose]] [[Lexicon/H3901-4000#H3956|the language]] [[Lexicon/H6101-6200#H6175|of the crafty.]]
@@ -40,7 +44,11 @@ cssClasses: lexicon
 [[Lexicon/H1501-1600#H1571|Both]] [[Lexicon/H7801-7900#H7867|the gray-haired]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H3401-3500#H3453|the aged]] [[Lexicon/H3501-3600#H3524|men much older]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H1-100#H1|than your father.]]
 
 ##### Job 15 - 11
+<<<<<<< HEAD
 [[Lexicon/H8501-8600#H8575|Are the consolations]] [[Lexicon/H401-500#H410|of God]] [[Lexicon/H4501-4600#H4592|not enough]] [[Lexicon/H4401-4500#H4480|for you ,]] [[Lexicon/H1601-1700#H1697|even words]] [[Lexicon/H301-400#H328|[spoken] gently]] [[Lexicon/H5901-6000#H5973|to you ?]]
+=======
+[[Lexicon/H8501-8600#H8575|Are the consolations]] [[Lexicon/H401-500#H410|of God]] [[Lexicon/H4501-4600#H4592|not enough]] [[Lexicon/H4401-4500#H4480|for you ,]] [[Lexicon/H1601-1700#H1697|even words]] [[Lexicon/H301-400#H328|(spoken) gently]] [[Lexicon/H5901-6000#H5973|to you ?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 15 - 12
 [[Lexicon/H4001-4100#H4100|Why]] [[Lexicon/H3801-3900#H3820|has your heart]] [[Lexicon/H3901-4000#H3947|carried you away ,]] [[Lexicon/H4001-4100#H4100|and why]] [[Lexicon/H5801-5900#H5869|do your eyes]] [[Lexicon/H7301-7400#H7335|flash ,]]
@@ -109,7 +117,11 @@ cssClasses: lexicon
 [[Lexicon/H1601-1700#H1612|He will be like a vine]] [[Lexicon/H2501-2600#H2554|stripped of]] [[Lexicon/H1101-1200#H1154|its unripe grapes ,]] [[Lexicon/H2101-2200#H2132|like an olive tree]] [[Lexicon/H7901-8000#H7993|that sheds]] [[Lexicon/H5301-5400#H5328|its blossoms.]]
 
 ##### Job 15 - 34
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H5701-5800#H5712|the company]] [[Lexicon/H2601-2700#H2611|of the godless]] [[Lexicon/H1501-1600#H1565|[will be] barren ,]] [[Lexicon/H701-800#H784|and fire]] [[Lexicon/H301-400#H398|will consume]] [[Lexicon/H101-200#H168|the tents]] [[Lexicon/H7801-7900#H7810|of bribery.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H5701-5800#H5712|the company]] [[Lexicon/H2601-2700#H2611|of the godless]] [[Lexicon/H1501-1600#H1565|(will be) barren ,]] [[Lexicon/H701-800#H784|and fire]] [[Lexicon/H301-400#H398|will consume]] [[Lexicon/H101-200#H168|the tents]] [[Lexicon/H7801-7900#H7810|of bribery.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 15 - 35
 [[Lexicon/H2001-2100#H2029|They conceive]] [[Lexicon/H5901-6000#H5999|trouble]] [[Lexicon/H3201-3300#H3205|and give birth to]] [[Lexicon/H201-300#H205|evil ;]] [[Lexicon/H901-1000#H990|their womb]] [[Lexicon/H3501-3600#H3559|is pregnant with]] [[Lexicon/H4801-4900#H4820|deceit. ”]]

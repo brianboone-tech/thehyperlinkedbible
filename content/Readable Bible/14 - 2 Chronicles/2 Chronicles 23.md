@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Chronicles-R 23
 
 **[[Home/Scripture/14 - 2 Chronicles|2 Chronicles]]**
 
 [[Readable Bible/14 - 2 Chronicles/2 Chronicles 22#2 Chronicles-R 22| 2 Chronicles 22]] - [[Readable Bible/14 - 2 Chronicles/2 Chronicles 24#2 Chronicles-R 24| 2 Chronicles 24]]
+=======
+# 2 Chronicles 23
+
+[[Readable Bible/14 - 2 Chronicles/2 Chronicles 22|← 2 Chronicles 22]] | [[Readable Bible/14 - 2 Chronicles/2 Chronicles 24|2 Chronicles 24 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

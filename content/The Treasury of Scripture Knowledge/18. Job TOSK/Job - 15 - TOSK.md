@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Job 15 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 16 - TOSK|Ch 16 →]]
+=======
+**[[Home/Indexes/Readable Bible/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 14 - TOSK|← Ch 14]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 16 - TOSK|Ch 16 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Jeremiah 16 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 15 - TOSK|← Ch 15]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 17 - TOSK|Ch 17 →]]
+=======
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 15 - TOSK|← Ch 15]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 17 - TOSK|Ch 17 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

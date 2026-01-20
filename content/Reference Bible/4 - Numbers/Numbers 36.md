@@ -17,6 +17,7 @@ Chapter: "36"
 | [[LXX Reference/4 - Numbers/Numbers 36#Numbers 36 - 1|LXX]] |
 
 ##### Numbers 36 - 2
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|“ When the LORD]] [[Lexicon/H6601-6700#H6680|commanded]] [[Lexicon/H101-200#H113|my lord]] [[Lexicon/H5401-5500#H5414|to give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H5101-5200#H5159|as an inheritance]] [[Lexicon/H1101-1200#H1121|to the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1401-1500#H1486|by lot ,]] [[Lexicon/H3001-3100#H3068|[He]]] [[Lexicon/H6601-6700#H6680|also commanded]] [[Lexicon/H101-200#H113|[him]]] [[Lexicon/H5401-5500#H5414|to give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5101-5200#H5159|the inheritance]] [[Lexicon/H201-300#H251|of our brother]] [[Lexicon/H6701-6800#H6765|Zelophehad]] [[Lexicon/H1301-1400#H1323|to his daughters.]]
 | [[LXX Reference/4 - Numbers/Numbers 36#Numbers 36 - 2|LXX]] |
 
@@ -26,6 +27,17 @@ Chapter: "36"
 
 ##### Numbers 36 - 4
 [[Lexicon/H501-600#H518|And when]] [[Lexicon/H3101-3200#H3104|the Jubilee]] [[Lexicon/H1101-1200#H1121|for the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1901-2000#H1961|comes ,]] [[Lexicon/H5101-5200#H5159|their inheritance]] [[Lexicon/H3201-3300#H3254|will be added]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H5101-5200#H5159|-]] [[Lexicon/H4201-4300#H4294|the tribe]] [[Lexicon/H801-900#H834|into which]] [[Lexicon/H1901-2000#H1961|they marry]] [[Lexicon/H5101-5200#H5159|[and]]] [[Lexicon/H1601-1700#H1639|taken away]] [[Lexicon/H5101-5200#H5159|-]] [[Lexicon/H4201-4300#H4294|from the tribe]] [[Lexicon/H1-100#H1|of our fathers. ”]]
+=======
+[[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|“ When the LORD]] [[Lexicon/H6601-6700#H6680|commanded]] [[Lexicon/H101-200#H113|my lord]] [[Lexicon/H5401-5500#H5414|to give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H5101-5200#H5159|as an inheritance]] [[Lexicon/H1101-1200#H1121|to the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1401-1500#H1486|by lot ,]] [[Lexicon/H3001-3100#H3068|(He)]] [[Lexicon/H6601-6700#H6680|also commanded]] [[Lexicon/H101-200#H113|(him)]] [[Lexicon/H5401-5500#H5414|to give]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5101-5200#H5159|the inheritance]] [[Lexicon/H201-300#H251|of our brother]] [[Lexicon/H6701-6800#H6765|Zelophehad]] [[Lexicon/H1301-1400#H1323|to his daughters.]]
+| [[LXX Reference/4 - Numbers/Numbers 36#Numbers 36 - 2|LXX]] |
+
+##### Numbers 36 - 3
+[[Lexicon/H1901-2000#H1961|But if they marry]] [[Lexicon/H201-300#H259|any of the men]] [[Lexicon/H7601-7700#H7626|from the (other) tribes]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H1101-1200#H1121|... ,]] [[Lexicon/H801-900#H802|-]] [[Lexicon/H5101-5200#H5159|their inheritance]] [[Lexicon/H1601-1700#H1639|will be withdrawn]] [[Lexicon/H5101-5200#H5159|from the portion]] [[Lexicon/H1-100#H1|of our fathers]] [[Lexicon/H3201-3300#H3254|and added]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H5101-5200#H5159|-]] [[Lexicon/H4201-4300#H4294|the tribe]] [[Lexicon/H801-900#H834|into which]] [[Lexicon/H1901-2000#H1961|they marry.]] [[Lexicon/H1401-1500#H1486|allotted]] [[Lexicon/H5101-5200#H5159|inheritance]] [[Lexicon/H1601-1700#H1639|would be taken away.]]
+| [[LXX Reference/4 - Numbers/Numbers 36#Numbers 36 - 3|LXX]] |
+
+##### Numbers 36 - 4
+[[Lexicon/H501-600#H518|And when]] [[Lexicon/H3101-3200#H3104|the Jubilee]] [[Lexicon/H1101-1200#H1121|for the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1901-2000#H1961|comes ,]] [[Lexicon/H5101-5200#H5159|their inheritance]] [[Lexicon/H3201-3300#H3254|will be added]] [[Lexicon/H5901-6000#H5921|to]] [[Lexicon/H5101-5200#H5159|-]] [[Lexicon/H4201-4300#H4294|the tribe]] [[Lexicon/H801-900#H834|into which]] [[Lexicon/H1901-2000#H1961|they marry]] [[Lexicon/H5101-5200#H5159|(and)]] [[Lexicon/H1601-1700#H1639|taken away]] [[Lexicon/H5101-5200#H5159|-]] [[Lexicon/H4201-4300#H4294|from the tribe]] [[Lexicon/H1-100#H1|of our fathers. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 36#Numbers 36 - 4|LXX]] |
 
 ##### Numbers 36 - 5

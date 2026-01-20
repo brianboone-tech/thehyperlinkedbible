@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## SCAPEGOAT (REMOVAL OF SINS) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IzwXGvhsA6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -10,6 +18,7 @@ The scapegoat (Hebrew: עֲזָאזֵל, azazel) represents a distinct aspect of
 
 **Type Classification**: Direct (divinely instituted annual ceremony), Forward-looking (Hebrews 9-10 explicitly applies to Christ)
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Institution - The Scapegoat Ritual** | **Key Text:**<br>[[Readable Bible/03 - Leviticus/Leviticus 16#Leviticus 16 . 21\|Lev 16:20-22]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Scapegoat (Removal of Sins)/03 - Leviticus 16.20-22\|Lev 16:20-22]] | Aaron lays both hands on the live goat, confesses "all the iniquities of the Israelites—all their rebellious acts in regard to all their sins"—putting them on the goat's head. It is then "sent away into the wilderness" to "carry on itself all their iniquities into a remote place." The laying on of hands signifies imputation; the wilderness journey signifies permanent removal. Sins are not merely covered but carried away where they cannot be found. |  |
@@ -23,6 +32,50 @@ The scapegoat (Hebrew: עֲזָאזֵל, azazel) represents a distinct aspect of
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Institution - The Scapegoat Ritual** | [[Readable Bible/03 - Leviticus/Leviticus 16#Leviticus 16 . 21\|Lev 16:20-22]] | Aaron lays both hands on the live goat, confesses "all the iniquities of the Israelites—all their rebellious acts in regard to all their sins"—putting them on the goat's head. It is then "sent away into the wilderness" to "carry on itself all their iniquities into a remote place." The laying on of hands signifies imputation; the wilderness journey signifies permanent removal. Sins are not merely covered but carried away where they cannot be found. | [[Trajectory Tables - Foundation Texts/Scapegoat (Removal of Sins)/03 - Leviticus 16.20-22\|Lev 16:20-22]] |
+| 2 | **OT Development - Sins Cast Into the Sea** | [[Readable Bible/33 - Micah/Micah 7#Micah 7 . 19\|Mic 7:18-19]]; [[Readable Bible/19 - Psalms/Psalm 103#Psalm 103 . 12\|Ps 103:12]] | The prophets develop the removal theme with vivid imagery. Micah: God will "cast all our sins into the depths of the sea" (7:19). David: "As far as the east is from the west, so far has He removed our transgressions from us" (Ps 103:12). Both emphasize irretrievable distance—sins are not merely forgiven but removed to an unreachable place, echoing the scapegoat's wilderness journey. | [[Trajectory Tables - Foundation Texts/Scapegoat (Removal of Sins)/33 - Micah 7.18-19\|Mic 7:18-19]] |
+| 3 | **OT Prophecy - The Suffering Servant Bears Sins** | [[Readable Bible/23 - Isaiah/Isaiah 53#Isaiah 53 . 6\|Isa 53:4-6, 11-12]] | Isaiah prophesies: "The LORD has laid on Him the iniquity of us all" (53:6)—exactly what the high priest did to the scapegoat. The Servant "bore the sin of many" (53:12) and "carried our sorrows" (53:4). The scapegoat's passive role becomes the Servant's active mission: willingly receiving imputed sin and carrying it away. What the goat symbolized, the Servant will accomplish. **CRITICAL:** [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 9.28 to Isaiah 53.12\|Heb 9:28  to  Isa 53:12]] | [[Trajectory Tables - Foundation Texts/Scapegoat (Removal of Sins)/23 - Isaiah 53.4-6\|Isa 53:4-6]] |
+| 4 | **NT Announcement - Behold the Lamb** | [[Readable Bible/43 - John/John 1#John 1 . 29\|John 1:29]] | John the Baptist identifies Jesus: "Behold, the Lamb of God, who takes away (αἴρων, airōn) the sin of the world!" The verb αἴρω means to lift up and carry away—precisely the scapegoat's function. Jesus is not merely the sacrifice but the sin-bearer who removes sin completely. John's announcement combines Passover lamb (slain) with scapegoat (carrying away)—both aspects of Christ's one work. | [[Trajectory Tables - Foundation Texts/Scapegoat (Removal of Sins)/43 - John 1.29\|John 1:29]] |
+| 5 | **NT Fulfillment - Christ Offered Once to Bear Sins** | [[Readable Bible/58 - Hebrews/Hebrews 9#Hebrews 9 . 28\|Heb 9:28]]; [[Readable Bible/60 - 1 Peter/1 Peter 2#1 Peter 2 . 24\|1 Pet 2:24]] | Hebrews declares: "Christ was offered once to bear the sins of many" (9:28). Peter: "He Himself bore our sins in His body on the tree" (1 Pet 2:24). Christ fulfills the scapegoat by bearing imputed sin—receiving what the high priest confessed over the goat. But unlike the animal driven into the wilderness, Christ bore sins through death and resurrection, removing them to the "far country" of divine forgetfulness. | [[Trajectory Tables - Foundation Texts/Scapegoat (Removal of Sins)/58 - Hebrews 9.28\|Heb 9:28]] |
+| 6 | **NT Superiority - Sins Remembered No More** | [[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 17\|Heb 10:17-18]]; [[Readable Bible/58 - Hebrews/Hebrews 8#Hebrews 8 . 12\|Heb 8:12]] | God declares through Jeremiah (quoted in Hebrews): "Their sins and lawless acts I will remember no more" (10:17). The scapegoat carried sins into the wilderness where they were lost; Christ carries sins into divine forgetfulness where they are eternally obliterated. The animal could only symbolize removal; Christ actually accomplishes what the symbol promised. "Where these have been forgiven, sacrifice for sin is no longer necessary" (10:18). **CRITICAL:** [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 10.16-17 to Jeremiah 31.33-34\|Heb 10:16-17  to  Jer 31:33-34]] | [[Trajectory Tables - Foundation Texts/Scapegoat (Removal of Sins)/58 - Hebrews 10.17-18\|Heb 10:17-18]] |
+| 7 | **NT Application - Freedom from Condemnation** | [[Readable Bible/45 - Romans/Romans 8#Romans 8 . 1\|Rom 8:1-3]]; [[Readable Bible/55 - 2 Corinthians/2 Corinthians 5#2 Corinthians 5 . 21\|2 Cor 5:21]] | "There is now no condemnation for those who are in Christ Jesus" (Rom 8:1)—because the sin that would condemn has been carried away. Paul explains the exchange: "God made Him who had no sin to be sin for us, so that in Him we might become the righteousness of God" (2 Cor 5:21). The scapegoat received Israel's confessed sins; Christ received the world's sins, becoming sin itself, so that His righteousness might be imputed to believers. | [[Trajectory Tables - Foundation Texts/Scapegoat (Removal of Sins)/45 - Romans 8.1-3\|Rom 8:1-3]] |
+| 8 | **Eschatological Consummation - Satan Bound, Sin Abolished** | [[Readable Bible/66 - Revelation/Revelation 20#Revelation 20 . 1\|Rev 20:1-3, 10]]; [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 27\|Rev 21:27]] | In the final state, Satan (who tempted to sin) is cast into the lake of fire, and "nothing impure will ever enter" the New Jerusalem (21:27). The scapegoat was driven into the wilderness (associated with demons in Jewish tradition); Christ's final victory drives sin and its author into permanent exclusion. The trajectory completes: annual temporary removal → Christ's decisive removal → eternal abolition. Sin is not just forgiven but erased from existence. | [[Trajectory Tables - Foundation Texts/Scapegoat (Removal of Sins)/66 - Revelation 20.1-3\|Rev 20:1-3]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+**19 - Psalms**
+
+- [[Intertextuality Pairs/OT to OT/19 - Psalms/Psalm 103.12 to Leviticus 16.22\|Psalm 103:12 to Leviticus 16:22]] - **CRITICAL:** David's "as far as the east is from the west" echoes the scapegoat's wilderness journey—sins removed to an immeasurable, irretrievable distance. Both emphasize permanent, complete removal.
+
+**33 - Micah**
+
+- [[Intertextuality Pairs/OT to OT/33 - Micah/Micah 7.19 to Leviticus 16.22\|Micah 7:19 to Leviticus 16:22]] - **CRITICAL:** Micah's "cast all our sins into the depths of the sea" develops the scapegoat imagery—sins sent where they can never be recovered. The sea represents chaos and unreachable depths, paralleling the wilderness.
+
+### NT to OT
+
+**43 - John**
+
+- [[Intertextuality Pairs/NT to OT/43 - John/John 1.29 to Leviticus 16.21-22\|John 1:29 to Leviticus 16:21-22]] - **CRITICAL:** John's "Lamb of God who takes away (αἴρω) the sin of the world" combines Passover and scapegoat typology. The verb emphasizes lifting up and carrying away—the scapegoat's function applied to Christ.
+
+**58 - Hebrews**
+
+- [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 9.28 to Isaiah 53.12\|Hebrews 9:28 to Isaiah 53:12]] - **CRITICAL:** Hebrews explicitly connects Christ's sin-bearing to Isaiah's Servant, fulfilling the scapegoat's imputation. The Servant "bore the sin of many" as the goat bore Israel's confessed sins.
+
+- [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 10.16-17 to Jeremiah 31.33-34\|Hebrews 10:16-17 to Jeremiah 31:33-34]] - **CRITICAL:** The new covenant promise of divine forgetfulness fulfills what the scapegoat symbolized—sins removed so completely that God no longer remembers them.
+
+**60 - 1 Peter**
+
+- [[Intertextuality Pairs/NT to OT/60 - 1 Peter/1 Peter 2.8 to Isaiah 8.14\|1 Peter 2:24 to Isaiah 53:4]] - **CRITICAL:** Peter's "He Himself bore our sins in His body on the tree" directly applies the sin-bearing language of Isaiah 53 and Leviticus 16 to Christ's crucifixion.
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 ### 1. What You Must Do

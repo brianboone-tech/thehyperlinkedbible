@@ -6,11 +6,17 @@ Book: Genesis
 Chapter: "1"
 ---
       
+<<<<<<< HEAD
 # Genesis-R 1 
 
 **[[Home/Scripture/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 2#Genesis-R 2| Genesis 2]]
+=======
+# Genesis 1
+
+[[Readable Bible/01 - Genesis/Genesis 2|Genesis 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 ##### Genesis 1 . 1

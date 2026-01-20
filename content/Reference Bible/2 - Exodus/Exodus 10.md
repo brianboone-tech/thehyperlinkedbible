@@ -29,11 +29,19 @@ Chapter: "10"
 | [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 4|LXX]] |
 
 ##### Exodus 10 - 5
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3680|They will cover]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5869|the face]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H3801-3900#H3808|so that no]] [[Lexicon/H3201-3300#H3201|one can]] [[Lexicon/H7101-7200#H7200|see]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|[it].]] [[Lexicon/H301-400#H398|They will devour]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3401-3500#H3499|whatever is]] [[Lexicon/H7601-7700#H7604|left]] [[Lexicon/H4401-4500#H4480|]] [[Lexicon/H6401-6500#H6413|after]] [[Lexicon/H1201-1300#H1259|the hail]] [[Lexicon/H301-400#H398|and eat]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H6001-6100#H6086|tree]] [[Lexicon/H6701-6800#H6779|that grows]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H7701-7800#H7704|fields.]]
 | [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 5|LXX]] |
 
 ##### Exodus 10 - 6
 [[Lexicon/H4301-4400#H4390|They will fill]] [[Lexicon/H1001-1100#H1004|your houses]] [[Lexicon/H1001-1100#H1004|and the houses]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H5601-5700#H5650|your officials]] [[Lexicon/H1001-1100#H1004|and]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H4701-4800#H4713|Egyptian —]] [[Lexicon/H801-900#H834|something]] [[Lexicon/H3801-3900#H3808|neither]] [[Lexicon/H1-100#H1|your fathers]] [[Lexicon/H1-100#H1|nor your grandfathers]] [[Lexicon/H1-100#H1|...]] [[Lexicon/H7101-7200#H7200|have seen]] [[Lexicon/H3101-3200#H3117|since the day]] [[Lexicon/H1901-2000#H1961|they came into]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H101-200#H127|this land]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H3101-3200#H3117|.... ’”]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H6401-6500#H6437|Then [Moses] turned]] [[Lexicon/H3301-3400#H3318|and left]] [[Lexicon/H5901-6000#H5973|...]] [[Lexicon/H6501-6600#H6547|Pharaoh’s presence.]]
+=======
+[[Lexicon/H3601-3700#H3680|They will cover]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5869|the face]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H3801-3900#H3808|so that no]] [[Lexicon/H3201-3300#H3201|one can]] [[Lexicon/H7101-7200#H7200|see]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|(it).]] [[Lexicon/H301-400#H398|They will devour]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3401-3500#H3499|whatever is]] [[Lexicon/H7601-7700#H7604|left]] [[Lexicon/H4401-4500#H4480|]] [[Lexicon/H6401-6500#H6413|after]] [[Lexicon/H1201-1300#H1259|the hail]] [[Lexicon/H301-400#H398|and eat]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H6001-6100#H6086|tree]] [[Lexicon/H6701-6800#H6779|that grows]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H7701-7800#H7704|fields.]]
+| [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 5|LXX]] |
+
+##### Exodus 10 - 6
+[[Lexicon/H4301-4400#H4390|They will fill]] [[Lexicon/H1001-1100#H1004|your houses]] [[Lexicon/H1001-1100#H1004|and the houses]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H5601-5700#H5650|your officials]] [[Lexicon/H1001-1100#H1004|and]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H4701-4800#H4713|Egyptian —]] [[Lexicon/H801-900#H834|something]] [[Lexicon/H3801-3900#H3808|neither]] [[Lexicon/H1-100#H1|your fathers]] [[Lexicon/H1-100#H1|nor your grandfathers]] [[Lexicon/H1-100#H1|...]] [[Lexicon/H7101-7200#H7200|have seen]] [[Lexicon/H3101-3200#H3117|since the day]] [[Lexicon/H1901-2000#H1961|they came into]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H101-200#H127|this land]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H3101-3200#H3117|.... ’”]] [[Lexicon/H2001-2100#H2088|...]] [[Lexicon/H6401-6500#H6437|Then (Moses) turned]] [[Lexicon/H3301-3400#H3318|and left]] [[Lexicon/H5901-6000#H5973|...]] [[Lexicon/H6501-6600#H6547|Pharaoh’s presence.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 6|LXX]] |
 
 ##### Exodus 10 - 7
@@ -41,6 +49,7 @@ Chapter: "10"
 | [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 7|LXX]] |
 
 ##### Exodus 10 - 8
+<<<<<<< HEAD
 [[Lexicon/H4801-4900#H4872|So Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H175|and Aaron]] [[Lexicon/H7701-7800#H7725|were brought back]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6501-6600#H6547|Pharaoh.]] [[Lexicon/H1901-2000#H1980|“ Go ,]] [[Lexicon/H5601-5700#H5647|worship]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God , ”]] [[Lexicon/H501-600#H559|[he] said.]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H4301-4400#H4310|“ But who exactly]] [[Lexicon/H4301-4400#H4310|...]] [[Lexicon/H1901-2000#H1980|will be going ? ”]]
 | [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 8|LXX]] |
 
@@ -54,6 +63,21 @@ Chapter: "10"
 
 ##### Exodus 10 - 11
 [[Lexicon/H3801-3900#H3808|No ,]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H1301-1400#H1397|only the men]] [[Lexicon/H1901-2000#H1980|may go]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H5601-5700#H5647|and worship]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H859|that is what you]] [[Lexicon/H1201-1300#H1245|have been requesting. ”]] [[Lexicon/H1601-1700#H1644|And [Moses and Aaron] were driven]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H854|from]] [[Lexicon/H6501-6600#H6547|Pharaoh’s]] [[Lexicon/H6401-6500#H6440|presence.]]
+=======
+[[Lexicon/H4801-4900#H4872|So Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H175|and Aaron]] [[Lexicon/H7701-7800#H7725|were brought back]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6501-6600#H6547|Pharaoh.]] [[Lexicon/H1901-2000#H1980|“ Go ,]] [[Lexicon/H5601-5700#H5647|worship]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God , ”]] [[Lexicon/H501-600#H559|(he) said.]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H4301-4400#H4310|“ But who exactly]] [[Lexicon/H4301-4400#H4310|...]] [[Lexicon/H1901-2000#H1980|will be going ? ”]]
+| [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 8|LXX]] |
+
+##### Exodus 10 - 9
+[[Lexicon/H1901-2000#H1980|“ We will go]] [[Lexicon/H5201-5300#H5288|with our young]] [[Lexicon/H2201-2300#H2205|and old , ”]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H501-600#H559|replied.]] [[Lexicon/H1901-2000#H1980|“ We will go]] [[Lexicon/H1101-1200#H1121|with our sons]] [[Lexicon/H1301-1400#H1323|and daughters ,]] [[Lexicon/H6601-6700#H6629|and with our flocks]] [[Lexicon/H1201-1300#H1241|and herds ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H2201-2300#H2282|(we must hold) a feast]] [[Lexicon/H3001-3100#H3068|to the LORD]]
+| [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 9|LXX]] |
+
+##### Exodus 10 - 10
+[[Lexicon/H501-600#H559|Then (Pharaoh)]] [[Lexicon/H401-500#H413|told them ,]] [[Lexicon/H3001-3100#H3068|“ May the LORD]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H5901-6000#H5973|with you]] [[Lexicon/H801-900#H834|if I ever]] [[Lexicon/H7901-8000#H7971|let you go]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2901-3000#H2945|with your little ones.]] [[Lexicon/H7101-7200#H7200|Clearly]] [[Lexicon/H3501-3600#H3588|...]] [[Lexicon/H5001-5100#H5048|you are bent]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H7401-7500#H7451|on evil.]]
+| [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 10|LXX]] |
+
+##### Exodus 10 - 11
+[[Lexicon/H3801-3900#H3808|No ,]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H1301-1400#H1397|only the men]] [[Lexicon/H1901-2000#H1980|may go]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H5601-5700#H5647|and worship]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H859|that is what you]] [[Lexicon/H1201-1300#H1245|have been requesting. ”]] [[Lexicon/H1601-1700#H1644|And (Moses and Aaron) were driven]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H854|from]] [[Lexicon/H6501-6600#H6547|Pharaoh’s]] [[Lexicon/H6401-6500#H6440|presence.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 11|LXX]] |
 
 ##### Exodus 10 - 12
@@ -69,7 +93,11 @@ Chapter: "10"
 | [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 14|LXX]] |
 
 ##### Exodus 10 - 15
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3680|They covered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5869|the face]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H701-800#H776|until [it]]] [[Lexicon/H2801-2900#H2821|was black ,]] [[Lexicon/H301-400#H398|and they consumed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6201-6300#H6212|the plants]] [[Lexicon/H701-800#H776|on the ground]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H6501-6600#H6529|the fruit]] [[Lexicon/H6001-6100#H6086|on the trees]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1201-1300#H1259|the hail]] [[Lexicon/H3401-3500#H3498|had left behind.]] [[Lexicon/H3801-3900#H3808|Nothing]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H3401-3500#H3418|green]] [[Lexicon/H3401-3500#H3498|was left]] [[Lexicon/H6001-6100#H6086|on any tree]] [[Lexicon/H6201-6300#H6212|or plant]] [[Lexicon/H7701-7800#H7704|...]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
+=======
+[[Lexicon/H3601-3700#H3680|They covered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5869|the face]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H701-800#H776|until (it)]] [[Lexicon/H2801-2900#H2821|was black ,]] [[Lexicon/H301-400#H398|and they consumed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6201-6300#H6212|the plants]] [[Lexicon/H701-800#H776|on the ground]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H6501-6600#H6529|the fruit]] [[Lexicon/H6001-6100#H6086|on the trees]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1201-1300#H1259|the hail]] [[Lexicon/H3401-3500#H3498|had left behind.]] [[Lexicon/H3801-3900#H3808|Nothing]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H3401-3500#H3418|green]] [[Lexicon/H3401-3500#H3498|was left]] [[Lexicon/H6001-6100#H6086|on any tree]] [[Lexicon/H6201-6300#H6212|or plant]] [[Lexicon/H7701-7800#H7704|...]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 10#Exodus 10 - 15|LXX]] |
 
 ##### Exodus 10 - 16

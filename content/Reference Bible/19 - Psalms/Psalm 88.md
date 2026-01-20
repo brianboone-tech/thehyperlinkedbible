@@ -34,7 +34,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 88#Psalm 88 - 6|LXX]] |
 
 ##### Psalm 88 - 7
+<<<<<<< HEAD
 [[Lexicon/H2501-2600#H2534|Your wrath]] [[Lexicon/H5501-5600#H5564|weighs heavily]] [[Lexicon/H5901-6000#H5921|upon me ;]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4801-4900#H4867|Your waves]] [[Lexicon/H6001-6100#H6031|have submerged [me].]] [[Lexicon/H5501-5600#H5542|Selah]]
+=======
+[[Lexicon/H2501-2600#H2534|Your wrath]] [[Lexicon/H5501-5600#H5564|weighs heavily]] [[Lexicon/H5901-6000#H5921|upon me ;]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4801-4900#H4867|Your waves]] [[Lexicon/H6001-6100#H6031|have submerged (me).]] [[Lexicon/H5501-5600#H5542|Selah]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 88#Psalm 88 - 7|LXX]] |
 
 ##### Psalm 88 - 8
@@ -66,7 +70,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 88#Psalm 88 - 14|LXX]] |
 
 ##### Psalm 88 - 15
+<<<<<<< HEAD
 [[Lexicon/H5201-5300#H5290|From my youth]] [[Lexicon/H501-600#H589|I [was]]] [[Lexicon/H6001-6100#H6041|afflicted]] [[Lexicon/H1401-1500#H1478|and near death.]] [[Lexicon/H5301-5400#H5375|I have borne]] [[Lexicon/H301-400#H367|Your terrors ;]] [[Lexicon/H6301-6400#H6323|I am in despair.]]
+=======
+[[Lexicon/H5201-5300#H5290|From my youth]] [[Lexicon/H501-600#H589|I (was)]] [[Lexicon/H6001-6100#H6041|afflicted]] [[Lexicon/H1401-1500#H1478|and near death.]] [[Lexicon/H5301-5400#H5375|I have borne]] [[Lexicon/H301-400#H367|Your terrors ;]] [[Lexicon/H6301-6400#H6323|I am in despair.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 88#Psalm 88 - 15|LXX]] |
 
 ##### Psalm 88 - 16

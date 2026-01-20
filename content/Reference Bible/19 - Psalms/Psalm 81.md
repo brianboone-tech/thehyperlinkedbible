@@ -18,7 +18,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 81#Psalm 81 - 2|LXX]] |
 
 ##### Psalm 81 - 3
+<<<<<<< HEAD
 [[Lexicon/H8601-8674#H8628|Sound]] [[Lexicon/H7701-7800#H7782|the ram’s horn]] [[Lexicon/H2301-2400#H2320|at the New Moon ,]] [[Lexicon/H3601-3700#H3677|[and] at the full moon]] [[Lexicon/H3101-3200#H3117|on the day]] [[Lexicon/H2201-2300#H2282|of our Feast.]]
+=======
+[[Lexicon/H8601-8674#H8628|Sound]] [[Lexicon/H7701-7800#H7782|the ram’s horn]] [[Lexicon/H2301-2400#H2320|at the New Moon ,]] [[Lexicon/H3601-3700#H3677|(and) at the full moon]] [[Lexicon/H3101-3200#H3117|on the day]] [[Lexicon/H2201-2300#H2282|of our Feast.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 81#Psalm 81 - 3|LXX]] |
 
 ##### Psalm 81 - 4
@@ -26,7 +30,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 81#Psalm 81 - 4|LXX]] |
 
 ##### Psalm 81 - 5
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7760|He ordained it]] [[Lexicon/H5701-5800#H5715|as a testimony]] [[Lexicon/H3001-3100#H3084|for Joseph]] [[Lexicon/H3301-3400#H3318|when he went out]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H8001-8100#H8085|[where] I heard]] [[Lexicon/H3801-3900#H3808|an unfamiliar]] [[Lexicon/H3001-3100#H3045|...]] [[Lexicon/H8101-8200#H8193|language :]]
+=======
+[[Lexicon/H7701-7800#H7760|He ordained it]] [[Lexicon/H5701-5800#H5715|as a testimony]] [[Lexicon/H3001-3100#H3084|for Joseph]] [[Lexicon/H3301-3400#H3318|when he went out]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H8001-8100#H8085|(where) I heard]] [[Lexicon/H3801-3900#H3808|an unfamiliar]] [[Lexicon/H3001-3100#H3045|...]] [[Lexicon/H8101-8200#H8193|language :]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 81#Psalm 81 - 5|LXX]] |
 
 ##### Psalm 81 - 6

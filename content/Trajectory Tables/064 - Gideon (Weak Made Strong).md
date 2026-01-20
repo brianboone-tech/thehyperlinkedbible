@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## GIDEON (WEAK MADE STRONG) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CawJRw66Nh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -8,6 +16,7 @@ Gideon exemplifies the biblical pattern of God's strength perfected in human wea
 
 **Type Classification**: Providential (sovereignly arranged deliverer), Backward-Looking (the "weak made strong" pattern fully recognized from NT perspective in Hebrews 11 and 2 Corinthians 12)
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Context - Israel's Desperate Weakness** | **Key Text:**<br>[[Readable Bible/07 - Judges/Judges 6#Judges 6 . 1\|Judges 6:1-10]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Gideon (Weak Made Strong)/07 - Judges 6.1-10\|Judges 6:1-10]] | Israel was "greatly impoverished" by Midian's seven-year oppression. They lived in caves, hiding from raiders who destroyed their crops. Their situation was hopeless—"innumerable" enemies with "camels beyond counting." When Israel cried out, God sent a prophet reminding them their oppression was judgment for idolatry. The context establishes Israel's complete weakness before introducing their deliverer. | **OT to OT:**<br>**CRITICAL:**<br>[[Intertextuality Pairs/OT to OT/07 - Judges/Judges 6.8-10 to Exodus 20.2-3\|Judg 6:8-10 to Ex 20:2-3]] |
@@ -20,6 +29,39 @@ Gideon exemplifies the biblical pattern of God's strength perfected in human wea
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Context - Israel's Desperate Weakness** | [[Readable Bible/07 - Judges/Judges 6#Judges 6 . 1\|Judges 6:1-10]] | Israel was "greatly impoverished" by Midian's seven-year oppression. They lived in caves, hiding from raiders who destroyed their crops. Their situation was hopeless—"innumerable" enemies with "camels beyond counting." When Israel cried out, God sent a prophet reminding them their oppression was judgment for idolatry. The context establishes Israel's complete weakness before introducing their deliverer. **CRITICAL:** [[Intertextuality Pairs/OT to OT/07 - Judges/Judges 6.8-10 to Exodus 20.2-3\|Judges 6:8-10 → Exodus 20:2-3]] | [[Trajectory Tables - Foundation Texts/Gideon (Weak Made Strong)/07 - Judges 6.1-10\|Judges 6:1-10]] |
+| 2 | **OT Type - Weak Man Called "Mighty"** | [[Readable Bible/07 - Judges/Judges 6#Judges 6 . 11\|Judges 6:11-16]] | The angel of the LORD found Gideon threshing wheat in a winepress—an act of hiding, not heroism. Yet God addressed him: "The LORD is with you, O mighty man of valor." Gideon protested: "How can I save Israel? My clan is the weakest in Manasseh, and I am the youngest in my father's house." God's answer: "Surely I will be with you." The pattern: God calls the weak and promises His presence. | [[Trajectory Tables - Foundation Texts/Gideon (Weak Made Strong)/07 - Judges 6.11-16\|Judges 6:11-16]] |
+| 3 | **OT Development - Faith Needing Signs** | [[Readable Bible/07 - Judges/Judges 6#Judges 6 . 36\|Judges 6:36-40]] | Even after divine commissioning, Gideon requested signs. The fleece tests reveal weak faith requiring confirmation. "Do not be angry with me; let me speak one more time." God graciously accommodated his weakness, making the fleece wet then dry as requested. Like Barak, Gideon's faith was genuine but struggling. God works through imperfect faith rather than waiting for perfect faith. | [[Trajectory Tables - Foundation Texts/Gideon (Weak Made Strong)/07 - Judges 6.36-40\|Judges 6:36-40]] |
+| 4 | **OT Development - Strength Removed** | [[Readable Bible/07 - Judges/Judges 7#Judges 7 . 2\|Judges 7:2-8]] | God deliberately removed Gideon's human strength. "You have too many people for Me to deliver Midian into their hands, lest Israel glorify themselves over Me, saying, 'My own hand has saved me.'" The army was reduced from 32,000 to 10,000 (fearful dismissed) to 300 (water-lapping test). God ensured the victory would be clearly His, not Israel's military prowess. Weakness was not just tolerated but engineered. | [[Trajectory Tables - Foundation Texts/Gideon (Weak Made Strong)/07 - Judges 7.2-8\|Judges 7:2-8]] |
+| 5 | **OT Fulfillment - Victory Through Weakness** | [[Readable Bible/07 - Judges/Judges 7#Judges 7 . 19\|Judges 7:19-22]] | The attack used torches, jars, and trumpets—not swords. When the 300 blew horns and broke jars, "the LORD set all the men in the camp against one another with their swords." The Midianite army of 135,000 destroyed itself while Gideon's 300 stood still. The victory strategy was laughable by military standards—but perfect for displaying divine power. Weakness became the platform for God's strength. **CRITICAL:** [[Intertextuality Pairs/NT to OT/46 - 1 Corinthians/1 Corinthians 1.27-29 to Judges 6-7\|1 Corinthians 1:27-29 → Judges 6-7]] | [[Trajectory Tables - Foundation Texts/Gideon (Weak Made Strong)/07 - Judges 7.19-22\|Judges 7:19-22]] |
+| 6 | **NT Commendation - Strength from Weakness** | [[Readable Bible/58 - Hebrews/Hebrews 11#Hebrews 11 . 32\|Hebrews 11:32-34]] | Hebrews lists Gideon first among the judges who "through faith conquered kingdoms." The phrase "gained strength from weakness" (ἐδυναμώθησαν ἀπὸ ἀσθενείας) particularly fits Gideon's story. The NT interprets his victory as faith's triumph despite—and through—human weakness. This commends struggling faith and validates the pattern: God's power perfected in weakness. | [[Trajectory Tables - Foundation Texts/Gideon (Weak Made Strong)/58 - Hebrews 11.32-34\|Hebrews 11:32-34]] |
+| 7 | **NT Application - Power Perfected in Weakness** | [[Readable Bible/47 - 2 Corinthians/2 Corinthians 12#2 Corinthians 12 . 9\|2 Corinthians 12:9-10]] | Paul articulates the Gideon principle: "My grace is sufficient for you, for My power is made perfect in weakness." Paul boasts in weaknesses "so that Christ's power may rest on me. For when I am weak, then I am strong." This is Gideon's pattern universalized: God chooses the weak to shame the strong (1 Corinthians 1:27), and His strength flows through human emptiness. **CRITICAL:** [[Intertextuality Pairs/NT to OT/47 - 2 Corinthians/2 Corinthians 12.9-10 to Judges 7.2\|2 Corinthians 12:9-10 → Judges 7:2]] | [[Trajectory Tables - Foundation Texts/Gideon (Weak Made Strong)/47 - 2 Corinthians 12.9-10\|2 Corinthians 12:9-10]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+**07 - Judges**
+
+- [[Intertextuality Pairs/OT to OT/07 - Judges/Judges 6.8-10 to Exodus 20.2-3\|Judges 6:8-10 to Exodus 20:2-3]] - **CRITICAL:** The prophet's message to Israel recalls the Exodus pattern ("I brought you up out of Egypt") and the first commandment ("You must not fear the gods of the Amorites"). Israel's oppression came from covenant unfaithfulness. Gideon's deliverance would restore what idolatry had broken.
+
+### NT to OT
+
+**46 - 1 Corinthians**
+
+- [[Intertextuality Pairs/NT to OT/46 - 1 Corinthians/1 Corinthians 1.27-29 to Judges 6-7\|1 Corinthians 1:27-29 to Judges 6-7]] - **CRITICAL:** Paul's statement that "God chose the weak things of the world to shame the strong" echoes the Gideon pattern. The 300 defeating 135,000 exemplifies this principle. God's choice of the weak ensures "no one may boast before him."
+
+**47 - 2 Corinthians**
+
+- [[Intertextuality Pairs/NT to OT/47 - 2 Corinthians/2 Corinthians 12.9-10 to Judges 7.2\|2 Corinthians 12:9-10 to Judges 7:2]] - **CRITICAL:** God's word to Gideon ("You have too many people") and to Paul ("My power is made perfect in weakness") express the same principle. God removes human strength so His power becomes unmistakably evident.
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 ### 1. What You Must Do

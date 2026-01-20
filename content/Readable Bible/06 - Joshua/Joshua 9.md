@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Joshua-R 9
 
 **[[Home/Scripture/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 8#Joshua-R 8| Joshua 8]] - [[Readable Bible/06 - Joshua/Joshua 10#Joshua-R 10| Joshua 10]]
+=======
+# Joshua 9
+
+[[Readable Bible/06 - Joshua/Joshua 8|← Joshua 8]] | [[Readable Bible/06 - Joshua/Joshua 10|Joshua 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

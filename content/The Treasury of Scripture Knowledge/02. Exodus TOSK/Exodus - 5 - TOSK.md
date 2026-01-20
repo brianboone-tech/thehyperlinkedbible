@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Exodus 5 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 4 - TOSK|← Ch 4]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 6 - TOSK|Ch 6 →]]
+=======
+**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 4 - TOSK|← Ch 4]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 6 - TOSK|Ch 6 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

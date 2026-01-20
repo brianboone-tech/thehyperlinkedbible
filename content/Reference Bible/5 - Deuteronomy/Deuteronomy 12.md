@@ -12,7 +12,11 @@ Book: Deuteronomy
 ---
 
 ##### Deuteronomy 12 - 1
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|These [are]]] [[Lexicon/H2701-2800#H2706|the statutes]] [[Lexicon/H4901-5000#H4941|and ordinances]] [[Lexicon/H8101-8200#H8104|you must be careful]] [[Lexicon/H6201-6300#H6213|to follow]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3101-3200#H3117|the days]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H2401-2500#H2416|live]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H101-200#H127|-]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H1-100#H1|of your fathers ,]] [[Lexicon/H5401-5500#H5414|has given]] [[Lexicon/H3401-3500#H3423|to possess.]]
+=======
+[[Lexicon/H401-500#H428|These (are)]] [[Lexicon/H2701-2800#H2706|the statutes]] [[Lexicon/H4901-5000#H4941|and ordinances]] [[Lexicon/H8101-8200#H8104|you must be careful]] [[Lexicon/H6201-6300#H6213|to follow]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3101-3200#H3117|the days]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H2401-2500#H2416|live]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H101-200#H127|-]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H1-100#H1|of your fathers ,]] [[Lexicon/H5401-5500#H5414|has given]] [[Lexicon/H3401-3500#H3423|to possess.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Deuteronomy 12 - 2
 [[Lexicon/H1-100#H6|Destroy completely]] [[Lexicon/H1-100#H6|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4701-4800#H4725|the places]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H1401-1500#H1471|the nations]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H3401-3500#H3423|are dispossessing]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5601-5700#H5647|have served]] [[Lexicon/H8001-8100#H8033|...]] [[Lexicon/H401-500#H430|their gods —]] [[Lexicon/H5901-6000#H5921|atop]] [[Lexicon/H7301-7400#H7311|the high]] [[Lexicon/H2001-2100#H2022|mountains ,]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H1301-1400#H1389|the hills ,]] [[Lexicon/H8401-8500#H8478|and under]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H7401-7500#H7488|green]] [[Lexicon/H6001-6100#H6086|tree.]]
@@ -30,10 +34,17 @@ Book: Deuteronomy
 [[Lexicon/H8001-8100#H8033|To that place]] [[Lexicon/H901-1000#H935|you are to bring]] [[Lexicon/H5901-6000#H5930|your burnt offerings]] [[Lexicon/H2001-2100#H2077|and sacrifices ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4601-4700#H4643|your tithes]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8601-8674#H8641|and heave offerings ,]] [[Lexicon/H3001-3100#H3027|...]] [[Lexicon/H5001-5100#H5088|your vow offerings]] [[Lexicon/H5001-5100#H5071|and freewill offerings ,]] [[Lexicon/H1001-1100#H1060|as well as the firstborn]] [[Lexicon/H1201-1300#H1241|of your herds]] [[Lexicon/H6601-6700#H6629|and flocks.]]
 
 ##### Deuteronomy 12 - 7
+<<<<<<< HEAD
 [[Lexicon/H8001-8100#H8033|There ,]] [[Lexicon/H6401-6500#H6440|in the presence]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H430|your God ,]] [[Lexicon/H1001-1100#H1004|[you and] your households]] [[Lexicon/H301-400#H398|shall eat]] [[Lexicon/H8001-8100#H8055|and rejoice]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H4901-5000#H4916|you do]] [[Lexicon/H3001-3100#H3027|... ,]] [[Lexicon/H801-900#H859|...]] [[Lexicon/H801-900#H834|because]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God]] [[Lexicon/H1201-1300#H1288|has blessed you.]]
 
 ##### Deuteronomy 12 - 8
 [[Lexicon/H3801-3900#H3808|You are not]] [[Lexicon/H6201-6300#H6213|to do]] [[Lexicon/H3601-3700#H3605|as]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H587|we]] [[Lexicon/H6201-6300#H6213|are doing]] [[Lexicon/H6301-6400#H6311|here]] [[Lexicon/H3101-3200#H3117|today ,]] [[Lexicon/H301-400#H376|[where] everyone]] [[Lexicon/H3601-3700#H3605|[does] what]] [[Lexicon/H3401-3500#H3477|seems right]] [[Lexicon/H5801-5900#H5869|in his own eyes.]]
+=======
+[[Lexicon/H8001-8100#H8033|There ,]] [[Lexicon/H6401-6500#H6440|in the presence]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H430|your God ,]] [[Lexicon/H1001-1100#H1004|(you and) your households]] [[Lexicon/H301-400#H398|shall eat]] [[Lexicon/H8001-8100#H8055|and rejoice]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H4901-5000#H4916|you do]] [[Lexicon/H3001-3100#H3027|... ,]] [[Lexicon/H801-900#H859|...]] [[Lexicon/H801-900#H834|because]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God]] [[Lexicon/H1201-1300#H1288|has blessed you.]]
+
+##### Deuteronomy 12 - 8
+[[Lexicon/H3801-3900#H3808|You are not]] [[Lexicon/H6201-6300#H6213|to do]] [[Lexicon/H3601-3700#H3605|as]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H587|we]] [[Lexicon/H6201-6300#H6213|are doing]] [[Lexicon/H6301-6400#H6311|here]] [[Lexicon/H3101-3200#H3117|today ,]] [[Lexicon/H301-400#H376|(where) everyone]] [[Lexicon/H3601-3700#H3605|(does) what]] [[Lexicon/H3401-3500#H3477|seems right]] [[Lexicon/H5801-5900#H5869|in his own eyes.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Deuteronomy 12 - 9
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3801-3900#H3808|you have not]] [[Lexicon/H5701-5800#H5704|yet]] [[Lexicon/H901-1000#H935|come]] [[Lexicon/H6201-6300#H6258|...]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4401-4500#H4496|the resting place]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5101-5200#H5159|and the inheritance]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God]] [[Lexicon/H5401-5500#H5414|is giving]]
@@ -51,7 +62,11 @@ Book: Deuteronomy
 [[Lexicon/H8101-8200#H8104|Be careful]] [[Lexicon/H6401-6500#H6435|not]] [[Lexicon/H5901-6000#H5927|to offer]] [[Lexicon/H5901-6000#H5930|your burnt offerings]] [[Lexicon/H3601-3700#H3605|in just any]] [[Lexicon/H4701-4800#H4725|place]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7200|you see ;]]
 
 ##### Deuteronomy 12 - 14
+<<<<<<< HEAD
 [[Lexicon/H5901-6000#H5927|you must offer]] [[Lexicon/H5901-6000#H5930|[them]]] [[Lexicon/H8001-8100#H8033|...]] [[Lexicon/H3501-3600#H3588|only]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H4701-4800#H4725|in the place]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H901-1000#H977|will choose]] [[Lexicon/H201-300#H259|in one]] [[Lexicon/H7601-7700#H7626|of your tribal territories ,]] [[Lexicon/H8001-8100#H8033|and there]] [[Lexicon/H6201-6300#H6213|you shall do]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H6601-6700#H6680|command you.]]
+=======
+[[Lexicon/H5901-6000#H5927|you must offer]] [[Lexicon/H5901-6000#H5930|(them)]] [[Lexicon/H8001-8100#H8033|...]] [[Lexicon/H3501-3600#H3588|only]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H4701-4800#H4725|in the place]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H901-1000#H977|will choose]] [[Lexicon/H201-300#H259|in one]] [[Lexicon/H7601-7700#H7626|of your tribal territories ,]] [[Lexicon/H8001-8100#H8033|and there]] [[Lexicon/H6201-6300#H6213|you shall do]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H6601-6700#H6680|command you.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Deuteronomy 12 - 15
 [[Lexicon/H7501-7600#H7535|But]] [[Lexicon/H3601-3700#H3605|whenever]] [[Lexicon/H5301-5400#H5315|you]] [[Lexicon/H101-200#H185|want ,]] [[Lexicon/H2001-2100#H2076|you may slaughter]] [[Lexicon/H301-400#H398|and eat]] [[Lexicon/H1301-1400#H1320|meat]] [[Lexicon/H3601-3700#H3605|within any]] [[Lexicon/H8101-8200#H8179|of your gates ,]] [[Lexicon/H1201-1300#H1293|according to the blessing]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5414|has given]] [[Lexicon/H2801-2900#H2889|Both the ceremonially clean]] [[Lexicon/H2901-3000#H2931|and unclean]] [[Lexicon/H301-400#H398|may eat it]] [[Lexicon/H6601-6700#H6643|as they would a gazelle]] [[Lexicon/H301-400#H354|or deer ,]]
@@ -81,7 +96,11 @@ Book: Deuteronomy
 [[Lexicon/H7501-7600#H7535|Only]] [[Lexicon/H2301-2400#H2388|be sure]] [[Lexicon/H1101-1200#H1115|not]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H1801-1900#H1818|the blood ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1801-1900#H1818|the blood]] [[Lexicon/H1901-2000#H1931|is]] [[Lexicon/H5301-5400#H5315|the life ,]] [[Lexicon/H3801-3900#H3808|and you must not]] [[Lexicon/H301-400#H398|eat]] [[Lexicon/H5301-5400#H5315|the life]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H1301-1400#H1320|the meat.]]
 
 ##### Deuteronomy 12 - 24
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H301-400#H398|You must not eat [the blood] ;]] [[Lexicon/H8201-8300#H8210|pour]] [[Lexicon/H5901-6000#H5921|it on]] [[Lexicon/H701-800#H776|the ground]] [[Lexicon/H4301-4400#H4325|like water.]]
+=======
+[[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H301-400#H398|You must not eat (the blood) ;]] [[Lexicon/H8201-8300#H8210|pour]] [[Lexicon/H5901-6000#H5921|it on]] [[Lexicon/H701-800#H776|the ground]] [[Lexicon/H4301-4400#H4325|like water.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Deuteronomy 12 - 25
 [[Lexicon/H3801-3900#H3808|Do not]] [[Lexicon/H301-400#H398|eat it ,]] [[Lexicon/H4601-4700#H4616|so that]] [[Lexicon/H3101-3200#H3190|it may go well]] [[Lexicon/H1101-1200#H1121|and your children]] [[Lexicon/H301-400#H310|after you ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H6201-6300#H6213|you will be doing]] [[Lexicon/H3401-3500#H3477|what is right]] [[Lexicon/H5801-5900#H5869|in the eyes]] [[Lexicon/H3001-3100#H3068|of the LORD.]]
@@ -102,7 +121,11 @@ Book: Deuteronomy
 [[Lexicon/H8101-8200#H8104|be careful]] [[Lexicon/H6401-6500#H6435|not]] [[Lexicon/H5301-5400#H5367|to be ensnared]] [[Lexicon/H301-400#H310|by their ways]] [[Lexicon/H301-400#H310|after]] [[Lexicon/H8001-8100#H8045|they have been destroyed]] [[Lexicon/H6401-6500#H6440|before you.]] [[Lexicon/H6401-6500#H6435|Do not]] [[Lexicon/H1801-1900#H1875|inquire]] [[Lexicon/H401-500#H430|about their gods ,]] [[Lexicon/H501-600#H559|asking ,]] [[Lexicon/H301-400#H349|“ How]] [[Lexicon/H401-500#H428|do these]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1401-1500#H1471|nations]] [[Lexicon/H5601-5700#H5647|serve]] [[Lexicon/H401-500#H430|their gods ?]] [[Lexicon/H501-600#H589|I will]] [[Lexicon/H6201-6300#H6213|do]] [[Lexicon/H3601-3700#H3651|vvv]] [[Lexicon/H1501-1600#H1571|likewise. ”]]
 
 ##### Deuteronomy 12 - 31
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H6201-6300#H6213|[worship]]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God]] [[Lexicon/H3601-3700#H3651|in this way ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H6201-6300#H6213|they practice]] [[Lexicon/H401-500#H430|for their gods]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H8401-8500#H8441|abomination]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8101-8200#H8130|hates.]] [[Lexicon/H3501-3600#H3588|They even]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8313|burn]] [[Lexicon/H1101-1200#H1121|their sons]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1301-1400#H1323|and daughters]] [[Lexicon/H701-800#H784|in the fire]] [[Lexicon/H401-500#H430|[as sacrifices] to their gods.]]
+=======
+[[Lexicon/H3801-3900#H3808|You must not]] [[Lexicon/H6201-6300#H6213|(worship)]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|your God]] [[Lexicon/H3601-3700#H3651|in this way ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H6201-6300#H6213|they practice]] [[Lexicon/H401-500#H430|for their gods]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H8401-8500#H8441|abomination]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8101-8200#H8130|hates.]] [[Lexicon/H3501-3600#H3588|They even]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8313|burn]] [[Lexicon/H1101-1200#H1121|their sons]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1301-1400#H1323|and daughters]] [[Lexicon/H701-800#H784|in the fire]] [[Lexicon/H401-500#H430|(as sacrifices) to their gods.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Deuteronomy 12 - 32
 [[Lexicon/H801-900#H853|vvv]] [[Lexicon/H8101-8200#H8104|See that you do]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|everything]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H6601-6700#H6680|command you]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6201-6300#H6213|- ;]] [[Lexicon/H3801-3900#H3808|do not]] [[Lexicon/H3201-3300#H3254|add]] [[Lexicon/H5901-6000#H5921|to it]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H1601-1700#H1639|or subtract]] [[Lexicon/H4401-4500#H4480|from it.]]

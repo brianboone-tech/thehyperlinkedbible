@@ -104,7 +104,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 23|LXX]] |
 
 ##### Leviticus 13 - 24
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H1901-2000#H1961|there is]] [[Lexicon/H4301-4400#H4348|a burn]] [[Lexicon/H701-800#H784|...]] [[Lexicon/H5701-5800#H5785|on someone’s skin]] [[Lexicon/H101-200#H176|]] [[Lexicon/H1301-1400#H1320|-]] [[Lexicon/H4201-4300#H4241|and the raw]] [[Lexicon/H4301-4400#H4348|[area] of the burn]] [[Lexicon/H901-1000#H934|...]] [[Lexicon/H1901-2000#H1961|becomes]] [[Lexicon/H3801-3900#H3836|reddish-white]] [[Lexicon/H101-200#H125|...]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H3801-3900#H3836|white ,]]
+=======
+[[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H1901-2000#H1961|there is]] [[Lexicon/H4301-4400#H4348|a burn]] [[Lexicon/H701-800#H784|...]] [[Lexicon/H5701-5800#H5785|on someone’s skin]] [[Lexicon/H101-200#H176|]] [[Lexicon/H1301-1400#H1320|-]] [[Lexicon/H4201-4300#H4241|and the raw]] [[Lexicon/H4301-4400#H4348|(area) of the burn]] [[Lexicon/H901-1000#H934|...]] [[Lexicon/H1901-2000#H1961|becomes]] [[Lexicon/H3801-3900#H3836|reddish-white]] [[Lexicon/H101-200#H125|...]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H3801-3900#H3836|white ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 24|LXX]] |
 
 ##### Leviticus 13 - 25
@@ -140,7 +144,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 32|LXX]] |
 
 ##### Leviticus 13 - 33
+<<<<<<< HEAD
 [[Lexicon/H1501-1600#H1548|then the person must shave himself]] [[Lexicon/H801-900#H853|except for]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H1501-1600#H1548|-]] [[Lexicon/H5401-5500#H5424|the scaly area.]] [[Lexicon/H3501-3600#H3548|Then the priest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5462|shall isolate]] [[Lexicon/H5401-5500#H5424|[him]]] [[Lexicon/H8101-8200#H8145|for another]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H3101-3200#H3117|days.]]
+=======
+[[Lexicon/H1501-1600#H1548|then the person must shave himself]] [[Lexicon/H801-900#H853|except for]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H1501-1600#H1548|-]] [[Lexicon/H5401-5500#H5424|the scaly area.]] [[Lexicon/H3501-3600#H3548|Then the priest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5462|shall isolate]] [[Lexicon/H5401-5500#H5424|(him)]] [[Lexicon/H8101-8200#H8145|for another]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H3101-3200#H3117|days.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 33|LXX]] |
 
 ##### Leviticus 13 - 34
@@ -156,7 +164,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 36|LXX]] |
 
 ##### Leviticus 13 - 37
+<<<<<<< HEAD
 [[Lexicon/H501-600#H518|If, however ,]] [[Lexicon/H5801-5900#H5869|in his sight]] [[Lexicon/H5401-5500#H5424|the scaly outbreak]] [[Lexicon/H5901-6000#H5975|is unchanged]] [[Lexicon/H7801-7900#H7838|and black]] [[Lexicon/H8101-8200#H8181|hair]] [[Lexicon/H6701-6800#H6779|has grown]] [[Lexicon/H5401-5500#H5424|then it]] [[Lexicon/H7401-7500#H7495|has healed.]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H2801-2900#H2889|is clean ,]] [[Lexicon/H3501-3600#H3548|and the priest]] [[Lexicon/H2801-2900#H2891|is to pronounce him [clean].]]
+=======
+[[Lexicon/H501-600#H518|If, however ,]] [[Lexicon/H5801-5900#H5869|in his sight]] [[Lexicon/H5401-5500#H5424|the scaly outbreak]] [[Lexicon/H5901-6000#H5975|is unchanged]] [[Lexicon/H7801-7900#H7838|and black]] [[Lexicon/H8101-8200#H8181|hair]] [[Lexicon/H6701-6800#H6779|has grown]] [[Lexicon/H5401-5500#H5424|then it]] [[Lexicon/H7401-7500#H7495|has healed.]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H2801-2900#H2889|is clean ,]] [[Lexicon/H3501-3600#H3548|and the priest]] [[Lexicon/H2801-2900#H2891|is to pronounce him (clean).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 37|LXX]] |
 
 ##### Leviticus 13 - 38
@@ -168,7 +180,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 39|LXX]] |
 
 ##### Leviticus 13 - 40
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|Now if]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H4801-4900#H4803|loses his hair]] [[Lexicon/H7201-7300#H7218|...]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H7101-7200#H7142|[and] is bald ,]] [[Lexicon/H1901-2000#H1931|he is still]] [[Lexicon/H2801-2900#H2889|clean.]]
+=======
+[[Lexicon/H3501-3600#H3588|Now if]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H4801-4900#H4803|loses his hair]] [[Lexicon/H7201-7300#H7218|...]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H7101-7200#H7142|(and) is bald ,]] [[Lexicon/H1901-2000#H1931|he is still]] [[Lexicon/H2801-2900#H2889|clean.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 40|LXX]] |
 
 ##### Leviticus 13 - 41
@@ -176,7 +192,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 41|LXX]] |
 
 ##### Leviticus 13 - 42
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|But if]] [[Lexicon/H1901-2000#H1961|there is]] [[Lexicon/H3801-3900#H3836|a reddish-white]] [[Lexicon/H101-200#H125|...]] [[Lexicon/H5001-5100#H5061|sore]] [[Lexicon/H7101-7200#H7146|on the bald head]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H1301-1400#H1372|forehead ,]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H6801-6900#H6883|is an infectious disease]] [[Lexicon/H6501-6600#H6524|breaking out]] [[Lexicon/H7101-7200#H7146|[on it]]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H1301-1400#H1372|....]]
+=======
+[[Lexicon/H3501-3600#H3588|But if]] [[Lexicon/H1901-2000#H1961|there is]] [[Lexicon/H3801-3900#H3836|a reddish-white]] [[Lexicon/H101-200#H125|...]] [[Lexicon/H5001-5100#H5061|sore]] [[Lexicon/H7101-7200#H7146|on the bald head]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H1301-1400#H1372|forehead ,]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H6801-6900#H6883|is an infectious disease]] [[Lexicon/H6501-6600#H6524|breaking out]] [[Lexicon/H7101-7200#H7146|(on it)]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H1301-1400#H1372|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 42|LXX]] |
 
 ##### Leviticus 13 - 43
@@ -208,6 +228,7 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 49|LXX]] |
 
 ##### Leviticus 13 - 50
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3548|And the priest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|is to examine]] [[Lexicon/H5001-5100#H5061|the mildew]] [[Lexicon/H5401-5500#H5462|and isolate]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5001-5100#H5061|the contaminated [fabric]]] [[Lexicon/H7601-7700#H7651|for seven]] [[Lexicon/H3101-3200#H3117|days.]]
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 50|LXX]] |
 
@@ -217,6 +238,17 @@ Book: Leviticus
 
 ##### Leviticus 13 - 52
 [[Lexicon/H8301-8400#H8313|He is to burn]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H899|the fabric ,]] [[Lexicon/H8301-8400#H8359|weave ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6101-6200#H6154|knit ,]] [[Lexicon/H101-200#H176|whether]] [[Lexicon/H801-900#H834|vvv]] [[Lexicon/H1901-2000#H1961|vvv]] [[Lexicon/H5001-5100#H5061|the contaminated item [is]]] [[Lexicon/H6701-6800#H6785|wool]] [[Lexicon/H6501-6600#H6593|or linen]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H5701-5800#H5785|leather]] [[Lexicon/H3601-3700#H3627|-.]] [[Lexicon/H3501-3600#H3588|Since]] [[Lexicon/H6801-6900#H6883|the mildew]] [[Lexicon/H3901-4000#H3992|is harmful ,]] [[Lexicon/H1901-2000#H1931|[the article]]] [[Lexicon/H701-800#H784|must be burned up]] [[Lexicon/H8301-8400#H8313|....]]
+=======
+[[Lexicon/H3501-3600#H3548|And the priest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7200|is to examine]] [[Lexicon/H5001-5100#H5061|the mildew]] [[Lexicon/H5401-5500#H5462|and isolate]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5001-5100#H5061|the contaminated (fabric)]] [[Lexicon/H7601-7700#H7651|for seven]] [[Lexicon/H3101-3200#H3117|days.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 50|LXX]] |
+
+##### Leviticus 13 - 51
+[[Lexicon/H7601-7700#H7637|On the seventh]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7101-7200#H7200|the priest shall reexamine]] [[Lexicon/H801-900#H853|it ,]] [[Lexicon/H3501-3600#H3588|and if]] [[Lexicon/H5001-5100#H5061|the mildew]] [[Lexicon/H5001-5100#H5061|-]] [[Lexicon/H6501-6600#H6581|has spread]] [[Lexicon/H801-900#H899|in the fabric ,]] [[Lexicon/H8301-8400#H8359|weave ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H6101-6200#H6154|knit ,]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H5701-5800#H5785|leather ,]] [[Lexicon/H3601-3700#H3605|then regardless of]] [[Lexicon/H801-900#H834|how]] [[Lexicon/H5701-5800#H5785|it]] [[Lexicon/H6201-6300#H6213|is used]] [[Lexicon/H4301-4400#H4399|... ,]] [[Lexicon/H5001-5100#H5061|(it)]] [[Lexicon/H3901-4000#H3992|is a harmful]] [[Lexicon/H6801-6900#H6883|mildew ;]] [[Lexicon/H1901-2000#H1931|(the article)]] [[Lexicon/H2901-3000#H2931|is unclean.]]
+| [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 51|LXX]] |
+
+##### Leviticus 13 - 52
+[[Lexicon/H8301-8400#H8313|He is to burn]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H899|the fabric ,]] [[Lexicon/H8301-8400#H8359|weave ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6101-6200#H6154|knit ,]] [[Lexicon/H101-200#H176|whether]] [[Lexicon/H801-900#H834|vvv]] [[Lexicon/H1901-2000#H1961|vvv]] [[Lexicon/H5001-5100#H5061|the contaminated item (is)]] [[Lexicon/H6701-6800#H6785|wool]] [[Lexicon/H6501-6600#H6593|or linen]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H5701-5800#H5785|leather]] [[Lexicon/H3601-3700#H3627|-.]] [[Lexicon/H3501-3600#H3588|Since]] [[Lexicon/H6801-6900#H6883|the mildew]] [[Lexicon/H3901-4000#H3992|is harmful ,]] [[Lexicon/H1901-2000#H1931|(the article)]] [[Lexicon/H701-800#H784|must be burned up]] [[Lexicon/H8301-8400#H8313|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 52|LXX]] |
 
 ##### Leviticus 13 - 53
@@ -224,7 +256,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 53|LXX]] |
 
 ##### Leviticus 13 - 54
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H6601-6700#H6680|is to order]] [[Lexicon/H801-900#H834|the]] [[Lexicon/H5001-5100#H5061|contaminated [article]]] [[Lexicon/H3501-3600#H3526|to be washed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5462|and isolated]] [[Lexicon/H8101-8200#H8145|for another]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H3101-3200#H3117|days.]]
+=======
+[[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H6601-6700#H6680|is to order]] [[Lexicon/H801-900#H834|the]] [[Lexicon/H5001-5100#H5061|contaminated (article)]] [[Lexicon/H3501-3600#H3526|to be washed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5462|and isolated]] [[Lexicon/H8101-8200#H8145|for another]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H3101-3200#H3117|days.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 13#Leviticus 13 - 54|LXX]] |
 
 ##### Leviticus 13 - 55

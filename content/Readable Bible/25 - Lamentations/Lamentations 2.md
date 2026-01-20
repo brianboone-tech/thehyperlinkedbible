@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Lamentations-R 2
 
 **[[Home/Scripture/25 - Lamentations|Lamentations]]**
 
 [[Readable Bible/25 - Lamentations/Lamentations 1#Lamentations-R 1| Lamentations 1]] - [[Readable Bible/25 - Lamentations/Lamentations 3#Lamentations-R 3| Lamentations 3]]
+=======
+# Lamentations 2
+
+[[Readable Bible/25 - Lamentations/Lamentations 1|← Lamentations 1]] | [[Readable Bible/25 - Lamentations/Lamentations 3|Lamentations 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

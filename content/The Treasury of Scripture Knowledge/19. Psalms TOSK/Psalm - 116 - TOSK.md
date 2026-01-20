@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 116 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 115 - TOSK|← Ch 115]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 117 - TOSK|Ch 117 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 115 - TOSK|← Ch 115]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 117 - TOSK|Ch 117 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

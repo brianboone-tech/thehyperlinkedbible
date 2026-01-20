@@ -38,7 +38,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 108#Psalm 108 - 7|LXX]] |
 
 ##### Psalm 108 - 8
+<<<<<<< HEAD
 [[Lexicon/H1501-1600#H1568|Gilead]] [[Lexicon/H4501-4600#H4519|[and] Manasseh]] [[Lexicon/H601-700#H669|Ephraim]] [[Lexicon/H4501-4600#H4581|is My helmet]] [[Lexicon/H7201-7300#H7218|... ,]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H2701-2800#H2710|[is] My scepter.]]
+=======
+[[Lexicon/H1501-1600#H1568|Gilead]] [[Lexicon/H4501-4600#H4519|(and) Manasseh]] [[Lexicon/H601-700#H669|Ephraim]] [[Lexicon/H4501-4600#H4581|is My helmet]] [[Lexicon/H7201-7300#H7218|... ,]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H2701-2800#H2710|(is) My scepter.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 108#Psalm 108 - 8|LXX]] |
 
 ##### Psalm 108 - 9

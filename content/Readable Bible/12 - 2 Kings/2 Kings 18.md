@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Kings-R 18
 
 **[[Home/Scripture/12 - 2 Kings|2 Kings]]**
 
 [[Readable Bible/12 - 2 Kings/2 Kings 17#2 Kings-R 17| 2 Kings 17]] - [[Readable Bible/12 - 2 Kings/2 Kings 19#2 Kings-R 19| 2 Kings 19]]
+=======
+# 2 Kings 18
+
+[[Readable Bible/12 - 2 Kings/2 Kings 17|← 2 Kings 17]] | [[Readable Bible/12 - 2 Kings/2 Kings 19|2 Kings 19 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

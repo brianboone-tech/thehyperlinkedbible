@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Leviticus-R 7
 
 **[[Home/Scripture/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 6#Leviticus-R 6| Leviticus 6]] - [[Readable Bible/03 - Leviticus/Leviticus 8#Leviticus-R 8| Leviticus 8]]
+=======
+# Leviticus 7
+
+[[Readable Bible/03 - Leviticus/Leviticus 6|← Leviticus 6]] | [[Readable Bible/03 - Leviticus/Leviticus 8|Leviticus 8 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

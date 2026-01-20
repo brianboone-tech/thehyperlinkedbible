@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

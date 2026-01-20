@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Isaiah 45 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 44 - TOSK|← Ch 44]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 46 - TOSK|Ch 46 →]]
+=======
+**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 44 - TOSK|← Ch 44]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 46 - TOSK|Ch 46 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

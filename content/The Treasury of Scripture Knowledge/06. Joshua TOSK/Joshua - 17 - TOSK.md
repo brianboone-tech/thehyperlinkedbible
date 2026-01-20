@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Joshua 17 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/06 - Joshua|← Joshua]]** | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 18 - TOSK|Ch 18 →]]
+=======
+**[[Home/Indexes/Readable Bible/06 - Joshua|← Joshua]]** | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 18 - TOSK|Ch 18 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

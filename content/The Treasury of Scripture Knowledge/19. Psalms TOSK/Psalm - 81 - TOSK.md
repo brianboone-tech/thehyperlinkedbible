@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 81 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 80 - TOSK|← Ch 80]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 82 - TOSK|Ch 82 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 80 - TOSK|← Ch 80]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 82 - TOSK|Ch 82 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

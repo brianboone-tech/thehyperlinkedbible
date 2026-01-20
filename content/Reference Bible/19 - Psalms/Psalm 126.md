@@ -25,4 +25,8 @@ cssClasses: lexicon
 [[Lexicon/H2201-2300#H2232|Those who sow]] [[Lexicon/H1801-1900#H1832|in tears]] [[Lexicon/H7101-7200#H7114|will reap]] [[Lexicon/H7401-7500#H7440|with shouts of joy.]]
 
 ##### Psalm 126 - 6
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1980|He who goes out]] [[Lexicon/H1901-2000#H1980|...]] [[Lexicon/H1001-1100#H1058|weeping ,]] [[Lexicon/H5301-5400#H5375|bearing]] [[Lexicon/H4901-5000#H4901|a trail]] [[Lexicon/H2201-2300#H2233|of seed ,]] [[Lexicon/H901-1000#H935|will surely return]] [[Lexicon/H901-1000#H935|...]] [[Lexicon/H7401-7500#H7440|with shouts of joy ,]] [[Lexicon/H5301-5400#H5375|carrying]] [[Lexicon/H401-500#H485|sheaves [of grain].]]
+=======
+[[Lexicon/H1901-2000#H1980|He who goes out]] [[Lexicon/H1901-2000#H1980|...]] [[Lexicon/H1001-1100#H1058|weeping ,]] [[Lexicon/H5301-5400#H5375|bearing]] [[Lexicon/H4901-5000#H4901|a trail]] [[Lexicon/H2201-2300#H2233|of seed ,]] [[Lexicon/H901-1000#H935|will surely return]] [[Lexicon/H901-1000#H935|...]] [[Lexicon/H7401-7500#H7440|with shouts of joy ,]] [[Lexicon/H5301-5400#H5375|carrying]] [[Lexicon/H401-500#H485|sheaves (of grain).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

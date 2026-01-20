@@ -30,7 +30,11 @@ Testament: Old
 [[Lexicon/G2101-2200#G2128|Blessed be]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G1301-1400#G1325|give]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G1501-1600#G1519|as]] [[Lexicon/G2301-2400#G2339|game]] [[Lexicon/G3501-3600#G3599|for their teeth.]]
 
 #### Psalms 124 - 7
+<<<<<<< HEAD
 [[Lexicon/G5501-5600#G5590|Our soul]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4701-4800#G4765|a sparrow]] [[Lexicon/G4501-4600#G4506|was rescued]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3801-3900#G3803|snare]] [[Lexicon/G3501-3600#G3588|of the ones]] [[Lexicon/G2301-2400#G2340|hunting.]] [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G3801-3900#G3803|snare]] [[Lexicon/G4901-5000#G4937|was broken,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|we]] [[Lexicon/G4501-4600#G4506|were rescued.]]
+=======
+[[Lexicon/G5501-5600#G5590|Our soul]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4701-4800#G4765|a sparrow]] [[Lexicon/G4501-4600#G4506|was rescued]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3801-3900#G3803|snare]] [[Lexicon/G3501-3600#G3588|of the ones]] [[Lexicon/G2301-2400#G2340|hunting.]] [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G3801-3900#G3803|snare]] [[Lexicon/G4901-5000#G4937|was broken,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|we]] [[Lexicon/G4501-4600#G4506|were rescued.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 124 - 8
 [[Lexicon/G901-1000#G0996|Our help]] [[Lexicon/G2901-3000#G2962|of the lord;]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4160|one making]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth.]]

@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Mark-R 10
 
 **[[Home/Scripture/41 - Mark|Mark]]**
 
 [[Readable Bible/41 - Mark/Mark 9#Mark-R 9| Mark 9]] - [[Readable Bible/41 - Mark/Mark 11#Mark-R 11| Mark 11]]
+=======
+# Mark 10
+
+[[Readable Bible/41 - Mark/Mark 9|← Mark 9]] | [[Readable Bible/41 - Mark/Mark 11|Mark 11 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Mark 10 . 1
+<<<<<<< HEAD
 [[Reference Bible/41 - Mark/Mark 10#Mark 10 - 1|1]] Then Jesus left that place and went into the region of Judea, beyond the Jordan. Again the crowds came to Him and He taught them, as was His custom.   | [[Chiasm/Chiasm - 41 - Mark 10 . 01 - 12|C]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 10 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/41 - Mark/Mark 10#Mark 10 - 1|1]] Then Jesus left that place and went into the region of Judea, beyond the Jordan. Again the crowds came to Him and He taught them, as was His custom. | [[Chiasm/Chiasm - 41 - Mark 10 . 01 - 12|C]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 10 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Mark 10 . 2
 [[Reference Bible/41 - Mark/Mark 10#Mark 10 - 2|2]] Some Pharisees came to test Him. “Is it lawful for a man to divorce his wife?” they inquired.  | [[Chiasm/Chiasm - 41 - Mark 10 . 01 - 12|C]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 10 - TOSK#Verse 2|TOSK]] |

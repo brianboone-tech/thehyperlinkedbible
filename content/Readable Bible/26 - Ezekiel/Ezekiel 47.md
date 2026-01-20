@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 47
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 46#Ezekiel-R 46| Ezekiel 46]] - [[Readable Bible/26 - Ezekiel/Ezekiel 48#Ezekiel-R 48| Ezekiel 48]]
+=======
+# Ezekiel 47
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 46|← Ezekiel 46]] | [[Readable Bible/26 - Ezekiel/Ezekiel 48|Ezekiel 48 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

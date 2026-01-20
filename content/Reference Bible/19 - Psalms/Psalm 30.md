@@ -26,7 +26,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 30#Psalm 30 - 4|LXX]] |
 
 ##### Psalm 30 - 5
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H601-700#H639|His anger]] [[Lexicon/H7201-7300#H7281|is fleeting ,]] [[Lexicon/H7501-7600#H7522|but His favor]] [[Lexicon/H2401-2500#H2416|lasts a lifetime.]] [[Lexicon/H1001-1100#H1065|Weeping]] [[Lexicon/H3801-3900#H3885|may stay]] [[Lexicon/H6101-6200#H6153|the night ,]] [[Lexicon/H7401-7500#H7440|but joy [comes]]] [[Lexicon/H1201-1300#H1242|in the morning.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H601-700#H639|His anger]] [[Lexicon/H7201-7300#H7281|is fleeting ,]] [[Lexicon/H7501-7600#H7522|but His favor]] [[Lexicon/H2401-2500#H2416|lasts a lifetime.]] [[Lexicon/H1001-1100#H1065|Weeping]] [[Lexicon/H3801-3900#H3885|may stay]] [[Lexicon/H6101-6200#H6153|the night ,]] [[Lexicon/H7401-7500#H7440|but joy (comes)]] [[Lexicon/H1201-1300#H1242|in the morning.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 30#Psalm 30 - 5|LXX]] |
 
 ##### Psalm 30 - 6
@@ -42,7 +46,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 30#Psalm 30 - 8|LXX]] |
 
 ##### Psalm 30 - 9
+<<<<<<< HEAD
 [[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H1201-1300#H1215|gain [is there]]] [[Lexicon/H1801-1900#H1818|in my bloodshed ,]] [[Lexicon/H3301-3400#H3381|in my descent]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H7801-7900#H7845|the Pit ?]] [[Lexicon/H6001-6100#H6083|Will the dust]] [[Lexicon/H3001-3100#H3034|praise You ?]] [[Lexicon/H5001-5100#H5046|Will it proclaim]] [[Lexicon/H501-600#H571|Your faithfulness ?]]
+=======
+[[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H1201-1300#H1215|gain (is there)]] [[Lexicon/H1801-1900#H1818|in my bloodshed ,]] [[Lexicon/H3301-3400#H3381|in my descent]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H7801-7900#H7845|the Pit ?]] [[Lexicon/H6001-6100#H6083|Will the dust]] [[Lexicon/H3001-3100#H3034|praise You ?]] [[Lexicon/H5001-5100#H5046|Will it proclaim]] [[Lexicon/H501-600#H571|Your faithfulness ?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 30#Psalm 30 - 9|LXX]] |
 
 ##### Psalm 30 - 10

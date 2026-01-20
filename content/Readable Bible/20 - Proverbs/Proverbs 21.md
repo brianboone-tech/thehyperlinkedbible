@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Proverbs-R 21
 
 **[[Home/Scripture/20 - Proverbs|Proverbs]]**
 
 [[Readable Bible/20 - Proverbs/Proverbs 20#Proverbs-R 20| Proverbs 20]] - [[Readable Bible/20 - Proverbs/Proverbs 22#Proverbs-R 22| Proverbs 22]]
+=======
+# Proverbs 21
+
+[[Readable Bible/20 - Proverbs/Proverbs 20|← Proverbs 20]] | [[Readable Bible/20 - Proverbs/Proverbs 22|Proverbs 22 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

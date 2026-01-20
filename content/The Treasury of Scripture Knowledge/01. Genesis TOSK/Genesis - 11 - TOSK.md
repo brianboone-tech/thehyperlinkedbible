@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Genesis 11 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 10 - TOSK|← Ch 10]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 12 - TOSK|Ch 12 →]]
+=======
+**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 10 - TOSK|← Ch 10]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 12 - TOSK|Ch 12 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

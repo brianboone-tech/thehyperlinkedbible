@@ -57,7 +57,11 @@ Testament: Old
 [[Lexicon/G1701-1800#G1704|were stuck]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1301-1400#G1312|corruption]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4101-4200#G4160|they produced;]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G3801-3900#G3803|this snare]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G2901-3000#G2928|they hid]] [[Lexicon/G4801-4900#G4815|was seized]]
 
 #### Psalms 9 - 16
+<<<<<<< HEAD
 [[Lexicon/G2901-3000#G2917|judgments]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G5601-5700#G5603|AN ODE.]]
+=======
+[[Lexicon/G2901-3000#G2917|judgments]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G5601-5624#G5603|AN ODE.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 9 - 17
 [[Lexicon/G601-700#G0654|Let be turned]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G1-100#G0086|Hades!]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G1901-2000#G1950|forgetting]] [[Lexicon/G2301-2400#G2316|God.]]

@@ -29,7 +29,11 @@ Chapter: "34"
 | [[LXX Reference/4 - Numbers/Numbers 34#Numbers 34 - 4|LXX]] |
 
 ##### Numbers 34 - 5
+<<<<<<< HEAD
 [[Lexicon/H1301-1400#H1366|where [it]]] [[Lexicon/H5401-5500#H5437|will turn]] [[Lexicon/H6101-6200#H6111|from Azmon ,]] [[Lexicon/H5101-5200#H5158|join the Brook]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H1901-2000#H1961|and end]] [[Lexicon/H8401-8500#H8444|...]] [[Lexicon/H3201-3300#H3220|at the Sea.]]
+=======
+[[Lexicon/H1301-1400#H1366|where (it)]] [[Lexicon/H5401-5500#H5437|will turn]] [[Lexicon/H6101-6200#H6111|from Azmon ,]] [[Lexicon/H5101-5200#H5158|join the Brook]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H1901-2000#H1961|and end]] [[Lexicon/H8401-8500#H8444|...]] [[Lexicon/H3201-3300#H3220|at the Sea.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 34#Numbers 34 - 5|LXX]] |
 
 ##### Numbers 34 - 6
@@ -41,7 +45,11 @@ Chapter: "34"
 | [[LXX Reference/4 - Numbers/Numbers 34#Numbers 34 - 7|LXX]] |
 
 ##### Numbers 34 - 8
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2022|and from Mount]] [[Lexicon/H2001-2100#H2023|Hor]] [[Lexicon/H8301-8400#H8376|]] [[Lexicon/H901-1000#H935|vvv]] [[Lexicon/H2501-2600#H2574|to Lebo-hamath ,]] [[Lexicon/H1301-1400#H1366|[then]]] [[Lexicon/H1901-2000#H1961|extend]] [[Lexicon/H8401-8500#H8444|...]] [[Lexicon/H6601-6700#H6657|to Zedad ,]]
+=======
+[[Lexicon/H2001-2100#H2022|and from Mount]] [[Lexicon/H2001-2100#H2023|Hor]] [[Lexicon/H8301-8400#H8376|]] [[Lexicon/H901-1000#H935|vvv]] [[Lexicon/H2501-2600#H2574|to Lebo-hamath ,]] [[Lexicon/H1301-1400#H1366|(then)]] [[Lexicon/H1901-2000#H1961|extend]] [[Lexicon/H8401-8500#H8444|...]] [[Lexicon/H6601-6700#H6657|to Zedad ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 34#Numbers 34 - 8|LXX]] |
 
 ##### Numbers 34 - 9
@@ -53,7 +61,11 @@ Chapter: "34"
 | [[LXX Reference/4 - Numbers/Numbers 34#Numbers 34 - 10|LXX]] |
 
 ##### Numbers 34 - 11
+<<<<<<< HEAD
 [[Lexicon/H1301-1400#H1366|[then]]] [[Lexicon/H3301-3400#H3381|go down]] [[Lexicon/H8201-8300#H8221|from Shepham]] [[Lexicon/H7201-7300#H7247|to Riblah]] [[Lexicon/H6901-7000#H6924|on the east side]] [[Lexicon/H5801-5900#H5871|of Ain]] [[Lexicon/H1301-1400#H1366|-]] [[Lexicon/H3301-3400#H3381|and continue along]] [[Lexicon/H4201-4300#H4229|-]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H3801-3900#H3802|the slopes]] [[Lexicon/H6901-7000#H6924|east]] [[Lexicon/H3201-3300#H3220|of the Sea]] [[Lexicon/H3601-3700#H3672|of Chinnereth.]]
+=======
+[[Lexicon/H1301-1400#H1366|(then)]] [[Lexicon/H3301-3400#H3381|go down]] [[Lexicon/H8201-8300#H8221|from Shepham]] [[Lexicon/H7201-7300#H7247|to Riblah]] [[Lexicon/H6901-7000#H6924|on the east side]] [[Lexicon/H5801-5900#H5871|of Ain]] [[Lexicon/H1301-1400#H1366|-]] [[Lexicon/H3301-3400#H3381|and continue along]] [[Lexicon/H4201-4300#H4229|-]] [[Lexicon/H5901-6000#H5921|-]] [[Lexicon/H3801-3900#H3802|the slopes]] [[Lexicon/H6901-7000#H6924|east]] [[Lexicon/H3201-3300#H3220|of the Sea]] [[Lexicon/H3601-3700#H3672|of Chinnereth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 34#Numbers 34 - 11|LXX]] |
 
 ##### Numbers 34 - 12
@@ -65,7 +77,11 @@ Chapter: "34"
 | [[LXX Reference/4 - Numbers/Numbers 34#Numbers 34 - 13|LXX]] |
 
 ##### Numbers 34 - 14
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3901-4000#H3947|-]] [[Lexicon/H4201-4300#H4294|the tribes]] [[Lexicon/H1101-1200#H1121|of the Reubenites]] [[Lexicon/H7201-7300#H7206|...]] [[Lexicon/H1001-1100#H1004|-]] [[Lexicon/H1-100#H1|-]] [[Lexicon/H4201-4300#H4294|[and]]] [[Lexicon/H1101-1200#H1121|Gadites ,]] [[Lexicon/H1401-1500#H1425|...]] [[Lexicon/H1001-1100#H1004|...]] [[Lexicon/H1-100#H1|...]] [[Lexicon/H2601-2700#H2677|along with the half-tribe]] [[Lexicon/H4201-4300#H4294|...]] [[Lexicon/H4501-4600#H4519|of Manasseh ,]] [[Lexicon/H3901-4000#H3947|have already received]] [[Lexicon/H5101-5200#H5159|their inheritance.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3901-4000#H3947|-]] [[Lexicon/H4201-4300#H4294|the tribes]] [[Lexicon/H1101-1200#H1121|of the Reubenites]] [[Lexicon/H7201-7300#H7206|...]] [[Lexicon/H1001-1100#H1004|-]] [[Lexicon/H1-100#H1|-]] [[Lexicon/H4201-4300#H4294|(and)]] [[Lexicon/H1101-1200#H1121|Gadites ,]] [[Lexicon/H1401-1500#H1425|...]] [[Lexicon/H1001-1100#H1004|...]] [[Lexicon/H1-100#H1|...]] [[Lexicon/H2601-2700#H2677|along with the half-tribe]] [[Lexicon/H4201-4300#H4294|...]] [[Lexicon/H4501-4600#H4519|of Manasseh ,]] [[Lexicon/H3901-4000#H3947|have already received]] [[Lexicon/H5101-5200#H5159|their inheritance.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 34#Numbers 34 - 14|LXX]] |
 
 ##### Numbers 34 - 15

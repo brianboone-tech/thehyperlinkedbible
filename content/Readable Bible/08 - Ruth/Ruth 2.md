@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ruth-R 2
 
 **[[Home/Scripture/08 - Ruth|Ruth]]**
 
 [[Readable Bible/08 - Ruth/Ruth 1#Ruth-R 1| Ruth 1]] - [[Readable Bible/08 - Ruth/Ruth 3#Ruth-R 3| Ruth 3]]
+=======
+# Ruth 2
+
+[[Readable Bible/08 - Ruth/Ruth 1|← Ruth 1]] | [[Readable Bible/08 - Ruth/Ruth 3|Ruth 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Corinthians-R 8
 
 **[[Home/Scripture/46 - 1 Corinthians|1 Corinthians]]**
 
 [[Readable Bible/46 - 1 Corinthians/1 Corinthians 7#1 Corinthians-R 7| 1 Corinthians 7]] - [[Readable Bible/46 - 1 Corinthians/1 Corinthians 9#1 Corinthians-R 9| 1 Corinthians 9]]
+=======
+# 1 Corinthians 8
+
+[[Readable Bible/46 - 1 Corinthians/1 Corinthians 7|← 1 Corinthians 7]] | [[Readable Bible/46 - 1 Corinthians/1 Corinthians 9|1 Corinthians 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

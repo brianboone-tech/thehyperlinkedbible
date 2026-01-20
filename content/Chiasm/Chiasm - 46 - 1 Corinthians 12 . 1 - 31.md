@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/46 - 1 Corinthians|← 1 Corinthians]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/46 - 1 Corinthians|← 1 Corinthians]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

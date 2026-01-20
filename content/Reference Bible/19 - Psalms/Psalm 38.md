@@ -34,7 +34,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 38#Psalm 38 - 6|LXX]] |
 
 ##### Psalm 38 - 7
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3689|my loins]] [[Lexicon/H4301-4400#H4390|are full of]] [[Lexicon/H7001-7100#H7033|burning pain ,]] [[Lexicon/H301-400#H369|and no]] [[Lexicon/H4901-5000#H4974|soundness]] [[Lexicon/H1301-1400#H1320|[remains] in my body.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3601-3700#H3689|my loins]] [[Lexicon/H4301-4400#H4390|are full of]] [[Lexicon/H7001-7100#H7033|burning pain ,]] [[Lexicon/H301-400#H369|and no]] [[Lexicon/H4901-5000#H4974|soundness]] [[Lexicon/H1301-1400#H1320|(remains) in my body.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 38#Psalm 38 - 7|LXX]] |
 
 ##### Psalm 38 - 8
@@ -42,7 +46,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 38#Psalm 38 - 8|LXX]] |
 
 ##### Psalm 38 - 9
+<<<<<<< HEAD
 [[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H3601-3700#H3605|my every]] [[Lexicon/H8301-8400#H8378|desire]] [[Lexicon/H5001-5100#H5048|[is] before You ;]] [[Lexicon/H501-600#H585|my groaning]] [[Lexicon/H3801-3900#H3808|is not]] [[Lexicon/H5601-5700#H5641|hidden]] [[Lexicon/H4401-4500#H4480|from You.]]
+=======
+[[Lexicon/H101-200#H136|O Lord ,]] [[Lexicon/H3601-3700#H3605|my every]] [[Lexicon/H8301-8400#H8378|desire]] [[Lexicon/H5001-5100#H5048|(is) before You ;]] [[Lexicon/H501-600#H585|my groaning]] [[Lexicon/H3801-3900#H3808|is not]] [[Lexicon/H5601-5700#H5641|hidden]] [[Lexicon/H4401-4500#H4480|from You.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 38#Psalm 38 - 9|LXX]] |
 
 ##### Psalm 38 - 10

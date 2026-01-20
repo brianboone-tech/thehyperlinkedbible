@@ -18,7 +18,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 36#Psalm 36 - 2|LXX]] |
 
 ##### Psalm 36 - 3
+<<<<<<< HEAD
 [[Lexicon/H1601-1700#H1697|The words]] [[Lexicon/H6301-6400#H6310|of his mouth]] [[Lexicon/H201-300#H205|are wicked]] [[Lexicon/H4801-4900#H4820|and deceitful ;]] [[Lexicon/H2301-2400#H2308|he has ceased]] [[Lexicon/H7901-8000#H7919|to be wise]] [[Lexicon/H3101-3200#H3190|[and] well-doing.]]
+=======
+[[Lexicon/H1601-1700#H1697|The words]] [[Lexicon/H6301-6400#H6310|of his mouth]] [[Lexicon/H201-300#H205|are wicked]] [[Lexicon/H4801-4900#H4820|and deceitful ;]] [[Lexicon/H2301-2400#H2308|he has ceased]] [[Lexicon/H7901-8000#H7919|to be wise]] [[Lexicon/H3101-3200#H3190|(and) well-doing.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 36#Psalm 36 - 3|LXX]] |
 
 ##### Psalm 36 - 4
@@ -30,7 +34,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 36#Psalm 36 - 5|LXX]] |
 
 ##### Psalm 36 - 6
+<<<<<<< HEAD
 [[Lexicon/H6601-6700#H6666|Your righteousness]] [[Lexicon/H401-500#H410|is like the highest]] [[Lexicon/H2001-2100#H2042|mountains ;]] [[Lexicon/H4901-5000#H4941|Your judgments [are]]] [[Lexicon/H8401-8500#H8415|like the deepest sea]] [[Lexicon/H7201-7300#H7227|....]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H3401-3500#H3467|You preserve]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H901-1000#H929|and beast.]]
+=======
+[[Lexicon/H6601-6700#H6666|Your righteousness]] [[Lexicon/H401-500#H410|is like the highest]] [[Lexicon/H2001-2100#H2042|mountains ;]] [[Lexicon/H4901-5000#H4941|Your judgments (are)]] [[Lexicon/H8401-8500#H8415|like the deepest sea]] [[Lexicon/H7201-7300#H7227|....]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H3401-3500#H3467|You preserve]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H901-1000#H929|and beast.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 36#Psalm 36 - 6|LXX]] |
 
 ##### Psalm 36 - 7

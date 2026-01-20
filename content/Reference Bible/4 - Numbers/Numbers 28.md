@@ -21,7 +21,11 @@ Chapter: "28"
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 2|LXX]] |
 
 ##### Numbers 28 - 3
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|And tell them]] [[Lexicon/H2001-2100#H2088|this [is]]] [[Lexicon/H801-900#H801|the offering made by fire]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7126|you are to present]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H8501-8600#H8548|as a regular]] [[Lexicon/H5901-6000#H5930|burnt offering]] [[Lexicon/H3101-3200#H3117|each day :]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H8501-8600#H8549|unblemished]] [[Lexicon/H1101-1200#H1121|year-old]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H3501-3600#H3532|male lambs.]]
+=======
+[[Lexicon/H501-600#H559|And tell them]] [[Lexicon/H2001-2100#H2088|this (is)]] [[Lexicon/H801-900#H801|the offering made by fire]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7126|you are to present]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H8501-8600#H8548|as a regular]] [[Lexicon/H5901-6000#H5930|burnt offering]] [[Lexicon/H3101-3200#H3117|each day :]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H8501-8600#H8549|unblemished]] [[Lexicon/H1101-1200#H1121|year-old]] [[Lexicon/H8101-8200#H8141|...]] [[Lexicon/H3501-3600#H3532|male lambs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 3|LXX]] |
 
 ##### Numbers 28 - 4
@@ -29,7 +33,11 @@ Chapter: "28"
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 4|LXX]] |
 
 ##### Numbers 28 - 5
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6224|along with a tenth]] [[Lexicon/H301-400#H374|of an ephah]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H4501-4600#H4503|as a grain offering ,]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H7201-7300#H7243|with a quarter]] [[Lexicon/H1901-2000#H1969|hin]] [[Lexicon/H8001-8100#H8081|of oil]] [[Lexicon/H3701-3800#H3795|from pressed [olives].]]
+=======
+[[Lexicon/H6201-6300#H6224|along with a tenth]] [[Lexicon/H301-400#H374|of an ephah]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H4501-4600#H4503|as a grain offering ,]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H7201-7300#H7243|with a quarter]] [[Lexicon/H1901-2000#H1969|hin]] [[Lexicon/H8001-8100#H8081|of oil]] [[Lexicon/H3701-3800#H3795|from pressed (olives).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 5|LXX]] |
 
 ##### Numbers 28 - 6
@@ -37,7 +45,11 @@ Chapter: "28"
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 6|LXX]] |
 
 ##### Numbers 28 - 7
+<<<<<<< HEAD
 [[Lexicon/H5201-5300#H5262|The drink offering]] [[Lexicon/H201-300#H259|accompanying each]] [[Lexicon/H3501-3600#H3532|lamb]] [[Lexicon/H7201-7300#H7243|[shall be] a quarter]] [[Lexicon/H1901-2000#H1969|hin.]] [[Lexicon/H5201-5300#H5258|Pour out]] [[Lexicon/H5201-5300#H5262|the offering]] [[Lexicon/H7901-8000#H7941|of fermented drink]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H6901-7000#H6944|in the sanctuary area.]]
+=======
+[[Lexicon/H5201-5300#H5262|The drink offering]] [[Lexicon/H201-300#H259|accompanying each]] [[Lexicon/H3501-3600#H3532|lamb]] [[Lexicon/H7201-7300#H7243|(shall be) a quarter]] [[Lexicon/H1901-2000#H1969|hin.]] [[Lexicon/H5201-5300#H5258|Pour out]] [[Lexicon/H5201-5300#H5262|the offering]] [[Lexicon/H7901-8000#H7941|of fermented drink]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H6901-7000#H6944|in the sanctuary area.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 7|LXX]] |
 
 ##### Numbers 28 - 8
@@ -57,11 +69,19 @@ Chapter: "28"
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 11|LXX]] |
 
 ##### Numbers 28 - 12
+<<<<<<< HEAD
 [[Lexicon/H7901-8000#H7969|along with three-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil]] [[Lexicon/H4501-4600#H4503|as a grain offering]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H6401-6500#H6499|bull ,]] [[Lexicon/H8101-8200#H8147|two-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil]] [[Lexicon/H4501-4600#H4503|as a grain offering]] [[Lexicon/H301-400#H352|with the ram]] [[Lexicon/H201-300#H259|... ,]]
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 12|LXX]] |
 
 ##### Numbers 28 - 13
 [[Lexicon/H6201-6300#H6241|and a tenth [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil]] [[Lexicon/H4501-4600#H4503|as a grain offering]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H3501-3600#H3532|lamb.]] [[Lexicon/H5901-6000#H5930|This is a burnt offering ,]] [[Lexicon/H5201-5300#H5207|a pleasing]] [[Lexicon/H7301-7400#H7381|aroma ,]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+=======
+[[Lexicon/H7901-8000#H7969|along with three-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil]] [[Lexicon/H4501-4600#H4503|as a grain offering]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H6401-6500#H6499|bull ,]] [[Lexicon/H8101-8200#H8147|two-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil]] [[Lexicon/H4501-4600#H4503|as a grain offering]] [[Lexicon/H301-400#H352|with the ram]] [[Lexicon/H201-300#H259|... ,]]
+| [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 12|LXX]] |
+
+##### Numbers 28 - 13
+[[Lexicon/H6201-6300#H6241|and a tenth (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil]] [[Lexicon/H4501-4600#H4503|as a grain offering]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H3501-3600#H3532|lamb.]] [[Lexicon/H5901-6000#H5930|This is a burnt offering ,]] [[Lexicon/H5201-5300#H5207|a pleasing]] [[Lexicon/H7301-7400#H7381|aroma ,]] [[Lexicon/H801-900#H801|an offering made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 13|LXX]] |
 
 ##### Numbers 28 - 14
@@ -89,11 +109,19 @@ Chapter: "28"
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 19|LXX]] |
 
 ##### Numbers 28 - 20
+<<<<<<< HEAD
 [[Lexicon/H4501-4600#H4503|The grain offering]] [[Lexicon/H5501-5600#H5560|shall consist of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil ;]] [[Lexicon/H6201-6300#H6213|offer]] [[Lexicon/H7901-8000#H7969|three-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H6401-6500#H6499|with each bull ,]] [[Lexicon/H8101-8200#H8147|two-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H301-400#H352|with the ram ,]]
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 20|LXX]] |
 
 ##### Numbers 28 - 21
 [[Lexicon/H6201-6300#H6213|and]] [[Lexicon/H6201-6300#H6241|a tenth [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H7601-7700#H7651|of the seven]] [[Lexicon/H3501-3600#H3532|...]] [[Lexicon/H3501-3600#H3532|lambs.]]
+=======
+[[Lexicon/H4501-4600#H4503|The grain offering]] [[Lexicon/H5501-5600#H5560|shall consist of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil ;]] [[Lexicon/H6201-6300#H6213|offer]] [[Lexicon/H7901-8000#H7969|three-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H6401-6500#H6499|with each bull ,]] [[Lexicon/H8101-8200#H8147|two-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H301-400#H352|with the ram ,]]
+| [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 20|LXX]] |
+
+##### Numbers 28 - 21
+[[Lexicon/H6201-6300#H6213|and]] [[Lexicon/H6201-6300#H6241|a tenth (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H7601-7700#H7651|of the seven]] [[Lexicon/H3501-3600#H3532|...]] [[Lexicon/H3501-3600#H3532|lambs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 21|LXX]] |
 
 ##### Numbers 28 - 22
@@ -121,11 +149,19 @@ Chapter: "28"
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 27|LXX]] |
 
 ##### Numbers 28 - 28
+<<<<<<< HEAD
 [[Lexicon/H4501-4600#H4503|together with their grain offerings]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil —]] [[Lexicon/H7901-8000#H7969|three-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H6401-6500#H6499|bull ,]] [[Lexicon/H8101-8200#H8147|two-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H301-400#H352|with the ram ,]] [[Lexicon/H201-300#H259|...]]
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 28|LXX]] |
 
 ##### Numbers 28 - 29
 [[Lexicon/H6201-6300#H6241|and a tenth [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H7601-7700#H7651|of the seven]] [[Lexicon/H3501-3600#H3532|...]] [[Lexicon/H3501-3600#H3532|lambs.]]
+=======
+[[Lexicon/H4501-4600#H4503|together with their grain offerings]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil —]] [[Lexicon/H7901-8000#H7969|three-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H6401-6500#H6499|bull ,]] [[Lexicon/H8101-8200#H8147|two-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H301-400#H352|with the ram ,]] [[Lexicon/H201-300#H259|...]]
+| [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 28|LXX]] |
+
+##### Numbers 28 - 29
+[[Lexicon/H6201-6300#H6241|and a tenth (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H7601-7700#H7651|of the seven]] [[Lexicon/H3501-3600#H3532|...]] [[Lexicon/H3501-3600#H3532|lambs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 29|LXX]] |
 
 ##### Numbers 28 - 30
@@ -133,5 +169,9 @@ Chapter: "28"
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 30|LXX]] |
 
 ##### Numbers 28 - 31
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6213|Offer them]] [[Lexicon/H5201-5300#H5262|with their drink offerings]] [[Lexicon/H901-1000#H905|in addition to]] [[Lexicon/H8501-8600#H8548|the regular]] [[Lexicon/H5901-6000#H5930|burnt offering]] [[Lexicon/H4501-4600#H4503|and its grain offering.]] [[Lexicon/H1901-2000#H1961|The animals must be]] [[Lexicon/H8501-8600#H8549|unblemished. [’’]]]
+=======
+[[Lexicon/H6201-6300#H6213|Offer them]] [[Lexicon/H5201-5300#H5262|with their drink offerings]] [[Lexicon/H901-1000#H905|in addition to]] [[Lexicon/H8501-8600#H8548|the regular]] [[Lexicon/H5901-6000#H5930|burnt offering]] [[Lexicon/H4501-4600#H4503|and its grain offering.]] [[Lexicon/H1901-2000#H1961|The animals must be]] [[Lexicon/H8501-8600#H8549|unblemished. (’’)]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 28#Numbers 28 - 31|LXX]] |

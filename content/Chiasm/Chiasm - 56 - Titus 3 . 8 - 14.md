@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/56 - Titus|← Titus]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/56 - Titus|← Titus]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

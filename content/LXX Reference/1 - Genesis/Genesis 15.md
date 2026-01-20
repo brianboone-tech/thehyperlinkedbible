@@ -30,7 +30,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4001-4100#G4100|Abram trusted]] [[Lexicon/G2301-2400#G2316|in God,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3049|it was imputed]] [[Lexicon/G1401-1500#G1473|to him]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G1301-1400#G1343|righteousness.]]
 
 #### Genesis 15 - 7
+<<<<<<< HEAD
 [[Lexicon/G2001-2100#G2036|And he said]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1801-1900#G1806|leading]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1501-1600#G1537|from out of]] of the Chaldeans, [[Lexicon/G5601-5700#G5620|so as]] [[Lexicon/G1301-1400#G1325|to give]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G1001-1100#G1093|this land]] [[Lexicon/G2801-2900#G2816|to inherit.]]
+=======
+[[Lexicon/G2001-2100#G2036|And he said]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G1401-1500#G1473|I am]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1801-1900#G1806|leading]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1501-1600#G1537|from out of]] of the Chaldeans, [[Lexicon/G5601-5624#G5620|so as]] [[Lexicon/G1301-1400#G1325|to give]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G1001-1100#G1093|this land]] [[Lexicon/G2801-2900#G2816|to inherit.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Genesis 15 - 8
 [[Lexicon/G2001-2100#G2036|And he said,]] [[Lexicon/G1201-1300#G1203|Master,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G2501-2600#G2596|how]] [[Lexicon/G1001-1100#G1097|will I know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G2801-2900#G2816|I will inherit]] [[Lexicon/G1401-1500#G1473|it?]]
@@ -51,13 +55,21 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2046|it was said]] [[Lexicon/G4301-4400#G4314|to]] Abram, [[Lexicon/G1001-1100#G1097|you will know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G3901-4000#G3941|a sojourner]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1093|a land]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1402|they will enslave]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2559|will afflict]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5013|humble]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G5001-5100#G5071|four hundred]] [[Lexicon/G2001-2100#G2094|years.]]
 
 #### Genesis 15 - 14
+<<<<<<< HEAD
 [[Lexicon/G3501-3600#G3588|But the]] [[Lexicon/G1401-1500#G1484|nation]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G1301-1400#G1398|they may be slave to,]] [[Lexicon/G2901-3000#G2919|I will judge.]] [[Lexicon/G3301-3400#G3326|And after]] [[Lexicon/G3701-3800#G3778|these things]] [[Lexicon/G1801-1900#G1831|they shall come forth]] [[Lexicon/G5601-5700#G5602|here]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G601-700#G0643|belongings]]
+=======
+[[Lexicon/G3501-3600#G3588|But the]] [[Lexicon/G1401-1500#G1484|nation]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G1301-1400#G1398|they may be slave to,]] [[Lexicon/G2901-3000#G2919|I will judge.]] [[Lexicon/G3301-3400#G3326|And after]] [[Lexicon/G3701-3800#G3778|these things]] [[Lexicon/G1801-1900#G1831|they shall come forth]] [[Lexicon/G5601-5624#G5602|here]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G601-700#G0643|belongings]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Genesis 15 - 15
 [[Lexicon/G1401-1500#G1473|But you]] [[Lexicon/G501-600#G0565|shall go forth]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3901-4000#G3962|your fathers]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1501-1600#G1515|peace,]] [[Lexicon/G2201-2300#G2290|being entombed]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1094|old age]]
 
 #### Genesis 15 - 16
+<<<<<<< HEAD
 [[Lexicon/G5001-5100#G5067|And the fourth]] [[Lexicon/G1001-1100#G1074|generation]] [[Lexicon/G601-700#G0654|shall return]] [[Lexicon/G5601-5700#G5602|here,]] [[Lexicon/G3701-3800#G3768|for not yet]] [[Lexicon/G301-400#G0378|have been filled up]] [[Lexicon/G2101-2200#G2193|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3568|present.]]
+=======
+[[Lexicon/G5001-5100#G5067|And the fourth]] [[Lexicon/G1001-1100#G1074|generation]] [[Lexicon/G601-700#G0654|shall return]] [[Lexicon/G5601-5624#G5602|here,]] [[Lexicon/G3701-3800#G3768|for not yet]] [[Lexicon/G301-400#G0378|have been filled up]] [[Lexicon/G2101-2200#G2193|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3568|present.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Genesis 15 - 17
 [[Lexicon/G1801-1900#G1893|And when]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2246|sun]] [[Lexicon/G1001-1100#G1096|was]] [[Lexicon/G4301-4400#G4314|in]] [[Lexicon/G1401-1500#G1424|descent,]] [[Lexicon/G5301-5400#G5395|a flame]] [[Lexicon/G1001-1100#G1096|came,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G2501-2600#G2585|smoking;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4401-4500#G4442|of fire]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1301-1400#G1330|went through]] [[Lexicon/G301-400#G0303|in the midst]] [[Lexicon/G1301-1400#G1371|of these pieces.]]

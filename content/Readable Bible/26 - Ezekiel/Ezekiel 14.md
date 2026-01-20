@@ -5,6 +5,7 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 14
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
@@ -14,6 +15,15 @@ cssClasses: lexicon
 ---
 
 ##### Ezekiel 14 . 1| [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1 to Leviticus 17|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1-11 to Leviticus 17|IP²]] | [[Chiasm/Chiasm - 26 - Ezekiel 14 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 14 - TOSK#Verse 1|TOSK]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1 to Leviticus 17|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1-11 to Leviticus 17|IP²]] | [[Chiasm/Chiasm - 26 - Ezekiel 14 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 14 - TOSK#Verse 1|TOSK]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1 to Leviticus 17|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1-11 to Leviticus 17|IP²]] | [[Chiasm/Chiasm - 26 - Ezekiel 14 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 14 - TOSK#Verse 1|TOSK]] |
+=======
+# Ezekiel 14
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 13|← Ezekiel 13]] | [[Readable Bible/26 - Ezekiel/Ezekiel 15|Ezekiel 15 →]]
+
+---
+
+##### Ezekiel 14 . 1 | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1 to Leviticus 17|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1-11 to Leviticus 17|IP²]] | [[Chiasm/Chiasm - 26 - Ezekiel 14 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 14 - TOSK#Verse 1|TOSK]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1 to Leviticus 17|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1-11 to Leviticus 17|IP²]] | [[Chiasm/Chiasm - 26 - Ezekiel 14 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 14 - TOSK#Verse 1|TOSK]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1 to Leviticus 17|IP¹]] | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1-11 to Leviticus 17|IP²]] | [[Chiasm/Chiasm - 26 - Ezekiel 14 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 14 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 14 . 2
 [[Reference Bible/26 - Ezekiel/Ezekiel 14#Ezekiel 14 - 2|2]] And the word of the LORD came to me, saying,  | [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 14.1-11 to Leviticus 17|IP]] | [[Chiasm/Chiasm - 26 - Ezekiel 14 . 1 - 8|C]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 14 - TOSK#Verse 2|TOSK]] |

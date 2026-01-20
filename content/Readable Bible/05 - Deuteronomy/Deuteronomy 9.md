@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Deuteronomy-R 9
 
 **[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 8#Deuteronomy-R 8| Deuteronomy 8]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 10#Deuteronomy-R 10| Deuteronomy 10]]
+=======
+# Deuteronomy 9
+
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 8|← Deuteronomy 8]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 10|Deuteronomy 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

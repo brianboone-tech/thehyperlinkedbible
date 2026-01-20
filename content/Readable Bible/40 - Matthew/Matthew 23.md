@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Matthew-R 23
 
 **[[Home/Scripture/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 22#Matthew-R 22| Matthew 22]] - [[Readable Bible/40 - Matthew/Matthew 24#Matthew-R 24| Matthew 24]]
+=======
+# Matthew 23
+
+[[Readable Bible/40 - Matthew/Matthew 22|← Matthew 22]] | [[Readable Bible/40 - Matthew/Matthew 24|Matthew 24 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

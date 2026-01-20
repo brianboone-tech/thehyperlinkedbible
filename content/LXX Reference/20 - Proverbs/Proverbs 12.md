@@ -19,7 +19,11 @@ Testament: Old
 [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G2701-2800#G2734|keep straight]] [[Lexicon/G401-500#G0444|man]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G401-500#G0459|lawless]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G4401-4500#G4491|roots]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G1801-1900#G1808|be lifted away]]
 
 #### Proverbs 12 - 4
+<<<<<<< HEAD
 [[Lexicon/G1101-1200#G1135|woman]] [[Lexicon/G401-500#G0406|courageous]] [[Lexicon/G4701-4800#G4735|crown]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G1401-1500#G1473|his]] [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3586|wood]] [[Lexicon/G4601-4700#G4663|worm]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G601-700#G0622|destroys]] [[Lexicon/G1101-1200#G1135|woman]] [[Lexicon/G2501-2600#G2555|evil doing]]
+=======
+[[Lexicon/G1101-1200#G1135|woman]] [[Lexicon/G401-500#G0406|courageous]] [[Lexicon/G4701-4800#G4735|crown]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G1401-1500#G1473|his]] [[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3586|wood]] [[Lexicon/G4601-4700#G4663|worm]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G601-700#G0622|destroys]] [[Lexicon/G1101-1200#G1135|woman]] [[Lexicon/G2501-2600#G2555|evil doing]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Proverbs 12 - 5
 [[Lexicon/G3001-3100#G3053|devices]] [[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G2901-3000#G2917|judgments]] [[Lexicon/G2901-3000#G2940|devise]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G701-800#G0765|impious]] [[Lexicon/G1301-1400#G1388|treachery]]
@@ -61,7 +65,11 @@ Testament: Old
 [[Lexicon/G1901-2000#G1925|displaying]] [[Lexicon/G4101-4200#G4102|trust]] [[Lexicon/G501-600#G0518|reports]] [[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G3101-3200#G3144|witness]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1-100#G0094|unjust]] [[Lexicon/G1301-1400#G1386|deceitful]]
 
 #### Proverbs 12 - 18
+<<<<<<< HEAD
 [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3004|speaking]] [[Lexicon/G5101-5200#G5103|pierce]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3101-3200#G3162|sword]] [[Lexicon/G1001-1100#G1100|tongues]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G4601-4700#G4680|wise]] [[Lexicon/G2301-2400#G2390|heal]]
+=======
+[[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3004|speaking]] [[Lexicon/G5101-5200#G5103|pierce]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3101-3200#G3162|sword]] [[Lexicon/G1001-1100#G1100|tongues]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G4601-4700#G4680|wise]] [[Lexicon/G2301-2400#G2390|heal]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Proverbs 12 - 19
 [[Lexicon/G5401-5500#G5491|lips]] [[Lexicon/G201-300#G0228|true]] [[Lexicon/G2701-2800#G2734|straighten]] [[Lexicon/G3101-3200#G3141|testimony]] [[Lexicon/G3101-3200#G3144|witness]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G5001-5100#G5036|quick]] [[Lexicon/G1001-1100#G1100|tongue]] [[Lexicon/G2101-2200#G2192|has]] [[Lexicon/G1-100#G0094|unjust]]

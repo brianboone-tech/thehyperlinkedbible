@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Song of Solomon-R 4
 
 **[[Home/Scripture/22 - Song of Solomon|Song of Solomon]]**
 
 [[Readable Bible/22 - Song of Solomon/Song of Solomon 3#Song of Solomon-R 3| Song of Solomon 3]] - [[Readable Bible/22 - Song of Solomon/Song of Solomon 5#Song of Solomon-R 5| Song of Solomon 5]]
+=======
+# Song of Solomon 4
+
+[[Readable Bible/22 - Song of Solomon/Song of Solomon 3|← Song of Solomon 3]] | [[Readable Bible/22 - Song of Solomon/Song of Solomon 5|Song of Solomon 5 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Corinthians-R 3
 
 **[[Home/Scripture/47 - 2 Corinthians|2 Corinthians]]**
 
 [[Readable Bible/47 - 2 Corinthians/2 Corinthians 2#2 Corinthians-R 2| 2 Corinthians 2]] - [[Readable Bible/47 - 2 Corinthians/2 Corinthians 4#2 Corinthians-R 4| 2 Corinthians 4]]
+=======
+# 2 Corinthians 3
+
+[[Readable Bible/47 - 2 Corinthians/2 Corinthians 2|← 2 Corinthians 2]] | [[Readable Bible/47 - 2 Corinthians/2 Corinthians 4|2 Corinthians 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

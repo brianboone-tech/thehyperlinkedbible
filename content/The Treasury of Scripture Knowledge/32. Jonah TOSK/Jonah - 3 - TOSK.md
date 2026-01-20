@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Jonah 3 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/32 - Jonah|← Jonah]]** | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 2 - TOSK|← Ch 2]] | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 4 - TOSK|Ch 4 →]]
+=======
+**[[Home/Indexes/Readable Bible/32 - Jonah|← Jonah]]** | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 2 - TOSK|← Ch 2]] | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 4 - TOSK|Ch 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

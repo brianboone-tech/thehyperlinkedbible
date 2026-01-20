@@ -38,11 +38,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 32#Psalm 32 - 7|LXX]] |
 
 ##### Psalm 32 - 8
+<<<<<<< HEAD
 [[Lexicon/H7901-8000#H7919|I will instruct you]] [[Lexicon/H3301-3400#H3384|and teach]] [[Lexicon/H1801-1900#H1870|you the way]] [[Lexicon/H2001-2100#H2098|...]] [[Lexicon/H1901-2000#H1980|you should go ;]] [[Lexicon/H3201-3300#H3289|I will give you counsel]] [[Lexicon/H5801-5900#H5869|[and] watch]] [[Lexicon/H5901-6000#H5921|over you.]]
 | [[LXX Reference/19 - Psalms/Psalms 32#Psalm 32 - 8|LXX]] |
 
 ##### Psalm 32 - 9
 [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H5401-5500#H5483|like the horse]] [[Lexicon/H6501-6600#H6505|or mule ,]] [[Lexicon/H301-400#H369|[which] have no]] [[Lexicon/H901-1000#H995|understanding ;]] [[Lexicon/H1101-1200#H1102|they must be controlled]] [[Lexicon/H4901-5000#H4964|with bit]] [[Lexicon/H7401-7500#H7448|and bridle]] [[Lexicon/H5701-5800#H5716|...]] [[Lexicon/H1001-1100#H1077|[to make] them]] [[Lexicon/H7101-7200#H7126|come]] [[Lexicon/H401-500#H413|to you.]]
+=======
+[[Lexicon/H7901-8000#H7919|I will instruct you]] [[Lexicon/H3301-3400#H3384|and teach]] [[Lexicon/H1801-1900#H1870|you the way]] [[Lexicon/H2001-2100#H2098|...]] [[Lexicon/H1901-2000#H1980|you should go ;]] [[Lexicon/H3201-3300#H3289|I will give you counsel]] [[Lexicon/H5801-5900#H5869|(and) watch]] [[Lexicon/H5901-6000#H5921|over you.]]
+| [[LXX Reference/19 - Psalms/Psalms 32#Psalm 32 - 8|LXX]] |
+
+##### Psalm 32 - 9
+[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H5401-5500#H5483|like the horse]] [[Lexicon/H6501-6600#H6505|or mule ,]] [[Lexicon/H301-400#H369|(which) have no]] [[Lexicon/H901-1000#H995|understanding ;]] [[Lexicon/H1101-1200#H1102|they must be controlled]] [[Lexicon/H4901-5000#H4964|with bit]] [[Lexicon/H7401-7500#H7448|and bridle]] [[Lexicon/H5701-5800#H5716|...]] [[Lexicon/H1001-1100#H1077|(to make) them]] [[Lexicon/H7101-7200#H7126|come]] [[Lexicon/H401-500#H413|to you.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 32#Psalm 32 - 9|LXX]] |
 
 ##### Psalm 32 - 10

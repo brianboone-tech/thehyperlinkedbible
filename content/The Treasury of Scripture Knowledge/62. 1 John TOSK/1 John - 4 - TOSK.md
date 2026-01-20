@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 1 John 4 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/62 - 1 John|← 1 John]]** | [[The Treasury of Scripture Knowledge/62. 1 John TOSK/1 John - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/62. 1 John TOSK/1 John - 5 - TOSK|Ch 5 →]]
+=======
+**[[Home/Indexes/Readable Bible/62 - 1 John|← 1 John]]** | [[The Treasury of Scripture Knowledge/62. 1 John TOSK/1 John - 3 - TOSK|← Ch 3]] | [[The Treasury of Scripture Knowledge/62. 1 John TOSK/1 John - 5 - TOSK|Ch 5 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

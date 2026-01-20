@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Genesis-R 33
 
 **[[Home/Scripture/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 32#Genesis-R 32| Genesis 32]] - [[Readable Bible/01 - Genesis/Genesis 34#Genesis-R 34| Genesis 34]]
+=======
+# Genesis 33
+
+[[Readable Bible/01 - Genesis/Genesis 32|← Genesis 32]] | [[Readable Bible/01 - Genesis/Genesis 34|Genesis 34 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

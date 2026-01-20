@@ -29,7 +29,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 4|LXX]] |
 
 ##### Genesis 8 - 5
+<<<<<<< HEAD
 [[Lexicon/H4301-4400#H4325|And the waters]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H1901-2000#H1980|continued]] [[Lexicon/H2601-2700#H2637|to recede]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6201-6300#H6224|the tenth]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H201-300#H259|[and] on the first]] [[Lexicon/H2301-2400#H2320|day]] [[Lexicon/H6201-6300#H6224|of the tenth month]] [[Lexicon/H7201-7300#H7218|the tops]] [[Lexicon/H2001-2100#H2022|of the mountains]] [[Lexicon/H7101-7200#H7200|became visible.]]
+=======
+[[Lexicon/H4301-4400#H4325|And the waters]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H1901-2000#H1980|continued]] [[Lexicon/H2601-2700#H2637|to recede]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6201-6300#H6224|the tenth]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H201-300#H259|(and) on the first]] [[Lexicon/H2301-2400#H2320|day]] [[Lexicon/H6201-6300#H6224|of the tenth month]] [[Lexicon/H7201-7300#H7218|the tops]] [[Lexicon/H2001-2100#H2022|of the mountains]] [[Lexicon/H7101-7200#H7200|became visible.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 5|LXX]] |
 
 ##### Genesis 8 - 6
@@ -41,6 +45,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 7|LXX]] |
 
 ##### Genesis 8 - 8
+<<<<<<< HEAD
 [[Lexicon/H7901-8000#H7971|Then [Noah] sent out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H3101-3200#H3123|a dove]] [[Lexicon/H7101-7200#H7200|to see]] [[Lexicon/H4301-4400#H4325|if the waters]] [[Lexicon/H7001-7100#H7043|had receded]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H6401-6500#H6440|the surface]] [[Lexicon/H101-200#H127|of the ground.]]
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 8|LXX]] |
 
@@ -50,6 +55,17 @@ Testament: Old
 
 ##### Genesis 8 - 10
 [[Lexicon/H2301-2400#H2342|[Noah] waited]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H301-400#H312|more]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H3201-3300#H3254|and again]] [[Lexicon/H7901-8000#H7971|sent out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3123|the dove]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H8301-8400#H8392|the ark.]]
+=======
+[[Lexicon/H7901-8000#H7971|Then (Noah) sent out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H854|-]] [[Lexicon/H3101-3200#H3123|a dove]] [[Lexicon/H7101-7200#H7200|to see]] [[Lexicon/H4301-4400#H4325|if the waters]] [[Lexicon/H7001-7100#H7043|had receded]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H6401-6500#H6440|the surface]] [[Lexicon/H101-200#H127|of the ground.]]
+| [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 8|LXX]] |
+
+##### Genesis 8 - 9
+[[Lexicon/H3101-3200#H3123|But the dove]] [[Lexicon/H4601-4700#H4672|found]] [[Lexicon/H3801-3900#H3808|no]] [[Lexicon/H4401-4500#H4494|place to rest]] [[Lexicon/H3701-3800#H3709|her foot]] [[Lexicon/H7201-7300#H7272|... ,]] [[Lexicon/H7701-7800#H7725|and she returned]] [[Lexicon/H401-500#H413|to him]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H8301-8400#H8392|the ark ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H5901-6000#H5921|(were still) covering]] [[Lexicon/H6401-6500#H6440|the surface]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H701-800#H776|the earth.]] [[Lexicon/H7901-8000#H7971|So he reached out]] [[Lexicon/H3001-3100#H3027|his hand]] [[Lexicon/H3901-4000#H3947|...]] [[Lexicon/H901-1000#H935|and brought]] [[Lexicon/H801-900#H853|her]] [[Lexicon/H401-500#H413|back]] [[Lexicon/H401-500#H413|inside]] [[Lexicon/H8301-8400#H8392|the ark.]]
+| [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 9|LXX]] |
+
+##### Genesis 8 - 10
+[[Lexicon/H2301-2400#H2342|(Noah) waited]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H301-400#H312|more]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H3201-3300#H3254|and again]] [[Lexicon/H7901-8000#H7971|sent out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3123|the dove]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H8301-8400#H8392|the ark.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 10|LXX]] |
 
 ##### Genesis 8 - 11
@@ -57,11 +73,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 11|LXX]] |
 
 ##### Genesis 8 - 12
+<<<<<<< HEAD
 [[Lexicon/H3101-3200#H3176|[And] Noah waited]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H301-400#H312|more]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H7901-8000#H7971|and sent out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3123|the dove {again} ,]] [[Lexicon/H3201-3300#H3254|but this time]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H7701-7800#H7725|she did not return]] [[Lexicon/H401-500#H413|to him.]]
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 12|LXX]] |
 
 ##### Genesis 8 - 13
 [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H8301-8400#H8337|In [Noah’s] six]] [[Lexicon/H3901-4000#H3967|hundred]] [[Lexicon/H201-300#H259|and first]] [[Lexicon/H8101-8200#H8141|year ,]] [[Lexicon/H201-300#H259|on the first]] [[Lexicon/H2301-2400#H2320|day]] [[Lexicon/H7201-7300#H7223|of the first month ,]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H2701-2800#H2717|had dried up]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H701-800#H776|the earth.]] [[Lexicon/H5101-5200#H5146|So Noah]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5493|removed]] [[Lexicon/H4301-4400#H4372|the covering]] [[Lexicon/H8301-8400#H8392|from the ark]] [[Lexicon/H7101-7200#H7200|and saw]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H6401-6500#H6440|that the surface]] [[Lexicon/H101-200#H127|of the ground]] [[Lexicon/H2701-2800#H2717|was dry.]]
+=======
+[[Lexicon/H3101-3200#H3176|(And) Noah waited]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H301-400#H312|more]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H7901-8000#H7971|and sent out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3123|the dove {again} ,]] [[Lexicon/H3201-3300#H3254|but this time]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H7701-7800#H7725|she did not return]] [[Lexicon/H401-500#H413|to him.]]
+| [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 12|LXX]] |
+
+##### Genesis 8 - 13
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H8301-8400#H8337|In (Noah’s) six]] [[Lexicon/H3901-4000#H3967|hundred]] [[Lexicon/H201-300#H259|and first]] [[Lexicon/H8101-8200#H8141|year ,]] [[Lexicon/H201-300#H259|on the first]] [[Lexicon/H2301-2400#H2320|day]] [[Lexicon/H7201-7300#H7223|of the first month ,]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H2701-2800#H2717|had dried up]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H701-800#H776|the earth.]] [[Lexicon/H5101-5200#H5146|So Noah]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5493|removed]] [[Lexicon/H4301-4400#H4372|the covering]] [[Lexicon/H8301-8400#H8392|from the ark]] [[Lexicon/H7101-7200#H7200|and saw]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H6401-6500#H6440|that the surface]] [[Lexicon/H101-200#H127|of the ground]] [[Lexicon/H2701-2800#H2717|was dry.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 13|LXX]] |
 
 ##### Genesis 8 - 14
@@ -73,11 +97,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 15|LXX]] |
 
 ##### Genesis 8 - 16
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3318|“ Come out]] [[Lexicon/H4401-4500#H4480|of]] [[Lexicon/H8301-8400#H8392|the ark ,]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H801-900#H802|and your wife ,]] [[Lexicon/H801-900#H854|along with]] [[Lexicon/H1101-1200#H1121|your sons]] [[Lexicon/H1101-1200#H1121|and [their]]] [[Lexicon/H801-900#H802|wives.]]
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 16|LXX]] |
 
 ##### Genesis 8 - 17
 [[Lexicon/H3301-3400#H3318|Bring out]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2416|the living creatures]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H1301-1400#H1320|...]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H801-900#H854|are with you —]] [[Lexicon/H5701-5800#H5775|birds ,]] [[Lexicon/H901-1000#H929|livestock ,]] [[Lexicon/H3601-3700#H3605|and everything]] [[Lexicon/H7401-7500#H7431|-]] [[Lexicon/H7401-7500#H7430|that crawls]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H701-800#H776|the ground —]] [[Lexicon/H8301-8400#H8317|so that they can spread out]] [[Lexicon/H701-800#H776|over the earth]] [[Lexicon/H6501-6600#H6509|and be fruitful]] [[Lexicon/H7201-7300#H7235|and multiply]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H701-800#H776|[it]. ”]]
+=======
+[[Lexicon/H3301-3400#H3318|“ Come out]] [[Lexicon/H4401-4500#H4480|of]] [[Lexicon/H8301-8400#H8392|the ark ,]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H801-900#H802|and your wife ,]] [[Lexicon/H801-900#H854|along with]] [[Lexicon/H1101-1200#H1121|your sons]] [[Lexicon/H1101-1200#H1121|and (their)]] [[Lexicon/H801-900#H802|wives.]]
+| [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 16|LXX]] |
+
+##### Genesis 8 - 17
+[[Lexicon/H3301-3400#H3318|Bring out]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2416|the living creatures]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H1301-1400#H1320|...]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H801-900#H854|are with you —]] [[Lexicon/H5701-5800#H5775|birds ,]] [[Lexicon/H901-1000#H929|livestock ,]] [[Lexicon/H3601-3700#H3605|and everything]] [[Lexicon/H7401-7500#H7431|-]] [[Lexicon/H7401-7500#H7430|that crawls]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H701-800#H776|the ground —]] [[Lexicon/H8301-8400#H8317|so that they can spread out]] [[Lexicon/H701-800#H776|over the earth]] [[Lexicon/H6501-6600#H6509|and be fruitful]] [[Lexicon/H7201-7300#H7235|and multiply]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H701-800#H776|(it). ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 17|LXX]] |
 
 ##### Genesis 8 - 18
@@ -93,7 +125,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 20|LXX]] |
 
 ##### Genesis 8 - 21
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|When the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7306|smelled]] [[Lexicon/H5201-5300#H5207|the pleasing]] [[Lexicon/H7301-7400#H7381|aroma ,]] [[Lexicon/H3001-3100#H3068|He]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H3801-3900#H3820|His heart ,]] [[Lexicon/H3801-3900#H3808|“ Never again]] [[Lexicon/H3201-3300#H3254|...]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7001-7100#H7043|will I curse]] [[Lexicon/H101-200#H127|the ground]] [[Lexicon/H5601-5700#H5668|because of]] [[Lexicon/H101-200#H120|man ,]] [[Lexicon/H3501-3600#H3588|even though]] [[Lexicon/H3301-3400#H3336|every inclination]] [[Lexicon/H101-200#H120|of [his]]] [[Lexicon/H3801-3900#H3820|heart]] [[Lexicon/H7401-7500#H7451|is evil]] [[Lexicon/H5201-5300#H5271|from his youth.]] [[Lexicon/H3801-3900#H3808|And never]] [[Lexicon/H3201-3300#H3254|again]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H5201-5300#H5221|will I destroy]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2416|living creatures]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H6201-6300#H6213|I have done.]]
+=======
+[[Lexicon/H3001-3100#H3068|When the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7306|smelled]] [[Lexicon/H5201-5300#H5207|the pleasing]] [[Lexicon/H7301-7400#H7381|aroma ,]] [[Lexicon/H3001-3100#H3068|He]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|in]] [[Lexicon/H3801-3900#H3820|His heart ,]] [[Lexicon/H3801-3900#H3808|“ Never again]] [[Lexicon/H3201-3300#H3254|...]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7001-7100#H7043|will I curse]] [[Lexicon/H101-200#H127|the ground]] [[Lexicon/H5601-5700#H5668|because of]] [[Lexicon/H101-200#H120|man ,]] [[Lexicon/H3501-3600#H3588|even though]] [[Lexicon/H3301-3400#H3336|every inclination]] [[Lexicon/H101-200#H120|of (his)]] [[Lexicon/H3801-3900#H3820|heart]] [[Lexicon/H7401-7500#H7451|is evil]] [[Lexicon/H5201-5300#H5271|from his youth.]] [[Lexicon/H3801-3900#H3808|And never]] [[Lexicon/H3201-3300#H3254|again]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H5201-5300#H5221|will I destroy]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2401-2500#H2416|living creatures]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H6201-6300#H6213|I have done.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 8#Genesis 8 - 21|LXX]] |
 
 ##### Genesis 8 - 22

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 3 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 2 - TOSK|← Ch 2]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 4 - TOSK|Ch 4 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 2 - TOSK|← Ch 2]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 4 - TOSK|Ch 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

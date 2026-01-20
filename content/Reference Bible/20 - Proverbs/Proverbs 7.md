@@ -37,7 +37,11 @@ cssClasses: lexicon
 [[Lexicon/H5301-5400#H5399|at twilight ,]] [[Lexicon/H6101-6200#H6153|as the day was fading]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H601-700#H653|into the dark]] [[Lexicon/H301-400#H380|of the night]] [[Lexicon/H3901-4000#H3915|....]]
 
 ##### Proverbs 7 - 10
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2009|Then]] [[Lexicon/H801-900#H802|a woman]] [[Lexicon/H7101-7200#H7122|came out to meet him ,]] [[Lexicon/H7801-7900#H7897|[with] the attire]] [[Lexicon/H2101-2200#H2181|of a harlot]] [[Lexicon/H5301-5400#H5341|and cunning]] [[Lexicon/H3801-3900#H3820|of heart.]]
+=======
+[[Lexicon/H2001-2100#H2009|Then]] [[Lexicon/H801-900#H802|a woman]] [[Lexicon/H7101-7200#H7122|came out to meet him ,]] [[Lexicon/H7801-7900#H7897|(with) the attire]] [[Lexicon/H2101-2200#H2181|of a harlot]] [[Lexicon/H5301-5400#H5341|and cunning]] [[Lexicon/H3801-3900#H3820|of heart.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 7 - 11
 [[Lexicon/H1901-2000#H1931|She]] [[Lexicon/H1901-2000#H1993|is loud]] [[Lexicon/H5601-5700#H5637|and defiant ;]] [[Lexicon/H7201-7300#H7272|her feet]] [[Lexicon/H3801-3900#H3808|do not]] [[Lexicon/H7901-8000#H7931|remain]] [[Lexicon/H1001-1100#H1004|at home.]]
@@ -67,7 +71,11 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H301-400#H376|my husband]] [[Lexicon/H301-400#H369|is not]] [[Lexicon/H1001-1100#H1004|at home ;]] [[Lexicon/H1901-2000#H1980|he has gone]] [[Lexicon/H7301-7400#H7350|on a long]] [[Lexicon/H1801-1900#H1870|journey.]]
 
 ##### Proverbs 7 - 20
+<<<<<<< HEAD
 [[Lexicon/H3901-4000#H3947|He took]] [[Lexicon/H3001-3100#H3027|with him]] [[Lexicon/H6801-6900#H6872|a bag]] [[Lexicon/H3701-3800#H3701|of money]] [[Lexicon/H901-1000#H935|and will not return]] [[Lexicon/H1001-1100#H1004|...]] [[Lexicon/H3101-3200#H3117|till]] [[Lexicon/H3601-3700#H3677|the moon [is] full. ”]]
+=======
+[[Lexicon/H3901-4000#H3947|He took]] [[Lexicon/H3001-3100#H3027|with him]] [[Lexicon/H6801-6900#H6872|a bag]] [[Lexicon/H3701-3800#H3701|of money]] [[Lexicon/H901-1000#H935|and will not return]] [[Lexicon/H1001-1100#H1004|...]] [[Lexicon/H3101-3200#H3117|till]] [[Lexicon/H3601-3700#H3677|the moon (is) full. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 7 - 21
 [[Lexicon/H7201-7300#H7230|With her great]] [[Lexicon/H3901-4000#H3948|persuasion]] [[Lexicon/H5101-5200#H5186|she entices him ;]] [[Lexicon/H2501-2600#H2506|with her flattering]] [[Lexicon/H8101-8200#H8193|lips]] [[Lexicon/H5001-5100#H5080|she lures him.]]

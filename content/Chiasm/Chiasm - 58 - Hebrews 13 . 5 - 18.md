@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/58 - Hebrews|← Hebrews]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/58 - Hebrews|← Hebrews]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

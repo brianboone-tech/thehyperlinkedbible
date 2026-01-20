@@ -17,7 +17,11 @@ Chapter: "5"
 | [[LXX Reference/2 - Exodus/Exodus 5#Exodus 5 - 1|LXX]] |
 
 ##### Exodus 5 - 2
+<<<<<<< HEAD
 [[Lexicon/H6501-6600#H6547|But Pharaoh]] [[Lexicon/H501-600#H559|replied ,]] [[Lexicon/H4301-4400#H4310|“ Who]] [[Lexicon/H3001-3100#H3068|is the LORD]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H8001-8100#H8085|I should obey]] [[Lexicon/H6901-7000#H6963|His voice]] [[Lexicon/H3401-3500#H3478|[and] let Israel]] [[Lexicon/H7901-8000#H7971|go ?]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3808|I do not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H3401-3500#H3478|let Israel]] [[Lexicon/H7901-8000#H7971|go. ”]]
+=======
+[[Lexicon/H6501-6600#H6547|But Pharaoh]] [[Lexicon/H501-600#H559|replied ,]] [[Lexicon/H4301-4400#H4310|“ Who]] [[Lexicon/H3001-3100#H3068|is the LORD]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H8001-8100#H8085|I should obey]] [[Lexicon/H6901-7000#H6963|His voice]] [[Lexicon/H3401-3500#H3478|(and) let Israel]] [[Lexicon/H7901-8000#H7971|go ?]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3808|I do not]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H1501-1600#H1571|and]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H3401-3500#H3478|let Israel]] [[Lexicon/H7901-8000#H7971|go. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 5#Exodus 5 - 2|LXX]] |
 
 ##### Exodus 5 - 3
@@ -45,7 +49,11 @@ Chapter: "5"
 | [[LXX Reference/2 - Exodus/Exodus 5#Exodus 5 - 8|LXX]] |
 
 ##### Exodus 5 - 9
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3513|Make the work harder]] [[Lexicon/H5601-5700#H5656|...]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H6201-6300#H6213|so they will be occupied]] [[Lexicon/H401-500#H408|vvv]] [[Lexicon/H8101-8200#H8159|and pay no attention]] [[Lexicon/H8201-8300#H8267|to [these] lies]] [[Lexicon/H1601-1700#H1697|.... ”]]
+=======
+[[Lexicon/H3501-3600#H3513|Make the work harder]] [[Lexicon/H5601-5700#H5656|...]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H6201-6300#H6213|so they will be occupied]] [[Lexicon/H401-500#H408|vvv]] [[Lexicon/H8101-8200#H8159|and pay no attention]] [[Lexicon/H8201-8300#H8267|to (these) lies]] [[Lexicon/H1601-1700#H1697|.... ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 5#Exodus 5 - 9|LXX]] |
 
 ##### Exodus 5 - 10
@@ -73,7 +81,11 @@ Chapter: "5"
 | [[LXX Reference/2 - Exodus/Exodus 5#Exodus 5 - 15|LXX]] |
 
 ##### Exodus 5 - 16
+<<<<<<< HEAD
 [[Lexicon/H301-400#H369|No]] [[Lexicon/H8401-8500#H8401|straw]] [[Lexicon/H5401-5500#H5414|has been given]] [[Lexicon/H5601-5700#H5650|to your servants ,]] [[Lexicon/H501-600#H559|yet we are told]] [[Lexicon/H6201-6300#H6213|‘ Make]] [[Lexicon/H3801-3900#H3843|bricks ! ’]] [[Lexicon/H2001-2100#H2009|Look ,]] [[Lexicon/H5601-5700#H5650|your servants]] [[Lexicon/H5201-5300#H5221|are being beaten ,]] [[Lexicon/H2301-2400#H2398|but the fault]] [[Lexicon/H5901-6000#H5971|[is] with your own people. ”]]
+=======
+[[Lexicon/H301-400#H369|No]] [[Lexicon/H8401-8500#H8401|straw]] [[Lexicon/H5401-5500#H5414|has been given]] [[Lexicon/H5601-5700#H5650|to your servants ,]] [[Lexicon/H501-600#H559|yet we are told]] [[Lexicon/H6201-6300#H6213|‘ Make]] [[Lexicon/H3801-3900#H3843|bricks ! ’]] [[Lexicon/H2001-2100#H2009|Look ,]] [[Lexicon/H5601-5700#H5650|your servants]] [[Lexicon/H5201-5300#H5221|are being beaten ,]] [[Lexicon/H2301-2400#H2398|but the fault]] [[Lexicon/H5901-6000#H5971|(is) with your own people. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 5#Exodus 5 - 16|LXX]] |
 
 ##### Exodus 5 - 17
@@ -93,7 +105,11 @@ Chapter: "5"
 | [[LXX Reference/2 - Exodus/Exodus 5#Exodus 5 - 20|LXX]] |
 
 ##### Exodus 5 - 21
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|“ May the LORD]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7101-7200#H7200|look upon you]] [[Lexicon/H8101-8200#H8199|and judge you , ”]] [[Lexicon/H501-600#H559|[the foremen] said]] [[Lexicon/H401-500#H413|... ,]] [[Lexicon/H801-900#H834|“ for]] [[Lexicon/H801-900#H887|you have made us a stench]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7381|-]] [[Lexicon/H5801-5900#H5869|before]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H5601-5700#H5650|and his officials ;]] [[Lexicon/H5401-5500#H5414|you have placed]] [[Lexicon/H3001-3100#H3027|in their hand]] [[Lexicon/H2701-2800#H2719|a sword]] [[Lexicon/H2001-2100#H2026|to kill us ! ”]]
+=======
+[[Lexicon/H3001-3100#H3068|“ May the LORD]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H7101-7200#H7200|look upon you]] [[Lexicon/H8101-8200#H8199|and judge you , ”]] [[Lexicon/H501-600#H559|(the foremen) said]] [[Lexicon/H401-500#H413|... ,]] [[Lexicon/H801-900#H834|“ for]] [[Lexicon/H801-900#H887|you have made us a stench]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7381|-]] [[Lexicon/H5801-5900#H5869|before]] [[Lexicon/H6501-6600#H6547|Pharaoh]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H5601-5700#H5650|and his officials ;]] [[Lexicon/H5401-5500#H5414|you have placed]] [[Lexicon/H3001-3100#H3027|in their hand]] [[Lexicon/H2701-2800#H2719|a sword]] [[Lexicon/H2001-2100#H2026|to kill us ! ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 5#Exodus 5 - 21|LXX]] |
 
 ##### Exodus 5 - 22

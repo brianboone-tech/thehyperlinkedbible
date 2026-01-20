@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Mark-R 13
 
 **[[Home/Scripture/41 - Mark|Mark]]**
 
 [[Readable Bible/41 - Mark/Mark 12#Mark-R 12| Mark 12]] - [[Readable Bible/41 - Mark/Mark 14#Mark-R 14| Mark 14]]
+=======
+# Mark 13
+
+[[Readable Bible/41 - Mark/Mark 12|← Mark 12]] | [[Readable Bible/41 - Mark/Mark 14|Mark 14 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -122,4 +128,8 @@ cssClasses: lexicon
 [[Reference Bible/41 - Mark/Mark 13#Mark 13 - 36|36]] Otherwise, he may arrive without notice and find you sleeping.  | [[Chiasm/Chiasm - 41 - Mark 13 . 5 - 37|C]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 13 - TOSK#Verse 36|TOSK]] |
 
 ##### Mark 13 . 37
+<<<<<<< HEAD
 [[Reference Bible/41 - Mark/Mark 13#Mark 13 - 37|37]] And what I say to you, I say to everyone: Keep watch!”  | [[Chiasm/Chiasm - 41 - Mark 13 . 5 - 37|C]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 13 - TOSK#Verse 37|TOSK]] | 
+=======
+[[Reference Bible/41 - Mark/Mark 13#Mark 13 - 37|37]] And what I say to you, I say to everyone: Keep watch!”  | [[Chiasm/Chiasm - 41 - Mark 13 . 5 - 37|C]] | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 13 - TOSK#Verse 37|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

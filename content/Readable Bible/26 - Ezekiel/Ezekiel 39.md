@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 39
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 38#Ezekiel-R 38| Ezekiel 38]] - [[Readable Bible/26 - Ezekiel/Ezekiel 40#Ezekiel-R 40| Ezekiel 40]]
+=======
+# Ezekiel 39
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 38|← Ezekiel 38]] | [[Readable Bible/26 - Ezekiel/Ezekiel 40|Ezekiel 40 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

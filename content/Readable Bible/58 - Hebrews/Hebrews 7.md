@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Hebrews-R 7
 
 **[[Home/Scripture/58 - Hebrews|Hebrews]]**
 
 [[Readable Bible/58 - Hebrews/Hebrews 6#Hebrews-R 6| Hebrews 6]] - [[Readable Bible/58 - Hebrews/Hebrews 8#Hebrews-R 8| Hebrews 8]]
+=======
+# Hebrews 7
+
+[[Readable Bible/58 - Hebrews/Hebrews 6|← Hebrews 6]] | [[Readable Bible/58 - Hebrews/Hebrews 8|Hebrews 8 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 57 - 1
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5329|For the choirmaster. [To the tune of]]] [[Lexicon/H501-600#H516|vvv]] [[Lexicon/H501-600#H516|“ Do Not Destroy. ”]] [[Lexicon/H4301-4400#H4387|A Miktam]] [[Lexicon/H1701-1800#H1732|of David ,]] [[Lexicon/H1201-1300#H1272|when he fled]] [[Lexicon/H6401-6500#H6440|from]] [[Lexicon/H7501-7600#H7586|Saul]] [[Lexicon/H4601-4700#H4631|into the cave.]] [[Lexicon/H2601-2700#H2603|Have mercy on me ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H2601-2700#H2603|have mercy ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H5301-5400#H5315|my soul]] [[Lexicon/H2601-2700#H2620|takes refuge.]] [[Lexicon/H6701-6800#H6738|In the shadow]] [[Lexicon/H3601-3700#H3671|of Your wings]] [[Lexicon/H2601-2700#H2620|I will take shelter]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H1901-2000#H1942|the danger]] [[Lexicon/H5601-5700#H5674|has passed.]]
+=======
+[[Lexicon/H5301-5400#H5329|For the choirmaster. (To the tune of)]] [[Lexicon/H501-600#H516|vvv]] [[Lexicon/H501-600#H516|“ Do Not Destroy. ”]] [[Lexicon/H4301-4400#H4387|A Miktam]] [[Lexicon/H1701-1800#H1732|of David ,]] [[Lexicon/H1201-1300#H1272|when he fled]] [[Lexicon/H6401-6500#H6440|from]] [[Lexicon/H7501-7600#H7586|Saul]] [[Lexicon/H4601-4700#H4631|into the cave.]] [[Lexicon/H2601-2700#H2603|Have mercy on me ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H2601-2700#H2603|have mercy ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H5301-5400#H5315|my soul]] [[Lexicon/H2601-2700#H2620|takes refuge.]] [[Lexicon/H6701-6800#H6738|In the shadow]] [[Lexicon/H3601-3700#H3671|of Your wings]] [[Lexicon/H2601-2700#H2620|I will take shelter]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H1901-2000#H1942|the danger]] [[Lexicon/H5601-5700#H5674|has passed.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 57#Psalm 57 - 1|LXX]] |
 
 ##### Psalm 57 - 2
@@ -22,7 +26,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 57#Psalm 57 - 3|LXX]] |
 
 ##### Psalm 57 - 4
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5315|My soul]] [[Lexicon/H8401-8500#H8432|[is] among]] [[Lexicon/H3801-3900#H3833|the lions ;]] [[Lexicon/H7901-8000#H7901|I lie down]] [[Lexicon/H3801-3900#H3857|with ravenous beasts —]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H101-200#H120|[with] men]] [[Lexicon/H8101-8200#H8127|whose teeth]] [[Lexicon/H2501-2600#H2595|are spears]] [[Lexicon/H2601-2700#H2671|and arrows ,]] [[Lexicon/H3901-4000#H3956|whose tongues]] [[Lexicon/H2201-2300#H2299|are sharp]] [[Lexicon/H2701-2800#H2719|swords.]]
+=======
+[[Lexicon/H5301-5400#H5315|My soul]] [[Lexicon/H8401-8500#H8432|(is) among]] [[Lexicon/H3801-3900#H3833|the lions ;]] [[Lexicon/H7901-8000#H7901|I lie down]] [[Lexicon/H3801-3900#H3857|with ravenous beasts —]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H101-200#H120|(with) men]] [[Lexicon/H8101-8200#H8127|whose teeth]] [[Lexicon/H2501-2600#H2595|are spears]] [[Lexicon/H2601-2700#H2671|and arrows ,]] [[Lexicon/H3901-4000#H3956|whose tongues]] [[Lexicon/H2201-2300#H2299|are sharp]] [[Lexicon/H2701-2800#H2719|swords.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 57#Psalm 57 - 4|LXX]] |
 
 ##### Psalm 57 - 5

@@ -10,13 +10,21 @@ cssClasses: lexicon
 ---
 
 ##### Ezekiel 19 - 1
+<<<<<<< HEAD
 [[Lexicon/H801-900#H859|[“] As for you ,]] [[Lexicon/H5301-5400#H5375|take up]] [[Lexicon/H7001-7100#H7015|a lament]] [[Lexicon/H401-500#H413|for]] [[Lexicon/H5301-5400#H5387|the princes]] [[Lexicon/H3401-3500#H3478|of Israel]]
+=======
+[[Lexicon/H801-900#H859|(“) As for you ,]] [[Lexicon/H5301-5400#H5375|take up]] [[Lexicon/H7001-7100#H7015|a lament]] [[Lexicon/H401-500#H413|for]] [[Lexicon/H5301-5400#H5387|the princes]] [[Lexicon/H3401-3500#H3478|of Israel]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 19 - 2
 [[Lexicon/H501-600#H559|and say :]] [[Lexicon/H4001-4100#H4100|‘ What]] [[Lexicon/H501-600#H517|was your mother ?]] [[Lexicon/H3801-3900#H3833|A lioness]] [[Lexicon/H901-1000#H996|among]] [[Lexicon/H701-800#H738|the lions !]] [[Lexicon/H7201-7300#H7257|She lay down]] [[Lexicon/H8401-8500#H8432|among]] [[Lexicon/H3701-3800#H3715|the young lions ;]] [[Lexicon/H7201-7300#H7235|she reared]] [[Lexicon/H1401-1500#H1482|her cubs.]]
 
 ##### Ezekiel 19 - 3
+<<<<<<< HEAD
 [[Lexicon/H5901-6000#H5927|She brought up]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H1401-1500#H1482|of her cubs ,]] [[Lexicon/H1901-2000#H1961|and he became]] [[Lexicon/H3701-3800#H3715|a young lion.]] [[Lexicon/H3901-4000#H3925|After learning]] [[Lexicon/H2901-3000#H2963|to tear]] [[Lexicon/H2901-3000#H2964|[his] prey ,]] [[Lexicon/H301-400#H398|he devoured]] [[Lexicon/H101-200#H120|men.]]
+=======
+[[Lexicon/H5901-6000#H5927|She brought up]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H1401-1500#H1482|of her cubs ,]] [[Lexicon/H1901-2000#H1961|and he became]] [[Lexicon/H3701-3800#H3715|a young lion.]] [[Lexicon/H3901-4000#H3925|After learning]] [[Lexicon/H2901-3000#H2963|to tear]] [[Lexicon/H2901-3000#H2964|(his) prey ,]] [[Lexicon/H301-400#H398|he devoured]] [[Lexicon/H101-200#H120|men.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 19 - 4
 [[Lexicon/H1401-1500#H1471|When the nations]] [[Lexicon/H8001-8100#H8085|heard]] [[Lexicon/H401-500#H413|of him ,]] [[Lexicon/H8601-8674#H8610|he was trapped]] [[Lexicon/H7801-7900#H7845|in their pit.]] [[Lexicon/H2301-2400#H2397|With hooks]] [[Lexicon/H901-1000#H935|they led him away]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
@@ -25,7 +33,11 @@ cssClasses: lexicon
 [[Lexicon/H7101-7200#H7200|When she saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H3101-3200#H3176|she had waited in vain ,]] [[Lexicon/H8601-8674#H8615|that her hope]] [[Lexicon/H1-100#H6|was lost ,]] [[Lexicon/H3901-4000#H3947|she took]] [[Lexicon/H201-300#H259|another]] [[Lexicon/H1401-1500#H1482|of her cubs]] [[Lexicon/H7701-7800#H7760|and made him]] [[Lexicon/H3701-3800#H3715|a young lion.]]
 
 ##### Ezekiel 19 - 6
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1980|He prowled]] [[Lexicon/H8401-8500#H8432|among]] [[Lexicon/H701-800#H738|the lions ,]] [[Lexicon/H1901-2000#H1961|and became]] [[Lexicon/H3701-3800#H3715|a young lion.]] [[Lexicon/H3901-4000#H3925|After learning]] [[Lexicon/H2901-3000#H2963|to tear]] [[Lexicon/H2901-3000#H2964|[his] prey ,]] [[Lexicon/H301-400#H398|he devoured]] [[Lexicon/H101-200#H120|men.]]
+=======
+[[Lexicon/H1901-2000#H1980|He prowled]] [[Lexicon/H8401-8500#H8432|among]] [[Lexicon/H701-800#H738|the lions ,]] [[Lexicon/H1901-2000#H1961|and became]] [[Lexicon/H3701-3800#H3715|a young lion.]] [[Lexicon/H3901-4000#H3925|After learning]] [[Lexicon/H2901-3000#H2963|to tear]] [[Lexicon/H2901-3000#H2964|(his) prey ,]] [[Lexicon/H301-400#H398|he devoured]] [[Lexicon/H101-200#H120|men.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 19 - 7
 [[Lexicon/H3001-3100#H3045|He broke down]] [[Lexicon/H401-500#H490|their strongholds]] [[Lexicon/H2701-2800#H2717|and devastated]] [[Lexicon/H5801-5900#H5892|their cities.]] [[Lexicon/H701-800#H776|The land]] [[Lexicon/H4301-4400#H4393|and everything in it]] [[Lexicon/H3401-3500#H3456|shuddered]] [[Lexicon/H6901-7000#H6963|at the sound]] [[Lexicon/H7501-7600#H7581|of his roaring.]]

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 29
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 28#Psalm-R 28| Psalm 28]] - [[Readable Bible/19 - Psalms/Psalm 30#Psalm-R 30| Psalm 30]]
+=======
+# Psalm 29
+
+[[Readable Bible/19 - Psalms/Psalm 28|← Psalm 28]] | [[Readable Bible/19 - Psalms/Psalm 30|Psalm 30 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

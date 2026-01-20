@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Deuteronomy 18 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 17 - TOSK|← Ch 17]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 19 - TOSK|Ch 19 →]]
+=======
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 17 - TOSK|← Ch 17]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 19 - TOSK|Ch 19 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

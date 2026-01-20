@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 22 - 1
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H5901-6000#H5921|To the tune of]] [[Lexicon/H301-400#H355|“ The Doe]] [[Lexicon/H7801-7900#H7837|of the Dawn. ”]] [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H401-500#H410|My God ,]] [[Lexicon/H401-500#H410|my God ,]] [[Lexicon/H4001-4100#H4100|why]] [[Lexicon/H5701-5800#H5800|have You forsaken me ?]] [[Lexicon/H7301-7400#H7350|Why are You so far]] [[Lexicon/H3401-3500#H3444|from saving me ,]] [[Lexicon/H1601-1700#H1697|[so far] from my words]] [[Lexicon/H7501-7600#H7581|of groaning ?]]
+=======
+[[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H5901-6000#H5921|To the tune of]] [[Lexicon/H301-400#H355|“ The Doe]] [[Lexicon/H7801-7900#H7837|of the Dawn. ”]] [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H401-500#H410|My God ,]] [[Lexicon/H401-500#H410|my God ,]] [[Lexicon/H4001-4100#H4100|why]] [[Lexicon/H5701-5800#H5800|have You forsaken me ?]] [[Lexicon/H7301-7400#H7350|Why are You so far]] [[Lexicon/H3401-3500#H3444|from saving me ,]] [[Lexicon/H1601-1700#H1697|(so far) from my words]] [[Lexicon/H7501-7600#H7581|of groaning ?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 22#Psalm 22 - 1|LXX]] |
 
 ##### Psalm 22 - 2
@@ -54,7 +58,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 22#Psalm 22 - 11|LXX]] |
 
 ##### Psalm 22 - 12
+<<<<<<< HEAD
 [[Lexicon/H7201-7300#H7227|Many]] [[Lexicon/H6401-6500#H6499|bulls]] [[Lexicon/H5401-5500#H5437|surround me ;]] [[Lexicon/H1-100#H47|strong]] [[Lexicon/H1301-1400#H1316|[bulls] of Bashan]] [[Lexicon/H3801-3900#H3803|encircle me.]]
+=======
+[[Lexicon/H7201-7300#H7227|Many]] [[Lexicon/H6401-6500#H6499|bulls]] [[Lexicon/H5401-5500#H5437|surround me ;]] [[Lexicon/H1-100#H47|strong]] [[Lexicon/H1301-1400#H1316|(bulls) of Bashan]] [[Lexicon/H3801-3900#H3803|encircle me.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 22#Psalm 22 - 12|LXX]] |
 
 ##### Psalm 22 - 13
@@ -106,7 +114,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 22#Psalm 22 - 24|LXX]] |
 
 ##### Psalm 22 - 25
+<<<<<<< HEAD
 [[Lexicon/H8401-8500#H8416|My praise]] [[Lexicon/H801-900#H854|for You [resounds]]] [[Lexicon/H7201-7300#H7227|in the great]] [[Lexicon/H6901-7000#H6951|assembly ;]] [[Lexicon/H7901-8000#H7999|I will fulfill]] [[Lexicon/H5001-5100#H5088|my vows]] [[Lexicon/H5001-5100#H5048|before]] [[Lexicon/H3301-3400#H3373|those who fear You.]]
+=======
+[[Lexicon/H8401-8500#H8416|My praise]] [[Lexicon/H801-900#H854|for You (resounds)]] [[Lexicon/H7201-7300#H7227|in the great]] [[Lexicon/H6901-7000#H6951|assembly ;]] [[Lexicon/H7901-8000#H7999|I will fulfill]] [[Lexicon/H5001-5100#H5088|my vows]] [[Lexicon/H5001-5100#H5048|before]] [[Lexicon/H3301-3400#H3373|those who fear You.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 22#Psalm 22 - 25|LXX]] |
 
 ##### Psalm 22 - 26

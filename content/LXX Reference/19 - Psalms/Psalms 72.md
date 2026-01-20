@@ -27,7 +27,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4801-4900#G4839|he shall continue as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2246|sun,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4201-4300#G4253|before]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4582|moon]] [[Lexicon/G1001-1100#G1074|of generations.]]
 
 #### Psalms 72 - 6
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2597|He shall come down]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5201-5300#G5205|rain]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G4101-4200#G4169|fleece,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G4701-4800#G4711|drops]] [[Lexicon/G4701-4800#G4712|dripping]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth.]]
+=======
+[[Lexicon/G2501-2600#G2597|He shall come down]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5201-5300#G5205|rain]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G4101-4200#G4169|fleece,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G4701-4800#G4711|drops]] [[Lexicon/G4701-4800#G4712|dripping]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 72 - 7
 [[Lexicon/G301-400#G0393|shall rise]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4128|a multitude]] [[Lexicon/G1501-1600#G1515|of peace]] [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G3701-3800#G3739|of which time]] [[Lexicon/G401-500#G0465|should be taken away]]
@@ -57,7 +61,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2101-2200#G2198|he shall live,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|there shall be given]] [[Lexicon/G1401-1500#G1473|to him]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5501-5600#G5553|gold]] of Arabia. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4336|they shall pray]] [[Lexicon/G4001-4100#G4012|for]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1201-1300#G1275|always;]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G2101-2200#G2127|they shall bless]] [[Lexicon/G1401-1500#G1473|him.]]
 
 #### Psalms 72 - 16
+<<<<<<< HEAD
 [[Lexicon/G1501-1600#G1510|There will be]] [[Lexicon/G4701-4800#G4739|a support]] [[Lexicon/G1701-1800#G1722|on]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3735|mountains.]] [[Lexicon/G5201-5300#G5229|shall be elevated]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1816|they shall blossom]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|earth.]]
+=======
+[[Lexicon/G1501-1600#G1510|There will be]] [[Lexicon/G4701-4800#G4739|a support]] [[Lexicon/G1701-1800#G1722|on]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3701-3800#G3735|mountains.]] [[Lexicon/G5201-5300#G5229|shall be elevated]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1816|they shall blossom]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|earth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 72 - 17
 [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G2101-2200#G2127|a blessing]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eons.]] [[Lexicon/G4201-4300#G4253|before]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1757|shall be blessed]] [[Lexicon/G3901-4000#G3956|All]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3101-3200#G3106|shall declare him blessed.]]

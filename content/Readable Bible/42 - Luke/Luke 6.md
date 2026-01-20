@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Luke-R 6
 
 **[[Home/Scripture/42 - Luke|Luke]]**
 
 [[Readable Bible/42 - Luke/Luke 5#Luke-R 5| Luke 5]] - [[Readable Bible/42 - Luke/Luke 7#Luke-R 7| Luke 7]]
+=======
+# Luke 6
+
+[[Readable Bible/42 - Luke/Luke 5|← Luke 5]] | [[Readable Bible/42 - Luke/Luke 7|Luke 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Luke 6 . 1
+<<<<<<< HEAD
 [[Reference Bible/42 - Luke/Luke 6#Luke 6 - 1|1]] One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain, rub them in their hands, and eat them.   || [[Intertextuality Pairs/NT to OT/42 - Luke/Luke 6.1-5 to Ruth 2.1|IP]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 6 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/42 - Luke/Luke 6#Luke 6 - 1|1]] One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain, rub them in their hands, and eat them.  | | [[Intertextuality Pairs/NT to OT/42 - Luke/Luke 6.1-5 to Ruth 2.1|IP]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 6 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ##### Luke 6 . 2
 [[Reference Bible/42 - Luke/Luke 6#Luke 6 - 2|2]] But some of the Pharisees asked, “Why are you doing what is unlawful on the Sabbath?”  | [[Intertextuality Pairs/NT to OT/42 - Luke/Luke 6.1-5 to Ruth 2.1|IP]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 6 - TOSK#Verse 2|TOSK]] |
 

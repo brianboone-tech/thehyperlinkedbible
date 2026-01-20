@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Exodus-R 39
 
 **[[Home/Scripture/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 38#Exodus-R 38| Exodus 38]] - [[Readable Bible/02 - Exodus/Exodus 40#Exodus-R 40| Exodus 40]]
+=======
+# Exodus 39
+
+[[Readable Bible/02 - Exodus/Exodus 38|← Exodus 38]] | [[Readable Bible/02 - Exodus/Exodus 40|Exodus 40 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

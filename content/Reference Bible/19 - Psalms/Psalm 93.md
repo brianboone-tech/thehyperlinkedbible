@@ -14,7 +14,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 93#Psalm 93 - 1|LXX]] |
 
 ##### Psalm 93 - 2
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3678|Your throne]] [[Lexicon/H3501-3600#H3559|[was] established]] [[Lexicon/H201-300#H227|long ago ;]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H5701-5800#H5769|[are] from all eternity.]]
+=======
+[[Lexicon/H3601-3700#H3678|Your throne]] [[Lexicon/H3501-3600#H3559|(was) established]] [[Lexicon/H201-300#H227|long ago ;]] [[Lexicon/H801-900#H859|You]] [[Lexicon/H5701-5800#H5769|(are) from all eternity.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 93#Psalm 93 - 2|LXX]] |
 
 ##### Psalm 93 - 3

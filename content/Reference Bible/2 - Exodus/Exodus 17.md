@@ -53,7 +53,11 @@ Chapter: "17"
 | [[LXX Reference/2 - Exodus/Exodus 17#Exodus 17 - 10|LXX]] |
 
 ##### Exodus 17 - 11
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H801-900#H834|As long as]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H7301-7400#H7311|held up]] [[Lexicon/H3001-3100#H3027|his hands ,]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H1301-1400#H1396|prevailed ;]] [[Lexicon/H801-900#H834|but when]] [[Lexicon/H5101-5200#H5117|he lowered]] [[Lexicon/H3001-3100#H3027|[them] ,]] [[Lexicon/H6001-6100#H6002|Amalek]] [[Lexicon/H1301-1400#H1396|prevailed.]]
+=======
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H801-900#H834|As long as]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H7301-7400#H7311|held up]] [[Lexicon/H3001-3100#H3027|his hands ,]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H1301-1400#H1396|prevailed ;]] [[Lexicon/H801-900#H834|but when]] [[Lexicon/H5101-5200#H5117|he lowered]] [[Lexicon/H3001-3100#H3027|(them) ,]] [[Lexicon/H6001-6100#H6002|Amalek]] [[Lexicon/H1301-1400#H1396|prevailed.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 17#Exodus 17 - 11|LXX]] |
 
 ##### Exodus 17 - 12

@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/57 - Philemon|← Philemon]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/57 - Philemon|← Philemon]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

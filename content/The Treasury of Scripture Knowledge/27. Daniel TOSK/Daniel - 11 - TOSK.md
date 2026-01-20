@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Daniel 11 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/27 - Daniel|← Daniel]]** | [[The Treasury of Scripture Knowledge/27. Daniel TOSK/Daniel - 10 - TOSK|← Ch 10]] | [[The Treasury of Scripture Knowledge/27. Daniel TOSK/Daniel - 12 - TOSK|Ch 12 →]]
+=======
+**[[Home/Indexes/Readable Bible/27 - Daniel|← Daniel]]** | [[The Treasury of Scripture Knowledge/27. Daniel TOSK/Daniel - 10 - TOSK|← Ch 10]] | [[The Treasury of Scripture Knowledge/27. Daniel TOSK/Daniel - 12 - TOSK|Ch 12 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Matthew-R 13
 
 **[[Home/Scripture/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 12#Matthew-R 12| Matthew 12]] - [[Readable Bible/40 - Matthew/Matthew 14#Matthew-R 14| Matthew 14]]
+=======
+# Matthew 13
+
+[[Readable Bible/40 - Matthew/Matthew 12|← Matthew 12]] | [[Readable Bible/40 - Matthew/Matthew 14|Matthew 14 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Matthew 13 . 1
+<<<<<<< HEAD
 [[Reference Bible/40 - Matthew/Matthew 13#Matthew 13 - 1|1]] That same day Jesus went out of the house and sat by the sea.   || [[Chiasm/Chiasm - 40 - Matthew 13 . 01 - 43|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 13 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/40 - Matthew/Matthew 13#Matthew 13 - 1|1]] That same day Jesus went out of the house and sat by the sea.  | | [[Chiasm/Chiasm - 40 - Matthew 13 . 01 - 43|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 13 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Matthew 13 . 2
 [[Reference Bible/40 - Matthew/Matthew 13#Matthew 13 - 2|2]] Such large crowds gathered around Him that He got into a boat and sat down, while all the people stood on the shore.  | [[Chiasm/Chiasm - 40 - Matthew 13 . 01 - 43|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 13 - TOSK#Verse 2|TOSK]] |

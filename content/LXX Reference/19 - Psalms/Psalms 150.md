@@ -7,7 +7,11 @@ Testament: Old
 
 # Psalms 150
 
+<<<<<<< HEAD
 [[LXX Reference/19 - Psalms/Psalms 149|←]] • [[LXX Reference/19 - Psalms/Psalms 151|→]]
+=======
+[[LXX Reference/19 - Psalms/Psalms 149|←]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

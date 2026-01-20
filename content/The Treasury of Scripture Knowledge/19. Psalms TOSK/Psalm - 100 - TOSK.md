@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 100 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 99 - TOSK|← Ch 99]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 101 - TOSK|Ch 101 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 99 - TOSK|← Ch 99]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 101 - TOSK|Ch 101 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

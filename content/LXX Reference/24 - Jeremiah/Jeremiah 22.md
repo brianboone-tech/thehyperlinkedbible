@@ -78,7 +78,11 @@ Testament: Old
 [[Lexicon/G3901-4000#G3956|All]] [[Lexicon/G4101-4200#G4166|your shepherds]] [[Lexicon/G4101-4200#G4165|shall tend]] [[Lexicon/G401-500#G0417|the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|your lovers]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G5101-5200#G5119|then]] [[Lexicon/G101-200#G0153|you shall be ashamed,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G0821|shall be disgraced]] [[Lexicon/G501-600#G0575|because of]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G5301-5400#G5368|being fond of]] [[Lexicon/G1401-1500#G1473|you.]]
 
 #### Jeremiah 22 - 23
+<<<<<<< HEAD
 [[Lexicon/G2701-2800#G2730|O one dwelling]] [[Lexicon/G1701-1800#G1722|in]] Lebanon, [[Lexicon/G1701-1800#G1772|nesting]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2748|cedars,]] [[Lexicon/G2601-2700#G2687|you shall groan]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5601-5700#G5604|pangs]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5001-5100#G5088|one giving birth.]]
+=======
+[[Lexicon/G2701-2800#G2730|O one dwelling]] [[Lexicon/G1701-1800#G1722|in]] Lebanon, [[Lexicon/G1701-1800#G1772|nesting]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2748|cedars,]] [[Lexicon/G2601-2700#G2687|you shall groan]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5601-5624#G5604|pangs]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5001-5100#G5088|one giving birth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 22 - 24
 [[Lexicon/G2101-2200#G2198|As]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G1401-1500#G1437|Though]] [[Lexicon/G1001-1100#G1096|in coming to pass]] 1 3 5 [[Lexicon/G601-700#G0656|a seal]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1501-1600#G1564|from there]] [[Lexicon/G1601-1700#G1610|will I pull you out.]]
@@ -93,7 +97,11 @@ Testament: Old
 [[Lexicon/G1501-1600#G1519|And unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G2101-2200#G2172|made a vow]] [[Lexicon/G3501-3600#G3588|in]] [[Lexicon/G5501-5600#G5590|their souls,]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G601-700#G0654|shall they return.]]
 
 #### Jeremiah 22 - 28
+<<<<<<< HEAD
 [[Lexicon/G801-900#G0821|Coniah is disgraced]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4601-4700#G4632|a vessel]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3701-3800#G3756|there is no]] [[Lexicon/G5501-5600#G5532|need]] [[Lexicon/G1401-1500#G1473|of;]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1601-1700#G1610|he was cast forth]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1544|cast]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G1001-1100#G1093|a land]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3701-3800#G3756|he did not]] [[Lexicon/G1401-1500#G1492|know.]]
+=======
+[[Lexicon/G801-900#G0821|Coniah is disgraced]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4601-4700#G4632|a vessel]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3701-3800#G3756|there is no]] [[Lexicon/G5501-5600#G5532|need]] [[Lexicon/G1401-1500#G1473|of;]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1601-1700#G1610|he was cast forth]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1544|cast]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G1001-1100#G1093|a land]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3701-3800#G3756|he did not]] [[Lexicon/G1401-1500#G1492|know.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 22 - 29
 [[Lexicon/G1001-1100#G1093|O land,]] [[Lexicon/G1001-1100#G1093|O land,]] [[Lexicon/G101-200#G0191|hear]] [[Lexicon/G3001-3100#G3056|the]] [[Lexicon/G2901-3000#G2962|of the]]

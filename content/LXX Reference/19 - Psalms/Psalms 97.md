@@ -24,7 +24,11 @@ Testament: Old
 [[Lexicon/G5301-5400#G5316|appeared]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3601-3700#G3611|inhabitable world;]] [[Lexicon/G1401-1500#G1492|beheld]]
 
 #### Psalms 97 - 5
+<<<<<<< HEAD
 [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G3701-3800#G3735|mountains]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2901-3000#G2962|of the lord;]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth.]]
+=======
+[[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G3701-3800#G3735|mountains]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2901-3000#G2962|of the lord;]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 97 - 6
 [[Lexicon/G301-400#G0312|announced]] [[Lexicon/G1301-1400#G1343|his righteousness;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1492|beheld]] [[Lexicon/G1301-1400#G1391|his glory.]]

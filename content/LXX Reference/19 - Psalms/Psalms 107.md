@@ -90,7 +90,11 @@ Testament: Old
 [[Lexicon/G301-400#G0305|They ascend]] [[Lexicon/G2101-2200#G2193|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heavens,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2597|they go down]] [[Lexicon/G2101-2200#G2193|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G0012|abysses;]] [[Lexicon/G5501-5600#G5590|their soul]] [[Lexicon/G1701-1800#G1722|in]]
 
 #### Psalms 107 - 27
+<<<<<<< HEAD
 [[Lexicon/G5001-5100#G5015|They were disturbed;]] [[Lexicon/G4501-4600#G4531|they were shaken]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G3101-3200#G3184|being intoxicated,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4601-4700#G4678|their wisdom]] [[Lexicon/G2601-2700#G2666|was swallowed down.]]
+=======
+[[Lexicon/G5001-5100#G5015|They were disturbed;]] [[Lexicon/G4501-4600#G4531|they were shaken]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G3101-3200#G3184|being intoxicated,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4601-4700#G4678|their wisdom]] [[Lexicon/G2601-2700#G2666|was swallowed down.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 107 - 28
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2801-2900#G2896|they cry out]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2301-2400#G2346|their being afflicted;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1537|from out of]]
@@ -132,7 +136,11 @@ Testament: Old
 [[Lexicon/G1601-1700#G1632|was poured out]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G701-800#G0758|their rulers,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4105|he wandered]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1-100#G0004|an untrodden place]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|no]] [[Lexicon/G3501-3600#G3598|street.]]
 
 #### Psalms 107 - 41
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|But]] [[Lexicon/G901-1000#G0997|he helps]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G4401-4500#G4432|poorness;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5087|he made]] [[Lexicon/G5601-5700#G5613|as]]
+=======
+[[Lexicon/G2501-2600#G2532|But]] [[Lexicon/G901-1000#G0997|he helps]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G4401-4500#G4432|poorness;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5087|he made]] [[Lexicon/G5601-5624#G5613|as]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 107 - 42
 [[Lexicon/G3701-3800#G3708|shall see]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2165|be glad;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G401-500#G0458|lawlessness]] [[Lexicon/G1701-1800#G1719|shall obstruct]] [[Lexicon/G4701-4800#G4750|its mouth.]]

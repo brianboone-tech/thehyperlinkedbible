@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 145 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 144 - TOSK|← Ch 144]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 146 - TOSK|Ch 146 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 144 - TOSK|← Ch 144]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 146 - TOSK|Ch 146 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

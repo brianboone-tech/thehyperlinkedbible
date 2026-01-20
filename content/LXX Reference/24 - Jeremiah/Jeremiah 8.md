@@ -27,7 +27,11 @@ Testament: Old
 [[Lexicon/G1301-1400#G1302|Why]] [[Lexicon/G601-700#G0654|turned]] [[Lexicon/G2901-3000#G2992|this people]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2629|they hold firmly]] [[Lexicon/G3501-3600#G3588|to]] [[Lexicon/G4201-4300#G4254|their resolve,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|they do not want]] [[Lexicon/G1901-2000#G1994|to return?]]
 
 #### Jeremiah 8 - 6
+<<<<<<< HEAD
 [[Lexicon/G1801-1900#G1801|Give ear]] [[Lexicon/G1201-1300#G1211|indeed,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0191|hearken!]] [[Lexicon/G3701-3800#G3756|There is not]] [[Lexicon/G401-500#G0444|a man]] [[Lexicon/G3301-3400#G3340|repenting]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2549|his evil,]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G4101-4200#G4160|did I do]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G1401-1500#G1408|his race,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2401-2500#G2462|a horse]] [[Lexicon/G2501-2600#G2522|sweating]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5501-5600#G5532|his snorting.]]
+=======
+[[Lexicon/G1801-1900#G1801|Give ear]] [[Lexicon/G1201-1300#G1211|indeed,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0191|hearken!]] [[Lexicon/G3701-3800#G3756|There is not]] [[Lexicon/G401-500#G0444|a man]] [[Lexicon/G3301-3400#G3340|repenting]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2549|his evil,]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G4101-4200#G4160|did I do]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G1401-1500#G1408|his race,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2401-2500#G2462|a horse]] [[Lexicon/G2501-2600#G2522|sweating]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5501-5600#G5532|his snorting.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 8 - 7
 [[Lexicon/G2501-2600#G2532|Even]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0775|stork]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven]] [[Lexicon/G1001-1100#G1097|knew]] [[Lexicon/G2501-2600#G2540|her time,]] [[Lexicon/G5101-5200#G5167|and the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5501|the]] [[Lexicon/G1-100#G0068|of the]] [[Lexicon/G4701-4800#G4765|The]] [[Lexicon/G5401-5500#G5442|guard]] [[Lexicon/G2501-2600#G2540|the]] [[Lexicon/G1501-1600#G1529|of their entrances.]] [[Lexicon/G1101-1200#G1161|But]] [[Lexicon/G2901-3000#G2992|my people]] [[Lexicon/G3701-3800#G3756|knew not]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2917|judgments]] [[Lexicon/G2901-3000#G2962|of the]]
@@ -72,7 +76,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|we]] [[Lexicon/G3701-3800#G3756|have not]] [[Lexicon/G1201-1300#G1295|been delivered.]]
 
 #### Jeremiah 8 - 21
+<<<<<<< HEAD
 [[Lexicon/G1901-2000#G1909|Upon]] [[Lexicon/G4901-5000#G4938|destruction]] [[Lexicon/G2301-2400#G2364|of the]] [[Lexicon/G2901-3000#G2992|of my people]] [[Lexicon/G4601-4700#G4656|I have been enveloped in darkness;]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G601-700#G0640|perplexity]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5001-5100#G5088|a woman giving birth.]]
+=======
+[[Lexicon/G1901-2000#G1909|Upon]] [[Lexicon/G4901-5000#G4938|destruction]] [[Lexicon/G2301-2400#G2364|of the]] [[Lexicon/G2901-3000#G2992|of my people]] [[Lexicon/G4601-4700#G4656|I have been enveloped in darkness;]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G601-700#G0640|perplexity]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5001-5100#G5088|a woman giving birth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Jeremiah 8 - 22
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1701-1800#G1722|in]] Gilead? [[Lexicon/G2201-2300#G2228|and]] [[Lexicon/G1501-1600#G1563|there?]] [[Lexicon/G1301-1400#G1302|Why did]] [[Lexicon/G2301-2400#G2364|for the]] [[Lexicon/G2901-3000#G2992|of my people?]]

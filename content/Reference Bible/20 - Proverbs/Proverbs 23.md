@@ -13,7 +13,11 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|When]] [[Lexicon/H3401-3500#H3427|you sit down]] [[Lexicon/H3801-3900#H3898|to dine]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H4901-5000#H4910|a ruler ,]] [[Lexicon/H901-1000#H995|consider]] [[Lexicon/H901-1000#H995|carefully]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H834|what]] [[Lexicon/H6401-6500#H6440|is set before you ,]]
 
 ##### Proverbs 23 - 2
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7760|and put]] [[Lexicon/H7901-8000#H7915|a knife]] [[Lexicon/H3901-4000#H3930|to your throat]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H1101-1200#H1167|possess]] [[Lexicon/H5301-5400#H5315|a [great] appetite.]]
+=======
+[[Lexicon/H7701-7800#H7760|and put]] [[Lexicon/H7901-8000#H7915|a knife]] [[Lexicon/H3901-4000#H3930|to your throat]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H1101-1200#H1167|possess]] [[Lexicon/H5301-5400#H5315|a (great) appetite.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 23 - 3
 [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H8301-8400#H8376|crave]] [[Lexicon/H4301-4400#H4303|his delicacies ,]] [[Lexicon/H1901-2000#H1931|for that]] [[Lexicon/H3801-3900#H3899|food]] [[Lexicon/H3501-3600#H3577|is deceptive.]]
@@ -28,7 +32,11 @@ cssClasses: lexicon
 [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H3801-3900#H3898|eat]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3899|the bread]] [[Lexicon/H7401-7500#H7451|of a stingy man]] [[Lexicon/H5801-5900#H5869|... ,]] [[Lexicon/H401-500#H408|and do not]] [[Lexicon/H8301-8400#H8376|crave]] [[Lexicon/H4301-4400#H4303|his delicacies ;]]
 
 ##### Proverbs 23 - 7
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3601-3700#H3644|-]] [[Lexicon/H8101-8200#H8176|he is keeping track ,]] [[Lexicon/H5301-5400#H5315|inwardly]] [[Lexicon/H3601-3700#H3651|[counting the cost]]] [[Lexicon/H1901-2000#H1931|....]] [[Lexicon/H301-400#H398|“ Eat]] [[Lexicon/H8301-8400#H8354|and drink , ”]] [[Lexicon/H501-600#H559|he says]] [[Lexicon/H3801-3900#H3820|but his heart]] [[Lexicon/H1001-1100#H1077|is not]] [[Lexicon/H5901-6000#H5973|with you.]]
+=======
+[[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3601-3700#H3644|-]] [[Lexicon/H8101-8200#H8176|he is keeping track ,]] [[Lexicon/H5301-5400#H5315|inwardly]] [[Lexicon/H3601-3700#H3651|(counting the cost)]] [[Lexicon/H1901-2000#H1931|....]] [[Lexicon/H301-400#H398|“ Eat]] [[Lexicon/H8301-8400#H8354|and drink , ”]] [[Lexicon/H501-600#H559|he says]] [[Lexicon/H3801-3900#H3820|but his heart]] [[Lexicon/H1001-1100#H1077|is not]] [[Lexicon/H5901-6000#H5973|with you.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 23 - 8
 [[Lexicon/H6901-7000#H6958|You will vomit up]] [[Lexicon/H6501-6600#H6595|what little]] [[Lexicon/H301-400#H398|you have eaten]] [[Lexicon/H7801-7900#H7843|and waste]] [[Lexicon/H5201-5300#H5273|your pleasant]] [[Lexicon/H1601-1700#H1697|words.]]
@@ -37,7 +45,11 @@ cssClasses: lexicon
 [[Lexicon/H201-300#H241|-]] [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H1601-1700#H1696|speak]] [[Lexicon/H3601-3700#H3684|to a fool ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H901-1000#H936|he will despise]] [[Lexicon/H7901-8000#H7922|the wisdom]] [[Lexicon/H4401-4500#H4405|of your words.]]
 
 ##### Proverbs 23 - 10
+<<<<<<< HEAD
 [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H5201-5300#H5253|move]] [[Lexicon/H5701-5800#H5769|an ancient]] [[Lexicon/H1301-1400#H1366|boundary stone]] [[Lexicon/H401-500#H408|[or]]] [[Lexicon/H901-1000#H935|encroach]] [[Lexicon/H7701-7800#H7704|on the fields]] [[Lexicon/H3401-3500#H3490|of the fatherless ,]]
+=======
+[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H5201-5300#H5253|move]] [[Lexicon/H5701-5800#H5769|an ancient]] [[Lexicon/H1301-1400#H1366|boundary stone]] [[Lexicon/H401-500#H408|(or)]] [[Lexicon/H901-1000#H935|encroach]] [[Lexicon/H7701-7800#H7704|on the fields]] [[Lexicon/H3401-3500#H3490|of the fatherless ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 23 - 11
 [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1301-1400#H1350|their Redeemer]] [[Lexicon/H2301-2400#H2389|is strong ;]] [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H7301-7400#H7378|will take up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7379|their case]] [[Lexicon/H801-900#H854|against you.]]

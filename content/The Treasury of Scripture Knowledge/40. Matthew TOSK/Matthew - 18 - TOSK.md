@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Matthew 18 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 17 - TOSK|← Ch 17]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 19 - TOSK|Ch 19 →]]
+=======
+**[[Home/Indexes/Readable Bible/40 - Matthew|← Matthew]]** | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 17 - TOSK|← Ch 17]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 19 - TOSK|Ch 19 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Luke 12 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 13 - TOSK|Ch 13 →]]
+=======
+**[[Home/Indexes/Readable Bible/42 - Luke|← Luke]]** | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/42. Luke TOSK/Luke - 13 - TOSK|Ch 13 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

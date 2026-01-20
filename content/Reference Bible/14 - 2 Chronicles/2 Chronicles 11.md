@@ -57,13 +57,21 @@ Book: 2 Chronicles
 [[Lexicon/H5901-6000#H5975|And Jeroboam appointed]] [[Lexicon/H3501-3600#H3548|priests]] [[Lexicon/H1101-1200#H1116|for the high places]] [[Lexicon/H8101-8200#H8163|and for the goat demons]] [[Lexicon/H5601-5700#H5695|and calf idols]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6201-6300#H6213|he had made.]]
 
 ##### 2 Chronicles 11 - 16
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|Those from every]] [[Lexicon/H7601-7700#H7626|tribe]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H5401-5500#H5414|who had set]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3824|their hearts]] [[Lexicon/H1201-1300#H1245|to seek]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3401-3500#H3478|their]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H301-400#H310|vvv]] [[Lexicon/H901-1000#H935|followed [the Levites]]] [[Lexicon/H3301-3400#H3389|to Jerusalem]] [[Lexicon/H2001-2100#H2076|to sacrifice]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H1-100#H1|of their fathers.]]
+=======
+[[Lexicon/H3601-3700#H3605|Those from every]] [[Lexicon/H7601-7700#H7626|tribe]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H5401-5500#H5414|who had set]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3824|their hearts]] [[Lexicon/H1201-1300#H1245|to seek]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3401-3500#H3478|their]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H301-400#H310|vvv]] [[Lexicon/H901-1000#H935|followed (the Levites)]] [[Lexicon/H3301-3400#H3389|to Jerusalem]] [[Lexicon/H2001-2100#H2076|to sacrifice]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H1-100#H1|of their fathers.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 2 Chronicles 11 - 17
 [[Lexicon/H2301-2400#H2388|So they strengthened]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4401-4500#H4438|the kingdom]] [[Lexicon/H3001-3100#H3063|of Judah]] [[Lexicon/H501-600#H553|and supported]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7346|Rehoboam]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H8001-8100#H8010|of Solomon]] [[Lexicon/H7901-8000#H7969|for three]] [[Lexicon/H8101-8200#H8141|years ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1980|they walked]] [[Lexicon/H7901-8000#H7969|for three]] [[Lexicon/H8101-8200#H8141|years]] [[Lexicon/H1801-1900#H1870|in the way]] [[Lexicon/H1701-1800#H1732|of David]] [[Lexicon/H8001-8100#H8010|and Solomon.]]
 
 ##### 2 Chronicles 11 - 18
+<<<<<<< HEAD
 [[Lexicon/H7301-7400#H7346|And Rehoboam]] [[Lexicon/H3901-4000#H3947|married]] [[Lexicon/H801-900#H802|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4258|Mahalath ,]] [[Lexicon/H1101-1200#H1121|[who was] the daughter]] [[Lexicon/H1701-1800#H1732|of David’s]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H3401-3500#H3406|Jerimoth]] [[Lexicon/H1-100#H32|and of Abihail ,]] [[Lexicon/H1301-1400#H1323|the daughter]] [[Lexicon/H3401-3500#H3448|of Jesse’s]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H401-500#H446|Eliab.]]
+=======
+[[Lexicon/H7301-7400#H7346|And Rehoboam]] [[Lexicon/H3901-4000#H3947|married]] [[Lexicon/H801-900#H802|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4201-4300#H4258|Mahalath ,]] [[Lexicon/H1101-1200#H1121|(who was) the daughter]] [[Lexicon/H1701-1800#H1732|of David’s]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H3401-3500#H3406|Jerimoth]] [[Lexicon/H1-100#H32|and of Abihail ,]] [[Lexicon/H1301-1400#H1323|the daughter]] [[Lexicon/H3401-3500#H3448|of Jesse’s]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H401-500#H446|Eliab.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 2 Chronicles 11 - 19
 [[Lexicon/H3201-3300#H3205|She bore]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3266|Jeush ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8101-8200#H8114|Shemariah ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2093|and Zaham.]]

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Numbers-R 27
 
 **[[Home/Scripture/04 - Numbers|Numbers]]**
 
 [[Readable Bible/04 - Numbers/Numbers 26#Numbers-R 26| Numbers 26]] - [[Readable Bible/04 - Numbers/Numbers 28#Numbers-R 28| Numbers 28]] 
+=======
+# Numbers 27
+
+[[Readable Bible/04 - Numbers/Numbers 26|Numbers 26]] | [[Readable Bible/04 - Numbers/Numbers 28|Numbers 28]] 
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

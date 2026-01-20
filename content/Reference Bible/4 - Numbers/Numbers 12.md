@@ -33,11 +33,19 @@ Chapter: "12"
 | [[LXX Reference/4 - Numbers/Numbers 12#Numbers 12 - 5|LXX]] |
 
 ##### Numbers 12 - 6
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|He said ,]] [[Lexicon/H8001-8100#H8085|“ Hear]] [[Lexicon/H4901-5000#H4994|now]] [[Lexicon/H1601-1700#H1697|My words :]] [[Lexicon/H501-600#H518|If]] [[Lexicon/H1901-2000#H1961|there is]] [[Lexicon/H5001-5100#H5030|a prophet [among you] ,]] [[Lexicon/H3001-3100#H3068|[I], the LORD ,]] [[Lexicon/H3001-3100#H3045|will reveal Myself]] [[Lexicon/H401-500#H413|to him]] [[Lexicon/H4701-4800#H4759|in a vision ;]] [[Lexicon/H1601-1700#H1696|I will speak]] [[Lexicon/H2401-2500#H2472|in a dream.]]
 | [[LXX Reference/4 - Numbers/Numbers 12#Numbers 12 - 6|LXX]] |
 
 ##### Numbers 12 - 7
 [[Lexicon/H3801-3900#H3808|[But this is] not]] [[Lexicon/H3601-3700#H3651|so]] [[Lexicon/H5601-5700#H5650|with My servant]] [[Lexicon/H4801-4900#H4872|Moses ;]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H501-600#H539|is faithful]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H1001-1100#H1004|My house.]]
+=======
+[[Lexicon/H501-600#H559|He said ,]] [[Lexicon/H8001-8100#H8085|“ Hear]] [[Lexicon/H4901-5000#H4994|now]] [[Lexicon/H1601-1700#H1697|My words :]] [[Lexicon/H501-600#H518|If]] [[Lexicon/H1901-2000#H1961|there is]] [[Lexicon/H5001-5100#H5030|a prophet (among you) ,]] [[Lexicon/H3001-3100#H3068|(I), the LORD ,]] [[Lexicon/H3001-3100#H3045|will reveal Myself]] [[Lexicon/H401-500#H413|to him]] [[Lexicon/H4701-4800#H4759|in a vision ;]] [[Lexicon/H1601-1700#H1696|I will speak]] [[Lexicon/H2401-2500#H2472|in a dream.]]
+| [[LXX Reference/4 - Numbers/Numbers 12#Numbers 12 - 6|LXX]] |
+
+##### Numbers 12 - 7
+[[Lexicon/H3801-3900#H3808|(But this is) not]] [[Lexicon/H3601-3700#H3651|so]] [[Lexicon/H5601-5700#H5650|with My servant]] [[Lexicon/H4801-4900#H4872|Moses ;]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H501-600#H539|is faithful]] [[Lexicon/H3601-3700#H3605|in all]] [[Lexicon/H1001-1100#H1004|My house.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 12#Numbers 12 - 7|LXX]] |
 
 ##### Numbers 12 - 8
@@ -49,7 +57,11 @@ Chapter: "12"
 | [[LXX Reference/4 - Numbers/Numbers 12#Numbers 12 - 9|LXX]] |
 
 ##### Numbers 12 - 10
+<<<<<<< HEAD
 [[Lexicon/H6001-6100#H6051|As the cloud]] [[Lexicon/H5401-5500#H5493|lifted]] [[Lexicon/H5901-6000#H5921|from above]] [[Lexicon/H101-200#H168|the Tent ,]] [[Lexicon/H2001-2100#H2009|suddenly]] [[Lexicon/H4801-4900#H4813|Miriam]] [[Lexicon/H6801-6900#H6879|[became] leprous ,]] [[Lexicon/H7901-8000#H7950|[white] as snow.]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H6401-6500#H6437|turned]] [[Lexicon/H401-500#H413|toward]] [[Lexicon/H4801-4900#H4813|her ,]] [[Lexicon/H2001-2100#H2009|saw that]] [[Lexicon/H6801-6900#H6879|she [was] leprous ,]]
+=======
+[[Lexicon/H6001-6100#H6051|As the cloud]] [[Lexicon/H5401-5500#H5493|lifted]] [[Lexicon/H5901-6000#H5921|from above]] [[Lexicon/H101-200#H168|the Tent ,]] [[Lexicon/H2001-2100#H2009|suddenly]] [[Lexicon/H4801-4900#H4813|Miriam]] [[Lexicon/H6801-6900#H6879|(became) leprous ,]] [[Lexicon/H7901-8000#H7950|(white) as snow.]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H6401-6500#H6437|turned]] [[Lexicon/H401-500#H413|toward]] [[Lexicon/H4801-4900#H4813|her ,]] [[Lexicon/H2001-2100#H2009|saw that]] [[Lexicon/H6801-6900#H6879|she (was) leprous ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 12#Numbers 12 - 10|LXX]] |
 
 ##### Numbers 12 - 11
@@ -69,7 +81,11 @@ Chapter: "12"
 | [[LXX Reference/4 - Numbers/Numbers 12#Numbers 12 - 14|LXX]] |
 
 ##### Numbers 12 - 15
+<<<<<<< HEAD
 [[Lexicon/H4801-4900#H4813|So Miriam]] [[Lexicon/H5401-5500#H5462|was confined]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H4201-4300#H4264|the camp]] [[Lexicon/H7601-7700#H7651|for seven]] [[Lexicon/H3101-3200#H3117|days ,]] [[Lexicon/H5901-6000#H5971|and the people]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H5201-5300#H5265|move on]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H4801-4900#H4813|[she]]] [[Lexicon/H601-700#H622|was brought in again.]]
+=======
+[[Lexicon/H4801-4900#H4813|So Miriam]] [[Lexicon/H5401-5500#H5462|was confined]] [[Lexicon/H2301-2400#H2351|outside]] [[Lexicon/H4201-4300#H4264|the camp]] [[Lexicon/H7601-7700#H7651|for seven]] [[Lexicon/H3101-3200#H3117|days ,]] [[Lexicon/H5901-6000#H5971|and the people]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H5201-5300#H5265|move on]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H4801-4900#H4813|(she)]] [[Lexicon/H601-700#H622|was brought in again.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 12#Numbers 12 - 15|LXX]] |
 
 ##### Numbers 12 - 16

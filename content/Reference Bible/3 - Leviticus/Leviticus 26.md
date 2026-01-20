@@ -12,7 +12,11 @@ Book: Leviticus
 ---
 
 ##### Leviticus 26 - 1
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|[“] You must not]] [[Lexicon/H6201-6300#H6213|make]] [[Lexicon/H401-500#H457|idols]] [[Lexicon/H6901-7000#H6965|or set up]] [[Lexicon/H6401-6500#H6459|a carved image]] [[Lexicon/H4601-4700#H4676|or sacred pillar ;]] [[Lexicon/H3801-3900#H3808|you must not]] [[Lexicon/H5401-5500#H5414|place]] [[Lexicon/H4901-5000#H4906|a sculpted]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H1-100#H68|stone]] [[Lexicon/H701-800#H776|in your land]] [[Lexicon/H7801-7900#H7812|to bow down]] [[Lexicon/H5901-6000#H5921|to it.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God.]]
+=======
+[[Lexicon/H3801-3900#H3808|(“) You must not]] [[Lexicon/H6201-6300#H6213|make]] [[Lexicon/H401-500#H457|idols]] [[Lexicon/H6901-7000#H6965|or set up]] [[Lexicon/H6401-6500#H6459|a carved image]] [[Lexicon/H4601-4700#H4676|or sacred pillar ;]] [[Lexicon/H3801-3900#H3808|you must not]] [[Lexicon/H5401-5500#H5414|place]] [[Lexicon/H4901-5000#H4906|a sculpted]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H1-100#H68|stone]] [[Lexicon/H701-800#H776|in your land]] [[Lexicon/H7801-7900#H7812|to bow down]] [[Lexicon/H5901-6000#H5921|to it.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD]] [[Lexicon/H401-500#H430|your God.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 26#Leviticus 26 - 1|LXX]] |
 
 ##### Leviticus 26 - 2
@@ -124,7 +128,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 26#Leviticus 26 - 28|LXX]] |
 
 ##### Leviticus 26 - 29
+<<<<<<< HEAD
 [[Lexicon/H301-400#H398|You will eat]] [[Lexicon/H1301-1400#H1320|the flesh]] [[Lexicon/H1101-1200#H1121|of your own sons]] [[Lexicon/H301-400#H398|-]] [[Lexicon/H1301-1400#H1320|[and]]] [[Lexicon/H1301-1400#H1323|daughters.]]
+=======
+[[Lexicon/H301-400#H398|You will eat]] [[Lexicon/H1301-1400#H1320|the flesh]] [[Lexicon/H1101-1200#H1121|of your own sons]] [[Lexicon/H301-400#H398|-]] [[Lexicon/H1301-1400#H1320|(and)]] [[Lexicon/H1301-1400#H1323|daughters.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 26#Leviticus 26 - 29|LXX]] |
 
 ##### Leviticus 26 - 30
@@ -148,7 +156,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 26#Leviticus 26 - 34|LXX]] |
 
 ##### Leviticus 26 - 35
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|As long as]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H8001-8100#H8074|it lies desolate ,]] [[Lexicon/H7601-7700#H7673|[the land] will have the rest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3801-3900#H3808|it did not]] [[Lexicon/H7601-7700#H7673|receive]] [[Lexicon/H7601-7700#H7676|during the Sabbaths]] [[Lexicon/H3401-3500#H3427|when you lived]] [[Lexicon/H5901-6000#H5921|in it.]]
+=======
+[[Lexicon/H3601-3700#H3605|As long as]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H8001-8100#H8074|it lies desolate ,]] [[Lexicon/H7601-7700#H7673|(the land) will have the rest]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3801-3900#H3808|it did not]] [[Lexicon/H7601-7700#H7673|receive]] [[Lexicon/H7601-7700#H7676|during the Sabbaths]] [[Lexicon/H3401-3500#H3427|when you lived]] [[Lexicon/H5901-6000#H5921|in it.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 26#Leviticus 26 - 35|LXX]] |
 
 ##### Leviticus 26 - 36
@@ -168,7 +180,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 26#Leviticus 26 - 39|LXX]] |
 
 ##### Leviticus 26 - 40
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3034|But if they will confess]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5701-5800#H5771|their iniquity]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5701-5800#H5771|and [that]]] [[Lexicon/H1-100#H1|of their fathers]] [[Lexicon/H4601-4700#H4604|in the unfaithfulness]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H4601-4700#H4603|they practiced]] [[Lexicon/H801-900#H834|by which]] [[Lexicon/H601-700#H637|vvv]] [[Lexicon/H1901-2000#H1980|they have also walked]] [[Lexicon/H7101-7200#H7147|in hostility]] [[Lexicon/H5901-6000#H5973|toward Me —]]
+=======
+[[Lexicon/H3001-3100#H3034|But if they will confess]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5701-5800#H5771|their iniquity]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5701-5800#H5771|and (that)]] [[Lexicon/H1-100#H1|of their fathers]] [[Lexicon/H4601-4700#H4604|in the unfaithfulness]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H4601-4700#H4603|they practiced]] [[Lexicon/H801-900#H834|by which]] [[Lexicon/H601-700#H637|vvv]] [[Lexicon/H1901-2000#H1980|they have also walked]] [[Lexicon/H7101-7200#H7147|in hostility]] [[Lexicon/H5901-6000#H5973|toward Me —]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 26#Leviticus 26 - 40|LXX]] |
 
 ##### Leviticus 26 - 41

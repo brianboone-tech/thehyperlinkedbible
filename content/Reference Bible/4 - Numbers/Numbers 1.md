@@ -13,7 +13,11 @@ Chapter: "1"
 ---
 
 ##### Numbers 1 - 1
+<<<<<<< HEAD
 [[Lexicon/H201-300#H259|On the first]] [[Lexicon/H8101-8200#H8145|day of the second]] [[Lexicon/H2301-2400#H2320|month]] [[Lexicon/H8101-8200#H8145|of the second]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H3301-3400#H3318|after [the Israelites] had come out]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|spoke]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H101-200#H168|in the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H4001-4100#H4057|in the Wilderness]] [[Lexicon/H5501-5600#H5514|of Sinai.]] [[Lexicon/H501-600#H559|He said :]]
+=======
+[[Lexicon/H201-300#H259|On the first]] [[Lexicon/H8101-8200#H8145|day of the second]] [[Lexicon/H2301-2400#H2320|month]] [[Lexicon/H8101-8200#H8145|of the second]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H3301-3400#H3318|after (the Israelites) had come out]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H4701-4800#H4714|of Egypt ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H1601-1700#H1696|spoke]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H101-200#H168|in the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H4001-4100#H4057|in the Wilderness]] [[Lexicon/H5501-5600#H5514|of Sinai.]] [[Lexicon/H501-600#H559|He said :]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 1#Numbers 1 - 1|LXX]] |
 
 ##### Numbers 1 - 2
@@ -29,7 +33,11 @@ Chapter: "1"
 | [[LXX Reference/4 - Numbers/Numbers 1#Numbers 1 - 4|LXX]] |
 
 ##### Numbers 1 - 5
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|These]] [[Lexicon/H8001-8100#H8034|are the names]] [[Lexicon/H501-600#H582|of the men]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H5901-6000#H5975|are to assist]] [[Lexicon/H801-900#H854|you :]] [[Lexicon/H7201-7300#H7205|From [the tribe of] Reuben ,]] [[Lexicon/H401-500#H468|Elizur]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H7701-7800#H7707|of Shedeur ;]]
+=======
+[[Lexicon/H401-500#H428|These]] [[Lexicon/H8001-8100#H8034|are the names]] [[Lexicon/H501-600#H582|of the men]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H5901-6000#H5975|are to assist]] [[Lexicon/H801-900#H854|you :]] [[Lexicon/H7201-7300#H7205|From (the tribe of) Reuben ,]] [[Lexicon/H401-500#H468|Elizur]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H7701-7800#H7707|of Shedeur ;]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 1#Numbers 1 - 5|LXX]] |
 
 ##### Numbers 1 - 6
@@ -69,11 +77,19 @@ Chapter: "1"
 | [[LXX Reference/4 - Numbers/Numbers 1#Numbers 1 - 14|LXX]] |
 
 ##### Numbers 1 - 15
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5321|[and] from Naphtali ,]] [[Lexicon/H201-300#H299|Ahira]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H5801-5900#H5881|of Enan. ”]]
 | [[LXX Reference/4 - Numbers/Numbers 1#Numbers 1 - 15|LXX]] |
 
 ##### Numbers 1 - 16
 [[Lexicon/H401-500#H428|These men]] [[Lexicon/H7101-7200#H7148|were appointed]] [[Lexicon/H5701-5800#H5712|from the congregation ;]] [[Lexicon/H1901-2000#H1992|they [were]]] [[Lexicon/H5301-5400#H5387|the leaders]] [[Lexicon/H4201-4300#H4294|of the tribes]] [[Lexicon/H1-100#H1|of their fathers ,]] [[Lexicon/H7201-7300#H7218|the heads]] [[Lexicon/H501-600#H505|of the clans]] [[Lexicon/H3401-3500#H3478|of Israel.]]
+=======
+[[Lexicon/H5301-5400#H5321|(and) from Naphtali ,]] [[Lexicon/H201-300#H299|Ahira]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H5801-5900#H5881|of Enan. ”]]
+| [[LXX Reference/4 - Numbers/Numbers 1#Numbers 1 - 15|LXX]] |
+
+##### Numbers 1 - 16
+[[Lexicon/H401-500#H428|These men]] [[Lexicon/H7101-7200#H7148|were appointed]] [[Lexicon/H5701-5800#H5712|from the congregation ;]] [[Lexicon/H1901-2000#H1992|they (were)]] [[Lexicon/H5301-5400#H5387|the leaders]] [[Lexicon/H4201-4300#H4294|of the tribes]] [[Lexicon/H1-100#H1|of their fathers ,]] [[Lexicon/H7201-7300#H7218|the heads]] [[Lexicon/H501-600#H505|of the clans]] [[Lexicon/H3401-3500#H3478|of Israel.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 1#Numbers 1 - 16|LXX]] |
 
 ##### Numbers 1 - 17
@@ -85,7 +101,11 @@ Chapter: "1"
 | [[LXX Reference/4 - Numbers/Numbers 1#Numbers 1 - 18|LXX]] |
 
 ##### Numbers 1 - 19
+<<<<<<< HEAD
 [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H4801-4900#H4872|Moses.]] [[Lexicon/H6401-6500#H6485|So [Moses] numbered them]] [[Lexicon/H4001-4100#H4057|in the Wilderness]] [[Lexicon/H5501-5600#H5514|of Sinai :]]
+=======
+[[Lexicon/H801-900#H834|just as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H4801-4900#H4872|Moses.]] [[Lexicon/H6401-6500#H6485|So (Moses) numbered them]] [[Lexicon/H4001-4100#H4057|in the Wilderness]] [[Lexicon/H5501-5600#H5514|of Sinai :]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 1#Numbers 1 - 19|LXX]] |
 
 ##### Numbers 1 - 20

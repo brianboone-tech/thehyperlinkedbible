@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Acts 6 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 7 - TOSK|Ch 7 →]]
+=======
+**[[Home/Indexes/Readable Bible/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 5 - TOSK|← Ch 5]] | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 7 - TOSK|Ch 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

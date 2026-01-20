@@ -7,7 +7,11 @@ Testament: Old
 
 # 1 Chronicles 29
 
+<<<<<<< HEAD
 [[LXX Reference/13 - 1 Chronicles/1 Chronicles 28|←]] • [[LXX Reference/13 - 1 Chronicles/1 Chronicles 30|→]]
+=======
+[[LXX Reference/13 - 1 Chronicles/1 Chronicles 28|←]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -54,13 +58,21 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5001-5100#G5100|who]] [[Lexicon/G1501-1600#G1510|am]] [[Lexicon/G1401-1500#G1473|I,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5100|what is]] [[Lexicon/G2901-3000#G2992|my people,]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G2401-2500#G2480|we were strong]] [[Lexicon/G1501-1600#G1594|to volunteer]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G3701-3800#G3779|thus?]] [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4601-4700#G4674| are yours]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G3501-3600#G3588|your things]] [[Lexicon/G1301-1400#G1325|we give]] [[Lexicon/G1401-1500#G1473|to you.]]
 
 #### 1 Chronicles 29 - 15
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3901-4000#G3941|we are sojourners]] [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3941|sojourners]] [[Lexicon/G2501-2600#G2531|as]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3901-4000#G3962|our fathers,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|are as]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|there is no]] [[Lexicon/G5201-5300#G5281|waiting.]]
+=======
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3901-4000#G3941|we are sojourners]] [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3941|sojourners]] [[Lexicon/G2501-2600#G2531|as]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3901-4000#G3962|our fathers,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|are as]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|there is no]] [[Lexicon/G5201-5300#G5281|waiting.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Chronicles 29 - 16
 [[Lexicon/G2901-3000#G2962|O lord]] [[Lexicon/G2301-2400#G2316|our God,]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4101-4200#G4128|this abundance]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G2001-2100#G2090|we prepared]] [[Lexicon/G1401-1500#G1473|for you]] [[Lexicon/G3601-3700#G3618|to build]] [[Lexicon/G3601-3700#G3624|a house]] [[Lexicon/G3601-3700#G3686|your name]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1-100#G0039|holy name,]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4601-4700#G4674|yours]]
 
 #### 1 Chronicles 29 - 17
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1097|I know,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2001-2100#G2082|examining]] [[Lexicon/G2501-2600#G2588|hearts,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0025|loving]] [[Lexicon/G1301-1400#G1343|righteousness.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G501-600#G0572|singleness]] [[Lexicon/G2501-2600#G2588|of heart]] [[Lexicon/G1501-1600#G1594|volunteered]] [[Lexicon/G3701-3800#G3778|all these things.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3568|now,]] [[Lexicon/G2901-3000#G2992|your people,]] [[Lexicon/G2101-2200#G2147|being found]] [[Lexicon/G5601-5700#G5602|here,]] [[Lexicon/G1401-1500#G1492|see]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G2101-2200#G2167|gladness,]] [[Lexicon/G1501-1600#G1594|volunteering]] [[Lexicon/G1401-1500#G1473|to you.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1097|I know,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2001-2100#G2082|examining]] [[Lexicon/G2501-2600#G2588|hearts,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0025|loving]] [[Lexicon/G1301-1400#G1343|righteousness.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G501-600#G0572|singleness]] [[Lexicon/G2501-2600#G2588|of heart]] [[Lexicon/G1501-1600#G1594|volunteered]] [[Lexicon/G3701-3800#G3778|all these things.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3568|now,]] [[Lexicon/G2901-3000#G2992|your people,]] [[Lexicon/G2101-2200#G2147|being found]] [[Lexicon/G5601-5624#G5602|here,]] [[Lexicon/G1401-1500#G1492|see]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G2101-2200#G2167|gladness,]] [[Lexicon/G1501-1600#G1594|volunteering]] [[Lexicon/G1401-1500#G1473|to you.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Chronicles 29 - 18
 [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G2301-2400#G2316|God]] of Abraham, [[Lexicon/G2501-2600#G2532|and]] Isaac, [[Lexicon/G2501-2600#G2532|and]] Israel, [[Lexicon/G3501-3600#G3588|of the one]] [[Lexicon/G3901-4000#G3962|of our fathers,]] [[Lexicon/G5401-5500#G5442|keep]] [[Lexicon/G1401-1500#G1473|of them]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4110|thing shaped]] [[Lexicon/G2501-2600#G2588|of the heart]] [[Lexicon/G2901-3000#G2992|of your people]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2720|straighten out]] [[Lexicon/G2501-2600#G2588|their hearts]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you!]]

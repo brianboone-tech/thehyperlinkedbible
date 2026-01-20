@@ -5,12 +5,18 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Proverbs-R 6
 
 **[[Home/Scripture/20 - Proverbs|Proverbs]]**
 
 
 [[Readable Bible/20 - Proverbs/Proverbs 5#Proverbs-R 5| Proverbs 5]] - [[Readable Bible/20 - Proverbs/Proverbs 7#Proverbs-R 7| Proverbs 7]]
+=======
+# Proverbs 6
+
+[[Readable Bible/20 - Proverbs/Proverbs 5|← Proverbs 5]] | [[Readable Bible/20 - Proverbs/Proverbs 7|Proverbs 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -117,4 +123,8 @@ cssClasses: lexicon
 [[Reference Bible/20 - Proverbs/Proverbs 6#Proverbs 6 - 34|34]] For jealousy enrages a husband, and he will show no mercy in the day of vengeance.  | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 6 - TOSK#Verse 34|TOSK]] |
 
 ##### Proverbs 6 . 35
+<<<<<<< HEAD
 [[Reference Bible/20 - Proverbs/Proverbs 6#Proverbs 6 - 35|35]] He will not be appeased by any ransom, or persuaded by lavish gifts.  | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 6 - TOSK#Verse 35|TOSK]] | 
+=======
+[[Reference Bible/20 - Proverbs/Proverbs 6#Proverbs 6 - 35|35]] He will not be appeased by any ransom, or persuaded by lavish gifts.  | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 6 - TOSK#Verse 35|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

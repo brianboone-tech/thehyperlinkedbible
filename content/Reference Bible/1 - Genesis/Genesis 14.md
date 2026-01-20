@@ -21,7 +21,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 2|LXX]] |
 
 ##### Genesis 14 - 3
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|The latter]] [[Lexicon/H3601-3700#H3605|[five]]] [[Lexicon/H2201-2300#H2266|came as allies]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6001-6100#H6010|the Valley]] [[Lexicon/H7701-7800#H7708|of Siddim]] [[Lexicon/H1901-2000#H1931|(that is ,]] [[Lexicon/H4401-4500#H4417|the Salt]] [[Lexicon/H3201-3300#H3220|Sea ).]]
+=======
+[[Lexicon/H401-500#H428|The latter]] [[Lexicon/H3601-3700#H3605|(five)]] [[Lexicon/H2201-2300#H2266|came as allies]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H6001-6100#H6010|the Valley]] [[Lexicon/H7701-7800#H7708|of Siddim]] [[Lexicon/H1901-2000#H1931|(that is ,]] [[Lexicon/H4401-4500#H4417|the Salt]] [[Lexicon/H3201-3300#H3220|Sea ).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 3|LXX]] |
 
 ##### Genesis 14 - 4
@@ -33,7 +37,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 5|LXX]] |
 
 ##### Genesis 14 - 6
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|and]] [[Lexicon/H2701-2800#H2752|the Horites]] [[Lexicon/H2001-2100#H2022|in [the area of] Mount]] [[Lexicon/H8101-8200#H8165|Seir ,]] [[Lexicon/H5701-5800#H5704|as far as]] [[Lexicon/H301-400#H364|vvv]] [[Lexicon/H301-400#H364|El-paran ,]] [[Lexicon/H801-900#H834|which [is]]] [[Lexicon/H5901-6000#H5921|near]] [[Lexicon/H4001-4100#H4057|the desert.]]
+=======
+[[Lexicon/H801-900#H853|and]] [[Lexicon/H2701-2800#H2752|the Horites]] [[Lexicon/H2001-2100#H2022|in (the area of) Mount]] [[Lexicon/H8101-8200#H8165|Seir ,]] [[Lexicon/H5701-5800#H5704|as far as]] [[Lexicon/H301-400#H364|vvv]] [[Lexicon/H301-400#H364|El-paran ,]] [[Lexicon/H801-900#H834|which (is)]] [[Lexicon/H5901-6000#H5921|near]] [[Lexicon/H4001-4100#H4057|the desert.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 6|LXX]] |
 
 ##### Genesis 14 - 7
@@ -49,6 +57,7 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 9|LXX]] |
 
 ##### Genesis 14 - 10
+<<<<<<< HEAD
 [[Lexicon/H6001-6100#H6010|Now the Valley]] [[Lexicon/H7701-7800#H7708|of Siddim]] [[Lexicon/H2501-2600#H2564|was full of tar]] [[Lexicon/H801-900#H875|pits]] [[Lexicon/H801-900#H875|... ,]] [[Lexicon/H4401-4500#H4428|and as the kings]] [[Lexicon/H5401-5500#H5467|of Sodom]] [[Lexicon/H6001-6100#H6017|and Gomorrah]] [[Lexicon/H5101-5200#H5127|fled ,]] [[Lexicon/H5301-5400#H5307|some men fell]] [[Lexicon/H8001-8100#H8033|into [the pits] ,]] [[Lexicon/H7601-7700#H7604|but the survivors]] [[Lexicon/H5101-5200#H5127|fled]] [[Lexicon/H2001-2100#H2022|to the hill country.]]
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 10|LXX]] |
 
@@ -62,6 +71,21 @@ Testament: Old
 
 ##### Genesis 14 - 13
 [[Lexicon/H6401-6500#H6412|Then an escapee]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H5001-5100#H5046|and reported [this]]] [[Lexicon/H1-100#H87|to Abram]] [[Lexicon/H5601-5700#H5680|the Hebrew.]] [[Lexicon/H1901-2000#H1931|Now [Abram]]] [[Lexicon/H7901-8000#H7931|was living]] [[Lexicon/H401-500#H436|near the Oaks]] [[Lexicon/H4401-4500#H4471|of Mamre]] [[Lexicon/H501-600#H567|the Amorite ,]] [[Lexicon/H201-300#H251|a brother]] [[Lexicon/H801-900#H812|of Eshcol]] [[Lexicon/H201-300#H251|[and]]] [[Lexicon/H6001-6100#H6063|Aner ,]] [[Lexicon/H1901-2000#H1992|all of whom]] [[Lexicon/H1101-1200#H1167|were bound]] [[Lexicon/H1201-1300#H1285|by treaty]] [[Lexicon/H1-100#H87|to Abram.]]
+=======
+[[Lexicon/H6001-6100#H6010|Now the Valley]] [[Lexicon/H7701-7800#H7708|of Siddim]] [[Lexicon/H2501-2600#H2564|was full of tar]] [[Lexicon/H801-900#H875|pits]] [[Lexicon/H801-900#H875|... ,]] [[Lexicon/H4401-4500#H4428|and as the kings]] [[Lexicon/H5401-5500#H5467|of Sodom]] [[Lexicon/H6001-6100#H6017|and Gomorrah]] [[Lexicon/H5101-5200#H5127|fled ,]] [[Lexicon/H5301-5400#H5307|some men fell]] [[Lexicon/H8001-8100#H8033|into (the pits) ,]] [[Lexicon/H7601-7700#H7604|but the survivors]] [[Lexicon/H5101-5200#H5127|fled]] [[Lexicon/H2001-2100#H2022|to the hill country.]]
+| [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 10|LXX]] |
+
+##### Genesis 14 - 11
+[[Lexicon/H3901-4000#H3947|The (four kings) seized]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H7301-7400#H7399|the goods]] [[Lexicon/H5401-5500#H5467|of Sodom]] [[Lexicon/H6001-6100#H6017|and Gomorrah]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H301-400#H400|their food ,]] [[Lexicon/H1901-2000#H1980|and they went on their way.]]
+| [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 11|LXX]] |
+
+##### Genesis 14 - 12
+[[Lexicon/H3901-4000#H3947|They also carried off]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1901-2000#H1980|-]] [[Lexicon/H1-100#H87|Abram’s]] [[Lexicon/H1101-1200#H1121|nephew]] [[Lexicon/H201-300#H251|...]] [[Lexicon/H3801-3900#H3876|Lot]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7399|and his possessions ,]] [[Lexicon/H1901-2000#H1931|since (Lot)]] [[Lexicon/H3401-3500#H3427|was living]] [[Lexicon/H5401-5500#H5467|in Sodom.]]
+| [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 12|LXX]] |
+
+##### Genesis 14 - 13
+[[Lexicon/H6401-6500#H6412|Then an escapee]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H5001-5100#H5046|and reported (this)]] [[Lexicon/H1-100#H87|to Abram]] [[Lexicon/H5601-5700#H5680|the Hebrew.]] [[Lexicon/H1901-2000#H1931|Now (Abram)]] [[Lexicon/H7901-8000#H7931|was living]] [[Lexicon/H401-500#H436|near the Oaks]] [[Lexicon/H4401-4500#H4471|of Mamre]] [[Lexicon/H501-600#H567|the Amorite ,]] [[Lexicon/H201-300#H251|a brother]] [[Lexicon/H801-900#H812|of Eshcol]] [[Lexicon/H201-300#H251|(and)]] [[Lexicon/H6001-6100#H6063|Aner ,]] [[Lexicon/H1901-2000#H1992|all of whom]] [[Lexicon/H1101-1200#H1167|were bound]] [[Lexicon/H1201-1300#H1285|by treaty]] [[Lexicon/H1-100#H87|to Abram.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 13|LXX]] |
 
 ##### Genesis 14 - 14
@@ -69,7 +93,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 14|LXX]] |
 
 ##### Genesis 14 - 15
+<<<<<<< HEAD
 [[Lexicon/H3901-4000#H3915|During the night ,]] [[Lexicon/H1901-2000#H1931|[Abram]]] [[Lexicon/H2501-2600#H2505|divided]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5601-5700#H5650|his forces]] [[Lexicon/H5201-5300#H5221|and routed [Chedorlaomer’s army] ,]] [[Lexicon/H7201-7300#H7291|pursuing them]] [[Lexicon/H5701-5800#H5704|as far as]] [[Lexicon/H2301-2400#H2327|Hobah ,]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8001-8100#H8040|north]] [[Lexicon/H1801-1900#H1834|of Damascus.]]
+=======
+[[Lexicon/H3901-4000#H3915|During the night ,]] [[Lexicon/H1901-2000#H1931|(Abram)]] [[Lexicon/H2501-2600#H2505|divided]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5601-5700#H5650|his forces]] [[Lexicon/H5201-5300#H5221|and routed (Chedorlaomer’s army) ,]] [[Lexicon/H7201-7300#H7291|pursuing them]] [[Lexicon/H5701-5800#H5704|as far as]] [[Lexicon/H2301-2400#H2327|Hobah ,]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8001-8100#H8040|north]] [[Lexicon/H1801-1900#H1834|of Damascus.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 15|LXX]] |
 
 ##### Genesis 14 - 16
@@ -85,7 +113,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 18|LXX]] |
 
 ##### Genesis 14 - 19
+<<<<<<< HEAD
 [[Lexicon/H1201-1300#H1288|and he blessed [Abram]]] [[Lexicon/H501-600#H559|and said :]] [[Lexicon/H1201-1300#H1288|“ Blessed be]] [[Lexicon/H1-100#H87|Abram]] [[Lexicon/H401-500#H410|by God]] [[Lexicon/H5901-6000#H5945|Most High ,]] [[Lexicon/H7001-7100#H7069|Creator]] [[Lexicon/H8001-8100#H8064|of heaven]] [[Lexicon/H701-800#H776|and earth ,]]
+=======
+[[Lexicon/H1201-1300#H1288|and he blessed (Abram)]] [[Lexicon/H501-600#H559|and said :]] [[Lexicon/H1201-1300#H1288|“ Blessed be]] [[Lexicon/H1-100#H87|Abram]] [[Lexicon/H401-500#H410|by God]] [[Lexicon/H5901-6000#H5945|Most High ,]] [[Lexicon/H7001-7100#H7069|Creator]] [[Lexicon/H8001-8100#H8064|of heaven]] [[Lexicon/H701-800#H776|and earth ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 14#Genesis 14 - 19|LXX]] |
 
 ##### Genesis 14 - 20

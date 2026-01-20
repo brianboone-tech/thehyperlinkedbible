@@ -22,7 +22,11 @@ cssClasses: lexicon
 [[Lexicon/H2001-2100#H2009|Behold ,]] [[Lexicon/H8101-8200#H8104|the Protector]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H3801-3900#H3808|will neither]] [[Lexicon/H5101-5200#H5123|slumber]] [[Lexicon/H3801-3900#H3808|nor]] [[Lexicon/H3401-3500#H3462|sleep.]]
 
 ##### Psalm 121 - 5
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H8101-8200#H8104|[is] your keeper ;]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6701-6800#H6738|[is] the shade]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H3201-3300#H3225|your right]] [[Lexicon/H3001-3100#H3027|hand.]]
+=======
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H8101-8200#H8104|(is) your keeper ;]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6701-6800#H6738|(is) the shade]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H3201-3300#H3225|your right]] [[Lexicon/H3001-3100#H3027|hand.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Psalm 121 - 6
 [[Lexicon/H8101-8200#H8121|The sun]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H5201-5300#H5221|strike]] [[Lexicon/H3101-3200#H3119|you by day ,]] [[Lexicon/H3301-3400#H3394|nor the moon]] [[Lexicon/H3901-4000#H3915|by night.]]

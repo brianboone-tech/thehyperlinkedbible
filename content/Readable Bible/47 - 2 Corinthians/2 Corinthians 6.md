@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Corinthians-R 6
 
 **[[Home/Scripture/47 - 2 Corinthians|2 Corinthians]]**
 
 [[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians-R 5| 2 Corinthians 5]] - [[Readable Bible/47 - 2 Corinthians/2 Corinthians 7#2 Corinthians-R 7| 2 Corinthians 7]]
+=======
+# 2 Corinthians 6
+
+[[Readable Bible/47 - 2 Corinthians/2 Corinthians 5|← 2 Corinthians 5]] | [[Readable Bible/47 - 2 Corinthians/2 Corinthians 7|2 Corinthians 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

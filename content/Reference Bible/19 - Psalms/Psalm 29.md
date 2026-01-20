@@ -45,11 +45,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 29#Psalm 29 - 2|LXX]] |
 
 ##### Psalm 29 - 3
+<<<<<<< HEAD
 [[Lexicon/H6901-7000#H6963|The voice]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H5901-6000#H5921|is over]] [[Lexicon/H4301-4400#H4325|the waters ;]] [[Lexicon/H401-500#H410|the God]] [[Lexicon/H3501-3600#H3519|of glory]] [[Lexicon/H7401-7500#H7481|thunders ;]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5901-6000#H5921|[is heard] over]] [[Lexicon/H7201-7300#H7227|many]] [[Lexicon/H4301-4400#H4325|waters.]]
 | [[LXX Reference/19 - Psalms/Psalms 29#Psalm 29 - 3|LXX]] |
 
 ##### Psalm 29 - 4
 [[Lexicon/H6901-7000#H6963|The voice]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H3501-3600#H3581|[is] powerful ;]] [[Lexicon/H6901-7000#H6963|the voice]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1901-2000#H1926|[is] majestic.]]
+=======
+[[Lexicon/H6901-7000#H6963|The voice]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H5901-6000#H5921|is over]] [[Lexicon/H4301-4400#H4325|the waters ;]] [[Lexicon/H401-500#H410|the God]] [[Lexicon/H3501-3600#H3519|of glory]] [[Lexicon/H7401-7500#H7481|thunders ;]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5901-6000#H5921|(is heard) over]] [[Lexicon/H7201-7300#H7227|many]] [[Lexicon/H4301-4400#H4325|waters.]]
+| [[LXX Reference/19 - Psalms/Psalms 29#Psalm 29 - 3|LXX]] |
+
+##### Psalm 29 - 4
+[[Lexicon/H6901-7000#H6963|The voice]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H3501-3600#H3581|(is) powerful ;]] [[Lexicon/H6901-7000#H6963|the voice]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1901-2000#H1926|(is) majestic.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 29#Psalm 29 - 4|LXX]] |
 
 ##### Psalm 29 - 5

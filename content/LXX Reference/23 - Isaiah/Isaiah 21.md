@@ -12,13 +12,21 @@ Testament: Old
 ---
 
 #### Isaiah 21 - 1
+<<<<<<< HEAD
 [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G3701-3800#G3705|vision]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2001-2100#G2048|wilderness.]] [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G2601-2700#G2616|a blast]] [[Lexicon/G1201-1300#G1223|through]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G2001-2100#G2064|coming]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G1001-1100#G1093|land;]]
+=======
+[[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G3701-3800#G3705|vision]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2001-2100#G2048|wilderness.]] [[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G2601-2700#G2616|a blast]] [[Lexicon/G1201-1300#G1223|through]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G2001-2100#G2064|coming]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G1001-1100#G1093|land;]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 21 - 2
 [[Lexicon/G5301-5400#G5398|so a fearful]] [[Lexicon/G3701-3800#G3705|vision]] [[Lexicon/G301-400#G0312|was announced]] [[Lexicon/G1401-1500#G1473|to me;]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0114|one disregarding]] [[Lexicon/G101-200#G0114|disregards;]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0457|one acting lawlessly]] [[Lexicon/G401-500#G0457|acts lawlessly.]] [[Lexicon/G1901-2000#G1909| are upon]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4201-4300#G4244|ambassadors]] [[Lexicon/G3501-3600#G3588|of the]] Persians [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G3501-3600#G3568|Now]] [[Lexicon/G4701-4800#G4727|I shall moan]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3801-3900#G3870|shall comfort]] [[Lexicon/G1601-1700#G1683|myself.]]
 
 #### Isaiah 21 - 3
+<<<<<<< HEAD
 [[Lexicon/G1201-1300#G1223|Because of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G1701-1800#G1705|was filled]] [[Lexicon/G1501-1600#G1589|with feebleness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5604|pangs]] [[Lexicon/G2901-3000#G2983|took]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5001-5100#G5088|one giving birth.]] [[Lexicon/G1-100#G0091|I transgressed]] [[Lexicon/G3301-3400#G3361|to not]] [[Lexicon/G101-200#G0191|hear,]] [[Lexicon/G4701-4800#G4704|I hurried]] [[Lexicon/G3301-3400#G3361|to not]] [[Lexicon/G901-1000#G0991|see.]]
+=======
+[[Lexicon/G1201-1300#G1223|Because of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G1701-1800#G1705|was filled]] [[Lexicon/G1501-1600#G1589|with feebleness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5604|pangs]] [[Lexicon/G2901-3000#G2983|took]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5001-5100#G5088|one giving birth.]] [[Lexicon/G1-100#G0091|I transgressed]] [[Lexicon/G3301-3400#G3361|to not]] [[Lexicon/G101-200#G0191|hear,]] [[Lexicon/G4701-4800#G4704|I hurried]] [[Lexicon/G3301-3400#G3361|to not]] [[Lexicon/G901-1000#G0991|see.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 21 - 4
 [[Lexicon/G2501-2600#G2588|My heart]] [[Lexicon/G4101-4200#G4105|wanders,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0458|lawlessness]] [[Lexicon/G1401-1500#G1473|immerses me;]] [[Lexicon/G5501-5600#G5590|my soul]] [[Lexicon/G2101-2200#G2186|attends]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G5401-5500#G5401|fear.]]
@@ -57,7 +65,11 @@ Testament: Old
 [[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4128|multitude]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2901-3000#G2932|ones being slain,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4128|multitude]] [[Lexicon/G3501-3600#G3588|of the ones]] [[Lexicon/G4101-4200#G4105|wandering,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4128|multitude]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3101-3200#G3162|swords,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4128|multitude]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5101-5200#G5114|bows]] [[Lexicon/G3501-3600#G3588|of the ones]] [[Lexicon/G1201-1300#G1299|being extended,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4128|multitude]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4001-4100#G4098|ones fallen]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4171|battle.]]
 
 #### Isaiah 21 - 16
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G2001-2100#G2089|Yet]] [[Lexicon/G1701-1800#G1763|a year,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3401-3500#G3411|of a hireling,]] [[Lexicon/G1501-1600#G1587|shall fail]]
+=======
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G2001-2100#G2089|Yet]] [[Lexicon/G1701-1800#G1763|a year,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3401-3500#G3411|of a hireling,]] [[Lexicon/G1501-1600#G1587|shall fail]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 21 - 17
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2601-2700#G2645|remnant]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5101-5200#G5114|bowmen]] [[Lexicon/G5201-5300#G5207|of the sons]] of Kedar [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G3601-3700#G3641|few.]] [[Lexicon/G1301-1400#G1360|For]] [[Lexicon/G2301-2400#G2316|God]] of Israel [[Lexicon/G2901-3000#G2980|spoke.]]

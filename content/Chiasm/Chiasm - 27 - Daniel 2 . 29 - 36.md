@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/27 - Daniel|← Daniel]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/27 - Daniel|← Daniel]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

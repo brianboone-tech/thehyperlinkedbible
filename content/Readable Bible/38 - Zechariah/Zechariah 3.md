@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Zechariah-R 3
 
 **[[Home/Scripture/38 - Zechariah|Zechariah]]**
 
 [[Readable Bible/38 - Zechariah/Zechariah 2#Zechariah-R 2| Zechariah 2]] - [[Readable Bible/38 - Zechariah/Zechariah 4#Zechariah-R 4| Zechariah 4]]
+=======
+# Zechariah 3
+
+[[Readable Bible/38 - Zechariah/Zechariah 2|← Zechariah 2]] | [[Readable Bible/38 - Zechariah/Zechariah 4|Zechariah 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## EPHOD (HIGH PRIEST'S GARMENT OF REPRESENTATION) TRAJECTORY TABLE
 
 
@@ -5,6 +13,7 @@ The ephod was a distinctive priestly vestment worn by the high priest, most nota
 
 **Type Classification**: Direct Type (divinely commanded institution) and Forward-Looking (contains textual indicators of representation and memorial before the LORD).
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Type - Divine Pattern** | **Key Text:**<br>[[Readable Bible/02 - Exodus/Exodus 28#Exodus 28 . 6\|Exodus 28:6-12]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/02 - Exodus 28.6-12\|Exodus 28:6-12]] | God commands Moses: "They are to make the ephod of finely spun linen embroidered with gold, and with blue, purple, and scarlet yarn" (v. 6). Two onyx stones engraved with the names of Israel's twelve tribes are mounted on the shoulder pieces: "Aaron is to bear their names on his two shoulders as a memorial before the LORD" (v. 12). The ephod establishes the principle of representative bearing—the high priest carries God's people into His presence. The shoulder signifies strength; names signify personal, individual representation. | **OT to OT:**<br>**CRITICAL:**<br>[[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 28.12 to Exodus 39.7\|Ex 28:12 to Ex 39:7]] |
@@ -20,6 +29,33 @@ The ephod was a distinctive priestly vestment worn by the high priest, most nota
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Type - Divine Pattern** | [[Readable Bible/02 - Exodus/Exodus 28#Exodus 28 . 6\|Exodus 28:6-12]] | God commands Moses: "They are to make the ephod of finely spun linen embroidered with gold, and with blue, purple, and scarlet yarn" (v. 6). Two onyx stones engraved with the names of Israel's twelve tribes are mounted on the shoulder pieces: "Aaron is to bear their names on his two shoulders as a memorial before the LORD" (v. 12). The ephod establishes the principle of representative bearing—the high priest carries God's people into His presence. The shoulder signifies strength; names signify personal, individual representation. **CRITICAL:** [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 28.12 to Exodus 39.7\|Ex 28:12 to Ex 39:7]] | [[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/02 - Exodus 28.6-12\|Exodus 28:6-12]] |
+| 2 | **OT Fulfillment - Ephod Constructed** | [[Readable Bible/02 - Exodus/Exodus 39#Exodus 39 . 2\|Exodus 39:2-7]] | Bezalel executes God's design: "He made the ephod of gold, of blue and purple and scarlet yarns, and of fine twined linen... And they set in it two onyx stones, enclosed in settings of gold filigree, engraved like the engraving of a signet, according to the names of the sons of Israel... to be stones of remembrance for the sons of Israel, as the LORD had commanded Moses" (vv. 6-7). The divine pattern becomes tangible reality—Aaron will now physically bear Israel's names before God. | [[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/02 - Exodus 39.2-7\|Exodus 39:2-7]] |
+| 3 | **OT Development - Priestly Service** | [[Readable Bible/02 - Exodus/Exodus 29#Exodus 29 . 5\|Exodus 29:5]] | At Aaron's consecration, Moses is commanded: "Take the garments and clothe Aaron with the tunic, the robe of the ephod, the ephod itself, and the breastplate. Fasten the ephod on him with its woven waistband" (v. 5). The ephod is essential to priestly consecration—Aaron cannot approach God or represent the people without bearing their names on his shoulders. The garment defines the office. | [[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/02 - Exodus 29.5\|Exodus 29:5]] |
+| 4 | **OT Misuse - Gideon's Ephod** | [[Readable Bible/07 - Judges/Judges 8#Judges 8 . 27\|Judges 8:27]] | After defeating Midian, Gideon makes an ephod from captured gold: "And Gideon made an ephod of it and put it in his city, in Ophrah. And all Israel whored after it there, and it became a snare to Gideon and to his family" (v. 27). The ephod, meant to represent God's people before Him, becomes an idol when divorced from its God-ordained context. This demonstrates that the ephod's significance derives from divine appointment, not the object itself. Only the Aaronic high priest may legitimately bear Israel before the LORD. | [[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/07 - Judges 8.27\|Judges 8:27]] |
+| 5 | **OT Development - Inquiry of the LORD** | [[Readable Bible/09 - 1 Samuel/1 Samuel 23#1 Samuel 23 . 9\|1 Samuel 23:9-12]] | When David learns of Saul's plot, he commands: "Bring the ephod here" (v. 9). Through Abiathar the priest wearing the ephod, David inquires of the LORD and receives divine guidance (vv. 11-12). The ephod becomes associated with seeking God's will—the high priest's representative role includes mediating divine revelation to God's people. Christ fulfills this as the One who perfectly reveals the Father's will. | [[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/09 - 1 Samuel 23.9-12\|1 Samuel 23:9-12]] |
+| 6 | **Prophetic Anticipation - Everlasting Arms** | [[Readable Bible/23 - Isaiah/Isaiah 63#Isaiah 63 . 9\|Isaiah 63:9]] | Isaiah prophesies: "In all their affliction he was afflicted, and the angel of his presence saved them; in his love and in his pity he redeemed them; he lifted them up and carried them all the days of old" (v. 9). The language of bearing and carrying echoes the ephod's symbolism—God Himself bears His people. The high priest's ephod pointed to this greater reality: the LORD carries His own. Christ incarnates this divine bearing, taking our nature upon His shoulders. | [[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/23 - Isaiah 63.9\|Isaiah 63:9]] |
+| 7 | **NT Fulfillment - Christ Bears His People** | [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 25\|Hebrews 7:25]] | Christ's superior priesthood is declared: "Consequently, he is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them" (v. 25). Where Aaron bore Israel's names on stones, Christ bears His elect in His very person—He "always lives" to intercede. His bearing is not symbolic but substantial, not temporary but eternal. The ephod's memorial stones pointed to Christ's perpetual intercession before the Father. | [[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/58 - Hebrews 7.25\|Hebrews 7:25]] |
+| 8 | **NT Fulfillment - Bearing Names Before the Father** | [[Readable Bible/43 - John/John 17#John 17 . 9\|John 17:9-11]] | In His high priestly prayer, Jesus declares: "I am praying for them. I am not praying for the world but for those whom you have given me, for they are yours... Holy Father, keep them in your name, which you have given me, that they may be one, even as we are one" (vv. 9, 11). Christ bears specific names before the Father—those the Father has given Him. Aaron bore twelve tribes; Christ bears the elect from every nation. The ephod's engraved stones find fulfillment in Christ's intercessory knowledge of His own sheep by name (John 10:3, 14). | [[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/43 - John 17.9-11\|John 17:9-11]] |
+| 9 | **NT Application - Believers as Royal Priesthood** | [[Readable Bible/60 - 1 Peter/1 Peter 2#1 Peter 2 . 9\|1 Peter 2:9]] | Peter applies priestly imagery to believers: "But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light" (v. 9). United to Christ the High Priest, believers share in His priestly status. Where Aaron bore Israel, Christ bears the church, and the church participates in bearing witness to the nations. The corporate priesthood fulfills what the ephod symbolized—God's people represented and representing. | [[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/60 - 1 Peter 2.9\|1 Peter 2:9]] |
+| 10 | **Eschatological Consummation - Christ's Eternal Priesthood** | [[Readable Bible/66 - Revelation/Revelation 1#Revelation 1 . 13\|Revelation 1:13]] | John beholds the glorified Christ: "And in the midst of the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest" (v. 13). The high priestly imagery continues in eternity—Christ appears in priestly attire, ministering among His churches. Aaron's ephod was temporary, worn during earthly service; Christ's priestly garments are eternal, displaying His perpetual intercession and representation of His people before the Father. The onyx stones bearing twelve names pointed to Christ who holds seven stars (the churches, v. 20) in His right hand—He bears His people not on shoulders but in His very grasp, secure forever. | [[Trajectory Tables - Foundation Texts/Ephod (High Priest's Garment of Representation)/66 - Revelation 1.13\|Revelation 1:13]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+
+**02 - Exodus**
+
+- [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 28.12 to Exodus 39.7\|Exodus 28:12 to Exodus 39:7]] - **CRITICAL:** Direct fulfillment connection! Exodus 28:12 commands that the ephod's shoulder stones shall be "stones of remembrance for the sons of Israel. And Aaron shall bear their names before the LORD on his two shoulders for remembrance." Exodus 39:7 reports the execution: "And he set them on the shoulder pieces of the ephod to be stones of remembrance for the sons of Israel, as the LORD had commanded Moses." This demonstrates the move from divine command to faithful execution—God's pattern becomes tangible reality. The repetition of "stones of remembrance" emphasizes the memorial function of the ephod, establishing that the high priest's primary role is representative bearing of God's people into His presence.
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 ### 1. What You Must Do

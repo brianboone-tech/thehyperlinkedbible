@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 2 Corinthians 12 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/47 - 2 Corinthians|← 2 Corinthians]]** | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 13 - TOSK|Ch 13 →]]
+=======
+**[[Home/Indexes/Readable Bible/47 - 2 Corinthians|← 2 Corinthians]]** | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 11 - TOSK|← Ch 11]] | [[The Treasury of Scripture Knowledge/47. 2 Corinthians TOSK/2 Corinthians - 13 - TOSK|Ch 13 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

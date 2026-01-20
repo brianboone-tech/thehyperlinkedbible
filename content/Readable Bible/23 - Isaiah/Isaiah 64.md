@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Isaiah-R 64
 
 **[[Home/Scripture/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 63#Isaiah-R 63| Isaiah 63]] - [[Readable Bible/23 - Isaiah/Isaiah 65#Isaiah-R 65| Isaiah 65]]
+=======
+# Isaiah 64
+
+[[Readable Bible/23 - Isaiah/Isaiah 63|← Isaiah 63]] | [[Readable Bible/23 - Isaiah/Isaiah 65|Isaiah 65 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

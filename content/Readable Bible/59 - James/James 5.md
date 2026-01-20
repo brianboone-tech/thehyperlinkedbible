@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # James-R 5
 
 **[[Home/Scripture/59 - James|James]]**
 
 [[Readable Bible/59 - James/James 4#James-R 4| James 4]]
+=======
+# James 5
+
+[[Readable Bible/59 - James/James 4|← James 4]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

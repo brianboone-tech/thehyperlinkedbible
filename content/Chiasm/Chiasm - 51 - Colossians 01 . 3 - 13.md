@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/51 - Colossians|← Colossians]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/51 - Colossians|← Colossians]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

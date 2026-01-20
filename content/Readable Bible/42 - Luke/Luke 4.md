@@ -5,12 +5,18 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Luke-R 4
 
 **[[Home/Scripture/42 - Luke|Luke]]**
 
 
 [[Readable Bible/42 - Luke/Luke 3#Luke-R 3| Luke 3]] - [[Readable Bible/42 - Luke/Luke 5#Luke-R 5| Luke 5]]
+=======
+# Luke 4
+
+[[Readable Bible/42 - Luke/Luke 3|← Luke 3]] | [[Readable Bible/42 - Luke/Luke 5|Luke 5 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

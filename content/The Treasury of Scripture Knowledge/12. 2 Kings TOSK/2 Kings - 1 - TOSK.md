@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 2 Kings 1 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 2 - TOSK|Ch 2 →]]
+=======
+**[[Home/Indexes/Readable Bible/12 - 2 Kings|← 2 Kings]]** | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 2 - TOSK|Ch 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

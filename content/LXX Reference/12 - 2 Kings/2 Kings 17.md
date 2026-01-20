@@ -15,7 +15,11 @@ Testament: Old
 of Ahaz [[Lexicon/G901-1000#G0935|king]] of Judah, [[Lexicon/G1701-1800#G1722|in]] Samaria [[Lexicon/G1901-2000#G1909|over]] Israel [[Lexicon/G1701-1800#G1767|for]] [[Lexicon/G2001-2100#G2094|years.]]
 
 #### 2 Kings 17 - 2
+<<<<<<< HEAD
 [[Lexicon/G4101-4200#G4160|he did]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4190|wicked thing]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3788|the]] [[Lexicon/G2901-3000#G2962|of the]] [[Lexicon/G4101-4200#G4133|only]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0935|kings]] of Israel [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G1501-1600#G1510|were]] [[Lexicon/G1701-1800#G1715|before]] [[Lexicon/G1401-1500#G1473|him.]]
+=======
+[[Lexicon/G4101-4200#G4160|he did]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4190|wicked thing]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3788|the]] [[Lexicon/G2901-3000#G2962|of the]] [[Lexicon/G4101-4200#G4133|only]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0935|kings]] of Israel [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G1501-1600#G1510|were]] [[Lexicon/G1701-1800#G1715|before]] [[Lexicon/G1401-1500#G1473|him.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 2 Kings 17 - 3
 [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G301-400#G0305|there ascended]] Shalmaneser [[Lexicon/G901-1000#G0935|king]] of the [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1401|as a servant,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5342|he bore]]
@@ -78,7 +82,11 @@ of Hoshea, Samaria, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0599|he
 [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G201-300#G0266|the]] of Jeroboam [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4101-4200#G4160|he did —]] [[Lexicon/G3701-3800#G3756|they did not]] [[Lexicon/G801-900#G0868|abstain]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|them;]]
 
 #### 2 Kings 17 - 23
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3739|of which time]] [[Lexicon/G3101-3200#G3179|the]] Israel [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4301-4400#G4383|his face,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2901-3000#G2980|the]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G5401-5500#G5495|the]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G1401-1500#G1401|his servants]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4396|prophets.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G501-600#G0599|Israel was resettled]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1001-1100#G1093|its land]] [[Lexicon/G1501-1600#G1519|into]] Assyria [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G2201-2300#G2250|this day.]]
+=======
+[[Lexicon/G3701-3800#G3739|of which time]] [[Lexicon/G3101-3200#G3179|the]] Israel [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4301-4400#G4383|his face,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2901-3000#G2980|the]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G5401-5500#G5495|the]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G1401-1500#G1401|his servants]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4396|prophets.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G501-600#G0599|Israel was resettled]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1001-1100#G1093|its land]] [[Lexicon/G1501-1600#G1519|into]] Assyria [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G2201-2300#G2250|this day.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 2 Kings 17 - 24
 [[Lexicon/G1501-1600#G1537|from out of]] Babylon [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G1501-1600#G1537|from out of]] Cuthah, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0575|from out of]] Ava, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0575|from out of]] Hamath, [[Lexicon/G2501-2600#G2532|and]] Sepharvaim, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2733|settled them]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4172|cities]] of Samaria [[Lexicon/G401-500#G0473|instead of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2801-2900#G2816|they inherited]] Samaria, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2733|they settled]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4172|its cities.]]

@@ -42,13 +42,21 @@ Book: 1 Samuel
 [[Lexicon/H8001-8100#H8050|So Samuel]] [[Lexicon/H801-900#H853|]] [[Lexicon/H501-600#H559|spoke]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1601-1700#H1697|the words]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H7501-7600#H7592|who were asking him for]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H4401-4500#H4428|a king.]]
 
 ##### 1 Samuel 8 - 11
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|He said ,]] [[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H4901-5000#H4941|the manner]] [[Lexicon/H4401-4500#H4428|of the king]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4401-4500#H4427|will reign]] [[Lexicon/H5901-6000#H5921|over you :]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|He will take]] [[Lexicon/H1101-1200#H1121|your sons]] [[Lexicon/H7701-7800#H7760|and appoint [them]]] [[Lexicon/H4801-4900#H4818|his own chariots]] [[Lexicon/H6501-6600#H6571|and horses ,]] [[Lexicon/H7301-7400#H7323|to run]] [[Lexicon/H6401-6500#H6440|in front of]] [[Lexicon/H4801-4900#H4818|his chariots.]]
+=======
+[[Lexicon/H501-600#H559|He said ,]] [[Lexicon/H2001-2100#H2088|“ This]] [[Lexicon/H1901-2000#H1961|will be]] [[Lexicon/H4901-5000#H4941|the manner]] [[Lexicon/H4401-4500#H4428|of the king]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4401-4500#H4427|will reign]] [[Lexicon/H5901-6000#H5921|over you :]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|He will take]] [[Lexicon/H1101-1200#H1121|your sons]] [[Lexicon/H7701-7800#H7760|and appoint (them)]] [[Lexicon/H4801-4900#H4818|his own chariots]] [[Lexicon/H6501-6600#H6571|and horses ,]] [[Lexicon/H7301-7400#H7323|to run]] [[Lexicon/H6401-6500#H6440|in front of]] [[Lexicon/H4801-4900#H4818|his chariots.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Samuel 8 - 12
 [[Lexicon/H7701-7800#H7760|He will appoint]] [[Lexicon/H8201-8300#H8269|as commanders]] [[Lexicon/H501-600#H505|of thousands]] [[Lexicon/H8201-8300#H8269|and of]] [[Lexicon/H2501-2600#H2572|fifties ,]] [[Lexicon/H2701-2800#H2790|and others to plow]] [[Lexicon/H2701-2800#H2758|his ground ,]] [[Lexicon/H7101-7200#H7114|to reap]] [[Lexicon/H7101-7200#H7105|his harvest ,]] [[Lexicon/H6201-6300#H6213|to make]] [[Lexicon/H3601-3700#H3627|his weapons]] [[Lexicon/H4401-4500#H4421|of war ,]] [[Lexicon/H3601-3700#H3627|and to equip]] [[Lexicon/H7301-7400#H7393|his chariots.]]
 
 ##### 1 Samuel 8 - 13
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|And]] [[Lexicon/H3901-4000#H3947|he will take]] [[Lexicon/H1301-1400#H1323|your daughters]] [[Lexicon/H7501-7600#H7548|[to be] perfumers ,]] [[Lexicon/H2801-2900#H2879|cooks ,]] [[Lexicon/H601-700#H644|and bakers.]]
+=======
+[[Lexicon/H801-900#H853|And]] [[Lexicon/H3901-4000#H3947|he will take]] [[Lexicon/H1301-1400#H1323|your daughters]] [[Lexicon/H7501-7600#H7548|(to be) perfumers ,]] [[Lexicon/H2801-2900#H2879|cooks ,]] [[Lexicon/H601-700#H644|and bakers.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Samuel 8 - 14
 [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|He will take]] [[Lexicon/H2801-2900#H2896|the best]] [[Lexicon/H7701-7800#H7704|of your fields]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3701-3800#H3754|vineyards]] [[Lexicon/H2101-2200#H2132|and olive groves]] [[Lexicon/H5401-5500#H5414|and give them]] [[Lexicon/H5601-5700#H5650|to his servants.]]
@@ -57,7 +65,11 @@ Book: 1 Samuel
 [[Lexicon/H6201-6300#H6237|He will take a tenth]] [[Lexicon/H2201-2300#H2233|of your grain]] [[Lexicon/H3701-3800#H3754|and grape harvest]] [[Lexicon/H5401-5500#H5414|and give it]] [[Lexicon/H5601-5700#H5631|to his officials]] [[Lexicon/H5601-5700#H5650|and servants.]]
 
 ##### 1 Samuel 8 - 16
+<<<<<<< HEAD
 [[Lexicon/H801-900#H853|And]] [[Lexicon/H3901-4000#H3947|he will take]] [[Lexicon/H5601-5700#H5650|your menservants]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H8101-8200#H8198|maidservants]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H2801-2900#H2896|your best]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H970|cattle]] [[Lexicon/H2501-2600#H2543|and donkeys]] [[Lexicon/H6201-6300#H6213|and put [them]]] [[Lexicon/H4301-4400#H4399|to his own use.]]
+=======
+[[Lexicon/H801-900#H853|And]] [[Lexicon/H3901-4000#H3947|he will take]] [[Lexicon/H5601-5700#H5650|your menservants]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H8101-8200#H8198|maidservants]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H2801-2900#H2896|your best]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H901-1000#H970|cattle]] [[Lexicon/H2501-2600#H2543|and donkeys]] [[Lexicon/H6201-6300#H6213|and put (them)]] [[Lexicon/H4301-4400#H4399|to his own use.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Samuel 8 - 17
 [[Lexicon/H6201-6300#H6237|He will take a tenth]] [[Lexicon/H6601-6700#H6629|of your flocks ,]] [[Lexicon/H801-900#H859|and you yourselves]] [[Lexicon/H1901-2000#H1961|will become]] [[Lexicon/H5601-5700#H5650|slaves.]]

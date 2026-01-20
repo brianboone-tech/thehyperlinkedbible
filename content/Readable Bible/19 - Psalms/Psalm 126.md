@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 126
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 125#Psalm-R 125| Psalm 125]] - [[Readable Bible/19 - Psalms/Psalm 127#Psalm-R 127| Psalm 127]]
+=======
+# Psalm 126
+
+[[Readable Bible/19 - Psalms/Psalm 125|← Psalm 125]] | [[Readable Bible/19 - Psalms/Psalm 127|Psalm 127 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

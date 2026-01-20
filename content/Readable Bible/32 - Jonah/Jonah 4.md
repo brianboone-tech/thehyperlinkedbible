@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jonah-R 4
 
 **[[Home/Scripture/32 - Jonah|Jonah]]**
 
 [[Readable Bible/32 - Jonah/Jonah 3#Jonah-R 3| Jonah 3]]
+=======
+# Jonah 4
+
+[[Readable Bible/32 - Jonah/Jonah 3|← Jonah 3]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Jonah 4 . 1
+<<<<<<< HEAD
 [[Reference Bible/32 - Jonah/Jonah 4#Jonah 4 - 1|1]] Jonah, however, was greatly displeased, and he became angry.   || [[Chiasm/Chiasm - 32 - Jonah 4 . 1 - 11|C]] | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 4 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/083 - Jonah (Death, Resurrection, and Mission to Gentiles)|TT]] |
+=======
+[[Reference Bible/32 - Jonah/Jonah 4#Jonah 4 - 1|1]] Jonah, however, was greatly displeased, and he became angry.  | | [[Chiasm/Chiasm - 32 - Jonah 4 . 1 - 11|C]] | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 4 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/083 - Jonah (Death, Resurrection, and Mission to Gentiles)|TT]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Jonah 4 . 2
 [[Reference Bible/32 - Jonah/Jonah 4#Jonah 4 - 2|2]] So he prayed to the LORD, saying, "O LORD, is this not what I said while I was still in my own country? This is why I was so quick to flee toward Tarshish. I knew that You are a gracious and compassionate God, slow to anger, abounding in loving devotion—One who relents from sending disaster.  | [[Intertextuality Pairs/OT to OT/32 - Jonah/Jonah 4.2 to Exodus 34.6|IP¹]] | [[Intertextuality Pairs/OT to OT/32 - Jonah/Jonah 4.2 to Joel 2.13-14|IP²]] | [[Chiasm/Chiasm - 32 - Jonah 4 . 1 - 11|C]] | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 4 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/083 - Jonah (Death, Resurrection, and Mission to Gentiles)|TT]] |

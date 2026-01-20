@@ -21,7 +21,11 @@ Testament: Old
 [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] Adonai [[Lexicon/G3701-3800#G3759|Woe]] [[Lexicon/G3501-3600#G3588|to the ones]] [[Lexicon/G4301-4400#G4395|prophesying]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2501-2600#G2588|their own heart,]] [[Lexicon/G3501-3600#G3588|to the ones]] [[Lexicon/G4101-4200#G4198|going]] [[Lexicon/G3601-3700#G3694|after]] [[Lexicon/G4101-4200#G4151|their own spirit,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2527|altogether]] [[Lexicon/G3301-3400#G3361|they do not]] [[Lexicon/G901-1000#G0991|see.]]
 
 #### Ezekiel 13 - 4
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G201-300#G0258|foxes]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2048|desolate places,]] [[Lexicon/G4301-4400#G4396|your prophets,]] O Israel.
+=======
+[[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G201-300#G0258|foxes]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2048|desolate places,]] [[Lexicon/G4301-4400#G4396|your prophets,]] O Israel.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Ezekiel 13 - 5
 [[Lexicon/G3701-3800#G3756|They stood not]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4701-4800#G4733|firmness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|they gathered not]] [[Lexicon/G4101-4200#G4168|flocks]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] of Israel; [[Lexicon/G3701-3800#G3756|they did not]] [[Lexicon/G401-500#G0450|rise up]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4171|war,]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G2901-3000#G2962|of the lord.]]

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Nahum-R 1
 
 **[[Home/Scripture/34 - Nahum|Nahum]]**
 
 [[Micah-R 7|Micah 7]] • [[Nahum-R 2|Nahum 2]]
+=======
+# Nahum 1
+
+[[Readable Bible/33 - Micah/Micah 7|← Micah 7]] | [[Readable Bible/34 - Nahum/Nahum 2|Nahum 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

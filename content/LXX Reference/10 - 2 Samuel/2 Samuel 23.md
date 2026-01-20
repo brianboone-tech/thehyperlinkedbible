@@ -21,13 +21,21 @@ Testament: Old
 [[Lexicon/G2001-2100#G2036|spoke]] [[Lexicon/G1401-1500#G1473|to me;]] [[Lexicon/G2901-3000#G2980|spoke]] [[Lexicon/G701-800#G0758|ruling]] [[Lexicon/G5401-5500#G5401|in fear]] [[Lexicon/G2301-2400#G2316|of God.]]
 
 #### 2 Samuel 23 - 4
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5401-5500#G5457|light]] [[Lexicon/G301-400#G0393|arises]] [[Lexicon/G4401-4500#G4404|in the morning,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|it shall not darken;]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G5301-5400#G5338|brightness]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G5201-5300#G5205|rain]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1001-1100#G1008|pasturage]] [[Lexicon/G1501-1600#G1537|of]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5401-5500#G5457|light]] [[Lexicon/G301-400#G0393|arises]] [[Lexicon/G4401-4500#G4404|in the morning,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|it shall not darken;]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G5301-5400#G5338|brightness]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G5201-5300#G5205|rain]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1001-1100#G1008|pasturage]] [[Lexicon/G1501-1600#G1537|of]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 2 Samuel 23 - 5
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G3601-3700#G3624|my house]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G2301-2400#G2316|God?]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1201-1300#G1242|covenant]] [[Lexicon/G1401-1500#G1473|with me,]] [[Lexicon/G4901-5000#G4982|to deliver]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2001-2100#G2092|prepared]] [[Lexicon/G1701-1800#G1722|at]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G2501-2600#G2540|time]] [[Lexicon/G5401-5500#G5442|being guarded.]] [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4901-5000#G4991|my deliverance,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G901-1000#G0985|shall grow]]
 
 #### 2 Samuel 23 - 6
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G101-200#G0173|a thorn-bush]] [[Lexicon/G1801-1900#G1856|being pushing out]] [[Lexicon/G1401-1500#G1473|these;]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G3701-3800#G3756|no]] [[Lexicon/G5401-5500#G5495|hand]] [[Lexicon/G2901-3000#G2983|shall take them.]]
+=======
+[[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G101-200#G0173|a thorn-bush]] [[Lexicon/G1801-1900#G1856|being pushing out]] [[Lexicon/G1401-1500#G1473|these;]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G3701-3800#G3756|no]] [[Lexicon/G5401-5500#G5495|hand]] [[Lexicon/G2901-3000#G2983|shall take them.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 2 Samuel 23 - 7
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G401-500#G0435|a man]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G2801-2900#G2872|shall labor]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G4101-4200#G4134|full]] [[Lexicon/G4601-4700#G4604|of iron]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3586|wooden]] [[Lexicon/G1301-1400#G1393|spear,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4401-4500#G4442|fire]] [[Lexicon/G2501-2600#G2545|burning,]] [[Lexicon/G2501-2600#G2545|they shall be burnt]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G101-200#G0152|their shame.]]

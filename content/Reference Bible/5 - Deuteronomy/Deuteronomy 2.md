@@ -28,7 +28,11 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 4|LXX]] |
 
 ##### Deuteronomy 2 - 5
+<<<<<<< HEAD
 [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H1601-1700#H1624|provoke]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H5401-5500#H5414|give]] [[Lexicon/H701-800#H776|any of their land ,]] [[Lexicon/H5701-5800#H5704|not even]] [[Lexicon/H4001-4100#H4096|a footprint]] [[Lexicon/H3701-3800#H3709|... ,]] [[Lexicon/H7201-7300#H7272|...]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H5401-5500#H5414|I have given]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2022|Mount]] [[Lexicon/H8101-8200#H8165|Seir]] [[Lexicon/H6201-6300#H6215|to Esau]] [[Lexicon/H3401-3500#H3425|as [his] possession.]]
+=======
+[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H1601-1700#H1624|provoke]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H5401-5500#H5414|give]] [[Lexicon/H701-800#H776|any of their land ,]] [[Lexicon/H5701-5800#H5704|not even]] [[Lexicon/H4001-4100#H4096|a footprint]] [[Lexicon/H3701-3800#H3709|... ,]] [[Lexicon/H7201-7300#H7272|...]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H5401-5500#H5414|I have given]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2022|Mount]] [[Lexicon/H8101-8200#H8165|Seir]] [[Lexicon/H6201-6300#H6215|to Esau]] [[Lexicon/H3401-3500#H3425|as (his) possession.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 5|LXX]] |
 
 ##### Deuteronomy 2 - 6
@@ -44,7 +48,11 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 8|LXX]] |
 
 ##### Deuteronomy 2 - 9
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H401-500#H413|“ Do not]] [[Lexicon/H6601-6700#H6696|harass]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4101-4200#H4124|the Moabites]] [[Lexicon/H401-500#H408|[or]]] [[Lexicon/H1601-1700#H1624|provoke]] [[Lexicon/H4401-4500#H4421|to war ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H5401-5500#H5414|give]] [[Lexicon/H701-800#H776|any of their land]] [[Lexicon/H3401-3500#H3425|- ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H5401-5500#H5414|I have given]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6101-6200#H6144|Ar]] [[Lexicon/H1101-1200#H1121|to the descendants]] [[Lexicon/H3801-3900#H3876|of Lot]] [[Lexicon/H3401-3500#H3425|as [their] possession. ”]]
+=======
+[[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H401-500#H413|“ Do not]] [[Lexicon/H6601-6700#H6696|harass]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4101-4200#H4124|the Moabites]] [[Lexicon/H401-500#H408|(or)]] [[Lexicon/H1601-1700#H1624|provoke]] [[Lexicon/H4401-4500#H4421|to war ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H5401-5500#H5414|give]] [[Lexicon/H701-800#H776|any of their land]] [[Lexicon/H3401-3500#H3425|- ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H5401-5500#H5414|I have given]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6101-6200#H6144|Ar]] [[Lexicon/H1101-1200#H1121|to the descendants]] [[Lexicon/H3801-3900#H3876|of Lot]] [[Lexicon/H3401-3500#H3425|as (their) possession. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 9|LXX]] |
 
 ##### Deuteronomy 2 - 10
@@ -56,7 +64,11 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 11|LXX]] |
 
 ##### Deuteronomy 2 - 12
+<<<<<<< HEAD
 [[Lexicon/H2701-2800#H2752|The Horites]] [[Lexicon/H6401-6500#H6440|used to]] [[Lexicon/H3401-3500#H3427|live]] [[Lexicon/H8101-8200#H8165|in Seir ,]] [[Lexicon/H1101-1200#H1121|but the descendants]] [[Lexicon/H6201-6300#H6215|of Esau]] [[Lexicon/H3401-3500#H3423|drove them out.]] [[Lexicon/H8001-8100#H8045|They destroyed [the Horites]]] [[Lexicon/H6401-6500#H6440|from before them]] [[Lexicon/H3401-3500#H3427|and settled]] [[Lexicon/H8401-8500#H8478|in their place ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H3401-3500#H3425|as their possession. )]]
+=======
+[[Lexicon/H2701-2800#H2752|The Horites]] [[Lexicon/H6401-6500#H6440|used to]] [[Lexicon/H3401-3500#H3427|live]] [[Lexicon/H8101-8200#H8165|in Seir ,]] [[Lexicon/H1101-1200#H1121|but the descendants]] [[Lexicon/H6201-6300#H6215|of Esau]] [[Lexicon/H3401-3500#H3423|drove them out.]] [[Lexicon/H8001-8100#H8045|They destroyed (the Horites)]] [[Lexicon/H6401-6500#H6440|from before them]] [[Lexicon/H3401-3500#H3427|and settled]] [[Lexicon/H8401-8500#H8478|in their place ,]] [[Lexicon/H801-900#H834|just as]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H3401-3500#H3425|as their possession. )]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 12|LXX]] |
 
 ##### Deuteronomy 2 - 13
@@ -84,6 +96,7 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 18|LXX]] |
 
 ##### Deuteronomy 2 - 19
+<<<<<<< HEAD
 [[Lexicon/H7101-7200#H7126|But when you get close]] [[Lexicon/H4101-4200#H4136|to]] [[Lexicon/H1101-1200#H1121|the Ammonites]] [[Lexicon/H5901-6000#H5983|... ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H6601-6700#H6696|harass them]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H1601-1700#H1624|or provoke]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H5401-5500#H5414|give]] [[Lexicon/H701-800#H776|any of the land]] [[Lexicon/H1101-1200#H1121|of the Ammonites]] [[Lexicon/H5901-6000#H5983|...]] [[Lexicon/H3401-3500#H3425|-.]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H5401-5500#H5414|I have given it]] [[Lexicon/H1101-1200#H1121|to the descendants]] [[Lexicon/H3801-3900#H3876|of Lot]] [[Lexicon/H3401-3500#H3425|as [their] possession. ”]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 19|LXX]] |
 
@@ -93,6 +106,17 @@ Book: Deuteronomy
 
 ##### Deuteronomy 2 - 21
 [[Lexicon/H5901-6000#H5971|[They were] a people]] [[Lexicon/H1401-1500#H1419|great]] [[Lexicon/H7201-7300#H7227|and many ,]] [[Lexicon/H7301-7400#H7311|as tall]] [[Lexicon/H6001-6100#H6062|as the Anakites.]] [[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H8001-8100#H8045|destroyed them]] [[Lexicon/H6401-6500#H6440|from before [the Ammonites] ,]] [[Lexicon/H3401-3500#H3423|who drove them out]] [[Lexicon/H3401-3500#H3427|and settled]] [[Lexicon/H8401-8500#H8478|in their place ,]]
+=======
+[[Lexicon/H7101-7200#H7126|But when you get close]] [[Lexicon/H4101-4200#H4136|to]] [[Lexicon/H1101-1200#H1121|the Ammonites]] [[Lexicon/H5901-6000#H5983|... ,]] [[Lexicon/H401-500#H408|do not]] [[Lexicon/H6601-6700#H6696|harass them]] [[Lexicon/H401-500#H408|...]] [[Lexicon/H1601-1700#H1624|or provoke]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3801-3900#H3808|I will not]] [[Lexicon/H5401-5500#H5414|give]] [[Lexicon/H701-800#H776|any of the land]] [[Lexicon/H1101-1200#H1121|of the Ammonites]] [[Lexicon/H5901-6000#H5983|...]] [[Lexicon/H3401-3500#H3425|-.]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H5401-5500#H5414|I have given it]] [[Lexicon/H1101-1200#H1121|to the descendants]] [[Lexicon/H3801-3900#H3876|of Lot]] [[Lexicon/H3401-3500#H3425|as (their) possession. ”]]
+| [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 19|LXX]] |
+
+##### Deuteronomy 2 - 20
+[[Lexicon/H601-700#H637|( That too]] [[Lexicon/H1901-2000#H1931|]] [[Lexicon/H2801-2900#H2803|was regarded]] [[Lexicon/H701-800#H776|as the land]] [[Lexicon/H7401-7500#H7497|of the Rephaim ,]] [[Lexicon/H7401-7500#H7497|(who)]] [[Lexicon/H3401-3500#H3427|used to live]] [[Lexicon/H6401-6500#H6440|... ,]] [[Lexicon/H5901-6000#H5984|though the Ammonites]] [[Lexicon/H7101-7200#H7121|called]] [[Lexicon/H2101-2200#H2157|Zamzummites.]]
+| [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 20|LXX]] |
+
+##### Deuteronomy 2 - 21
+[[Lexicon/H5901-6000#H5971|(They were) a people]] [[Lexicon/H1401-1500#H1419|great]] [[Lexicon/H7201-7300#H7227|and many ,]] [[Lexicon/H7301-7400#H7311|as tall]] [[Lexicon/H6001-6100#H6062|as the Anakites.]] [[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H8001-8100#H8045|destroyed them]] [[Lexicon/H6401-6500#H6440|from before (the Ammonites) ,]] [[Lexicon/H3401-3500#H3423|who drove them out]] [[Lexicon/H3401-3500#H3427|and settled]] [[Lexicon/H8401-8500#H8478|in their place ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 21|LXX]] |
 
 ##### Deuteronomy 2 - 22
@@ -120,7 +144,11 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 27|LXX]] |
 
 ##### Deuteronomy 2 - 28
+<<<<<<< HEAD
 [[Lexicon/H7601-7700#H7666|You can sell us]] [[Lexicon/H301-400#H400|food]] [[Lexicon/H3701-3800#H3701|-]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H5401-5500#H5414|[and]]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H8301-8400#H8354|to drink]] [[Lexicon/H3701-3800#H3701|in exchange for silver.]] [[Lexicon/H7501-7600#H7535|Only]] [[Lexicon/H5601-5700#H5674|let us pass through]] [[Lexicon/H7201-7300#H7272|on foot ,]]
+=======
+[[Lexicon/H7601-7700#H7666|You can sell us]] [[Lexicon/H301-400#H400|food]] [[Lexicon/H3701-3800#H3701|-]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H5401-5500#H5414|(and)]] [[Lexicon/H4301-4400#H4325|water]] [[Lexicon/H8301-8400#H8354|to drink]] [[Lexicon/H3701-3800#H3701|in exchange for silver.]] [[Lexicon/H7501-7600#H7535|Only]] [[Lexicon/H5601-5700#H5674|let us pass through]] [[Lexicon/H7201-7300#H7272|on foot ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 28|LXX]] |
 
 ##### Deuteronomy 2 - 29
@@ -152,9 +180,17 @@ Book: Deuteronomy
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 35|LXX]] |
 
 ##### Deuteronomy 2 - 36
+<<<<<<< HEAD
 [[Lexicon/H6101-6200#H6177|From Aroer]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H8101-8200#H8193|the rim]] [[Lexicon/H701-800#H769|of the Arnon]] [[Lexicon/H5101-5200#H5158|Valley ,]] [[Lexicon/H5801-5900#H5892|along with the city]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5101-5200#H5158|in the valley ,]] [[Lexicon/H5701-5800#H5704|even as]] [[Lexicon/H1501-1600#H1568|far as Gilead ,]] [[Lexicon/H3801-3900#H3808|not one]] [[Lexicon/H7101-7200#H7151|city]] [[Lexicon/H1901-2000#H1961|[had walls]]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7601-7700#H7682|too high]] [[Lexicon/H4401-4500#H4480|for us.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H401-500#H430|our God]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H6401-6500#H6440|us]] [[Lexicon/H3601-3700#H3605|all of them.]]
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 36|LXX]] |
 
 ##### Deuteronomy 2 - 37
 [[Lexicon/H7501-7600#H7535|But]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3801-3900#H3808|you did not]] [[Lexicon/H7101-7200#H7126|go near]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H1101-1200#H1121|of the Ammonites]] [[Lexicon/H5901-6000#H5983|... ,]] [[Lexicon/H3601-3700#H3605|or [the land]]] [[Lexicon/H3001-3100#H3027|along the banks]] [[Lexicon/H2901-3000#H2999|of the Jabbok]] [[Lexicon/H5101-5200#H5158|River ,]] [[Lexicon/H5801-5900#H5892|or the cities]] [[Lexicon/H2001-2100#H2022|of the hill country ,]] [[Lexicon/H3601-3700#H3605|or any]] [[Lexicon/H801-900#H834|place that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|our God]] [[Lexicon/H6601-6700#H6680|had forbidden.]]
+=======
+[[Lexicon/H6101-6200#H6177|From Aroer]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H8101-8200#H8193|the rim]] [[Lexicon/H701-800#H769|of the Arnon]] [[Lexicon/H5101-5200#H5158|Valley ,]] [[Lexicon/H5801-5900#H5892|along with the city]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5101-5200#H5158|in the valley ,]] [[Lexicon/H5701-5800#H5704|even as]] [[Lexicon/H1501-1600#H1568|far as Gilead ,]] [[Lexicon/H3801-3900#H3808|not one]] [[Lexicon/H7101-7200#H7151|city]] [[Lexicon/H1901-2000#H1961|(had walls)]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7601-7700#H7682|too high]] [[Lexicon/H4401-4500#H4480|for us.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H401-500#H430|our God]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H6401-6500#H6440|us]] [[Lexicon/H3601-3700#H3605|all of them.]]
+| [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 36|LXX]] |
+
+##### Deuteronomy 2 - 37
+[[Lexicon/H7501-7600#H7535|But]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3801-3900#H3808|you did not]] [[Lexicon/H7101-7200#H7126|go near]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H1101-1200#H1121|of the Ammonites]] [[Lexicon/H5901-6000#H5983|... ,]] [[Lexicon/H3601-3700#H3605|or (the land)]] [[Lexicon/H3001-3100#H3027|along the banks]] [[Lexicon/H2901-3000#H2999|of the Jabbok]] [[Lexicon/H5101-5200#H5158|River ,]] [[Lexicon/H5801-5900#H5892|or the cities]] [[Lexicon/H2001-2100#H2022|of the hill country ,]] [[Lexicon/H3601-3700#H3605|or any]] [[Lexicon/H801-900#H834|place that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|our God]] [[Lexicon/H6601-6700#H6680|had forbidden.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/5 - Deuteronomy/Deuteronomy 2#Deuteronomy 2 - 37|LXX]] |

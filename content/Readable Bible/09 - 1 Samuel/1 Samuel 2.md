@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Samuel-R 2
 
 **[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
 
 [[Readable Bible/09 - 1 Samuel/1 Samuel 1#1 Samuel-R 1| 1 Samuel 1]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 3#1 Samuel-R 3| 1 Samuel 3]]
+=======
+# 1 Samuel 2
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 1|← 1 Samuel 1]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 3|1 Samuel 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### 1 Samuel 2 . 1
+<<<<<<< HEAD
 [[Reference Bible/9 - 1 Samuel/1 Samuel 2#1 Samuel 2 - 1|1]] At that time Hannah prayed: “My heart rejoices in the LORD in whom my horn is exalted. My mouth speaks boldly against my enemies, for I rejoice in Your salvation.   || [[Chiasm/Chiasm - 09 - 1 Samuel 2 . 1 - 10|C]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 2 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/069 - Hannah (Barren Mother of Promise)|TT]] |
+=======
+[[Reference Bible/9 - 1 Samuel/1 Samuel 2#1 Samuel 2 - 1|1]] At that time Hannah prayed: “My heart rejoices in the LORD in whom my horn is exalted. My mouth speaks boldly against my enemies, for I rejoice in Your salvation.  | | [[Chiasm/Chiasm - 09 - 1 Samuel 2 . 1 - 10|C]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 2 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/069 - Hannah (Barren Mother of Promise)|TT]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ##### 1 Samuel 2 . 2
 [[Reference Bible/9 - 1 Samuel/1 Samuel 2#1 Samuel 2 - 2|2]] There is no one holy like the LORD. Indeed, there is no one besides You! And there is no Rock like our God.  | [[Chiasm/Chiasm - 09 - 1 Samuel 2 . 1 - 10|C]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 2 - TOSK#Verse 2|TOSK]] |
 ##### 1 Samuel 2 . 3
@@ -62,7 +72,11 @@ cssClasses: lexicon
 ##### 1 Samuel 2 . 24
 [[Reference Bible/9 - 1 Samuel/1 Samuel 2#1 Samuel 2 - 24|24]] No, my sons; it is not a good report I hear circulating among the LORD’s people.  | [[Chiasm/Chiasm - 09 - 1 Samuel 2 . 11 - 26|C]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 2 - TOSK#Verse 24|TOSK]] |
 ##### 1 Samuel 2 . 25
+<<<<<<< HEAD
 [[Reference Bible/9 - 1 Samuel/1 Samuel 2#1 Samuel 2 - 25|25]] If a man sins against another man, God can intercede for him; but if a man sins against the LORD, who can intercede for him?” But they would not listen to their father, since the LORD intended to put them to death.  |  | [[Chiasm/Chiasm - 09 - 1 Samuel 2 . 11 - 26|C]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 2 - TOSK#Verse 25|TOSK]] |
+=======
+[[Reference Bible/9 - 1 Samuel/1 Samuel 2#1 Samuel 2 - 25|25]] If a man sins against another man, God can intercede for him; but if a man sins against the LORD, who can intercede for him?” But they would not listen to their father, since the LORD intended to put them to death. |  | [[Chiasm/Chiasm - 09 - 1 Samuel 2 . 11 - 26|C]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 2 - TOSK#Verse 25|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ##### 1 Samuel 2 . 26
 [[Reference Bible/9 - 1 Samuel/1 Samuel 2#1 Samuel 2 - 26|26]] And the boy Samuel continued to grow in stature and in favor with the LORD and with man.  | [[Chiasm/Chiasm - 09 - 1 Samuel 2 . 11 - 26|C]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 2 - TOSK#Verse 26|TOSK]] |
 ##### 1 Samuel 2 . 27

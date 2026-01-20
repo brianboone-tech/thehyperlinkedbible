@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## DAY OF MIDIAN (GOSPEL VICTORY PATTERN) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tCh_cpdMKQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -10,6 +18,41 @@ Isaiah 9:4 prophesies that the Messiah will break the "yoke of burden" and "rod 
 
 **Type Classification**: Providential (sovereignly arranged pattern); Forward-Looking (Isaiah 9:4 explicitly prophesies fulfillment "as on the day of Midian"); Direct Type (the pattern is divinely intended, not merely coincidental)
 
+<<<<<<< HEAD
+=======
+
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+**07 - Judges**
+- [[Intertextuality Pairs/OT to OT/07 - Judges/Judges 7.2 to Deuteronomy 8.17-18\|Judges 7:2 to Deuteronomy 8:17-18]] - **CRITICAL:** God's explicit purpose in reducing Gideon's army—"lest Israel boast"—echoes Moses' warning against saying "My power and the might of my hand have gotten me this wealth." Both texts establish that God structures salvation to exclude human boasting and display divine power alone.
+
+**23 - Isaiah**
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 9.4 to Judges 7.19-22\|Isaiah 9:4 to Judges 7:19-22]] - **CRITICAL:** Isaiah's explicit reference to "the day of Midian" identifies Gideon's victory as a divinely intended type of Messianic deliverance. The breaking of oppression "as on the day of Midian" signals that Christ's victory will follow the same unconventional pattern: divine power through weak means.
+
+### NT to OT
+
+**40 - Matthew**
+- [[Intertextuality Pairs/NT to OT/40 - Matthew/Matthew 4.15-16 to Isaiah 9.1-2\|Matthew 4:15-16 to Isaiah 9:1-2]] - **CRITICAL:** Matthew's quotation of Isaiah 9:1-2 places Jesus' ministry in the exact geography of Gideon's victory—Zebulun and Naphtali. The "great light" dawning fulfills both Isaiah's prophecy and completes the Gideon typology: light shining in the region of darkness.
+
+**47 - 2 Corinthians**
+- [[Intertextuality Pairs/NT to OT/47 - 2 Corinthians/2 Corinthians 4.7 to Judges 7.16-20\|2 Corinthians 4:7 to Judges 7:16-20]] - **CRITICAL:** Paul's "jars of clay" language directly echoes Gideon's clay jars containing torches. The purpose is identical: "to show that the surpassing power belongs to God and not to us" mirrors "lest Israel boast over me." Gospel proclamation follows the Gideon pattern—weak vessels, divine light, power displayed through brokenness.
+
+---
+
+## Relationship to Other Trajectory Tables
+
+This trajectory complements [[Trajectory Tables/064 - Gideon (Weak Made Strong)\|Gideon (Weak Made Strong)]] which focuses on the personal pattern of strength perfected in weakness. The "Day of Midian" trajectory focuses on the **method** of victory—how God conquers through proclamation, light, and weak vessels—and its explicit fulfillment in gospel ministry through Isaiah 9:4 and 2 Corinthians 4.
+
+See also:
+- [[Trajectory Tables/047 - Divine Warrior (God Who Fights)\|Divine Warrior (God Who Fights)]]
+- [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)\|Gentile Inclusion (Light to the Nations)]]
+
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | # | Stage | Key Text(s) | Theological Development | Text Analysis |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Context - Israel's Darkness Under Midian** | [[Readable Bible/07 - Judges/Judges 6#Judges 6 . 1\|Judges 6:1-6]] | Israel suffered seven years of Midianite oppression—hiding in caves, crops destroyed, "greatly impoverished." The enemy was "innumerable" like locusts. This darkness sets the stage for God's unconventional deliverance. Significantly, this oppression occurred in the region that would later be called "Galilee of the nations"—Zebulun and Naphtali—connecting to Isaiah 9:1's prophecy of light shining in darkness. | [[Trajectory Tables - Foundation Texts/Day of Midian (Gospel Victory Pattern)/07 - Judges 6.1-6\|Judges 6:1-6]] |
@@ -42,6 +85,7 @@ Isaiah 9:4 prophesies that the Messiah will break the "yoke of burden" and "rod 
 
 **47 - 2 Corinthians**
 - [[Intertextuality Pairs/NT to OT/47 - 2 Corinthians/2 Corinthians 4.7 to Judges 7.16-20\|2 Corinthians 4:7 to Judges 7:16-20]] - **CRITICAL:** Paul's "jars of clay" language directly echoes Gideon's clay jars containing torches. The purpose is identical: "to show that the surpassing power belongs to God and not to us" mirrors "lest Israel boast over me." Gospel proclamation follows the Gideon pattern—weak vessels, divine light, power displayed through brokenness.
+<<<<<<< HEAD
 
 ---
 
@@ -53,6 +97,8 @@ See also:
 - [[Trajectory Tables/047 - Divine Warrior (God Who Fights)\|Divine Warrior (God Who Fights)]]
 - [[Trajectory Tables/063 - Gentile Inclusion (Light to the Nations)\|Gentile Inclusion (Light to the Nations)]]
 
+=======
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ---
 
 ## Four-Step Application
@@ -69,6 +115,10 @@ But there is One who conquered not through conventional warfare but through appa
 **4. How Through Christ You Can:**
 Now, united to Christ, you participate in His victory through the same pattern: weakness displaying divine strength. When you embrace your inadequacy rather than hiding it, you become the kind of vessel God uses. Your affliction, perplexity, and persecution become the breaking of the jar that reveals the treasure. "Always carrying in the body the death of Jesus, so that the life of Jesus may also be manifested in our bodies." You no longer need impressive credentials because the power is God's, not yours. You can faithfully proclaim the gospel without results-based anxiety because the victory belongs to Him. Your weakness excludes boasting ("My own hand has saved me") and guarantees that God alone gets glory. This frees you from both the pride of success and the despair of failure—you are simply a clay jar holding treasure, a torch-bearer in the night, a trumpet-blower announcing the King.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ---
 
 ## Lexicon Findings
@@ -95,3 +145,7 @@ The Day of Midian trajectory reveals a remarkable lexical network tracing from H
 - [[Lexicon/G2701-2800#G2766|G2766]] - κέραμος (keramos) - clay, earthenware
 - [[Lexicon/G2701-2800#G2744|G2744]] - καυχάομαι (kauchaomai) - to boast, glory
 - [[Lexicon/G2601-2700#G2620|G2620]] - κατακαυχάομαι (katakauchaomai) - to boast against
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

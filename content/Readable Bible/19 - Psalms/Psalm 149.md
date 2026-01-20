@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 149
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 148#Psalm-R 148| Psalm 148]] - [[Readable Bible/19 - Psalms/Psalm 150#Psalm-R 150| Psalm 150]]
+=======
+# Psalm 149
+
+[[Readable Bible/19 - Psalms/Psalm 148|← Psalm 148]] | [[Readable Bible/19 - Psalms/Psalm 150|Psalm 150 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

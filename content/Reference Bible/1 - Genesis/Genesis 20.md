@@ -29,11 +29,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 20#Genesis 20 - 4|LXX]] |
 
 ##### Genesis 20 - 5
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|Didn’t]] [[Lexicon/H1901-2000#H1931|[Abraham]]] [[Lexicon/H501-600#H559|tell]] [[Lexicon/H1901-2000#H1931|‘ She]] [[Lexicon/H201-300#H269|is my sister ’?]] [[Lexicon/H1901-2000#H1931|And she]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H1901-2000#H1931|herself]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H1901-2000#H1931|‘ He]] [[Lexicon/H201-300#H251|is my brother. ’]] [[Lexicon/H6201-6300#H6213|I have done]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H8501-8600#H8537|in the integrity]] [[Lexicon/H3801-3900#H3824|of my heart]] [[Lexicon/H5301-5400#H5356|and the innocence]] [[Lexicon/H3701-3800#H3709|of my hands. ”]]
 | [[LXX Reference/1 - Genesis/Genesis 20#Genesis 20 - 5|LXX]] |
 
 ##### Genesis 20 - 6
 [[Lexicon/H401-500#H430|Then God]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to [Abimelech]]] [[Lexicon/H2401-2500#H2472|in the dream ,]] [[Lexicon/H1501-1600#H1571|“ Yes ,]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H6201-6300#H6213|you did]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H8501-8600#H8537|with a clear]] [[Lexicon/H3801-3900#H3824|conscience ,]] [[Lexicon/H501-600#H595|and so I]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H2801-2900#H2820|have kept]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H2301-2400#H2398|from sinning]] [[Lexicon/H5901-6000#H5921|That is why]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H3801-3900#H3808|I did not]] [[Lexicon/H5401-5500#H5414|let]] [[Lexicon/H5001-5100#H5060|you touch]] [[Lexicon/H401-500#H413|her.]]
+=======
+[[Lexicon/H3801-3900#H3808|Didn’t]] [[Lexicon/H1901-2000#H1931|(Abraham)]] [[Lexicon/H501-600#H559|tell]] [[Lexicon/H1901-2000#H1931|‘ She]] [[Lexicon/H201-300#H269|is my sister ’?]] [[Lexicon/H1901-2000#H1931|And she]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H1901-2000#H1931|herself]] [[Lexicon/H501-600#H559|said ,]] [[Lexicon/H1901-2000#H1931|‘ He]] [[Lexicon/H201-300#H251|is my brother. ’]] [[Lexicon/H6201-6300#H6213|I have done]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H8501-8600#H8537|in the integrity]] [[Lexicon/H3801-3900#H3824|of my heart]] [[Lexicon/H5301-5400#H5356|and the innocence]] [[Lexicon/H3701-3800#H3709|of my hands. ”]]
+| [[LXX Reference/1 - Genesis/Genesis 20#Genesis 20 - 5|LXX]] |
+
+##### Genesis 20 - 6
+[[Lexicon/H401-500#H430|Then God]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to (Abimelech)]] [[Lexicon/H2401-2500#H2472|in the dream ,]] [[Lexicon/H1501-1600#H1571|“ Yes ,]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H3001-3100#H3045|know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H6201-6300#H6213|you did]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H8501-8600#H8537|with a clear]] [[Lexicon/H3801-3900#H3824|conscience ,]] [[Lexicon/H501-600#H595|and so I]] [[Lexicon/H1501-1600#H1571|...]] [[Lexicon/H2801-2900#H2820|have kept]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H2301-2400#H2398|from sinning]] [[Lexicon/H5901-6000#H5921|That is why]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H3801-3900#H3808|I did not]] [[Lexicon/H5401-5500#H5414|let]] [[Lexicon/H5001-5100#H5060|you touch]] [[Lexicon/H401-500#H413|her.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 20#Genesis 20 - 6|LXX]] |
 
 ##### Genesis 20 - 7
@@ -73,7 +81,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 20#Genesis 20 - 15|LXX]] |
 
 ##### Genesis 20 - 16
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|And he said]] [[Lexicon/H8201-8300#H8283|to Sarah ,]] [[Lexicon/H2001-2100#H2009|“ See ,]] [[Lexicon/H5401-5500#H5414|I am giving]] [[Lexicon/H201-300#H251|your brother]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H501-600#H505|a thousand [pieces]]] [[Lexicon/H3701-3800#H3701|of silver.]] [[Lexicon/H1901-2000#H1931|It [is]]] [[Lexicon/H3601-3700#H3682|vindication]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H3601-3700#H3605|before all]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H801-900#H854|are with you]] [[Lexicon/H801-900#H854|... ;]] [[Lexicon/H3601-3700#H3605|you are completely]] [[Lexicon/H3101-3200#H3198|cleared. ”]]
+=======
+[[Lexicon/H501-600#H559|And he said]] [[Lexicon/H8201-8300#H8283|to Sarah ,]] [[Lexicon/H2001-2100#H2009|“ See ,]] [[Lexicon/H5401-5500#H5414|I am giving]] [[Lexicon/H201-300#H251|your brother]] [[Lexicon/H2001-2100#H2009|...]] [[Lexicon/H501-600#H505|a thousand (pieces)]] [[Lexicon/H3701-3800#H3701|of silver.]] [[Lexicon/H1901-2000#H1931|It (is)]] [[Lexicon/H3601-3700#H3682|vindication]] [[Lexicon/H5801-5900#H5869|...]] [[Lexicon/H3601-3700#H3605|before all]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H801-900#H854|are with you]] [[Lexicon/H801-900#H854|... ;]] [[Lexicon/H3601-3700#H3605|you are completely]] [[Lexicon/H3101-3200#H3198|cleared. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 20#Genesis 20 - 16|LXX]] |
 
 ##### Genesis 20 - 17

@@ -10,16 +10,27 @@ cssClasses: lexicon
 ---
 
 ##### Proverbs 13 - 1
+<<<<<<< HEAD
 [[Lexicon/H2401-2500#H2450|A wise]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1-100#H1|[heeds] his father’s]] [[Lexicon/H4101-4200#H4148|discipline ,]] [[Lexicon/H3801-3900#H3887|but a mocker]] [[Lexicon/H3801-3900#H3808|does not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H1601-1700#H1606|to rebuke.]]
+=======
+[[Lexicon/H2401-2500#H2450|A wise]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1-100#H1|(heeds) his father’s]] [[Lexicon/H4101-4200#H4148|discipline ,]] [[Lexicon/H3801-3900#H3887|but a mocker]] [[Lexicon/H3801-3900#H3808|does not]] [[Lexicon/H8001-8100#H8085|listen]] [[Lexicon/H1601-1700#H1606|to rebuke.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 13 - 2
 [[Lexicon/H6501-6600#H6529|From the fruit]] [[Lexicon/H6301-6400#H6310|of his lips]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H301-400#H398|enjoys]] [[Lexicon/H2801-2900#H2896|good things ,]] [[Lexicon/H5301-5400#H5315|but the desire]] [[Lexicon/H801-900#H898|of the faithless]] [[Lexicon/H2501-2600#H2555|is violence.]]
 
 ##### Proverbs 13 - 3
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5341|He who guards]] [[Lexicon/H6301-6400#H6310|his mouth]] [[Lexicon/H8101-8200#H8104|protects]] [[Lexicon/H5301-5400#H5315|his life ,]] [[Lexicon/H6501-6600#H6589|[but] the one who opens]] [[Lexicon/H8101-8200#H8193|his lips]] [[Lexicon/H4201-4300#H4288|invites his own ruin]]
 
 ##### Proverbs 13 - 4
 [[Lexicon/H6101-6200#H6102|The slacker]] [[Lexicon/H5301-5400#H5315|...]] [[Lexicon/H101-200#H183|craves]] [[Lexicon/H301-400#H369|yet [has] nothing ,]] [[Lexicon/H5301-5400#H5315|but the soul]] [[Lexicon/H2701-2800#H2742|of the diligent]] [[Lexicon/H1801-1900#H1878|is fully satisfied.]]
+=======
+[[Lexicon/H5301-5400#H5341|He who guards]] [[Lexicon/H6301-6400#H6310|his mouth]] [[Lexicon/H8101-8200#H8104|protects]] [[Lexicon/H5301-5400#H5315|his life ,]] [[Lexicon/H6501-6600#H6589|(but) the one who opens]] [[Lexicon/H8101-8200#H8193|his lips]] [[Lexicon/H4201-4300#H4288|invites his own ruin]]
+
+##### Proverbs 13 - 4
+[[Lexicon/H6101-6200#H6102|The slacker]] [[Lexicon/H5301-5400#H5315|...]] [[Lexicon/H101-200#H183|craves]] [[Lexicon/H301-400#H369|yet (has) nothing ,]] [[Lexicon/H5301-5400#H5315|but the soul]] [[Lexicon/H2701-2800#H2742|of the diligent]] [[Lexicon/H1801-1900#H1878|is fully satisfied.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 13 - 5
 [[Lexicon/H6601-6700#H6662|The righteous]] [[Lexicon/H8101-8200#H8130|hate]] [[Lexicon/H1601-1700#H1697|falsehood]] [[Lexicon/H8201-8300#H8267|... ,]] [[Lexicon/H7501-7600#H7563|but the wicked]] [[Lexicon/H801-900#H887|bring shame]] [[Lexicon/H2601-2700#H2659|and disgrace.]]
@@ -55,7 +66,11 @@ cssClasses: lexicon
 [[Lexicon/H2801-2900#H2896|Good]] [[Lexicon/H7901-8000#H7922|understanding]] [[Lexicon/H5401-5500#H5414|wins]] [[Lexicon/H2501-2600#H2580|favor ,]] [[Lexicon/H1801-1900#H1870|but the way]] [[Lexicon/H801-900#H898|of the faithless]] [[Lexicon/H301-400#H386|is difficult.]]
 
 ##### Proverbs 13 - 16
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|Every]] [[Lexicon/H6101-6200#H6175|prudent [man]]] [[Lexicon/H6201-6300#H6213|Acts -]] [[Lexicon/H1801-1900#H1847|with knowledge ,]] [[Lexicon/H3601-3700#H3684|but a fool]] [[Lexicon/H6501-6600#H6566|displays]] [[Lexicon/H101-200#H200|[his] folly.]]
+=======
+[[Lexicon/H3601-3700#H3605|Every]] [[Lexicon/H6101-6200#H6175|prudent (man)]] [[Lexicon/H6201-6300#H6213|Acts -]] [[Lexicon/H1801-1900#H1847|with knowledge ,]] [[Lexicon/H3601-3700#H3684|but a fool]] [[Lexicon/H6501-6600#H6566|displays]] [[Lexicon/H101-200#H200|(his) folly.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 13 - 17
 [[Lexicon/H7501-7600#H7563|A wicked]] [[Lexicon/H4301-4400#H4397|messenger]] [[Lexicon/H5301-5400#H5307|falls]] [[Lexicon/H7401-7500#H7451|into trouble ,]] [[Lexicon/H501-600#H529|but a faithful]] [[Lexicon/H6701-6800#H6735|envoy]] [[Lexicon/H4801-4900#H4832|brings healing.]]
@@ -73,10 +88,17 @@ cssClasses: lexicon
 [[Lexicon/H7401-7500#H7451|Disaster]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7291|pursues]] [[Lexicon/H2301-2400#H2400|sinners ,]] [[Lexicon/H2801-2900#H2896|but prosperity]] [[Lexicon/H7901-8000#H7999|is the reward]] [[Lexicon/H6601-6700#H6662|of the righteous.]]
 
 ##### Proverbs 13 - 22
+<<<<<<< HEAD
 [[Lexicon/H2801-2900#H2896|A good]] [[Lexicon/H5101-5200#H5157|man leaves an inheritance]] [[Lexicon/H1101-1200#H1121|to his children’s]] [[Lexicon/H1101-1200#H1121|children ,]] [[Lexicon/H2301-2400#H2398|but the sinner’s]] [[Lexicon/H2401-2500#H2428|wealth]] [[Lexicon/H6801-6900#H6845|[is] passed]] [[Lexicon/H6601-6700#H6662|to the righteous.]]
 
 ##### Proverbs 13 - 23
 [[Lexicon/H7201-7300#H7230|Abundant]] [[Lexicon/H301-400#H400|food]] [[Lexicon/H5201-5300#H5215|[is in] the fallow ground]] [[Lexicon/H7301-7400#H7326|of the poor ,]] [[Lexicon/H3801-3900#H3808|but without]] [[Lexicon/H4601-4700#H4639|justice]] [[Lexicon/H3401-3500#H3426|it is]] [[Lexicon/H5501-5600#H5595|swept away.]]
+=======
+[[Lexicon/H2801-2900#H2896|A good]] [[Lexicon/H5101-5200#H5157|man leaves an inheritance]] [[Lexicon/H1101-1200#H1121|to his children’s]] [[Lexicon/H1101-1200#H1121|children ,]] [[Lexicon/H2301-2400#H2398|but the sinner’s]] [[Lexicon/H2401-2500#H2428|wealth]] [[Lexicon/H6801-6900#H6845|(is) passed]] [[Lexicon/H6601-6700#H6662|to the righteous.]]
+
+##### Proverbs 13 - 23
+[[Lexicon/H7201-7300#H7230|Abundant]] [[Lexicon/H301-400#H400|food]] [[Lexicon/H5201-5300#H5215|(is in) the fallow ground]] [[Lexicon/H7301-7400#H7326|of the poor ,]] [[Lexicon/H3801-3900#H3808|but without]] [[Lexicon/H4601-4700#H4639|justice]] [[Lexicon/H3401-3500#H3426|it is]] [[Lexicon/H5501-5600#H5595|swept away.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 13 - 24
 [[Lexicon/H2801-2900#H2820|He who spares]] [[Lexicon/H7601-7700#H7626|the rod]] [[Lexicon/H8101-8200#H8130|hates]] [[Lexicon/H1101-1200#H1121|his son ,]] [[Lexicon/H101-200#H157|but he who loves him]] [[Lexicon/H4101-4200#H4148|disciplines him]] [[Lexicon/H7801-7900#H7836|diligently.]]

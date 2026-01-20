@@ -72,7 +72,11 @@ Testament: Old
 [[Lexicon/G3701-3800#G3704|so that]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1345|my ordinances]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|they shall execute]] [[Lexicon/G1401-1500#G1473|them.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|they will be]] [[Lexicon/G1401-1500#G1473|to me]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2901-3000#G2992|a people,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G1401-1500#G1473|to them]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2301-2400#G2316|God.]]
 
 #### Ezekiel 11 - 21
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2588|heart]] [[Lexicon/G901-1000#G0946|of their abominations,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0458|of their lawlessnesses,]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2501-2600#G2588|their heart]] [[Lexicon/G4101-4200#G4198|went,]] [[Lexicon/G3501-3600#G3598|their ways]] [[Lexicon/G3001-3100#G3004|says]] Adonai
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2588|heart]] [[Lexicon/G901-1000#G0946|of their abominations,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0458|of their lawlessnesses,]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2588|their heart]] [[Lexicon/G4101-4200#G4198|went,]] [[Lexicon/G3501-3600#G3598|their ways]] [[Lexicon/G3001-3100#G3004|says]] Adonai
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Ezekiel 11 - 22
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1808|lifted up]] [[Lexicon/G4401-4500#G4420|their wings,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5101-5200#G5164|wheels]] [[Lexicon/G2101-2200#G2192|were next to]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1301-1400#G1391|glory]] [[Lexicon/G2301-2400#G2316|of the God]] of Israel [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G5201-5300#G5231|up above]] [[Lexicon/G1401-1500#G1473|them.]]

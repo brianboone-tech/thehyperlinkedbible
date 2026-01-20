@@ -46,5 +46,9 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 111#Psalm 111 - 9|LXX]] |
 
 ##### Psalm 111 - 10
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3374|The fear]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H7201-7300#H7225|is the beginning]] [[Lexicon/H2401-2500#H2451|of wisdom ;]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6201-6300#H6213|who follow [His precepts]]] [[Lexicon/H2801-2900#H2896|[gain] rich]] [[Lexicon/H7901-8000#H7922|understanding.]] [[Lexicon/H8401-8500#H8416|His praise]] [[Lexicon/H5901-6000#H5975|endures]] [[Lexicon/H5701-5800#H5703|forever !]]
+=======
+[[Lexicon/H3301-3400#H3374|The fear]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H7201-7300#H7225|is the beginning]] [[Lexicon/H2401-2500#H2451|of wisdom ;]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6201-6300#H6213|who follow (His precepts)]] [[Lexicon/H2801-2900#H2896|(gain) rich]] [[Lexicon/H7901-8000#H7922|understanding.]] [[Lexicon/H8401-8500#H8416|His praise]] [[Lexicon/H5901-6000#H5975|endures]] [[Lexicon/H5701-5800#H5703|forever !]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 111#Psalm 111 - 10|LXX]] |

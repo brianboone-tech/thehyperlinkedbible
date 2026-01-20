@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 77
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 76#Psalm-R 76| Psalm 76]] - [[Readable Bible/19 - Psalms/Psalm 78#Psalm-R 78| Psalm 78]]
+=======
+# Psalm 77
+
+[[Readable Bible/19 - Psalms/Psalm 76|← Psalm 76]] | [[Readable Bible/19 - Psalms/Psalm 78|Psalm 78 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

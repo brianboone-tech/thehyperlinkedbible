@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Exodus 8 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 9 - TOSK|Ch 9 →]]
+=======
+**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 7 - TOSK|← Ch 7]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 9 - TOSK|Ch 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Philippians-R 3
 
 **[[Home/Scripture/50 - Philippians|Philippians]]**
 
 [[Readable Bible/50 - Philippians/Philippians 2#Philippians-R 2| Philippians 2]] - [[Readable Bible/50 - Philippians/Philippians 4#Philippians-R 4| Philippians 4]]
+=======
+# Philippians 3
+
+[[Readable Bible/50 - Philippians/Philippians 2|← Philippians 2]] | [[Readable Bible/50 - Philippians/Philippians 4|Philippians 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

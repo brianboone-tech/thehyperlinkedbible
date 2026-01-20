@@ -27,7 +27,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2901-3000#G2962|O lord,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1411|forces,]] [[Lexicon/G2301-2400#G2316|God]] of Israel, [[Lexicon/G4301-4400#G4337|take heed]] [[Lexicon/G1901-2000#G1980|to visit]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1484|nations!]] [[Lexicon/G3301-3400#G3361|You should not]] [[Lexicon/G3601-3700#G3627|pity]] [[Lexicon/G3901-4000#G3956|any]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2001-2100#G2038|ones practicing]] [[Lexicon/G401-500#G0458|lawlessness.]]
 
 #### Psalms 59 - 6
+<<<<<<< HEAD
 [[Lexicon/G1901-2000#G1994|They shall return]] [[Lexicon/G1501-1600#G1519|at]] [[Lexicon/G2001-2100#G2073|evening,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3042|shall be famished]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2901-3000#G2965|a dog,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2944|shall circle]]
+=======
+[[Lexicon/G1901-2000#G1994|They shall return]] [[Lexicon/G1501-1600#G1519|at]] [[Lexicon/G2001-2100#G2073|evening,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3042|shall be famished]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2901-3000#G2965|a dog,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2944|shall circle]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 59 - 7
 [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G601-700#G0669|shall declare]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G4701-4800#G4750|their mouths;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5401-5500#G5491|their lips;]] [[Lexicon/G3701-3800#G3754|for they say,]] [[Lexicon/G5001-5100#G5100|Who]] [[Lexicon/G101-200#G0191|hears?]]
@@ -51,7 +55,11 @@ Testament: Old
 [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G4901-5000#G4930|consummation,]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G3701-3800#G3709|anger]] [[Lexicon/G4901-5000#G4930|of consummation consume,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G5201-5300#G5224|they should exist;]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G1001-1100#G1097|they shall know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G2301-2400#G2316|God]] of Jacob, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4001-4100#G4009|ends]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1001-1100#G1093|earth.]] [[Lexicon/G1301-1400#G1316|PAUSE.]]
 
 #### Psalms 59 - 14
+<<<<<<< HEAD
 [[Lexicon/G1901-2000#G1994|They shall return]] [[Lexicon/G1501-1600#G1519|at]] [[Lexicon/G2001-2100#G2073|evening,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3042|be famished]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2901-3000#G2965|a dog,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2944|shall circle]]
+=======
+[[Lexicon/G1901-2000#G1994|They shall return]] [[Lexicon/G1501-1600#G1519|at]] [[Lexicon/G2001-2100#G2073|evening,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3042|be famished]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2901-3000#G2965|a dog,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2944|shall circle]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 59 - 15
 [[Lexicon/G1401-1500#G1473|They]] [[Lexicon/G1201-1300#G1287|shall be dispersed]] [[Lexicon/G2001-2100#G2068|to eat,]] [[Lexicon/G1401-1500#G1437|but if]] [[Lexicon/G3301-3400#G3361|they should not]] [[Lexicon/G5501-5600#G5526|be filled,]] [[Lexicon/G2501-2600#G2532|then]] [[Lexicon/G1101-1200#G1111|they shall grumble.]]

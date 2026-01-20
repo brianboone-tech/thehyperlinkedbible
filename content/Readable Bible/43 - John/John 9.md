@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # John-R 9
 
 **[[Home/Scripture/43 - John|John]]**
 
 [[Readable Bible/43 - John/John 8#John-R 8| John 8]] - [[Readable Bible/43 - John/John 10#John-R 10| John 10]]
+=======
+# John 9
+
+[[Readable Bible/43 - John/John 8|← John 8]] | [[Readable Bible/43 - John/John 10|John 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

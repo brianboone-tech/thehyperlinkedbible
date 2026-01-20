@@ -36,7 +36,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4901-5000#G4982|he delivered]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1752|because of]] [[Lexicon/G3601-3700#G3686|his name,]] [[Lexicon/G1101-1200#G1107|to make known]] [[Lexicon/G1401-1500#G1412|his might.]]
 
 #### Psalms 106 - 9
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2008|he reproached]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2063|red]] [[Lexicon/G2201-2300#G2281|sea,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3583|it was dried up.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3594|he guided]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1701-1800#G1722|in]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2008|he reproached]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2063|red]] [[Lexicon/G2201-2300#G2281|sea,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3583|it was dried up.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3594|he guided]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1701-1800#G1722|in]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 106 - 10
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4901-5000#G4982|he delivered]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1501-1600#G1537|out of]] [[Lexicon/G3401-3500#G3404|of the one detesting;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3084|he ransomed]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1501-1600#G1537|out of]] [[Lexicon/G2101-2200#G2190|of enemies.]]

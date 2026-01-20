@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/37 - Haggai|← Haggai]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/37 - Haggai|← Haggai]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

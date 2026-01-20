@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/16 - Nehemiah|← Nehemiah]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/16 - Nehemiah|← Nehemiah]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

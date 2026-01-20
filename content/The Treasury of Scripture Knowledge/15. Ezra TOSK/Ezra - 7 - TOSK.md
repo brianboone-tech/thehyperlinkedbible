@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Ezra 7 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/15 - Ezra|← Ezra]]** | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 6 - TOSK|← Ch 6]] | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 8 - TOSK|Ch 8 →]]
+=======
+**[[Home/Indexes/Readable Bible/15 - Ezra|← Ezra]]** | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 6 - TOSK|← Ch 6]] | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 8 - TOSK|Ch 8 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -13,7 +13,11 @@ cssClasses: lexicon
 [[Lexicon/H7901-8000#H7969|In the third]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H4401-4500#H4438|of the reign]] [[Lexicon/H3001-3100#H3079|of Jehoiakim]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H3001-3100#H3063|of Judah ,]] [[Lexicon/H5001-5100#H5019|Nebuchadnezzar]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H801-900#H894|of Babylon]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H3301-3400#H3389|to Jerusalem]] [[Lexicon/H6601-6700#H6696|and besieged]] [[Lexicon/H5901-6000#H5921|it.]]
 
 ##### Daniel 1 - 2
+<<<<<<< HEAD
 [[Lexicon/H101-200#H136|And the Lord]] [[Lexicon/H5401-5500#H5414|delivered]] [[Lexicon/H3001-3100#H3027|into his hand]] [[Lexicon/H3001-3100#H3079|Jehoiakim]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H3001-3100#H3063|of Judah ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7117|along with some]] [[Lexicon/H3601-3700#H3627|of the articles]] [[Lexicon/H1001-1100#H1004|from the house]] [[Lexicon/H401-500#H430|of God.]] [[Lexicon/H901-1000#H935|He carried [these] off]] [[Lexicon/H701-800#H776|to the land]] [[Lexicon/H8101-8200#H8152|of Shinar ,]] [[Lexicon/H1001-1100#H1004|to the house]] [[Lexicon/H401-500#H430|of his god ,]] [[Lexicon/H801-900#H853|[where]]] [[Lexicon/H901-1000#H935|he put]] [[Lexicon/H3601-3700#H3627|[them]]] [[Lexicon/H1001-1100#H1004|vvv]] [[Lexicon/H201-300#H214|in the treasury]] [[Lexicon/H401-500#H430|of his god.]]
+=======
+[[Lexicon/H101-200#H136|And the Lord]] [[Lexicon/H5401-5500#H5414|delivered]] [[Lexicon/H3001-3100#H3027|into his hand]] [[Lexicon/H3001-3100#H3079|Jehoiakim]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H3001-3100#H3063|of Judah ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7117|along with some]] [[Lexicon/H3601-3700#H3627|of the articles]] [[Lexicon/H1001-1100#H1004|from the house]] [[Lexicon/H401-500#H430|of God.]] [[Lexicon/H901-1000#H935|He carried (these) off]] [[Lexicon/H701-800#H776|to the land]] [[Lexicon/H8101-8200#H8152|of Shinar ,]] [[Lexicon/H1001-1100#H1004|to the house]] [[Lexicon/H401-500#H430|of his god ,]] [[Lexicon/H801-900#H853|(where)]] [[Lexicon/H901-1000#H935|he put]] [[Lexicon/H3601-3700#H3627|(them)]] [[Lexicon/H1001-1100#H1004|vvv]] [[Lexicon/H201-300#H214|in the treasury]] [[Lexicon/H401-500#H430|of his god.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Daniel 1 - 3
 [[Lexicon/H4401-4500#H4428|Then the king]] [[Lexicon/H501-600#H559|ordered]] [[Lexicon/H801-900#H828|Ashpenaz ,]] [[Lexicon/H7201-7300#H7227|the chief]] [[Lexicon/H5601-5700#H5631|of his court officials ,]] [[Lexicon/H901-1000#H935|to bring in]] [[Lexicon/H4401-4500#H4480|some]] [[Lexicon/H1101-1200#H1121|Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H4401-4500#H4410|from the royal]] [[Lexicon/H2201-2300#H2233|family]] [[Lexicon/H6501-6600#H6579|and the nobility —]]
@@ -25,7 +29,11 @@ cssClasses: lexicon
 [[Lexicon/H4401-4500#H4428|The king]] [[Lexicon/H4401-4500#H4487|assigned]] [[Lexicon/H3101-3200#H3117|vvv]] [[Lexicon/H3101-3200#H3117|daily]] [[Lexicon/H6501-6600#H6598|]] [[Lexicon/H1601-1700#H1697|provisions]] [[Lexicon/H4401-4500#H4428|of the royal]] [[Lexicon/H6501-6600#H6598|food]] [[Lexicon/H3101-3200#H3196|and wine]] [[Lexicon/H4901-5000#H4960|....]] [[Lexicon/H1401-1500#H1431|They were to be trained]] [[Lexicon/H7901-8000#H7969|for three]] [[Lexicon/H8101-8200#H8141|years ,]] [[Lexicon/H7101-7200#H7117|after which]] [[Lexicon/H5901-6000#H5975|they were to enter]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H4401-4500#H4428|the king’s service.]]
 
 ##### Daniel 1 - 6
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|were some]] [[Lexicon/H1101-1200#H1121|[from]]] [[Lexicon/H3001-3100#H3063|Judah :]] [[Lexicon/H1801-1900#H1841|Daniel - ,]] [[Lexicon/H2601-2700#H2608|Hananiah ,]] [[Lexicon/H4301-4400#H4332|Mishael ,]] [[Lexicon/H5801-5900#H5838|and Azariah.]]
+=======
+[[Lexicon/H1901-2000#H1961|were some]] [[Lexicon/H1101-1200#H1121|(from)]] [[Lexicon/H3001-3100#H3063|Judah :]] [[Lexicon/H1801-1900#H1841|Daniel - ,]] [[Lexicon/H2601-2700#H2608|Hananiah ,]] [[Lexicon/H4301-4400#H4332|Mishael ,]] [[Lexicon/H5801-5900#H5838|and Azariah.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Daniel 1 - 7
 [[Lexicon/H8201-8300#H8269|The chief]] [[Lexicon/H5601-5700#H5631|official]] [[Lexicon/H7701-7800#H7760|gave them]] [[Lexicon/H8001-8100#H8034|new names :]] [[Lexicon/H1801-1900#H1841|To Daniel -]] [[Lexicon/H7701-7800#H7760|he gave]] [[Lexicon/H1001-1100#H1095|the name Belteshazzar ;]] [[Lexicon/H2601-2700#H2608|to Hananiah ,]] [[Lexicon/H7701-7800#H7714|Shadrach ;]] [[Lexicon/H4301-4400#H4332|to Mishael ,]] [[Lexicon/H4301-4400#H4335|Meshach ;]] [[Lexicon/H5801-5900#H5838|and to Azariah ,]] [[Lexicon/H5601-5700#H5664|vvv]] [[Lexicon/H5601-5700#H5664|Abednego.]]
@@ -55,7 +63,11 @@ cssClasses: lexicon
 [[Lexicon/H4401-4500#H4480|And at]] [[Lexicon/H7101-7200#H7117|the end]] [[Lexicon/H6201-6300#H6235|of ten]] [[Lexicon/H3101-3200#H3117|days ,]] [[Lexicon/H7101-7200#H7200|they looked]] [[Lexicon/H4701-4800#H4758|...]] [[Lexicon/H2801-2900#H2896|healthier]] [[Lexicon/H1201-1300#H1277|and better nourished]] [[Lexicon/H1301-1400#H1320|...]] [[Lexicon/H3601-3700#H3605|than all]] [[Lexicon/H3201-3300#H3206|the young men]] [[Lexicon/H301-400#H398|who were eating]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4401-4500#H4428|the king’s]] [[Lexicon/H6501-6600#H6598|food.]]
 
 ##### Daniel 1 - 16
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|So]] [[Lexicon/H4401-4500#H4453|the steward]] [[Lexicon/H5301-5400#H5375|continued to withhold]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6501-6600#H6598|their choice food]] [[Lexicon/H3101-3200#H3196|and the wine]] [[Lexicon/H4901-5000#H4960|they were to drink ,]] [[Lexicon/H5401-5500#H5414|and he gave]] [[Lexicon/H2201-2300#H2235|vegetables [instead].]]
+=======
+[[Lexicon/H1901-2000#H1961|So]] [[Lexicon/H4401-4500#H4453|the steward]] [[Lexicon/H5301-5400#H5375|continued to withhold]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6501-6600#H6598|their choice food]] [[Lexicon/H3101-3200#H3196|and the wine]] [[Lexicon/H4901-5000#H4960|they were to drink ,]] [[Lexicon/H5401-5500#H5414|and he gave]] [[Lexicon/H2201-2300#H2235|vegetables (instead).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Daniel 1 - 17
 [[Lexicon/H401-500#H428|To these]] [[Lexicon/H701-800#H702|four]] [[Lexicon/H3201-3300#H3206|young men]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H4001-4100#H4093|knowledge]] [[Lexicon/H7901-8000#H7919|and understanding]] [[Lexicon/H3601-3700#H3605|in every kind]] [[Lexicon/H5601-5700#H5612|of literature]] [[Lexicon/H2401-2500#H2451|and wisdom.]] [[Lexicon/H1801-1900#H1841|And Daniel -]] [[Lexicon/H901-1000#H995|had insight]] [[Lexicon/H3601-3700#H3605|into all kinds]] [[Lexicon/H2301-2400#H2377|of visions]] [[Lexicon/H2401-2500#H2472|and dreams.]]
@@ -64,7 +76,11 @@ cssClasses: lexicon
 [[Lexicon/H7101-7200#H7117|Now at the end]] [[Lexicon/H3101-3200#H3117|of the time]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H559|specified]] [[Lexicon/H4401-4500#H4428|by the king]] [[Lexicon/H901-1000#H935|- ,]] [[Lexicon/H8201-8300#H8269|the chief]] [[Lexicon/H5601-5700#H5631|official]] [[Lexicon/H901-1000#H935|presented them]] [[Lexicon/H6401-6500#H6440|to]] [[Lexicon/H5001-5100#H5019|Nebuchadnezzar.]]
 
 ##### Daniel 1 - 19
+<<<<<<< HEAD
 [[Lexicon/H4401-4500#H4428|And the king]] [[Lexicon/H1601-1700#H1696|spoke with them ,]] [[Lexicon/H801-900#H854|and among]] [[Lexicon/H3601-3700#H3605|all [the young men]]] [[Lexicon/H4601-4700#H4672|he found]] [[Lexicon/H3801-3900#H3808|no one]] [[Lexicon/H1801-1900#H1841|equal to Daniel - ,]] [[Lexicon/H2601-2700#H2608|Hananiah ,]] [[Lexicon/H4301-4400#H4332|Mishael ,]] [[Lexicon/H5801-5900#H5838|and Azariah.]] [[Lexicon/H5901-6000#H5975|So they entered]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H4401-4500#H4428|the king’s service.]]
+=======
+[[Lexicon/H4401-4500#H4428|And the king]] [[Lexicon/H1601-1700#H1696|spoke with them ,]] [[Lexicon/H801-900#H854|and among]] [[Lexicon/H3601-3700#H3605|all (the young men)]] [[Lexicon/H4601-4700#H4672|he found]] [[Lexicon/H3801-3900#H3808|no one]] [[Lexicon/H1801-1900#H1841|equal to Daniel - ,]] [[Lexicon/H2601-2700#H2608|Hananiah ,]] [[Lexicon/H4301-4400#H4332|Mishael ,]] [[Lexicon/H5801-5900#H5838|and Azariah.]] [[Lexicon/H5901-6000#H5975|So they entered]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H4401-4500#H4428|the king’s service.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Daniel 1 - 20
 [[Lexicon/H3601-3700#H3605|In every]] [[Lexicon/H1601-1700#H1697|matter]] [[Lexicon/H2401-2500#H2451|of wisdom]] [[Lexicon/H901-1000#H998|and understanding]] [[Lexicon/H801-900#H834|about which]] [[Lexicon/H4401-4500#H4428|the king]] [[Lexicon/H1201-1300#H1245|consulted]] [[Lexicon/H4601-4700#H4672|he found them]] [[Lexicon/H6201-6300#H6235|ten]] [[Lexicon/H3001-3100#H3027|times]] [[Lexicon/H5901-6000#H5921|better than]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H825|the magicians]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2701-2800#H2748|and enchanters]] [[Lexicon/H3601-3700#H3605|in his entire]] [[Lexicon/H4401-4500#H4438|kingdom.]]

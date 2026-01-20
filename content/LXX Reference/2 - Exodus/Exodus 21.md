@@ -30,7 +30,11 @@ Testament: Old
 [[Lexicon/G4301-4400#G4317|shall lead]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2922|judgment seat]] [[Lexicon/G2301-2400#G2316|of God,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5101-5200#G5119|then]] [[Lexicon/G4301-4400#G4317|lead]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2374|door,]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4701-4800#G4712|doorpost.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G5101-5200#G5168|shall make a hole in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3775|ear]] [[Lexicon/G3501-3600#G3588|with the]] [[Lexicon/G3601-3700#G3692|shoemaker's awl,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1398|he shall serve]] [[Lexicon/G1401-1500#G1473|to him]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0165|eon.]]
 
 #### Exodus 21 - 7
+<<<<<<< HEAD
 [[Lexicon/G1401-1500#G1437|But if]] [[Lexicon/G5001-5100#G5100|any]] [[Lexicon/G501-600#G0591|should give over]] [[Lexicon/G1401-1500#G1438|his own]] [[Lexicon/G2301-2400#G2364|daughter]] [[Lexicon/G3601-3700#G3610|as a domestic servant,]] [[Lexicon/G3701-3800#G3756|she shall not go forth]] [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G601-700#G0665|run forth]]
+=======
+[[Lexicon/G1401-1500#G1437|But if]] [[Lexicon/G5001-5100#G5100|any]] [[Lexicon/G501-600#G0591|should give over]] [[Lexicon/G1401-1500#G1438|his own]] [[Lexicon/G2301-2400#G2364|daughter]] [[Lexicon/G3601-3700#G3610|as a domestic servant,]] [[Lexicon/G3701-3800#G3756|she shall not go forth]] [[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G601-700#G0665|run forth]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Exodus 21 - 8
 [[Lexicon/G1401-1500#G1437|If]] [[Lexicon/G3301-3400#G3361|she should not be well-pleasing]] [[Lexicon/G2901-3000#G2962|her master,]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G3701-3800#G3756|did not]] [[Lexicon/G2501-2600#G2527|solemnly promise]] [[Lexicon/G1401-1500#G1473|her;]] [[Lexicon/G601-700#G0628|on payment of ransom he shall release]] [[Lexicon/G1401-1500#G1473|her;]] [[Lexicon/G1401-1500#G1484|nation]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G101-200#G0114|he disrespected]] [[Lexicon/G1401-1500#G1473|her.]]

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Malachi-R 2
 
 **[[Home/Scripture/39 - Malachi|Malachi]]**
 
 [[Readable Bible/39 - Malachi/Malachi 1#Malachi-R 1| Malachi 1]] - [[Readable Bible/39 - Malachi/Malachi 3#Malachi-R 3| Malachi 3]]
+=======
+# Malachi 2
+
+[[Readable Bible/39 - Malachi/Malachi 1|← Malachi 1]] | [[Readable Bible/39 - Malachi/Malachi 3|Malachi 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -62,4 +68,8 @@ cssClasses: lexicon
 [[Reference Bible/39 - Malachi/Malachi 2#Malachi 2 - 16|16]] "For I hate divorce," says the LORD, the God of Israel. "He who divorces his wife covers his garment with violence," says the LORD of Hosts. So guard yourselves in your spirit and do not break faith.  | [[Intertextuality Pairs/OT to OT/39 - Malachi/Malachi 2.16 to Deuteronomy 24.1|IP]] | [[The Treasury of Scripture Knowledge/39. Malachi TOSK/Malachi - 2 - TOSK#Verse 16|TOSK]] |
 
 ##### Malachi 2 . 17
+<<<<<<< HEAD
 [[Reference Bible/39 - Malachi/Malachi 2#Malachi 2 - 17|17]] You have wearied the LORD with your words; yet you ask, "How have we wearied Him?" By saying, "All who do evil are good in the sight of the LORD, and in them He delights," or, "Where is the God of justice?"  | [[Chiasm/Chiasm - 39 - Malachi 2 . 17 - 3 . 5|C]] | [[The Treasury of Scripture Knowledge/39. Malachi TOSK/Malachi - 2 - TOSK#Verse 17|TOSK]] | 
+=======
+[[Reference Bible/39 - Malachi/Malachi 2#Malachi 2 - 17|17]] You have wearied the LORD with your words; yet you ask, "How have we wearied Him?" By saying, "All who do evil are good in the sight of the LORD, and in them He delights," or, "Where is the God of justice?"  | [[Chiasm/Chiasm - 39 - Malachi 2 . 17 - 3 . 5|C]] | [[The Treasury of Scripture Knowledge/39. Malachi TOSK/Malachi - 2 - TOSK#Verse 17|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

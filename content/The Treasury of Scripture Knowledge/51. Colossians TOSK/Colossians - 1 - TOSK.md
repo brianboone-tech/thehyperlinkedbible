@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Colossians 1 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/51 - Colossians|← Colossians]]** | [[The Treasury of Scripture Knowledge/51. Colossians TOSK/Colossians - 2 - TOSK|Ch 2 →]]
+=======
+**[[Home/Indexes/Readable Bible/51 - Colossians|← Colossians]]** | [[The Treasury of Scripture Knowledge/51. Colossians TOSK/Colossians - 2 - TOSK|Ch 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

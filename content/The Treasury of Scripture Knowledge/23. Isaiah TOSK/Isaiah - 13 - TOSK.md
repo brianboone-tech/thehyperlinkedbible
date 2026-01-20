@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Isaiah 13 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 12 - TOSK|← Ch 12]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 14 - TOSK|Ch 14 →]]
+=======
+**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 12 - TOSK|← Ch 12]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 14 - TOSK|Ch 14 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -45,7 +45,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|I said,]] [[Lexicon/G601-700#G0686|Surely]] [[Lexicon/G4601-4700#G4655|darkness]] [[Lexicon/G2601-2700#G2662|shall trample]] [[Lexicon/G1401-1500#G1473|me;]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G5401-5500#G5462|was illumination]] [[Lexicon/G1701-1800#G1722|for]] [[Lexicon/G5101-5200#G5172|my luxury;]]
 
 #### Psalms 139 - 12
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4601-4700#G4655|darkness]] [[Lexicon/G3701-3800#G3756|will not]] [[Lexicon/G4601-4700#G4654|be made darkness]] [[Lexicon/G501-600#G0575|with]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3571|night]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G5401-5500#G5461|shall be given light;]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4601-4700#G4655|its darkness,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G2501-2600#G2532|also]] [[Lexicon/G5401-5500#G5457|its light.]]
+=======
+[[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4601-4700#G4655|darkness]] [[Lexicon/G3701-3800#G3756|will not]] [[Lexicon/G4601-4700#G4654|be made darkness]] [[Lexicon/G501-600#G0575|with]] [[Lexicon/G1401-1500#G1473|you;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3571|night]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G5401-5500#G5461|shall be given light;]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4601-4700#G4655|its darkness,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G2501-2600#G2532|also]] [[Lexicon/G5401-5500#G5457|its light.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 139 - 13
 [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2901-3000#G2932|acquired]] [[Lexicon/G3501-3600#G3510|of my kidneys;]] [[Lexicon/G401-500#G0482|you took hold of]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G3301-3400#G3384|of my mother.]]

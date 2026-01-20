@@ -14,7 +14,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 91#Psalm 91 - 1|LXX]] |
 
 ##### Psalm 91 - 2
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|I will say]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H4201-4300#H4268|“ [You are] my refuge]] [[Lexicon/H4601-4700#H4686|and my fortress ,]] [[Lexicon/H401-500#H430|my God ,]] [[Lexicon/H901-1000#H982|in whom I trust]]
+=======
+[[Lexicon/H501-600#H559|I will say]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H4201-4300#H4268|“ (You are) my refuge]] [[Lexicon/H4601-4700#H4686|and my fortress ,]] [[Lexicon/H401-500#H430|my God ,]] [[Lexicon/H901-1000#H982|in whom I trust]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 91#Psalm 91 - 2|LXX]] |
 
 ##### Psalm 91 - 3
@@ -30,11 +34,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 91#Psalm 91 - 5|LXX]] |
 
 ##### Psalm 91 - 6
+<<<<<<< HEAD
 [[Lexicon/H1601-1700#H1698|[nor] the pestilence]] [[Lexicon/H1901-2000#H1980|that stalks]] [[Lexicon/H601-700#H652|in the darkness ,]] [[Lexicon/H6901-7000#H6986|[nor] the calamity]] [[Lexicon/H7701-7800#H7736|that destroys]] [[Lexicon/H6601-6700#H6672|at noon.]]
 | [[LXX Reference/19 - Psalms/Psalms 91#Psalm 91 - 6|LXX]] |
 
 ##### Psalm 91 - 7
 [[Lexicon/H501-600#H505|Though a thousand]] [[Lexicon/H5301-5400#H5307|may fall]] [[Lexicon/H6601-6700#H6654|at your side ,]] [[Lexicon/H7201-7300#H7233|and ten thousand]] [[Lexicon/H3201-3300#H3225|at your right hand ,]] [[Lexicon/H3801-3900#H3808|no [harm]]] [[Lexicon/H401-500#H413|will come near]] [[Lexicon/H5001-5100#H5066|you.]]
+=======
+[[Lexicon/H1601-1700#H1698|(nor) the pestilence]] [[Lexicon/H1901-2000#H1980|that stalks]] [[Lexicon/H601-700#H652|in the darkness ,]] [[Lexicon/H6901-7000#H6986|(nor) the calamity]] [[Lexicon/H7701-7800#H7736|that destroys]] [[Lexicon/H6601-6700#H6672|at noon.]]
+| [[LXX Reference/19 - Psalms/Psalms 91#Psalm 91 - 6|LXX]] |
+
+##### Psalm 91 - 7
+[[Lexicon/H501-600#H505|Though a thousand]] [[Lexicon/H5301-5400#H5307|may fall]] [[Lexicon/H6601-6700#H6654|at your side ,]] [[Lexicon/H7201-7300#H7233|and ten thousand]] [[Lexicon/H3201-3300#H3225|at your right hand ,]] [[Lexicon/H3801-3900#H3808|no (harm)]] [[Lexicon/H401-500#H413|will come near]] [[Lexicon/H5001-5100#H5066|you.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 91#Psalm 91 - 7|LXX]] |
 
 ##### Psalm 91 - 8

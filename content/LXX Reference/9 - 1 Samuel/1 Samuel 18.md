@@ -12,7 +12,11 @@ Testament: Old
 ---
 
 #### 1 Samuel 18 - 1
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4901-5000#G4931|he finished]] [[Lexicon/G2901-3000#G2980|speaking]] [[Lexicon/G4301-4400#G4314|to]] Saul, [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5501-5600#G5590|soul]] of Jonathan [[Lexicon/G4801-4900#G4887|was bound together]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G5501-5600#G5590|soul]] of David; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0025|loved]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G5501-5600#G5590|his own soul.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4901-5000#G4931|he finished]] [[Lexicon/G2901-3000#G2980|speaking]] [[Lexicon/G4301-4400#G4314|to]] Saul, [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5501-5600#G5590|soul]] of Jonathan [[Lexicon/G4801-4900#G4887|was bound together]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G5501-5600#G5590|soul]] of David; [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0025|loved]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G5501-5600#G5590|his own soul.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Samuel 18 - 2
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2983|received]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|that day,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|he did not allow]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1901-2000#G1994|to return]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] [[Lexicon/G3901-4000#G3962|of his father.]]
@@ -39,7 +43,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|Saul was]] [[Lexicon/G5201-5300#G5260|suspecting]] David [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2201-2300#G2250|that day]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1900|beyond.]]
 
 #### 1 Samuel 18 - 10
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1801-1900#G1887|next day,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G4001-4100#G4098|fell]] [[Lexicon/G1901-2000#G1909|upon]] Saul, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4395|he prophesied]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3301-3400#G3319|the midst]] [[Lexicon/G3601-3700#G3624|of his house;]] [[Lexicon/G2501-2600#G2532|And]] David [[Lexicon/G5501-5600#G5567|strummed]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G5401-5500#G5495|his hand]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G1501-1600#G1538|each]] [[Lexicon/G2201-2300#G2250|day;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1301-1400#G1393|wooden spear]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5495|hand]] of Saul.
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1801-1900#G1887|next day,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G4001-4100#G4098|fell]] [[Lexicon/G1901-2000#G1909|upon]] Saul, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4395|he prophesied]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3301-3400#G3319|the midst]] [[Lexicon/G3601-3700#G3624|of his house;]] [[Lexicon/G2501-2600#G2532|And]] David [[Lexicon/G5501-5600#G5567|strummed]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G5401-5500#G5495|his hand]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G1501-1600#G1538|each]] [[Lexicon/G2201-2300#G2250|day;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1301-1400#G1393|wooden spear]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5495|hand]] of Saul.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Samuel 18 - 11
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G101-200#G0142|Saul lifted]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1301-1400#G1393|wooden spear]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|said,]] [[Lexicon/G3901-4000#G3960|I will strike]] [[Lexicon/G1701-1800#G1722|into]] David [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5101-5200#G5109|wall.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1578|David turned aside]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4301-4400#G4383|his presence]] [[Lexicon/G1301-1400#G1364|twice.]]
@@ -54,7 +62,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|David was]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1510|was]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|him.]]
 
 #### 1 Samuel 18 - 15
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1492|Saul beheld]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1401-1500#G1473|he]] [[Lexicon/G4901-5000#G4920|perceived]] [[Lexicon/G4901-5000#G4970|exceedingly,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2125|he was cautious]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G4301-4400#G4383|his person.]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1492|Saul beheld]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1401-1500#G1473|he]] [[Lexicon/G4901-5000#G4920|perceived]] [[Lexicon/G4901-5000#G4970|exceedingly,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2125|he was cautious]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G4301-4400#G4383|his person.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Samuel 18 - 16
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3956|all]] Israel [[Lexicon/G2501-2600#G2532|and]] Judah [[Lexicon/G1-100#G0025|loved]] David, [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1401-1500#G1473|he]] [[Lexicon/G1501-1600#G1531|entered]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1601-1700#G1607|went forth]] [[Lexicon/G4201-4300#G4253|before]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2901-3000#G2992|people.]]

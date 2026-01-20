@@ -13,7 +13,11 @@ Chapter: "29"
 ---
 
 ##### Numbers 29 - 1
+<<<<<<< HEAD
 [[Lexicon/H201-300#H259|[“] On the first]] [[Lexicon/H2301-2400#H2320|day]] [[Lexicon/H7601-7700#H7637|of the seventh]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H1901-2000#H1961|you are to hold]] [[Lexicon/H6901-7000#H6944|a sacred]] [[Lexicon/H4701-4800#H4744|assembly ,]] [[Lexicon/H3801-3900#H3808|and you must not]] [[Lexicon/H6201-6300#H6213|do]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H4301-4400#H4399|regular work]] [[Lexicon/H5601-5700#H5656|....]] [[Lexicon/H1901-2000#H1961|This will be]] [[Lexicon/H3101-3200#H3117|a day]] [[Lexicon/H8601-8674#H8643|to sound the trumpets.]]
+=======
+[[Lexicon/H201-300#H259|(“) On the first]] [[Lexicon/H2301-2400#H2320|day]] [[Lexicon/H7601-7700#H7637|of the seventh]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H1901-2000#H1961|you are to hold]] [[Lexicon/H6901-7000#H6944|a sacred]] [[Lexicon/H4701-4800#H4744|assembly ,]] [[Lexicon/H3801-3900#H3808|and you must not]] [[Lexicon/H6201-6300#H6213|do]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H4301-4400#H4399|regular work]] [[Lexicon/H5601-5700#H5656|....]] [[Lexicon/H1901-2000#H1961|This will be]] [[Lexicon/H3101-3200#H3117|a day]] [[Lexicon/H8601-8674#H8643|to sound the trumpets.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 1|LXX]] |
 
 ##### Numbers 29 - 2
@@ -21,11 +25,19 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 2|LXX]] |
 
 ##### Numbers 29 - 3
+<<<<<<< HEAD
 [[Lexicon/H4501-4600#H4503|together with their grain offerings]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil —]] [[Lexicon/H7901-8000#H7969|three-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H6401-6500#H6499|with the bull ,]] [[Lexicon/H8101-8200#H8147|two-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H301-400#H352|with the ram ,]]
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 3|LXX]] |
 
 ##### Numbers 29 - 4
 [[Lexicon/H6201-6300#H6241|and a tenth [of an ephah]]] [[Lexicon/H201-300#H259|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H7601-7700#H7651|of the seven]] [[Lexicon/H3501-3600#H3532|...]] [[Lexicon/H3501-3600#H3532|male lambs.]]
+=======
+[[Lexicon/H4501-4600#H4503|together with their grain offerings]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil —]] [[Lexicon/H7901-8000#H7969|three-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H6401-6500#H6499|with the bull ,]] [[Lexicon/H8101-8200#H8147|two-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H301-400#H352|with the ram ,]]
+| [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 3|LXX]] |
+
+##### Numbers 29 - 4
+[[Lexicon/H6201-6300#H6241|and a tenth (of an ephah)]] [[Lexicon/H201-300#H259|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H7601-7700#H7651|of the seven]] [[Lexicon/H3501-3600#H3532|...]] [[Lexicon/H3501-3600#H3532|male lambs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 4|LXX]] |
 
 ##### Numbers 29 - 5
@@ -45,11 +57,19 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 8|LXX]] |
 
 ##### Numbers 29 - 9
+<<<<<<< HEAD
 [[Lexicon/H4501-4600#H4503|together with their grain offerings]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil —]] [[Lexicon/H7901-8000#H7969|three-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H6401-6500#H6499|with the bull ,]] [[Lexicon/H8101-8200#H8147|two-tenths [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H301-400#H352|with the ram ,]] [[Lexicon/H201-300#H259|...]]
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 9|LXX]] |
 
 ##### Numbers 29 - 10
 [[Lexicon/H6201-6300#H6241|and a tenth [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H7601-7700#H7651|of the seven]] [[Lexicon/H3501-3600#H3532|...]] [[Lexicon/H3501-3600#H3532|lambs.]]
+=======
+[[Lexicon/H4501-4600#H4503|together with their grain offerings]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil —]] [[Lexicon/H7901-8000#H7969|three-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H6401-6500#H6499|with the bull ,]] [[Lexicon/H8101-8200#H8147|two-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H301-400#H352|with the ram ,]] [[Lexicon/H201-300#H259|...]]
+| [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 9|LXX]] |
+
+##### Numbers 29 - 10
+[[Lexicon/H6201-6300#H6241|and a tenth (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H7601-7700#H7651|of the seven]] [[Lexicon/H3501-3600#H3532|...]] [[Lexicon/H3501-3600#H3532|lambs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 10|LXX]] |
 
 ##### Numbers 29 - 11
@@ -61,6 +81,7 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 12|LXX]] |
 
 ##### Numbers 29 - 13
+<<<<<<< HEAD
 [[Lexicon/H5201-5300#H5207|As a pleasing]] [[Lexicon/H7301-7400#H7381|aroma]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7101-7200#H7126|you are to present]] [[Lexicon/H801-900#H801|an offering made by fire ,]] [[Lexicon/H5901-6000#H5930|a burnt offering]] [[Lexicon/H7901-8000#H7969|of thirteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H1101-1200#H1121|young]] [[Lexicon/H1201-1300#H1241|...]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|[and] fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H1901-2000#H1961|all]] [[Lexicon/H8501-8600#H8549|unblemished ,]]
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 13|LXX]] |
 
@@ -70,6 +91,17 @@ Chapter: "29"
 
 ##### Numbers 29 - 15
 [[Lexicon/H6201-6300#H6241|and a tenth [of an ephah]]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H701-800#H702|of the fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|...]] [[Lexicon/H3501-3600#H3532|lambs.]]
+=======
+[[Lexicon/H5201-5300#H5207|As a pleasing]] [[Lexicon/H7301-7400#H7381|aroma]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7101-7200#H7126|you are to present]] [[Lexicon/H801-900#H801|an offering made by fire ,]] [[Lexicon/H5901-6000#H5930|a burnt offering]] [[Lexicon/H7901-8000#H7969|of thirteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H1101-1200#H1121|young]] [[Lexicon/H1201-1300#H1241|...]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|(and) fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H1901-2000#H1961|all]] [[Lexicon/H8501-8600#H8549|unblemished ,]]
+| [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 13|LXX]] |
+
+##### Numbers 29 - 14
+[[Lexicon/H4501-4600#H4503|along with the grain offering]] [[Lexicon/H7901-8000#H7969|of three-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H5501-5600#H5560|of fine flour]] [[Lexicon/H1101-1200#H1101|mixed]] [[Lexicon/H8001-8100#H8081|with oil]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H7901-8000#H7969|of the thirteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H6401-6500#H6499|...]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two-tenths (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H8101-8200#H8147|of the two]] [[Lexicon/H301-400#H352|...]] [[Lexicon/H301-400#H352|rams ,]]
+| [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 14|LXX]] |
+
+##### Numbers 29 - 15
+[[Lexicon/H6201-6300#H6241|and a tenth (of an ephah)]] [[Lexicon/H6201-6300#H6241|...]] [[Lexicon/H201-300#H259|with each]] [[Lexicon/H701-800#H702|of the fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|...]] [[Lexicon/H3501-3600#H3532|lambs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 15|LXX]] |
 
 ##### Numbers 29 - 16
@@ -77,7 +109,11 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 16|LXX]] |
 
 ##### Numbers 29 - 17
+<<<<<<< HEAD
 [[Lexicon/H8101-8200#H8145|On the second]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H8101-8200#H8147|[you are to present] twelve]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H6401-6500#H6499|young bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|[and] fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H1201-1300#H1241|...]] [[Lexicon/H8101-8200#H8141|a year old ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+=======
+[[Lexicon/H8101-8200#H8145|On the second]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H8101-8200#H8147|(you are to present) twelve]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H6401-6500#H6499|young bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|(and) fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H1101-1200#H1121|...]] [[Lexicon/H1201-1300#H1241|...]] [[Lexicon/H8101-8200#H8141|a year old ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 17|LXX]] |
 
 ##### Numbers 29 - 18
@@ -89,7 +125,11 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 19|LXX]] |
 
 ##### Numbers 29 - 20
+<<<<<<< HEAD
 [[Lexicon/H7901-8000#H7992|On the third]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6201-6300#H6249|[you are to present] eleven]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|[and] fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+=======
+[[Lexicon/H7901-8000#H7992|On the third]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6201-6300#H6249|(you are to present) eleven]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|(and) fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 20|LXX]] |
 
 ##### Numbers 29 - 21
@@ -101,7 +141,11 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 22|LXX]] |
 
 ##### Numbers 29 - 23
+<<<<<<< HEAD
 [[Lexicon/H7201-7300#H7243|On the fourth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6201-6300#H6235|[you are to present] ten]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|[and] fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+=======
+[[Lexicon/H7201-7300#H7243|On the fourth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H6201-6300#H6235|(you are to present) ten]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|(and) fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 23|LXX]] |
 
 ##### Numbers 29 - 24
@@ -113,7 +157,11 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 25|LXX]] |
 
 ##### Numbers 29 - 26
+<<<<<<< HEAD
 [[Lexicon/H2501-2600#H2549|On the fifth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H8601-8674#H8672|[you are to present] nine]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|[and] fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+=======
+[[Lexicon/H2501-2600#H2549|On the fifth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H8601-8674#H8672|(you are to present) nine]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|(and) fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 26|LXX]] |
 
 ##### Numbers 29 - 27
@@ -125,7 +173,11 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 28|LXX]] |
 
 ##### Numbers 29 - 29
+<<<<<<< HEAD
 [[Lexicon/H8301-8400#H8345|On the sixth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H8001-8100#H8083|[you are to present] eight]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|[and] fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+=======
+[[Lexicon/H8301-8400#H8345|On the sixth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H8001-8100#H8083|(you are to present) eight]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|(and) fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 29|LXX]] |
 
 ##### Numbers 29 - 30
@@ -137,7 +189,11 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 31|LXX]] |
 
 ##### Numbers 29 - 32
+<<<<<<< HEAD
 [[Lexicon/H7601-7700#H7637|On the seventh]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7651|[you are to present] seven]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|[and] fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+=======
+[[Lexicon/H7601-7700#H7637|On the seventh]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H7601-7700#H7651|(you are to present) seven]] [[Lexicon/H6401-6500#H6499|bulls ,]] [[Lexicon/H8101-8200#H8147|two]] [[Lexicon/H301-400#H352|rams ,]] [[Lexicon/H701-800#H702|(and) fourteen]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 32|LXX]] |
 
 ##### Numbers 29 - 33
@@ -153,7 +209,11 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 35|LXX]] |
 
 ##### Numbers 29 - 36
+<<<<<<< HEAD
 [[Lexicon/H5201-5300#H5207|As a pleasing]] [[Lexicon/H7301-7400#H7381|aroma]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7101-7200#H7126|you are to present]] [[Lexicon/H801-900#H801|an offering made by fire ,]] [[Lexicon/H5901-6000#H5930|a burnt offering]] [[Lexicon/H201-300#H259|of one]] [[Lexicon/H6401-6500#H6499|bull ,]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H301-400#H352|ram ,]] [[Lexicon/H7601-7700#H7651|[and] seven]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+=======
+[[Lexicon/H5201-5300#H5207|As a pleasing]] [[Lexicon/H7301-7400#H7381|aroma]] [[Lexicon/H3001-3100#H3068|to the LORD ,]] [[Lexicon/H7101-7200#H7126|you are to present]] [[Lexicon/H801-900#H801|an offering made by fire ,]] [[Lexicon/H5901-6000#H5930|a burnt offering]] [[Lexicon/H201-300#H259|of one]] [[Lexicon/H6401-6500#H6499|bull ,]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H301-400#H352|ram ,]] [[Lexicon/H7601-7700#H7651|(and) seven]] [[Lexicon/H3501-3600#H3532|male lambs]] [[Lexicon/H1101-1200#H1121|a year old]] [[Lexicon/H8101-8200#H8141|... ,]] [[Lexicon/H8501-8600#H8549|all unblemished ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 36|LXX]] |
 
 ##### Numbers 29 - 37
@@ -165,7 +225,11 @@ Chapter: "29"
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 38|LXX]] |
 
 ##### Numbers 29 - 39
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6213|You are to present]] [[Lexicon/H401-500#H428|these [offerings]]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H4101-4200#H4150|at your appointed times ,]] [[Lexicon/H901-1000#H905|in addition to]] [[Lexicon/H5001-5100#H5088|your vow]] [[Lexicon/H5001-5100#H5071|and freewill offerings ,]] [[Lexicon/H5901-6000#H5930|whether burnt offerings ,]] [[Lexicon/H4501-4600#H4503|grain offerings ,]] [[Lexicon/H5201-5300#H5262|drink offerings ,]] [[Lexicon/H8001-8100#H8002|or peace offerings. ”]]
+=======
+[[Lexicon/H6201-6300#H6213|You are to present]] [[Lexicon/H401-500#H428|these (offerings)]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H4101-4200#H4150|at your appointed times ,]] [[Lexicon/H901-1000#H905|in addition to]] [[Lexicon/H5001-5100#H5088|your vow]] [[Lexicon/H5001-5100#H5071|and freewill offerings ,]] [[Lexicon/H5901-6000#H5930|whether burnt offerings ,]] [[Lexicon/H4501-4600#H4503|grain offerings ,]] [[Lexicon/H5201-5300#H5262|drink offerings ,]] [[Lexicon/H8001-8100#H8002|or peace offerings. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 29#Numbers 29 - 39|LXX]] |
 
 ##### Numbers 29 - 40

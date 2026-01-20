@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/59 - James|← James]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/59 - James|← James]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Joshua-R 11
 
 **[[Home/Scripture/06 - Joshua|Joshua]]**
 
 [[Readable Bible/06 - Joshua/Joshua 10#Joshua-R 10| Joshua 10]] - [[Readable Bible/06 - Joshua/Joshua 12#Joshua-R 12| Joshua 12]]
+=======
+# Joshua 11
+
+[[Readable Bible/06 - Joshua/Joshua 10|← Joshua 10]] | [[Readable Bible/06 - Joshua/Joshua 12|Joshua 12 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Joshua 11 . 1
+<<<<<<< HEAD
 [[Reference Bible/6 - Joshua/Joshua 11#Joshua 11 - 1|1]] Now when Jabin king of Hazor heard about these things, he sent word to Jobab king of Madon; to the kings of Shimron and Achshaph;   || [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 11 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/6 - Joshua/Joshua 11#Joshua 11 - 1|1]] Now when Jabin king of Hazor heard about these things, he sent word to Jobab king of Madon; to the kings of Shimron and Achshaph;  | | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 11 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Joshua 11 . 2
 [[Reference Bible/6 - Joshua/Joshua 11#Joshua 11 - 2|2]] to the kings of the north in the mountains, in the Arabah south of Chinnereth, in the foothills, and in Naphoth-dor to the west;  | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 11 - TOSK#Verse 2|TOSK]] |

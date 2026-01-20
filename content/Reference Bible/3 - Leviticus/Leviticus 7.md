@@ -12,11 +12,19 @@ Book: Leviticus
 ---
 
 ##### Leviticus 7 - 1
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2063|[“] Now this]] [[Lexicon/H8401-8500#H8451|is the law]] [[Lexicon/H801-900#H817|of the guilt offering ,]] [[Lexicon/H1901-2000#H1931|which [is]]] [[Lexicon/H6901-7000#H6944|most]] [[Lexicon/H6901-7000#H6944|holy :]]
 | [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 1|LXX]] |
 
 ##### Leviticus 7 - 2
 [[Lexicon/H801-900#H817|The guilt offering]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7801-7900#H7819|must be slaughtered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4701-4800#H4725|in the place]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H5901-6000#H5930|the burnt offering]] [[Lexicon/H7801-7900#H7819|is slaughtered ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2201-2300#H2236|and [the priest] shall sprinkle]] [[Lexicon/H1801-1900#H1818|its blood]] [[Lexicon/H5401-5500#H5439|on all sides]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H4101-4200#H4196|the altar.]]
+=======
+[[Lexicon/H2001-2100#H2063|(“) Now this]] [[Lexicon/H8401-8500#H8451|is the law]] [[Lexicon/H801-900#H817|of the guilt offering ,]] [[Lexicon/H1901-2000#H1931|which (is)]] [[Lexicon/H6901-7000#H6944|most]] [[Lexicon/H6901-7000#H6944|holy :]]
+| [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 1|LXX]] |
+
+##### Leviticus 7 - 2
+[[Lexicon/H801-900#H817|The guilt offering]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7801-7900#H7819|must be slaughtered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4701-4800#H4725|in the place]] [[Lexicon/H801-900#H834|where]] [[Lexicon/H5901-6000#H5930|the burnt offering]] [[Lexicon/H7801-7900#H7819|is slaughtered ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2201-2300#H2236|and (the priest) shall sprinkle]] [[Lexicon/H1801-1900#H1818|its blood]] [[Lexicon/H5401-5500#H5439|on all sides]] [[Lexicon/H5901-6000#H5921|of]] [[Lexicon/H4101-4200#H4196|the altar.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 2|LXX]] |
 
 ##### Leviticus 7 - 3
@@ -32,7 +40,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 5|LXX]] |
 
 ##### Leviticus 7 - 6
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|Every]] [[Lexicon/H2101-2200#H2145|male]] [[Lexicon/H3501-3600#H3548|among the priests]] [[Lexicon/H301-400#H398|may eat of it.]] [[Lexicon/H301-400#H398|It must be eaten]] [[Lexicon/H6901-7000#H6918|in a holy]] [[Lexicon/H4701-4800#H4725|place ;]] [[Lexicon/H1901-2000#H1931|it [is]]] [[Lexicon/H6901-7000#H6944|most]] [[Lexicon/H6901-7000#H6944|holy.]]
+=======
+[[Lexicon/H3601-3700#H3605|Every]] [[Lexicon/H2101-2200#H2145|male]] [[Lexicon/H3501-3600#H3548|among the priests]] [[Lexicon/H301-400#H398|may eat of it.]] [[Lexicon/H301-400#H398|It must be eaten]] [[Lexicon/H6901-7000#H6918|in a holy]] [[Lexicon/H4701-4800#H4725|place ;]] [[Lexicon/H1901-2000#H1931|it (is)]] [[Lexicon/H6901-7000#H6944|most]] [[Lexicon/H6901-7000#H6944|holy.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 6|LXX]] |
 
 ##### Leviticus 7 - 7
@@ -40,7 +52,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 7|LXX]] |
 
 ##### Leviticus 7 - 8
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3548|As for the priest]] [[Lexicon/H7101-7200#H7126|who presents]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5930|a burnt offering]] [[Lexicon/H301-400#H376|for anyone ,]] [[Lexicon/H5701-5800#H5785|the hide]] [[Lexicon/H5901-6000#H5930|of [that] offering]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7126|-]] [[Lexicon/H3501-3600#H3548|...]] [[Lexicon/H1901-2000#H1961|....]]
+=======
+[[Lexicon/H3501-3600#H3548|As for the priest]] [[Lexicon/H7101-7200#H7126|who presents]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5930|a burnt offering]] [[Lexicon/H301-400#H376|for anyone ,]] [[Lexicon/H5701-5800#H5785|the hide]] [[Lexicon/H5901-6000#H5930|of (that) offering]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7101-7200#H7126|-]] [[Lexicon/H3501-3600#H3548|...]] [[Lexicon/H1901-2000#H1961|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 8|LXX]] |
 
 ##### Leviticus 7 - 9
@@ -100,7 +116,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 22|LXX]] |
 
 ##### Leviticus 7 - 23
+<<<<<<< HEAD
 [[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|[and] say ,]] [[Lexicon/H3801-3900#H3808|‘ You are not]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H2401-2500#H2459|of the fat]] [[Lexicon/H7701-7800#H7794|of an ox ,]] [[Lexicon/H3701-3800#H3775|a sheep ,]] [[Lexicon/H5701-5800#H5795|or a goat.]]
+=======
+[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|(and) say ,]] [[Lexicon/H3801-3900#H3808|‘ You are not]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H2401-2500#H2459|of the fat]] [[Lexicon/H7701-7800#H7794|of an ox ,]] [[Lexicon/H3701-3800#H3775|a sheep ,]] [[Lexicon/H5701-5800#H5795|or a goat.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 23|LXX]] |
 
 ##### Leviticus 7 - 24
@@ -124,7 +144,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 28|LXX]] |
 
 ##### Leviticus 7 - 29
+<<<<<<< HEAD
 [[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|[and] say ,]] [[Lexicon/H7101-7200#H7126|‘ Anyone who presents]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|a peace offering]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H901-1000#H935|must bring]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7133|[it]]] [[Lexicon/H2001-2100#H2077|as his sacrifice]] [[Lexicon/H8001-8100#H8002|...]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+=======
+[[Lexicon/H1601-1700#H1696|“ Speak]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H501-600#H559|(and) say ,]] [[Lexicon/H7101-7200#H7126|‘ Anyone who presents]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2077|vvv]] [[Lexicon/H8001-8100#H8002|a peace offering]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H901-1000#H935|must bring]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7133|(it)]] [[Lexicon/H2001-2100#H2077|as his sacrifice]] [[Lexicon/H8001-8100#H8002|...]] [[Lexicon/H3001-3100#H3068|to the LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 7#Leviticus 7 - 29|LXX]] |
 
 ##### Leviticus 7 - 30

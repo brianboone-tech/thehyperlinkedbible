@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Luke-R 14
 
 **[[Home/Scripture/42 - Luke|Luke]]**
 
 [[Readable Bible/42 - Luke/Luke 13#Luke-R 13| Luke 13]] - [[Readable Bible/42 - Luke/Luke 15#Luke-R 15| Luke 15]]
+=======
+# Luke 14
+
+[[Readable Bible/42 - Luke/Luke 13|← Luke 13]] | [[Readable Bible/42 - Luke/Luke 15|Luke 15 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

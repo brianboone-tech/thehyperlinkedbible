@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Haggai 2 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/37 - Haggai|← Haggai]]** | [[The Treasury of Scripture Knowledge/37. Haggai TOSK/Haggai - 1 - TOSK|← Ch 1]]
+=======
+**[[Home/Indexes/Readable Bible/37 - Haggai|← Haggai]]** | [[The Treasury of Scripture Knowledge/37. Haggai TOSK/Haggai - 1 - TOSK|← Ch 1]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

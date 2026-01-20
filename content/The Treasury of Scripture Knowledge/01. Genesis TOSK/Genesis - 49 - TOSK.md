@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Genesis 49 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 48 - TOSK|← Ch 48]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 50 - TOSK|Ch 50 →]]
+=======
+**[[Home/Indexes/Readable Bible/01 - Genesis|← Genesis]]** | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 48 - TOSK|← Ch 48]] | [[The Treasury of Scripture Knowledge/01. Genesis TOSK/Genesis - 50 - TOSK|Ch 50 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

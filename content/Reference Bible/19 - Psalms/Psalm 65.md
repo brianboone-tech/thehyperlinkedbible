@@ -42,7 +42,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 65#Psalm 65 - 8|LXX]] |
 
 ##### Psalm 65 - 9
+<<<<<<< HEAD
 [[Lexicon/H6401-6500#H6485|You attend to]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H7701-7800#H7783|and water it ;]] [[Lexicon/H7201-7300#H7227|with abundance]] [[Lexicon/H6201-6300#H6238|You enrich it.]] [[Lexicon/H6301-6400#H6388|The streams]] [[Lexicon/H401-500#H430|of God]] [[Lexicon/H4301-4400#H4392|are full]] [[Lexicon/H4301-4400#H4325|of water ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3501-3600#H3559|You prepare]] [[Lexicon/H1701-1800#H1715|our grain]] [[Lexicon/H3501-3600#H3559|by providing]] [[Lexicon/H3601-3700#H3651|for [the earth].]]
+=======
+[[Lexicon/H6401-6500#H6485|You attend to]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H7701-7800#H7783|and water it ;]] [[Lexicon/H7201-7300#H7227|with abundance]] [[Lexicon/H6201-6300#H6238|You enrich it.]] [[Lexicon/H6301-6400#H6388|The streams]] [[Lexicon/H401-500#H430|of God]] [[Lexicon/H4301-4400#H4392|are full]] [[Lexicon/H4301-4400#H4325|of water ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3501-3600#H3559|You prepare]] [[Lexicon/H1701-1800#H1715|our grain]] [[Lexicon/H3501-3600#H3559|by providing]] [[Lexicon/H3601-3700#H3651|for (the earth).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 65#Psalm 65 - 9|LXX]] |
 
 ##### Psalm 65 - 10

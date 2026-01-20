@@ -27,7 +27,11 @@ Testament: Old
 [[Lexicon/G5401-5500#G5401|Fear]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5101-5200#G5156|trembling]] [[Lexicon/G2001-2100#G2064|came]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2572|covered]]
 
 #### Psalms 55 - 6
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|I said,]] [[Lexicon/G5001-5100#G5100|Why]] [[Lexicon/G1301-1400#G1325|shall he not give]] [[Lexicon/G1401-1500#G1473|to me]] [[Lexicon/G4401-4500#G4420|wings]] [[Lexicon/G5601-5700#G5616|as]] [[Lexicon/G4001-4100#G4058|a dove,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4001-4100#G4070|I shall spread out]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2664|I shall rest?]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|I said,]] [[Lexicon/G5001-5100#G5100|Why]] [[Lexicon/G1301-1400#G1325|shall he not give]] [[Lexicon/G1401-1500#G1473|to me]] [[Lexicon/G4401-4500#G4420|wings]] [[Lexicon/G5601-5624#G5616|as]] [[Lexicon/G4001-4100#G4058|a dove,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4001-4100#G4070|I shall spread out]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2664|I shall rest?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 55 - 7
 [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G3101-3200#G3118|I was far off]] [[Lexicon/G5401-5500#G5435|being driven into exile,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G0835|was lodged]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2048|wilderness.]]

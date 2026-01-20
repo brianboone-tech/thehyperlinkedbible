@@ -15,7 +15,11 @@ Book: Joshua
 [[Lexicon/H1401-1500#H1486|The allotment]] [[Lexicon/H1101-1200#H1121|for the descendants]] [[Lexicon/H3101-3200#H3130|of Joseph]] [[Lexicon/H3301-3400#H3318|extended]] [[Lexicon/H3301-3400#H3383|from the Jordan]] [[Lexicon/H3401-3500#H3405|at Jericho]] [[Lexicon/H4301-4400#H4325|to the waters]] [[Lexicon/H3401-3500#H3405|of Jericho]] [[Lexicon/H4201-4300#H4217|on the east ,]] [[Lexicon/H4001-4100#H4057|through the wilderness]] [[Lexicon/H5901-6000#H5927|that goes up]] [[Lexicon/H3401-3500#H3405|from Jericho]] [[Lexicon/H2001-2100#H2022|into the hill country]] [[Lexicon/H1001-1100#H1008|vvv]] [[Lexicon/H1001-1100#H1008|of Bethel.]]
 
 ##### Joshua 16 - 2
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3318|It went on]] [[Lexicon/H1001-1100#H1008|from]] [[Lexicon/H1001-1100#H1008|Bethel]] [[Lexicon/H3801-3900#H3870|([that is,] Luz )]] [[Lexicon/H5601-5700#H5674|and proceeded]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1301-1400#H1366|the border]] [[Lexicon/H701-800#H757|of the Archites]] [[Lexicon/H5801-5900#H5852|in Ataroth.]]
+=======
+[[Lexicon/H3301-3400#H3318|It went on]] [[Lexicon/H1001-1100#H1008|from]] [[Lexicon/H1001-1100#H1008|Bethel]] [[Lexicon/H3801-3900#H3870|[[that is,) Luz )]] [[Lexicon/H5601-5700#H5674|and proceeded]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1301-1400#H1366|the border]] [[Lexicon/H701-800#H757|of the Archites]] [[Lexicon/H5801-5900#H5852|in Ataroth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Joshua 16 - 3
 [[Lexicon/H3301-3400#H3381|Then it descended]] [[Lexicon/H3201-3300#H3220|westward]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1301-1400#H1366|the border]] [[Lexicon/H3301-3400#H3311|of the Japhletites]] [[Lexicon/H5701-5800#H5704|as]] [[Lexicon/H1301-1400#H1366|far as the border]] [[Lexicon/H1001-1100#H1032|of]] [[Lexicon/H8401-8500#H8481|Lower]] [[Lexicon/H1001-1100#H1032|Beth-horon]] [[Lexicon/H5701-5800#H5704|and on to]] [[Lexicon/H1501-1600#H1507|Gezer ,]] [[Lexicon/H1901-2000#H1961|and it ended]] [[Lexicon/H8401-8500#H8444|...]] [[Lexicon/H3201-3300#H3220|at the Sea.]]
@@ -36,7 +40,11 @@ Book: Joshua
 [[Lexicon/H8501-8600#H8599|From Tappuah]] [[Lexicon/H1301-1400#H1366|the border]] [[Lexicon/H1901-2000#H1980|went]] [[Lexicon/H3201-3300#H3220|westward]] [[Lexicon/H5101-5200#H5158|to the Brook]] [[Lexicon/H7001-7100#H7071|of Kanah]] [[Lexicon/H1901-2000#H1961|and ended]] [[Lexicon/H8401-8500#H8444|...]] [[Lexicon/H3201-3300#H3220|at the Sea.]] [[Lexicon/H2001-2100#H2063|This]] [[Lexicon/H5101-5200#H5159|was the inheritance]] [[Lexicon/H4901-5000#H4940|of the clans]] [[Lexicon/H4201-4300#H4294|of the tribe]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H601-700#H669|of Ephraim ,]]
 
 ##### Joshua 16 - 9
+<<<<<<< HEAD
 [[Lexicon/H5801-5900#H5892|-]] [[Lexicon/H3601-3700#H3605|[along] with all]] [[Lexicon/H5801-5900#H5892|the cities]] [[Lexicon/H2601-2700#H2691|and villages]] [[Lexicon/H3901-4000#H3995|set apart]] [[Lexicon/H1101-1200#H1121|for the descendants]] [[Lexicon/H601-700#H669|of Ephraim]] [[Lexicon/H8401-8500#H8432|within]] [[Lexicon/H5101-5200#H5159|the inheritance]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H4501-4600#H4519|of Manasseh.]]
+=======
+[[Lexicon/H5801-5900#H5892|-]] [[Lexicon/H3601-3700#H3605|(along) with all]] [[Lexicon/H5801-5900#H5892|the cities]] [[Lexicon/H2601-2700#H2691|and villages]] [[Lexicon/H3901-4000#H3995|set apart]] [[Lexicon/H1101-1200#H1121|for the descendants]] [[Lexicon/H601-700#H669|of Ephraim]] [[Lexicon/H8401-8500#H8432|within]] [[Lexicon/H5101-5200#H5159|the inheritance]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H4501-4600#H4519|of Manasseh.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Joshua 16 - 10
 [[Lexicon/H3801-3900#H3808|But they did not]] [[Lexicon/H3401-3500#H3423|drive out]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3669|the Canaanites]] [[Lexicon/H3401-3500#H3427|who lived]] [[Lexicon/H1501-1600#H1507|in Gezer.]] [[Lexicon/H3601-3700#H3669|So the Canaanites]] [[Lexicon/H3401-3500#H3427|dwell]] [[Lexicon/H7101-7200#H7130|among]] [[Lexicon/H601-700#H669|the Ephraimites]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H2001-2100#H2088|this]] [[Lexicon/H3101-3200#H3117|day ,]] [[Lexicon/H1901-2000#H1961|but they are]] [[Lexicon/H4501-4600#H4522|forced]] [[Lexicon/H5601-5700#H5647|laborers.]]

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 1 Peter 1 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/60 - 1 Peter|← 1 Peter]]** | [[The Treasury of Scripture Knowledge/60. 1 Peter TOSK/1 Peter - 2 - TOSK|Ch 2 →]]
+=======
+**[[Home/Indexes/Readable Bible/60 - 1 Peter|← 1 Peter]]** | [[The Treasury of Scripture Knowledge/60. 1 Peter TOSK/1 Peter - 2 - TOSK|Ch 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

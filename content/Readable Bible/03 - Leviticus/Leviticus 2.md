@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Leviticus-R 2
 
 **[[Home/Scripture/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 1#Leviticus-R 1| Leviticus 1]] - [[Readable Bible/03 - Leviticus/Leviticus 3#Leviticus-R 3| Leviticus 3]]
+=======
+# Leviticus 2
+
+[[Readable Bible/03 - Leviticus/Leviticus 1|← Leviticus 1]] | [[Readable Bible/03 - Leviticus/Leviticus 3|Leviticus 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

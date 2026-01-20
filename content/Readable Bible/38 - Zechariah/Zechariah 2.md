@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Zechariah-R 2
 
 **[[Home/Scripture/38 - Zechariah|Zechariah]]**
 
 [[Readable Bible/38 - Zechariah/Zechariah 1#Zechariah-R 1| Zechariah 1]] - [[Readable Bible/38 - Zechariah/Zechariah 3#Zechariah-R 3| Zechariah 3]]
+=======
+# Zechariah 2
+
+[[Readable Bible/38 - Zechariah/Zechariah 1|← Zechariah 1]] | [[Readable Bible/38 - Zechariah/Zechariah 3|Zechariah 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Zechariah 2 . 1
+<<<<<<< HEAD
 [[Reference Bible/38 - Zechariah/Zechariah 2#Zechariah 2 - 1|1]] Then I lifted up my eyes and saw a man with a measuring line in his hand.  | [[Intertextuality  || [[Intertextuality Pairs/OT to OT/38 - Zechariah/Zechariah 2.1 to Ezekiel 40.3|IP]] | [[Chiasm/Chiasm - 38 - Zechariah 2 . 1 - 13|C]] | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 2 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT²]] |
+=======
+[[Reference Bible/38 - Zechariah/Zechariah 2#Zechariah 2 - 1|1]] Then I lifted up my eyes and saw a man with a measuring line in his hand.  | [[Intertextuality | | [[Intertextuality Pairs/OT to OT/38 - Zechariah/Zechariah 2.1 to Ezekiel 40.3|IP]] | [[Chiasm/Chiasm - 38 - Zechariah 2 . 1 - 13|C]] | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 2 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/048 - Eden as Temple (Original Sanctuary)|TT¹]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT²]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Zechariah 2 . 2
 [[Reference Bible/38 - Zechariah/Zechariah 2#Zechariah 2 - 2|2]] “Where are you going?” I asked. “To measure Jerusalem,” he replied, “and to determine its width and length.”  | [[Chiasm/Chiasm - 38 - Zechariah 2 . 1 - 13|C]] | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 2 - TOSK#Verse 2|TOSK]] |

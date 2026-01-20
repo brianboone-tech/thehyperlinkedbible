@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jonah-R 1
 
 **[[Home/Scripture/32 - Jonah|Jonah]]**
 
 [[Obadiah-R 1|Obadiah 1]] • [[Jonah-R 2|Jonah 2]]
+=======
+# Jonah 1
+
+[[Readable Bible/31 - Obadiah/Obadiah 1|← Obadiah 1]] | [[Readable Bible/32 - Jonah/Jonah 2|Jonah 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

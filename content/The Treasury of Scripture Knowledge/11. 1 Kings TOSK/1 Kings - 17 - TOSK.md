@@ -3,7 +3,11 @@ Folder: TOSK
 Name: 1 Kings 17 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/11 - 1 Kings|← 1 Kings]]** | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 18 - TOSK|Ch 18 →]]
+=======
+**[[Home/Indexes/Readable Bible/11 - 1 Kings|← 1 Kings]]** | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 18 - TOSK|Ch 18 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

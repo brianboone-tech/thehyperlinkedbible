@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Nahum-R 2
 
 **[[Home/Scripture/34 - Nahum|Nahum]]**
 
 [[Readable Bible/34 - Nahum/Nahum 1#Nahum-R 1| Nahum 1]] - [[Readable Bible/34 - Nahum/Nahum 3#Nahum-R 3| Nahum 3]]
+=======
+# Nahum 2
+
+[[Readable Bible/34 - Nahum/Nahum 1|← Nahum 1]] | [[Readable Bible/34 - Nahum/Nahum 3|Nahum 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

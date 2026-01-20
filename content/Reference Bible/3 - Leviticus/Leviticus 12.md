@@ -20,7 +20,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 12#Leviticus 12 - 2|LXX]] |
 
 ##### Leviticus 12 - 3
+<<<<<<< HEAD
 [[Lexicon/H8001-8100#H8066|And on the eighth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H1301-1400#H1320|the flesh]] [[Lexicon/H6101-6200#H6190|of [the boy’s] foreskin]] [[Lexicon/H4101-4200#H4135|is to be circumcised.]]
+=======
+[[Lexicon/H8001-8100#H8066|And on the eighth]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H1301-1400#H1320|the flesh]] [[Lexicon/H6101-6200#H6190|of (the boy’s) foreskin]] [[Lexicon/H4101-4200#H4135|is to be circumcised.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 12#Leviticus 12 - 3|LXX]] |
 
 ##### Leviticus 12 - 4
@@ -28,7 +32,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 12#Leviticus 12 - 4|LXX]] |
 
 ##### Leviticus 12 - 5
+<<<<<<< HEAD
 [[Lexicon/H501-600#H518|If, however ,]] [[Lexicon/H3201-3300#H3205|she gives birth to]] [[Lexicon/H5301-5400#H5347|a daughter ,]] [[Lexicon/H2901-3000#H2930|[the woman] will be unclean]] [[Lexicon/H7601-7700#H7620|for two weeks]] [[Lexicon/H5001-5100#H5079|as she is during her menstruation.]] [[Lexicon/H3401-3500#H3427|Then she must continue]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H2801-2900#H2893|purification]] [[Lexicon/H1801-1900#H1818|from her bleeding]] [[Lexicon/H8301-8400#H8346|for sixty-six]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H8301-8400#H8337|...]] [[Lexicon/H3101-3200#H3117|days.]]
+=======
+[[Lexicon/H501-600#H518|If, however ,]] [[Lexicon/H3201-3300#H3205|she gives birth to]] [[Lexicon/H5301-5400#H5347|a daughter ,]] [[Lexicon/H2901-3000#H2930|(the woman) will be unclean]] [[Lexicon/H7601-7700#H7620|for two weeks]] [[Lexicon/H5001-5100#H5079|as she is during her menstruation.]] [[Lexicon/H3401-3500#H3427|Then she must continue]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H2801-2900#H2893|purification]] [[Lexicon/H1801-1900#H1818|from her bleeding]] [[Lexicon/H8301-8400#H8346|for sixty-six]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H8301-8400#H8337|...]] [[Lexicon/H3101-3200#H3117|days.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 12#Leviticus 12 - 5|LXX]] |
 
 ##### Leviticus 12 - 6
@@ -36,7 +44,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 12#Leviticus 12 - 6|LXX]] |
 
 ##### Leviticus 12 - 7
+<<<<<<< HEAD
 [[Lexicon/H7101-7200#H7126|And [the priest] will present them]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3701-3800#H3722|and make atonement]] [[Lexicon/H5901-6000#H5921|for her ;]] [[Lexicon/H2801-2900#H2891|and she shall be ceremonially cleansed]] [[Lexicon/H4701-4800#H4726|from her flow]] [[Lexicon/H1801-1900#H1818|of blood.]] [[Lexicon/H2001-2100#H2063|This]] [[Lexicon/H8401-8500#H8451|is the law]] [[Lexicon/H3201-3300#H3205|for a woman giving birth ,]] [[Lexicon/H2101-2200#H2145|whether to a male]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H5301-5400#H5347|to a female.]]
+=======
+[[Lexicon/H7101-7200#H7126|And (the priest) will present them]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3701-3800#H3722|and make atonement]] [[Lexicon/H5901-6000#H5921|for her ;]] [[Lexicon/H2801-2900#H2891|and she shall be ceremonially cleansed]] [[Lexicon/H4701-4800#H4726|from her flow]] [[Lexicon/H1801-1900#H1818|of blood.]] [[Lexicon/H2001-2100#H2063|This]] [[Lexicon/H8401-8500#H8451|is the law]] [[Lexicon/H3201-3300#H3205|for a woman giving birth ,]] [[Lexicon/H2101-2200#H2145|whether to a male]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H5301-5400#H5347|to a female.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 12#Leviticus 12 - 7|LXX]] |
 
 ##### Leviticus 12 - 8

@@ -39,7 +39,11 @@ for Nineveh. [[Lexicon/G901-1000#G0975|The scroll]] [[Lexicon/G3701-3800#G3706|o
 [[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G3001-3100#G3049|do you devise]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4901-5000#G4930|a consummation]] [[Lexicon/G3701-3800#G3756|He will not]] [[Lexicon/G1501-1600#G1556|punish]] [[Lexicon/G1301-1400#G1364|twice]] [[Lexicon/G1901-2000#G1909|for]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1473|same thing]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G2301-2400#G2347|affliction.]]
 
 #### Nahum 1 - 10
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3754|For the enemy]] [[Lexicon/G2101-2200#G2193|unto]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4601-4700#G4665|a yew tree]] [[Lexicon/G4001-4100#G4045|being twisted]] [[Lexicon/G901-1000#G0977|he shall be devoured,]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2501-2600#G2562|stubble]] [[Lexicon/G3501-3600#G3583|he shall be dried up]] [[Lexicon/G3301-3400#G3324|fully.]]
+=======
+[[Lexicon/G3701-3800#G3754|For the enemy]] [[Lexicon/G2101-2200#G2193|unto]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4601-4700#G4665|a yew tree]] [[Lexicon/G4001-4100#G4045|being twisted]] [[Lexicon/G901-1000#G0977|he shall be devoured,]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2562|stubble]] [[Lexicon/G3501-3600#G3583|he shall be dried up]] [[Lexicon/G3301-3400#G3324|fully.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Nahum 1 - 11
 [[Lexicon/G1501-1600#G1537|From out of]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1801-1900#G1831|shall come forth]] [[Lexicon/G3001-3100#G3053|a device]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4190|wicked things]] [[Lexicon/G1701-1800#G1727|adverse to him.]]

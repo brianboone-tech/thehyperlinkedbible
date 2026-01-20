@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 90
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 89#Psalm-R 89| Psalm 89]] - [[Readable Bible/19 - Psalms/Psalm 91#Psalm-R 91| Psalm 91]]
+=======
+# Psalm 90
+
+[[Readable Bible/19 - Psalms/Psalm 89|← Psalm 89]] | [[Readable Bible/19 - Psalms/Psalm 91|Psalm 91 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

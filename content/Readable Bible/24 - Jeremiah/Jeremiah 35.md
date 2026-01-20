@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jeremiah-R 35
 
 **[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 34#Jeremiah-R 34| Jeremiah 34]] - [[Readable Bible/24 - Jeremiah/Jeremiah 36#Jeremiah-R 36| Jeremiah 36]]
+=======
+# Jeremiah 35
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 34|← Jeremiah 34]] | [[Readable Bible/24 - Jeremiah/Jeremiah 36|Jeremiah 36 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

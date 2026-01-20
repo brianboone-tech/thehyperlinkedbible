@@ -15,7 +15,11 @@ Testament: Old
 [[Lexicon/G2301-2400#G2400|For behold]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G901-1000#G0936|shall reign,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G701-800#G0758|rulers]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G2901-3000#G2920|judgment]] [[Lexicon/G701-800#G0756|shall rule.]]
 
 #### Isaiah 32 - 2
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|shall be]] [[Lexicon/G2901-3000#G2928|hiding]] [[Lexicon/G3001-3100#G3056|his words,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2928|they shall be hid]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G5301-5400#G5342|being brought;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5316|it shall be shone forth]] [[Lexicon/G1701-1800#G1722|in]] Zion [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G4201-4300#G4215|a river]] [[Lexicon/G5301-5400#G5342|being brought along,]] [[Lexicon/G1701-1800#G1741|glorious]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1093|land]]
+=======
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|shall be]] [[Lexicon/G2901-3000#G2928|hiding]] [[Lexicon/G3001-3100#G3056|his words,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2928|they shall be hid]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G501-600#G0575|of]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G5301-5400#G5342|being brought;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5316|it shall be shone forth]] [[Lexicon/G1701-1800#G1722|in]] Zion [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4201-4300#G4215|a river]] [[Lexicon/G5301-5400#G5342|being brought along,]] [[Lexicon/G1701-1800#G1741|glorious]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1001-1100#G1093|land]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 32 - 3
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3765|no longer]] [[Lexicon/G1501-1600#G1510|will they be]] [[Lexicon/G3901-4000#G3982|relying]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G401-500#G0444|men,]] [[Lexicon/G201-300#G0235|but]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3775|ears]] [[Lexicon/G1301-1400#G1325|they shall give]] [[Lexicon/G101-200#G0191|to hear.]]
@@ -66,7 +70,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2701-2800#G2730|shall dwell]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4172|a city]] [[Lexicon/G1501-1600#G1515|of peace,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1774|shall dwell in it]] [[Lexicon/G3901-4000#G3982|being yielded up;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0373|they shall rest]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G4101-4200#G4149|riches.]]
 
 #### Isaiah 32 - 19
+<<<<<<< HEAD
 [[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G5401-5500#G5464|if hail]] [[Lexicon/G2501-2600#G2597|should come down,]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G3901-4000#G3982|yielding]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3977|plain.]]
+=======
+[[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G5401-5500#G5464|if hail]] [[Lexicon/G2501-2600#G2597|should come down,]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G3901-4000#G3982|yielding]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3977|plain.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 32 - 20
 [[Lexicon/G3101-3200#G3107|Blessed are]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G4601-4700#G4687|sowing]] [[Lexicon/G1901-2000#G1909|by]] [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G5201-5300#G5204|water]] [[Lexicon/G3701-3800#G3739|where]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3688|donkey]] [[Lexicon/G3901-4000#G3961|tread.]]

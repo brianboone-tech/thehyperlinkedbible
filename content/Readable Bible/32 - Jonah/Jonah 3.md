@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jonah-R 3
 
 **[[Home/Scripture/32 - Jonah|Jonah]]**
 
 [[Readable Bible/32 - Jonah/Jonah 2#Jonah-R 2| Jonah 2]] - [[Readable Bible/32 - Jonah/Jonah 4#Jonah-R 4| Jonah 4]]
+=======
+# Jonah 3
+
+[[Readable Bible/32 - Jonah/Jonah 2|← Jonah 2]] | [[Readable Bible/32 - Jonah/Jonah 4|Jonah 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Leviticus 22 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 21 - TOSK|← Ch 21]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 23 - TOSK|Ch 23 →]]
+=======
+**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 21 - TOSK|← Ch 21]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 23 - TOSK|Ch 23 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

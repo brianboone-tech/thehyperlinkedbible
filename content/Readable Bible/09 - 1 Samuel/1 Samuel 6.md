@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Samuel-R 6
 
 **[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
 
 [[Readable Bible/09 - 1 Samuel/1 Samuel 5#1 Samuel-R 5| 1 Samuel 5]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 7#1 Samuel-R 7| 1 Samuel 7]]
+=======
+# 1 Samuel 6
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 5|← 1 Samuel 5]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 7|1 Samuel 7 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### 1 Samuel 6 . 1
+<<<<<<< HEAD
 [[Reference Bible/9 - 1 Samuel/1 Samuel 6#1 Samuel 6 - 1|1]] When the ark of the LORD had been in the land of the Philistines seven months,  | [[Intertextuality  || [[Intertextuality Pairs/OT to OT/09 - 1 Samuel/1 Samuel 6.1 to Psalm 132.6|IP¹]] | [[Intertextuality Pairs/OT to OT/09 - 1 Samuel/1 Samuel 6.1-2 to Psalm 132.6-7|IP²]] | [[Chiasm/Chiasm - 09 - 1 Samuel 6 . 1 - 7 . 2|C]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 6 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/009 - Ark of the Covenant (God's Throne of Mercy)|TT¹]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT²]] |
+=======
+[[Reference Bible/9 - 1 Samuel/1 Samuel 6#1 Samuel 6 - 1|1]] When the ark of the LORD had been in the land of the Philistines seven months,  | [[Intertextuality | | [[Intertextuality Pairs/OT to OT/09 - 1 Samuel/1 Samuel 6.1 to Psalm 132.6|IP¹]] | [[Intertextuality Pairs/OT to OT/09 - 1 Samuel/1 Samuel 6.1-2 to Psalm 132.6-7|IP²]] | [[Chiasm/Chiasm - 09 - 1 Samuel 6 . 1 - 7 . 2|C]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 6 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/009 - Ark of the Covenant (God's Throne of Mercy)|TT¹]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT²]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ##### 1 Samuel 6 . 2
 [[Reference Bible/9 - 1 Samuel/1 Samuel 6#1 Samuel 6 - 2|2]] the Philistines summoned the priests and diviners, saying, "What shall we do with the ark of the LORD? Tell us how to send it back to its place."  | [[Intertextuality Pairs/OT to OT/09 - 1 Samuel/1 Samuel 6.1-2 to Psalm 132.6-7|IP]] | [[The Treasury of Scripture Knowledge/09. 1 Samuel TOSK/1 Samuel - 6 - TOSK#Verse 2|TOSK]] | [[Trajectory Tables/009 - Ark of the Covenant (God's Throne of Mercy)|TT¹]] | [[Trajectory Tables/109 - New Jerusalem (Ultimate Temple-City)|TT²]] |
 ##### 1 Samuel 6 . 3

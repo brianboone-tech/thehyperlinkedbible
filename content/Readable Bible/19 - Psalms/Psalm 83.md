@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 83
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 82#Psalm-R 82| Psalm 82]] - [[Readable Bible/19 - Psalms/Psalm 84#Psalm-R 84| Psalm 84]]
+=======
+# Psalm 83
+
+[[Readable Bible/19 - Psalms/Psalm 82|← Psalm 82]] | [[Readable Bible/19 - Psalms/Psalm 84|Psalm 84 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

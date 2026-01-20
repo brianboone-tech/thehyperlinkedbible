@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Numbers-R 16
 
 **[[Home/Scripture/04 - Numbers|Numbers]]**
 
 [[Readable Bible/04 - Numbers/Numbers 15#Numbers-R 15| Numbers 15]] - [[Readable Bible/04 - Numbers/Numbers 17#Numbers-R 17| Numbers 17]]
+=======
+# Numbers 16
+
+[[Readable Bible/04 - Numbers/Numbers 15|← Numbers 15]] | [[Readable Bible/04 - Numbers/Numbers 17|Numbers 17 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

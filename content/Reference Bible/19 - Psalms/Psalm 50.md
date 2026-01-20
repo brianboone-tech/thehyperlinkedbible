@@ -50,7 +50,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 50#Psalm 50 - 10|LXX]] |
 
 ##### Psalm 50 - 11
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3045|I know]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H5701-5800#H5775|bird]] [[Lexicon/H2001-2100#H2022|in the mountains ,]] [[Lexicon/H2101-2200#H2123|and the creatures]] [[Lexicon/H7701-7800#H7704|of the field]] [[Lexicon/H5901-6000#H5978|[are] Mine.]]
+=======
+[[Lexicon/H3001-3100#H3045|I know]] [[Lexicon/H3601-3700#H3605|every]] [[Lexicon/H5701-5800#H5775|bird]] [[Lexicon/H2001-2100#H2022|in the mountains ,]] [[Lexicon/H2101-2200#H2123|and the creatures]] [[Lexicon/H7701-7800#H7704|of the field]] [[Lexicon/H5901-6000#H5978|(are) Mine.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 50#Psalm 50 - 11|LXX]] |
 
 ##### Psalm 50 - 12
@@ -98,6 +102,10 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 50#Psalm 50 - 22|LXX]] |
 
 ##### Psalm 50 - 23
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2076|He who sacrifices]] [[Lexicon/H8401-8500#H8426|a thank offering]] [[Lexicon/H3501-3600#H3513|honors Me ,]] [[Lexicon/H7701-7800#H7760|and to him who rights]] [[Lexicon/H1801-1900#H1870|[his] way ,]] [[Lexicon/H7101-7200#H7200|I will show]] [[Lexicon/H3401-3500#H3468|the salvation]] [[Lexicon/H401-500#H430|of God. ”]]
+=======
+[[Lexicon/H2001-2100#H2076|He who sacrifices]] [[Lexicon/H8401-8500#H8426|a thank offering]] [[Lexicon/H3501-3600#H3513|honors Me ,]] [[Lexicon/H7701-7800#H7760|and to him who rights]] [[Lexicon/H1801-1900#H1870|(his) way ,]] [[Lexicon/H7101-7200#H7200|I will show]] [[Lexicon/H3401-3500#H3468|the salvation]] [[Lexicon/H401-500#H430|of God. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 50#Psalm 50 - 23|LXX]] |
 

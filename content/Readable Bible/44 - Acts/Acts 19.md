@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Acts-R 19
 
 **[[Home/Scripture/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 18#Acts-R 18| Acts 18]] - [[Readable Bible/44 - Acts/Acts 20#Acts-R 20| Acts 20]]
+=======
+# Acts 19
+
+[[Readable Bible/44 - Acts/Acts 18|← Acts 18]] | [[Readable Bible/44 - Acts/Acts 20|Acts 20 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

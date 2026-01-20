@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 24 - 1
+<<<<<<< HEAD
 [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H701-800#H776|The earth]] [[Lexicon/H3001-3100#H3068|[is] the LORD’s ,]] [[Lexicon/H4301-4400#H4393|and the fullness thereof ,]] [[Lexicon/H8301-8400#H8398|the world]] [[Lexicon/H3401-3500#H3427|and all who dwell]]
+=======
+[[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H701-800#H776|The earth]] [[Lexicon/H3001-3100#H3068|(is) the LORD’s ,]] [[Lexicon/H4301-4400#H4393|and the fullness thereof ,]] [[Lexicon/H8301-8400#H8398|the world]] [[Lexicon/H3401-3500#H3427|and all who dwell]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 24#Psalm 24 - 1|LXX]] |
 
 ##### Psalm 24 - 2
@@ -30,7 +34,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 24#Psalm 24 - 5|LXX]] |
 
 ##### Psalm 24 - 6
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2088|Such]] [[Lexicon/H1701-1800#H1755|is the generation]] [[Lexicon/H1801-1900#H1875|of those who seek Him ,]] [[Lexicon/H1201-1300#H1245|who seek]] [[Lexicon/H6401-6500#H6440|Your face ,]] [[Lexicon/H3201-3300#H3290|[O God] of Jacob.]] [[Lexicon/H5501-5600#H5542|Selah]]
+=======
+[[Lexicon/H2001-2100#H2088|Such]] [[Lexicon/H1701-1800#H1755|is the generation]] [[Lexicon/H1801-1900#H1875|of those who seek Him ,]] [[Lexicon/H1201-1300#H1245|who seek]] [[Lexicon/H6401-6500#H6440|Your face ,]] [[Lexicon/H3201-3300#H3290|(O God) of Jacob.]] [[Lexicon/H5501-5600#H5542|Selah]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 24#Psalm 24 - 6|LXX]] |
 
 ##### Psalm 24 - 7

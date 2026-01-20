@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Mark-R 12
 
 **[[Home/Scripture/41 - Mark|Mark]]**
 
 [[Readable Bible/41 - Mark/Mark 11#Mark-R 11| Mark 11]] - [[Readable Bible/41 - Mark/Mark 13#Mark-R 13| Mark 13]]
+=======
+# Mark 12
+
+[[Readable Bible/41 - Mark/Mark 11|← Mark 11]] | [[Readable Bible/41 - Mark/Mark 13|Mark 13 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Song of Solomon-R 8
 
 **[[Home/Scripture/22 - Song of Solomon|Song of Solomon]]**
 
 [[Readable Bible/22 - Song of Solomon/Song of Solomon 7#Song of Solomon-R 7| Song of Solomon 7]] - [[Readable Bible/22 - Song of Solomon/Song of Solomon 9#Song of Solomon-R 9| Song of Solomon 9]]
+=======
+# Song of Solomon 8
+
+[[Readable Bible/22 - Song of Solomon/Song of Solomon 7|← Song of Solomon 7]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

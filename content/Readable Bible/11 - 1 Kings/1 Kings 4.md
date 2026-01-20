@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Kings-R 4
 
 **[[Home/Scripture/11 - 1 Kings|1 Kings]]**
 
 [[Readable Bible/11 - 1 Kings/1 Kings 3#1 Kings-R 3| 1 Kings 3]] - [[Readable Bible/11 - 1 Kings/1 Kings 5#1 Kings-R 5| 1 Kings 5]]
+=======
+# 1 Kings 4
+
+[[Readable Bible/11 - 1 Kings/1 Kings 3|← 1 Kings 3]] | [[Readable Bible/11 - 1 Kings/1 Kings 5|1 Kings 5 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

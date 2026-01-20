@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 10 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 11 - TOSK|Ch 11 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 9 - TOSK|← Ch 9]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 11 - TOSK|Ch 11 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

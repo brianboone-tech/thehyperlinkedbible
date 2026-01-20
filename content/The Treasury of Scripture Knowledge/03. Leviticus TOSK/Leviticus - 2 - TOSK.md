@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Leviticus 2 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 3 - TOSK|Ch 3 →]]
+=======
+**[[Home/Indexes/Readable Bible/03 - Leviticus|← Leviticus]]** | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/03. Leviticus TOSK/Leviticus - 3 - TOSK|Ch 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

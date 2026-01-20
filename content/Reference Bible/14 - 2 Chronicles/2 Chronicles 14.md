@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### 2 Chronicles 14 - 1
+<<<<<<< HEAD
 [[Lexicon/H1-100#H29|Then Abijah]] [[Lexicon/H7901-8000#H7901|rested]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H1-100#H1|his fathers]] [[Lexicon/H6901-7000#H6912|and was buried]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5892|in the City]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H1101-1200#H1121|And his son]] [[Lexicon/H601-700#H609|Asa]] [[Lexicon/H4401-4500#H4427|reigned]] [[Lexicon/H8401-8500#H8478|in his place ,]] [[Lexicon/H3101-3200#H3117|and in his days]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H8201-8300#H8252|was at peace]] [[Lexicon/H6201-6300#H6235|[for] ten]] [[Lexicon/H8101-8200#H8141|years.]]
+=======
+[[Lexicon/H1-100#H29|Then Abijah]] [[Lexicon/H7901-8000#H7901|rested]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H1-100#H1|his fathers]] [[Lexicon/H6901-7000#H6912|and was buried]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5892|in the City]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H1101-1200#H1121|And his son]] [[Lexicon/H601-700#H609|Asa]] [[Lexicon/H4401-4500#H4427|reigned]] [[Lexicon/H8401-8500#H8478|in his place ,]] [[Lexicon/H3101-3200#H3117|and in his days]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H8201-8300#H8252|was at peace]] [[Lexicon/H6201-6300#H6235|(for) ten]] [[Lexicon/H8101-8200#H8141|years.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 2 Chronicles 14 - 2
 [[Lexicon/H601-700#H609|And Asa]] [[Lexicon/H6201-6300#H6213|did]] [[Lexicon/H2801-2900#H2896|what was good]] [[Lexicon/H3401-3500#H3477|and right]] [[Lexicon/H5801-5900#H5869|in the eyes]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H401-500#H430|his God.]]
@@ -28,6 +32,7 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|Because]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H8201-8300#H8252|was at peace ,]] [[Lexicon/H1101-1200#H1129|Asa built]] [[Lexicon/H4601-4700#H4694|fortified]] [[Lexicon/H5801-5900#H5892|cities]] [[Lexicon/H3001-3100#H3063|in Judah.]] [[Lexicon/H401-500#H428|In those]] [[Lexicon/H8101-8200#H8141|days]] [[Lexicon/H301-400#H369|no one]] [[Lexicon/H4401-4500#H4421|made war]] [[Lexicon/H5901-6000#H5973|with him ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H5101-5200#H5117|had given him rest.]]
 
 ##### 2 Chronicles 14 - 7
+<<<<<<< HEAD
 [[Lexicon/H501-600#H559|So he said]] [[Lexicon/H3001-3100#H3063|to the people of Judah ,]] [[Lexicon/H1101-1200#H1129|“ Let us build]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H5801-5900#H5892|cities]] [[Lexicon/H5401-5500#H5437|and surround them]] [[Lexicon/H2301-2400#H2346|with walls]] [[Lexicon/H4001-4100#H4026|and towers ,]] [[Lexicon/H1801-1900#H1817|with doors]] [[Lexicon/H1201-1300#H1280|and bars.]] [[Lexicon/H701-800#H776|The land]] [[Lexicon/H5701-5800#H5750|is still]] [[Lexicon/H6401-6500#H6440|ours]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1801-1900#H1875|we have sought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|our God.]] [[Lexicon/H1801-1900#H1875|We have sought [Him]]] [[Lexicon/H5101-5200#H5117|and He has given us rest]] [[Lexicon/H5401-5500#H5439|every side.”]] [[Lexicon/H1101-1200#H1129|So they built]] [[Lexicon/H6701-6800#H6743|and prospered.]]
 
 ##### 2 Chronicles 14 - 8
@@ -35,6 +40,15 @@ cssClasses: lexicon
 
 ##### 2 Chronicles 14 - 9
 [[Lexicon/H2201-2300#H2226|Then Zerah]] [[Lexicon/H3501-3600#H3569|the Cushite]] [[Lexicon/H3301-3400#H3318|came]] [[Lexicon/H401-500#H413|against them]] [[Lexicon/H2401-2500#H2428|with an army]] [[Lexicon/H501-600#H505|of 1,000,000 men]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7901-8000#H7969|[and] 300]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H4801-4900#H4818|chariots ,]] [[Lexicon/H901-1000#H935|and they advanced]] [[Lexicon/H5701-5800#H5704|as far as]] [[Lexicon/H4701-4800#H4762|Mareshah.]]
+=======
+[[Lexicon/H501-600#H559|So he said]] [[Lexicon/H3001-3100#H3063|to the people of Judah ,]] [[Lexicon/H1101-1200#H1129|“ Let us build]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H5801-5900#H5892|cities]] [[Lexicon/H5401-5500#H5437|and surround them]] [[Lexicon/H2301-2400#H2346|with walls]] [[Lexicon/H4001-4100#H4026|and towers ,]] [[Lexicon/H1801-1900#H1817|with doors]] [[Lexicon/H1201-1300#H1280|and bars.]] [[Lexicon/H701-800#H776|The land]] [[Lexicon/H5701-5800#H5750|is still]] [[Lexicon/H6401-6500#H6440|ours]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1801-1900#H1875|we have sought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H430|our God.]] [[Lexicon/H1801-1900#H1875|We have sought (Him)]] [[Lexicon/H5101-5200#H5117|and He has given us rest]] [[Lexicon/H5401-5500#H5439|every side.”]] [[Lexicon/H1101-1200#H1129|So they built]] [[Lexicon/H6701-6800#H6743|and prospered.]]
+
+##### 2 Chronicles 14 - 8
+[[Lexicon/H601-700#H609|Asa]] [[Lexicon/H1901-2000#H1961|had]] [[Lexicon/H2401-2500#H2428|an army]] [[Lexicon/H7901-8000#H7969|of 300,000 men]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H3001-3100#H3063|from Judah]] [[Lexicon/H5301-5400#H5375|bearing]] [[Lexicon/H6701-6800#H6793|large shields]] [[Lexicon/H7401-7500#H7420|and spears ,]] [[Lexicon/H3901-4000#H3967|and 280,000 men]] [[Lexicon/H8001-8100#H8084|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H1101-1200#H1144|from Benjamin]] [[Lexicon/H5301-5400#H5375|bearing]] [[Lexicon/H4001-4100#H4043|small shields]] [[Lexicon/H1801-1900#H1869|and drawing]] [[Lexicon/H7101-7200#H7198|the bow.]] [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H401-500#H428|these (were)]] [[Lexicon/H1301-1400#H1368|mighty men]] [[Lexicon/H2401-2500#H2428|of valor.]]
+
+##### 2 Chronicles 14 - 9
+[[Lexicon/H2201-2300#H2226|Then Zerah]] [[Lexicon/H3501-3600#H3569|the Cushite]] [[Lexicon/H3301-3400#H3318|came]] [[Lexicon/H401-500#H413|against them]] [[Lexicon/H2401-2500#H2428|with an army]] [[Lexicon/H501-600#H505|of 1,000,000 men]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7901-8000#H7969|(and) 300]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H4801-4900#H4818|chariots ,]] [[Lexicon/H901-1000#H935|and they advanced]] [[Lexicon/H5701-5800#H5704|as far as]] [[Lexicon/H4701-4800#H4762|Mareshah.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 2 Chronicles 14 - 10
 [[Lexicon/H601-700#H609|So Asa]] [[Lexicon/H3301-3400#H3318|marched out]] [[Lexicon/H6401-6500#H6440|against him]] [[Lexicon/H6101-6200#H6186|and lined up]] [[Lexicon/H4401-4500#H4421|in battle formation]] [[Lexicon/H1501-1600#H1516|in the Valley]] [[Lexicon/H6801-6900#H6859|of Zephathah]] [[Lexicon/H4701-4800#H4762|near Mareshah.]]

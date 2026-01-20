@@ -69,7 +69,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G5301-5400#G5399|fear!]] [[Lexicon/G1001-1100#G1063|for]] [[Lexicon/G2301-2400#G2316|of God]]
 
 #### Genesis 50 - 20
+<<<<<<< HEAD
 [[Lexicon/G1401-1500#G1473|You]] [[Lexicon/G1001-1100#G1011|planned]] [[Lexicon/G2501-2600#G2596|concerning]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G4101-4200#G4190|evil,]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1001-1100#G1011|planned]] [[Lexicon/G4001-4100#G4012|concerning]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G1-100#G0018|good,]] [[Lexicon/G3701-3800#G3704|that]] [[Lexicon/G1001-1100#G1096|it should be]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G1301-1400#G1303|he might maintain]] [[Lexicon/G2901-3000#G2992|people]]
+=======
+[[Lexicon/G1401-1500#G1473|You]] [[Lexicon/G1001-1100#G1011|planned]] [[Lexicon/G2501-2600#G2596|concerning]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G4101-4200#G4190|evil,]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1001-1100#G1011|planned]] [[Lexicon/G4001-4100#G4012|concerning]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G1-100#G0018|good,]] [[Lexicon/G3701-3800#G3704|that]] [[Lexicon/G1001-1100#G1096|it should be]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G1301-1400#G1303|he might maintain]] [[Lexicon/G2901-3000#G2992|people]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Genesis 50 - 21
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|he said]] [[Lexicon/G1401-1500#G1473|to them,]] [[Lexicon/G3301-3400#G3361|Do not]] [[Lexicon/G5301-5400#G5399|fear!]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1301-1400#G1303|will maintain]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3614|your residence.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3801-3900#G3870|he comforted]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2980|spoke]] [[Lexicon/G1401-1500#G1473|of them]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2588|heart.]]

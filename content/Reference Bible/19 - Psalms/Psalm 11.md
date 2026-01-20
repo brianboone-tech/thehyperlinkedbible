@@ -14,7 +14,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 11#Psalm 11 - 1|LXX]] |
 
 ##### Psalm 11 - 2
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H2001-2100#H2009|behold ,]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H1801-1900#H1869|bend]] [[Lexicon/H7101-7200#H7198|[their] bows.]] [[Lexicon/H3501-3600#H3559|They set]] [[Lexicon/H2601-2700#H2671|their arrow]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H3401-3500#H3499|the string]] [[Lexicon/H3301-3400#H3384|to shoot]] [[Lexicon/H1101-1200#H1119|from]] [[Lexicon/H601-700#H652|the shadows]] [[Lexicon/H3401-3500#H3477|at the upright]] [[Lexicon/H3801-3900#H3820|in heart.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H2001-2100#H2009|behold ,]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H1801-1900#H1869|bend]] [[Lexicon/H7101-7200#H7198|(their) bows.]] [[Lexicon/H3501-3600#H3559|They set]] [[Lexicon/H2601-2700#H2671|their arrow]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H3401-3500#H3499|the string]] [[Lexicon/H3301-3400#H3384|to shoot]] [[Lexicon/H1101-1200#H1119|from]] [[Lexicon/H601-700#H652|the shadows]] [[Lexicon/H3401-3500#H3477|at the upright]] [[Lexicon/H3801-3900#H3820|in heart.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 11#Psalm 11 - 2|LXX]] |
 
 ##### Psalm 11 - 3
@@ -22,7 +26,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 11#Psalm 11 - 3|LXX]] |
 
 ##### Psalm 11 - 4
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H6901-7000#H6944|is in His holy]] [[Lexicon/H1901-2000#H1964|temple ;]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8001-8100#H8064|is on His heavenly]] [[Lexicon/H3601-3700#H3678|throne.]] [[Lexicon/H5801-5900#H5869|His eyes]] [[Lexicon/H2301-2400#H2372|are watching closely ;]] [[Lexicon/H6001-6100#H6079|[they]]] [[Lexicon/H901-1000#H974|examine]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H101-200#H120|of men.]]
+=======
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H6901-7000#H6944|is in His holy]] [[Lexicon/H1901-2000#H1964|temple ;]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8001-8100#H8064|is on His heavenly]] [[Lexicon/H3601-3700#H3678|throne.]] [[Lexicon/H5801-5900#H5869|His eyes]] [[Lexicon/H2301-2400#H2372|are watching closely ;]] [[Lexicon/H6001-6100#H6079|(they)]] [[Lexicon/H901-1000#H974|examine]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H101-200#H120|of men.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 11#Psalm 11 - 4|LXX]] |
 
 ##### Psalm 11 - 5

@@ -30,7 +30,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 45#Psalm 45 - 5|LXX]] |
 
 ##### Psalm 45 - 6
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3678|Your throne ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H5701-5800#H5769|[endures] forever]] [[Lexicon/H5701-5800#H5703|and ever ,]] [[Lexicon/H7601-7700#H7626|[and]]] [[Lexicon/H4301-4400#H4334|justice]] [[Lexicon/H7601-7700#H7626|[is] the scepter]] [[Lexicon/H4401-4500#H4438|of Your kingdom.]]
+=======
+[[Lexicon/H3601-3700#H3678|Your throne ,]] [[Lexicon/H401-500#H430|O God ,]] [[Lexicon/H5701-5800#H5769|(endures) forever]] [[Lexicon/H5701-5800#H5703|and ever ,]] [[Lexicon/H7601-7700#H7626|(and)]] [[Lexicon/H4301-4400#H4334|justice]] [[Lexicon/H7601-7700#H7626|(is) the scepter]] [[Lexicon/H4401-4500#H4438|of Your kingdom.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 45#Psalm 45 - 6|LXX]] |
 
 ##### Psalm 45 - 7
@@ -38,7 +42,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 45#Psalm 45 - 7|LXX]] |
 
 ##### Psalm 45 - 8
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H801-900#H899|your garments [are fragrant]]] [[Lexicon/H4701-4800#H4753|with myrrh]] [[Lexicon/H101-200#H174|and aloes]] [[Lexicon/H7101-7200#H7102|and cassia ;]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H1901-2000#H1964|palaces]] [[Lexicon/H8101-8200#H8127|of ivory]] [[Lexicon/H4401-4500#H4482|the harps]] [[Lexicon/H8001-8100#H8055|make you glad.]]
+=======
+[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H801-900#H899|your garments (are fragrant)]] [[Lexicon/H4701-4800#H4753|with myrrh]] [[Lexicon/H101-200#H174|and aloes]] [[Lexicon/H7101-7200#H7102|and cassia ;]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H1901-2000#H1964|palaces]] [[Lexicon/H8101-8200#H8127|of ivory]] [[Lexicon/H4401-4500#H4482|the harps]] [[Lexicon/H8001-8100#H8055|make you glad.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 45#Psalm 45 - 8|LXX]] |
 
 ##### Psalm 45 - 9
@@ -54,11 +62,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 45#Psalm 45 - 11|LXX]] |
 
 ##### Psalm 45 - 12
+<<<<<<< HEAD
 [[Lexicon/H1301-1400#H1323|The Daughter]] [[Lexicon/H6801-6900#H6865|of Tyre]] [[Lexicon/H4501-4600#H4503|[will come] with a gift ;]] [[Lexicon/H5901-6000#H5971|men]] [[Lexicon/H6201-6300#H6223|of wealth]] [[Lexicon/H2401-2500#H2470|will seek]] [[Lexicon/H6401-6500#H6440|your favor.]]
 | [[LXX Reference/19 - Psalms/Psalms 45#Psalm 45 - 12|LXX]] |
 
 ##### Psalm 45 - 13
 [[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H3501-3600#H3520|glorious]] [[Lexicon/H1301-1400#H1323|is the princess]] [[Lexicon/H6401-6500#H6441|in]] [[Lexicon/H4401-4500#H4428|her chamber ;]] [[Lexicon/H3801-3900#H3830|her gown]] [[Lexicon/H4801-4900#H4865|[is] embroidered]] [[Lexicon/H2001-2100#H2091|with gold.]]
+=======
+[[Lexicon/H1301-1400#H1323|The Daughter]] [[Lexicon/H6801-6900#H6865|of Tyre]] [[Lexicon/H4501-4600#H4503|(will come) with a gift ;]] [[Lexicon/H5901-6000#H5971|men]] [[Lexicon/H6201-6300#H6223|of wealth]] [[Lexicon/H2401-2500#H2470|will seek]] [[Lexicon/H6401-6500#H6440|your favor.]]
+| [[LXX Reference/19 - Psalms/Psalms 45#Psalm 45 - 12|LXX]] |
+
+##### Psalm 45 - 13
+[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H3501-3600#H3520|glorious]] [[Lexicon/H1301-1400#H1323|is the princess]] [[Lexicon/H6401-6500#H6441|in]] [[Lexicon/H4401-4500#H4428|her chamber ;]] [[Lexicon/H3801-3900#H3830|her gown]] [[Lexicon/H4801-4900#H4865|(is) embroidered]] [[Lexicon/H2001-2100#H2091|with gold.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 45#Psalm 45 - 13|LXX]] |
 
 ##### Psalm 45 - 14

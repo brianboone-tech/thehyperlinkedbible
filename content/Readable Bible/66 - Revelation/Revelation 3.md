@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Revelation-R 3
 
 **[[Home/Scripture/66 - Revelation|Revelation]]**
 
 [[Readable Bible/66 - Revelation/Revelation 2#Revelation-R 2| Revelation 2]] - [[Readable Bible/66 - Revelation/Revelation 4#Revelation-R 4| Revelation 4]]
+=======
+# Revelation 3
+
+[[Readable Bible/66 - Revelation/Revelation 2|← Revelation 2]] | [[Readable Bible/66 - Revelation/Revelation 4|Revelation 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

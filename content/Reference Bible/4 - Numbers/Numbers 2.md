@@ -17,7 +17,11 @@ Chapter: "2"
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 1|LXX]] |
 
 ##### Numbers 2 - 2
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|“ The Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H2501-2600#H2583|are to camp]] [[Lexicon/H5401-5500#H5439|around]] [[Lexicon/H101-200#H168|the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H5001-5100#H5048|at a distance from it]] [[Lexicon/H2501-2600#H2583|- ,]] [[Lexicon/H301-400#H376|each [man]]] [[Lexicon/H5901-6000#H5921|under]] [[Lexicon/H1701-1800#H1714|his standard ,]] [[Lexicon/H201-300#H226|with the banners]] [[Lexicon/H1-100#H1|of his family]] [[Lexicon/H1001-1100#H1004|....]]
+=======
+[[Lexicon/H1101-1200#H1121|“ The Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H2501-2600#H2583|are to camp]] [[Lexicon/H5401-5500#H5439|around]] [[Lexicon/H101-200#H168|the Tent]] [[Lexicon/H4101-4200#H4150|of Meeting]] [[Lexicon/H5001-5100#H5048|at a distance from it]] [[Lexicon/H2501-2600#H2583|- ,]] [[Lexicon/H301-400#H376|each (man)]] [[Lexicon/H5901-6000#H5921|under]] [[Lexicon/H1701-1800#H1714|his standard ,]] [[Lexicon/H201-300#H226|with the banners]] [[Lexicon/H1-100#H1|of his family]] [[Lexicon/H1001-1100#H1004|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 2|LXX]] |
 
 ##### Numbers 2 - 3
@@ -37,7 +41,11 @@ Chapter: "2"
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 6|LXX]] |
 
 ##### Numbers 2 - 7
+<<<<<<< HEAD
 [[Lexicon/H4201-4300#H4294|[Next will be] the tribe]] [[Lexicon/H2001-2100#H2074|of Zebulun.]] [[Lexicon/H5301-5400#H5387|The leader]] [[Lexicon/H1101-1200#H1121|of the Zebulunites]] [[Lexicon/H2001-2100#H2074|...]] [[Lexicon/H401-500#H446|is Eliab]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H2401-2500#H2497|of Helon ,]]
+=======
+[[Lexicon/H4201-4300#H4294|(Next will be) the tribe]] [[Lexicon/H2001-2100#H2074|of Zebulun.]] [[Lexicon/H5301-5400#H5387|The leader]] [[Lexicon/H1101-1200#H1121|of the Zebulunites]] [[Lexicon/H2001-2100#H2074|...]] [[Lexicon/H401-500#H446|is Eliab]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H2401-2500#H2497|of Helon ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 7|LXX]] |
 
 ##### Numbers 2 - 8
@@ -65,7 +73,11 @@ Chapter: "2"
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 13|LXX]] |
 
 ##### Numbers 2 - 14
+<<<<<<< HEAD
 [[Lexicon/H4201-4300#H4294|[Next will be] the tribe]] [[Lexicon/H1401-1500#H1410|of Gad.]] [[Lexicon/H5301-5400#H5387|The leader]] [[Lexicon/H1101-1200#H1121|of the Gadites]] [[Lexicon/H1401-1500#H1410|...]] [[Lexicon/H401-500#H460|is Eliasaph]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H7401-7500#H7467|of Deuel ,]]
+=======
+[[Lexicon/H4201-4300#H4294|(Next will be) the tribe]] [[Lexicon/H1401-1500#H1410|of Gad.]] [[Lexicon/H5301-5400#H5387|The leader]] [[Lexicon/H1101-1200#H1121|of the Gadites]] [[Lexicon/H1401-1500#H1410|...]] [[Lexicon/H401-500#H460|is Eliasaph]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H7401-7500#H7467|of Deuel ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 14|LXX]] |
 
 ##### Numbers 2 - 15
@@ -97,7 +109,11 @@ Chapter: "2"
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 21|LXX]] |
 
 ##### Numbers 2 - 22
+<<<<<<< HEAD
 [[Lexicon/H4201-4300#H4294|[Next will be] the tribe]] [[Lexicon/H1101-1200#H1144|of Benjamin.]] [[Lexicon/H5301-5400#H5387|The leader]] [[Lexicon/H1101-1200#H1121|of the Benjamites]] [[Lexicon/H1101-1200#H1144|...]] [[Lexicon/H1-100#H27|is Abidan]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1401-1500#H1441|of Gideoni ,]]
+=======
+[[Lexicon/H4201-4300#H4294|(Next will be) the tribe]] [[Lexicon/H1101-1200#H1144|of Benjamin.]] [[Lexicon/H5301-5400#H5387|The leader]] [[Lexicon/H1101-1200#H1121|of the Benjamites]] [[Lexicon/H1101-1200#H1144|...]] [[Lexicon/H1-100#H27|is Abidan]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1401-1500#H1441|of Gideoni ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 22|LXX]] |
 
 ##### Numbers 2 - 23
@@ -105,7 +121,11 @@ Chapter: "2"
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 23|LXX]] |
 
 ##### Numbers 2 - 24
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|The total]] [[Lexicon/H6401-6500#H6485|number of men]] [[Lexicon/H6601-6700#H6635|in the divisions]] [[Lexicon/H4201-4300#H4264|of the camp]] [[Lexicon/H601-700#H669|of Ephraim]] [[Lexicon/H3901-4000#H3967|[is] 108,100]] [[Lexicon/H501-600#H505|... ;]] [[Lexicon/H8001-8100#H8083|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H5201-5300#H5265|they shall set out]] [[Lexicon/H7901-8000#H7992|third.]]
+=======
+[[Lexicon/H3601-3700#H3605|The total]] [[Lexicon/H6401-6500#H6485|number of men]] [[Lexicon/H6601-6700#H6635|in the divisions]] [[Lexicon/H4201-4300#H4264|of the camp]] [[Lexicon/H601-700#H669|of Ephraim]] [[Lexicon/H3901-4000#H3967|(is) 108,100]] [[Lexicon/H501-600#H505|... ;]] [[Lexicon/H8001-8100#H8083|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H5201-5300#H5265|they shall set out]] [[Lexicon/H7901-8000#H7992|third.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 24|LXX]] |
 
 ##### Numbers 2 - 25
@@ -125,7 +145,11 @@ Chapter: "2"
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 28|LXX]] |
 
 ##### Numbers 2 - 29
+<<<<<<< HEAD
 [[Lexicon/H4201-4300#H4294|[Next will be] the tribe]] [[Lexicon/H5301-5400#H5321|of Naphtali.]] [[Lexicon/H5301-5400#H5387|The leader]] [[Lexicon/H1101-1200#H1121|of the Naphtalites]] [[Lexicon/H5301-5400#H5321|...]] [[Lexicon/H201-300#H299|is Ahira]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H5801-5900#H5881|of Enan ,]]
+=======
+[[Lexicon/H4201-4300#H4294|(Next will be) the tribe]] [[Lexicon/H5301-5400#H5321|of Naphtali.]] [[Lexicon/H5301-5400#H5387|The leader]] [[Lexicon/H1101-1200#H1121|of the Naphtalites]] [[Lexicon/H5301-5400#H5321|...]] [[Lexicon/H201-300#H299|is Ahira]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H5801-5900#H5881|of Enan ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 2#Numbers 2 - 29|LXX]] |
 
 ##### Numbers 2 - 30

@@ -15,7 +15,11 @@ Testament: Old
 [[Lexicon/G3401-3500#G3403|Remember,]] [[Lexicon/G2901-3000#G2962|O lord,]] David [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G4201-4300#G4236|his gentleness!]]
 
 #### Psalms 132 - 2
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G3601-3700#G3660|he swore by an oath]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2101-2200#G2172|he made a vow]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2301-2400#G2316|God]] of Jacob, saying,
+=======
+[[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G3601-3700#G3660|he swore by an oath]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2101-2200#G2172|he made a vow]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2301-2400#G2316|God]] of Jacob, saying,
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 132 - 3
 [[Lexicon/G1401-1500#G1487|Shall]] [[Lexicon/G1501-1600#G1525|I enter]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3601-3700#G3624|of my house, no.]] [[Lexicon/G1401-1500#G1487|Shall]] [[Lexicon/G301-400#G0305|I ascend]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G4701-4800#G4765|of my stewn bed, no.]]
@@ -51,7 +55,11 @@ David [[Lexicon/G201-300#G0225|in truth,]] [[Lexicon/G2501-2600#G2532|and]] [[Le
 [[Lexicon/G3701-3800#G3754|For]] Zion; [[Lexicon/G101-200#G0140|he took]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2701-2800#G2733|a dwelling]] [[Lexicon/G1401-1500#G1438|to himself, saying,]]
 
 #### Psalms 132 - 14
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3778|This]] [[Lexicon/G2601-2700#G2663|my rest]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G101-200#G0165|of the eon;]] [[Lexicon/G5601-5700#G5602|here]] [[Lexicon/G2701-2800#G2730|I shall dwell,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G101-200#G0140|I took]] [[Lexicon/G1401-1500#G1473|her.]]
+=======
+[[Lexicon/G3701-3800#G3778|This]] [[Lexicon/G2601-2700#G2663|my rest]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G101-200#G0165|of the eon;]] [[Lexicon/G5601-5624#G5602|here]] [[Lexicon/G2701-2800#G2730|I shall dwell,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G101-200#G0140|I took]] [[Lexicon/G1401-1500#G1473|her.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 132 - 15
 [[Lexicon/G2301-2400#G2339|Her game]] [[Lexicon/G2101-2200#G2127|being a blessing,]] [[Lexicon/G2101-2200#G2127|I shall bless;]] [[Lexicon/G4401-4500#G4434|her poor]] [[Lexicon/G5501-5600#G5526|I will fill]]

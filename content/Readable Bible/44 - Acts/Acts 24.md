@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Acts-R 24
 
 **[[Home/Scripture/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 23#Acts-R 23| Acts 23]] - [[Readable Bible/44 - Acts/Acts 25#Acts-R 25| Acts 25]]
+=======
+# Acts 24
+
+[[Readable Bible/44 - Acts/Acts 23|← Acts 23]] | [[Readable Bible/44 - Acts/Acts 25|Acts 25 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Acts 24 . 1
+<<<<<<< HEAD
 [[Reference Bible/44 - Acts/Acts 24#Acts 24 - 1|1]] Five days later the high priest Ananias came down with some elders and a lawyer named Tertullus, who presented to the governor their case against Paul.   || [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 24 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/44 - Acts/Acts 24#Acts 24 - 1|1]] Five days later the high priest Ananias came down with some elders and a lawyer named Tertullus, who presented to the governor their case against Paul.  | | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 24 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Acts 24 . 2
 [[Reference Bible/44 - Acts/Acts 24#Acts 24 - 2|2]] When Paul had been called in, Tertullus opened the prosecution: “Because of you, we have enjoyed a lasting peace, and your foresight has brought improvements to this nation.  | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 24 - TOSK#Verse 2|TOSK]] |

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Ezekiel 34 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 33 - TOSK|← Ch 33]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 35 - TOSK|Ch 35 →]]
+=======
+**[[Home/Indexes/Readable Bible/26 - Ezekiel|← Ezekiel]]** | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 33 - TOSK|← Ch 33]] | [[The Treasury of Scripture Knowledge/26. Ezekiel TOSK/Ezekiel - 35 - TOSK|Ch 35 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

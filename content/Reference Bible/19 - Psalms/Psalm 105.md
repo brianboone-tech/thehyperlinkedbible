@@ -34,7 +34,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 6|LXX]] |
 
 ##### Psalm 105 - 7
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H3001-3100#H3068|is the LORD]] [[Lexicon/H401-500#H430|our God ;]] [[Lexicon/H4901-5000#H4941|His judgments [carry]]] [[Lexicon/H3601-3700#H3605|throughout]] [[Lexicon/H701-800#H776|the earth.]]
+=======
+[[Lexicon/H1901-2000#H1931|He]] [[Lexicon/H3001-3100#H3068|is the LORD]] [[Lexicon/H401-500#H430|our God ;]] [[Lexicon/H4901-5000#H4941|His judgments (carry)]] [[Lexicon/H3601-3700#H3605|throughout]] [[Lexicon/H701-800#H776|the earth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 7|LXX]] |
 
 ##### Psalm 105 - 8
@@ -42,7 +46,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 8|LXX]] |
 
 ##### Psalm 105 - 9
+<<<<<<< HEAD
 [[Lexicon/H801-900#H834|[the covenant]]] [[Lexicon/H3701-3800#H3772|He made]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H1-100#H85|Abraham ,]] [[Lexicon/H7601-7700#H7621|and the oath He swore]] [[Lexicon/H3401-3500#H3446|to Isaac.]]
+=======
+[[Lexicon/H801-900#H834|(the covenant)]] [[Lexicon/H3701-3800#H3772|He made]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H1-100#H85|Abraham ,]] [[Lexicon/H7601-7700#H7621|and the oath He swore]] [[Lexicon/H3401-3500#H3446|to Isaac.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 9|LXX]] |
 
 ##### Psalm 105 - 10
@@ -58,7 +66,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 12|LXX]] |
 
 ##### Psalm 105 - 13
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1980|they wandered]] [[Lexicon/H1401-1500#H1471|from nation]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1401-1500#H1471|nation ,]] [[Lexicon/H4401-4500#H4467|from [one] kingdom]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|...]] [[Lexicon/H301-400#H312|another.]]
+=======
+[[Lexicon/H1901-2000#H1980|they wandered]] [[Lexicon/H1401-1500#H1471|from nation]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1401-1500#H1471|nation ,]] [[Lexicon/H4401-4500#H4467|from (one) kingdom]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|...]] [[Lexicon/H301-400#H312|another.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 13|LXX]] |
 
 ##### Psalm 105 - 14
@@ -78,11 +90,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 17|LXX]] |
 
 ##### Psalm 105 - 18
+<<<<<<< HEAD
 [[Lexicon/H6001-6100#H6031|They bruised]] [[Lexicon/H7201-7300#H7272|his feet]] [[Lexicon/H3501-3600#H3525|with shackles]] [[Lexicon/H901-1000#H935|[and] placed]] [[Lexicon/H5301-5400#H5315|his neck]] [[Lexicon/H1201-1300#H1270|in irons ,]]
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 18|LXX]] |
 
 ##### Psalm 105 - 19
 [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6201-6300#H6256|...]] [[Lexicon/H1601-1700#H1697|his prediction]] [[Lexicon/H901-1000#H935|came true]] [[Lexicon/H501-600#H565|[and] the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H6801-6900#H6884|proved him right.]]
+=======
+[[Lexicon/H6001-6100#H6031|They bruised]] [[Lexicon/H7201-7300#H7272|his feet]] [[Lexicon/H3501-3600#H3525|with shackles]] [[Lexicon/H901-1000#H935|(and) placed]] [[Lexicon/H5301-5400#H5315|his neck]] [[Lexicon/H1201-1300#H1270|in irons ,]]
+| [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 18|LXX]] |
+
+##### Psalm 105 - 19
+[[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6201-6300#H6256|...]] [[Lexicon/H1601-1700#H1697|his prediction]] [[Lexicon/H901-1000#H935|came true]] [[Lexicon/H501-600#H565|(and) the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H6801-6900#H6884|proved him right.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 19|LXX]] |
 
 ##### Psalm 105 - 20
@@ -154,7 +174,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 36|LXX]] |
 
 ##### Psalm 105 - 37
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3318|He brought [Israel] out]] [[Lexicon/H3701-3800#H3701|with silver]] [[Lexicon/H2001-2100#H2091|and gold ,]] [[Lexicon/H301-400#H369|and none]] [[Lexicon/H7601-7700#H7626|among His tribes]] [[Lexicon/H3701-3800#H3782|stumbled.]]
+=======
+[[Lexicon/H3301-3400#H3318|He brought (Israel) out]] [[Lexicon/H3701-3800#H3701|with silver]] [[Lexicon/H2001-2100#H2091|and gold ,]] [[Lexicon/H301-400#H369|and none]] [[Lexicon/H7601-7700#H7626|among His tribes]] [[Lexicon/H3701-3800#H3782|stumbled.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 37|LXX]] |
 
 ##### Psalm 105 - 38
@@ -170,7 +194,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 40|LXX]] |
 
 ##### Psalm 105 - 41
+<<<<<<< HEAD
 [[Lexicon/H6601-6700#H6605|He opened]] [[Lexicon/H6601-6700#H6697|a rock ,]] [[Lexicon/H4301-4400#H4325|and water]] [[Lexicon/H2001-2100#H2100|gushed out ;]] [[Lexicon/H1901-2000#H1980|it flowed]] [[Lexicon/H5101-5200#H5104|[like] a river]] [[Lexicon/H6701-6800#H6723|in the desert.]]
+=======
+[[Lexicon/H6601-6700#H6605|He opened]] [[Lexicon/H6601-6700#H6697|a rock ,]] [[Lexicon/H4301-4400#H4325|and water]] [[Lexicon/H2001-2100#H2100|gushed out ;]] [[Lexicon/H1901-2000#H1980|it flowed]] [[Lexicon/H5101-5200#H5104|(like) a river]] [[Lexicon/H6701-6800#H6723|in the desert.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 105#Psalm 105 - 41|LXX]] |
 
 ##### Psalm 105 - 42

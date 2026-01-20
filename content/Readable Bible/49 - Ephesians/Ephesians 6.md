@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ephesians-R 6
 
 **[[Home/Scripture/49 - Ephesians|Ephesians]]**
 
 [[Readable Bible/49 - Ephesians/Ephesians 5#Ephesians-R 5| Ephesians 5]]
+=======
+# Ephesians 6
+
+[[Readable Bible/49 - Ephesians/Ephesians 5|← Ephesians 5]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

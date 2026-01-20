@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 
+=======
+cssclasses: chiasm
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 Folder: Chiasm
 ---
 

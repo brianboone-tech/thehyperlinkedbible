@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # James-R 1
 
 **[[Home/Scripture/59 - James|James]]**
 
 [[Readable Bible/58 - Hebrews/Hebrews 13#Hebrews-R 13|Hebrews 13]] • [[Readable Bible/59 - James/James 2#James-R 2|James 2]]
+=======
+# James 1
+
+[[Readable Bible/58 - Hebrews/Hebrews 13|← Hebrews 13]] | [[Readable Bible/59 - James/James 2|James 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

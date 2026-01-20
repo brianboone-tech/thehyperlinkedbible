@@ -7,7 +7,11 @@ Testament: Old
 
 # 1 Samuel 31
 
+<<<<<<< HEAD
 [[LXX Reference/9 - 1 Samuel/1 Samuel 30|←]] • [[LXX Reference/9 - 1 Samuel/1 Samuel 32|→]]
+=======
+[[LXX Reference/9 - 1 Samuel/1 Samuel 30|←]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

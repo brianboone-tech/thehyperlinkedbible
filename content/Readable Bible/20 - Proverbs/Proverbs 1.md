@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Proverbs-R 1
 
 **[[Home/Scripture/20 - Proverbs|Proverbs]]**
 
 [[Psalm-R 150|←]] • [[Proverbs-R 2|→]]
+=======
+# Proverbs 1
+
+[[Readable Bible/19 - Psalms/Psalm 150|←]] | [[Readable Bible/20 - Proverbs/Proverbs 2|→]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

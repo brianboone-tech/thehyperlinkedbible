@@ -12,7 +12,11 @@ Testament: Old
 ---
 
 #### Isaiah 35 - 1
+<<<<<<< HEAD
 [[Lexicon/G2101-2200#G2165|Be glad,]] [[Lexicon/G2001-2100#G2048|wilderness]] [[Lexicon/G1-100#G0021|Exult,]] [[Lexicon/G2001-2100#G2048|O wilderness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0435|bloom]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2901-3000#G2918|a lily!]]
+=======
+[[Lexicon/G2101-2200#G2165|Be glad,]] [[Lexicon/G2001-2100#G2048|wilderness]] [[Lexicon/G1-100#G0021|Exult,]] [[Lexicon/G2001-2100#G2048|O wilderness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0435|bloom]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2901-3000#G2918|a lily!]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 35 - 2
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1801-1900#G1816|shall blossom]] [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G1301-1400#G1391|glory]] of Lebanon [[Lexicon/G1301-1400#G1325|was given]] [[Lexicon/G1401-1500#G1473|to it,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5001-5100#G5092|honor]] of Carmel. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2992|my people]] [[Lexicon/G3701-3800#G3708|shall see]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1301-1400#G1391|glory]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5301-5400#G5311|stature]] [[Lexicon/G2301-2400#G2316|of God.]]

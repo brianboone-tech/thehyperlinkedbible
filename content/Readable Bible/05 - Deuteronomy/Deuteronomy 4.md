@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Deuteronomy-R 4
 
 **[[Home/Scripture/05 - Deuteronomy|Deuteronomy]]**
 
 [[Readable Bible/05 - Deuteronomy/Deuteronomy 3#Deuteronomy-R 3| Deuteronomy 3]] - [[Readable Bible/05 - Deuteronomy/Deuteronomy 5#Deuteronomy-R 5| Deuteronomy 5]]
+=======
+# Deuteronomy 4
+
+[[Readable Bible/05 - Deuteronomy/Deuteronomy 3|← Deuteronomy 3]] | [[Readable Bible/05 - Deuteronomy/Deuteronomy 5|Deuteronomy 5 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

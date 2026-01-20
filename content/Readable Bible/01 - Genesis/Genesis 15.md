@@ -6,11 +6,17 @@ cssclasses:
   - lexicon
 ---
 
+<<<<<<< HEAD
 # Genesis-R 15
 
 **[[Home/Scripture/01 - Genesis|Genesis]]**
 
 [[Readable Bible/01 - Genesis/Genesis 14#Genesis-R 14| Genesis 14]] - [[Readable Bible/01 - Genesis/Genesis 16#Genesis-R 16| Genesis 16]]
+=======
+# Genesis 15
+
+[[Readable Bible/01 - Genesis/Genesis 14|← Genesis 14]] | [[Readable Bible/01 - Genesis/Genesis 16|Genesis 16 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

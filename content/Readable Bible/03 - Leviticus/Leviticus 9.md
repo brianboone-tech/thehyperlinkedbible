@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Leviticus-R 9
 
 **[[Home/Scripture/03 - Leviticus|Leviticus]]**
 
 [[Readable Bible/03 - Leviticus/Leviticus 8#Leviticus-R 8| Leviticus 8]] - [[Readable Bible/03 - Leviticus/Leviticus 10#Leviticus-R 10| Leviticus 10]]
+=======
+# Leviticus 9
+
+[[Readable Bible/03 - Leviticus/Leviticus 8|← Leviticus 8]] | [[Readable Bible/03 - Leviticus/Leviticus 10|Leviticus 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

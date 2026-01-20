@@ -17,6 +17,7 @@ Chapter: "18"
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 1|LXX]] |
 
 ##### Exodus 18 - 2
+<<<<<<< HEAD
 [[Lexicon/H301-400#H310|After]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H7901-8000#H7964|had sent back]] [[Lexicon/H801-900#H802|his wife]] [[Lexicon/H6801-6900#H6855|Zipporah ,]] [[Lexicon/H4801-4900#H4872|[his]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2801-2900#H2859|father-in-law]] [[Lexicon/H3501-3600#H3503|Jethro]] [[Lexicon/H3901-4000#H3947|had received her ,]]
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 2|LXX]] |
 
@@ -26,6 +27,17 @@ Chapter: "18"
 
 ##### Exodus 18 - 4
 [[Lexicon/H201-300#H259|The other [son]]] [[Lexicon/H8001-8100#H8034|was named]] [[Lexicon/H401-500#H461|Eliezer ,]] [[Lexicon/H3501-3600#H3588|for [Moses had said] ,]] [[Lexicon/H401-500#H430|“ The God]] [[Lexicon/H1-100#H1|of my father]] [[Lexicon/H5801-5900#H5828|was my helper]] [[Lexicon/H5301-5400#H5337|and delivered me]] [[Lexicon/H2701-2800#H2719|from the sword]] [[Lexicon/H6501-6600#H6547|of Pharaoh. ”]]
+=======
+[[Lexicon/H301-400#H310|After]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H7901-8000#H7964|had sent back]] [[Lexicon/H801-900#H802|his wife]] [[Lexicon/H6801-6900#H6855|Zipporah ,]] [[Lexicon/H4801-4900#H4872|(his)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2801-2900#H2859|father-in-law]] [[Lexicon/H3501-3600#H3503|Jethro]] [[Lexicon/H3901-4000#H3947|had received her ,]]
+| [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 2|LXX]] |
+
+##### Exodus 18 - 3
+[[Lexicon/H801-900#H853|along with]] [[Lexicon/H8101-8200#H8147|her two]] [[Lexicon/H1101-1200#H1121|sons.]] [[Lexicon/H201-300#H259|One]] [[Lexicon/H801-900#H834|(son)]] [[Lexicon/H8001-8100#H8034|was named]] [[Lexicon/H1601-1700#H1647|Gershom ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H559|Moses had said ,]] [[Lexicon/H1901-2000#H1961|“ I have been]] [[Lexicon/H1601-1700#H1616|a foreigner]] [[Lexicon/H5201-5300#H5237|in a foreign]] [[Lexicon/H701-800#H776|land. ”]]
+| [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 3|LXX]] |
+
+##### Exodus 18 - 4
+[[Lexicon/H201-300#H259|The other (son)]] [[Lexicon/H8001-8100#H8034|was named]] [[Lexicon/H401-500#H461|Eliezer ,]] [[Lexicon/H3501-3600#H3588|for (Moses had said) ,]] [[Lexicon/H401-500#H430|“ The God]] [[Lexicon/H1-100#H1|of my father]] [[Lexicon/H5801-5900#H5828|was my helper]] [[Lexicon/H5301-5400#H5337|and delivered me]] [[Lexicon/H2701-2800#H2719|from the sword]] [[Lexicon/H6501-6600#H6547|of Pharaoh. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 4|LXX]] |
 
 ##### Exodus 18 - 5
@@ -49,7 +61,11 @@ Chapter: "18"
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 9|LXX]] |
 
 ##### Exodus 18 - 10
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3503|Jethro]] [[Lexicon/H501-600#H559|declared ,]] [[Lexicon/H1201-1300#H1288|“ Blessed [be]]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H5301-5400#H5337|has delivered]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H3001-3100#H3027|from the hand]] [[Lexicon/H4701-4800#H4714|of the Egyptians]] [[Lexicon/H3001-3100#H3027|-]] [[Lexicon/H6501-6600#H6547|and of Pharaoh ,]] [[Lexicon/H801-900#H834|and who]] [[Lexicon/H5301-5400#H5337|has delivered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H8401-8500#H8478|from]] [[Lexicon/H3001-3100#H3027|the hand]] [[Lexicon/H4701-4800#H4714|of the Egyptians.]]
+=======
+[[Lexicon/H3501-3600#H3503|Jethro]] [[Lexicon/H501-600#H559|declared ,]] [[Lexicon/H1201-1300#H1288|“ Blessed (be)]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H5301-5400#H5337|has delivered]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H3001-3100#H3027|from the hand]] [[Lexicon/H4701-4800#H4714|of the Egyptians]] [[Lexicon/H3001-3100#H3027|-]] [[Lexicon/H6501-6600#H6547|and of Pharaoh ,]] [[Lexicon/H801-900#H834|and who]] [[Lexicon/H5301-5400#H5337|has delivered]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H8401-8500#H8478|from]] [[Lexicon/H3001-3100#H3027|the hand]] [[Lexicon/H4701-4800#H4714|of the Egyptians.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 10|LXX]] |
 
 ##### Exodus 18 - 11
@@ -61,11 +77,19 @@ Chapter: "18"
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 12|LXX]] |
 
 ##### Exodus 18 - 13
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H4201-4300#H4283|The next day]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H3401-3500#H3427|took his seat]] [[Lexicon/H8101-8200#H8199|to judge]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|the people ,]] [[Lexicon/H5901-6000#H5975|and they stood]] [[Lexicon/H5901-6000#H5971|...]] [[Lexicon/H5901-6000#H5921|around]] [[Lexicon/H4801-4900#H4872|[him]]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H1201-1300#H1242|morning]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening.]]
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 13|LXX]] |
 
 ##### Exodus 18 - 14
 [[Lexicon/H4801-4900#H4872|When [his]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2801-2900#H2859|father-in-law]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1901-2000#H1931|[Moses]]] [[Lexicon/H6201-6300#H6213|was doing]] [[Lexicon/H5901-6000#H5971|for the people ,]] [[Lexicon/H501-600#H559|he asked ,]] [[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H2001-2100#H2088|is this]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1601-1700#H1697|-]] [[Lexicon/H801-900#H859|you are]] [[Lexicon/H6201-6300#H6213|doing]] [[Lexicon/H5901-6000#H5971|for the people ?]] [[Lexicon/H4001-4100#H4069|Why]] [[Lexicon/H801-900#H859|do you]] [[Lexicon/H3401-3500#H3427|sit]] [[Lexicon/H901-1000#H905|alone [as judge] ,]] [[Lexicon/H3601-3700#H3605|with all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H5301-5400#H5324|standing]] [[Lexicon/H5901-6000#H5921|around]] [[Lexicon/H4401-4500#H4480|you from]] [[Lexicon/H1201-1300#H1242|morning]] [[Lexicon/H5701-5800#H5704|till]] [[Lexicon/H6101-6200#H6153|evening ? ”]]
+=======
+[[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H4201-4300#H4283|The next day]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H3401-3500#H3427|took his seat]] [[Lexicon/H8101-8200#H8199|to judge]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|the people ,]] [[Lexicon/H5901-6000#H5975|and they stood]] [[Lexicon/H5901-6000#H5971|...]] [[Lexicon/H5901-6000#H5921|around]] [[Lexicon/H4801-4900#H4872|(him)]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H1201-1300#H1242|morning]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H6101-6200#H6153|evening.]]
+| [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 13|LXX]] |
+
+##### Exodus 18 - 14
+[[Lexicon/H4801-4900#H4872|When (his)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2801-2900#H2859|father-in-law]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1901-2000#H1931|(Moses)]] [[Lexicon/H6201-6300#H6213|was doing]] [[Lexicon/H5901-6000#H5971|for the people ,]] [[Lexicon/H501-600#H559|he asked ,]] [[Lexicon/H4001-4100#H4100|“ What]] [[Lexicon/H2001-2100#H2088|is this]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1601-1700#H1697|-]] [[Lexicon/H801-900#H859|you are]] [[Lexicon/H6201-6300#H6213|doing]] [[Lexicon/H5901-6000#H5971|for the people ?]] [[Lexicon/H4001-4100#H4069|Why]] [[Lexicon/H801-900#H859|do you]] [[Lexicon/H3401-3500#H3427|sit]] [[Lexicon/H901-1000#H905|alone (as judge) ,]] [[Lexicon/H3601-3700#H3605|with all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H5301-5400#H5324|standing]] [[Lexicon/H5901-6000#H5921|around]] [[Lexicon/H4401-4500#H4480|you from]] [[Lexicon/H1201-1300#H1242|morning]] [[Lexicon/H5701-5800#H5704|till]] [[Lexicon/H6101-6200#H6153|evening ? ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 14|LXX]] |
 
 ##### Exodus 18 - 15
@@ -93,11 +117,19 @@ Chapter: "18"
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 20|LXX]] |
 
 ##### Exodus 18 - 21
+<<<<<<< HEAD
 [[Lexicon/H801-900#H859|Furthermore ,]] [[Lexicon/H2301-2400#H2372|select]] [[Lexicon/H2401-2500#H2428|capable]] [[Lexicon/H501-600#H582|men]] [[Lexicon/H3601-3700#H3605|from among]] [[Lexicon/H5901-6000#H5971|the people —]] [[Lexicon/H3301-3400#H3373|God-fearing]] [[Lexicon/H401-500#H430|... ,]] [[Lexicon/H501-600#H582|...]] [[Lexicon/H501-600#H571|trustworthy men]] [[Lexicon/H8101-8200#H8130|who are averse]] [[Lexicon/H1201-1300#H1215|to dishonest gain.]] [[Lexicon/H7701-7800#H7760|Appoint them]] [[Lexicon/H5901-6000#H5921|over [the people]]] [[Lexicon/H8201-8300#H8269|as leaders]] [[Lexicon/H501-600#H505|of thousands ,]] [[Lexicon/H8201-8300#H8269|...]] [[Lexicon/H3901-4000#H3967|of hundreds ,]] [[Lexicon/H8201-8300#H8269|...]] [[Lexicon/H2501-2600#H2572|of fifties ,]] [[Lexicon/H8201-8300#H8269|...]] [[Lexicon/H6201-6300#H6235|and of tens.]]
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 21|LXX]] |
 
 ##### Exodus 18 - 22
 [[Lexicon/H8101-8200#H8199|Have [these men] judge]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H3601-3700#H3605|at all]] [[Lexicon/H6201-6300#H6256|times.]] [[Lexicon/H1901-2000#H1961|Then]] [[Lexicon/H901-1000#H935|they can bring]] [[Lexicon/H401-500#H413|you]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H1401-1500#H1419|major]] [[Lexicon/H1601-1700#H1697|issue ,]] [[Lexicon/H3601-3700#H3605|but all]] [[Lexicon/H6901-7000#H6996|minor]] [[Lexicon/H1601-1700#H1697|cases]] [[Lexicon/H8101-8200#H8199|they can judge]] [[Lexicon/H1901-2000#H1992|on their own ,]] [[Lexicon/H7001-7100#H7043|so that your load may be lightened]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5301-5400#H5375|as they share]] [[Lexicon/H801-900#H854|it with you.]]
+=======
+[[Lexicon/H801-900#H859|Furthermore ,]] [[Lexicon/H2301-2400#H2372|select]] [[Lexicon/H2401-2500#H2428|capable]] [[Lexicon/H501-600#H582|men]] [[Lexicon/H3601-3700#H3605|from among]] [[Lexicon/H5901-6000#H5971|the people —]] [[Lexicon/H3301-3400#H3373|God-fearing]] [[Lexicon/H401-500#H430|... ,]] [[Lexicon/H501-600#H582|...]] [[Lexicon/H501-600#H571|trustworthy men]] [[Lexicon/H8101-8200#H8130|who are averse]] [[Lexicon/H1201-1300#H1215|to dishonest gain.]] [[Lexicon/H7701-7800#H7760|Appoint them]] [[Lexicon/H5901-6000#H5921|over (the people)]] [[Lexicon/H8201-8300#H8269|as leaders]] [[Lexicon/H501-600#H505|of thousands ,]] [[Lexicon/H8201-8300#H8269|...]] [[Lexicon/H3901-4000#H3967|of hundreds ,]] [[Lexicon/H8201-8300#H8269|...]] [[Lexicon/H2501-2600#H2572|of fifties ,]] [[Lexicon/H8201-8300#H8269|...]] [[Lexicon/H6201-6300#H6235|and of tens.]]
+| [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 21|LXX]] |
+
+##### Exodus 18 - 22
+[[Lexicon/H8101-8200#H8199|Have (these men) judge]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H3601-3700#H3605|at all]] [[Lexicon/H6201-6300#H6256|times.]] [[Lexicon/H1901-2000#H1961|Then]] [[Lexicon/H901-1000#H935|they can bring]] [[Lexicon/H401-500#H413|you]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H1401-1500#H1419|major]] [[Lexicon/H1601-1700#H1697|issue ,]] [[Lexicon/H3601-3700#H3605|but all]] [[Lexicon/H6901-7000#H6996|minor]] [[Lexicon/H1601-1700#H1697|cases]] [[Lexicon/H8101-8200#H8199|they can judge]] [[Lexicon/H1901-2000#H1992|on their own ,]] [[Lexicon/H7001-7100#H7043|so that your load may be lightened]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5301-5400#H5375|as they share]] [[Lexicon/H801-900#H854|it with you.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 22|LXX]] |
 
 ##### Exodus 18 - 23
@@ -117,5 +149,9 @@ Chapter: "18"
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 26|LXX]] |
 
 ##### Exodus 18 - 27
+<<<<<<< HEAD
 [[Lexicon/H4801-4900#H4872|Then Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H2801-2900#H2859|his father-in-law {on his way} ,]] [[Lexicon/H1901-2000#H1980|and [Jethro] returned]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|his own land.]]
+=======
+[[Lexicon/H4801-4900#H4872|Then Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7971|sent]] [[Lexicon/H2801-2900#H2859|his father-in-law {on his way} ,]] [[Lexicon/H1901-2000#H1980|and (Jethro) returned]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|his own land.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 18#Exodus 18 - 27|LXX]] |

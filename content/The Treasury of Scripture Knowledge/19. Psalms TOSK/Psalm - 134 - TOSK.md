@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 134 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 133 - TOSK|← Ch 133]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 135 - TOSK|Ch 135 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 133 - TOSK|← Ch 133]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 135 - TOSK|Ch 135 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

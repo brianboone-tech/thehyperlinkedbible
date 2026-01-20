@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Samuel-R 3
 
 **[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
 
 [[Readable Bible/09 - 1 Samuel/1 Samuel 2#1 Samuel-R 2| 1 Samuel 2]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 4#1 Samuel-R 4| 1 Samuel 4]]
+=======
+# 1 Samuel 3
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 2|← 1 Samuel 2]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 4|1 Samuel 4 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

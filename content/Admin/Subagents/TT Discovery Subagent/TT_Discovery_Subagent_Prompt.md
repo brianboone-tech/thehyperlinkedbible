@@ -2,7 +2,13 @@
 
 ## Mission
 
+<<<<<<< HEAD
 Systematically analyze a public book to identify potential trajectory table candidates, cross-reference against existing 127 trajectory tables to avoid duplicates, and output a prioritized candidates document.
+=======
+Systematically analyze a public book to identify potential trajectory table candidates, cross-reference against existing **177 trajectory tables** to avoid duplicates, and output a prioritized candidates document.
+
+**Note**: The existing TT list (127 → 177) was updated in Phase 1 (2025). See `Admin/TT Discovery/Public Domain Books - Extraction Plan.md` Appendix A for the complete current list.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -77,7 +83,13 @@ Also note:
 
 ### Step 4: Cross-Reference Check (CRITICAL)
 
+<<<<<<< HEAD
 **Compare EVERY identified type against the existing 127 trajectory tables listed below.**
+=======
+**Compare EVERY identified type against the existing 177 trajectory tables.**
+
+Reference: `Admin/TT Discovery/Public Domain Books - Extraction Plan.md` Appendix A for complete list.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 For each identified type, determine:
 - **EXISTING**: Type already has a trajectory table → **SKIP** (but note if book adds new content)
@@ -86,10 +98,33 @@ For each identified type, determine:
 
 ---
 
+<<<<<<< HEAD
 ## EXISTING TRAJECTORY TABLES (127 Total)
 
 **CRITICAL: These tables ALREADY EXIST. Do NOT recommend creating duplicates.**
 
+=======
+## EXISTING TRAJECTORY TABLES (177 Total)
+
+**CRITICAL: These tables ALREADY EXIST. Do NOT recommend creating duplicates.**
+
+**Full updated list**: See `Admin/TT Discovery/Public Domain Books - Extraction Plan.md` Appendix A
+
+**Key additions since original 127** (Phase 1, 2025):
+- Enoch, Cyrus, Hezekiah, Scapegoat (cross-book confirmed)
+- Jacob's Ladder, Burning Bush, Cain, Seth, Hannah
+- Sarah, Barak, Gideon, Jephthah, Samson (Hebrews 11 heroes)
+- Ashes of Red Heifer, Water of Purification, Hyssop, Scarlet Wool & Cedar
+- Josiah, First-Born Redemption, Eliakim, Brazen Pillars, Pool of Bethesda
+- Eve, Lamech's Song, Nimrod, Tower of Babel, Rebekah, Benjamin
+- Judah's Scepter, Shem, Saul, Boaz, Ruth, Hagar/Ishmael, Esau
+- Miriam, Absalom, Ephod, Urim/Thummim, Breastplate, Ark of Noah, Bethel
+- Theophanies, Heavenly Sanctuary, Oath of God
+- The Singing Sufferer (Christ the Choir Master)
+
+**Original list preserved below for reference:**
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ### Personal Types (25)
 1. Aaron (The Great High Priest)
 2. Abel (First Martyr)

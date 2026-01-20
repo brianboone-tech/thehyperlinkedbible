@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Mark 1 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/41 - Mark|← Mark]]** | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 2 - TOSK|Ch 2 →]]
+=======
+**[[Home/Indexes/Readable Bible/41 - Mark|← Mark]]** | [[The Treasury of Scripture Knowledge/41. Mark TOSK/Mark - 2 - TOSK|Ch 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

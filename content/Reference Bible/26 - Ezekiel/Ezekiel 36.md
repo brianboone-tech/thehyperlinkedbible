@@ -10,13 +10,21 @@ cssClasses: lexicon
 ---
 
 ##### Ezekiel 36 - 1
+<<<<<<< HEAD
 [[Lexicon/H801-900#H859|[“] And you ,]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H101-200#H120|of man ,]] [[Lexicon/H5001-5100#H5012|prophesy]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H2001-2100#H2022|the mountains]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H501-600#H559|and say :]] [[Lexicon/H2001-2100#H2022|O mountains]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H8001-8100#H8085|hear]] [[Lexicon/H1601-1700#H1697|the word]] [[Lexicon/H3001-3100#H3068|of the LORD.]]
+=======
+[[Lexicon/H801-900#H859|(“) And you ,]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H101-200#H120|of man ,]] [[Lexicon/H5001-5100#H5012|prophesy]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H2001-2100#H2022|the mountains]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H501-600#H559|and say :]] [[Lexicon/H2001-2100#H2022|O mountains]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H8001-8100#H8085|hear]] [[Lexicon/H1601-1700#H1697|the word]] [[Lexicon/H3001-3100#H3068|of the LORD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 36 - 2
 [[Lexicon/H3501-3600#H3541|This is what]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H3201-3300#H3282|Because]] [[Lexicon/H301-400#H341|the enemy]] [[Lexicon/H501-600#H559|has said]] [[Lexicon/H5901-6000#H5921|of you ,]] [[Lexicon/H1801-1900#H1889|‘ Aha !]] [[Lexicon/H5701-5800#H5769|The ancient]] [[Lexicon/H1101-1200#H1116|heights]] [[Lexicon/H1901-2000#H1961|have become]] [[Lexicon/H4101-4200#H4181|possession , ’]]
 
 ##### Ezekiel 36 - 3
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3651|therefore]] [[Lexicon/H5001-5100#H5012|prophesy]] [[Lexicon/H501-600#H559|and declare]] [[Lexicon/H3501-3600#H3541|that this is what]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H3201-3300#H3282|Because]] [[Lexicon/H3201-3300#H3282|...]] [[Lexicon/H8001-8100#H8074|they have made you desolate]] [[Lexicon/H7601-7700#H7602|and have trampled]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H5401-5500#H5439|on every side ,]] [[Lexicon/H1901-2000#H1961|so that you became]] [[Lexicon/H4101-4200#H4181|a possession]] [[Lexicon/H7601-7700#H7611|of the rest]] [[Lexicon/H1401-1500#H1471|of the nations]] [[Lexicon/H5901-6000#H5927|and were taken up]] [[Lexicon/H1601-1700#H1681|in slander]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H8101-8200#H8193|the lips]] [[Lexicon/H3901-4000#H3956|of [their] talkers]] [[Lexicon/H5901-6000#H5971|... ,]]
+=======
+[[Lexicon/H3601-3700#H3651|therefore]] [[Lexicon/H5001-5100#H5012|prophesy]] [[Lexicon/H501-600#H559|and declare]] [[Lexicon/H3501-3600#H3541|that this is what]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H3201-3300#H3282|Because]] [[Lexicon/H3201-3300#H3282|...]] [[Lexicon/H8001-8100#H8074|they have made you desolate]] [[Lexicon/H7601-7700#H7602|and have trampled]] [[Lexicon/H801-900#H853|you]] [[Lexicon/H5401-5500#H5439|on every side ,]] [[Lexicon/H1901-2000#H1961|so that you became]] [[Lexicon/H4101-4200#H4181|a possession]] [[Lexicon/H7601-7700#H7611|of the rest]] [[Lexicon/H1401-1500#H1471|of the nations]] [[Lexicon/H5901-6000#H5927|and were taken up]] [[Lexicon/H1601-1700#H1681|in slander]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H8101-8200#H8193|the lips]] [[Lexicon/H3901-4000#H3956|of (their) talkers]] [[Lexicon/H5901-6000#H5971|... ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 36 - 4
 [[Lexicon/H3601-3700#H3651|therefore ,]] [[Lexicon/H2001-2100#H2022|O mountains]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H8001-8100#H8085|hear]] [[Lexicon/H1601-1700#H1697|the word]] [[Lexicon/H101-200#H136|of the Lord]] [[Lexicon/H3001-3100#H3069|GOD.]] [[Lexicon/H3501-3600#H3541|This is what]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD]] [[Lexicon/H501-600#H559|says]] [[Lexicon/H2001-2100#H2022|to the mountains]] [[Lexicon/H1301-1400#H1389|and hills ,]] [[Lexicon/H601-700#H650|to the ravines]] [[Lexicon/H1501-1600#H1516|and valleys ,]] [[Lexicon/H8001-8100#H8076|to the desolate]] [[Lexicon/H2701-2800#H2723|ruins]] [[Lexicon/H5701-5800#H5800|and abandoned]] [[Lexicon/H5801-5900#H5892|cities ,]] [[Lexicon/H801-900#H834|which]] [[Lexicon/H1901-2000#H1961|have become]] [[Lexicon/H901-1000#H957|a spoil]] [[Lexicon/H3901-4000#H3933|and a mockery]] [[Lexicon/H7601-7700#H7611|to the rest]] [[Lexicon/H1401-1500#H1471|of the nations]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5401-5500#H5439|around you.]]
@@ -43,7 +51,11 @@ cssClasses: lexicon
 [[Lexicon/H7201-7300#H7235|I will fill]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H101-200#H120|you with people]] [[Lexicon/H901-1000#H929|and animals ,]] [[Lexicon/H7201-7300#H7235|and they will multiply]] [[Lexicon/H6501-6600#H6509|and be fruitful.]] [[Lexicon/H3401-3500#H3427|I will make you as inhabited]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6927|as you once were ,]] [[Lexicon/H3101-3200#H3190|and I will make you prosper]] [[Lexicon/H7201-7300#H7221|more than before.]] [[Lexicon/H3001-3100#H3045|Then you will know]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H501-600#H589|I]] [[Lexicon/H3001-3100#H3068|am the LORD.]]
 
 ##### Ezekiel 36 - 12
+<<<<<<< HEAD
 [[Lexicon/H101-200#H120|]] [[Lexicon/H801-900#H853|Yes, {I will cause}]] [[Lexicon/H5901-6000#H5971|My people]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H1901-2000#H1980|to walk]] [[Lexicon/H5901-6000#H5921|upon you ;]] [[Lexicon/H3401-3500#H3423|they will possess you ,]] [[Lexicon/H1901-2000#H1961|and you will be]] [[Lexicon/H5101-5200#H5159|inheritance ,]] [[Lexicon/H3801-3900#H3808|and you will no]] [[Lexicon/H3201-3300#H3254|longer]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H7901-8000#H7921|deprive them [of their children].]]
+=======
+[[Lexicon/H101-200#H120|]] [[Lexicon/H801-900#H853|Yes, {I will cause}]] [[Lexicon/H5901-6000#H5971|My people]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H1901-2000#H1980|to walk]] [[Lexicon/H5901-6000#H5921|upon you ;]] [[Lexicon/H3401-3500#H3423|they will possess you ,]] [[Lexicon/H1901-2000#H1961|and you will be]] [[Lexicon/H5101-5200#H5159|inheritance ,]] [[Lexicon/H3801-3900#H3808|and you will no]] [[Lexicon/H3201-3300#H3254|longer]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H7901-8000#H7921|deprive them (of their children).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 36 - 13
 [[Lexicon/H3501-3600#H3541|For this is what]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H3201-3300#H3282|Because]] [[Lexicon/H501-600#H559|people say]] [[Lexicon/H801-900#H859|‘ You]] [[Lexicon/H301-400#H398|devour]] [[Lexicon/H101-200#H120|men]] [[Lexicon/H1401-1500#H1471|and deprive your nation]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H7901-8000#H7921|of its children , ’]]
@@ -52,13 +64,21 @@ cssClasses: lexicon
 [[Lexicon/H3601-3700#H3651|therefore]] [[Lexicon/H3801-3900#H3808|you will no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H301-400#H398|devour]] [[Lexicon/H101-200#H120|men]] [[Lexicon/H3701-3800#H3782|or deprive]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H1401-1500#H1471|your nation {of its children} ,]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H5001-5100#H5002|declares]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD.]]
 
 ##### Ezekiel 36 - 15
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|I will no]] [[Lexicon/H5701-5800#H5750|longer allow]] [[Lexicon/H3601-3700#H3639|the taunts]] [[Lexicon/H1401-1500#H1471|of the nations]] [[Lexicon/H8001-8100#H8085|to be heard]] [[Lexicon/H401-500#H413|against you ,]] [[Lexicon/H3801-3900#H3808|and you will no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H5301-5400#H5375|endure]] [[Lexicon/H2701-2800#H2781|the reproach]] [[Lexicon/H5901-6000#H5971|of the peoples]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H1401-1500#H1471|cause your nation]] [[Lexicon/H3701-3800#H3782|to stumble ,]] [[Lexicon/H5001-5100#H5002|declares]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD. ”]]
+=======
+[[Lexicon/H3801-3900#H3808|I will no]] [[Lexicon/H5701-5800#H5750|longer allow]] [[Lexicon/H3601-3700#H3639|the taunts]] [[Lexicon/H1401-1500#H1471|of the nations]] [[Lexicon/H8001-8100#H8085|to be heard]] [[Lexicon/H401-500#H413|against you ,]] [[Lexicon/H3801-3900#H3808|and you will no]] [[Lexicon/H5701-5800#H5750|longer]] [[Lexicon/H5301-5400#H5375|endure]] [[Lexicon/H2701-2800#H2781|the reproach]] [[Lexicon/H5901-6000#H5971|of the peoples]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H5701-5800#H5750|...]] [[Lexicon/H1401-1500#H1471|cause your nation]] [[Lexicon/H3701-3800#H3782|to stumble ,]] [[Lexicon/H5001-5100#H5002|declares]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 36 - 16
 [[Lexicon/H1601-1700#H1697|Again the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1901-2000#H1961|came]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H501-600#H559|saying ,]]
 
 ##### Ezekiel 36 - 17
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|“ Son]] [[Lexicon/H101-200#H120|of man ,]] [[Lexicon/H1001-1100#H1004|when the people]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H101-200#H127|their land ,]] [[Lexicon/H2901-3000#H2930|they defiled]] [[Lexicon/H801-900#H853|it]] [[Lexicon/H1801-1900#H1870|by their own ways]] [[Lexicon/H5901-6000#H5949|and deeds.]] [[Lexicon/H1801-1900#H1870|Their behavior]] [[Lexicon/H6401-6500#H6440|before Me]] [[Lexicon/H1901-2000#H1961|was]] [[Lexicon/H2901-3000#H2932|like the uncleanness]] [[Lexicon/H5001-5100#H5079|of a [woman’s] impurity.]]
+=======
+[[Lexicon/H1101-1200#H1121|“ Son]] [[Lexicon/H101-200#H120|of man ,]] [[Lexicon/H1001-1100#H1004|when the people]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H5901-6000#H5921|in]] [[Lexicon/H101-200#H127|their land ,]] [[Lexicon/H2901-3000#H2930|they defiled]] [[Lexicon/H801-900#H853|it]] [[Lexicon/H1801-1900#H1870|by their own ways]] [[Lexicon/H5901-6000#H5949|and deeds.]] [[Lexicon/H1801-1900#H1870|Their behavior]] [[Lexicon/H6401-6500#H6440|before Me]] [[Lexicon/H1901-2000#H1961|was]] [[Lexicon/H2901-3000#H2932|like the uncleanness]] [[Lexicon/H5001-5100#H5079|of a (woman’s) impurity.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezekiel 36 - 18
 [[Lexicon/H8201-8300#H8210|So I poured out]] [[Lexicon/H2501-2600#H2534|My wrath]] [[Lexicon/H5901-6000#H5921|upon them]] [[Lexicon/H5901-6000#H5921|because of]] [[Lexicon/H1801-1900#H1818|the blood]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H8201-8300#H8210|they had shed]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H701-800#H776|the land ,]] [[Lexicon/H2901-3000#H2930|and because they had defiled]] [[Lexicon/H1501-1600#H1544|it with their idols.]]

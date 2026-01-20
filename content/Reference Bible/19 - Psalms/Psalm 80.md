@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 80 - 1
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H401-500#H413|To the tune of]] [[Lexicon/H7701-7800#H7799|“ The Lilies]] [[Lexicon/H5701-5800#H5715|of the Covenant. ”]] [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H601-700#H623|of Asaph.]] [[Lexicon/H201-300#H238|Hear us ,]] [[Lexicon/H7401-7500#H7462|O Shepherd]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H5001-5100#H5090|who leads]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H6601-6700#H6629|like a flock ;]] [[Lexicon/H3401-3500#H3427|You who sit enthroned]] [[Lexicon/H3701-3800#H3742|[between] the cherubim ,]] [[Lexicon/H3301-3400#H3313|shine forth]]
+=======
+[[Lexicon/H5301-5400#H5329|For the choirmaster.]] [[Lexicon/H401-500#H413|To the tune of]] [[Lexicon/H7701-7800#H7799|“ The Lilies]] [[Lexicon/H5701-5800#H5715|of the Covenant. ”]] [[Lexicon/H4201-4300#H4210|A Psalm -]] [[Lexicon/H601-700#H623|of Asaph.]] [[Lexicon/H201-300#H238|Hear us ,]] [[Lexicon/H7401-7500#H7462|O Shepherd]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H5001-5100#H5090|who leads]] [[Lexicon/H3101-3200#H3130|Joseph]] [[Lexicon/H6601-6700#H6629|like a flock ;]] [[Lexicon/H3401-3500#H3427|You who sit enthroned]] [[Lexicon/H3701-3800#H3742|(between) the cherubim ,]] [[Lexicon/H3301-3400#H3313|shine forth]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 80#Psalm 80 - 1|LXX]] |
 
 ##### Psalm 80 - 2
@@ -26,7 +30,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 80#Psalm 80 - 4|LXX]] |
 
 ##### Psalm 80 - 5
+<<<<<<< HEAD
 [[Lexicon/H301-400#H398|You fed them]] [[Lexicon/H3801-3900#H3899|with the bread]] [[Lexicon/H1801-1900#H1832|of tears]] [[Lexicon/H8201-8300#H8248|and made them drink]] [[Lexicon/H7901-8000#H7991|the full measure]] [[Lexicon/H1801-1900#H1832|of [their] tears.]]
+=======
+[[Lexicon/H301-400#H398|You fed them]] [[Lexicon/H3801-3900#H3899|with the bread]] [[Lexicon/H1801-1900#H1832|of tears]] [[Lexicon/H8201-8300#H8248|and made them drink]] [[Lexicon/H7901-8000#H7991|the full measure]] [[Lexicon/H1801-1900#H1832|of (their) tears.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 80#Psalm 80 - 5|LXX]] |
 
 ##### Psalm 80 - 6
@@ -70,7 +78,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 80#Psalm 80 - 15|LXX]] |
 
 ##### Psalm 80 - 16
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3683|[Your vine] has been cut down]] [[Lexicon/H8301-8400#H8313|and burned]] [[Lexicon/H701-800#H784|... ;]] [[Lexicon/H1-100#H6|they perish]] [[Lexicon/H1601-1700#H1606|at the rebuke]] [[Lexicon/H6401-6500#H6440|of Your countenance.]]
+=======
+[[Lexicon/H3601-3700#H3683|(Your vine) has been cut down]] [[Lexicon/H8301-8400#H8313|and burned]] [[Lexicon/H701-800#H784|... ;]] [[Lexicon/H1-100#H6|they perish]] [[Lexicon/H1601-1700#H1606|at the rebuke]] [[Lexicon/H6401-6500#H6440|of Your countenance.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 80#Psalm 80 - 16|LXX]] |
 
 ##### Psalm 80 - 17

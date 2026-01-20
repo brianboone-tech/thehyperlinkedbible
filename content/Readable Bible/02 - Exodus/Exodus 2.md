@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Exodus-R 2
 
 **[[Home/Scripture/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 1#Exodus-R 1| Exodus 1]] - [[Readable Bible/02 - Exodus/Exodus 3#Exodus-R 3| Exodus 3]]
+=======
+# Exodus 2
+
+[[Readable Bible/02 - Exodus/Exodus 1|← Exodus 1]] | [[Readable Bible/02 - Exodus/Exodus 3|Exodus 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Joshua 9 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/06 - Joshua|← Joshua]]** | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 10 - TOSK|Ch 10 →]]
+=======
+**[[Home/Indexes/Readable Bible/06 - Joshua|← Joshua]]** | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/06. Joshua TOSK/Joshua - 10 - TOSK|Ch 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

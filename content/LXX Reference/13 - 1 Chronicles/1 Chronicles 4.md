@@ -90,7 +90,11 @@ Shallum [[Lexicon/G5201-5300#G5207|his son,]] Mibsam [[Lexicon/G5201-5300#G5207|
 of Mishma Hamuel [[Lexicon/G5201-5300#G5207|his son,]] Zacchur [[Lexicon/G5201-5300#G5207|his son,]] Shimei [[Lexicon/G5201-5300#G5207|his son.]]
 
 #### 1 Chronicles 4 - 27
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|And]] Shimei [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2364|daughters]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0080|his brethren]] [[Lexicon/G3701-3800#G3756|there were not]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3956|among all]] [[Lexicon/G3901-4000#G3965|their families]] [[Lexicon/G3701-3800#G3756|they multiplied not]] [[Lexicon/G5601-5700#G5613|as]] of Judah.
+=======
+[[Lexicon/G2501-2600#G2532|And]] Shimei [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2364|daughters]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0080|his brethren]] [[Lexicon/G3701-3800#G3756|there were not]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3956|among all]] [[Lexicon/G3901-4000#G3965|their families]] [[Lexicon/G3701-3800#G3756|they multiplied not]] [[Lexicon/G5601-5624#G5613|as]] of Judah.
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### 1 Chronicles 4 - 28
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2701-2800#G2730|they dwelt]] [[Lexicon/G1701-1800#G1722|in]] Beer-sheba [[Lexicon/G2501-2600#G2532|and]] Moladah, [[Lexicon/G2501-2600#G2532|and]] Hazar-shual,

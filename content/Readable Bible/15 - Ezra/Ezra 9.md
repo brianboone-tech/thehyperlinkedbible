@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezra-R 9
 
 **[[Home/Scripture/15 - Ezra|Ezra]]**
 
 [[Readable Bible/15 - Ezra/Ezra 8#Ezra-R 8| Ezra 8]] - [[Readable Bible/15 - Ezra/Ezra 10#Ezra-R 10| Ezra 10]]
+=======
+# Ezra 9
+
+[[Readable Bible/15 - Ezra/Ezra 8|← Ezra 8]] | [[Readable Bible/15 - Ezra/Ezra 10|Ezra 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -56,5 +62,9 @@ cssClasses: lexicon
 [[Reference Bible/15 - Ezra/Ezra 9#Ezra 9 - 14|14]]  shall we again break Your commandments and intermarry with the peoples who commit these abominations? Would You not become so angry with us as to wipe us out, leaving no remnant or survivor?  | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 9 - TOSK#Verse 14|TOSK]] |
 
 ##### Ezra 9 . 15
+<<<<<<< HEAD
 [[Reference Bible/15 - Ezra/Ezra 9#Ezra 9 - 15|15]]  O LORD, God of Israel, You are righteous! For we remain this day as a remnant. Here we are before You in our guilt, though because of it no one can stand before You.”  | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 9 - TOSK#Verse 15|TOSK]] | | |
+=======
+[[Reference Bible/15 - Ezra/Ezra 9#Ezra 9 - 15|15]]  O LORD, God of Israel, You are righteous! For we remain this day as a remnant. Here we are before You in our guilt, though because of it no one can stand before You.”  | [[The Treasury of Scripture Knowledge/15. Ezra TOSK/Ezra - 9 - TOSK#Verse 15|TOSK]] |||
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 

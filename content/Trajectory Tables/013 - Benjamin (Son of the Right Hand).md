@@ -1,9 +1,18 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## BENJAMIN (SON OF THE RIGHT HAND) TRAJECTORY TABLE
 
 Benjamin's typological significance begins at his birth—named "Ben-oni" (son of my sorrow) by his dying mother Rachel, then renamed "Benjamin" (son of my right hand) by his father Jacob. This transformation from sorrow to glory, occurring near Bethlehem through a mother's travail, prefigures Christ's own birth through suffering and His exaltation to the Father's right hand. Jacob's blessing portrays Benjamin as a "ravenous wolf" devouring prey, while Moses' blessing calls him "the beloved of the LORD" who rests secure on God's shoulders. This dual portrait—fierce warrior yet beloved of God—finds remarkable fulfillment in the apostle Paul, the Benjamite who first devoured the church through persecution, then distributed the gospel's spoils as Christ's apostle.
 
 **Type Classification**: Providential Type (Benjamin's birth circumstances and tribal history sovereignly arranged) and Forward-Looking (the "son of the right hand" naming anticipates Christ's exaltation; Paul's Benjamite heritage exemplifies the trajectory).
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Type - Birth Through Travail** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 35#Genesis 35 . 16\|Genesis 35:16-18]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Benjamin (Son of the Right Hand)/01 - Genesis 35.16-18\|Genesis 35:16-18]] | Rachel dies giving birth near Bethlehem (Ephrath). She names him "Ben-oni" (בֶּן־אוֹנִי, "son of my sorrow"), but Jacob renames him "Benjamin" (בִּנְיָמִין, "son of my right hand"). This transformation from sorrow to glory through maternal death near Bethlehem prefigures the Messiah's birth. | **OT to OT:**<br>**CRITICAL:**<br>[[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 35.18-19 to Micah 5.2\|Genesis 35:18-19 to Micah 5:2]] |
@@ -14,6 +23,33 @@ Benjamin's typological significance begins at his birth—named "Ben-oni" (son o
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Type - Birth Through Travail** | [[Readable Bible/01 - Genesis/Genesis 35#Genesis 35 . 16\|Genesis 35:16-18]] | Rachel dies giving birth near Bethlehem (Ephrath). She names him "Ben-oni" (בֶּן־אוֹנִי, "son of my sorrow"), but Jacob renames him "Benjamin" (בִּנְיָמִין, "son of my right hand"). This transformation from sorrow to glory through maternal death near Bethlehem prefigures the Messiah's birth. **CRITICAL:** [[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 35.18-19 to Micah 5.2\|Genesis 35:18-19 to Micah 5:2]] | [[Trajectory Tables - Foundation Texts/Benjamin (Son of the Right Hand)/01 - Genesis 35.16-18\|Genesis 35:16-18]] |
+| 2 | **OT Development - Jacob's Blessing** | [[Readable Bible/01 - Genesis/Genesis 49#Genesis 49 . 27\|Genesis 49:27]] | "Benjamin is a ravenous wolf; in the morning he devours the prey, in the evening he divides the plunder." This fierce warrior imagery describes a tribe known for its martial prowess (Judges 5:14; 20:16) and prefigures how zeal would characterize the tribe. | [[Trajectory Tables - Foundation Texts/Benjamin (Son of the Right Hand)/01 - Genesis 49.27\|Genesis 49:27]] |
+| 3 | **OT Development - Moses' Blessing** | [[Readable Bible/05 - Deuteronomy/Deuteronomy 33#Deuteronomy 33 . 12\|Deuteronomy 33:12]] | "May the beloved of the LORD rest secure in Him; God shields him all day long, and upon His shoulders he rests." The temple would be built in Benjamin's territory—God dwelling among His beloved. This contrasts with the wolf imagery: fierce yet beloved, warrior yet resting secure. | [[Trajectory Tables - Foundation Texts/Benjamin (Son of the Right Hand)/05 - Deuteronomy 33.12\|Deuteronomy 33:12]] |
+| 4 | **NT Fulfillment - The Transformed Benjamite** | [[Readable Bible/50 - Philippians/Philippians 3#Philippians 3 . 5\|Philippians 3:5-7]]; [[Readable Bible/45 - Romans/Romans 11#Romans 11 . 1\|Romans 11:1]] | Paul identifies as "of the tribe of Benjamin" (Phil 3:5), emphasizing his Israelite credentials. As a true Benjamite wolf, he first "devoured" the church through persecution (Acts 8:3). After conversion, he "divided the spoil" by distributing the gospel's riches. His transformation from persecutor to apostle exemplifies sorrow-to-glory. **CRITICAL:** [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 11.1 to 1 Samuel 12.22\|Romans 11:1 to 1 Samuel 12:22]] | [[Trajectory Tables - Foundation Texts/Benjamin (Son of the Right Hand)/50 - Philippians 3.5-7; 45 - Romans 11.1\|Philippians 3:5-7; Romans 11:1]] |
+| 5 | **Eschatological Consummation - Sealed Among the 144,000** | [[Readable Bible/66 - Revelation/Revelation 7#Revelation 7 . 8\|Revelation 7:8]] | Benjamin appears last among the sealed tribes: "from the tribe of Benjamin 12,000." As the youngest son who completed Jacob's family, Benjamin's placement last in this list may echo his role as the culminating tribe—the one through whom Paul came, bringing gospel to Gentiles, completing the ingathering before the End. | [[Trajectory Tables - Foundation Texts/Benjamin (Son of the Right Hand)/66 - Revelation 7.8\|Revelation 7:8]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+**01 - Genesis**
+
+- [[Intertextuality Pairs/OT to OT/01 - Genesis/Genesis 35.18-19 to Micah 5.2\|Genesis 35:18-19  to  Micah 5:2]] - **CRITICAL:** Benjamin's birth occurs near Bethlehem (Ephrath), connecting this location with the prophecy that from Bethlehem would come a ruler whose origins are "from ancient times." (Core Prophetic Development - establishes Bethlehem's Messianic significance)
+
+### NT to OT
+
+**45 - Romans**
+
+- [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 11.1 to 1 Samuel 12.22\|Romans 11:1  to  1 Samuel 12:22]] - **CRITICAL:** Paul's appeal to his Benjamite heritage demonstrates that God has not rejected His people, echoing Samuel's assurance that the LORD would not abandon Israel. (Key Typological Establishment - Paul as transformed Benjamite wolf)
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 ### 1. What You Must Do

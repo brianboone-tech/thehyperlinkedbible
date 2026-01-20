@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## URIM AND THUMMIM (DIVINE GUIDANCE AND PERFECT LIGHT) TRAJECTORY TABLE
 
 
@@ -5,6 +13,7 @@ The Urim and Thummim ("Lights and Perfections") were mysterious objects placed i
 
 **Type Classification**: Direct Type (divinely commanded institution) and Forward-Looking (contains textual indicators pointing toward greater fulfillment).
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Institution - Divine Command** | **Key Text:**<br>[[Readable Bible/02 - Exodus/Exodus 28#Exodus 28 . 30\|Exodus 28:30]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/02 - Exodus 28.30\|Exodus 28:30]] | God commands Moses to place the Urim and Thummim in Aaron's breastplate, establishing the means by which Israel would **inquire of the LORD**. The priest bears them "upon his heart" when coming before the LORD, signifying that divine guidance flows through the mediator clothed in righteousness. |  |
@@ -20,6 +29,40 @@ The Urim and Thummim ("Lights and Perfections") were mysterious objects placed i
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Institution - Divine Command** | [[Readable Bible/02 - Exodus/Exodus 28#Exodus 28 . 30\|Exodus 28:30]] | God commands Moses to place the Urim and Thummim in Aaron's breastplate, establishing the means by which Israel would **inquire of the LORD**. The priest bears them "upon his heart" when coming before the LORD, signifying that divine guidance flows through the mediator clothed in righteousness. | [[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/02 - Exodus 28.30\|Exodus 28:30]] |
+| 2 | **OT Installation - On Aaron's Heart** | [[Readable Bible/03 - Leviticus/Leviticus 8#Leviticus 8 . 8\|Leviticus 8:8]] | At Aaron's consecration, Moses places the Urim and Thummim in the breastplate. The **priestly mediation** for divine guidance is now operational. Only through the consecrated priest bearing God's oracles can Israel know the LORD's will. | [[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/03 - Leviticus 8.8\|Leviticus 8:8]] |
+| 3 | **OT Function - Inquiring of the LORD** | [[Readable Bible/04 - Numbers/Numbers 27#Numbers 27 . 21\|Numbers 27:21]] | Joshua's leadership is established with dependence on priestly inquiry: "he shall inquire by the **judgment of Urim** before the LORD." Civil authority submits to divine revelation through the priest. This establishes the pattern: **no decisions without divine guidance**. | [[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/04 - Numbers 27.21\|Numbers 27:21]] |
+| 4 | **OT Use - Joshua's Dependence** | [[Readable Bible/06 - Joshua/Joshua 9#Joshua 9 . 14\|Joshua 9:14]] | Israel's failure to inquire of the LORD (no mention of Urim) results in the **Gibeonite deception**. The negative example demonstrates that human wisdom without divine light leads to covenant error. The absence of inquiry exposes the need for perfect guidance. | [[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/06 - Joshua 9.14\|Joshua 9:14]] |
+| 5 | **OT Use - David's Inquiries** | [[Readable Bible/09 - 1 Samuel/1 Samuel 23#1 Samuel 23 . 9\|1 Samuel 23:9-12]]; [[Readable Bible/09 - 1 Samuel/1 Samuel 30#1 Samuel 30 . 7\|1 Samuel 30:7-8]] | David repeatedly inquires of the LORD through the ephod (with Urim and Thummim), receiving **direct answers** to strategic questions. The true king seeks divine light before every major decision. God's answers are clear, specific, and decisive—showing the Urim functioning perfectly in the Davidic monarchy. | [[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/09 - 1 Samuel 23.9-12\|1 Samuel 23:9-12]] |
+| 6 | **OT Loss - Post-Exilic Absence** | [[Readable Bible/15 - Ezra/Ezra 2#Ezra 2 . 63\|Ezra 2:63]]; [[Readable Bible/16 - Nehemiah/Nehemiah 7#Nehemiah 7 . 65\|Nehemiah 7:65]] | After the Babylonian exile, the Urim and Thummim are **missing**. The governor commands that disputed priests wait "**until a priest with Urim and Thummim should arise**." The absence creates **longing for restoration** of divine oracles—preparing Israel to recognize the One who embodies perfect light and truth. | [[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/15 - Ezra 2.63\|Ezra 2:63]] |
+| 7 | **Prophetic Anticipation - Teaching and Light** | [[Readable Bible/05 - Deuteronomy/Deuteronomy 33#Deuteronomy 33 . 8\|Deuteronomy 33:8-10]] | Moses blesses Levi: "Let your Thummim and Urim be with your godly one... **They shall teach** Jacob your judgments and Israel your law." The oracle-bearing function expands to teaching ministry—pointing to One who is both Oracle and Teacher. | [[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/05 - Deuteronomy 33.8-10\|Deuteronomy 33:8-10]] |
+| 8 | **NT Fulfillment - Christ the Light** | [[Readable Bible/43 - John/John 8#John 8 . 12\|John 8:12]]; [[Readable Bible/43 - John/John 14#John 14 . 6\|John 14:6]] | Jesus declares: "**I am the light of the world**" and "**I am the way, the truth, and the life**." The Urim (lights) and Thummim (perfections/truth) converge in Christ's person. He is the perfect revelation of God's will—no longer through stones in a breastplate, but through the Word made flesh. | [[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/43 - John 8.12\|John 8:12]] |
+| 9 | **NT Application - Spirit Guides into Truth** | [[Readable Bible/43 - John/John 16#John 16 . 13\|John 16:13]] | Christ promises: "When the Spirit of truth comes, **he will guide you into all truth**." The Holy Spirit now mediates divine guidance to believers, applying Christ's perfect light. The oracle function is **internalized and universalized**—every believer has access through the Spirit. | [[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/43 - John 16.13\|John 16:13]] |
+| 10 | **Eschatological Consummation - No Need of Sun** | [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 23\|Revelation 21:23]]; [[Readable Bible/66 - Revelation/Revelation 22#Revelation 22 . 5\|Revelation 22:5]] | In the New Jerusalem, "**the city has no need of sun or moon**, for the glory of God gives it light, and **the Lamb is its lamp**." The Urim is consummated: Christ Himself is the eternal Light. No mediating oracle is needed—**direct, unmediated, perfect knowledge** of God's will forever. | [[Trajectory Tables - Foundation Texts/Urim and Thummim (Divine Guidance and Perfect Light)/66 - Revelation 21.23\|Revelation 21:23]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+**02 - Exodus**
+
+- (To be added as intertextual pair files are created)
+
+**04 - Numbers**
+
+- (To be added as intertextual pair files are created)
+
+**05 - Deuteronomy**
+
+- (To be added as intertextual pair files are created)
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 **Step 1 - What You Must Do**: "Trust in the LORD with all your heart, and do not lean on your own understanding. In all your ways acknowledge him, and he will make straight your paths" (Proverbs 3:5-6). You are called to seek God's guidance, to inquire of the LORD, to ask for wisdom (James 1:5), to be led by the Spirit (Romans 8:14). This requires prayer, Scripture, counsel, and attentiveness. You must not make major decisions autonomously, acting as though God has no will for your life.

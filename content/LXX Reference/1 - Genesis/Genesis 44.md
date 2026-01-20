@@ -39,7 +39,11 @@ Testament: Old
 [[Lexicon/G3801-3900#G3844|By]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2101-2200#G2147|should be found]] [[Lexicon/G3801-3900#G3816|of your servants,]] [[Lexicon/G501-600#G0599|let him die.]] [[Lexicon/G2501-2600#G2532|also]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G3801-3900#G3816|servants]] [[Lexicon/G3501-3600#G3588|to]] [[Lexicon/G2901-3000#G2962|your master!]]
 
 #### Genesis 44 - 10
+<<<<<<< HEAD
 [[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G2001-2100#G2036|he said,]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3568|now]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3001-3100#G3004|you say,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G1501-1600#G1510|it will be.]] [[Lexicon/G3801-3900#G3844|By]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2101-2200#G2147|should be found]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G1401-1500#G1473|my]] [[Lexicon/G3801-3900#G3816|servant,]] [[Lexicon/G1401-1500#G1473|and you all]] [[Lexicon/G1501-1600#G1510|shall be]] [[Lexicon/G2501-2600#G2513|pure.]]
+=======
+[[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G2001-2100#G2036|he said,]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3568|now]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3001-3100#G3004|you say,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G1501-1600#G1510|it will be.]] [[Lexicon/G3801-3900#G3844|By]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2101-2200#G2147|should be found]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G1401-1500#G1473|my]] [[Lexicon/G3801-3900#G3816|servant,]] [[Lexicon/G1401-1500#G1473|and you all]] [[Lexicon/G1501-1600#G1510|shall be]] [[Lexicon/G2501-2600#G2513|pure.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Genesis 44 - 11
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4601-4700#G4692|they hastened,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2507|lowered]] [[Lexicon/G3101-3200#G3139|his bag]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|ground,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0455|opened]] [[Lexicon/G3101-3200#G3139|his bag.]]

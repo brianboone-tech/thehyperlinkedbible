@@ -5,19 +5,32 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jonah-R 2
 
 **[[Home/Scripture/32 - Jonah|Jonah]]**
 
 [[Readable Bible/32 - Jonah/Jonah 1#Jonah-R 1| Jonah 1]] - [[Readable Bible/32 - Jonah/Jonah 3#Jonah-R 3| Jonah 3]]
+=======
+# Jonah 2
+
+[[Readable Bible/32 - Jonah/Jonah 1|← Jonah 1]] | [[Readable Bible/32 - Jonah/Jonah 3|Jonah 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Jonah 2 . 1
+<<<<<<< HEAD
 [[Reference Bible/32 - Jonah/Jonah 2#Jonah 2 - 1|1]] From inside the fish, Jonah prayed to the LORD his God,  | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 2 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/083 - Jonah (Death, Resurrection, and Mission to Gentiles)|TT]] |
 
 ##### Jonah 2 . 2
 [[Reference Bible/32 - Jonah/Jonah 2#Jonah 2 - 2|2]] saying: "In my distress I called to the LORD, and He answered me. From the belly of Sheol I called for help, and You heard my voice.  | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 2 - TOSK#Verse 2|TOSK]] |
+=======
+[[Reference Bible/32 - Jonah/Jonah 2#Jonah 2 - 1|1]] From inside the fish, Jonah prayed to the LORD his God,  | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 2 - TOSK#Verse 1|TOSK]] | [[Trajectory Tables/083 - Jonah (Death, Resurrection, and Mission to Gentiles)|TT¹]] | [[181 - The Singing Sufferer (Christ the Choir Master)|TT²]] |
+
+##### Jonah 2 . 2
+[[Reference Bible/32 - Jonah/Jonah 2#Jonah 2 - 2|2]] saying: "In my distress I called to the LORD, and He answered me. From the belly of Sheol I called for help, and You heard my voice.  | [[Intertextuality Pairs/OT to OT/32 - Jonah/Jonah 2.2 to Psalms 18.6|IP]] | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 2 - TOSK#Verse 2|TOSK]] | [[181 - The Singing Sufferer (Christ the Choir Master)|TT]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Jonah 2 . 3
 [[Reference Bible/32 - Jonah/Jonah 2#Jonah 2 - 3|3]] For You cast me into the deep, into the heart of the seas, and the current swirled about me; all Your breakers and waves swept over me.  | [[The Treasury of Scripture Knowledge/32. Jonah TOSK/Jonah - 2 - TOSK#Verse 3|TOSK]] |

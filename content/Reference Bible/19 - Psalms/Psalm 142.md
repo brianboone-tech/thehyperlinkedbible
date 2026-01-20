@@ -22,7 +22,11 @@ cssClasses: lexicon
 [[Lexicon/H5001-5100#H5027|Look]] [[Lexicon/H3201-3300#H3225|to my right]] [[Lexicon/H7101-7200#H7200|and see ;]] [[Lexicon/H301-400#H369|no one]] [[Lexicon/H5201-5300#H5234|attends]] [[Lexicon/H1-100#H6|There is no]] [[Lexicon/H4401-4500#H4498|refuge]] [[Lexicon/H4401-4500#H4480|for me ;]] [[Lexicon/H301-400#H369|no one]] [[Lexicon/H1801-1900#H1875|cares]] [[Lexicon/H5301-5400#H5315|for my soul.]]
 
 ##### Psalm 142 - 5
+<<<<<<< HEAD
 [[Lexicon/H2101-2200#H2199|I cry]] [[Lexicon/H401-500#H413|to You ,]] [[Lexicon/H3001-3100#H3068|O LORD]] [[Lexicon/H501-600#H559|- :]] [[Lexicon/H801-900#H859|“ You]] [[Lexicon/H4201-4300#H4268|[are] my refuge ,]] [[Lexicon/H2501-2600#H2506|my portion]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H2401-2500#H2416|of the living. ”]]
+=======
+[[Lexicon/H2101-2200#H2199|I cry]] [[Lexicon/H401-500#H413|to You ,]] [[Lexicon/H3001-3100#H3068|O LORD]] [[Lexicon/H501-600#H559|- :]] [[Lexicon/H801-900#H859|“ You]] [[Lexicon/H4201-4300#H4268|(are) my refuge ,]] [[Lexicon/H2501-2600#H2506|my portion]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H2401-2500#H2416|of the living. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Psalm 142 - 6
 [[Lexicon/H7101-7200#H7181|Listen]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H7401-7500#H7440|my cry ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1801-1900#H1809|I am brought]] [[Lexicon/H3901-4000#H3966|quite low.]] [[Lexicon/H5301-5400#H5337|Rescue me]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H7201-7300#H7291|my pursuers ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H501-600#H553|they are too strong for me.]]

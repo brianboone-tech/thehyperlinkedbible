@@ -10,13 +10,21 @@ cssClasses: lexicon
 ---
 
 ##### Job 17 - 1
+<<<<<<< HEAD
 [[Lexicon/H7301-7400#H7307|[“] My spirit]] [[Lexicon/H2201-2300#H2254|is broken ;]] [[Lexicon/H3101-3200#H3117|my days]] [[Lexicon/H2101-2200#H2193|are extinguished ;]] [[Lexicon/H6901-7000#H6913|the grave]]
+=======
+[[Lexicon/H7301-7400#H7307|(“) My spirit]] [[Lexicon/H2201-2300#H2254|is broken ;]] [[Lexicon/H3101-3200#H3117|my days]] [[Lexicon/H2101-2200#H2193|are extinguished ;]] [[Lexicon/H6901-7000#H6913|the grave]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 17 - 2
 [[Lexicon/H501-600#H518|Surely]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H2001-2100#H2049|mockers]] [[Lexicon/H5901-6000#H5978|surround me ,]] [[Lexicon/H5801-5900#H5869|and my eyes]] [[Lexicon/H3801-3900#H3885|must gaze]] [[Lexicon/H4701-4800#H4784|at their rebellion.]]
 
 ##### Job 17 - 3
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7760|Give [me] ,]] [[Lexicon/H4901-5000#H4994|I pray ,]] [[Lexicon/H6101-6200#H6148|the pledge]] [[Lexicon/H5901-6000#H5973|You [demand].]] [[Lexicon/H4301-4400#H4310|Who else]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3001-3100#H3027|will be my guarantor]] [[Lexicon/H8601-8674#H8628|... ?]]
+=======
+[[Lexicon/H7701-7800#H7760|Give (me) ,]] [[Lexicon/H4901-5000#H4994|I pray ,]] [[Lexicon/H6101-6200#H6148|the pledge]] [[Lexicon/H5901-6000#H5973|You (demand).]] [[Lexicon/H4301-4400#H4310|Who else]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H3001-3100#H3027|will be my guarantor]] [[Lexicon/H8601-8674#H8628|... ?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 17 - 4
 [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H6801-6900#H6845|You have closed]] [[Lexicon/H3801-3900#H3820|their minds]] [[Lexicon/H7901-8000#H7922|to understanding ;]] [[Lexicon/H5901-6000#H5921|therefore]] [[Lexicon/H3601-3700#H3651|...]] [[Lexicon/H3801-3900#H3808|You will not]] [[Lexicon/H7301-7400#H7311|exalt them.]]
@@ -25,7 +33,11 @@ cssClasses: lexicon
 [[Lexicon/H5001-5100#H5046|If a man denounces]] [[Lexicon/H7401-7500#H7453|his friends]] [[Lexicon/H2501-2600#H2506|for a price ,]] [[Lexicon/H5801-5900#H5869|the eyes]] [[Lexicon/H1101-1200#H1121|of his children]] [[Lexicon/H3601-3700#H3615|will fail.]]
 
 ##### Job 17 - 6
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3322|He has made me]] [[Lexicon/H4901-5000#H4911|a byword]] [[Lexicon/H5901-6000#H5971|among the people ,]] [[Lexicon/H1901-2000#H1961|[a man]]] [[Lexicon/H6401-6500#H6440|in whose face]] [[Lexicon/H8601-8674#H8611|they spit.]]
+=======
+[[Lexicon/H3301-3400#H3322|He has made me]] [[Lexicon/H4901-5000#H4911|a byword]] [[Lexicon/H5901-6000#H5971|among the people ,]] [[Lexicon/H1901-2000#H1961|(a man)]] [[Lexicon/H6401-6500#H6440|in whose face]] [[Lexicon/H8601-8674#H8611|they spit.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 17 - 7
 [[Lexicon/H5801-5900#H5869|My eyes]] [[Lexicon/H3501-3600#H3543|have grown dim]] [[Lexicon/H3701-3800#H3708|with grief ,]] [[Lexicon/H3601-3700#H3605|and my whole]] [[Lexicon/H3301-3400#H3338|body]] [[Lexicon/H6701-6800#H6738|is but a shadow.]]
@@ -43,13 +55,21 @@ cssClasses: lexicon
 [[Lexicon/H3101-3200#H3117|My days]] [[Lexicon/H5601-5700#H5674|have passed ;]] [[Lexicon/H2101-2200#H2154|my plans]] [[Lexicon/H5401-5500#H5423|are broken off —]] [[Lexicon/H4101-4200#H4180|even the desires]] [[Lexicon/H3801-3900#H3824|of my heart.]]
 
 ##### Job 17 - 12
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7760|They have turned]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H3101-3200#H3117|into day ,]] [[Lexicon/H201-300#H216|[making] light]] [[Lexicon/H7101-7200#H7138|seem near]] [[Lexicon/H6401-6500#H6440|in the face]] [[Lexicon/H2801-2900#H2822|of darkness.]]
+=======
+[[Lexicon/H7701-7800#H7760|They have turned]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H3101-3200#H3117|into day ,]] [[Lexicon/H201-300#H216|(making) light]] [[Lexicon/H7101-7200#H7138|seem near]] [[Lexicon/H6401-6500#H6440|in the face]] [[Lexicon/H2801-2900#H2822|of darkness.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 17 - 13
 [[Lexicon/H501-600#H518|If]] [[Lexicon/H6901-7000#H6960|I look]] [[Lexicon/H7501-7600#H7585|for Sheol]] [[Lexicon/H1001-1100#H1004|as my home ,]] [[Lexicon/H7501-7600#H7502|if I spread out]] [[Lexicon/H3301-3400#H3326|my bed]] [[Lexicon/H2801-2900#H2822|in darkness ,]]
 
 ##### Job 17 - 14
+<<<<<<< HEAD
 [[Lexicon/H7101-7200#H7121|and say]] [[Lexicon/H7801-7900#H7845|to corruption ,]] [[Lexicon/H801-900#H859|‘ You [are]]] [[Lexicon/H1-100#H1|my father , ’]] [[Lexicon/H7401-7500#H7415|and to the worm ,]] [[Lexicon/H501-600#H517|‘ My mother , ’]] [[Lexicon/H201-300#H269|or ‘My sister , ’]]
+=======
+[[Lexicon/H7101-7200#H7121|and say]] [[Lexicon/H7801-7900#H7845|to corruption ,]] [[Lexicon/H801-900#H859|‘ You (are)]] [[Lexicon/H1-100#H1|my father , ’]] [[Lexicon/H7401-7500#H7415|and to the worm ,]] [[Lexicon/H501-600#H517|‘ My mother , ’]] [[Lexicon/H201-300#H269|or ‘My sister , ’]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 17 - 15
 [[Lexicon/H301-400#H346|where]] [[Lexicon/H601-700#H645|then]] [[Lexicon/H8601-8674#H8615|is my hope ?]] [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H7701-7800#H7789|can see]] [[Lexicon/H8601-8674#H8615|any hope for me ?]]

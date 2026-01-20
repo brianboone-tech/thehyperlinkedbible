@@ -33,6 +33,7 @@ Testament: Old
 [[Lexicon/G601-700#G0620|Let leave]] [[Lexicon/G3501-3600#G3598|his ways,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0435|man]] [[Lexicon/G1001-1100#G1012|his plans!]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1901-2000#G1994|let him return]] [[Lexicon/G4301-4400#G4314|unto]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1601-1700#G1653|he shall be shown mercy,]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G4301-4400#G4314|from]] [[Lexicon/G2301-2400#G2316|our God,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G1901-2000#G1909|unto]]
 
 #### Isaiah 55 - 8
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G1001-1100#G1012|your plans;]] [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G3501-3600#G3598|your ways]] [[Lexicon/G3501-3600#G3598|my ways,]] [[Lexicon/G3001-3100#G3004|says]]
 
 #### Isaiah 55 - 9
@@ -40,6 +41,15 @@ Testament: Old
 
 #### Isaiah 55 - 10
 [[Lexicon/G5601-5700#G5613|For as]] [[Lexicon/G301-400#G0302|whenever]] [[Lexicon/G2501-2600#G2597|should come down]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3701-3800#G3772|heaven,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G601-700#G0654|shall it return]] [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G301-400#G0302|whenever]] [[Lexicon/G3101-3200#G3184|it should saturate]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1545|should sprout,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|should give]] [[Lexicon/G4601-4700#G4690|seed]] [[Lexicon/G3501-3600#G3588|to the one]] [[Lexicon/G4601-4700#G4687|sowing,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G701-800#G0740|bread]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G1001-1100#G1035|food;]]
+=======
+[[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G1001-1100#G1012|your plans;]] [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G3501-3600#G3598|your ways]] [[Lexicon/G3501-3600#G3598|my ways,]] [[Lexicon/G3001-3100#G3004|says]]
+
+#### Isaiah 55 - 9
+[[Lexicon/G201-300#G0235|But]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3772|heaven]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G501-600#G0566| is at a distance]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3598|your ways,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1270|your considerations]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1201-1300#G1271|my mind.]]
+
+#### Isaiah 55 - 10
+[[Lexicon/G5601-5624#G5613|For as]] [[Lexicon/G301-400#G0302|whenever]] [[Lexicon/G2501-2600#G2597|should come down]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3701-3800#G3772|heaven,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G601-700#G0654|shall it return]] [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G301-400#G0302|whenever]] [[Lexicon/G3101-3200#G3184|it should saturate]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|earth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1545|should sprout,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|should give]] [[Lexicon/G4601-4700#G4690|seed]] [[Lexicon/G3501-3600#G3588|to the one]] [[Lexicon/G4601-4700#G4687|sowing,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G701-800#G0740|bread]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G1001-1100#G1035|food;]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 55 - 11
 [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G1501-1600#G1510|shall it be]] [[Lexicon/G4401-4500#G4487|my word,]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1401-1500#G1437|ever]] [[Lexicon/G1801-1900#G1831|shall come forth]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G4701-4800#G4750|my mouth]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G601-700#G0654|shall it return]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G2701-2800#G2756|empty]] [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G301-400#G0302|whenever]] [[Lexicon/G5001-5100#G5055|it should finish]] [[Lexicon/G3701-3800#G3745|as much]] [[Lexicon/G301-400#G0302|as]] [[Lexicon/G2301-2400#G2309|I wanted;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2137|I will prosper]] [[Lexicon/G3501-3600#G3598|your ways]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1778|my precepts.]]

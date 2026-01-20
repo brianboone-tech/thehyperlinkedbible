@@ -10,10 +10,17 @@ cssClasses: lexicon
 ---
 
 ##### Isaiah 19 - 1
+<<<<<<< HEAD
 [[Lexicon/H4801-4900#H4853|[This is] the burden]] [[Lexicon/H4701-4800#H4714|against Egypt :]] [[Lexicon/H2001-2100#H2009|Behold ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H7301-7400#H7392|rides]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H7001-7100#H7031|a swift]] [[Lexicon/H5601-5700#H5645|cloud ;]] [[Lexicon/H901-1000#H935|He is coming]] [[Lexicon/H4701-4800#H4714|to Egypt.]] [[Lexicon/H401-500#H457|The idols]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H5101-5200#H5128|will tremble]] [[Lexicon/H6401-6500#H6440|before Him ,]] [[Lexicon/H3801-3900#H3824|and the hearts]] [[Lexicon/H4701-4800#H4714|of the Egyptians]] [[Lexicon/H4501-4600#H4549|will melt]] [[Lexicon/H7101-7200#H7130|within them.]]
 
 ##### Isaiah 19 - 2
 [[Lexicon/H5501-5600#H5526|“ So I will incite]] [[Lexicon/H4701-4800#H4714|Egyptian]] [[Lexicon/H4701-4800#H4714|against Egyptian ;]] [[Lexicon/H301-400#H376|[brother]]] [[Lexicon/H3801-3900#H3898|will fight]] [[Lexicon/H201-300#H251|against brother ,]] [[Lexicon/H301-400#H376|[neighbor]]] [[Lexicon/H7401-7500#H7453|against neighbor ,]] [[Lexicon/H5801-5900#H5892|city]] [[Lexicon/H5801-5900#H5892|against city ,]] [[Lexicon/H4401-4500#H4467|[and] kingdom]] [[Lexicon/H4401-4500#H4467|against kingdom.]]
+=======
+[[Lexicon/H4801-4900#H4853|(This is) the burden]] [[Lexicon/H4701-4800#H4714|against Egypt :]] [[Lexicon/H2001-2100#H2009|Behold ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H7301-7400#H7392|rides]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H7001-7100#H7031|a swift]] [[Lexicon/H5601-5700#H5645|cloud ;]] [[Lexicon/H901-1000#H935|He is coming]] [[Lexicon/H4701-4800#H4714|to Egypt.]] [[Lexicon/H401-500#H457|The idols]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H5101-5200#H5128|will tremble]] [[Lexicon/H6401-6500#H6440|before Him ,]] [[Lexicon/H3801-3900#H3824|and the hearts]] [[Lexicon/H4701-4800#H4714|of the Egyptians]] [[Lexicon/H4501-4600#H4549|will melt]] [[Lexicon/H7101-7200#H7130|within them.]]
+
+##### Isaiah 19 - 2
+[[Lexicon/H5501-5600#H5526|“ So I will incite]] [[Lexicon/H4701-4800#H4714|Egyptian]] [[Lexicon/H4701-4800#H4714|against Egyptian ;]] [[Lexicon/H301-400#H376|(brother)]] [[Lexicon/H3801-3900#H3898|will fight]] [[Lexicon/H201-300#H251|against brother ,]] [[Lexicon/H301-400#H376|(neighbor)]] [[Lexicon/H7401-7500#H7453|against neighbor ,]] [[Lexicon/H5801-5900#H5892|city]] [[Lexicon/H5801-5900#H5892|against city ,]] [[Lexicon/H4401-4500#H4467|(and) kingdom]] [[Lexicon/H4401-4500#H4467|against kingdom.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Isaiah 19 - 3
 [[Lexicon/H7301-7400#H7307|Then the spirit]] [[Lexicon/H4701-4800#H4714|of the Egyptians]] [[Lexicon/H1201-1300#H1238|will be emptied out]] [[Lexicon/H7101-7200#H7130|from among them ,]] [[Lexicon/H1101-1200#H1104|and I will frustrate]] [[Lexicon/H6001-6100#H6098|their plans ,]] [[Lexicon/H1801-1900#H1875|so that they will resort]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H401-500#H457|idols]] [[Lexicon/H401-500#H413|and]] [[Lexicon/H301-400#H328|spirits of the dead ,]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H101-200#H178|to mediums]] [[Lexicon/H401-500#H413|and]] [[Lexicon/H3001-3100#H3049|spiritists.]]
@@ -22,13 +29,21 @@ cssClasses: lexicon
 [[Lexicon/H5501-5600#H5534|I will deliver]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4701-4800#H4714|the Egyptians]] [[Lexicon/H3001-3100#H3027|into the hands]] [[Lexicon/H7101-7200#H7186|of harsh]] [[Lexicon/H101-200#H113|masters ,]] [[Lexicon/H5701-5800#H5794|and a fierce]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H4901-5000#H4910|will rule]] [[Lexicon/H5001-5100#H5002|declares]] [[Lexicon/H101-200#H113|the Lord]] [[Lexicon/H3001-3100#H3068|GOD]] [[Lexicon/H6601-6700#H6635|of Hosts.]]
 
 ##### Isaiah 19 - 5
+<<<<<<< HEAD
 [[Lexicon/H4301-4400#H4325|The waters]] [[Lexicon/H3201-3300#H3220|of the [Nile]]] [[Lexicon/H3001-3100#H3001|will dry up ,]] [[Lexicon/H5101-5200#H5104|and the riverbed]] [[Lexicon/H2701-2800#H2717|will be parched]] [[Lexicon/H5401-5500#H5405|and empty.]]
+=======
+[[Lexicon/H4301-4400#H4325|The waters]] [[Lexicon/H3201-3300#H3220|of the (Nile)]] [[Lexicon/H3001-3100#H3001|will dry up ,]] [[Lexicon/H5101-5200#H5104|and the riverbed]] [[Lexicon/H2701-2800#H2717|will be parched]] [[Lexicon/H5401-5500#H5405|and empty.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Isaiah 19 - 6
 [[Lexicon/H5101-5200#H5104|The canals]] [[Lexicon/H2101-2200#H2186|will stink ;]] [[Lexicon/H2901-3000#H2975|the streams]] [[Lexicon/H4601-4700#H4693|of Egypt]] [[Lexicon/H1801-1900#H1809|will trickle]] [[Lexicon/H2701-2800#H2717|and dry up ;]] [[Lexicon/H7001-7100#H7070|the reeds]] [[Lexicon/H5401-5500#H5488|and rushes]] [[Lexicon/H7001-7100#H7060|will wither.]]
 
 ##### Isaiah 19 - 7
+<<<<<<< HEAD
 [[Lexicon/H6101-6200#H6169|The bulrushes]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H2901-3000#H2975|the Nile ,]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H6301-6400#H6310|the mouth]] [[Lexicon/H2901-3000#H2975|of the river ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H4201-4300#H4218|the fields sown]] [[Lexicon/H2901-3000#H2975|along the Nile ,]] [[Lexicon/H3001-3100#H3001|will wither ,]] [[Lexicon/H5001-5100#H5086|blow away ,]] [[Lexicon/H301-400#H369|and be no [more].]]
+=======
+[[Lexicon/H6101-6200#H6169|The bulrushes]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H2901-3000#H2975|the Nile ,]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H6301-6400#H6310|the mouth]] [[Lexicon/H2901-3000#H2975|of the river ,]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H4201-4300#H4218|the fields sown]] [[Lexicon/H2901-3000#H2975|along the Nile ,]] [[Lexicon/H3001-3100#H3001|will wither ,]] [[Lexicon/H5001-5100#H5086|blow away ,]] [[Lexicon/H301-400#H369|and be no (more).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Isaiah 19 - 8
 [[Lexicon/H1701-1800#H1771|Then the fishermen]] [[Lexicon/H501-600#H578|will mourn ,]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H7901-8000#H7993|who cast]] [[Lexicon/H2401-2500#H2443|a hook]] [[Lexicon/H2901-3000#H2975|into the Nile]] [[Lexicon/H1-100#H56|will lament ,]] [[Lexicon/H6501-6600#H6566|and those who spread]] [[Lexicon/H4301-4400#H4365|nets]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H6401-6500#H6440|...]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H501-600#H535|will pine away.]]
@@ -82,4 +97,8 @@ cssClasses: lexicon
 [[Lexicon/H1901-2000#H1931|In that]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H1901-2000#H1961|will join]] [[Lexicon/H7901-8000#H7992|a three-party]] [[Lexicon/H4701-4800#H4714|alliance with Egypt]] [[Lexicon/H801-900#H804|and Assyria —]] [[Lexicon/H1201-1300#H1293|a blessing]] [[Lexicon/H7101-7200#H7130|upon]] [[Lexicon/H701-800#H776|the earth.]]
 
 ##### Isaiah 19 - 25
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H6601-6700#H6635|of Hosts]] [[Lexicon/H1201-1300#H1288|will bless]] [[Lexicon/H801-900#H834|them ,]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H1201-1300#H1288|“ Blessed [be]]] [[Lexicon/H4701-4800#H4714|Egypt]] [[Lexicon/H5901-6000#H5971|My people ,]] [[Lexicon/H801-900#H804|Assyria]] [[Lexicon/H4601-4700#H4639|My handiwork]] [[Lexicon/H3001-3100#H3027|... ,]] [[Lexicon/H3401-3500#H3478|and Israel]] [[Lexicon/H5101-5200#H5159|My inheritance. ”]]
+=======
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H6601-6700#H6635|of Hosts]] [[Lexicon/H1201-1300#H1288|will bless]] [[Lexicon/H801-900#H834|them ,]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H1201-1300#H1288|“ Blessed (be)]] [[Lexicon/H4701-4800#H4714|Egypt]] [[Lexicon/H5901-6000#H5971|My people ,]] [[Lexicon/H801-900#H804|Assyria]] [[Lexicon/H4601-4700#H4639|My handiwork]] [[Lexicon/H3001-3100#H3027|... ,]] [[Lexicon/H3401-3500#H3478|and Israel]] [[Lexicon/H5101-5200#H5159|My inheritance. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

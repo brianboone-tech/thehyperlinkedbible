@@ -27,7 +27,11 @@ Testament: Old
 [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G4901-5000#G4937|breaking]] [[Lexicon/G2701-2800#G2748|cedars;]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2748|cedars]] of Lebanon;
 
 #### Psalms 29 - 6
+<<<<<<< HEAD
 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3016|he shall thin them out]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3401-3500#G3448|calf]] of Lebanon; [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G0025|one being loved]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5201-5300#G5207|a son]] [[Lexicon/G3401-3500#G3439|of unicorns.]]
+=======
+[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3016|he shall thin them out]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3401-3500#G3448|calf]] of Lebanon; [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G0025|one being loved]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5201-5300#G5207|a son]] [[Lexicon/G3401-3500#G3439|of unicorns.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 29 - 7
 [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G1201-1300#G1249|cutting through]] [[Lexicon/G4401-4500#G4442|of fire.]]

@@ -79,13 +79,21 @@ cssClasses: lexicon
 [[Lexicon/H301-400#H376|A man]] [[Lexicon/H8001-8100#H8057|takes joy]] [[Lexicon/H4601-4700#H4617|in a fitting reply]] [[Lexicon/H6301-6400#H6310|... —]] [[Lexicon/H4001-4100#H4100|and how]] [[Lexicon/H2801-2900#H2896|good is]] [[Lexicon/H6201-6300#H6256|a timely]] [[Lexicon/H1601-1700#H1697|word !]]
 
 ##### Proverbs 15 - 24
+<<<<<<< HEAD
 [[Lexicon/H701-800#H734|The path]] [[Lexicon/H2401-2500#H2416|of life]] [[Lexicon/H4601-4700#H4605|[leads] upward]] [[Lexicon/H7901-8000#H7919|for the wise ,]] [[Lexicon/H4601-4700#H4616|that]] [[Lexicon/H5401-5500#H5493|he may avoid]] [[Lexicon/H4201-4300#H4295|going down]] [[Lexicon/H7501-7600#H7585|to Sheol.]]
+=======
+[[Lexicon/H701-800#H734|The path]] [[Lexicon/H2401-2500#H2416|of life]] [[Lexicon/H4601-4700#H4605|(leads) upward]] [[Lexicon/H7901-8000#H7919|for the wise ,]] [[Lexicon/H4601-4700#H4616|that]] [[Lexicon/H5401-5500#H5493|he may avoid]] [[Lexicon/H4201-4300#H4295|going down]] [[Lexicon/H7501-7600#H7585|to Sheol.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 15 - 25
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H5201-5300#H5255|tears down]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H1301-1400#H1343|of the proud ,]] [[Lexicon/H5301-5400#H5324|but He protects]] [[Lexicon/H1301-1400#H1366|the boundaries]] [[Lexicon/H401-500#H490|of the widow.]]
 
 ##### Proverbs 15 - 26
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H8401-8500#H8441|detests]] [[Lexicon/H4201-4300#H4284|the thoughts]] [[Lexicon/H7401-7500#H7451|of the wicked ,]] [[Lexicon/H501-600#H561|but the words]] [[Lexicon/H2801-2900#H2889|of the pure]] [[Lexicon/H5201-5300#H5278|are pleasant [to Him].]]
+=======
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H8401-8500#H8441|detests]] [[Lexicon/H4201-4300#H4284|the thoughts]] [[Lexicon/H7401-7500#H7451|of the wicked ,]] [[Lexicon/H501-600#H561|but the words]] [[Lexicon/H2801-2900#H2889|of the pure]] [[Lexicon/H5201-5300#H5278|are pleasant (to Him).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 15 - 27
 [[Lexicon/H1201-1300#H1214|He who is greedy]] [[Lexicon/H1201-1300#H1215|for unjust gain]] [[Lexicon/H5901-6000#H5916|brings trouble]] [[Lexicon/H1001-1100#H1004|on his household ,]] [[Lexicon/H8101-8200#H8130|but he who hates]] [[Lexicon/H4901-5000#H4979|bribes]] [[Lexicon/H2401-2500#H2421|will live.]]
@@ -97,7 +105,11 @@ cssClasses: lexicon
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H7301-7400#H7350|is far]] [[Lexicon/H7501-7600#H7563|from the wicked ,]] [[Lexicon/H8001-8100#H8085|but He hears]] [[Lexicon/H8601-8674#H8605|the prayer]] [[Lexicon/H6601-6700#H6662|of the righteous.]]
 
 ##### Proverbs 15 - 30
+<<<<<<< HEAD
 [[Lexicon/H3901-4000#H3974|The light]] [[Lexicon/H5801-5900#H5869|of the eyes]] [[Lexicon/H8001-8100#H8055|cheers]] [[Lexicon/H3801-3900#H3820|the heart ,]] [[Lexicon/H2801-2900#H2896|[and] good]] [[Lexicon/H8001-8100#H8052|news]] [[Lexicon/H1801-1900#H1878|nourishes]] [[Lexicon/H6101-6200#H6106|the bones.]]
+=======
+[[Lexicon/H3901-4000#H3974|The light]] [[Lexicon/H5801-5900#H5869|of the eyes]] [[Lexicon/H8001-8100#H8055|cheers]] [[Lexicon/H3801-3900#H3820|the heart ,]] [[Lexicon/H2801-2900#H2896|(and) good]] [[Lexicon/H8001-8100#H8052|news]] [[Lexicon/H1801-1900#H1878|nourishes]] [[Lexicon/H6101-6200#H6106|the bones.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Proverbs 15 - 31
 [[Lexicon/H201-300#H241|vvv]] [[Lexicon/H8001-8100#H8085|He who listens to]] [[Lexicon/H2401-2500#H2416|life-giving]] [[Lexicon/H8401-8500#H8433|reproof]] [[Lexicon/H3801-3900#H3885|will dwell]] [[Lexicon/H7101-7200#H7130|among]] [[Lexicon/H2401-2500#H2450|the wise.]]
@@ -106,4 +118,8 @@ cssClasses: lexicon
 [[Lexicon/H6501-6600#H6544|He who ignores]] [[Lexicon/H4101-4200#H4148|discipline]] [[Lexicon/H3901-4000#H3988|despises]] [[Lexicon/H5301-5400#H5315|himself ,]] [[Lexicon/H8001-8100#H8085|but whoever heeds]] [[Lexicon/H8401-8500#H8433|correction]] [[Lexicon/H7001-7100#H7069|gains]] [[Lexicon/H3801-3900#H3820|understanding.]]
 
 ##### Proverbs 15 - 33
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3374|The fear]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H4101-4200#H4148|[is] the instruction]] [[Lexicon/H2401-2500#H2451|of wisdom ,]] [[Lexicon/H6001-6100#H6038|and humility]] [[Lexicon/H6401-6500#H6440|comes before]] [[Lexicon/H3501-3600#H3519|honor.]]
+=======
+[[Lexicon/H3301-3400#H3374|The fear]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H4101-4200#H4148|(is) the instruction]] [[Lexicon/H2401-2500#H2451|of wisdom ,]] [[Lexicon/H6001-6100#H6038|and humility]] [[Lexicon/H6401-6500#H6440|comes before]] [[Lexicon/H3501-3600#H3519|honor.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

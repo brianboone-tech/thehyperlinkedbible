@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 124 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 123 - TOSK|← Ch 123]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 125 - TOSK|Ch 125 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 123 - TOSK|← Ch 123]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 125 - TOSK|Ch 125 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

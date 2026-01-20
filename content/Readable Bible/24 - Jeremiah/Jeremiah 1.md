@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jeremiah-R 1
 
 **[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
 
 [[Isaiah-R 66|←]] • [[Jeremiah-R 2|→]]
+=======
+# Jeremiah 1
+
+[[Readable Bible/23 - Isaiah/Isaiah 66|←]] | [[Readable Bible/24 - Jeremiah/Jeremiah 2|→]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

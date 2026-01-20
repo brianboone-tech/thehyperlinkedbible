@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Jeremiah-R 38
 
 **[[Home/Scripture/24 - Jeremiah|Jeremiah]]**
 
 [[Readable Bible/24 - Jeremiah/Jeremiah 37#Jeremiah-R 37| Jeremiah 37]] - [[Readable Bible/24 - Jeremiah/Jeremiah 39#Jeremiah-R 39| Jeremiah 39]]
+=======
+# Jeremiah 38
+
+[[Readable Bible/24 - Jeremiah/Jeremiah 37|← Jeremiah 37]] | [[Readable Bible/24 - Jeremiah/Jeremiah 39|Jeremiah 39 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

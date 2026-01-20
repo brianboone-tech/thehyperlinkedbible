@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Kings-R 19
 
 **[[Home/Scripture/11 - 1 Kings|1 Kings]]**
 
 [[Readable Bible/11 - 1 Kings/1 Kings 18#1 Kings-R 18| 1 Kings 18]] - [[Readable Bible/11 - 1 Kings/1 Kings 20#1 Kings-R 20| 1 Kings 20]]
+=======
+# 1 Kings 19
+
+[[Readable Bible/11 - 1 Kings/1 Kings 18|← 1 Kings 18]] | [[Readable Bible/11 - 1 Kings/1 Kings 20|1 Kings 20 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -39,11 +45,19 @@ cssClasses: lexicon
 
 ##### 1 Kings 19 . 9
 [[Reference Bible/11 - 1 Kings/1 Kings 19#1 Kings 19 - 9|9]] There Elijah entered a cave and spent the night. And the word of the LORD came to him, saying, “What are you doing here, Elijah?”  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 9.3-4 to 1 Kings 19.9|IP]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 19 - TOSK#Verse 9|TOSK]] |
+<<<<<<< HEAD
   |  [[Chiasm/Chiasm - 11 - 1 Kings 19|Chiasm]]  |
 
 ##### 1 Kings 19 . 10
 [[Reference Bible/11 - 1 Kings/1 Kings 19#1 Kings 19 - 10|10]] “I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.”  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 7.52 to 1 Kings 19.10|IP¹]] | [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 11.2-4 to 1 Kings 19.10|IP²]] | [[Intertextuality Pairs/NT to OT/52 - 1 Thessalonians/1 Thessalonians 2.15 to 1 Kings 19.10|IP³]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 19 - TOSK#Verse 10|TOSK]] |
   |  [[Chiasm/Chiasm - 11 - 1 Kings 19|Chiasm]]  |
+=======
+ | [[Chiasm/Chiasm - 11 - 1 Kings 19|Chiasm]]  |
+
+##### 1 Kings 19 . 10
+[[Reference Bible/11 - 1 Kings/1 Kings 19#1 Kings 19 - 10|10]] “I have been very zealous for the LORD, the God of Hosts,” he replied, “but the Israelites have forsaken Your covenant, torn down Your altars, and killed Your prophets with the sword. I am the only one left, and they are seeking my life as well.”  | [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 7.52 to 1 Kings 19.10|IP¹]] | [[Intertextuality Pairs/NT to OT/45 - Romans/Romans 11.2-4 to 1 Kings 19.10|IP²]] | [[Intertextuality Pairs/NT to OT/52 - 1 Thessalonians/1 Thessalonians 2.15 to 1 Kings 19.10|IP³]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 19 - TOSK#Verse 10|TOSK]] |
+ | [[Chiasm/Chiasm - 11 - 1 Kings 19|Chiasm]]  |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ##### 1 Kings 19 . 11
 [[Reference Bible/11 - 1 Kings/1 Kings 19#1 Kings 19 - 11|11]] Then the LORD said, "Go out and stand on the mountain before the LORD. Behold, the LORD is about to pass by." And a great and mighty wind tore into the mountains and shattered the rocks before the LORD, but the LORD was not in the wind. After the wind there was an earthquake, but the LORD was not in the earthquake.  | [[Intertextuality Pairs/OT to OT/11 - 1 Kings/1 Kings 19.11 to Exodus 33.21|IP¹]] | [[Intertextuality Pairs/OT to OT/11 - 1 Kings/1 Kings 19.11-13 to Exodus 33.21-22|IP²]] | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 19 - TOSK#Verse 11|TOSK]] | [[Trajectory Tables/130 - Remnant (Faithful Few Preserved)|TT]] |
 ##### 1 Kings 19 . 12
@@ -67,7 +81,11 @@ cssClasses: lexicon
 [[Reference Bible/11 - 1 Kings/1 Kings 19#1 Kings 19 - 20|20]] So Elisha left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, and then I will follow you.” “Go on back,” Elijah replied, “for what have I done to you?”  | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 19 - TOSK#Verse 20|TOSK]] |
 
 ##### 1 Kings 19 . 21
+<<<<<<< HEAD
 [[Reference Bible/11 - 1 Kings/1 Kings 19#1 Kings 19 - 21|21]] So Elisha turned back from him, took his pair of oxen, and slaughtered them. With the oxen’s equipment, he cooked the meat and gave it to the people, and they ate. Then he set out to follow and serve Elijah.  | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 19 - TOSK#Verse 21|TOSK]] | |
+=======
+[[Reference Bible/11 - 1 Kings/1 Kings 19#1 Kings 19 - 21|21]] So Elisha turned back from him, took his pair of oxen, and slaughtered them. With the oxen’s equipment, he cooked the meat and gave it to the people, and they ate. Then he set out to follow and serve Elijah.  | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 19 - TOSK#Verse 21|TOSK]] ||
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Kings 19 . 20
 [[Reference Bible/11 - 1 Kings/1 Kings 19#1 Kings 19 - 20|20]] So Elisha left the oxen, ran after Elijah, and said, “Please let me kiss my father and mother goodbye, and then I will follow you.” “Go on back,” Elijah replied, “for what have I done to you?”  | [[The Treasury of Scripture Knowledge/11. 1 Kings TOSK/1 Kings - 19 - TOSK#Verse 20|TOSK]] |

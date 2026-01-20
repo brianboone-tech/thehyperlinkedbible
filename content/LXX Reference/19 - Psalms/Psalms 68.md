@@ -15,7 +15,11 @@ Testament: Old
 [[Lexicon/G401-500#G0450|Let God arise,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1201-1300#G1287|let be dispersed]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5343|let flee]]
 
 #### Psalms 68 - 2
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G1501-1600#G1587|dissipates]] [[Lexicon/G1501-1600#G1587|let them dissipate!]] [[Lexicon/G5601-5700#G5613|As]] [[Lexicon/G5001-5100#G5080|melts away]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G601-700#G0622|shall be destroyed]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2301-2400#G2316|of God.]]
+=======
+[[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G1501-1600#G1587|dissipates]] [[Lexicon/G1501-1600#G1587|let them dissipate!]] [[Lexicon/G5601-5624#G5613|As]] [[Lexicon/G5001-5100#G5080|melts away]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3701-3800#G3779|thus]] [[Lexicon/G601-700#G0622|shall be destroyed]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2301-2400#G2316|of God.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 68 - 3
 [[Lexicon/G2501-2600#G2532|But]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G0021|Let them exult]] [[Lexicon/G1701-1800#G1799|in the presence of]] [[Lexicon/G2301-2400#G2316|God!]] [[Lexicon/G5001-5100#G5059|Let them be made happy]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G2101-2200#G2167|gladness!]]
@@ -45,7 +49,11 @@ Testament: Old
 [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G1301-1400#G1325|shall give]] [[Lexicon/G4401-4500#G4487|discourse]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2001-2100#G2097|ones announcing good news]] [[Lexicon/G1401-1500#G1411|force]]
 
 #### Psalms 68 - 12
+<<<<<<< HEAD
 [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1411|forces]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1-100#G0027|beloved,]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G5601-5700#G5611|beauty]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3601-3700#G3624|house]] [[Lexicon/G1201-1300#G1244|to divide]]
+=======
+[[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G901-1000#G0935|king]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1411|forces]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1-100#G0027|beloved,]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G5601-5624#G5611|beauty]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3601-3700#G3624|house]] [[Lexicon/G1201-1300#G1244|to divide]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 68 - 13
 [[Lexicon/G1401-1500#G1437|If]] [[Lexicon/G2801-2900#G2837|you should sleep]] [[Lexicon/G301-400#G0303|in the midst]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2801-2900#G2819|lots,]] [[Lexicon/G4001-4100#G4058|of the dove]] [[Lexicon/G4001-4100#G4014|being silver plated,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3346|her upper back]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5501-5600#G5515|greenness]] [[Lexicon/G5501-5600#G5553|of gold;]]

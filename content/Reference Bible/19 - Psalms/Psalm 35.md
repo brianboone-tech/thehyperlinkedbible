@@ -18,7 +18,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 35#Psalm 35 - 2|LXX]] |
 
 ##### Psalm 35 - 3
+<<<<<<< HEAD
 [[Lexicon/H7301-7400#H7324|Draw]] [[Lexicon/H2501-2600#H2595|the spear]] [[Lexicon/H5401-5500#H5462|and javelin]] [[Lexicon/H7101-7200#H7122|against]] [[Lexicon/H7201-7300#H7291|my pursuers ;]] [[Lexicon/H501-600#H559|say]] [[Lexicon/H5301-5400#H5315|to my soul :]] [[Lexicon/H501-600#H589|“ I [am]]] [[Lexicon/H3401-3500#H3444|your salvation. ”]]
+=======
+[[Lexicon/H7301-7400#H7324|Draw]] [[Lexicon/H2501-2600#H2595|the spear]] [[Lexicon/H5401-5500#H5462|and javelin]] [[Lexicon/H7101-7200#H7122|against]] [[Lexicon/H7201-7300#H7291|my pursuers ;]] [[Lexicon/H501-600#H559|say]] [[Lexicon/H5301-5400#H5315|to my soul :]] [[Lexicon/H501-600#H589|“ I (am)]] [[Lexicon/H3401-3500#H3444|your salvation. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 35#Psalm 35 - 3|LXX]] |
 
 ##### Psalm 35 - 4
@@ -38,7 +42,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 35#Psalm 35 - 7|LXX]] |
 
 ##### Psalm 35 - 8
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7722|May ruin]] [[Lexicon/H901-1000#H935|befall them]] [[Lexicon/H3801-3900#H3808|by surprise]] [[Lexicon/H3001-3100#H3045|... ;]] [[Lexicon/H7501-7600#H7568|may the net]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2901-3000#H2934|they hid]] [[Lexicon/H3901-4000#H3920|ensnare them ;]] [[Lexicon/H5301-5400#H5307|may they fall]] [[Lexicon/H7701-7800#H7722|the hazard [they created].]]
+=======
+[[Lexicon/H7701-7800#H7722|May ruin]] [[Lexicon/H901-1000#H935|befall them]] [[Lexicon/H3801-3900#H3808|by surprise]] [[Lexicon/H3001-3100#H3045|... ;]] [[Lexicon/H7501-7600#H7568|may the net]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2901-3000#H2934|they hid]] [[Lexicon/H3901-4000#H3920|ensnare them ;]] [[Lexicon/H5301-5400#H5307|may they fall]] [[Lexicon/H7701-7800#H7722|the hazard (they created).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 35#Psalm 35 - 8|LXX]] |
 
 ##### Psalm 35 - 9
@@ -54,7 +62,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 35#Psalm 35 - 11|LXX]] |
 
 ##### Psalm 35 - 12
+<<<<<<< HEAD
 [[Lexicon/H7901-8000#H7999|They repay me]] [[Lexicon/H7401-7500#H7451|evil]] [[Lexicon/H8401-8500#H8478|for]] [[Lexicon/H2801-2900#H2896|good ,]] [[Lexicon/H7901-8000#H7908|[to] the bereavement]] [[Lexicon/H5301-5400#H5315|of my soul.]]
+=======
+[[Lexicon/H7901-8000#H7999|They repay me]] [[Lexicon/H7401-7500#H7451|evil]] [[Lexicon/H8401-8500#H8478|for]] [[Lexicon/H2801-2900#H2896|good ,]] [[Lexicon/H7901-8000#H7908|(to) the bereavement]] [[Lexicon/H5301-5400#H5315|of my soul.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 35#Psalm 35 - 12|LXX]] |
 
 ##### Psalm 35 - 13
@@ -62,7 +74,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 35#Psalm 35 - 13|LXX]] |
 
 ##### Psalm 35 - 14
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1980|I paced about]] [[Lexicon/H7401-7500#H7453|as for my friend]] [[Lexicon/H201-300#H251|or brother]] [[Lexicon/H7801-7900#H7817|I was bowed down]] [[Lexicon/H6901-7000#H6937|with grief ,]] [[Lexicon/H1-100#H57|like one mourning]] [[Lexicon/H501-600#H517|[for his] mother.]]
+=======
+[[Lexicon/H1901-2000#H1980|I paced about]] [[Lexicon/H7401-7500#H7453|as for my friend]] [[Lexicon/H201-300#H251|or brother]] [[Lexicon/H7801-7900#H7817|I was bowed down]] [[Lexicon/H6901-7000#H6937|with grief ,]] [[Lexicon/H1-100#H57|like one mourning]] [[Lexicon/H501-600#H517|(for his) mother.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 35#Psalm 35 - 14|LXX]] |
 
 ##### Psalm 35 - 15
@@ -82,7 +98,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 35#Psalm 35 - 18|LXX]] |
 
 ##### Psalm 35 - 19
+<<<<<<< HEAD
 [[Lexicon/H401-500#H408|Let not]] [[Lexicon/H301-400#H341|my enemies]] [[Lexicon/H8001-8100#H8055|gloat]] [[Lexicon/H8201-8300#H8267|without cause ,]] [[Lexicon/H8101-8200#H8130|[nor] those who hate me]] [[Lexicon/H2501-2600#H2600|without reason]] [[Lexicon/H7101-7200#H7169|wink in malice]] [[Lexicon/H5801-5900#H5869|....]]
+=======
+[[Lexicon/H401-500#H408|Let not]] [[Lexicon/H301-400#H341|my enemies]] [[Lexicon/H8001-8100#H8055|gloat]] [[Lexicon/H8201-8300#H8267|without cause ,]] [[Lexicon/H8101-8200#H8130|(nor) those who hate me]] [[Lexicon/H2501-2600#H2600|without reason]] [[Lexicon/H7101-7200#H7169|wink in malice]] [[Lexicon/H5801-5900#H5869|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 35#Psalm 35 - 19|LXX]] |
 
 ##### Psalm 35 - 20
@@ -114,4 +134,8 @@ cssClasses: lexicon
 [[Lexicon/H2601-2700#H2655|May those who favor]] [[Lexicon/H6601-6700#H6664|my vindication]] [[Lexicon/H7401-7500#H7442|shout for joy]] [[Lexicon/H8001-8100#H8055|and gladness ;]] [[Lexicon/H8501-8600#H8548|may they always]] [[Lexicon/H501-600#H559|say ,]] [[Lexicon/H1401-1500#H1431|“ Exalted be]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H2601-2700#H2655|who delights]] [[Lexicon/H5601-5700#H5650|in His servant’s]] [[Lexicon/H7901-8000#H7965|well-being. ”]]
 
 ##### Psalm 35 - 28
+<<<<<<< HEAD
 [[Lexicon/H3901-4000#H3956|Then my tongue]] [[Lexicon/H1801-1900#H1897|will proclaim]] [[Lexicon/H6601-6700#H6664|Your righteousness]] [[Lexicon/H8401-8500#H8416|[and] Your praises]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3101-3200#H3117|day long.]]
+=======
+[[Lexicon/H3901-4000#H3956|Then my tongue]] [[Lexicon/H1801-1900#H1897|will proclaim]] [[Lexicon/H6601-6700#H6664|Your righteousness]] [[Lexicon/H8401-8500#H8416|(and) Your praises]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3101-3200#H3117|day long.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

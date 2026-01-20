@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Job-R 8
 
 **[[Home/Scripture/18 - Job|Job]]**
 
 [[Readable Bible/18 - Job/Job 7#Job-R 7| Job 7]] - [[Readable Bible/18 - Job/Job 9#Job-R 9| Job 9]]
+=======
+# Job 8
+
+[[Readable Bible/18 - Job/Job 7|← Job 7]] | [[Readable Bible/18 - Job/Job 9|Job 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

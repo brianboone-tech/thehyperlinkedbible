@@ -19,13 +19,21 @@ cssClasses: lexicon
 [[Lexicon/H601-700#H639|when their anger]] [[Lexicon/H2701-2800#H2734|flared]] [[Lexicon/H201-300#H233|then]] [[Lexicon/H1101-1200#H1104|they would have swallowed us]] [[Lexicon/H2401-2500#H2416|alive ,]]
 
 ##### Psalm 124 - 4
+<<<<<<< HEAD
 [[Lexicon/H201-300#H233|then]] [[Lexicon/H4301-4400#H4325|the floods]] [[Lexicon/H7801-7900#H7857|would have engulfed us ,]] [[Lexicon/H5101-5200#H5158|[then] the torrent]] [[Lexicon/H5601-5700#H5674|would have overwhelmed]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5301-5400#H5315|us ,]]
+=======
+[[Lexicon/H201-300#H233|then]] [[Lexicon/H4301-4400#H4325|the floods]] [[Lexicon/H7801-7900#H7857|would have engulfed us ,]] [[Lexicon/H5101-5200#H5158|(then) the torrent]] [[Lexicon/H5601-5700#H5674|would have overwhelmed]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5301-5400#H5315|us ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Psalm 124 - 5
 [[Lexicon/H201-300#H233|then]] [[Lexicon/H2101-2200#H2121|the raging]] [[Lexicon/H4301-4400#H4325|waters]] [[Lexicon/H5601-5700#H5674|would have swept us away]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5301-5400#H5315|....]]
 
 ##### Psalm 124 - 6
+<<<<<<< HEAD
 [[Lexicon/H1201-1300#H1288|Blessed]] [[Lexicon/H3001-3100#H3068|[be] the LORD ,]] [[Lexicon/H3801-3900#H3808|who has not]] [[Lexicon/H5401-5500#H5414|given us]] [[Lexicon/H2901-3000#H2964|as prey]] [[Lexicon/H8101-8200#H8127|to their teeth.]]
+=======
+[[Lexicon/H1201-1300#H1288|Blessed]] [[Lexicon/H3001-3100#H3068|(be) the LORD ,]] [[Lexicon/H3801-3900#H3808|who has not]] [[Lexicon/H5401-5500#H5414|given us]] [[Lexicon/H2901-3000#H2964|as prey]] [[Lexicon/H8101-8200#H8127|to their teeth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Psalm 124 - 7
 [[Lexicon/H5301-5400#H5315|We]] [[Lexicon/H4401-4500#H4422|have escaped]] [[Lexicon/H6801-6900#H6833|like a bird]] [[Lexicon/H6301-6400#H6341|from the snare]] [[Lexicon/H3301-3400#H3369|of the fowler ;]] [[Lexicon/H6301-6400#H6341|the net]] [[Lexicon/H7601-7700#H7665|is torn ,]] [[Lexicon/H501-600#H587|and we]] [[Lexicon/H4401-4500#H4422|have slipped away.]]

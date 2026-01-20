@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/39 - Malachi|← Malachi]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/39 - Malachi|← Malachi]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

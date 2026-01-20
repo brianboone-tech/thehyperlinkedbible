@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+=======
+---
+cssclasses:
+  - trajectory-table
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## REBEKAH (BRIDE SOUGHT FOR THE SON) TRAJECTORY TABLE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XRlX-4W8-nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -8,6 +16,7 @@ Genesis 24 presents the longest chapter in Genesis, narrating the search for a b
 
 **Classification**: Providential (sovereignly arranged as paradigm of divine courtship); Backward-Looking (typological significance recognized from NT bridal theology)
 
+<<<<<<< HEAD
 | # | Stage | Key Text(s) / Text Analysis | Theological Development | Intertextuality Pairs |
 |---|-------|-------------|------------------------|---------------|
 | 1 | **OT Type - Father Sends Servant** | **Key Text:**<br>[[Readable Bible/01 - Genesis/Genesis 24#Genesis 24 . 1\|Genesis 24:1-9]]<br><br>**Text Analysis:**<br>[[Trajectory Tables - Foundation Texts/Rebekah (Bride Sought for the Son)/01 - Genesis 24.1-9\|Genesis 24:1-9]] | Abraham commissions his servant to find a wife for Isaac, making him swear an oath. The servant must not take a wife from the Canaanites but from Abraham's kindred. Isaac must not return to Mesopotamia—the bride must come to him. This establishes the pattern: the Father initiates, the Son remains, the servant is sent to call the bride. |  |
@@ -21,6 +30,40 @@ Genesis 24 presents the longest chapter in Genesis, narrating the search for a b
 
 ---
 
+=======
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Type - Father Sends Servant** | [[Readable Bible/01 - Genesis/Genesis 24#Genesis 24 . 1\|Genesis 24:1-9]] | Abraham commissions his servant to find a wife for Isaac, making him swear an oath. The servant must not take a wife from the Canaanites but from Abraham's kindred. Isaac must not return to Mesopotamia—the bride must come to him. This establishes the pattern: the Father initiates, the Son remains, the servant is sent to call the bride. | [[Trajectory Tables - Foundation Texts/Rebekah (Bride Sought for the Son)/01 - Genesis 24.1-9\|Genesis 24:1-9]] |
+| 2 | **OT Type - Servant Bears Witness** | [[Readable Bible/01 - Genesis/Genesis 24#Genesis 24 . 10\|Genesis 24:10-27, 34-49]] | The servant goes bearing "all the good things of his master" (v. 10), prays for guidance, finds Rebekah at the well, and bears witness to Abraham's greatness and Isaac's inheritance: "The LORD has greatly blessed my master... and to Isaac he has given all he has" (vv. 35-36). The servant's role is to testify and bring gifts. **CRITICAL:** Key Typological Establishment - the servant's witness role prefigures the Spirit drawing the bride to Christ. | [[Trajectory Tables - Foundation Texts/Rebekah (Bride Sought for the Son)/01 - Genesis 24.10-49\|Genesis 24:10-27, 34-49]] |
+| 3 | **OT Type - Bride Chooses to Go** | [[Readable Bible/01 - Genesis/Genesis 24#Genesis 24 . 58\|Genesis 24:58-61]] | When asked "Will you go with this man?" Rebekah answers simply: "I will go" (v. 58). The bride must freely consent. Her family blesses her: "May your offspring possess the gates of their enemies" (v. 60)—echoing the Abrahamic blessing. The bride leaves her father's house for the bridegroom. | [[Trajectory Tables - Foundation Texts/Rebekah (Bride Sought for the Son)/01 - Genesis 24.58-61\|Genesis 24:58-61]] |
+| 4 | **OT Type - Sarah's Tent (Covenant Succession)** | [[Readable Bible/01 - Genesis/Genesis 24#Genesis 24 . 67\|Genesis 24:67]] | "Isaac brought her into the tent of his mother Sarah and took Rebekah as his wife. And Isaac loved her and was comforted after his mother's death." Rebekah enters Sarah's place—the covenant matriarch succession. The tent represents the covenant family, the true Israel, the household of faith. The bride joins the bridegroom's family. | [[Trajectory Tables - Foundation Texts/Rebekah (Bride Sought for the Son)/01 - Genesis 24.67\|Genesis 24:67]] |
+| 5 | **Prophetic Development - Israel as Bride** | [[Readable Bible/28 - Hosea/Hosea 2#Hosea 2 . 14\|Hosea 2:14-20]]; [[Readable Bible/23 - Isaiah/Isaiah 54#Isaiah 54 . 5\|Isaiah 54:5-8]] | The prophets develop Israel as YHWH's bride. Hosea: "I will betroth you to Me forever... in righteousness and justice, in love and compassion" (2:19). Isaiah: "Your Maker is your husband... the LORD has called you like a wife deserted... but with everlasting love I will have compassion on you" (54:5-8). God seeks and woos His covenant people. | [[Trajectory Tables - Foundation Texts/Rebekah (Bride Sought for the Son)/28 - Hosea 2.14-20; 23 - Isaiah 54.5-8\|Hosea 2:14-20; Isaiah 54:5-8]] |
+| 6 | **NT Fulfillment - Christ the Bridegroom** | [[Readable Bible/43 - John/John 3#John 3 . 29\|John 3:29]]; [[Readable Bible/40 - Matthew/Matthew 25#Matthew 25 . 1\|Matthew 25:1-13]] | John the Baptist identifies Jesus as "the bridegroom" and himself as "the friend of the bridegroom" (John 3:29). Jesus' parables feature wedding feasts and waiting bridesmaids. Christ is the true Isaac for whom the Father seeks a bride. | [[Trajectory Tables - Foundation Texts/Rebekah (Bride Sought for the Son)/43 - John 3.29; 40 - Matthew 25.1-13\|John 3:29; Matthew 25:1-13]] |
+| 7 | **NT Development - Church as Bride** | [[Readable Bible/49 - Ephesians/Ephesians 5#Ephesians 5 . 25\|Ephesians 5:25-32]]; [[Readable Bible/47 - 2 Corinthians/2 Corinthians 11#2 Corinthians 11 . 2\|2 Corinthians 11:2]] | Paul presents Christ and the church in terms of bridegroom and bride. "Husbands, love your wives, as Christ loved the church and gave Himself up for her" (Eph 5:25). "I betrothed you to one husband, to present you as a pure virgin to Christ" (2 Cor 11:2). The servant (apostle) presents the bride (church) to Christ. **CRITICAL:** [[Intertextuality Pairs/NT to OT/49 - Ephesians/Ephesians 5.31-32 to Genesis 2.24\|Ephesians 5:31-32 to Genesis 2:24]] | [[Trajectory Tables - Foundation Texts/Rebekah (Bride Sought for the Son)/49 - Ephesians 5.25-32; 47 - 2 Corinthians 11.2\|Ephesians 5:25-32; 2 Corinthians 11:2]] |
+| 8 | **Eschatological Consummation - Marriage of the Lamb** | [[Readable Bible/66 - Revelation/Revelation 19#Revelation 19 . 7\|Revelation 19:7-9]]; [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 2\|Revelation 21:2, 9]] | "The marriage of the Lamb has come, and His bride has made herself ready... Blessed are those who are invited to the marriage supper of the Lamb!" (19:7-9). John sees "the Holy City, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband" (21:2). What Genesis 24 foreshadowed reaches consummation. **CRITICAL:** Escalation Demonstration - the eternal marriage of the Lamb fulfills and surpasses all earthly marriage types. | [[Trajectory Tables - Foundation Texts/Rebekah (Bride Sought for the Son)/66 - Revelation 19.7-9; 21.2,9\|Revelation 19:7-9; 21:2, 9]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+**01 - Genesis**
+
+- The servant's testimony at Bethuel's house (Gen 24:34-49) recounts God's faithfulness to Abraham, establishing the pattern of Spirit-empowered witness that draws the bride to the bridegroom. **CRITICAL:** Key Typological Establishment - establishes the foundational "bride for the son" pattern that runs through Scripture.
+
+### NT to OT
+
+**49 - Ephesians**
+
+- [[Intertextuality Pairs/NT to OT/49 - Ephesians/Ephesians 5.31-32 to Genesis 2.24\|Ephesians 5:31  to  Genesis 2:24]] - **CRITICAL:** Paul's quotation of Genesis 2:24 ("the two shall become one flesh") is explicitly applied to "Christ and the church" (Eph 5:32). The Genesis pattern of man leaving father and mother for his wife finds its deepest meaning in Christ and His bride. (Direct NT Quotation; Key Typological Establishment)
+
+**66 - Revelation**
+
+- The "marriage of the Lamb" (Rev 19:7-9) fulfills the entire OT bridal trajectory, from Rebekah through prophetic Israel as bride to the church presented to Christ. **CRITICAL:** Escalation Demonstration - the eschatological marriage of the Lamb surpasses all earthly marriage shadows, culminating the entire bridal trajectory.
+---
+
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 ## Four-Step Application
 
 ### 1. What You Must Do

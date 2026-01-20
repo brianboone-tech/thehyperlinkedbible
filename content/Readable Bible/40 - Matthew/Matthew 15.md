@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Matthew-R 15
 
 **[[Home/Scripture/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 14#Matthew-R 14| Matthew 14]] - [[Readable Bible/40 - Matthew/Matthew 16#Matthew-R 16| Matthew 16]]
+=======
+# Matthew 15
+
+[[Readable Bible/40 - Matthew/Matthew 14|← Matthew 14]] | [[Readable Bible/40 - Matthew/Matthew 16|Matthew 16 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### Matthew 15 . 1
+<<<<<<< HEAD
 [[Reference Bible/40 - Matthew/Matthew 15#Matthew 15 - 1|1]] Then some Pharisees and scribes came to Jesus from Jerusalem and asked,   || [[Chiasm/Chiasm - 40 - Matthew 15 . 01 - 09|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 15 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/40 - Matthew/Matthew 15#Matthew 15 - 1|1]] Then some Pharisees and scribes came to Jesus from Jerusalem and asked,  | | [[Chiasm/Chiasm - 40 - Matthew 15 . 01 - 09|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 15 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Matthew 15 . 2
 [[Reference Bible/40 - Matthew/Matthew 15#Matthew 15 - 2|2]] “Why do Your disciples break the tradition of the elders? They do not wash their hands before they eat.”  | [[Chiasm/Chiasm - 40 - Matthew 15 . 01 - 09|C]] | [[The Treasury of Scripture Knowledge/40. Matthew TOSK/Matthew - 15 - TOSK#Verse 2|TOSK]] |

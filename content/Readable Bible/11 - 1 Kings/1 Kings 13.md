@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Kings-R 13
 
 **[[Home/Scripture/11 - 1 Kings|1 Kings]]**
 
 [[Readable Bible/11 - 1 Kings/1 Kings 12#1 Kings-R 12| 1 Kings 12]] - [[Readable Bible/11 - 1 Kings/1 Kings 14#1 Kings-R 14| 1 Kings 14]]
+=======
+# 1 Kings 13
+
+[[Readable Bible/11 - 1 Kings/1 Kings 12|← 1 Kings 12]] | [[Readable Bible/11 - 1 Kings/1 Kings 14|1 Kings 14 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

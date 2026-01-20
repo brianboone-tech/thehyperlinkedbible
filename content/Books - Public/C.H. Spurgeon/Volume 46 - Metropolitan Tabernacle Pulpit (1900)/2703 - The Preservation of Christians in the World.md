@@ -1,0 +1,17 @@
+**Sermon #2703**
+**Delivered in 1900**
+**By The Rev. C. H. Spurgeon**
+**At the Metropolitan Tabernacle, Newington**
+
+---
+
+##### Text
+*John 17:15*
+
+---
+
+*[Paste sermon content here for formatting]*
+
+---
+
+*Taken from The Metropolitan Tabernacle Pulpit, Volume 46.*

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Acts 28 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 27 - TOSK|← Ch 27]]
+=======
+**[[Home/Indexes/Readable Bible/44 - Acts|← Acts]]** | [[The Treasury of Scripture Knowledge/44. Acts TOSK/Acts - 27 - TOSK|← Ch 27]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

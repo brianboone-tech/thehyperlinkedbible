@@ -18,11 +18,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 2|LXX]] |
 
 ##### Psalm 106 - 3
+<<<<<<< HEAD
 [[Lexicon/H801-900#H835|Blessed [are]]] [[Lexicon/H8101-8200#H8104|those who uphold]] [[Lexicon/H4901-5000#H4941|justice ,]] [[Lexicon/H6201-6300#H6213|who practice]] [[Lexicon/H6601-6700#H6666|righteousness]] [[Lexicon/H3601-3700#H3605|at all]] [[Lexicon/H6201-6300#H6256|times.]]
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 3|LXX]] |
 
 ##### Psalm 106 - 4
 [[Lexicon/H2101-2200#H2142|Remember me ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H7501-7600#H7522|in [Your] favor]] [[Lexicon/H5901-6000#H5971|to Your people ;]] [[Lexicon/H6401-6500#H6485|visit me]] [[Lexicon/H3401-3500#H3444|with Your salvation ,]]
+=======
+[[Lexicon/H801-900#H835|Blessed (are)]] [[Lexicon/H8101-8200#H8104|those who uphold]] [[Lexicon/H4901-5000#H4941|justice ,]] [[Lexicon/H6201-6300#H6213|who practice]] [[Lexicon/H6601-6700#H6666|righteousness]] [[Lexicon/H3601-3700#H3605|at all]] [[Lexicon/H6201-6300#H6256|times.]]
+| [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 3|LXX]] |
+
+##### Psalm 106 - 4
+[[Lexicon/H2101-2200#H2142|Remember me ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H7501-7600#H7522|in (Your) favor]] [[Lexicon/H5901-6000#H5971|to Your people ;]] [[Lexicon/H6401-6500#H6485|visit me]] [[Lexicon/H3401-3500#H3444|with Your salvation ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 4|LXX]] |
 
 ##### Psalm 106 - 5
@@ -30,11 +38,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 5|LXX]] |
 
 ##### Psalm 106 - 6
+<<<<<<< HEAD
 [[Lexicon/H2301-2400#H2398|We have sinned]] [[Lexicon/H5901-6000#H5973|like]] [[Lexicon/H1-100#H1|our fathers ;]] [[Lexicon/H5701-5800#H5753|we have done wrong]] [[Lexicon/H7501-7600#H7561|[and] acted wickedly.]]
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 6|LXX]] |
 
 ##### Psalm 106 - 7
 [[Lexicon/H1-100#H1|Our fathers]] [[Lexicon/H4701-4800#H4714|in Egypt]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H7901-8000#H7919|grasp]] [[Lexicon/H6301-6400#H6381|Your wonders]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H2101-2200#H2142|or remember]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7230|Your abundant]] [[Lexicon/H2601-2700#H2617|kindness ;]] [[Lexicon/H4701-4800#H4784|but they rebelled]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H3201-3300#H3220|the sea ,]] [[Lexicon/H5401-5500#H5488|[there] at the Red]] [[Lexicon/H3201-3300#H3220|Sea.]]
+=======
+[[Lexicon/H2301-2400#H2398|We have sinned]] [[Lexicon/H5901-6000#H5973|like]] [[Lexicon/H1-100#H1|our fathers ;]] [[Lexicon/H5701-5800#H5753|we have done wrong]] [[Lexicon/H7501-7600#H7561|(and) acted wickedly.]]
+| [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 6|LXX]] |
+
+##### Psalm 106 - 7
+[[Lexicon/H1-100#H1|Our fathers]] [[Lexicon/H4701-4800#H4714|in Egypt]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H7901-8000#H7919|grasp]] [[Lexicon/H6301-6400#H6381|Your wonders]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H2101-2200#H2142|or remember]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7230|Your abundant]] [[Lexicon/H2601-2700#H2617|kindness ;]] [[Lexicon/H4701-4800#H4784|but they rebelled]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H3201-3300#H3220|the sea ,]] [[Lexicon/H5401-5500#H5488|(there) at the Red]] [[Lexicon/H3201-3300#H3220|Sea.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 7|LXX]] |
 
 ##### Psalm 106 - 8
@@ -54,11 +70,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 11|LXX]] |
 
 ##### Psalm 106 - 12
+<<<<<<< HEAD
 [[Lexicon/H501-600#H539|Then they believed]] [[Lexicon/H1601-1700#H1697|His promises]] [[Lexicon/H7801-7900#H7891|[and] sang]] [[Lexicon/H8401-8500#H8416|His praise.]]
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 12|LXX]] |
 
 ##### Psalm 106 - 13
 [[Lexicon/H4101-4200#H4116|[Yet] they soon]] [[Lexicon/H7901-8000#H7911|forgot]] [[Lexicon/H4601-4700#H4639|His works]] [[Lexicon/H3801-3900#H3808|and failed]] [[Lexicon/H2401-2500#H2442|to wait]] [[Lexicon/H6001-6100#H6098|for His counsel.]]
+=======
+[[Lexicon/H501-600#H539|Then they believed]] [[Lexicon/H1601-1700#H1697|His promises]] [[Lexicon/H7801-7900#H7891|(and) sang]] [[Lexicon/H8401-8500#H8416|His praise.]]
+| [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 12|LXX]] |
+
+##### Psalm 106 - 13
+[[Lexicon/H4101-4200#H4116|(Yet) they soon]] [[Lexicon/H7901-8000#H7911|forgot]] [[Lexicon/H4601-4700#H4639|His works]] [[Lexicon/H3801-3900#H3808|and failed]] [[Lexicon/H2401-2500#H2442|to wait]] [[Lexicon/H6001-6100#H6098|for His counsel.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 13|LXX]] |
 
 ##### Psalm 106 - 14
@@ -94,7 +118,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 21|LXX]] |
 
 ##### Psalm 106 - 22
+<<<<<<< HEAD
 [[Lexicon/H6301-6400#H6381|wondrous works]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H2501-2600#H2526|of Ham ,]] [[Lexicon/H3301-3400#H3372|[and] awesome deeds]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H5401-5500#H5488|the Red]] [[Lexicon/H3201-3300#H3220|Sea.]]
+=======
+[[Lexicon/H6301-6400#H6381|wondrous works]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H2501-2600#H2526|of Ham ,]] [[Lexicon/H3301-3400#H3372|(and) awesome deeds]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H5401-5500#H5488|the Red]] [[Lexicon/H3201-3300#H3220|Sea.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 22|LXX]] |
 
 ##### Psalm 106 - 23
@@ -122,7 +150,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 28|LXX]] |
 
 ##### Psalm 106 - 29
+<<<<<<< HEAD
 [[Lexicon/H3701-3800#H3707|So they provoked [the LORD] to anger]] [[Lexicon/H4601-4700#H4611|with their deeds ,]] [[Lexicon/H4001-4100#H4046|and a plague]] [[Lexicon/H6501-6600#H6555|broke out]]
+=======
+[[Lexicon/H3701-3800#H3707|So they provoked (the LORD) to anger]] [[Lexicon/H4601-4700#H4611|with their deeds ,]] [[Lexicon/H4001-4100#H4046|and a plague]] [[Lexicon/H6501-6600#H6555|broke out]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 29|LXX]] |
 
 ##### Psalm 106 - 30
@@ -138,7 +170,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 32|LXX]] |
 
 ##### Psalm 106 - 33
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4701-4800#H4784|they rebelled against]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7307|His Spirit ,]] [[Lexicon/H901-1000#H981|and [Moses] spoke rashly]] [[Lexicon/H8101-8200#H8193|with his lips.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4701-4800#H4784|they rebelled against]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7301-7400#H7307|His Spirit ,]] [[Lexicon/H901-1000#H981|and (Moses) spoke rashly]] [[Lexicon/H8101-8200#H8193|with his lips.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 33|LXX]] |
 
 ##### Psalm 106 - 34
@@ -198,6 +234,10 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 47|LXX]] |
 
 ##### Psalm 106 - 48
+<<<<<<< HEAD
 [[Lexicon/H1201-1300#H1288|Blessed [be]]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H5701-5800#H5769|everlasting]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H5701-5800#H5769|everlasting.]] [[Lexicon/H3601-3700#H3605|Let all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H501-600#H559|say ,]] [[Lexicon/H501-600#H543|“ Amen ! ”]] [[Lexicon/H1901-2000#H1984|Hallelujah]] [[Lexicon/H3001-3100#H3050|... !]]
+=======
+[[Lexicon/H1201-1300#H1288|Blessed (be)]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H5701-5800#H5769|everlasting]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H5701-5800#H5769|everlasting.]] [[Lexicon/H3601-3700#H3605|Let all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H501-600#H559|say ,]] [[Lexicon/H501-600#H543|“ Amen ! ”]] [[Lexicon/H1901-2000#H1984|Hallelujah]] [[Lexicon/H3001-3100#H3050|... !]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 106#Psalm 106 - 48|LXX]] |
 

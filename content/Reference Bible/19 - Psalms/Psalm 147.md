@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 147 - 1
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1984|Hallelujah]] [[Lexicon/H3001-3100#H3050|... !]] [[Lexicon/H3501-3600#H3588|How]] [[Lexicon/H2801-2900#H2896|good [it is]]] [[Lexicon/H2101-2200#H2167|to sing praises]] [[Lexicon/H401-500#H430|to our God ,]] [[Lexicon/H3501-3600#H3588|how]] [[Lexicon/H5201-5300#H5273|pleasant]] [[Lexicon/H4901-5000#H5000|and lovely]] [[Lexicon/H8401-8500#H8416|to praise [Him] !]]
+=======
+[[Lexicon/H1901-2000#H1984|Hallelujah]] [[Lexicon/H3001-3100#H3050|... !]] [[Lexicon/H3501-3600#H3588|How]] [[Lexicon/H2801-2900#H2896|good (it is)]] [[Lexicon/H2101-2200#H2167|to sing praises]] [[Lexicon/H401-500#H430|to our God ,]] [[Lexicon/H3501-3600#H3588|how]] [[Lexicon/H5201-5300#H5273|pleasant]] [[Lexicon/H4901-5000#H5000|and lovely]] [[Lexicon/H8401-8500#H8416|to praise (Him) !]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Psalm 147 - 2
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H1101-1200#H1129|builds up]] [[Lexicon/H3301-3400#H3389|Jerusalem ;]] [[Lexicon/H3601-3700#H3664|He gathers]] [[Lexicon/H5001-5100#H5080|the exiles]] [[Lexicon/H3401-3500#H3478|of Israel.]]
@@ -22,10 +26,17 @@ cssClasses: lexicon
 [[Lexicon/H4401-4500#H4487|He determines]] [[Lexicon/H4501-4600#H4557|the number]] [[Lexicon/H3501-3600#H3556|of the stars ;]] [[Lexicon/H7101-7200#H7121|He calls them]] [[Lexicon/H3601-3700#H3605|each]] [[Lexicon/H8001-8100#H8034|by name.]]
 
 ##### Psalm 147 - 5
+<<<<<<< HEAD
 [[Lexicon/H1401-1500#H1419|Great]] [[Lexicon/H101-200#H113|[is] our Lord ,]] [[Lexicon/H7201-7300#H7227|and mighty]] [[Lexicon/H3501-3600#H3581|in power ;]] [[Lexicon/H8301-8400#H8394|His understanding]] [[Lexicon/H301-400#H369|has no]] [[Lexicon/H4501-4600#H4557|limit.]]
 
 ##### Psalm 147 - 6
 [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H5701-5800#H5749|sustains]] [[Lexicon/H6001-6100#H6035|the humble ,]] [[Lexicon/H8201-8300#H8213|[but] casts]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H701-800#H776|the ground.]]
+=======
+[[Lexicon/H1401-1500#H1419|Great]] [[Lexicon/H101-200#H113|(is) our Lord ,]] [[Lexicon/H7201-7300#H7227|and mighty]] [[Lexicon/H3501-3600#H3581|in power ;]] [[Lexicon/H8301-8400#H8394|His understanding]] [[Lexicon/H301-400#H369|has no]] [[Lexicon/H4501-4600#H4557|limit.]]
+
+##### Psalm 147 - 6
+[[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H5701-5800#H5749|sustains]] [[Lexicon/H6001-6100#H6035|the humble ,]] [[Lexicon/H8201-8300#H8213|(but) casts]] [[Lexicon/H7501-7600#H7563|the wicked]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H701-800#H776|the ground.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Psalm 147 - 7
 [[Lexicon/H6001-6100#H6030|Sing]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H8401-8500#H8426|with thanksgiving ;]] [[Lexicon/H2101-2200#H2167|make music]] [[Lexicon/H3601-3700#H3658|on the harp]] [[Lexicon/H401-500#H430|to our God ,]]
@@ -49,7 +60,11 @@ cssClasses: lexicon
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H2301-2400#H2388|He strengthens]] [[Lexicon/H1201-1300#H1280|the bars]] [[Lexicon/H8101-8200#H8179|of your gates]] [[Lexicon/H1201-1300#H1288|and blesses]] [[Lexicon/H1101-1200#H1121|the children]] [[Lexicon/H7101-7200#H7130|within you.]]
 
 ##### Psalm 147 - 14
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7760|He makes]] [[Lexicon/H7901-8000#H7965|peace]] [[Lexicon/H1301-1400#H1366|[at] your borders ;]] [[Lexicon/H7601-7700#H7646|He fills you]] [[Lexicon/H2401-2500#H2459|with the finest]] [[Lexicon/H2401-2500#H2406|wheat.]]
+=======
+[[Lexicon/H7701-7800#H7760|He makes]] [[Lexicon/H7901-8000#H7965|peace]] [[Lexicon/H1301-1400#H1366|(at) your borders ;]] [[Lexicon/H7601-7700#H7646|He fills you]] [[Lexicon/H2401-2500#H2459|with the finest]] [[Lexicon/H2401-2500#H2406|wheat.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Psalm 147 - 15
 [[Lexicon/H7901-8000#H7971|He sends forth]] [[Lexicon/H501-600#H565|His command]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H701-800#H776|the earth ;]] [[Lexicon/H1601-1700#H1697|His word]] [[Lexicon/H7301-7400#H7323|runs]] [[Lexicon/H4101-4200#H4120|swiftly.]]

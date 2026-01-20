@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Song of Solomon 1 - 1
+<<<<<<< HEAD
 [[Lexicon/H801-900#H834|This [is]]] [[Lexicon/H8001-8100#H8010|Solomon’s]] [[Lexicon/H7801-7900#H7892|Song]] [[Lexicon/H7801-7900#H7892|of Songs.]]
+=======
+[[Lexicon/H801-900#H834|This (is)]] [[Lexicon/H8001-8100#H8010|Solomon’s]] [[Lexicon/H7801-7900#H7892|Song]] [[Lexicon/H7801-7900#H7892|of Songs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Song of Solomon 1 - 2
 [[Lexicon/H5401-5500#H5401|Let him kiss me]] [[Lexicon/H5301-5400#H5390|with the kisses]] [[Lexicon/H6301-6400#H6310|of his mouth !]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1701-1800#H1730|your love]] [[Lexicon/H2801-2900#H2896|is more delightful]] [[Lexicon/H3101-3200#H3196|than wine.]]
@@ -25,7 +29,11 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H589|I]] [[Lexicon/H7801-7900#H7838|am dark ,]] [[Lexicon/H4901-5000#H5000|yet lovely ,]] [[Lexicon/H1301-1400#H1323|O daughters]] [[Lexicon/H3301-3400#H3389|of Jerusalem ,]] [[Lexicon/H101-200#H168|like the tents]] [[Lexicon/H6901-7000#H6938|of Kedar ,]] [[Lexicon/H3401-3500#H3407|like the curtains]] [[Lexicon/H8001-8100#H8010|of Solomon.]]
 
 ##### Song of Solomon 1 - 6
+<<<<<<< HEAD
 [[Lexicon/H401-500#H408|Do not]] [[Lexicon/H7101-7200#H7200|stare]] [[Lexicon/H501-600#H589|because I]] [[Lexicon/H7801-7900#H7840|am dark ,]] [[Lexicon/H8101-8200#H8121|for the sun]] [[Lexicon/H7801-7900#H7805|has gazed upon me.]] [[Lexicon/H501-600#H517|My mother’s]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H2701-2800#H2734|were angry]] [[Lexicon/H7701-7800#H7760|they made me]] [[Lexicon/H5201-5300#H5201|a keeper]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3701-3800#H3754|of the vineyards ,]] [[Lexicon/H3701-3800#H3754|[but] my own vineyard]] [[Lexicon/H3801-3900#H3808|I have neglected]] [[Lexicon/H5201-5300#H5201|....]]
+=======
+[[Lexicon/H401-500#H408|Do not]] [[Lexicon/H7101-7200#H7200|stare]] [[Lexicon/H501-600#H589|because I]] [[Lexicon/H7801-7900#H7840|am dark ,]] [[Lexicon/H8101-8200#H8121|for the sun]] [[Lexicon/H7801-7900#H7805|has gazed upon me.]] [[Lexicon/H501-600#H517|My mother’s]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H2701-2800#H2734|were angry]] [[Lexicon/H7701-7800#H7760|they made me]] [[Lexicon/H5201-5300#H5201|a keeper]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3701-3800#H3754|of the vineyards ,]] [[Lexicon/H3701-3800#H3754|(but) my own vineyard]] [[Lexicon/H3801-3900#H3808|I have neglected]] [[Lexicon/H5201-5300#H5201|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Song of Solomon 1 - 7
 [[Lexicon/H5001-5100#H5046|Tell me ,]] [[Lexicon/H5301-5400#H5315|I]] [[Lexicon/H101-200#H157|love ,]] [[Lexicon/H301-400#H349|where]] [[Lexicon/H7401-7500#H7462|do you pasture your sheep ?]] [[Lexicon/H301-400#H349|Where]] [[Lexicon/H7201-7300#H7257|do you rest them]] [[Lexicon/H6601-6700#H6672|at midday ?]] [[Lexicon/H4001-4100#H4100|Why]] [[Lexicon/H1901-2000#H1961|should I be]] [[Lexicon/H5801-5900#H5844|like a veiled woman]] [[Lexicon/H5901-6000#H5921|beside]] [[Lexicon/H5701-5800#H5739|the flocks]] [[Lexicon/H2201-2300#H2270|of your companions ?]]
@@ -37,10 +45,17 @@ cssClasses: lexicon
 [[Lexicon/H1801-1900#H1819|I compare you ,]] [[Lexicon/H7401-7500#H7474|my darling ,]] [[Lexicon/H5401-5500#H5484|to a mare]] [[Lexicon/H6501-6600#H6547|among Pharaoh’s]] [[Lexicon/H7301-7400#H7393|chariots.]]
 
 ##### Song of Solomon 1 - 10
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3895|Your cheeks]] [[Lexicon/H4901-5000#H4998|are beautiful]] [[Lexicon/H8401-8500#H8447|with ornaments ,]] [[Lexicon/H6601-6700#H6677|your neck]] [[Lexicon/H2701-2800#H2737|with strings [of jewels].]]
 
 ##### Song of Solomon 1 - 11
 [[Lexicon/H6201-6300#H6213|We will make]] [[Lexicon/H8401-8500#H8447|ornaments]] [[Lexicon/H2001-2100#H2091|of gold ,]] [[Lexicon/H5901-6000#H5973|[studded] with]] [[Lexicon/H5301-5400#H5351|beads]] [[Lexicon/H3701-3800#H3701|of silver.]]
+=======
+[[Lexicon/H3801-3900#H3895|Your cheeks]] [[Lexicon/H4901-5000#H4998|are beautiful]] [[Lexicon/H8401-8500#H8447|with ornaments ,]] [[Lexicon/H6601-6700#H6677|your neck]] [[Lexicon/H2701-2800#H2737|with strings (of jewels).]]
+
+##### Song of Solomon 1 - 11
+[[Lexicon/H6201-6300#H6213|We will make]] [[Lexicon/H8401-8500#H8447|ornaments]] [[Lexicon/H2001-2100#H2091|of gold ,]] [[Lexicon/H5901-6000#H5973|(studded) with]] [[Lexicon/H5301-5400#H5351|beads]] [[Lexicon/H3701-3800#H3701|of silver.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Song of Solomon 1 - 12
 [[Lexicon/H5701-5800#H5704|While]] [[Lexicon/H4401-4500#H4428|the king]] [[Lexicon/H4501-4600#H4524|was at his table ,]] [[Lexicon/H5301-5400#H5373|my perfume]] [[Lexicon/H5401-5500#H5414|spread]] [[Lexicon/H7301-7400#H7381|its fragrance.]]
@@ -52,6 +67,7 @@ cssClasses: lexicon
 [[Lexicon/H1701-1800#H1730|My beloved]] [[Lexicon/H801-900#H811|a cluster]] [[Lexicon/H3701-3800#H3724|of henna blossoms]] [[Lexicon/H3701-3800#H3754|in the vineyards]] [[Lexicon/H5801-5900#H5872|vvv]] [[Lexicon/H5801-5900#H5872|of En-gedi.]]
 
 ##### Song of Solomon 1 - 15
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2005|How]] [[Lexicon/H3301-3400#H3303|beautiful [you are] ,]] [[Lexicon/H7401-7500#H7474|my darling !]] [[Lexicon/H2001-2100#H2005|Oh, how very]] [[Lexicon/H3301-3400#H3303|beautiful !]] [[Lexicon/H5801-5900#H5869|Your eyes]] [[Lexicon/H3101-3200#H3123|are [like] doves.]]
 
 ##### Song of Solomon 1 - 16
@@ -59,6 +75,15 @@ cssClasses: lexicon
 
 ##### Song of Solomon 1 - 17
 [[Lexicon/H6901-7000#H6982|The beams]] [[Lexicon/H1001-1100#H1004|of our house]] [[Lexicon/H701-800#H730|are cedars ;]] [[Lexicon/H7301-7400#H7351|our rafters]] [[Lexicon/H1201-1300#H1266|[are fragrant] firs.]]
+=======
+[[Lexicon/H2001-2100#H2005|How]] [[Lexicon/H3301-3400#H3303|beautiful (you are) ,]] [[Lexicon/H7401-7500#H7474|my darling !]] [[Lexicon/H2001-2100#H2005|Oh, how very]] [[Lexicon/H3301-3400#H3303|beautiful !]] [[Lexicon/H5801-5900#H5869|Your eyes]] [[Lexicon/H3101-3200#H3123|are (like) doves.]]
+
+##### Song of Solomon 1 - 16
+[[Lexicon/H2001-2100#H2005|How]] [[Lexicon/H3301-3400#H3303|handsome (you are) ,]] [[Lexicon/H1701-1800#H1730|my beloved !]] [[Lexicon/H601-700#H637|Oh, how]] [[Lexicon/H5201-5300#H5273|delightful !]] [[Lexicon/H601-700#H637|...]] [[Lexicon/H7401-7500#H7488|The soft grass]] [[Lexicon/H6201-6300#H6210|(is) our bed.]]
+
+##### Song of Solomon 1 - 17
+[[Lexicon/H6901-7000#H6982|The beams]] [[Lexicon/H1001-1100#H1004|of our house]] [[Lexicon/H701-800#H730|are cedars ;]] [[Lexicon/H7301-7400#H7351|our rafters]] [[Lexicon/H1201-1300#H1266|(are fragrant) firs.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 [[Song of Solomon 1 - 8|8]] If you do not know, O fairest of women, follow the tracks of the flock, and graze your young goats near the tents of the shepherds.
 
 [[Song of Solomon 1 - 9|9]] I compare you, my darling, to a mare among Pharaoh’s chariots.

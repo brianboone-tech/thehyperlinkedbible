@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Exodus-R 23
 
 **[[Home/Scripture/02 - Exodus|Exodus]]**
 
 [[Readable Bible/02 - Exodus/Exodus 22#Exodus-R 22| Exodus 22]] - [[Readable Bible/02 - Exodus/Exodus 24#Exodus-R 24| Exodus 24]]
+=======
+# Exodus 23
+
+[[Readable Bible/02 - Exodus/Exodus 22|← Exodus 22]] | [[Readable Bible/02 - Exodus/Exodus 24|Exodus 24 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

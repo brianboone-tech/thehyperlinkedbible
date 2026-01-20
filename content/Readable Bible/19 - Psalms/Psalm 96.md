@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 96
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 95#Psalm-R 95| Psalm 95]] - [[Readable Bible/19 - Psalms/Psalm 97#Psalm-R 97| Psalm 97]]
+=======
+# Psalm 96
+
+[[Readable Bible/19 - Psalms/Psalm 95|← Psalm 95]] | [[Readable Bible/19 - Psalms/Psalm 97|Psalm 97 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

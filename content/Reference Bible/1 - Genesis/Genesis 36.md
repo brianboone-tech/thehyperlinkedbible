@@ -29,11 +29,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 4|LXX]] |
 
 ##### Genesis 36 - 5
+<<<<<<< HEAD
 [[Reference Bible/1 - Genesis/Genesis 36#Genesis 36 - 5|5]] [[Lexicon/H101-200#H173|and Oholibamah]] [[Lexicon/H3201-3300#H3205|gave birth to]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3274|Jeush ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3281|Jalam ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7141|and Korah.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H1101-1200#H1121|[were] the sons]] [[Lexicon/H6201-6300#H6215|of Esau ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3201-3300#H3205|were born]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3667|of Canaan.]] | [[Chiasm - 01 - Genesis 36 . 1 - 9|Chiasm]] |
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 5|LXX]] |
 
 ##### Genesis 36 - 6
 [[Reference Bible/1 - Genesis/Genesis 36#Genesis 36 - 6|6]] [[Lexicon/H6201-6300#H6215|Later, Esau]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|took]] [[Lexicon/H801-900#H802|his wives]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H1301-1400#H1323|daughters]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5301-5400#H5315|the people]] [[Lexicon/H1001-1100#H1004|of his household ,]] [[Lexicon/H801-900#H853|along with]] [[Lexicon/H4701-4800#H4735|his livestock ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H901-1000#H929|his [other] animals ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H7001-7100#H7075|the property]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7401-7500#H7408|he had acquired]] [[Lexicon/H3601-3700#H3667|in Canaan ,]] [[Lexicon/H1901-2000#H1980|and he moved]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H701-800#H776|a land]] [[Lexicon/H6401-6500#H6440|far away from]] [[Lexicon/H201-300#H251|his brother]] [[Lexicon/H3201-3300#H3290|Jacob.]] | [[Chiasm - 01 - Genesis 36 . 1 - 9|Chiasm]] |
+=======
+[[Reference Bible/1 - Genesis/Genesis 36#Genesis 36 - 5|5]] [[Lexicon/H101-200#H173|and Oholibamah]] [[Lexicon/H3201-3300#H3205|gave birth to]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3274|Jeush ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3281|Jalam ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7101-7200#H7141|and Korah.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H1101-1200#H1121|(were) the sons]] [[Lexicon/H6201-6300#H6215|of Esau ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H3201-3300#H3205|were born]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H3601-3700#H3667|of Canaan.]] | [[Chiasm - 01 - Genesis 36 . 1 - 9|Chiasm]] |
+| [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 5|LXX]] |
+
+##### Genesis 36 - 6
+[[Reference Bible/1 - Genesis/Genesis 36#Genesis 36 - 6|6]] [[Lexicon/H6201-6300#H6215|Later, Esau]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|took]] [[Lexicon/H801-900#H802|his wives]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H1301-1400#H1323|daughters]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5301-5400#H5315|the people]] [[Lexicon/H1001-1100#H1004|of his household ,]] [[Lexicon/H801-900#H853|along with]] [[Lexicon/H4701-4800#H4735|his livestock ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H901-1000#H929|his (other) animals ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H7001-7100#H7075|the property]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7401-7500#H7408|he had acquired]] [[Lexicon/H3601-3700#H3667|in Canaan ,]] [[Lexicon/H1901-2000#H1980|and he moved]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H701-800#H776|a land]] [[Lexicon/H6401-6500#H6440|far away from]] [[Lexicon/H201-300#H251|his brother]] [[Lexicon/H3201-3300#H3290|Jacob.]] | [[Chiasm - 01 - Genesis 36 . 1 - 9|Chiasm]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 6|LXX]] |
 
 ##### Genesis 36 - 7
@@ -41,11 +49,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 7|LXX]] |
 
 ##### Genesis 36 - 8
+<<<<<<< HEAD
 [[Reference Bible/1 - Genesis/Genesis 36#Genesis 36 - 8|8]] [[Lexicon/H6201-6300#H6215|So Esau]] [[Lexicon/H6201-6300#H6215|...]] [[Lexicon/H1901-2000#H1931|(that is ,]] [[Lexicon/H101-200#H123|Edom )]] [[Lexicon/H3401-3500#H3427|settled]] [[Lexicon/H2001-2100#H2022|in [the area of] Mount]] [[Lexicon/H8101-8200#H8165|Seir.]] | [[Chiasm - 01 - Genesis 36 . 1 - 9|Chiasm]] |
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 8|LXX]] |
 
 ##### Genesis 36 - 9
 [[Reference Bible/1 - Genesis/Genesis 36#Genesis 36 - 9|9]] [[Lexicon/H401-500#H428|This]] [[Lexicon/H8401-8500#H8435|is the account]] [[Lexicon/H6201-6300#H6215|of Esau ,]] [[Lexicon/H1-100#H1|the father]] [[Lexicon/H101-200#H123|of the Edomites ,]] [[Lexicon/H2001-2100#H2022|in [the area of] Mount]] [[Lexicon/H8101-8200#H8165|Seir.]] | [[Chiasm - 01 - Genesis 36 . 1 - 9|Chiasm]] |
+=======
+[[Reference Bible/1 - Genesis/Genesis 36#Genesis 36 - 8|8]] [[Lexicon/H6201-6300#H6215|So Esau]] [[Lexicon/H6201-6300#H6215|...]] [[Lexicon/H1901-2000#H1931|(that is ,]] [[Lexicon/H101-200#H123|Edom )]] [[Lexicon/H3401-3500#H3427|settled]] [[Lexicon/H2001-2100#H2022|in (the area of) Mount]] [[Lexicon/H8101-8200#H8165|Seir.]] | [[Chiasm - 01 - Genesis 36 . 1 - 9|Chiasm]] |
+| [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 8|LXX]] |
+
+##### Genesis 36 - 9
+[[Reference Bible/1 - Genesis/Genesis 36#Genesis 36 - 9|9]] [[Lexicon/H401-500#H428|This]] [[Lexicon/H8401-8500#H8435|is the account]] [[Lexicon/H6201-6300#H6215|of Esau ,]] [[Lexicon/H1-100#H1|the father]] [[Lexicon/H101-200#H123|of the Edomites ,]] [[Lexicon/H2001-2100#H2022|in (the area of) Mount]] [[Lexicon/H8101-8200#H8165|Seir.]] | [[Chiasm - 01 - Genesis 36 . 1 - 9|Chiasm]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 9|LXX]] |
 
 ##### Genesis 36 - 10
@@ -61,7 +77,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 12|LXX]] |
 
 ##### Genesis 36 - 13
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|These [are]]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H7401-7500#H7467|of Reuel :]] [[Lexicon/H5101-5200#H5184|Nahath ,]] [[Lexicon/H2201-2300#H2226|Zerah ,]] [[Lexicon/H8001-8100#H8048|Shammah ,]] [[Lexicon/H4101-4200#H4199|and Mizzah.]] [[Lexicon/H401-500#H428|They]] [[Lexicon/H1901-2000#H1961|are]] [[Lexicon/H1101-1200#H1121|the grandsons]] [[Lexicon/H6201-6300#H6215|of Esau’s]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H1301-1400#H1315|Basemath.]]
+=======
+[[Lexicon/H401-500#H428|These (are)]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H7401-7500#H7467|of Reuel :]] [[Lexicon/H5101-5200#H5184|Nahath ,]] [[Lexicon/H2201-2300#H2226|Zerah ,]] [[Lexicon/H8001-8100#H8048|Shammah ,]] [[Lexicon/H4101-4200#H4199|and Mizzah.]] [[Lexicon/H401-500#H428|They]] [[Lexicon/H1901-2000#H1961|are]] [[Lexicon/H1101-1200#H1121|the grandsons]] [[Lexicon/H6201-6300#H6215|of Esau’s]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H1301-1400#H1315|Basemath.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 13|LXX]] |
 
 ##### Genesis 36 - 14
@@ -73,11 +93,19 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 15|LXX]] |
 
 ##### Genesis 36 - 16
+<<<<<<< HEAD
 [[Lexicon/H401-500#H441|-]] [[Lexicon/H7101-7200#H7141|Korah ,]] [[Lexicon/H401-500#H441|-]] [[Lexicon/H1601-1700#H1609|Gatam ,]] [[Lexicon/H401-500#H441|-]] [[Lexicon/H6001-6100#H6002|and Amalek.]] [[Lexicon/H401-500#H428|They]] [[Lexicon/H401-500#H441|are the chiefs]] [[Lexicon/H401-500#H464|of Eliphaz]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H101-200#H123|of Edom ,]] [[Lexicon/H401-500#H428|[and] they]] [[Lexicon/H1101-1200#H1121|are the grandsons]] [[Lexicon/H5701-5800#H5711|of Adah.]]
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 16|LXX]] |
 
 ##### Genesis 36 - 17
 [[Lexicon/H401-500#H428|These]] [[Lexicon/H1101-1200#H1121|are the sons]] [[Lexicon/H6201-6300#H6215|of Esau’s]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H7401-7500#H7467|Reuel :]] [[Lexicon/H401-500#H441|Chiefs]] [[Lexicon/H5101-5200#H5184|Nahath ,]] [[Lexicon/H401-500#H441|-]] [[Lexicon/H2201-2300#H2226|Zerah ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H8001-8100#H8048|Shammah ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H4101-4200#H4199|and Mizzah.]] [[Lexicon/H401-500#H428|They]] [[Lexicon/H401-500#H441|are the chiefs]] [[Lexicon/H7401-7500#H7467|descended from Reuel]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H101-200#H123|of Edom ,]] [[Lexicon/H401-500#H428|[and] they]] [[Lexicon/H1101-1200#H1121|are the grandsons]] [[Lexicon/H6201-6300#H6215|of Esau’s]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H1301-1400#H1315|Basemath.]]
+=======
+[[Lexicon/H401-500#H441|-]] [[Lexicon/H7101-7200#H7141|Korah ,]] [[Lexicon/H401-500#H441|-]] [[Lexicon/H1601-1700#H1609|Gatam ,]] [[Lexicon/H401-500#H441|-]] [[Lexicon/H6001-6100#H6002|and Amalek.]] [[Lexicon/H401-500#H428|They]] [[Lexicon/H401-500#H441|are the chiefs]] [[Lexicon/H401-500#H464|of Eliphaz]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H101-200#H123|of Edom ,]] [[Lexicon/H401-500#H428|(and) they]] [[Lexicon/H1101-1200#H1121|are the grandsons]] [[Lexicon/H5701-5800#H5711|of Adah.]]
+| [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 16|LXX]] |
+
+##### Genesis 36 - 17
+[[Lexicon/H401-500#H428|These]] [[Lexicon/H1101-1200#H1121|are the sons]] [[Lexicon/H6201-6300#H6215|of Esau’s]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H7401-7500#H7467|Reuel :]] [[Lexicon/H401-500#H441|Chiefs]] [[Lexicon/H5101-5200#H5184|Nahath ,]] [[Lexicon/H401-500#H441|-]] [[Lexicon/H2201-2300#H2226|Zerah ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H8001-8100#H8048|Shammah ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H4101-4200#H4199|and Mizzah.]] [[Lexicon/H401-500#H428|They]] [[Lexicon/H401-500#H441|are the chiefs]] [[Lexicon/H7401-7500#H7467|descended from Reuel]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H101-200#H123|of Edom ,]] [[Lexicon/H401-500#H428|(and) they]] [[Lexicon/H1101-1200#H1121|are the grandsons]] [[Lexicon/H6201-6300#H6215|of Esau’s]] [[Lexicon/H801-900#H802|wife]] [[Lexicon/H1301-1400#H1315|Basemath.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 17|LXX]] |
 
 ##### Genesis 36 - 18
@@ -105,7 +133,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 23|LXX]] |
 
 ##### Genesis 36 - 24
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|These]] [[Lexicon/H1101-1200#H1121|are the sons]] [[Lexicon/H6601-6700#H6649|of Zibeon :]] [[Lexicon/H301-400#H345|Aiah]] [[Lexicon/H6001-6100#H6034|and Anah.]] [[Lexicon/H1901-2000#H1931|( This [is]]] [[Lexicon/H6001-6100#H6034|[the] Anah]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4601-4700#H4672|found]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3222|the hot springs]] [[Lexicon/H4001-4100#H4057|in the wilderness]] [[Lexicon/H7401-7500#H7462|as he was pasturing]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2501-2600#H2543|the donkeys]] [[Lexicon/H1-100#H1|of his father]] [[Lexicon/H6601-6700#H6649|Zibeon. )]]
+=======
+[[Lexicon/H401-500#H428|These]] [[Lexicon/H1101-1200#H1121|are the sons]] [[Lexicon/H6601-6700#H6649|of Zibeon :]] [[Lexicon/H301-400#H345|Aiah]] [[Lexicon/H6001-6100#H6034|and Anah.]] [[Lexicon/H1901-2000#H1931|( This (is)]] [[Lexicon/H6001-6100#H6034|(the) Anah]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H4601-4700#H4672|found]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3222|the hot springs]] [[Lexicon/H4001-4100#H4057|in the wilderness]] [[Lexicon/H7401-7500#H7462|as he was pasturing]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2501-2600#H2543|the donkeys]] [[Lexicon/H1-100#H1|of his father]] [[Lexicon/H6601-6700#H6649|Zibeon. )]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 24|LXX]] |
 
 ##### Genesis 36 - 25
@@ -181,5 +213,9 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 42|LXX]] |
 
 ##### Genesis 36 - 43
+<<<<<<< HEAD
 [[Lexicon/H401-500#H441|-]] [[Lexicon/H4001-4100#H4025|Magdiel ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H5901-6000#H5902|and Iram.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H401-500#H441|[were] the chiefs]] [[Lexicon/H101-200#H123|of Edom ,]] [[Lexicon/H4101-4200#H4186|according to their settlements]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H201-300#H272|they possessed.]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H1-100#H1|was the father]] [[Lexicon/H101-200#H123|of the Edomites.]]
+=======
+[[Lexicon/H401-500#H441|-]] [[Lexicon/H4001-4100#H4025|Magdiel ,]] [[Lexicon/H401-500#H441|...]] [[Lexicon/H5901-6000#H5902|and Iram.]] [[Lexicon/H401-500#H428|These]] [[Lexicon/H401-500#H441|(were) the chiefs]] [[Lexicon/H101-200#H123|of Edom ,]] [[Lexicon/H4101-4200#H4186|according to their settlements]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H201-300#H272|they possessed.]] [[Lexicon/H1901-2000#H1931|-]] [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H1-100#H1|was the father]] [[Lexicon/H101-200#H123|of the Edomites.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 36#Genesis 36 - 43|LXX]] |

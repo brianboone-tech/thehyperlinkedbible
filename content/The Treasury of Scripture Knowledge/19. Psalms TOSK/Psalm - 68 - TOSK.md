@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 68 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 67 - TOSK|← Ch 67]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 69 - TOSK|Ch 69 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 67 - TOSK|← Ch 67]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 69 - TOSK|Ch 69 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ecclesiastes-R 1
 
 **[[Home/Scripture/21 - Ecclesiastes|Ecclesiastes]]**
 
 [[Proverbs-R 31|←]] • [[Ecclesiastes-R 2|→]]
+=======
+# Ecclesiastes 1
+
+[[Readable Bible/20 - Proverbs/Proverbs 31|←]] | [[Readable Bible/21 - Ecclesiastes/Ecclesiastes 2|→]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

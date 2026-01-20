@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/04 - Numbers|← Numbers]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/04 - Numbers|← Numbers]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

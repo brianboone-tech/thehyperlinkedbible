@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 74
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 73#Psalm-R 73| Psalm 73]] - [[Readable Bible/19 - Psalms/Psalm 75#Psalm-R 75| Psalm 75]]
+=======
+# Psalm 74
+
+[[Readable Bible/19 - Psalms/Psalm 73|← Psalm 73]] | [[Readable Bible/19 - Psalms/Psalm 75|Psalm 75 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

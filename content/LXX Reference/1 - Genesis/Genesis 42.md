@@ -54,7 +54,11 @@ Testament: Old
 [[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G3701-3800#G3778|This]] [[Lexicon/G1501-1600#G1510|is it]] [[Lexicon/G3701-3800#G3739|that]] [[Lexicon/G2001-2100#G2046|I have said]] [[Lexicon/G1401-1500#G1473|to you,]] [[Lexicon/G3001-3100#G3004|saying]] [[Lexicon/G3701-3800#G3754|that,]] [[Lexicon/G2601-2700#G2685|You are spies.]]
 
 #### Genesis 42 - 15
+<<<<<<< HEAD
 [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G5301-5400#G5316|you shall appear exposed,]] [[Lexicon/G3501-3600#G3513|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5101-5200#G5198|health]] of Pharaoh, [[Lexicon/G3701-3800#G3766|no way]] [[Lexicon/G1801-1900#G1831|should you go forth]] [[Lexicon/G1701-1800#G1782|from here,]] [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G3301-3400#G3361|should not]] [[Lexicon/G2001-2100#G2064|come]] [[Lexicon/G5601-5700#G5602|here.]]
+=======
+[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G5301-5400#G5316|you shall appear exposed,]] [[Lexicon/G3501-3600#G3513|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5101-5200#G5198|health]] of Pharaoh, [[Lexicon/G3701-3800#G3766|no way]] [[Lexicon/G1801-1900#G1831|should you go forth]] [[Lexicon/G1701-1800#G1782|from here,]] [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G3301-3400#G3361|should not]] [[Lexicon/G2001-2100#G2064|come]] [[Lexicon/G5601-5624#G5602|here.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Genesis 42 - 16
 [[Lexicon/G601-700#G0649|You send]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2983|take]] [[Lexicon/G1-100#G0080|your brother!]] [[Lexicon/G1401-1500#G1473|But you]] [[Lexicon/G501-600#G0520|shall be taken away]] [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G5301-5400#G5318|apparent]] [[Lexicon/G1401-1500#G1487|if]] [[Lexicon/G201-300#G0226|you be truthful,]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G3701-3800#G3756|not.]] [[Lexicon/G1401-1500#G1490|But if not,]] [[Lexicon/G3501-3600#G3513|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5101-5200#G5198|health]] of Pharaoh, [[Lexicon/G2201-2300#G2229|assuredly]] [[Lexicon/G2601-2700#G2685|you are spies.]]
@@ -99,7 +103,11 @@ Testament: Old
 [[Lexicon/G2001-2100#G2064|And they came]] [[Lexicon/G4301-4400#G4314|to]] Jacob [[Lexicon/G3901-4000#G3962|their father]] [[Lexicon/G1501-1600#G1519|in]] of Canaan. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G501-600#G0518|they reported]] [[Lexicon/G1401-1500#G1473|to him]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the things]] [[Lexicon/G4801-4900#G4819|coming to pass]] [[Lexicon/G1401-1500#G1473|to them,]] [[Lexicon/G3001-3100#G3004|saying,]]
 
 #### Genesis 42 - 30
+<<<<<<< HEAD
 [[Lexicon/G2901-3000#G2980|spoke]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G4601-4700#G4642|hard,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5087|put]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5401-5500#G5438|prison]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2601-2700#G2684|spying out]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land.]]
+=======
+[[Lexicon/G2901-3000#G2980|spoke]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G4601-4700#G4642|hard,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5001-5100#G5087|put]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5401-5500#G5438|prison]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2601-2700#G2684|spying out]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Genesis 42 - 31
 [[Lexicon/G2001-2100#G2036|And we said]] [[Lexicon/G1401-1500#G1473|to him,]] [[Lexicon/G1501-1600#G1516|We are peaceable,]] [[Lexicon/G3701-3800#G3756|we are not]] [[Lexicon/G2601-2700#G2685|spies.]]
@@ -108,7 +116,11 @@ Testament: Old
 [[Lexicon/G1401-1500#G1427|Twelve]] [[Lexicon/G1-100#G0080|brothers]] [[Lexicon/G1501-1600#G1510|we are,]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G3901-4000#G3962|of our father;]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1501-1600#G1520|one]] [[Lexicon/G3701-3800#G3756|does not]] [[Lexicon/G5201-5300#G5224|exist,]] [[Lexicon/G3501-3600#G3588|and the]] [[Lexicon/G3301-3400#G3397|younger]] [[Lexicon/G3901-4000#G3962|our father]] [[Lexicon/G4501-4600#G4594|today]] [[Lexicon/G1701-1800#G1722|in]] of Canaan.
 
 #### Genesis 42 - 33
+<<<<<<< HEAD
 [[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G1701-1800#G1722|By]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G1001-1100#G1097|I will know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1501-1600#G1516|you are peaceable,]] [[Lexicon/G1-100#G0080|of your brothers]] [[Lexicon/G5601-5700#G5602|here]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|me!]] [[Lexicon/G3501-3600#G3588|and the]] [[Lexicon/G1-100#G0060|purchase]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4601-4700#G4619|provision]] [[Lexicon/G3601-3700#G3624|for your house]] [[Lexicon/G2901-3000#G2983|having taken,]] [[Lexicon/G501-600#G0565|you go forth!]]
+=======
+[[Lexicon/G2001-2100#G2036|said]] [[Lexicon/G1701-1800#G1722|By]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G1001-1100#G1097|I will know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1501-1600#G1516|you are peaceable,]] [[Lexicon/G1-100#G0080|of your brothers]] [[Lexicon/G5601-5624#G5602|here]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G1401-1500#G1473|me!]] [[Lexicon/G3501-3600#G3588|and the]] [[Lexicon/G1-100#G0060|purchase]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4601-4700#G4619|provision]] [[Lexicon/G3601-3700#G3624|for your house]] [[Lexicon/G2901-3000#G2983|having taken,]] [[Lexicon/G501-600#G0565|you go forth!]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Genesis 42 - 34
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1-100#G0071|you lead]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1-100#G0080|brother]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1097|I shall know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G201-300#G0235|but]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1501-1600#G1516|you are peaceable,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1-100#G0080|your brother]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|in the]]

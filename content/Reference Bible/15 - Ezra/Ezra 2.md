@@ -10,10 +10,17 @@ cssClasses: lexicon
 ---
 
 ##### Ezra 2 - 1
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|Now these [are]]] [[Lexicon/H1101-1200#H1121|the people]] [[Lexicon/H4001-4100#H4082|of the province]] [[Lexicon/H5901-6000#H5927|who came up]] [[Lexicon/H7601-7700#H7628|from the captivity]] [[Lexicon/H1401-1500#H1473|of the exiles]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1501-1600#H1540|carried away]] [[Lexicon/H801-900#H894|to Babylon]] [[Lexicon/H5001-5100#H5020|by Nebuchadnezzar]] [[Lexicon/H4401-4500#H4428|[its] king]] [[Lexicon/H801-900#H894|....]] [[Lexicon/H7701-7800#H7725|They returned]] [[Lexicon/H3301-3400#H3389|to Jerusalem]] [[Lexicon/H3001-3100#H3063|and Judah ,]] [[Lexicon/H301-400#H376|each]] [[Lexicon/H5801-5900#H5892|to his own town ,]]
 
 ##### Ezra 2 - 2
 [[Lexicon/H801-900#H834|-]] [[Lexicon/H901-1000#H935|accompanied]] [[Lexicon/H5901-6000#H5973|by]] [[Lexicon/H2201-2300#H2216|Zerubbabel ,]] [[Lexicon/H3401-3500#H3442|Jeshua ,]] [[Lexicon/H5101-5200#H5166|Nehemiah - ,]] [[Lexicon/H8301-8400#H8304|Seraiah ,]] [[Lexicon/H7401-7500#H7480|Reelaiah ,]] [[Lexicon/H4701-4800#H4782|Mordecai ,]] [[Lexicon/H1101-1200#H1114|Bilshan ,]] [[Lexicon/H4501-4600#H4558|Mispar ,]] [[Lexicon/H901-1000#H902|Bigvai ,]] [[Lexicon/H7301-7400#H7348|Rehum ,]] [[Lexicon/H1101-1200#H1196|and Baanah.]] [[Lexicon/H4501-4600#H4557|[This is] the count]] [[Lexicon/H501-600#H582|of the men]] [[Lexicon/H5901-6000#H5971|...]] [[Lexicon/H3401-3500#H3478|of Israel :]]
+=======
+[[Lexicon/H401-500#H428|Now these (are)]] [[Lexicon/H1101-1200#H1121|the people]] [[Lexicon/H4001-4100#H4082|of the province]] [[Lexicon/H5901-6000#H5927|who came up]] [[Lexicon/H7601-7700#H7628|from the captivity]] [[Lexicon/H1401-1500#H1473|of the exiles]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H1501-1600#H1540|carried away]] [[Lexicon/H801-900#H894|to Babylon]] [[Lexicon/H5001-5100#H5020|by Nebuchadnezzar]] [[Lexicon/H4401-4500#H4428|(its) king]] [[Lexicon/H801-900#H894|....]] [[Lexicon/H7701-7800#H7725|They returned]] [[Lexicon/H3301-3400#H3389|to Jerusalem]] [[Lexicon/H3001-3100#H3063|and Judah ,]] [[Lexicon/H301-400#H376|each]] [[Lexicon/H5801-5900#H5892|to his own town ,]]
+
+##### Ezra 2 - 2
+[[Lexicon/H801-900#H834|-]] [[Lexicon/H901-1000#H935|accompanied]] [[Lexicon/H5901-6000#H5973|by]] [[Lexicon/H2201-2300#H2216|Zerubbabel ,]] [[Lexicon/H3401-3500#H3442|Jeshua ,]] [[Lexicon/H5101-5200#H5166|Nehemiah - ,]] [[Lexicon/H8301-8400#H8304|Seraiah ,]] [[Lexicon/H7401-7500#H7480|Reelaiah ,]] [[Lexicon/H4701-4800#H4782|Mordecai ,]] [[Lexicon/H1101-1200#H1114|Bilshan ,]] [[Lexicon/H4501-4600#H4558|Mispar ,]] [[Lexicon/H901-1000#H902|Bigvai ,]] [[Lexicon/H7301-7400#H7348|Rehum ,]] [[Lexicon/H1101-1200#H1196|and Baanah.]] [[Lexicon/H4501-4600#H4557|(This is) the count]] [[Lexicon/H501-600#H582|of the men]] [[Lexicon/H5901-6000#H5971|...]] [[Lexicon/H3401-3500#H3478|of Israel :]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezra 2 - 3
 [[Lexicon/H1101-1200#H1121|the descendants]] [[Lexicon/H6501-6600#H6551|of Parosh ,]] [[Lexicon/H501-600#H505|2172]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H7601-7700#H7657|...]] [[Lexicon/H8101-8200#H8147|... ;]]
@@ -181,25 +188,41 @@ cssClasses: lexicon
 [[Lexicon/H1101-1200#H1121|the descendants]] [[Lexicon/H8201-8300#H8203|of Shephatiah ,]] [[Lexicon/H1101-1200#H1121|the descendants]] [[Lexicon/H2401-2500#H2411|of Hattil ,]] [[Lexicon/H1101-1200#H1121|the descendants]] [[Lexicon/H6301-6400#H6380|vvv]] [[Lexicon/H6301-6400#H6380|of Pochereth-hazzebaim ,]] [[Lexicon/H1101-1200#H1121|and the descendants]] [[Lexicon/H501-600#H532|of Ami.]]
 
 ##### Ezra 2 - 58
+<<<<<<< HEAD
 [[Lexicon/H5401-5500#H5411|The temple servants]] [[Lexicon/H1101-1200#H1121|and descendants]] [[Lexicon/H5601-5700#H5650|of the servants]] [[Lexicon/H8001-8100#H8010|of Solomon]] [[Lexicon/H7901-8000#H7969|[numbered] 392]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H8601-8674#H8673|...]] [[Lexicon/H8101-8200#H8147|...]] [[Lexicon/H3601-3700#H3605|in all.]]
+=======
+[[Lexicon/H5401-5500#H5411|The temple servants]] [[Lexicon/H1101-1200#H1121|and descendants]] [[Lexicon/H5601-5700#H5650|of the servants]] [[Lexicon/H8001-8100#H8010|of Solomon]] [[Lexicon/H7901-8000#H7969|(numbered) 392]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H8601-8674#H8673|...]] [[Lexicon/H8101-8200#H8147|...]] [[Lexicon/H3601-3700#H3605|in all.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezra 2 - 59
 [[Lexicon/H401-500#H428|The following]] [[Lexicon/H5901-6000#H5927|came up]] [[Lexicon/H8501-8600#H8528|vvv]] [[Lexicon/H8501-8600#H8528|from Tel-melah ,]] [[Lexicon/H8501-8600#H8521|vvv]] [[Lexicon/H8501-8600#H8521|Tel-harsha ,]] [[Lexicon/H3701-3800#H3743|Cherub ,]] [[Lexicon/H101-200#H135|Addan ,]] [[Lexicon/H501-600#H564|and Immer ,]] [[Lexicon/H3801-3900#H3808|but could not]] [[Lexicon/H3201-3300#H3201|...]] [[Lexicon/H5001-5100#H5046|prove]] [[Lexicon/H1001-1100#H1004|that their families]] [[Lexicon/H1-100#H1|...]] [[Lexicon/H2201-2300#H2233|were descended]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H3401-3500#H3478|from Israel]] [[Lexicon/H1901-2000#H1992|... :]]
 
 ##### Ezra 2 - 60
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|the descendants]] [[Lexicon/H1801-1900#H1806|of Delaiah ,]] [[Lexicon/H1101-1200#H1121|the descendants]] [[Lexicon/H2801-2900#H2900|of Tobiah ,]] [[Lexicon/H1101-1200#H1121|and the descendants]] [[Lexicon/H5301-5400#H5353|of Nekoda ,]] [[Lexicon/H8301-8400#H8337|652 [in all]]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H2501-2600#H2572|...]] [[Lexicon/H8101-8200#H8147|....]]
+=======
+[[Lexicon/H1101-1200#H1121|the descendants]] [[Lexicon/H1801-1900#H1806|of Delaiah ,]] [[Lexicon/H1101-1200#H1121|the descendants]] [[Lexicon/H2801-2900#H2900|of Tobiah ,]] [[Lexicon/H1101-1200#H1121|and the descendants]] [[Lexicon/H5301-5400#H5353|of Nekoda ,]] [[Lexicon/H8301-8400#H8337|652 (in all)]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H2501-2600#H2572|...]] [[Lexicon/H8101-8200#H8147|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezra 2 - 61
 [[Lexicon/H1101-1200#H1121|And from]] [[Lexicon/H3501-3600#H3548|among the priests :]] [[Lexicon/H1101-1200#H1121|the descendants]] [[Lexicon/H2201-2300#H2252|of Hobaiah ,]] [[Lexicon/H1101-1200#H1121|the descendants]] [[Lexicon/H6901-7000#H6976|of Hakkoz ,]] [[Lexicon/H1101-1200#H1121|and the descendants]] [[Lexicon/H1201-1300#H1271|of Barzillai]] [[Lexicon/H801-900#H834|( who]] [[Lexicon/H3901-4000#H3947|had married]] [[Lexicon/H801-900#H802|...]] [[Lexicon/H1301-1400#H1323|a daughter]] [[Lexicon/H1201-1300#H1271|of Barzillai]] [[Lexicon/H1501-1600#H1569|the Gileadite]] [[Lexicon/H7101-7200#H7121|and was called]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H8001-8100#H8034|their name ).]]
 
 ##### Ezra 2 - 62
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|These [men]]] [[Lexicon/H1201-1300#H1245|searched for]] [[Lexicon/H3701-3800#H3791|their family records]] [[Lexicon/H3101-3200#H3187|... ,]] [[Lexicon/H3801-3900#H3808|but they could not]] [[Lexicon/H4601-4700#H4672|find them]] [[Lexicon/H1301-1400#H1351|and so were excluded]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H3501-3600#H3550|the priesthood {as unclean}.]]
+=======
+[[Lexicon/H401-500#H428|These (men)]] [[Lexicon/H1201-1300#H1245|searched for]] [[Lexicon/H3701-3800#H3791|their family records]] [[Lexicon/H3101-3200#H3187|... ,]] [[Lexicon/H3801-3900#H3808|but they could not]] [[Lexicon/H4601-4700#H4672|find them]] [[Lexicon/H1301-1400#H1351|and so were excluded]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H3501-3600#H3550|the priesthood {as unclean}.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezra 2 - 63
 [[Lexicon/H8601-8674#H8660|The governor]] [[Lexicon/H501-600#H559|ordered]] [[Lexicon/H801-900#H834|]] [[Lexicon/H3801-3900#H3808|not]] [[Lexicon/H301-400#H398|to eat]] [[Lexicon/H6901-7000#H6944|the most holy things]] [[Lexicon/H6901-7000#H6944|...]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H5901-6000#H5975|...]] [[Lexicon/H3501-3600#H3548|there was a priest]] [[Lexicon/H201-300#H224|to consult the Urim]] [[Lexicon/H8501-8600#H8550|and Thummim.]]
 
 ##### Ezra 2 - 64
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|The whole]] [[Lexicon/H6901-7000#H6951|assembly]] [[Lexicon/H201-300#H259|[numbered]]] [[Lexicon/H701-800#H702|42,360 {}]] [[Lexicon/H7201-7300#H7239|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7901-8000#H7969|...]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H8301-8400#H8346|... ,]]
+=======
+[[Lexicon/H3601-3700#H3605|The whole]] [[Lexicon/H6901-7000#H6951|assembly]] [[Lexicon/H201-300#H259|(numbered)]] [[Lexicon/H701-800#H702|42,360 {}]] [[Lexicon/H7201-7300#H7239|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7901-8000#H7969|...]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H8301-8400#H8346|... ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezra 2 - 65
 [[Lexicon/H901-1000#H905|in addition to]] [[Lexicon/H401-500#H428|...]] [[Lexicon/H7601-7700#H7651|their 7,337]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7901-8000#H7969|...]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H7901-8000#H7970|...]] [[Lexicon/H7601-7700#H7651|...]] [[Lexicon/H5601-5700#H5650|menservants]] [[Lexicon/H501-600#H519|and maidservants ,]] [[Lexicon/H3901-4000#H3967|as well as their 200]] [[Lexicon/H7801-7900#H7891|male]] [[Lexicon/H7801-7900#H7891|and female singers.]]
@@ -211,10 +234,18 @@ cssClasses: lexicon
 [[Lexicon/H701-800#H702|435]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H7901-8000#H7970|...]] [[Lexicon/H2501-2600#H2568|...]] [[Lexicon/H1501-1600#H1581|camels ,]] [[Lexicon/H8301-8400#H8337|and 6,720]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H7601-7700#H7651|...]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H6201-6300#H6242|...]] [[Lexicon/H2501-2600#H2543|donkeys.]]
 
 ##### Ezra 2 - 68
+<<<<<<< HEAD
 [[Lexicon/H901-1000#H935|When they arrived]] [[Lexicon/H1001-1100#H1004|at the house]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3301-3400#H3389|in Jerusalem ,]] [[Lexicon/H7201-7300#H7218|[some] of the heads]] [[Lexicon/H1-100#H1|of the families]] [[Lexicon/H5001-5100#H5068|gave freewill offerings]] [[Lexicon/H5901-6000#H5975|to rebuild]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H401-500#H430|of God]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H4301-4400#H4349|its original site.]]
+=======
+[[Lexicon/H901-1000#H935|When they arrived]] [[Lexicon/H1001-1100#H1004|at the house]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3301-3400#H3389|in Jerusalem ,]] [[Lexicon/H7201-7300#H7218|(some) of the heads]] [[Lexicon/H1-100#H1|of the families]] [[Lexicon/H5001-5100#H5068|gave freewill offerings]] [[Lexicon/H5901-6000#H5975|to rebuild]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H401-500#H430|of God]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H4301-4400#H4349|its original site.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Ezra 2 - 69
 [[Lexicon/H3501-3600#H3581|According to their ability ,]] [[Lexicon/H5401-5500#H5414|they gave]] [[Lexicon/H201-300#H214|to the treasury]] [[Lexicon/H4301-4400#H4399|for this work]] [[Lexicon/H8301-8400#H8337|61,000 {}]] [[Lexicon/H7201-7300#H7239|...]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H1801-1900#H1871|darics]] [[Lexicon/H2001-2100#H2091|of gold ,]] [[Lexicon/H2501-2600#H2568|5,000 {}]] [[Lexicon/H501-600#H505|...]] [[Lexicon/H4401-4500#H4488|minas]] [[Lexicon/H3701-3800#H3701|of silver ,]] [[Lexicon/H3901-4000#H3967|and 100]] [[Lexicon/H3501-3600#H3548|priestly]] [[Lexicon/H3801-3900#H3801|garments.]]
 
 ##### Ezra 2 - 70
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3548|So the priests ,]] [[Lexicon/H3801-3900#H3881|the Levites ,]] [[Lexicon/H7801-7900#H7891|the singers ,]] [[Lexicon/H7701-7800#H7778|the gatekeepers ,]] [[Lexicon/H5401-5500#H5411|and the temple servants ,]] [[Lexicon/H4401-4500#H4480|along with some]] [[Lexicon/H5901-6000#H5971|of the people ,]] [[Lexicon/H3401-3500#H3427|settled]] [[Lexicon/H5801-5900#H5892|in their own towns ;]] [[Lexicon/H3601-3700#H3605|and the rest]] [[Lexicon/H3401-3500#H3478|of the Israelites]] [[Lexicon/H5801-5900#H5892|settled [in their towns].]]
+=======
+[[Lexicon/H3501-3600#H3548|So the priests ,]] [[Lexicon/H3801-3900#H3881|the Levites ,]] [[Lexicon/H7801-7900#H7891|the singers ,]] [[Lexicon/H7701-7800#H7778|the gatekeepers ,]] [[Lexicon/H5401-5500#H5411|and the temple servants ,]] [[Lexicon/H4401-4500#H4480|along with some]] [[Lexicon/H5901-6000#H5971|of the people ,]] [[Lexicon/H3401-3500#H3427|settled]] [[Lexicon/H5801-5900#H5892|in their own towns ;]] [[Lexicon/H3601-3700#H3605|and the rest]] [[Lexicon/H3401-3500#H3478|of the Israelites]] [[Lexicon/H5801-5900#H5892|settled (in their towns).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)

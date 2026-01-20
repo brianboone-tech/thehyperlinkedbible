@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Exodus 19 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 20 - TOSK|Ch 20 →]]
+=======
+**[[Home/Indexes/Readable Bible/02 - Exodus|← Exodus]]** | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/02. Exodus TOSK/Exodus - 20 - TOSK|Ch 20 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

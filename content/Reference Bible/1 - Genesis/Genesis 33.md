@@ -21,7 +21,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 33#Genesis 33 - 2|LXX]] |
 
 ##### Genesis 33 - 3
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1931|But [Jacob] himself]] [[Lexicon/H5601-5700#H5674|went on]] [[Lexicon/H6401-6500#H6440|ahead]] [[Lexicon/H7801-7900#H7812|and bowed]] [[Lexicon/H701-800#H776|to the ground]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H6401-6500#H6471|times]] [[Lexicon/H5701-5800#H5704|as]] [[Lexicon/H5001-5100#H5066|he approached]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H201-300#H251|his brother.]]
+=======
+[[Lexicon/H1901-2000#H1931|But (Jacob) himself]] [[Lexicon/H5601-5700#H5674|went on]] [[Lexicon/H6401-6500#H6440|ahead]] [[Lexicon/H7801-7900#H7812|and bowed]] [[Lexicon/H701-800#H776|to the ground]] [[Lexicon/H7601-7700#H7651|seven]] [[Lexicon/H6401-6500#H6471|times]] [[Lexicon/H5701-5800#H5704|as]] [[Lexicon/H5001-5100#H5066|he approached]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H201-300#H251|his brother.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 33#Genesis 33 - 3|LXX]] |
 
 ##### Genesis 33 - 4
@@ -29,7 +33,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 33#Genesis 33 - 4|LXX]] |
 
 ##### Genesis 33 - 5
+<<<<<<< HEAD
 [[Lexicon/H5301-5400#H5375|When Esau looked up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5869|-]] [[Lexicon/H7101-7200#H7200|and saw]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H802|the women]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3206|and children ,]] [[Lexicon/H501-600#H559|he asked ,]] [[Lexicon/H4301-4400#H4310|“ Who]] [[Lexicon/H401-500#H428|are these]] [[Lexicon/H501-600#H559|[Jacob] answered ,]] [[Lexicon/H3201-3300#H3206|“ [These are] the children]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2601-2700#H2603|has graciously given]] [[Lexicon/H5601-5700#H5650|your servant. ”]]
+=======
+[[Lexicon/H5301-5400#H5375|When Esau looked up]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5801-5900#H5869|-]] [[Lexicon/H7101-7200#H7200|and saw]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H802|the women]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3201-3300#H3206|and children ,]] [[Lexicon/H501-600#H559|he asked ,]] [[Lexicon/H4301-4400#H4310|“ Who]] [[Lexicon/H401-500#H428|are these]] [[Lexicon/H501-600#H559|(Jacob) answered ,]] [[Lexicon/H3201-3300#H3206|“ (These are) the children]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2601-2700#H2603|has graciously given]] [[Lexicon/H5601-5700#H5650|your servant. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 33#Genesis 33 - 5|LXX]] |
 
 ##### Genesis 33 - 6
@@ -41,7 +49,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 33#Genesis 33 - 7|LXX]] |
 
 ##### Genesis 33 - 8
+<<<<<<< HEAD
 [[Lexicon/H4301-4400#H4310|“ What]] [[Lexicon/H2001-2100#H2088|by sending this]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3601-3700#H3605|whole]] [[Lexicon/H4201-4300#H4264|company]] [[Lexicon/H6201-6300#H6298|to meet me ? ”]] [[Lexicon/H501-600#H559|asked Esau.]] [[Lexicon/H4601-4700#H4672|“ To find]] [[Lexicon/H2501-2600#H2580|favor]] [[Lexicon/H5801-5900#H5869|in your sight ,]] [[Lexicon/H101-200#H113|my lord , ”]] [[Lexicon/H501-600#H559|[Jacob] answered.]]
+=======
+[[Lexicon/H4301-4400#H4310|“ What]] [[Lexicon/H2001-2100#H2088|by sending this]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3601-3700#H3605|whole]] [[Lexicon/H4201-4300#H4264|company]] [[Lexicon/H6201-6300#H6298|to meet me ? ”]] [[Lexicon/H501-600#H559|asked Esau.]] [[Lexicon/H4601-4700#H4672|“ To find]] [[Lexicon/H2501-2600#H2580|favor]] [[Lexicon/H5801-5900#H5869|in your sight ,]] [[Lexicon/H101-200#H113|my lord , ”]] [[Lexicon/H501-600#H559|(Jacob) answered.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 33#Genesis 33 - 8|LXX]] |
 
 ##### Genesis 33 - 9
@@ -69,7 +81,11 @@ Testament: Old
 | [[LXX Reference/1 - Genesis/Genesis 33#Genesis 33 - 14|LXX]] |
 
 ##### Genesis 33 - 15
+<<<<<<< HEAD
 [[Lexicon/H3301-3400#H3322|“ Let me leave]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H801-900#H834|my]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H5901-6000#H5971|people]] [[Lexicon/H5901-6000#H5973|with you , ”]] [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H501-600#H559|said.]] [[Lexicon/H501-600#H559|But [Jacob] replied ,]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H2001-2100#H2088|do that ?]] [[Lexicon/H4601-4700#H4672|Let me find]] [[Lexicon/H2501-2600#H2580|favor]] [[Lexicon/H5801-5900#H5869|in the sight]] [[Lexicon/H101-200#H113|of my lord. ”]]
+=======
+[[Lexicon/H3301-3400#H3322|“ Let me leave]] [[Lexicon/H4901-5000#H4994|...]] [[Lexicon/H4401-4500#H4480|some of]] [[Lexicon/H801-900#H834|my]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H5901-6000#H5971|people]] [[Lexicon/H5901-6000#H5973|with you , ”]] [[Lexicon/H6201-6300#H6215|Esau]] [[Lexicon/H501-600#H559|said.]] [[Lexicon/H501-600#H559|But (Jacob) replied ,]] [[Lexicon/H4001-4100#H4100|“ Why]] [[Lexicon/H2001-2100#H2088|do that ?]] [[Lexicon/H4601-4700#H4672|Let me find]] [[Lexicon/H2501-2600#H2580|favor]] [[Lexicon/H5801-5900#H5869|in the sight]] [[Lexicon/H101-200#H113|of my lord. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/1 - Genesis/Genesis 33#Genesis 33 - 15|LXX]] |
 
 ##### Genesis 33 - 16

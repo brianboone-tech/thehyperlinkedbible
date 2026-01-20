@@ -16,7 +16,11 @@ Testament: Old
 [[Lexicon/G3601-3700#G3610|servant]] [[Lexicon/G3501-3600#G3540|intelligent]] [[Lexicon/G2901-3000#G2902|prevail]] [[Lexicon/G1201-1300#G1203|masters]] [[Lexicon/G801-900#G0878|foolish]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G1-100#G0080|brethren]] [[Lexicon/G1201-1300#G1244|divide]] [[Lexicon/G3301-3400#G3313|portions]]
 
 #### Proverbs 17 - 3
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G1301-1400#G1381|tried]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2575|furnace]] [[Lexicon/G601-700#G0696|silver]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5557|gold]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G1501-1600#G1588|choice]] [[Lexicon/G2501-2600#G2588|hearts]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G2901-3000#G2962|lord]]
+=======
+[[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G1301-1400#G1381|tried]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2575|furnace]] [[Lexicon/G601-700#G0696|silver]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5557|gold]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G1501-1600#G1588|choice]] [[Lexicon/G2501-2600#G2588|hearts]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G2901-3000#G2962|lord]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Proverbs 17 - 4
 [[Lexicon/G2501-2600#G2556|bad]] [[Lexicon/G5201-5300#G5219|obeys]] [[Lexicon/G1001-1100#G1100|tongue]] [[Lexicon/G3801-3900#G3892|lawbreakers]] [[Lexicon/G1-100#G0094|unjust]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G4301-4400#G4337|heeds]] [[Lexicon/G5401-5500#G5491|lips]] [[Lexicon/G5501-5600#G5571|lying]]
@@ -61,7 +65,11 @@ Testament: Old
 [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G2501-2600#G2540|time]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5301-5400#G5384|friend]] [[Lexicon/G5201-5300#G5224|exist]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G1-100#G0080|brethren]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G301-400#G0318|distresses]] [[Lexicon/G5501-5600#G5539|profitable]] [[Lexicon/G1501-1600#G1510|be]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G1001-1100#G1063|for]] [[Lexicon/G5401-5500#G5484|favor]] [[Lexicon/G1001-1100#G1080|born]]
 
 #### Proverbs 17 - 18
+<<<<<<< HEAD
 [[Lexicon/G401-500#G0435|man]] [[Lexicon/G801-900#G0878|foolish]] [[Lexicon/G1901-2000#G1948|claps]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2020|rejoices]] [[Lexicon/G1401-1500#G1438|himself]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1449|guaranteeing]] [[Lexicon/G1401-1500#G1449|surety]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1438|his]] [[Lexicon/G5301-5400#G5384|friend]]
+=======
+[[Lexicon/G401-500#G0435|man]] [[Lexicon/G801-900#G0878|foolish]] [[Lexicon/G1901-2000#G1948|claps]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2020|rejoices]] [[Lexicon/G1401-1500#G1438|himself]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1449|guaranteeing]] [[Lexicon/G1401-1500#G1449|surety]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1438|his]] [[Lexicon/G5301-5400#G5384|friend]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Proverbs 17 - 19
 [[Lexicon/G5301-5400#G5361|sinning]] [[Lexicon/G5401-5500#G5463|rejoices]] [[Lexicon/G3101-3200#G3163|fights]]

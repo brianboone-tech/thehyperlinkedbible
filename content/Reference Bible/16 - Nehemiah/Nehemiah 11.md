@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Nehemiah 11 - 1
+<<<<<<< HEAD
 [[Lexicon/H8201-8300#H8269|Now the leaders]] [[Lexicon/H5901-6000#H5971|of the people]] [[Lexicon/H3401-3500#H3427|settled]] [[Lexicon/H3301-3400#H3389|in Jerusalem ,]] [[Lexicon/H7601-7700#H7605|and the rest]] [[Lexicon/H5901-6000#H5971|of the people]] [[Lexicon/H5301-5400#H5307|cast]] [[Lexicon/H1401-1500#H1486|lots]] [[Lexicon/H901-1000#H935|to bring]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H4401-4500#H4480|out]] [[Lexicon/H6201-6300#H6235|of ten]] [[Lexicon/H3401-3500#H3427|to live]] [[Lexicon/H6901-7000#H6944|in the holy]] [[Lexicon/H5801-5900#H5892|city]] [[Lexicon/H3301-3400#H3389|of Jerusalem ,]] [[Lexicon/H8601-8674#H8672|while]] [[Lexicon/H3001-3100#H3027|the remaining nine]] [[Lexicon/H5801-5900#H5892|[were to dwell] in [their own] towns.]]
+=======
+[[Lexicon/H8201-8300#H8269|Now the leaders]] [[Lexicon/H5901-6000#H5971|of the people]] [[Lexicon/H3401-3500#H3427|settled]] [[Lexicon/H3301-3400#H3389|in Jerusalem ,]] [[Lexicon/H7601-7700#H7605|and the rest]] [[Lexicon/H5901-6000#H5971|of the people]] [[Lexicon/H5301-5400#H5307|cast]] [[Lexicon/H1401-1500#H1486|lots]] [[Lexicon/H901-1000#H935|to bring]] [[Lexicon/H201-300#H259|one]] [[Lexicon/H4401-4500#H4480|out]] [[Lexicon/H6201-6300#H6235|of ten]] [[Lexicon/H3401-3500#H3427|to live]] [[Lexicon/H6901-7000#H6944|in the holy]] [[Lexicon/H5801-5900#H5892|city]] [[Lexicon/H3301-3400#H3389|of Jerusalem ,]] [[Lexicon/H8601-8674#H8672|while]] [[Lexicon/H3001-3100#H3027|the remaining nine]] [[Lexicon/H5801-5900#H5892|(were to dwell) in (their own) towns.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Nehemiah 11 - 2
 [[Lexicon/H5901-6000#H5971|And the people]] [[Lexicon/H1201-1300#H1288|blessed]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H501-600#H582|the men]] [[Lexicon/H5001-5100#H5068|who volunteered]] [[Lexicon/H3401-3500#H3427|to live]] [[Lexicon/H3301-3400#H3389|in Jerusalem.]]
@@ -34,7 +38,11 @@ cssClasses: lexicon
 [[Lexicon/H301-400#H310|and his followers]] [[Lexicon/H1301-1400#H1373|Gabbai]] [[Lexicon/H5501-5600#H5543|and Sallai —]] [[Lexicon/H8601-8674#H8672|928 men]] [[Lexicon/H3901-4000#H3967|...]] [[Lexicon/H6201-6300#H6242|...]] [[Lexicon/H8001-8100#H8083|....]]
 
 ##### Nehemiah 11 - 9
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3100|Joel -]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H2101-2200#H2147|of Zichri]] [[Lexicon/H6401-6500#H6496|was the officer]] [[Lexicon/H5901-6000#H5921|over them ,]] [[Lexicon/H3001-3100#H3063|and Judah]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H5501-5600#H5574|of Hassenuah]] [[Lexicon/H5901-6000#H5921|[was] over]] [[Lexicon/H4901-5000#H4932|the Second District]] [[Lexicon/H5801-5900#H5892|of the city.]]
+=======
+[[Lexicon/H3001-3100#H3100|Joel -]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H2101-2200#H2147|of Zichri]] [[Lexicon/H6401-6500#H6496|was the officer]] [[Lexicon/H5901-6000#H5921|over them ,]] [[Lexicon/H3001-3100#H3063|and Judah]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H5501-5600#H5574|of Hassenuah]] [[Lexicon/H5901-6000#H5921|(was) over]] [[Lexicon/H4901-5000#H4932|the Second District]] [[Lexicon/H5801-5900#H5892|of the city.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Nehemiah 11 - 10
 [[Lexicon/H4401-4500#H4480|From]] [[Lexicon/H3501-3600#H3548|the priests :]] [[Lexicon/H3001-3100#H3048|Jedaiah]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H3101-3200#H3114|of Joiarib ;]] [[Lexicon/H3101-3200#H3199|Jachin ;]]
@@ -67,6 +75,7 @@ cssClasses: lexicon
 [[Lexicon/H7701-7800#H7778|And the gatekeepers :]] [[Lexicon/H6101-6200#H6126|Akkub ,]] [[Lexicon/H2901-3000#H2929|Talmon ,]] [[Lexicon/H201-300#H251|and their associates ,]] [[Lexicon/H8101-8200#H8104|who kept watch]] [[Lexicon/H8101-8200#H8179|at the gates —]] [[Lexicon/H3901-4000#H3967|172 men]] [[Lexicon/H7601-7700#H7657|...]] [[Lexicon/H8101-8200#H8147|....]]
 
 ##### Nehemiah 11 - 20
+<<<<<<< HEAD
 [[Lexicon/H7601-7700#H7605|The rest]] [[Lexicon/H3401-3500#H3478|of the Israelites ,]] [[Lexicon/H3501-3600#H3548|with the priests]] [[Lexicon/H3801-3900#H3881|and Levites ,]] [[Lexicon/H3601-3700#H3605|[were] in all]] [[Lexicon/H5801-5900#H5892|the villages]] [[Lexicon/H3001-3100#H3063|of Judah ,]] [[Lexicon/H301-400#H376|each]] [[Lexicon/H5101-5200#H5159|on his own inheritance.]]
 
 ##### Nehemiah 11 - 21
@@ -77,6 +86,18 @@ cssClasses: lexicon
 
 ##### Nehemiah 11 - 23
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4601-4700#H4687|[there was] a command]] [[Lexicon/H4401-4500#H4428|from the king]] [[Lexicon/H5901-6000#H5921|concerning [the singers] ,]] [[Lexicon/H501-600#H548|an ordinance]] [[Lexicon/H5901-6000#H5921|regulating]] [[Lexicon/H7801-7900#H7891|[their]]] [[Lexicon/H3101-3200#H3117|daily]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H1601-1700#H1697|activities.]]
+=======
+[[Lexicon/H7601-7700#H7605|The rest]] [[Lexicon/H3401-3500#H3478|of the Israelites ,]] [[Lexicon/H3501-3600#H3548|with the priests]] [[Lexicon/H3801-3900#H3881|and Levites ,]] [[Lexicon/H3601-3700#H3605|(were) in all]] [[Lexicon/H5801-5900#H5892|the villages]] [[Lexicon/H3001-3100#H3063|of Judah ,]] [[Lexicon/H301-400#H376|each]] [[Lexicon/H5101-5200#H5159|on his own inheritance.]]
+
+##### Nehemiah 11 - 21
+[[Lexicon/H5401-5500#H5411|The temple servants]] [[Lexicon/H3401-3500#H3427|lived]] [[Lexicon/H6001-6100#H6077|on (the hill of) Ophel ,]] [[Lexicon/H6701-6800#H6727|with Ziha]] [[Lexicon/H1601-1700#H1658|and Gishpa]] [[Lexicon/H5901-6000#H5921|over]] [[Lexicon/H5401-5500#H5411|(them).]]
+
+##### Nehemiah 11 - 22
+[[Lexicon/H6401-6500#H6496|Now the overseer]] [[Lexicon/H3801-3900#H3881|of the Levites]] [[Lexicon/H3301-3400#H3389|in Jerusalem]] [[Lexicon/H5801-5900#H5813|was Uzzi]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H1101-1200#H1137|of Bani ,]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H2801-2900#H2811|of Hashabiah ,]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H4901-5000#H4983|of Mattaniah ,]] [[Lexicon/H1101-1200#H1121|the son]] [[Lexicon/H4301-4400#H4316|of Mica.]] [[Lexicon/H601-700#H623|(He was) one of Asaph’s]] [[Lexicon/H1101-1200#H1121|descendants ,]] [[Lexicon/H7801-7900#H7891|who were the singers]] [[Lexicon/H5001-5100#H5048|in charge]] [[Lexicon/H4301-4400#H4399|of the service]] [[Lexicon/H1001-1100#H1004|of the house]] [[Lexicon/H401-500#H430|of God.]]
+
+##### Nehemiah 11 - 23
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H4601-4700#H4687|(there was) a command]] [[Lexicon/H4401-4500#H4428|from the king]] [[Lexicon/H5901-6000#H5921|concerning (the singers) ,]] [[Lexicon/H501-600#H548|an ordinance]] [[Lexicon/H5901-6000#H5921|regulating]] [[Lexicon/H7801-7900#H7891|(their)]] [[Lexicon/H3101-3200#H3117|daily]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H1601-1700#H1697|activities.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Nehemiah 11 - 24
 [[Lexicon/H6601-6700#H6611|Pethahiah]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H4801-4900#H4898|of Meshezabel ,]] [[Lexicon/H1101-1200#H1121|a descendant]] [[Lexicon/H2201-2300#H2226|of Zerah]] [[Lexicon/H1101-1200#H1121|son]] [[Lexicon/H3001-3100#H3063|of Judah ,]] [[Lexicon/H4401-4500#H4428|was the king’s]] [[Lexicon/H3001-3100#H3027|agent]] [[Lexicon/H3601-3700#H3605|in every]] [[Lexicon/H1601-1700#H1697|matter]] [[Lexicon/H5901-6000#H5971|concerning the people.]]
@@ -100,7 +121,11 @@ cssClasses: lexicon
 [[Lexicon/H2101-2200#H2182|Zanoah ,]] [[Lexicon/H5701-5800#H5725|Adullam ,]] [[Lexicon/H2601-2700#H2691|and their villages ;]] [[Lexicon/H3901-4000#H3923|in Lachish]] [[Lexicon/H7701-7800#H7704|and its fields ;]] [[Lexicon/H5801-5900#H5825|and in Azekah]] [[Lexicon/H1301-1400#H1323|and its villages.]] [[Lexicon/H2501-2600#H2583|So they settled]] [[Lexicon/H801-900#H884|from]] [[Lexicon/H801-900#H884|Beersheba]] [[Lexicon/H5701-5800#H5704|all the way to]] [[Lexicon/H1501-1600#H1516|the Valley]] [[Lexicon/H2001-2100#H2011|of Hinnom.]]
 
 ##### Nehemiah 11 - 31
+<<<<<<< HEAD
 [[Lexicon/H1101-1200#H1121|The descendants]] [[Lexicon/H1101-1200#H1144|of Benjamin]] [[Lexicon/H1301-1400#H1387|from Geba]] [[Lexicon/H4301-4400#H4363|[lived] in Michmash ,]] [[Lexicon/H5801-5900#H5857|Aija ,]] [[Lexicon/H1001-1100#H1008|vvv]] [[Lexicon/H1001-1100#H1008|and Bethel]] [[Lexicon/H1301-1400#H1323|with its villages ;]]
+=======
+[[Lexicon/H1101-1200#H1121|The descendants]] [[Lexicon/H1101-1200#H1144|of Benjamin]] [[Lexicon/H1301-1400#H1387|from Geba]] [[Lexicon/H4301-4400#H4363|(lived) in Michmash ,]] [[Lexicon/H5801-5900#H5857|Aija ,]] [[Lexicon/H1001-1100#H1008|vvv]] [[Lexicon/H1001-1100#H1008|and Bethel]] [[Lexicon/H1301-1400#H1323|with its villages ;]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Nehemiah 11 - 32
 [[Lexicon/H6001-6100#H6068|in Anathoth ,]] [[Lexicon/H5001-5100#H5011|Nob ,]] [[Lexicon/H6001-6100#H6055|Ananiah ,]]

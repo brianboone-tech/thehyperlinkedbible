@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Thessalonians-R 2
 
 **[[Home/Scripture/53 - 2 Thessalonians|2 Thessalonians]]**
 
 [[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 1#2 Thessalonians-R 1| 2 Thessalonians 1]] - [[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 3#2 Thessalonians-R 3| 2 Thessalonians 3]]
+=======
+# 2 Thessalonians 2
+
+[[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 1|← 2 Thessalonians 1]] | [[Readable Bible/53 - 2 Thessalonians/2 Thessalonians 3|2 Thessalonians 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Jeremiah 19 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 20 - TOSK|Ch 20 →]]
+=======
+**[[Home/Indexes/Readable Bible/24 - Jeremiah|← Jeremiah]]** | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 18 - TOSK|← Ch 18]] | [[The Treasury of Scripture Knowledge/24. Jeremiah TOSK/Jeremiah - 20 - TOSK|Ch 20 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

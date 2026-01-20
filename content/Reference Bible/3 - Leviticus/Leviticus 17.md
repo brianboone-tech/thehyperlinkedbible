@@ -20,7 +20,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 17#Leviticus 17 - 2|LXX]] |
 
 ##### Leviticus 17 - 3
+<<<<<<< HEAD
 [[Lexicon/H301-400#H376|‘ Anyone]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H1001-1100#H1004|from the house]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H7801-7900#H7819|slaughters]] [[Lexicon/H7701-7800#H7794|an ox ,]] [[Lexicon/H3701-3800#H3775|a lamb ,]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H5701-5800#H5795|a goat]] [[Lexicon/H4201-4300#H4264|in the camp]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H101-200#H176|-]] [[Lexicon/H7801-7900#H7819|-]] [[Lexicon/H2301-2400#H2351|or outside]] [[Lexicon/H4201-4300#H4264|of [it]]]
+=======
+[[Lexicon/H301-400#H376|‘ Anyone]] [[Lexicon/H301-400#H376|...]] [[Lexicon/H1001-1100#H1004|from the house]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H7801-7900#H7819|slaughters]] [[Lexicon/H7701-7800#H7794|an ox ,]] [[Lexicon/H3701-3800#H3775|a lamb ,]] [[Lexicon/H101-200#H176|or]] [[Lexicon/H5701-5800#H5795|a goat]] [[Lexicon/H4201-4300#H4264|in the camp]] [[Lexicon/H101-200#H176|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H101-200#H176|-]] [[Lexicon/H7801-7900#H7819|-]] [[Lexicon/H2301-2400#H2351|or outside]] [[Lexicon/H4201-4300#H4264|of (it)]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 17#Leviticus 17 - 3|LXX]] |
 
 ##### Leviticus 17 - 4
@@ -52,7 +56,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 17#Leviticus 17 - 10|LXX]] |
 
 ##### Leviticus 17 - 11
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H5301-5400#H5315|the life]] [[Lexicon/H1301-1400#H1320|of the flesh]] [[Lexicon/H1801-1900#H1818|is in the blood ,]] [[Lexicon/H501-600#H589|and I]] [[Lexicon/H5401-5500#H5414|have given]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H3701-3800#H3722|to make atonement]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H5301-5400#H5315|your souls]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H4101-4200#H4196|the altar ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|it [is]]] [[Lexicon/H1801-1900#H1818|the blood]] [[Lexicon/H3701-3800#H3722|[that] makes atonement]] [[Lexicon/H5301-5400#H5315|for the soul.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H5301-5400#H5315|the life]] [[Lexicon/H1301-1400#H1320|of the flesh]] [[Lexicon/H1801-1900#H1818|is in the blood ,]] [[Lexicon/H501-600#H589|and I]] [[Lexicon/H5401-5500#H5414|have given]] [[Lexicon/H1901-2000#H1931|it]] [[Lexicon/H3701-3800#H3722|to make atonement]] [[Lexicon/H5901-6000#H5921|for]] [[Lexicon/H5301-5400#H5315|your souls]] [[Lexicon/H5901-6000#H5921|upon]] [[Lexicon/H4101-4200#H4196|the altar ;]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H1901-2000#H1931|it (is)]] [[Lexicon/H1801-1900#H1818|the blood]] [[Lexicon/H3701-3800#H3722|(that) makes atonement]] [[Lexicon/H5301-5400#H5315|for the soul.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 17#Leviticus 17 - 11|LXX]] |
 
 ##### Leviticus 17 - 12

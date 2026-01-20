@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Zechariah-R 9
 
 **[[Home/Scripture/38 - Zechariah|Zechariah]]**
 
 [[Readable Bible/38 - Zechariah/Zechariah 8#Zechariah-R 8| Zechariah 8]] - [[Readable Bible/38 - Zechariah/Zechariah 10#Zechariah-R 10| Zechariah 10]]
+=======
+# Zechariah 9
+
+[[Readable Bible/38 - Zechariah/Zechariah 8|← Zechariah 8]] | [[Readable Bible/38 - Zechariah/Zechariah 10|Zechariah 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -63,5 +69,9 @@ cssClasses: lexicon
 [[Reference Bible/38 - Zechariah/Zechariah 9#Zechariah 9 - 16|16]] On that day the LORD their God will save them as the flock of His people; for like jewels in a crown they will sparkle over His land.  | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 9 - TOSK#Verse 16|TOSK]] |
 
 ##### Zechariah 9 . 17
+<<<<<<< HEAD
 [[Reference Bible/38 - Zechariah/Zechariah 9#Zechariah 9 - 17|17]] How lovely they will be, and how beautiful! Grain will make the young men flourish, and new wine, the young women.  | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 9 - TOSK#Verse 17|TOSK]] | |
+=======
+[[Reference Bible/38 - Zechariah/Zechariah 9#Zechariah 9 - 17|17]] How lovely they will be, and how beautiful! Grain will make the young men flourish, and new wine, the young women.  | [[The Treasury of Scripture Knowledge/38. Zechariah TOSK/Zechariah - 9 - TOSK#Verse 17|TOSK]] ||
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 

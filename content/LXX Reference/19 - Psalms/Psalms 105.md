@@ -75,7 +75,11 @@ Testament: Old
 [[Lexicon/G2501-2600#G2525|He placed]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G2901-3000#G2962|as master]] [[Lexicon/G3601-3700#G3624|of his house,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G701-800#G0758|ruler]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G2901-3000#G2934|his possessions;]]
 
 #### Psalms 105 - 22
+<<<<<<< HEAD
 [[Lexicon/G3801-3900#G3811|to instruct]] [[Lexicon/G701-800#G0758|his rulers]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1401-1500#G1438|he himself,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4201-4300#G4245|his elders]]
+=======
+[[Lexicon/G3801-3900#G3811|to instruct]] [[Lexicon/G701-800#G0758|his rulers]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1401-1500#G1438|he himself,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4201-4300#G4245|his elders]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 105 - 23
 [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1525|Israel entered]] [[Lexicon/G1501-1600#G1519|into]] Egypt, [[Lexicon/G2501-2600#G2532|and]] Jacob [[Lexicon/G3901-4000#G3939|sojourned]] [[Lexicon/G1701-1800#G1722|in]] of Ham.

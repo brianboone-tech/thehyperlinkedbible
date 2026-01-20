@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/23 - Isaiah|← Isaiah]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 17 - 1
+<<<<<<< HEAD
 [[Lexicon/H8601-8674#H8605|A prayer]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H8001-8100#H8085|Hear ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H6601-6700#H6664|my righteous plea ;]] [[Lexicon/H7101-7200#H7181|listen]] [[Lexicon/H7401-7500#H7440|to my cry.]] [[Lexicon/H201-300#H238|Give ear]] [[Lexicon/H8601-8674#H8605|to my prayer —]] [[Lexicon/H8101-8200#H8193|[it comes] from lips]] [[Lexicon/H3801-3900#H3808|free of]] [[Lexicon/H4801-4900#H4820|deceit.]]
+=======
+[[Lexicon/H8601-8674#H8605|A prayer]] [[Lexicon/H1701-1800#H1732|of David.]] [[Lexicon/H8001-8100#H8085|Hear ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H6601-6700#H6664|my righteous plea ;]] [[Lexicon/H7101-7200#H7181|listen]] [[Lexicon/H7401-7500#H7440|to my cry.]] [[Lexicon/H201-300#H238|Give ear]] [[Lexicon/H8601-8674#H8605|to my prayer —]] [[Lexicon/H8101-8200#H8193|(it comes) from lips]] [[Lexicon/H3801-3900#H3808|free of]] [[Lexicon/H4801-4900#H4820|deceit.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 17#Psalm 17 - 1|LXX]] |
 
 ##### Psalm 17 - 2
@@ -18,7 +22,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 17#Psalm 17 - 2|LXX]] |
 
 ##### Psalm 17 - 3
+<<<<<<< HEAD
 [[Lexicon/H901-1000#H974|You have tried]] [[Lexicon/H3801-3900#H3820|my heart ;]] [[Lexicon/H6401-6500#H6485|You have visited]] [[Lexicon/H3901-4000#H3915|[me] in the night.]] [[Lexicon/H6801-6900#H6884|You have tested me]] [[Lexicon/H4601-4700#H4672|and found]] [[Lexicon/H1001-1100#H1077|no [evil] ;]] [[Lexicon/H2101-2200#H2161|I have resolved]] [[Lexicon/H1001-1100#H1077|not]] [[Lexicon/H5601-5700#H5674|to sin]] [[Lexicon/H6301-6400#H6310|with my mouth.]]
+=======
+[[Lexicon/H901-1000#H974|You have tried]] [[Lexicon/H3801-3900#H3820|my heart ;]] [[Lexicon/H6401-6500#H6485|You have visited]] [[Lexicon/H3901-4000#H3915|(me) in the night.]] [[Lexicon/H6801-6900#H6884|You have tested me]] [[Lexicon/H4601-4700#H4672|and found]] [[Lexicon/H1001-1100#H1077|no (evil) ;]] [[Lexicon/H2101-2200#H2161|I have resolved]] [[Lexicon/H1001-1100#H1077|not]] [[Lexicon/H5601-5700#H5674|to sin]] [[Lexicon/H6301-6400#H6310|with my mouth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 17#Psalm 17 - 3|LXX]] |
 
 ##### Psalm 17 - 4
@@ -46,11 +54,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 17#Psalm 17 - 9|LXX]] |
 
 ##### Psalm 17 - 10
+<<<<<<< HEAD
 [[Lexicon/H5401-5500#H5462|They have closed]] [[Lexicon/H2401-2500#H2459|their callous [hearts] ;]] [[Lexicon/H6301-6400#H6310|their mouths]] [[Lexicon/H1601-1700#H1696|speak]] [[Lexicon/H1301-1400#H1348|with arrogance.]]
 | [[LXX Reference/19 - Psalms/Psalms 17#Psalm 17 - 10|LXX]] |
 
 ##### Psalm 17 - 11
 [[Lexicon/H801-900#H838|They have tracked us down ,]] [[Lexicon/H6201-6300#H6258|and now]] [[Lexicon/H5401-5500#H5437|surround us ;]] [[Lexicon/H5801-5900#H5869|their eyes]] [[Lexicon/H7801-7900#H7896|are set]] [[Lexicon/H5101-5200#H5186|to cast [us]]] [[Lexicon/H701-800#H776|to the ground ,]]
+=======
+[[Lexicon/H5401-5500#H5462|They have closed]] [[Lexicon/H2401-2500#H2459|their callous (hearts) ;]] [[Lexicon/H6301-6400#H6310|their mouths]] [[Lexicon/H1601-1700#H1696|speak]] [[Lexicon/H1301-1400#H1348|with arrogance.]]
+| [[LXX Reference/19 - Psalms/Psalms 17#Psalm 17 - 10|LXX]] |
+
+##### Psalm 17 - 11
+[[Lexicon/H801-900#H838|They have tracked us down ,]] [[Lexicon/H6201-6300#H6258|and now]] [[Lexicon/H5401-5500#H5437|surround us ;]] [[Lexicon/H5801-5900#H5869|their eyes]] [[Lexicon/H7801-7900#H7896|are set]] [[Lexicon/H5101-5200#H5186|to cast (us)]] [[Lexicon/H701-800#H776|to the ground ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 17#Psalm 17 - 11|LXX]] |
 
 ##### Psalm 17 - 12
@@ -62,7 +78,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 17#Psalm 17 - 13|LXX]] |
 
 ##### Psalm 17 - 14
+<<<<<<< HEAD
 [[Lexicon/H4901-5000#H4962|from such men ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H3001-3100#H3027|by Your hand —]] [[Lexicon/H4901-5000#H4962|from men]] [[Lexicon/H2401-2500#H2465|of the world]] [[Lexicon/H2501-2600#H2506|whose portion]] [[Lexicon/H2401-2500#H2416|is in this life.]] [[Lexicon/H4301-4400#H4390|May You fill]] [[Lexicon/H901-1000#H990|the bellies]] [[Lexicon/H6801-6900#H6840|of Your treasured [ones]]] [[Lexicon/H7601-7700#H7646|and satisfy]] [[Lexicon/H1101-1200#H1121|their sons ,]] [[Lexicon/H5101-5200#H5117|so they leave]] [[Lexicon/H3401-3500#H3499|their abundance]] [[Lexicon/H5701-5800#H5768|to their children.]]
+=======
+[[Lexicon/H4901-5000#H4962|from such men ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H3001-3100#H3027|by Your hand —]] [[Lexicon/H4901-5000#H4962|from men]] [[Lexicon/H2401-2500#H2465|of the world]] [[Lexicon/H2501-2600#H2506|whose portion]] [[Lexicon/H2401-2500#H2416|is in this life.]] [[Lexicon/H4301-4400#H4390|May You fill]] [[Lexicon/H901-1000#H990|the bellies]] [[Lexicon/H6801-6900#H6840|of Your treasured (ones)]] [[Lexicon/H7601-7700#H7646|and satisfy]] [[Lexicon/H1101-1200#H1121|their sons ,]] [[Lexicon/H5101-5200#H5117|so they leave]] [[Lexicon/H3401-3500#H3499|their abundance]] [[Lexicon/H5701-5800#H5768|to their children.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 17#Psalm 17 - 14|LXX]] |
 
 ##### Psalm 17 - 15

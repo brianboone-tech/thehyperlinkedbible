@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Song of Solomon 1 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/22 - Song of Solomon|← Song of Solomon]]** | [[The Treasury of Scripture Knowledge/22. Song of Solomon TOSK/Song of Solomon - 2 - TOSK|Ch 2 →]]
+=======
+**[[Home/Indexes/Readable Bible/22 - Song of Solomon|← Song of Solomon]]** | [[The Treasury of Scripture Knowledge/22. Song of Solomon TOSK/Song of Solomon - 2 - TOSK|Ch 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

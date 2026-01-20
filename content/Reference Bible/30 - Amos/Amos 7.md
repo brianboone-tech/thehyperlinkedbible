@@ -16,7 +16,11 @@ cssClasses: lexicon
 [[Lexicon/H1901-2000#H1961|And]] [[Lexicon/H501-600#H518|when]] [[Lexicon/H3601-3700#H3615|the locusts had]] [[Lexicon/H301-400#H398|eaten]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6201-6300#H6212|every green plant]] [[Lexicon/H701-800#H776|in the land ,]] [[Lexicon/H501-600#H559|I said ,]] [[Lexicon/H101-200#H136|“ Lord]] [[Lexicon/H3001-3100#H3069|GOD ,]] [[Lexicon/H4901-5000#H4994|please]] [[Lexicon/H5501-5600#H5545|forgive !]] [[Lexicon/H4301-4400#H4310|How]] [[Lexicon/H3201-3300#H3290|will Jacob]] [[Lexicon/H6901-7000#H6965|survive ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H6901-7000#H6996|is so small ? ”]]
 
 ##### Amos 7 - 3
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|So the LORD]] [[Lexicon/H5101-5200#H5162|relented]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H2001-2100#H2063|this [plan].]] [[Lexicon/H3801-3900#H3808|“ It will not]] [[Lexicon/H1901-2000#H1961|happen , ”]] [[Lexicon/H3001-3100#H3068|[He]]] [[Lexicon/H501-600#H559|said.]]
+=======
+[[Lexicon/H3001-3100#H3068|So the LORD]] [[Lexicon/H5101-5200#H5162|relented]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H2001-2100#H2063|this (plan).]] [[Lexicon/H3801-3900#H3808|“ It will not]] [[Lexicon/H1901-2000#H1961|happen , ”]] [[Lexicon/H3001-3100#H3068|(He)]] [[Lexicon/H501-600#H559|said.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Amos 7 - 4
 [[Lexicon/H3501-3600#H3541|This is what]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD]] [[Lexicon/H7101-7200#H7200|showed me]] [[Lexicon/H2001-2100#H2009|... :]] [[Lexicon/H101-200#H136|The Lord]] [[Lexicon/H3001-3100#H3069|GOD]] [[Lexicon/H7101-7200#H7121|was calling]] [[Lexicon/H7301-7400#H7378|for judgment]] [[Lexicon/H701-800#H784|by fire.]] [[Lexicon/H301-400#H398|It consumed]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7201-7300#H7227|the great]] [[Lexicon/H8401-8500#H8415|deep]] [[Lexicon/H301-400#H398|and devoured]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2501-2600#H2506|the land.]]
@@ -25,7 +29,11 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H559|Then I said ,]] [[Lexicon/H101-200#H136|“ Lord]] [[Lexicon/H3001-3100#H3069|GOD ,]] [[Lexicon/H4901-5000#H4994|please]] [[Lexicon/H2301-2400#H2308|stop !]] [[Lexicon/H4301-4400#H4310|How]] [[Lexicon/H3201-3300#H3290|will Jacob]] [[Lexicon/H6901-7000#H6965|survive ,]] [[Lexicon/H3501-3600#H3588|since]] [[Lexicon/H1901-2000#H1931|he]] [[Lexicon/H6901-7000#H6996|is so small ? ”]]
 
 ##### Amos 7 - 6
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3068|So the LORD]] [[Lexicon/H5101-5200#H5162|relented]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H2001-2100#H2063|this [plan].]] [[Lexicon/H1901-2000#H1931|“ It]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H1901-2000#H1961|happen]] [[Lexicon/H1501-1600#H1571|either , ”]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD.]]
+=======
+[[Lexicon/H3001-3100#H3068|So the LORD]] [[Lexicon/H5101-5200#H5162|relented]] [[Lexicon/H5901-6000#H5921|from]] [[Lexicon/H2001-2100#H2063|this (plan).]] [[Lexicon/H1901-2000#H1931|“ It]] [[Lexicon/H3801-3900#H3808|will not]] [[Lexicon/H1901-2000#H1961|happen]] [[Lexicon/H1501-1600#H1571|either , ”]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H3001-3100#H3069|GOD.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Amos 7 - 7
 [[Lexicon/H3501-3600#H3541|This is what]] [[Lexicon/H7101-7200#H7200|He showed me :]] [[Lexicon/H2001-2100#H2009|Behold ,]] [[Lexicon/H101-200#H136|the Lord]] [[Lexicon/H5301-5400#H5324|was standing]] [[Lexicon/H5901-6000#H5921|by]] [[Lexicon/H2301-2400#H2346|a wall]] [[Lexicon/H501-600#H594|true to plumb ,]] [[Lexicon/H501-600#H594|with a plumb line]] [[Lexicon/H3001-3100#H3027|in His hand.]]
@@ -46,10 +54,17 @@ cssClasses: lexicon
 [[Lexicon/H501-600#H558|And Amaziah]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5986|Amos - ,]] [[Lexicon/H1901-2000#H1980|“ Go away ,]] [[Lexicon/H2301-2400#H2374|you seer !]] [[Lexicon/H1201-1300#H1272|Flee]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H3001-3100#H3063|of Judah ;]] [[Lexicon/H301-400#H398|earn your bread]] [[Lexicon/H3801-3900#H3899|...]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H5001-5100#H5012|and do your prophesying]] [[Lexicon/H8001-8100#H8033|there.]]
 
 ##### Amos 7 - 13
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|But never]] [[Lexicon/H5001-5100#H5012|prophesy]] [[Lexicon/H1001-1100#H1008|vvv]] [[Lexicon/H1001-1100#H1008|at Bethel]] [[Lexicon/H3201-3300#H3254|again]] [[Lexicon/H5701-5800#H5750|... ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|it [is]]] [[Lexicon/H4701-4800#H4720|the sanctuary]] [[Lexicon/H4401-4500#H4428|of the king]] [[Lexicon/H1001-1100#H1004|and the temple]] [[Lexicon/H4401-4500#H4467|of the kingdom]] [[Lexicon/H1901-2000#H1931|. ”]]
 
 ##### Amos 7 - 14
 [[Lexicon/H501-600#H595|“ I]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H3801-3900#H3808|was not]] [[Lexicon/H5001-5100#H5030|a prophet , ”]] [[Lexicon/H5901-6000#H5986|Amos -]] [[Lexicon/H501-600#H559|]] [[Lexicon/H401-500#H413|]] [[Lexicon/H6001-6100#H6030|replied]] [[Lexicon/H501-600#H558|- ,]] [[Lexicon/H1101-1200#H1121|“ [nor was I] the son]] [[Lexicon/H5001-5100#H5030|of a prophet ;]] [[Lexicon/H3501-3600#H3588|rather ,]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H901-1000#H951|was a herdsman]] [[Lexicon/H501-600#H595|[and]]] [[Lexicon/H1101-1200#H1103|a tender]] [[Lexicon/H8201-8300#H8256|of sycamore-fig trees.]]
+=======
+[[Lexicon/H3801-3900#H3808|But never]] [[Lexicon/H5001-5100#H5012|prophesy]] [[Lexicon/H1001-1100#H1008|vvv]] [[Lexicon/H1001-1100#H1008|at Bethel]] [[Lexicon/H3201-3300#H3254|again]] [[Lexicon/H5701-5800#H5750|... ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|it (is)]] [[Lexicon/H4701-4800#H4720|the sanctuary]] [[Lexicon/H4401-4500#H4428|of the king]] [[Lexicon/H1001-1100#H1004|and the temple]] [[Lexicon/H4401-4500#H4467|of the kingdom]] [[Lexicon/H1901-2000#H1931|. ”]]
+
+##### Amos 7 - 14
+[[Lexicon/H501-600#H595|“ I]] [[Lexicon/H3801-3900#H3808|...]] [[Lexicon/H3801-3900#H3808|was not]] [[Lexicon/H5001-5100#H5030|a prophet , ”]] [[Lexicon/H5901-6000#H5986|Amos -]] [[Lexicon/H501-600#H559|]] [[Lexicon/H401-500#H413|]] [[Lexicon/H6001-6100#H6030|replied]] [[Lexicon/H501-600#H558|- ,]] [[Lexicon/H1101-1200#H1121|“ (nor was I) the son]] [[Lexicon/H5001-5100#H5030|of a prophet ;]] [[Lexicon/H3501-3600#H3588|rather ,]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H901-1000#H951|was a herdsman]] [[Lexicon/H501-600#H595|(and)]] [[Lexicon/H1101-1200#H1103|a tender]] [[Lexicon/H8201-8300#H8256|of sycamore-fig trees.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Amos 7 - 15
 [[Lexicon/H3001-3100#H3068|But the LORD]] [[Lexicon/H3901-4000#H3947|took me]] [[Lexicon/H301-400#H310|from following]] [[Lexicon/H6601-6700#H6629|the flock]] [[Lexicon/H501-600#H559|and said]] [[Lexicon/H401-500#H413|to me ,]] [[Lexicon/H3001-3100#H3068|...]] [[Lexicon/H1901-2000#H1980|‘ Go ,]] [[Lexicon/H5001-5100#H5012|prophesy]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H5901-6000#H5971|My people]] [[Lexicon/H3401-3500#H3478|Israel. ’]]

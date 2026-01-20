@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 **[[Home/Scripture/14 - 2 Chronicles|← 2 Chronicles]]**
+=======
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/14 - 2 Chronicles|← 2 Chronicles]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

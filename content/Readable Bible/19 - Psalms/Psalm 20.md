@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 20
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 19#Psalm-R 19| Psalm 19]] - [[Readable Bible/19 - Psalms/Psalm 21#Psalm-R 21| Psalm 21]]
+=======
+# Psalm 20
+
+[[Readable Bible/19 - Psalms/Psalm 19|← Psalm 19]] | [[Readable Bible/19 - Psalms/Psalm 21|Psalm 21 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Revelation 17 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/66 - Revelation|← Revelation]]** | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 18 - TOSK|Ch 18 →]]
+=======
+**[[Home/Indexes/Readable Bible/66 - Revelation|← Revelation]]** | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 16 - TOSK|← Ch 16]] | [[The Treasury of Scripture Knowledge/66. Revelation TOSK/Revelation - 18 - TOSK|Ch 18 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

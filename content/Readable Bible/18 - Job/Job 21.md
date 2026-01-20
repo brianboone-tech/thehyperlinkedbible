@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Job-R 21
 
 **[[Home/Scripture/18 - Job|Job]]**
 
 [[Readable Bible/18 - Job/Job 20#Job-R 20| Job 20]] - [[Readable Bible/18 - Job/Job 22#Job-R 22| Job 22]]
+=======
+# Job 21
+
+[[Readable Bible/18 - Job/Job 20|← Job 20]] | [[Readable Bible/18 - Job/Job 22|Job 22 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

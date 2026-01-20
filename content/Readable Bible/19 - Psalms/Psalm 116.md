@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 116
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 115#Psalm-R 115| Psalm 115]] - [[Readable Bible/19 - Psalms/Psalm 117#Psalm-R 117| Psalm 117]]
+=======
+# Psalm 116
+
+[[Readable Bible/19 - Psalms/Psalm 115|← Psalm 115]] | [[Readable Bible/19 - Psalms/Psalm 117|Psalm 117 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

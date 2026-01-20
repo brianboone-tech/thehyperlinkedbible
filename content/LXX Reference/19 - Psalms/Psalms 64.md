@@ -18,7 +18,11 @@ Testament: Old
 [[Lexicon/G4601-4700#G4628|Shelter]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G4101-4200#G4188|of the ones acting wickedly!]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2001-2100#G2038|of the ones working]] [[Lexicon/G1-100#G0093|iniquity.]]
 
 #### Psalms 64 - 3
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3748|The ones who]] [[Lexicon/G101-200#G0190|sharpened]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1701-1800#G1780|they stretched tight]] [[Lexicon/G5101-5200#G5115|their bow]] [[Lexicon/G4201-4300#G4229|thing]]
+=======
+[[Lexicon/G3701-3800#G3748|The ones who]] [[Lexicon/G101-200#G0190|sharpened]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1701-1800#G1780|they stretched tight]] [[Lexicon/G5101-5200#G5115|their bow]] [[Lexicon/G4201-4300#G4229|thing]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Psalms 64 - 4
 [[Lexicon/G2601-2700#G2700|to shoot]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G601-700#G0614|concealed places]] [[Lexicon/G201-300#G0299|at the unblemished;]] [[Lexicon/G1801-1900#G1819|suddenly]] [[Lexicon/G2601-2700#G2700|they will shoot]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|they will not]] [[Lexicon/G5301-5400#G5399|fear.]]

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Judges-R 20
 
 **[[Home/Scripture/07 - Judges|Judges]]**
 
 [[Readable Bible/07 - Judges/Judges 19#Judges-R 19| Judges 19]] - [[Readable Bible/07 - Judges/Judges 21#Judges-R 21| Judges 21]]
+=======
+# Judges 20
+
+[[Readable Bible/07 - Judges/Judges 19|← Judges 19]] | [[Readable Bible/07 - Judges/Judges 21|Judges 21 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

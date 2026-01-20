@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 33 - 1
+<<<<<<< HEAD
 [[Lexicon/H7401-7500#H7442|Rejoice]] [[Lexicon/H3001-3100#H3068|in the LORD ,]] [[Lexicon/H6601-6700#H6662|O righteous ones ;]] [[Lexicon/H4901-5000#H5000|it is fitting]] [[Lexicon/H3401-3500#H3477|for the upright]] [[Lexicon/H8401-8500#H8416|to praise [Him].]]
+=======
+[[Lexicon/H7401-7500#H7442|Rejoice]] [[Lexicon/H3001-3100#H3068|in the LORD ,]] [[Lexicon/H6601-6700#H6662|O righteous ones ;]] [[Lexicon/H4901-5000#H5000|it is fitting]] [[Lexicon/H3401-3500#H3477|for the upright]] [[Lexicon/H8401-8500#H8416|to praise (Him).]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 33#Psalm 33 - 1|LXX]] |
 
 ##### Psalm 33 - 2
@@ -26,7 +30,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 33#Psalm 33 - 4|LXX]] |
 
 ##### Psalm 33 - 5
+<<<<<<< HEAD
 [[Lexicon/H101-200#H157|[The LORD] loves]] [[Lexicon/H6601-6700#H6666|righteousness]] [[Lexicon/H4901-5000#H4941|and justice ;]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H4301-4400#H4390|is full of]] [[Lexicon/H3001-3100#H3068|[His]]] [[Lexicon/H2601-2700#H2617|loving devotion.]]
+=======
+[[Lexicon/H101-200#H157|(The LORD) loves]] [[Lexicon/H6601-6700#H6666|righteousness]] [[Lexicon/H4901-5000#H4941|and justice ;]] [[Lexicon/H701-800#H776|the earth]] [[Lexicon/H4301-4400#H4390|is full of]] [[Lexicon/H3001-3100#H3068|(His)]] [[Lexicon/H2601-2700#H2617|loving devotion.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 33#Psalm 33 - 5|LXX]] |
 
 ##### Psalm 33 - 6
@@ -54,7 +62,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 33#Psalm 33 - 11|LXX]] |
 
 ##### Psalm 33 - 12
+<<<<<<< HEAD
 [[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H1401-1500#H1471|[is] the nation]] [[Lexicon/H801-900#H834|whose]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H3001-3100#H3068|is the LORD ,]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H901-1000#H977|He has chosen]] [[Lexicon/H5101-5200#H5159|as His inheritance]]
+=======
+[[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H1401-1500#H1471|(is) the nation]] [[Lexicon/H801-900#H834|whose]] [[Lexicon/H401-500#H430|God]] [[Lexicon/H3001-3100#H3068|is the LORD ,]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H901-1000#H977|He has chosen]] [[Lexicon/H5101-5200#H5159|as His inheritance]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 33#Psalm 33 - 12|LXX]] |
 
 ##### Psalm 33 - 13

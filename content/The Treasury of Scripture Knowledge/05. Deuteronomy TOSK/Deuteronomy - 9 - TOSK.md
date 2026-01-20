@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Deuteronomy 9 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 10 - TOSK|Ch 10 →]]
+=======
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 8 - TOSK|← Ch 8]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 10 - TOSK|Ch 10 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

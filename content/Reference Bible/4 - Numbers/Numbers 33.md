@@ -13,7 +13,11 @@ Chapter: "33"
 ---
 
 ##### Numbers 33 - 1
+<<<<<<< HEAD
 [[Lexicon/H401-500#H428|These]] [[Lexicon/H4501-4600#H4550|[are] the journeys]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|of the Israelites]] [[Lexicon/H801-900#H834|when]] [[Lexicon/H3301-3400#H3318|they came out]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H6601-6700#H6635|by their divisions]] [[Lexicon/H3001-3100#H3027|under the leadership]] [[Lexicon/H4801-4900#H4872|of Moses]] [[Lexicon/H101-200#H175|and Aaron.]]
+=======
+[[Lexicon/H401-500#H428|These]] [[Lexicon/H4501-4600#H4550|(are) the journeys]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|of the Israelites]] [[Lexicon/H801-900#H834|when]] [[Lexicon/H3301-3400#H3318|they came out]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H4701-4800#H4714|of Egypt]] [[Lexicon/H6601-6700#H6635|by their divisions]] [[Lexicon/H3001-3100#H3027|under the leadership]] [[Lexicon/H4801-4900#H4872|of Moses]] [[Lexicon/H101-200#H175|and Aaron.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 33#Numbers 33 - 1|LXX]] |
 
 ##### Numbers 33 - 2
@@ -21,11 +25,19 @@ Chapter: "33"
 | [[LXX Reference/4 - Numbers/Numbers 33#Numbers 33 - 2|LXX]] |
 
 ##### Numbers 33 - 3
+<<<<<<< HEAD
 [[Lexicon/H2501-2600#H2568|On the fifteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2301-2400#H2320|-]] [[Lexicon/H7201-7300#H7223|of the first]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H7201-7300#H7223|on]] [[Lexicon/H4201-4300#H4283|the day after]] [[Lexicon/H6401-6500#H6453|the Passover ,]] [[Lexicon/H5201-5300#H5265|[the Israelites] set out]] [[Lexicon/H7401-7500#H7486|from Rameses.]] [[Lexicon/H1101-1200#H1121|[They]]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H3301-3400#H3318|marched out]] [[Lexicon/H3001-3100#H3027|defiantly]] [[Lexicon/H7301-7400#H7311|...]] [[Lexicon/H5801-5900#H5869|in full view]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H4701-4800#H4713|the Egyptians ,]]
 | [[LXX Reference/4 - Numbers/Numbers 33#Numbers 33 - 3|LXX]] |
 
 ##### Numbers 33 - 4
 [[Lexicon/H4701-4800#H4713|[who]]] [[Lexicon/H6901-7000#H6912|were burying]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1001-1100#H1060|[their] firstborn ,]] [[Lexicon/H3001-3100#H3068|whom the LORD]] [[Lexicon/H5201-5300#H5221|had struck down]] [[Lexicon/H3001-3100#H3068|for the LORD]] [[Lexicon/H6201-6300#H6213|had executed]] [[Lexicon/H8201-8300#H8201|judgment]] [[Lexicon/H401-500#H430|against their gods.]]
+=======
+[[Lexicon/H2501-2600#H2568|On the fifteenth]] [[Lexicon/H6201-6300#H6240|...]] [[Lexicon/H3101-3200#H3117|day]] [[Lexicon/H2301-2400#H2320|-]] [[Lexicon/H7201-7300#H7223|of the first]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H7201-7300#H7223|on]] [[Lexicon/H4201-4300#H4283|the day after]] [[Lexicon/H6401-6500#H6453|the Passover ,]] [[Lexicon/H5201-5300#H5265|(the Israelites) set out]] [[Lexicon/H7401-7500#H7486|from Rameses.]] [[Lexicon/H1101-1200#H1121|(They)]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H3301-3400#H3318|marched out]] [[Lexicon/H3001-3100#H3027|defiantly]] [[Lexicon/H7301-7400#H7311|...]] [[Lexicon/H5801-5900#H5869|in full view]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H4701-4800#H4713|the Egyptians ,]]
+| [[LXX Reference/4 - Numbers/Numbers 33#Numbers 33 - 3|LXX]] |
+
+##### Numbers 33 - 4
+[[Lexicon/H4701-4800#H4713|(who)]] [[Lexicon/H6901-7000#H6912|were burying]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H1001-1100#H1060|(their) firstborn ,]] [[Lexicon/H3001-3100#H3068|whom the LORD]] [[Lexicon/H5201-5300#H5221|had struck down]] [[Lexicon/H3001-3100#H3068|for the LORD]] [[Lexicon/H6201-6300#H6213|had executed]] [[Lexicon/H8201-8300#H8201|judgment]] [[Lexicon/H401-500#H430|against their gods.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 33#Numbers 33 - 4|LXX]] |
 
 ##### Numbers 33 - 5
@@ -161,7 +173,11 @@ Chapter: "33"
 | [[LXX Reference/4 - Numbers/Numbers 33#Numbers 33 - 37|LXX]] |
 
 ##### Numbers 33 - 38
+<<<<<<< HEAD
 [[Lexicon/H5901-6000#H5921|At]] [[Lexicon/H3001-3100#H3068|the LORD’s]] [[Lexicon/H6301-6400#H6310|command ,]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5901-6000#H5927|climbed]] [[Lexicon/H2001-2100#H2022|Mount]] [[Lexicon/H2001-2100#H2023|Hor]] [[Lexicon/H4101-4200#H4191|and died]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H201-300#H259|on the first]] [[Lexicon/H2301-2400#H2320|...]] [[Lexicon/H2501-2600#H2549|[day] of the fifth]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H701-800#H705|in the fortieth]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H1101-1200#H1121|after the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H3301-3400#H3318|had come out]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
+=======
+[[Lexicon/H5901-6000#H5921|At]] [[Lexicon/H3001-3100#H3068|the LORD’s]] [[Lexicon/H6301-6400#H6310|command ,]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H3501-3600#H3548|the priest]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H5901-6000#H5927|climbed]] [[Lexicon/H2001-2100#H2022|Mount]] [[Lexicon/H2001-2100#H2023|Hor]] [[Lexicon/H4101-4200#H4191|and died]] [[Lexicon/H8001-8100#H8033|there]] [[Lexicon/H201-300#H259|on the first]] [[Lexicon/H2301-2400#H2320|...]] [[Lexicon/H2501-2600#H2549|(day) of the fifth]] [[Lexicon/H2301-2400#H2320|month ,]] [[Lexicon/H701-800#H705|in the fortieth]] [[Lexicon/H8101-8200#H8141|year]] [[Lexicon/H1101-1200#H1121|after the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H3301-3400#H3318|had come out]] [[Lexicon/H701-800#H776|of the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 33#Numbers 33 - 38|LXX]] |
 
 ##### Numbers 33 - 39
@@ -173,7 +189,11 @@ Chapter: "33"
 | [[LXX Reference/4 - Numbers/Numbers 33#Numbers 33 - 40|LXX]] |
 
 ##### Numbers 33 - 41
+<<<<<<< HEAD
 [[Lexicon/H5201-5300#H5265|And [the Israelites] set out]] [[Lexicon/H2001-2100#H2022|from Mount]] [[Lexicon/H2001-2100#H2023|Hor]] [[Lexicon/H2501-2600#H2583|and camped]] [[Lexicon/H6701-6800#H6758|at Zalmonah.]]
+=======
+[[Lexicon/H5201-5300#H5265|And (the Israelites) set out]] [[Lexicon/H2001-2100#H2022|from Mount]] [[Lexicon/H2001-2100#H2023|Hor]] [[Lexicon/H2501-2600#H2583|and camped]] [[Lexicon/H6701-6800#H6758|at Zalmonah.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/4 - Numbers/Numbers 33#Numbers 33 - 41|LXX]] |
 
 ##### Numbers 33 - 42

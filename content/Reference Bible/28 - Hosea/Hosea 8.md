@@ -10,13 +10,21 @@ cssClasses: lexicon
 ---
 
 ##### Hosea 8 - 1
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7782|[Put] the ram’s horn]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H2401-2500#H2441|your lips !]] [[Lexicon/H5401-5500#H5404|An eagle]] [[Lexicon/H5901-6000#H5921|looms over]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H3201-3300#H3282|because]] [[Lexicon/H5601-5700#H5674|[the people] have transgressed]] [[Lexicon/H1201-1300#H1285|My covenant]] [[Lexicon/H6501-6600#H6586|and rebelled]] [[Lexicon/H5901-6000#H5921|against]] [[Lexicon/H8401-8500#H8451|My law.]]
+=======
+[[Lexicon/H7701-7800#H7782|(Put) the ram’s horn]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H2401-2500#H2441|your lips !]] [[Lexicon/H5401-5500#H5404|An eagle]] [[Lexicon/H5901-6000#H5921|looms over]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H3201-3300#H3282|because]] [[Lexicon/H5601-5700#H5674|(the people) have transgressed]] [[Lexicon/H1201-1300#H1285|My covenant]] [[Lexicon/H6501-6600#H6586|and rebelled]] [[Lexicon/H5901-6000#H5921|against]] [[Lexicon/H8401-8500#H8451|My law.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Hosea 8 - 2
 [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H2101-2200#H2199|cries out]] [[Lexicon/H401-500#H430|“ O our God ,]] [[Lexicon/H3001-3100#H3045|we know You ! ”]]
 
 ##### Hosea 8 - 3
+<<<<<<< HEAD
 [[Lexicon/H3401-3500#H3478|[But] Israel]] [[Lexicon/H2101-2200#H2186|has rejected]] [[Lexicon/H2801-2900#H2896|good ;]] [[Lexicon/H301-400#H341|an enemy]] [[Lexicon/H7201-7300#H7291|will pursue him.]]
+=======
+[[Lexicon/H3401-3500#H3478|(But) Israel]] [[Lexicon/H2101-2200#H2186|has rejected]] [[Lexicon/H2801-2900#H2896|good ;]] [[Lexicon/H301-400#H341|an enemy]] [[Lexicon/H7201-7300#H7291|will pursue him.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Hosea 8 - 4
 [[Lexicon/H1901-2000#H1992|They]] [[Lexicon/H4401-4500#H4427|set up kings ,]] [[Lexicon/H3801-3900#H3808|but not]] [[Lexicon/H4401-4500#H4480|by Me.]] [[Lexicon/H7701-7800#H7786|They make princes ,]] [[Lexicon/H3801-3900#H3808|but without]] [[Lexicon/H3001-3100#H3045|My approval.]] [[Lexicon/H3701-3800#H3701|With their silver]] [[Lexicon/H2001-2100#H2091|and gold]] [[Lexicon/H6201-6300#H6213|they make]] [[Lexicon/H6001-6100#H6091|idols ,]] [[Lexicon/H4601-4700#H4616|to]] [[Lexicon/H3701-3800#H3772|their own destruction.]]
@@ -46,7 +54,11 @@ cssClasses: lexicon
 [[Lexicon/H3701-3800#H3789|Though I wrote]] [[Lexicon/H3701-3800#H3789|for them]] [[Lexicon/H7201-7300#H7239|the great things]] [[Lexicon/H8401-8500#H8451|of My law ,]] [[Lexicon/H2801-2900#H2803|they regarded them]] [[Lexicon/H3601-3700#H3644|as]] [[Lexicon/H2101-2200#H2114|something strange.]]
 
 ##### Hosea 8 - 13
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2076|Though they offer]] [[Lexicon/H2001-2100#H2077|sacrifices]] [[Lexicon/H1801-1900#H1890|as gifts to Me ,]] [[Lexicon/H301-400#H398|and [though they] eat]] [[Lexicon/H1301-1400#H1320|the meat ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3801-3900#H3808|does not]] [[Lexicon/H7501-7600#H7521|accept them.]] [[Lexicon/H6201-6300#H6258|Now]] [[Lexicon/H2101-2200#H2142|He will remember]] [[Lexicon/H5701-5800#H5771|their iniquity]] [[Lexicon/H6401-6500#H6485|and punish]] [[Lexicon/H2401-2500#H2403|their sins :]] [[Lexicon/H1901-2000#H1992|They]] [[Lexicon/H7701-7800#H7725|will return]] [[Lexicon/H4701-4800#H4714|to Egypt.]]
+=======
+[[Lexicon/H2001-2100#H2076|Though they offer]] [[Lexicon/H2001-2100#H2077|sacrifices]] [[Lexicon/H1801-1900#H1890|as gifts to Me ,]] [[Lexicon/H301-400#H398|and (though they) eat]] [[Lexicon/H1301-1400#H1320|the meat ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3801-3900#H3808|does not]] [[Lexicon/H7501-7600#H7521|accept them.]] [[Lexicon/H6201-6300#H6258|Now]] [[Lexicon/H2101-2200#H2142|He will remember]] [[Lexicon/H5701-5800#H5771|their iniquity]] [[Lexicon/H6401-6500#H6485|and punish]] [[Lexicon/H2401-2500#H2403|their sins :]] [[Lexicon/H1901-2000#H1992|They]] [[Lexicon/H7701-7800#H7725|will return]] [[Lexicon/H4701-4800#H4714|to Egypt.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Hosea 8 - 14
 [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7901-8000#H7911|has forgotten]] [[Lexicon/H6201-6300#H6213|his Maker]] [[Lexicon/H1101-1200#H1129|and built]] [[Lexicon/H1901-2000#H1964|palaces ;]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H7201-7300#H7235|has multiplied]] [[Lexicon/H1201-1300#H1219|its fortified]] [[Lexicon/H5801-5900#H5892|cities.]] [[Lexicon/H7901-8000#H7971|But I will send]] [[Lexicon/H701-800#H784|fire]] [[Lexicon/H5801-5900#H5892|upon their cities ,]] [[Lexicon/H301-400#H398|and it will consume]] [[Lexicon/H701-800#H759|their citadels.]]

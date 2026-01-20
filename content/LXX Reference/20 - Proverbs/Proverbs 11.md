@@ -19,7 +19,11 @@ Testament: Old
 [[Lexicon/G501-600#G0599|dying]] [[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G3001-3100#G3007|forsakes]] [[Lexicon/G3301-3400#G3338|regret]] [[Lexicon/G4301-4400#G4400|beforehand]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G1001-1100#G1096|takes place]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2020|ridicule]] [[Lexicon/G701-800#G0765|impious]] [[Lexicon/G601-700#G0684|destruction]]
 
 #### Proverbs 11 - 4
+<<<<<<< HEAD
 [[Lexicon/G5001-5100#G5047|soundness]] [[Lexicon/G2101-2200#G2117|upright]] [[Lexicon/G3501-3600#G3594|guide]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5286|fall]] [[Lexicon/G101-200#G0114|disregarding]] [[Lexicon/G4301-4400#G4307|plunder]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5700#G5623|benefit]] [[Lexicon/G5201-5300#G5224|possessions]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G2301-2400#G2372|rage]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1343|righteousness]] [[Lexicon/G4501-4600#G4506|rescue]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2201-2300#G2288|death]]
+=======
+[[Lexicon/G5001-5100#G5047|soundness]] [[Lexicon/G2101-2200#G2117|upright]] [[Lexicon/G3501-3600#G3594|guide]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5286|fall]] [[Lexicon/G101-200#G0114|disregarding]] [[Lexicon/G4301-4400#G4307|plunder]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G5601-5624#G5623|benefit]] [[Lexicon/G5201-5300#G5224|possessions]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G2301-2400#G2372|rage]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1343|righteousness]] [[Lexicon/G4501-4600#G4506|rescue]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G2201-2300#G2288|death]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Proverbs 11 - 5
 [[Lexicon/G1301-1400#G1343|righteousness]] [[Lexicon/G201-300#G0299|unblemished]] [[Lexicon/G3701-3800#G3718|cuts straight]] [[Lexicon/G3501-3600#G3598|ways]] [[Lexicon/G701-800#G0763|impiety]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G4001-4100#G4045|falls]] [[Lexicon/G1-100#G0093|injustice]]
@@ -49,7 +53,11 @@ Testament: Old
 [[Lexicon/G401-500#G0435|man]] [[Lexicon/G1301-1400#G1316|double-tongued]] [[Lexicon/G601-700#G0601|uncovers]] [[Lexicon/G1001-1100#G1012|plans]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4801-4900#G4892|sanhedrin]] [[Lexicon/G4101-4200#G4103|trustworthy]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G4101-4200#G4157|breath]] [[Lexicon/G2901-3000#G2928|hidden]] [[Lexicon/G4201-4300#G4229|matters]]
 
 #### Proverbs 11 - 14
+<<<<<<< HEAD
 [[Lexicon/G3701-3800#G3739|ones]] [[Lexicon/G3301-3400#G3361|not]] [[Lexicon/G5201-5300#G5224|exist]] [[Lexicon/G2901-3000#G2941|guidance]] [[Lexicon/G4001-4100#G4098|fall]] [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G5401-5500#G5444|leaves]] [[Lexicon/G4901-5000#G4991|deliverance]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G5201-5300#G5224|exists]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4183|much]] [[Lexicon/G1001-1100#G1012|counsel]]
+=======
+[[Lexicon/G3701-3800#G3739|ones]] [[Lexicon/G3301-3400#G3361|not]] [[Lexicon/G5201-5300#G5224|exist]] [[Lexicon/G2901-3000#G2941|guidance]] [[Lexicon/G4001-4100#G4098|fall]] [[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G5401-5500#G5444|leaves]] [[Lexicon/G4901-5000#G4991|deliverance]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G5201-5300#G5224|exists]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4183|much]] [[Lexicon/G1001-1100#G1012|counsel]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Proverbs 11 - 15
 [[Lexicon/G4101-4200#G4190|wicked]] [[Lexicon/G2501-2600#G2554|does evil]] [[Lexicon/G3701-3800#G3752|whenever]] [[Lexicon/G4801-4900#G4830|mixes]] [[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G3401-3500#G3404|detests]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G2201-2300#G2279|sound]] [[Lexicon/G801-900#G0803|safety]]
@@ -73,7 +81,11 @@ Testament: Old
 [[Lexicon/G5401-5500#G5495|hand]] [[Lexicon/G5401-5500#G5495|hands]] [[Lexicon/G1601-1700#G1685|putting]] [[Lexicon/G1-100#G0095|unjustly]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G801-900#G0821|unpunished]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G2501-2600#G2556|evils]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G4601-4700#G4687|sowing]] [[Lexicon/G1301-1400#G1343|righteousness]] [[Lexicon/G2901-3000#G2983|receive]] [[Lexicon/G3401-3500#G3408|wage]] [[Lexicon/G4101-4200#G4103|trustworthy]]
 
 #### Proverbs 11 - 22
+<<<<<<< HEAD
 [[Lexicon/G5601-5700#G5618|as]] [[Lexicon/G1801-1900#G1801|ring]] [[Lexicon/G5501-5600#G5552|golden]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4401-4500#G4492|nose]] [[Lexicon/G5201-5300#G5300|pig]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G1101-1200#G1135|woman]] [[Lexicon/G2501-2600#G2558|evil-minded]] [[Lexicon/G2501-2600#G2566|beauty]]
+=======
+[[Lexicon/G5601-5624#G5618|as]] [[Lexicon/G1801-1900#G1801|ring]] [[Lexicon/G5501-5600#G5552|golden]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4401-4500#G4492|nose]] [[Lexicon/G5201-5300#G5300|pig]] [[Lexicon/G3701-3800#G3779|so]] [[Lexicon/G1101-1200#G1135|woman]] [[Lexicon/G2501-2600#G2558|evil-minded]] [[Lexicon/G2501-2600#G2566|beauty]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Proverbs 11 - 23
 [[Lexicon/G1901-2000#G1939|desire]] [[Lexicon/G1301-1400#G1342|just]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1-100#G0018|good]] [[Lexicon/G1601-1700#G1680|hope]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G701-800#G0765|impious]] [[Lexicon/G601-700#G0622|perish]]

@@ -22,7 +22,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 6#Psalm 6 - 3|LXX]] |
 
 ##### Psalm 6 - 4
+<<<<<<< HEAD
 [[Lexicon/H7701-7800#H7725|Turn ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H2501-2600#H2502|[and] deliver]] [[Lexicon/H5301-5400#H5315|my soul ;]] [[Lexicon/H3401-3500#H3467|save me]] [[Lexicon/H4601-4700#H4616|because of]] [[Lexicon/H2601-2700#H2617|Your loving devotion.]]
+=======
+[[Lexicon/H7701-7800#H7725|Turn ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H2501-2600#H2502|(and) deliver]] [[Lexicon/H5301-5400#H5315|my soul ;]] [[Lexicon/H3401-3500#H3467|save me]] [[Lexicon/H4601-4700#H4616|because of]] [[Lexicon/H2601-2700#H2617|Your loving devotion.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 6#Psalm 6 - 4|LXX]] |
 
 ##### Psalm 6 - 5
@@ -30,7 +34,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 6#Psalm 6 - 5|LXX]] |
 
 ##### Psalm 6 - 6
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3021|I am weary]] [[Lexicon/H501-600#H585|from groaning ;]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H7801-7900#H7811|I flood]] [[Lexicon/H4201-4300#H4296|my bed with {weeping}]] [[Lexicon/H4501-4600#H4529|[and] drench]] [[Lexicon/H6201-6300#H6210|my couch]] [[Lexicon/H1801-1900#H1832|with tears.]]
+=======
+[[Lexicon/H3001-3100#H3021|I am weary]] [[Lexicon/H501-600#H585|from groaning ;]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3901-4000#H3915|night]] [[Lexicon/H7801-7900#H7811|I flood]] [[Lexicon/H4201-4300#H4296|my bed with {weeping}]] [[Lexicon/H4501-4600#H4529|(and) drench]] [[Lexicon/H6201-6300#H6210|my couch]] [[Lexicon/H1801-1900#H1832|with tears.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 6#Psalm 6 - 6|LXX]] |
 
 ##### Psalm 6 - 7

@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Nehemiah 2 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/16 - Nehemiah|← Nehemiah]]** | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 3 - TOSK|Ch 3 →]]
+=======
+**[[Home/Indexes/Readable Bible/16 - Nehemiah|← Nehemiah]]** | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/16. Nehemiah TOSK/Nehemiah - 3 - TOSK|Ch 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

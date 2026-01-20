@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Lamentations 2 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/25 - Lamentations|← Lamentations]]** | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 3 - TOSK|Ch 3 →]]
+=======
+**[[Home/Indexes/Readable Bible/25 - Lamentations|← Lamentations]]** | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 1 - TOSK|← Ch 1]] | [[The Treasury of Scripture Knowledge/25. Lamentations TOSK/Lamentations - 3 - TOSK|Ch 3 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -43,7 +43,11 @@ cssClasses: lexicon
 
 # Genesis-R 1
 
+<<<<<<< HEAD
 **[[Home/Scripture/01 - Genesis|Genesis]]**
+=======
+**[[Home/Indexes/Readable Bible/01 - Genesis|Genesis]]**
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 [[Readable Bible/01 - Genesis/Genesis 2#Genesis-R 2| Genesis 2]]
 
@@ -202,7 +206,11 @@ Cross-references are now stored in dedicated pair files with detailed analysis.
 ## [TOPIC NAME] TRAJECTORY TABLE
 
 
+<<<<<<< HEAD
 **Related Books:** [[Home/Scripture/02 - Exodus|Exodus]] · [[Home/Scripture/03 - Leviticus|Leviticus]]
+=======
+**Related Books:** [[Home/Indexes/Readable Bible/02 - Exodus|Exodus]] · [[Home/Indexes/Readable Bible/03 - Leviticus|Leviticus]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 [Introduction paragraph explaining the typology and its fulfillment]
 

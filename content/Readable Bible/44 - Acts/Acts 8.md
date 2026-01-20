@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Acts-R 8
 
 **[[Home/Scripture/44 - Acts|Acts]]**
 
 [[Readable Bible/44 - Acts/Acts 7#Acts-R 7| Acts 7]] - [[Readable Bible/44 - Acts/Acts 9#Acts-R 9| Acts 9]]
+=======
+# Acts 8
+
+[[Readable Bible/44 - Acts/Acts 7|← Acts 7]] | [[Readable Bible/44 - Acts/Acts 9|Acts 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -28,7 +28,11 @@ cssClasses: lexicon
 [[Lexicon/H3901-4000#H3956|May my tongue]] [[Lexicon/H1601-1700#H1692|cling]] [[Lexicon/H2401-2500#H2441|to the roof of my mouth]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H3801-3900#H3808|I do not]] [[Lexicon/H2101-2200#H2142|remember you ,]] [[Lexicon/H501-600#H518|if]] [[Lexicon/H3801-3900#H3808|I do not]] [[Lexicon/H5901-6000#H5927|exalt]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3301-3400#H3389|Jerusalem]] [[Lexicon/H5901-6000#H5921|as]] [[Lexicon/H7201-7300#H7218|my greatest]] [[Lexicon/H8001-8100#H8057|joy !]]
 
 ##### Psalm 137 - 7
+<<<<<<< HEAD
 [[Lexicon/H2101-2200#H2142|Remember ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H101-200#H123|of Edom]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3117|on the day]] [[Lexicon/H3301-3400#H3389|Jerusalem [fell] :]] [[Lexicon/H6101-6200#H6168|“ Destroy it , ”]] [[Lexicon/H501-600#H559|they said ,]] [[Lexicon/H6101-6200#H6168|“ tear it down]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H3201-3300#H3247|its foundations]]
+=======
+[[Lexicon/H2101-2200#H2142|Remember ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H1101-1200#H1121|the sons]] [[Lexicon/H101-200#H123|of Edom]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3101-3200#H3117|on the day]] [[Lexicon/H3301-3400#H3389|Jerusalem (fell) :]] [[Lexicon/H6101-6200#H6168|“ Destroy it , ”]] [[Lexicon/H501-600#H559|they said ,]] [[Lexicon/H6101-6200#H6168|“ tear it down]] [[Lexicon/H5701-5800#H5704|to]] [[Lexicon/H3201-3300#H3247|its foundations]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Psalm 137 - 8
 [[Lexicon/H1301-1400#H1323|O Daughter]] [[Lexicon/H801-900#H894|of Babylon ,]] [[Lexicon/H7701-7800#H7703|doomed to destruction ,]] [[Lexicon/H801-900#H835|blessed]] [[Lexicon/H7901-8000#H7999|is he who repays]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1501-1600#H1576|as]] [[Lexicon/H1501-1600#H1580|you have done]]

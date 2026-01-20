@@ -90,7 +90,11 @@ Testament: Old
 [[Lexicon/G3701-3800#G3778|heard these things]] [[Lexicon/G3801-3900#G3819|earlier]] [[Lexicon/G1501-1600#G1537|From]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G4901-5000#G4929|I ordered it.]] [[Lexicon/G3501-3600#G3568|But now]] [[Lexicon/G1901-2000#G1925|I displayed]] [[Lexicon/G1801-1900#G1830|to make desolate]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4172|cities]]
 
 #### Isaiah 37 - 27
+<<<<<<< HEAD
 [[Lexicon/G401-500#G0447|I weakened]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5495|hands,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3583|they were dried up;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1096|they became]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5700#G5613|as]] [[Lexicon/G1-100#G0070|wild grass.]]
+=======
+[[Lexicon/G401-500#G0447|I weakened]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5495|hands,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3583|they were dried up;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1096|they became]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5501-5600#G5528|grass]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1-100#G0070|wild grass.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 #### Isaiah 37 - 28
 [[Lexicon/G3501-3600#G3568|But now]] [[Lexicon/G301-400#G0372|your rest]]

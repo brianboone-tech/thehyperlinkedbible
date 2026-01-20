@@ -5,16 +5,26 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 2 Kings-R 21
 
 **[[Home/Scripture/12 - 2 Kings|2 Kings]]**
 
 [[Readable Bible/12 - 2 Kings/2 Kings 20#2 Kings-R 20| 2 Kings 20]] - [[Readable Bible/12 - 2 Kings/2 Kings 22#2 Kings-R 22| 2 Kings 22]]
+=======
+# 2 Kings 21
+
+[[Readable Bible/12 - 2 Kings/2 Kings 20|← 2 Kings 20]] | [[Readable Bible/12 - 2 Kings/2 Kings 22|2 Kings 22 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
 ##### 2 Kings 21 . 1
+<<<<<<< HEAD
 [[Reference Bible/12 - 2 Kings/2 Kings 21#2 Kings 21 - 1|1]] Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. His mother's name was Hephzibah.   || [[Intertextuality Pairs/OT to OT/12 - 2 Kings/2 Kings 21.1 to 2 Chronicles 33.1|IP¹]] | [[Intertextuality Pairs/OT to OT/12 - 2 Kings/2 Kings 21.1-18 to 2 Chronicles 33.1-20|IP²]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 21 - TOSK#Verse 1|TOSK]] |
+=======
+[[Reference Bible/12 - 2 Kings/2 Kings 21#2 Kings 21 - 1|1]] Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years. His mother's name was Hephzibah.  | | [[Intertextuality Pairs/OT to OT/12 - 2 Kings/2 Kings 21.1 to 2 Chronicles 33.1|IP¹]] | [[Intertextuality Pairs/OT to OT/12 - 2 Kings/2 Kings 21.1-18 to 2 Chronicles 33.1-20|IP²]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 21 - TOSK#Verse 1|TOSK]] |
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 2 Kings 21 . 2
 [[Reference Bible/12 - 2 Kings/2 Kings 21#2 Kings 21 - 2|2]] And he did evil in the sight of the LORD by following the abominations of the nations that the LORD had driven out before the Israelites.  | [[Intertextuality Pairs/OT to OT/12 - 2 Kings/2 Kings 21.1-18 to 2 Chronicles 33.1-20|IP]] | [[The Treasury of Scripture Knowledge/12. 2 Kings TOSK/2 Kings - 21 - TOSK#Verse 2|TOSK]] |

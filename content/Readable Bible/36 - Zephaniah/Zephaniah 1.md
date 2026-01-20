@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Zephaniah-R 1
 
 **[[Home/Scripture/36 - Zephaniah|Zephaniah]]**
 
 [[Habakkuk-R 3|Habakkuk 3]] • [[Zephaniah-R 2|Zephaniah 2]]
+=======
+# Zephaniah 1
+
+[[Readable Bible/35 - Habakkuk/Habakkuk 3|← Habakkuk 3]] | [[Readable Bible/36 - Zephaniah/Zephaniah 2|Zephaniah 2 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
@@ -65,5 +71,9 @@ cssClasses: lexicon
 [[Reference Bible/36 - Zephaniah/Zephaniah 1#Zephaniah 1 - 17|17]] I will bring such distress on mankind that they will walk like the blind, because they have sinned against the LORD. Their blood will be poured out like dust and their flesh like dung.  | [[Chiasm/Chiasm - 36 - Zephaniah 1 . 1 - 18|C]] | [[The Treasury of Scripture Knowledge/36. Zephaniah TOSK/Zephaniah - 1 - TOSK#Verse 17|TOSK]] |
 
 ##### Zephaniah 1 . 18
+<<<<<<< HEAD
 [[Reference Bible/36 - Zephaniah/Zephaniah 1#Zephaniah 1 - 18|18]] Neither their silver nor their gold will be able to deliver them on the Day of the LORD's wrath. The whole earth will be consumed by the fire of His jealousy." For indeed, He will make a sudden end of all who dwell on the earth.  | [[Intertextuality Pairs/OT to OT/36 - Zephaniah/Zephaniah 1.18 to Ezekiel 7.19|IP]] | [[Chiasm/Chiasm - 36 - Zephaniah 1 . 1 - 18|C]] | [[The Treasury of Scripture Knowledge/36. Zephaniah TOSK/Zephaniah - 1 - TOSK#Verse 18|TOSK]] | |
+=======
+[[Reference Bible/36 - Zephaniah/Zephaniah 1#Zephaniah 1 - 18|18]] Neither their silver nor their gold will be able to deliver them on the Day of the LORD's wrath. The whole earth will be consumed by the fire of His jealousy." For indeed, He will make a sudden end of all who dwell on the earth.  | [[Intertextuality Pairs/OT to OT/36 - Zephaniah/Zephaniah 1.18 to Ezekiel 7.19|IP]] | [[Chiasm/Chiasm - 36 - Zephaniah 1 . 1 - 18|C]] | [[The Treasury of Scripture Knowledge/36. Zephaniah TOSK/Zephaniah - 1 - TOSK#Verse 18|TOSK]] ||
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 

@@ -46,7 +46,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 94#Psalm 94 - 9|LXX]] |
 
 ##### Psalm 94 - 10
+<<<<<<< HEAD
 [[Lexicon/H3201-3300#H3256|He who admonishes]] [[Lexicon/H1401-1500#H1471|the nations ,]] [[Lexicon/H3801-3900#H3808|does He not]] [[Lexicon/H3101-3200#H3198|discipline ?]] [[Lexicon/H3901-4000#H3925|He who teaches]] [[Lexicon/H101-200#H120|man ,]] [[Lexicon/H1801-1900#H1847|does He [lack] knowledge ?]]
+=======
+[[Lexicon/H3201-3300#H3256|He who admonishes]] [[Lexicon/H1401-1500#H1471|the nations ,]] [[Lexicon/H3801-3900#H3808|does He not]] [[Lexicon/H3101-3200#H3198|discipline ?]] [[Lexicon/H3901-4000#H3925|He who teaches]] [[Lexicon/H101-200#H120|man ,]] [[Lexicon/H1801-1900#H1847|does He (lack) knowledge ?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 94#Psalm 94 - 10|LXX]] |
 
 ##### Psalm 94 - 11
@@ -54,7 +58,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 94#Psalm 94 - 11|LXX]] |
 
 ##### Psalm 94 - 12
+<<<<<<< HEAD
 [[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H1301-1400#H1397|[is] the man]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3201-3300#H3256|You discipline ,]] [[Lexicon/H3001-3100#H3050|O LORD ,]] [[Lexicon/H3901-4000#H3925|and teach]] [[Lexicon/H8401-8500#H8451|from Your law ,]]
+=======
+[[Lexicon/H801-900#H835|Blessed]] [[Lexicon/H1301-1400#H1397|(is) the man]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H3201-3300#H3256|You discipline ,]] [[Lexicon/H3001-3100#H3050|O LORD ,]] [[Lexicon/H3901-4000#H3925|and teach]] [[Lexicon/H8401-8500#H8451|from Your law ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 94#Psalm 94 - 12|LXX]] |
 
 ##### Psalm 94 - 13

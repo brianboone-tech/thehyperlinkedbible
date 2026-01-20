@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Isaiah 20 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 21 - TOSK|Ch 21 →]]
+=======
+**[[Home/Indexes/Readable Bible/23 - Isaiah|← Isaiah]]** | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 19 - TOSK|← Ch 19]] | [[The Treasury of Scripture Knowledge/23. Isaiah TOSK/Isaiah - 21 - TOSK|Ch 21 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

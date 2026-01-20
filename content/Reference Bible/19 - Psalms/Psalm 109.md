@@ -22,7 +22,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 3|LXX]] |
 
 ##### Psalm 109 - 4
+<<<<<<< HEAD
 [[Lexicon/H8401-8500#H8478|In return for]] [[Lexicon/H101-200#H160|my love]] [[Lexicon/H7801-7900#H7853|they accuse me ,]] [[Lexicon/H501-600#H589|but I [am a man]]] [[Lexicon/H8601-8674#H8605|[of] prayer.]]
+=======
+[[Lexicon/H8401-8500#H8478|In return for]] [[Lexicon/H101-200#H160|my love]] [[Lexicon/H7801-7900#H7853|they accuse me ,]] [[Lexicon/H501-600#H589|but I (am a man)]] [[Lexicon/H8601-8674#H8605|(of) prayer.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 4|LXX]] |
 
 ##### Psalm 109 - 5
@@ -54,7 +58,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 11|LXX]] |
 
 ##### Psalm 109 - 12
+<<<<<<< HEAD
 [[Lexicon/H1901-2000#H1961|May there be]] [[Lexicon/H401-500#H408|no one]] [[Lexicon/H4801-4900#H4900|to extend]] [[Lexicon/H2601-2700#H2617|kindness]] [[Lexicon/H1901-2000#H1961|[and]]] [[Lexicon/H401-500#H408|no one]] [[Lexicon/H2601-2700#H2603|to favor]] [[Lexicon/H3401-3500#H3490|his fatherless children.]]
+=======
+[[Lexicon/H1901-2000#H1961|May there be]] [[Lexicon/H401-500#H408|no one]] [[Lexicon/H4801-4900#H4900|to extend]] [[Lexicon/H2601-2700#H2617|kindness]] [[Lexicon/H1901-2000#H1961|(and)]] [[Lexicon/H401-500#H408|no one]] [[Lexicon/H2601-2700#H2603|to favor]] [[Lexicon/H3401-3500#H3490|his fatherless children.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 12|LXX]] |
 
 ##### Psalm 109 - 13
@@ -66,7 +74,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 14|LXX]] |
 
 ##### Psalm 109 - 15
+<<<<<<< HEAD
 [[Lexicon/H8501-8600#H8548|May [their sins] always]] [[Lexicon/H1901-2000#H1961|remain]] [[Lexicon/H5001-5100#H5048|before]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3701-3800#H3772|that He may cut off]] [[Lexicon/H2101-2200#H2143|their memory]] [[Lexicon/H701-800#H776|from the earth.]]
+=======
+[[Lexicon/H8501-8600#H8548|May (their sins) always]] [[Lexicon/H1901-2000#H1961|remain]] [[Lexicon/H5001-5100#H5048|before]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H3701-3800#H3772|that He may cut off]] [[Lexicon/H2101-2200#H2143|their memory]] [[Lexicon/H701-800#H776|from the earth.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 15|LXX]] |
 
 ##### Psalm 109 - 16
@@ -74,11 +86,19 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 16|LXX]] |
 
 ##### Psalm 109 - 17
+<<<<<<< HEAD
 [[Lexicon/H7001-7100#H7045|The cursing [that]]] [[Lexicon/H101-200#H157|he loved ,]] [[Lexicon/H901-1000#H935|may it fall on him ;]] [[Lexicon/H1201-1300#H1293|the blessing]] [[Lexicon/H3801-3900#H3808|[in which] he refused]] [[Lexicon/H2601-2700#H2654|to delight ,]] [[Lexicon/H7301-7400#H7368|may it be far]] [[Lexicon/H4401-4500#H4480|from him.]]
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 17|LXX]] |
 
 ##### Psalm 109 - 18
 [[Lexicon/H7001-7100#H7045|The cursing [that]]] [[Lexicon/H3801-3900#H3847|he wore]] [[Lexicon/H4001-4100#H4055|like a coat ,]] [[Lexicon/H901-1000#H935|may it soak into]] [[Lexicon/H7101-7200#H7130|his body]] [[Lexicon/H4301-4400#H4325|like water ,]] [[Lexicon/H6101-6200#H6106|and into his bones]] [[Lexicon/H8001-8100#H8081|like oil.]]
+=======
+[[Lexicon/H7001-7100#H7045|The cursing (that)]] [[Lexicon/H101-200#H157|he loved ,]] [[Lexicon/H901-1000#H935|may it fall on him ;]] [[Lexicon/H1201-1300#H1293|the blessing]] [[Lexicon/H3801-3900#H3808|(in which) he refused]] [[Lexicon/H2601-2700#H2654|to delight ,]] [[Lexicon/H7301-7400#H7368|may it be far]] [[Lexicon/H4401-4500#H4480|from him.]]
+| [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 17|LXX]] |
+
+##### Psalm 109 - 18
+[[Lexicon/H7001-7100#H7045|The cursing (that)]] [[Lexicon/H3801-3900#H3847|he wore]] [[Lexicon/H4001-4100#H4055|like a coat ,]] [[Lexicon/H901-1000#H935|may it soak into]] [[Lexicon/H7101-7200#H7130|his body]] [[Lexicon/H4301-4400#H4325|like water ,]] [[Lexicon/H6101-6200#H6106|and into his bones]] [[Lexicon/H8001-8100#H8081|like oil.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 18|LXX]] |
 
 ##### Psalm 109 - 19
@@ -94,7 +114,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 21|LXX]] |
 
 ##### Psalm 109 - 22
+<<<<<<< HEAD
 [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H6001-6100#H6041|[am] poor]] [[Lexicon/H1-100#H34|and needy ;]] [[Lexicon/H3801-3900#H3820|my heart]] [[Lexicon/H2401-2500#H2490|is wounded]] [[Lexicon/H7101-7200#H7130|within me.]]
+=======
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H6001-6100#H6041|(am) poor]] [[Lexicon/H1-100#H34|and needy ;]] [[Lexicon/H3801-3900#H3820|my heart]] [[Lexicon/H2401-2500#H2490|is wounded]] [[Lexicon/H7101-7200#H7130|within me.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 22|LXX]] |
 
 ##### Psalm 109 - 23
@@ -114,7 +138,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 26|LXX]] |
 
 ##### Psalm 109 - 27
+<<<<<<< HEAD
 [[Lexicon/H3001-3100#H3045|Let them know]] [[Lexicon/H3501-3600#H3588|that this]] [[Lexicon/H3001-3100#H3027|[is] Your hand ,]] [[Lexicon/H2001-2100#H2063|that]] [[Lexicon/H801-900#H859|You ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H6201-6300#H6213|have done it.]]
+=======
+[[Lexicon/H3001-3100#H3045|Let them know]] [[Lexicon/H3501-3600#H3588|that this]] [[Lexicon/H3001-3100#H3027|(is) Your hand ,]] [[Lexicon/H2001-2100#H2063|that]] [[Lexicon/H801-900#H859|You ,]] [[Lexicon/H3001-3100#H3068|O LORD ,]] [[Lexicon/H6201-6300#H6213|have done it.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 109#Psalm 109 - 27|LXX]] |
 
 ##### Psalm 109 - 28

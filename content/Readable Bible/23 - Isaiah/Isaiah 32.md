@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Isaiah-R 32
 
 **[[Home/Scripture/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 31#Isaiah-R 31| Isaiah 31]] - [[Readable Bible/23 - Isaiah/Isaiah 33#Isaiah-R 33| Isaiah 33]]
+=======
+# Isaiah 32
+
+[[Readable Bible/23 - Isaiah/Isaiah 31|← Isaiah 31]] | [[Readable Bible/23 - Isaiah/Isaiah 33|Isaiah 33 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Isaiah-R 58
 
 **[[Home/Scripture/23 - Isaiah|Isaiah]]**
 
 [[Readable Bible/23 - Isaiah/Isaiah 57#Isaiah-R 57| Isaiah 57]] - [[Readable Bible/23 - Isaiah/Isaiah 59#Isaiah-R 59| Isaiah 59]]
+=======
+# Isaiah 58
+
+[[Readable Bible/23 - Isaiah/Isaiah 57|← Isaiah 57]] | [[Readable Bible/23 - Isaiah/Isaiah 59|Isaiah 59 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

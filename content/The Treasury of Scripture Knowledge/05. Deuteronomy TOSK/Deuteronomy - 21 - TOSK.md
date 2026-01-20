@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Deuteronomy 21 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 20 - TOSK|← Ch 20]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 22 - TOSK|Ch 22 →]]
+=======
+**[[Home/Indexes/Readable Bible/05 - Deuteronomy|← Deuteronomy]]** | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 20 - TOSK|← Ch 20]] | [[The Treasury of Scripture Knowledge/05. Deuteronomy TOSK/Deuteronomy - 22 - TOSK|Ch 22 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

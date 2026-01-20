@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Job 29 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 30 - TOSK|Ch 30 →]]
+=======
+**[[Home/Indexes/Readable Bible/18 - Job|← Job]]** | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 28 - TOSK|← Ch 28]] | [[The Treasury of Scripture Knowledge/18. Job TOSK/Job - 30 - TOSK|Ch 30 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

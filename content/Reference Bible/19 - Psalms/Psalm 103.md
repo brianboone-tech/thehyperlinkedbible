@@ -10,7 +10,11 @@ cssClasses: lexicon
 ---
 
 ##### Psalm 103 - 1
+<<<<<<< HEAD
 [[Lexicon/H1701-1800#H1732|Of David.]] [[Lexicon/H1201-1300#H1288|Bless]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H5301-5400#H5315|O my soul]] [[Lexicon/H801-900#H853|- ;]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H7101-7200#H7130|that is within me ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6944|[bless] His holy]] [[Lexicon/H8001-8100#H8034|name.]]
+=======
+[[Lexicon/H1701-1800#H1732|Of David.]] [[Lexicon/H1201-1300#H1288|Bless]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H5301-5400#H5315|O my soul]] [[Lexicon/H801-900#H853|- ;]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H7101-7200#H7130|that is within me ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6944|(bless) His holy]] [[Lexicon/H8001-8100#H8034|name.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 103#Psalm 103 - 1|LXX]] |
 
 ##### Psalm 103 - 2
@@ -22,7 +26,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 103#Psalm 103 - 3|LXX]] |
 
 ##### Psalm 103 - 4
+<<<<<<< HEAD
 [[Lexicon/H1301-1400#H1350|who redeems]] [[Lexicon/H2401-2500#H2416|your life]] [[Lexicon/H7801-7900#H7845|from the Pit]] [[Lexicon/H5801-5900#H5849|[and] crowns]] [[Lexicon/H2601-2700#H2617|you with loving devotion]] [[Lexicon/H7301-7400#H7356|and compassion ,]]
+=======
+[[Lexicon/H1301-1400#H1350|who redeems]] [[Lexicon/H2401-2500#H2416|your life]] [[Lexicon/H7801-7900#H7845|from the Pit]] [[Lexicon/H5801-5900#H5849|(and) crowns]] [[Lexicon/H2601-2700#H2617|you with loving devotion]] [[Lexicon/H7301-7400#H7356|and compassion ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 103#Psalm 103 - 4|LXX]] |
 
 ##### Psalm 103 - 5
@@ -42,7 +50,11 @@ cssClasses: lexicon
 | [[LXX Reference/19 - Psalms/Psalms 103#Psalm 103 - 8|LXX]] |
 
 ##### Psalm 103 - 9
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|He will not]] [[Lexicon/H5301-5400#H5331|always]] [[Lexicon/H7301-7400#H7378|accuse us ,]] [[Lexicon/H3801-3900#H3808|nor]] [[Lexicon/H5201-5300#H5201|harbor [His anger]]] [[Lexicon/H5701-5800#H5769|forever.]]
+=======
+[[Lexicon/H3801-3900#H3808|He will not]] [[Lexicon/H5301-5400#H5331|always]] [[Lexicon/H7301-7400#H7378|accuse us ,]] [[Lexicon/H3801-3900#H3808|nor]] [[Lexicon/H5201-5300#H5201|harbor (His anger)]] [[Lexicon/H5701-5800#H5769|forever.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/19 - Psalms/Psalms 103#Psalm 103 - 9|LXX]] |
 
 ##### Psalm 103 - 10

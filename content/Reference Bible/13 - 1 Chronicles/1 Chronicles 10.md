@@ -12,7 +12,11 @@ Book: 1 Chronicles
 ---
 
 ##### 1 Chronicles 10 - 1
+<<<<<<< HEAD
 [[Lexicon/H6401-6500#H6430|Now the Philistines]] [[Lexicon/H3801-3900#H3898|fought]] [[Lexicon/H3401-3500#H3478|against Israel ,]] [[Lexicon/H301-400#H376|and the men]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H5101-5200#H5127|fled]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H6401-6500#H6430|them ,]] [[Lexicon/H5301-5400#H5307|and [many] fell]] [[Lexicon/H2401-2500#H2491|slain]] [[Lexicon/H2001-2100#H2022|on Mount]] [[Lexicon/H1501-1600#H1533|Gilboa.]]
+=======
+[[Lexicon/H6401-6500#H6430|Now the Philistines]] [[Lexicon/H3801-3900#H3898|fought]] [[Lexicon/H3401-3500#H3478|against Israel ,]] [[Lexicon/H301-400#H376|and the men]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H5101-5200#H5127|fled]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H6401-6500#H6430|them ,]] [[Lexicon/H5301-5400#H5307|and (many) fell]] [[Lexicon/H2401-2500#H2491|slain]] [[Lexicon/H2001-2100#H2022|on Mount]] [[Lexicon/H1501-1600#H1533|Gilboa.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Chronicles 10 - 2
 [[Lexicon/H6401-6500#H6430|The Philistines]] [[Lexicon/H301-400#H310|...]] [[Lexicon/H1601-1700#H1692|followed hard after]] [[Lexicon/H7501-7600#H7586|Saul]] [[Lexicon/H301-400#H310|...]] [[Lexicon/H1101-1200#H1121|and his sons ,]] [[Lexicon/H5201-5300#H5221|and they killed]] [[Lexicon/H6401-6500#H6430|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7501-7600#H7586|Saul’s]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H3101-3200#H3129|Jonathan ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1-100#H41|Abinadab ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4401-4500#H4444|vvv]] [[Lexicon/H4401-4500#H4444|and Malchishua.]]
@@ -30,13 +34,21 @@ Book: 1 Chronicles
 [[Lexicon/H7501-7600#H7586|So Saul]] [[Lexicon/H4101-4200#H4191|died]] [[Lexicon/H3101-3200#H3162|together]] [[Lexicon/H7901-8000#H7969|with his three]] [[Lexicon/H1101-1200#H1121|sons]] [[Lexicon/H4101-4200#H4191|-]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H1001-1100#H1004|his house.]]
 
 ##### 1 Chronicles 10 - 7
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|When all]] [[Lexicon/H301-400#H376|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6001-6100#H6010|in the valley]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H5101-5200#H5127|[the army] had fled]] [[Lexicon/H3501-3600#H3588|and that]] [[Lexicon/H7501-7600#H7586|Saul]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H4101-4200#H4191|had died ,]] [[Lexicon/H5701-5800#H5800|they abandoned]] [[Lexicon/H5801-5900#H5892|their cities]] [[Lexicon/H5101-5200#H5127|and ran away.]] [[Lexicon/H6401-6500#H6430|So the Philistines]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H3401-3500#H3427|and occupied]]
+=======
+[[Lexicon/H3601-3700#H3605|When all]] [[Lexicon/H301-400#H376|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6001-6100#H6010|in the valley]] [[Lexicon/H7101-7200#H7200|saw]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H5101-5200#H5127|(the army) had fled]] [[Lexicon/H3501-3600#H3588|and that]] [[Lexicon/H7501-7600#H7586|Saul]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H4101-4200#H4191|had died ,]] [[Lexicon/H5701-5800#H5800|they abandoned]] [[Lexicon/H5801-5900#H5892|their cities]] [[Lexicon/H5101-5200#H5127|and ran away.]] [[Lexicon/H6401-6500#H6430|So the Philistines]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H3401-3500#H3427|and occupied]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Chronicles 10 - 8
 [[Lexicon/H1901-2000#H1961|-]] [[Lexicon/H4201-4300#H4283|The next day ,]] [[Lexicon/H6401-6500#H6430|when the Philistines]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H6501-6600#H6584|to strip]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2401-2500#H2491|the dead ,]] [[Lexicon/H4601-4700#H4672|they found]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7501-7600#H7586|Saul]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H5301-5400#H5307|fallen]] [[Lexicon/H2001-2100#H2022|on Mount]] [[Lexicon/H1501-1600#H1533|Gilboa.]]
 
 ##### 1 Chronicles 10 - 9
+<<<<<<< HEAD
 [[Lexicon/H6501-6600#H6584|They stripped Saul ,]] [[Lexicon/H7201-7300#H7218|cut off his head ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5375|took]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3627|his armor ,]] [[Lexicon/H7901-8000#H7971|and sent]] [[Lexicon/H701-800#H776|messengers throughout the land]] [[Lexicon/H6401-6500#H6430|of the Philistines]] [[Lexicon/H5401-5500#H5439|...]] [[Lexicon/H1301-1400#H1319|to proclaim the news]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6001-6100#H6091|[in the temple] of their idols]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|and among their people.]]
+=======
+[[Lexicon/H6501-6600#H6584|They stripped Saul ,]] [[Lexicon/H7201-7300#H7218|cut off his head ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5301-5400#H5375|took]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3627|his armor ,]] [[Lexicon/H7901-8000#H7971|and sent]] [[Lexicon/H701-800#H776|messengers throughout the land]] [[Lexicon/H6401-6500#H6430|of the Philistines]] [[Lexicon/H5401-5500#H5439|...]] [[Lexicon/H1301-1400#H1319|to proclaim the news]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6001-6100#H6091|(in the temple) of their idols]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5901-6000#H5971|and among their people.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### 1 Chronicles 10 - 10
 [[Lexicon/H7701-7800#H7760|They put]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3627|his armor]] [[Lexicon/H1001-1100#H1004|in the temple]] [[Lexicon/H401-500#H430|of their gods]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8601-8674#H8628|and hung]] [[Lexicon/H1501-1600#H1538|his head]] [[Lexicon/H1001-1100#H1004|in the temple]] [[Lexicon/H1701-1800#H1712|of Dagon.]]

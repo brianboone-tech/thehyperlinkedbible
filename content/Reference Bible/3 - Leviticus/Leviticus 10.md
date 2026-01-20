@@ -32,7 +32,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 10#Leviticus 10 - 5|LXX]] |
 
 ##### Leviticus 10 - 6
+<<<<<<< HEAD
 [[Lexicon/H4801-4900#H4872|Then Moses]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H401-500#H499|Eleazar]] [[Lexicon/H301-400#H385|and Ithamar ,]] [[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H7201-7300#H7218|let your hair]] [[Lexicon/H6501-6600#H6544|become disheveled]] [[Lexicon/H3801-3900#H3808|and do not]] [[Lexicon/H6501-6600#H6533|tear]] [[Lexicon/H801-900#H899|your garments ,]] [[Lexicon/H3801-3900#H3808|or else]] [[Lexicon/H4101-4200#H4191|you will die ,]] [[Lexicon/H7101-7200#H7107|and the LORD will be angry]] [[Lexicon/H5901-6000#H5921|with]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H5701-5800#H5712|congregation.]] [[Lexicon/H201-300#H251|But your brothers ,]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H1001-1100#H1004|house]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H1001-1100#H1058|may mourn [on account of]]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8316|the fire]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8301-8400#H8313|has ignited.]]
+=======
+[[Lexicon/H4801-4900#H4872|Then Moses]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H1101-1200#H1121|and his sons]] [[Lexicon/H401-500#H499|Eleazar]] [[Lexicon/H301-400#H385|and Ithamar ,]] [[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H7201-7300#H7218|let your hair]] [[Lexicon/H6501-6600#H6544|become disheveled]] [[Lexicon/H3801-3900#H3808|and do not]] [[Lexicon/H6501-6600#H6533|tear]] [[Lexicon/H801-900#H899|your garments ,]] [[Lexicon/H3801-3900#H3808|or else]] [[Lexicon/H4101-4200#H4191|you will die ,]] [[Lexicon/H7101-7200#H7107|and the LORD will be angry]] [[Lexicon/H5901-6000#H5921|with]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H5701-5800#H5712|congregation.]] [[Lexicon/H201-300#H251|But your brothers ,]] [[Lexicon/H3601-3700#H3605|the whole]] [[Lexicon/H1001-1100#H1004|house]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H1001-1100#H1058|may mourn (on account of)]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8301-8400#H8316|the fire]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8301-8400#H8313|has ignited.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 10#Leviticus 10 - 6|LXX]] |
 
 ##### Leviticus 10 - 7
@@ -56,7 +60,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 10#Leviticus 10 - 11|LXX]] |
 
 ##### Leviticus 10 - 12
+<<<<<<< HEAD
 [[Lexicon/H4801-4900#H4872|And Moses]] [[Lexicon/H1601-1700#H1696|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3401-3500#H3498|and his remaining]] [[Lexicon/H1101-1200#H1121|sons ,]] [[Lexicon/H401-500#H499|Eleazar]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H301-400#H385|and Ithamar ,]] [[Lexicon/H3901-4000#H3947|“ Take]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4501-4600#H4503|the grain offering]] [[Lexicon/H3401-3500#H3498|that remains]] [[Lexicon/H801-900#H801|from the offerings made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H301-400#H398|and eat it]] [[Lexicon/H4601-4700#H4682|without leaven]] [[Lexicon/H601-700#H681|beside]] [[Lexicon/H4101-4200#H4196|the altar ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|it [is]]] [[Lexicon/H6901-7000#H6944|most]] [[Lexicon/H6901-7000#H6944|holy.]]
+=======
+[[Lexicon/H4801-4900#H4872|And Moses]] [[Lexicon/H1601-1700#H1696|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H101-200#H175|Aaron]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3401-3500#H3498|and his remaining]] [[Lexicon/H1101-1200#H1121|sons ,]] [[Lexicon/H401-500#H499|Eleazar]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H301-400#H385|and Ithamar ,]] [[Lexicon/H3901-4000#H3947|“ Take]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H4501-4600#H4503|the grain offering]] [[Lexicon/H3401-3500#H3498|that remains]] [[Lexicon/H801-900#H801|from the offerings made by fire]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H301-400#H398|and eat it]] [[Lexicon/H4601-4700#H4682|without leaven]] [[Lexicon/H601-700#H681|beside]] [[Lexicon/H4101-4200#H4196|the altar ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H1901-2000#H1931|it (is)]] [[Lexicon/H6901-7000#H6944|most]] [[Lexicon/H6901-7000#H6944|holy.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 10#Leviticus 10 - 12|LXX]] |
 
 ##### Leviticus 10 - 13
@@ -80,7 +88,11 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 10#Leviticus 10 - 17|LXX]] |
 
 ##### Leviticus 10 - 18
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2005|Since]] [[Lexicon/H1801-1900#H1818|its blood]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3801-3900#H3808|was not]] [[Lexicon/H901-1000#H935|brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6441|inside]] [[Lexicon/H6901-7000#H6944|the holy [place] ,]] [[Lexicon/H301-400#H398|you should have eaten]] [[Lexicon/H301-400#H398|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6944|it in the sanctuary area ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H6601-6700#H6680|I commanded. ”]]
+=======
+[[Lexicon/H2001-2100#H2005|Since]] [[Lexicon/H1801-1900#H1818|its blood]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H3801-3900#H3808|was not]] [[Lexicon/H901-1000#H935|brought]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6401-6500#H6441|inside]] [[Lexicon/H6901-7000#H6944|the holy (place) ,]] [[Lexicon/H301-400#H398|you should have eaten]] [[Lexicon/H301-400#H398|...]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6901-7000#H6944|it in the sanctuary area ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H6601-6700#H6680|I commanded. ”]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 10#Leviticus 10 - 18|LXX]] |
 
 ##### Leviticus 10 - 19
@@ -88,5 +100,9 @@ Book: Leviticus
 | [[LXX Reference/3 - Leviticus/Leviticus 10#Leviticus 10 - 19|LXX]] |
 
 ##### Leviticus 10 - 20
+<<<<<<< HEAD
 [[Lexicon/H4801-4900#H4872|And when Moses]] [[Lexicon/H8001-8100#H8085|heard this [explanation] ,]] [[Lexicon/H3101-3200#H3190|he was satisfied]] [[Lexicon/H5801-5900#H5869|....]]
+=======
+[[Lexicon/H4801-4900#H4872|And when Moses]] [[Lexicon/H8001-8100#H8085|heard this (explanation) ,]] [[Lexicon/H3101-3200#H3190|he was satisfied]] [[Lexicon/H5801-5900#H5869|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/3 - Leviticus/Leviticus 10#Leviticus 10 - 20|LXX]] |

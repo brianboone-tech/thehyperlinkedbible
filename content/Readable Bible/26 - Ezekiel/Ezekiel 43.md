@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Ezekiel-R 43
 
 **[[Home/Scripture/26 - Ezekiel|Ezekiel]]**
 
 [[Readable Bible/26 - Ezekiel/Ezekiel 42#Ezekiel-R 42| Ezekiel 42]] - [[Readable Bible/26 - Ezekiel/Ezekiel 44#Ezekiel-R 44| Ezekiel 44]]
+=======
+# Ezekiel 43
+
+[[Readable Bible/26 - Ezekiel/Ezekiel 42|← Ezekiel 42]] | [[Readable Bible/26 - Ezekiel/Ezekiel 44|Ezekiel 44 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Matthew-R 8
 
 **[[Home/Scripture/40 - Matthew|Matthew]]**
 
 [[Readable Bible/40 - Matthew/Matthew 7#Matthew-R 7| Matthew 7]] - [[Readable Bible/40 - Matthew/Matthew 9#Matthew-R 9| Matthew 9]]
+=======
+# Matthew 8
+
+[[Readable Bible/40 - Matthew/Matthew 7|← Matthew 7]] | [[Readable Bible/40 - Matthew/Matthew 9|Matthew 9 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

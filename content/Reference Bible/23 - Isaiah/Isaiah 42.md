@@ -10,10 +10,17 @@ cssClasses: lexicon
 ---
 
 ##### Isaiah 42 - 1
+<<<<<<< HEAD
 [[Lexicon/H2001-2100#H2005|[“] Here is]] [[Lexicon/H5601-5700#H5650|My Servant ,]] [[Lexicon/H8501-8600#H8551|whom I uphold]] [[Lexicon/H901-1000#H972|My Chosen One ,]] [[Lexicon/H5301-5400#H5315|[in whom] My soul]] [[Lexicon/H7501-7600#H7521|delights.]] [[Lexicon/H5401-5500#H5414|I will put]] [[Lexicon/H7301-7400#H7307|My Spirit]] [[Lexicon/H5901-6000#H5921|on Him ,]] [[Lexicon/H3301-3400#H3318|[and] He will bring]] [[Lexicon/H4901-5000#H4941|justice]] [[Lexicon/H1401-1500#H1471|to the nations.]]
 
 ##### Isaiah 42 - 2
 [[Lexicon/H3801-3900#H3808|He will not]] [[Lexicon/H6801-6900#H6817|cry out]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H5301-5400#H5375|raise [His voice] ,]] [[Lexicon/H3801-3900#H3808|nor]] [[Lexicon/H6901-7000#H6963|make His voice]] [[Lexicon/H8001-8100#H8085|heard]] [[Lexicon/H2301-2400#H2351|in the streets.]]
+=======
+[[Lexicon/H2001-2100#H2005|(“) Here is]] [[Lexicon/H5601-5700#H5650|My Servant ,]] [[Lexicon/H8501-8600#H8551|whom I uphold]] [[Lexicon/H901-1000#H972|My Chosen One ,]] [[Lexicon/H5301-5400#H5315|(in whom) My soul]] [[Lexicon/H7501-7600#H7521|delights.]] [[Lexicon/H5401-5500#H5414|I will put]] [[Lexicon/H7301-7400#H7307|My Spirit]] [[Lexicon/H5901-6000#H5921|on Him ,]] [[Lexicon/H3301-3400#H3318|(and) He will bring]] [[Lexicon/H4901-5000#H4941|justice]] [[Lexicon/H1401-1500#H1471|to the nations.]]
+
+##### Isaiah 42 - 2
+[[Lexicon/H3801-3900#H3808|He will not]] [[Lexicon/H6801-6900#H6817|cry out]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H5301-5400#H5375|raise (His voice) ,]] [[Lexicon/H3801-3900#H3808|nor]] [[Lexicon/H6901-7000#H6963|make His voice]] [[Lexicon/H8001-8100#H8085|heard]] [[Lexicon/H2301-2400#H2351|in the streets.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Isaiah 42 - 3
 [[Lexicon/H7501-7600#H7533|A bruised]] [[Lexicon/H7001-7100#H7070|reed]] [[Lexicon/H3801-3900#H3808|He will not]] [[Lexicon/H7601-7700#H7665|break]] [[Lexicon/H3501-3600#H3544|and a smoldering]] [[Lexicon/H6501-6600#H6594|wick]] [[Lexicon/H3801-3900#H3808|He will not]] [[Lexicon/H3501-3600#H3518|extinguish ;]] [[Lexicon/H501-600#H571|He will faithfully]] [[Lexicon/H3301-3400#H3318|bring forth]] [[Lexicon/H4901-5000#H4941|justice.]]
@@ -40,7 +47,11 @@ cssClasses: lexicon
 [[Lexicon/H7801-7900#H7891|Sing]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H2301-2400#H2319|a new]] [[Lexicon/H7801-7900#H7892|song —]] [[Lexicon/H8401-8500#H8416|His praise]] [[Lexicon/H7001-7100#H7097|from the ends]] [[Lexicon/H701-800#H776|of the earth —]] [[Lexicon/H3301-3400#H3381|you who go down]] [[Lexicon/H3201-3300#H3220|to the sea ,]] [[Lexicon/H4301-4400#H4393|and all that is in it ,]] [[Lexicon/H301-400#H339|you islands ,]] [[Lexicon/H3401-3500#H3427|and all who dwell in them.]]
 
 ##### Isaiah 42 - 11
+<<<<<<< HEAD
 [[Lexicon/H4001-4100#H4057|Let the desert]] [[Lexicon/H5801-5900#H5892|and its cities]] [[Lexicon/H5301-5400#H5375|raise their voices ;]] [[Lexicon/H2601-2700#H2691|[let] the villages]] [[Lexicon/H3401-3500#H3427|]] [[Lexicon/H6901-7000#H6938|of Kedar [cry aloud].]] [[Lexicon/H3401-3500#H3427|Let the people]] [[Lexicon/H5501-5600#H5554|of Sela]] [[Lexicon/H7401-7500#H7442|sing for joy ;]] [[Lexicon/H6601-6700#H6681|let them cry out]] [[Lexicon/H7201-7300#H7218|from the mountaintops]] [[Lexicon/H2001-2100#H2022|....]]
+=======
+[[Lexicon/H4001-4100#H4057|Let the desert]] [[Lexicon/H5801-5900#H5892|and its cities]] [[Lexicon/H5301-5400#H5375|raise their voices ;]] [[Lexicon/H2601-2700#H2691|(let) the villages]] [[Lexicon/H3401-3500#H3427|]] [[Lexicon/H6901-7000#H6938|of Kedar (cry aloud).]] [[Lexicon/H3401-3500#H3427|Let the people]] [[Lexicon/H5501-5600#H5554|of Sela]] [[Lexicon/H7401-7500#H7442|sing for joy ;]] [[Lexicon/H6601-6700#H6681|let them cry out]] [[Lexicon/H7201-7300#H7218|from the mountaintops]] [[Lexicon/H2001-2100#H2022|....]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Isaiah 42 - 12
 [[Lexicon/H7701-7800#H7760|Let them give]] [[Lexicon/H3501-3600#H3519|glory]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H5001-5100#H5046|and declare]] [[Lexicon/H8401-8500#H8416|His praise]] [[Lexicon/H301-400#H339|in the islands.]]
@@ -61,7 +72,11 @@ cssClasses: lexicon
 [[Lexicon/H901-1000#H982|But those who trust]] [[Lexicon/H6401-6500#H6459|in idols]] [[Lexicon/H501-600#H559|and say]] [[Lexicon/H4501-4600#H4541|to molten images ,]] [[Lexicon/H801-900#H859|‘ You]] [[Lexicon/H401-500#H430|are our gods ! ’]] [[Lexicon/H5401-5500#H5472|will be turned]] [[Lexicon/H201-300#H268|back]] [[Lexicon/H1301-1400#H1322|in utter]] [[Lexicon/H901-1000#H954|shame.]]
 
 ##### Isaiah 42 - 18
+<<<<<<< HEAD
 [[Lexicon/H8001-8100#H8085|Listen ,]] [[Lexicon/H2701-2800#H2795|you deaf [ones] ;]] [[Lexicon/H5001-5100#H5027|look ,]] [[Lexicon/H5701-5800#H5787|you blind [ones] ,]] [[Lexicon/H7101-7200#H7200|that you may see !]]
+=======
+[[Lexicon/H8001-8100#H8085|Listen ,]] [[Lexicon/H2701-2800#H2795|you deaf (ones) ;]] [[Lexicon/H5001-5100#H5027|look ,]] [[Lexicon/H5701-5800#H5787|you blind (ones) ,]] [[Lexicon/H7101-7200#H7200|that you may see !]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Isaiah 42 - 19
 [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H5701-5800#H5787|is blind]] [[Lexicon/H3501-3600#H3588|but]] [[Lexicon/H501-600#H518|...]] [[Lexicon/H5601-5700#H5650|My servant ,]] [[Lexicon/H2701-2800#H2795|or deaf]] [[Lexicon/H4301-4400#H4397|like the messenger]] [[Lexicon/H7901-8000#H7971|I am sending ?]] [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H5701-5800#H5787|is blind]] [[Lexicon/H7901-8000#H7999|like My covenant partner ,]] [[Lexicon/H5701-5800#H5787|or blind]] [[Lexicon/H5601-5700#H5650|like the servant]] [[Lexicon/H3001-3100#H3068|of the LORD ?]]
@@ -76,7 +91,11 @@ cssClasses: lexicon
 [[Lexicon/H1901-2000#H1931|But this]] [[Lexicon/H5901-6000#H5971|is a people]] [[Lexicon/H901-1000#H962|plundered]] [[Lexicon/H8101-8200#H8154|and looted ,]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H6301-6400#H6351|trapped]] [[Lexicon/H2301-2400#H2352|in caves]] [[Lexicon/H2201-2300#H2244|or imprisoned]] [[Lexicon/H1001-1100#H1004|in dungeons]] [[Lexicon/H3601-3700#H3608|....]] [[Lexicon/H1901-2000#H1961|They have become]] [[Lexicon/H901-1000#H957|plunder]] [[Lexicon/H301-400#H369|with no]] [[Lexicon/H5301-5400#H5337|one to rescue them ,]] [[Lexicon/H4901-5000#H4933|and loot]] [[Lexicon/H301-400#H369|with no]] [[Lexicon/H501-600#H559|one to say ,]] [[Lexicon/H7701-7800#H7725|“ Send them back ! ”]]
 
 ##### Isaiah 42 - 23
+<<<<<<< HEAD
 [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H201-300#H238|will pay attention]] [[Lexicon/H2001-2100#H2063|to this ?]] [[Lexicon/H7101-7200#H7181|[Who] will listen]] [[Lexicon/H8001-8100#H8085|and obey]] [[Lexicon/H201-300#H268|hereafter ?]]
+=======
+[[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H201-300#H238|will pay attention]] [[Lexicon/H2001-2100#H2063|to this ?]] [[Lexicon/H7101-7200#H7181|(Who) will listen]] [[Lexicon/H8001-8100#H8085|and obey]] [[Lexicon/H201-300#H268|hereafter ?]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Isaiah 42 - 24
 [[Lexicon/H4301-4400#H4310|Who]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H3201-3300#H3290|Jacob]] [[Lexicon/H4801-4900#H4882|up for spoil ,]] [[Lexicon/H3401-3500#H3478|and Israel]] [[Lexicon/H901-1000#H962|to the plunderers ?]] [[Lexicon/H3801-3900#H3808|Was it not]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H2001-2100#H2098|against whom]] [[Lexicon/H2301-2400#H2398|we have sinned]] [[Lexicon/H3801-3900#H3808|vvv]] [[Lexicon/H1-100#H14|They were unwilling]] [[Lexicon/H1901-2000#H1980|to walk]] [[Lexicon/H1801-1900#H1870|in His ways ,]] [[Lexicon/H3801-3900#H3808|and they would not]] [[Lexicon/H8001-8100#H8085|obey]] [[Lexicon/H8401-8500#H8451|His law.]]

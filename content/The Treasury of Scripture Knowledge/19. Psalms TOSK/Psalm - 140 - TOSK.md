@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 140 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 139 - TOSK|← Ch 139]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 141 - TOSK|Ch 141 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 139 - TOSK|← Ch 139]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 141 - TOSK|Ch 141 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

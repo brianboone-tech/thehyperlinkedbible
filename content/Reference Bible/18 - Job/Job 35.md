@@ -37,7 +37,11 @@ cssClasses: lexicon
 [[Lexicon/H2101-2200#H2199|Men cry out]] [[Lexicon/H7201-7300#H7230|under great]] [[Lexicon/H6201-6300#H6217|oppression ;]] [[Lexicon/H7701-7800#H7768|they plead for relief]] [[Lexicon/H2201-2300#H2220|from the arm]] [[Lexicon/H7201-7300#H7227|of the mighty.]]
 
 ##### Job 35 - 10
+<<<<<<< HEAD
 [[Lexicon/H3801-3900#H3808|But no]] [[Lexicon/H501-600#H559|one asks ,]] [[Lexicon/H301-400#H346|‘ Where [is]]] [[Lexicon/H401-500#H433|God]] [[Lexicon/H6201-6300#H6213|my Maker ,]] [[Lexicon/H5401-5500#H5414|who gives us]] [[Lexicon/H2101-2200#H2158|songs]] [[Lexicon/H3901-4000#H3915|in the night ,]]
+=======
+[[Lexicon/H3801-3900#H3808|But no]] [[Lexicon/H501-600#H559|one asks ,]] [[Lexicon/H301-400#H346|‘ Where (is)]] [[Lexicon/H401-500#H433|God]] [[Lexicon/H6201-6300#H6213|my Maker ,]] [[Lexicon/H5401-5500#H5414|who gives us]] [[Lexicon/H2101-2200#H2158|songs]] [[Lexicon/H3901-4000#H3915|in the night ,]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 35 - 11
 [[Lexicon/H501-600#H502|who teaches us]] [[Lexicon/H901-1000#H929|more than the beasts]] [[Lexicon/H701-800#H776|of the earth]] [[Lexicon/H2401-2500#H2449|and makes us wiser]] [[Lexicon/H5701-5800#H5775|than the birds]] [[Lexicon/H8001-8100#H8064|of the air ? ’]]
@@ -52,7 +56,11 @@ cssClasses: lexicon
 [[Lexicon/H601-700#H637|How much less ,]] [[Lexicon/H3501-3600#H3588|then, when]] [[Lexicon/H501-600#H559|you say]] [[Lexicon/H3801-3900#H3808|that you do not]] [[Lexicon/H7701-7800#H7789|see Him ,]] [[Lexicon/H1701-1800#H1779|that your case]] [[Lexicon/H6401-6500#H6440|is before Him]] [[Lexicon/H2301-2400#H2342|and you must wait]]
 
 ##### Job 35 - 15
+<<<<<<< HEAD
 [[Lexicon/H6201-6300#H6258|and further ,]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H601-700#H639|[in] His anger]] [[Lexicon/H301-400#H369|vvv]] [[Lexicon/H6401-6500#H6485|He has not punished]] [[Lexicon/H3801-3900#H3808|[or]]] [[Lexicon/H3001-3100#H3045|taken much notice]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H6501-6600#H6580|of folly !]]
+=======
+[[Lexicon/H6201-6300#H6258|and further ,]] [[Lexicon/H3501-3600#H3588|that]] [[Lexicon/H601-700#H639|(in) His anger]] [[Lexicon/H301-400#H369|vvv]] [[Lexicon/H6401-6500#H6485|He has not punished]] [[Lexicon/H3801-3900#H3808|(or)]] [[Lexicon/H3001-3100#H3045|taken much notice]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H6501-6600#H6580|of folly !]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ##### Job 35 - 16
 [[Lexicon/H301-400#H347|So Job -]] [[Lexicon/H6401-6500#H6475|opens]] [[Lexicon/H6301-6400#H6310|his mouth]] [[Lexicon/H1801-1900#H1892|in vain]] [[Lexicon/H3501-3600#H3527|and multiplies]] [[Lexicon/H4401-4500#H4405|words]] [[Lexicon/H1001-1100#H1097|without]] [[Lexicon/H1801-1900#H1847|knowledge. ”]]

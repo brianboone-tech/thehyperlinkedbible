@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # 1 Samuel-R 20
 
 **[[Home/Scripture/09 - 1 Samuel|1 Samuel]]**
 
 [[Readable Bible/09 - 1 Samuel/1 Samuel 19#1 Samuel-R 19| 1 Samuel 19]] - [[Readable Bible/09 - 1 Samuel/1 Samuel 21#1 Samuel-R 21| 1 Samuel 21]]
+=======
+# 1 Samuel 20
+
+[[Readable Bible/09 - 1 Samuel/1 Samuel 19|← 1 Samuel 19]] | [[Readable Bible/09 - 1 Samuel/1 Samuel 21|1 Samuel 21 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

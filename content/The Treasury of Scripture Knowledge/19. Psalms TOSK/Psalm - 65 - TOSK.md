@@ -3,7 +3,11 @@ Folder: TOSK
 Name: Psalm 65 TOSK
 ---
 
+<<<<<<< HEAD
 **[[Home/Scripture/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 64 - TOSK|← Ch 64]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 66 - TOSK|Ch 66 →]]
+=======
+**[[Home/Indexes/Readable Bible/19 - Psalms|← Psalms]]** | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 64 - TOSK|← Ch 64]] | [[The Treasury of Scripture Knowledge/19. Psalms TOSK/Psalm - 66 - TOSK|Ch 66 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 

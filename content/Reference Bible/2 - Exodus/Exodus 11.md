@@ -33,7 +33,11 @@ Chapter: "11"
 | [[LXX Reference/2 - Exodus/Exodus 11#Exodus 11 - 5|LXX]] |
 
 ##### Exodus 11 - 6
+<<<<<<< HEAD
 [[Lexicon/H1401-1500#H1419|Then a great]] [[Lexicon/H6801-6900#H6818|cry]] [[Lexicon/H1901-2000#H1961|will go out]] [[Lexicon/H3601-3700#H3605|over all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]] [[Lexicon/H801-900#H834|Such]] [[Lexicon/H3601-3700#H3644|[an outcry]]] [[Lexicon/H3801-3900#H3808|has never]] [[Lexicon/H1901-2000#H1961|been heard before]] [[Lexicon/H3801-3900#H3808|and will never]] [[Lexicon/H3601-3700#H3644|[be heard]]] [[Lexicon/H3201-3300#H3254|again.]]
+=======
+[[Lexicon/H1401-1500#H1419|Then a great]] [[Lexicon/H6801-6900#H6818|cry]] [[Lexicon/H1901-2000#H1961|will go out]] [[Lexicon/H3601-3700#H3605|over all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H4701-4800#H4714|of Egypt.]] [[Lexicon/H801-900#H834|Such]] [[Lexicon/H3601-3700#H3644|(an outcry)]] [[Lexicon/H3801-3900#H3808|has never]] [[Lexicon/H1901-2000#H1961|been heard before]] [[Lexicon/H3801-3900#H3808|and will never]] [[Lexicon/H3601-3700#H3644|(be heard)]] [[Lexicon/H3201-3300#H3254|again.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 11#Exodus 11 - 6|LXX]] |
 
 ##### Exodus 11 - 7
@@ -41,7 +45,11 @@ Chapter: "11"
 | [[LXX Reference/2 - Exodus/Exodus 11#Exodus 11 - 7|LXX]] |
 
 ##### Exodus 11 - 8
+<<<<<<< HEAD
 [[Lexicon/H3601-3700#H3605|And all]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H5601-5700#H5650|officials]] [[Lexicon/H3301-3400#H3381|of yours will come]] [[Lexicon/H401-500#H413|-]] [[Lexicon/H7801-7900#H7812|and bow]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H3301-3400#H3318|‘ Go ,]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H7201-7300#H7272|follow you ! ’]] [[Lexicon/H301-400#H310|After]] [[Lexicon/H3601-3700#H3651|that ,]] [[Lexicon/H3301-3400#H3318|I will depart. ”]] [[Lexicon/H2701-2800#H2750|And hot]] [[Lexicon/H601-700#H639|with anger ,]] [[Lexicon/H3301-3400#H3318|[Moses] left]] [[Lexicon/H6501-6600#H6547|Pharaoh’s]] [[Lexicon/H5901-6000#H5973|presence.]]
+=======
+[[Lexicon/H3601-3700#H3605|And all]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H5601-5700#H5650|officials]] [[Lexicon/H3301-3400#H3381|of yours will come]] [[Lexicon/H401-500#H413|-]] [[Lexicon/H7801-7900#H7812|and bow]] [[Lexicon/H501-600#H559|saying ,]] [[Lexicon/H3301-3400#H3318|‘ Go ,]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H3601-3700#H3605|and all]] [[Lexicon/H5901-6000#H5971|the people]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H7201-7300#H7272|follow you ! ’]] [[Lexicon/H301-400#H310|After]] [[Lexicon/H3601-3700#H3651|that ,]] [[Lexicon/H3301-3400#H3318|I will depart. ”]] [[Lexicon/H2701-2800#H2750|And hot]] [[Lexicon/H601-700#H639|with anger ,]] [[Lexicon/H3301-3400#H3318|(Moses) left]] [[Lexicon/H6501-6600#H6547|Pharaoh’s]] [[Lexicon/H5901-6000#H5973|presence.]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 | [[LXX Reference/2 - Exodus/Exodus 11#Exodus 11 - 8|LXX]] |
 
 ##### Exodus 11 - 9

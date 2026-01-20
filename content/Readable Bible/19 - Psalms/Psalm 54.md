@@ -5,11 +5,17 @@ Folder: Readable Bible
 cssClasses: lexicon
 ---
 
+<<<<<<< HEAD
 # Psalm-R 54
 
 **[[Home/Scripture/19 - Psalms|Psalms]]**
 
 [[Readable Bible/19 - Psalms/Psalm 53#Psalm-R 53| Psalm 53]] - [[Readable Bible/19 - Psalms/Psalm 55#Psalm-R 55| Psalm 55]]
+=======
+# Psalm 54
+
+[[Readable Bible/19 - Psalms/Psalm 53|← Psalm 53]] | [[Readable Bible/19 - Psalms/Psalm 55|Psalm 55 →]]
+>>>>>>> parent of 58b5c30e (Quartz sync: Jan 20, 2026, 11:10 AM)
 
 ---
 
