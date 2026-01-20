@@ -68,7 +68,26 @@
       "Bash(__NEW_LINE_8244f4af3340efb6__ echo \"\")",
       "Bash(__NEW_LINE_1091a651f1b0fbc5__ echo \"\")",
       "Bash(__NEW_LINE_2b9d7d8d444e0ff6__ echo \"\")",
-      "Bash(__NEW_LINE_1600cb25e9f2b8d6__ echo \"\")"
+      "Bash(__NEW_LINE_1600cb25e9f2b8d6__ echo \"\")",
+      "Bash(xargs:*)",
+      "Bash(while read f)",
+      "Bash(do ls -lh \"$f\")",
+      "Bash(do stat -c \"%s %n\" \"$f\")",
+      "Bash(du -sh \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\"*/)",
+      "Bash(pip install:*)",
+      "Bash(tasklist:*)",
+      "Bash(taskkill:*)",
+      "Bash(move \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\RAG-USAGE.md\" \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\\\\RAG-USAGE.md\")",
+      "mcp__hyperlinked-bible__vault_search",
+      "mcp__hyperlinked-bible__search_by_reference",
+      "WebFetch(domain:www.desiringgod.org)",
+      "WebFetch(domain:christianleaders.org)",
+      "WebFetch(domain:www.spurgeon.org)",
+      "Bash(cat:*)"
     ]
-  }
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "hyperlinked-bible"
+  ]
 }

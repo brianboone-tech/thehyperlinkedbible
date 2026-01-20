@@ -9,6 +9,9 @@
 *<span style="color: #1e90ff;">"so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord."</span>—[[Readable Bible/45 - Romans/Romans 5#Romans 5 . 21|Romans 5:21]].*
 
 ---
+##### SummarySpurgeon contrasts the tyrannical reign of sin—which brought death through Adam—with the triumphant reign of grace through Jesus Christ, the Last Adam. Through a series of vivid pictures, he shows grace reigning where sin once held dominion: quickening the spiritually dead like Ezekiel's valley of dry bones, breaking the chains of habitual sin, delivering souls from the dungeon of despair, and sustaining believers through temptation and trial. The sermon culminates in a glorious vision of the throne of grace, established upon divine faithfulness, cemented by Christ's precious blood, and guarded by Justice and Holiness—where the Lamb who was slain now reigns, scattering mercies upon His people and preparing crowns for those He has redeemed by sovereign grace unto eternal life.
+
+---
 
 “That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord.”—Romans 5:21.
 
