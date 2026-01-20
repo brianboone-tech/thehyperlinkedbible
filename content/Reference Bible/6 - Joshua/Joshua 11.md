@@ -1,0 +1,81 @@
+---
+Folder: Reference Bible
+cssClasses: lexicon
+Testament: Old
+Book: Joshua
+---
+
+# Joshua 11
+
+[[Reference Bible/6 - Joshua/Joshua 10|←]] • [[Reference Bible/6 - Joshua/Joshua 12|→]]
+
+---
+
+##### Joshua 11 - 1
+[[Lexicon/H1901-2000#H1961|Now when]] [[Lexicon/H2901-3000#H2985|Jabin]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H2601-2700#H2674|of Hazor]] [[Lexicon/H8001-8100#H8085|heard about these things ,]] [[Lexicon/H7901-8000#H7971|he sent word]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3101-3200#H3103|Job -ab]] [[Lexicon/H4401-4500#H4428|king]] [[Lexicon/H4001-4100#H4068|of Madon ;]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H4401-4500#H4428|the kings]] [[Lexicon/H8101-8200#H8110|of Shimron]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H4401-4500#H4428|...]] [[Lexicon/H401-500#H407|and Achshaph ;]]
+
+##### Joshua 11 - 2
+[[Lexicon/H401-500#H413|to]] [[Lexicon/H4401-4500#H4428|the kings]] [[Lexicon/H6801-6900#H6828|of the north]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2001-2100#H2022|in the mountains ,]] [[Lexicon/H6101-6200#H6160|in the Arabah]] [[Lexicon/H5001-5100#H5045|south]] [[Lexicon/H3601-3700#H3672|of Chinnereth ,]] [[Lexicon/H8201-8300#H8219|in the foothills ,]] [[Lexicon/H5301-5400#H5316|and in Naphoth-dor]] [[Lexicon/H1701-1800#H1756|...]] [[Lexicon/H3201-3300#H3220|to the west ;]]
+
+##### Joshua 11 - 3
+[[Lexicon/H3601-3700#H3669|to the Canaanites]] [[Lexicon/H4201-4300#H4217|in the east]] [[Lexicon/H3201-3300#H3220|and west ;]] [[Lexicon/H501-600#H567|to the Amorites ,]] [[Lexicon/H2801-2900#H2850|Hittites ,]] [[Lexicon/H6501-6600#H6522|Perizzites ,]] [[Lexicon/H2901-3000#H2983|and Jebusites]] [[Lexicon/H2001-2100#H2022|in the hill country ;]] [[Lexicon/H2301-2400#H2340|and to the Hivites]] [[Lexicon/H8401-8500#H8478|at the foot of]] [[Lexicon/H2701-2800#H2768|Hermon]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H4701-4800#H4709|of Mizpah.]]
+
+##### Joshua 11 - 4
+[[Lexicon/H1901-2000#H1992|So (these kings)]] [[Lexicon/H3301-3400#H3318|came out]] [[Lexicon/H5901-6000#H5973|with]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4201-4300#H4264|their armies ,]] [[Lexicon/H5901-6000#H5971|a multitude]] [[Lexicon/H7201-7300#H7227|as numerous]] [[Lexicon/H2301-2400#H2344|as the sand]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H8101-8200#H8193|the seashore]] [[Lexicon/H3201-3300#H3220|... ,]] [[Lexicon/H7201-7300#H7230|]] [[Lexicon/H7201-7300#H7227|along with a great number]] [[Lexicon/H3901-4000#H3966|...]] [[Lexicon/H5401-5500#H5483|of horses]] [[Lexicon/H7301-7400#H7393|and chariots.]]
+
+##### Joshua 11 - 5
+[[Lexicon/H3601-3700#H3605|All]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H4401-4500#H4428|kings]] [[Lexicon/H3201-3300#H3259|joined forces]] [[Lexicon/H901-1000#H935|vvv]] [[Lexicon/H2501-2600#H2583|and encamped]] [[Lexicon/H3101-3200#H3162|-]] [[Lexicon/H401-500#H413|at]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H4701-4800#H4792|of Merom]] [[Lexicon/H3801-3900#H3898|to fight]] [[Lexicon/H5901-6000#H5973|against]] [[Lexicon/H3401-3500#H3478|Israel.]]
+
+##### Joshua 11 - 6
+[[Lexicon/H3001-3100#H3068|Then the LORD]] [[Lexicon/H501-600#H559|said]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3001-3100#H3091|Joshua - ,]] [[Lexicon/H401-500#H408|“ Do not]] [[Lexicon/H3301-3400#H3372|be afraid]] [[Lexicon/H6401-6500#H6440|of them ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H2001-2100#H2063|by this]] [[Lexicon/H6201-6300#H6256|time]] [[Lexicon/H4201-4300#H4279|tomorrow]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H5401-5500#H5414|will deliver]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all of them]] [[Lexicon/H2401-2500#H2491|slain]] [[Lexicon/H6401-6500#H6440|before]] [[Lexicon/H3401-3500#H3478|Israel.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6101-6200#H6131|You are to hamstring]] [[Lexicon/H5401-5500#H5483|their horses]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H8301-8400#H8313|burn up]] [[Lexicon/H701-800#H784|...]] [[Lexicon/H4801-4900#H4818|their chariots. ”]]
+
+##### Joshua 11 - 7
+[[Lexicon/H5901-6000#H5921|So by]] [[Lexicon/H4301-4400#H4325|the waters]] [[Lexicon/H4701-4800#H4792|of Merom ,]] [[Lexicon/H3001-3100#H3091|Joshua -]] [[Lexicon/H3601-3700#H3605|and his whole]] [[Lexicon/H4401-4500#H4421|army]] [[Lexicon/H5901-6000#H5973|...]] [[Lexicon/H5901-6000#H5971|...]] [[Lexicon/H901-1000#H935|came]] [[Lexicon/H5901-6000#H5921|upon them]] [[Lexicon/H6501-6600#H6597|suddenly]] [[Lexicon/H5301-5400#H5307|and attacked]]
+
+##### Joshua 11 - 8
+[[Lexicon/H3001-3100#H3068|and the LORD]] [[Lexicon/H5401-5500#H5414|delivered them]] [[Lexicon/H3001-3100#H3027|into the hand]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H5201-5300#H5221|who struck them down]] [[Lexicon/H7201-7300#H7291|and pursued them]] [[Lexicon/H5701-5800#H5704|all the way to]] [[Lexicon/H7201-7300#H7227|Greater]] [[Lexicon/H6701-6800#H6721|Sidon]] [[Lexicon/H4901-5000#H4956|and Misrephoth-maim ,]] [[Lexicon/H4201-4300#H4217|and eastward]] [[Lexicon/H5701-5800#H5704|as far as]] [[Lexicon/H4901-5000#H4956|...]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H1201-1300#H1237|the Valley]] [[Lexicon/H4701-4800#H4708|of Mizpeh.]] [[Lexicon/H5201-5300#H5221|They struck them down ,]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H7601-7700#H7604|leaving]] [[Lexicon/H1101-1200#H1115|no]] [[Lexicon/H8201-8300#H8300|survivors.]]
+
+##### Joshua 11 - 9
+[[Lexicon/H3001-3100#H3091|Joshua -]] [[Lexicon/H6201-6300#H6213|treated]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H501-600#H559|had told]] [[Lexicon/H6101-6200#H6131|he hamstrung]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5401-5500#H5483|their horses]] [[Lexicon/H8301-8400#H8313|and burned up]] [[Lexicon/H701-800#H784|...]] [[Lexicon/H4801-4900#H4818|their chariots.]]
+
+##### Joshua 11 - 10
+[[Lexicon/H1901-2000#H1931|At that]] [[Lexicon/H6201-6300#H6256|time]] [[Lexicon/H3001-3100#H3091|Joshua -]] [[Lexicon/H7701-7800#H7725|turned back]] [[Lexicon/H3901-4000#H3920|and captured]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2601-2700#H2674|Hazor]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5221|and put]] [[Lexicon/H4401-4500#H4428|its king]] [[Lexicon/H2701-2800#H2719|to the sword ,]] [[Lexicon/H3501-3600#H3588|because]] [[Lexicon/H2601-2700#H2674|Hazor]] [[Lexicon/H1901-2000#H1931|was]] [[Lexicon/H6401-6500#H6440|formerly]] [[Lexicon/H7201-7300#H7218|the head]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H4401-4500#H4467|kingdoms.]]
+
+##### Joshua 11 - 11
+[[Lexicon/H5201-5300#H5221|(The Israelites) put]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|everyone]] [[Lexicon/H5301-5400#H5315|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H6301-6400#H6310|...]] [[Lexicon/H2701-2800#H2719|to the sword ,]] [[Lexicon/H2701-2800#H2763|devoting (them) to destruction.]] [[Lexicon/H3801-3900#H3808|Nothing]] [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H5301-5400#H5397|that breathed]] [[Lexicon/H3401-3500#H3498|remained ,]] [[Lexicon/H801-900#H853|and]] [[Lexicon/H8301-8400#H8313|(Joshua -) burned down]] [[Lexicon/H701-800#H784|...]] [[Lexicon/H2601-2700#H2674|Hazor itself.]]
+
+##### Joshua 11 - 12
+[[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3091|Joshua -]] [[Lexicon/H3901-4000#H3920|captured]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|-]] [[Lexicon/H4401-4500#H4428|...]] [[Lexicon/H4401-4500#H4428|kings]] [[Lexicon/H5801-5900#H5892|and their cities]] [[Lexicon/H5201-5300#H5221|and put them]] [[Lexicon/H6301-6400#H6310|...]] [[Lexicon/H2701-2800#H2719|to the sword.]] [[Lexicon/H2701-2800#H2763|He devoted them to destruction]] [[Lexicon/H801-900#H853|- ,]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H3001-3100#H3068|the LORD’s]] [[Lexicon/H5601-5700#H5650|servant]] [[Lexicon/H6601-6700#H6680|had commanded.]]
+
+##### Joshua 11 - 13
+[[Lexicon/H7501-7600#H7535|Yet]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H3801-3900#H3808|did not]] [[Lexicon/H8301-8400#H8313|burn]] [[Lexicon/H3601-3700#H3605|any]] [[Lexicon/H5801-5900#H5892|of the cities]] [[Lexicon/H5901-6000#H5975|built]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H8501-8600#H8510|their mounds ,]] [[Lexicon/H2101-2200#H2108|except]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2601-2700#H2674|Hazor ,]] [[Lexicon/H701-800#H776|...]] [[Lexicon/H3001-3100#H3091|which Joshua -]] [[Lexicon/H8301-8400#H8313|burned.]]
+
+##### Joshua 11 - 14
+[[Lexicon/H1101-1200#H1121|The Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H901-1000#H962|took for themselves]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H7901-8000#H7998|the plunder]] [[Lexicon/H901-1000#H929|and livestock]] [[Lexicon/H401-500#H428|of these]] [[Lexicon/H5801-5900#H5892|cities ,]] [[Lexicon/H7501-7600#H7535|but]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H5201-5300#H5221|they put]] [[Lexicon/H6301-6400#H6310|...]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H101-200#H120|the people]] [[Lexicon/H2701-2800#H2719|to the sword]] [[Lexicon/H5701-5800#H5704|until]] [[Lexicon/H8001-8100#H8045|they had completely destroyed them ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7601-7700#H7604|not sparing anyone]] [[Lexicon/H3801-3900#H3808|]] [[Lexicon/H3601-3700#H3605|]] [[Lexicon/H5301-5400#H5397|who breathed.]]
+
+##### Joshua 11 - 15
+[[Lexicon/H801-900#H834|As]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H5601-5700#H5650|His servant]] [[Lexicon/H4801-4900#H4872|Moses ,]] [[Lexicon/H3601-3700#H3651|so]] [[Lexicon/H4801-4900#H4872|Moses]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6680|commanded]] [[Lexicon/H3001-3100#H3091|Joshua -.]] [[Lexicon/H3601-3700#H3651|That is what]] [[Lexicon/H3001-3100#H3091|Joshua -]] [[Lexicon/H6201-6300#H6213|did ,]] [[Lexicon/H3801-3900#H3808|leaving nothing]] [[Lexicon/H1601-1700#H1697|...]] [[Lexicon/H5401-5500#H5493|undone]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H4801-4900#H4872|Moses.]]
+
+##### Joshua 11 - 16
+[[Lexicon/H3001-3100#H3091|So Joshua -]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|took]] [[Lexicon/H2001-2100#H2063|this]] [[Lexicon/H3601-3700#H3605|entire]] [[Lexicon/H701-800#H776|region :]] [[Lexicon/H2001-2100#H2022|the hill country ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5001-5100#H5045|the Negev ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H1601-1700#H1657|of Goshen ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8201-8300#H8219|the (western) foothills ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6101-6200#H6160|the Arabah ,]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2001-2100#H2022|and the mountains]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H8201-8300#H8219|and their foothills ,]]
+
+##### Joshua 11 - 17
+[[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H2001-2100#H2022|Mount]] [[Lexicon/H2501-2600#H2510|Halak ,]] [[Lexicon/H5901-6000#H5927|which rises]] [[Lexicon/H8101-8200#H8165|toward Seir ,]] [[Lexicon/H5701-5800#H5704|as far as]] [[Lexicon/H1101-1200#H1171|vvv]] [[Lexicon/H1101-1200#H1171|Baal-gad]] [[Lexicon/H1201-1300#H1237|in the Valley]] [[Lexicon/H3801-3900#H3844|of Lebanon]] [[Lexicon/H8401-8500#H8478|at the foot of]] [[Lexicon/H2001-2100#H2022|Mount]] [[Lexicon/H2701-2800#H2768|Hermon.]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3920|He captured]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H4401-4500#H4428|their kings]] [[Lexicon/H5201-5300#H5221|and struck them down ,]] [[Lexicon/H4101-4200#H4191|putting them to death.]]
+
+##### Joshua 11 - 18
+[[Lexicon/H3001-3100#H3091|Joshua -]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H6201-6300#H6213|waged]] [[Lexicon/H4401-4500#H4421|war]] [[Lexicon/H3601-3700#H3605|against all]] [[Lexicon/H401-500#H428|these]] [[Lexicon/H4401-4500#H4428|kings]] [[Lexicon/H7201-7300#H7227|for a long period]] [[Lexicon/H3101-3200#H3117|of time.]]
+
+##### Joshua 11 - 19
+[[Lexicon/H3801-3900#H3808|No]] [[Lexicon/H1901-2000#H1961|...]] [[Lexicon/H5801-5900#H5892|city]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H7901-8000#H7999|made peace]] [[Lexicon/H401-500#H413|with]] [[Lexicon/H1101-1200#H1121|the Israelites]] [[Lexicon/H3401-3500#H3478|...]] [[Lexicon/H1101-1200#H1115|except]] [[Lexicon/H2301-2400#H2340|the Hivites]] [[Lexicon/H3401-3500#H3427|living]] [[Lexicon/H1301-1400#H1391|in Gibeon ;]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H3901-4000#H3947|others were taken]] [[Lexicon/H4401-4500#H4421|in battle.]]
+
+##### Joshua 11 - 20
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H1901-2000#H1961|it was]] [[Lexicon/H801-900#H854|of]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H2301-2400#H2388|to harden]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3801-3900#H3820|their hearts]] [[Lexicon/H7101-7200#H7122|to engage]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H4601-4700#H4616|...]] [[Lexicon/H4401-4500#H4421|in battle ,]] [[Lexicon/H801-900#H854|...]] [[Lexicon/H2701-2800#H2763|so that they would be set apart for destruction]] [[Lexicon/H1901-2000#H1961|(and) would receive]] [[Lexicon/H1101-1200#H1115|no]] [[Lexicon/H8401-8500#H8467|mercy ,]] [[Lexicon/H3501-3600#H3588|-]] [[Lexicon/H4601-4700#H4616|-]] [[Lexicon/H8001-8100#H8045|being annihilated]] [[Lexicon/H801-900#H834|as]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6601-6700#H6680|had commanded]] [[Lexicon/H4801-4900#H4872|Moses.]]
+
+##### Joshua 11 - 21
+[[Lexicon/H1901-2000#H1931|At that]] [[Lexicon/H6201-6300#H6256|time]] [[Lexicon/H3001-3100#H3091|Joshua -]] [[Lexicon/H901-1000#H935|proceeded]] [[Lexicon/H3701-3800#H3772|to eliminate]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H6001-6100#H6062|the Anakim]] [[Lexicon/H4401-4500#H4480|from]] [[Lexicon/H2001-2100#H2022|the hill country]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H2201-2300#H2275|of Hebron ,]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H1601-1700#H1688|Debir ,]] [[Lexicon/H4401-4500#H4480|...]] [[Lexicon/H6001-6100#H6024|(and) Anab ,]] [[Lexicon/H3601-3700#H3605|and from all]] [[Lexicon/H2001-2100#H2022|the hill country]] [[Lexicon/H3001-3100#H3063|of Judah]] [[Lexicon/H3601-3700#H3605|...]] [[Lexicon/H2001-2100#H2022|...]] [[Lexicon/H3401-3500#H3478|and of Israel.]] [[Lexicon/H3001-3100#H3091|Joshua -]] [[Lexicon/H2701-2800#H2763|devoted them to destruction ,]] [[Lexicon/H5901-6000#H5973|along with]] [[Lexicon/H5801-5900#H5892|their cities.]]
+
+##### Joshua 11 - 22
+[[Lexicon/H3801-3900#H3808|No]] [[Lexicon/H6001-6100#H6062|Anakim]] [[Lexicon/H3401-3500#H3498|were left]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H1101-1200#H1121|vvv]] [[Lexicon/H3401-3500#H3478|of the Israelites ;]] [[Lexicon/H7501-7600#H7535|only]] [[Lexicon/H5801-5900#H5804|in Gaza ,]] [[Lexicon/H1601-1700#H1661|Gath ,]] [[Lexicon/H701-800#H795|and Ashdod]] [[Lexicon/H7601-7700#H7604|did any survive.]]
+
+##### Joshua 11 - 23
+[[Lexicon/H3001-3100#H3091|So Joshua -]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3901-4000#H3947|took]] [[Lexicon/H3601-3700#H3605|the entire]] [[Lexicon/H701-800#H776|land ,]] [[Lexicon/H3601-3700#H3605|in keeping with all]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H1601-1700#H1696|had spoken]] [[Lexicon/H4801-4900#H4872|to Moses.]] [[Lexicon/H3001-3100#H3091|And Joshua -]] [[Lexicon/H5401-5500#H5414|gave]] [[Lexicon/H5101-5200#H5159|it as an inheritance]] [[Lexicon/H3401-3500#H3478|to Israel]] [[Lexicon/H4201-4300#H4256|according to the allotments]] [[Lexicon/H7601-7700#H7626|to their tribes.]] [[Lexicon/H701-800#H776|Then the land]] [[Lexicon/H8201-8300#H8252|had rest]] [[Lexicon/H4401-4500#H4421|from war.]]

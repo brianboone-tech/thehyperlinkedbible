@@ -1,0 +1,43 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs:*)",
+      "Bash(dir /AD /B \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\")",
+      "Bash(npx quartz sync)",
+      "Bash(git push:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(find:*)",
+      "Bash(for f in */*.md)",
+      "Bash(do sed -i ':a;N;$!ba;s/\\\\n\\\\n\\\\n\\\\[\\\\[Readable/\\\\n\\\\n[[Readable/g' \"$f\")",
+      "Bash(done)",
+      "Bash(perl:*)",
+      "Bash(grep:*)",
+      "WebSearch",
+      "WebFetch(domain:biblicalelearning.org)",
+      "WebFetch(domain:archive.org)",
+      "WebFetch(domain:quod.lib.umich.edu)",
+      "WebFetch(domain:www.monergism.com)",
+      "WebFetch(domain:books.google.com)",
+      "WebFetch(domain:www.preceptaustin.org)",
+      "Bash(curl:*)",
+      "Bash(ls -la \"C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\\\\Books - Public\"\" 2>&1 || echo \"Directory may not exist or is empty \")",
+      "Bash(ls:*)",
+      "Bash(powershell -Command \"\\(Get-ChildItem ''C:/Obsidian Vaults/thehyperlinkedbible/content/Trajectory Tables/*.md''\\).Count\")",
+      "Bash(python:*)",
+      "Bash(findstr:*)",
+      "Bash(dir /s /b \"C:\\\\Obsidian Vaults\\\\*tmpclaude*\")",
+      "Bash(dir /s /b \"C:\\\\Users\\\\Boone\\\\*tmpclaude*\")",
+      "Bash(dir /B *.md)",
+      "Bash(powershell -Command \"\\(Get-ChildItem ''C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\\\\Trajectory Tables\\\\*.md''\\).Count\")",
+      "Bash(powershell -Command \"\\(Get-ChildItem ''C:\\\\Obsidian Vaults\\\\thehyperlinkedbible\\\\content\\\\Trajectory Tables\\\\[0-9]*.md''\\).Count\")",
+      "Bash(powershell -Command:*)",
+      "WebFetch(domain:reformedbooksonline.com)",
+      "Bash(dir:*)",
+      "WebFetch(domain:ccel.org)",
+      "WebFetch(domain:www.ccel.org)",
+      "WebFetch(domain:www.spurgeon.org)",
+      "WebFetch(domain:www.stempublishing.com)"
+    ]
+  }
+}

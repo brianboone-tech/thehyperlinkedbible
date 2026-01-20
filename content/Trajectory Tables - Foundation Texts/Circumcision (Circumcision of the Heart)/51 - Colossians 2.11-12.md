@@ -1,0 +1,21 @@
+### [[Readable Bible/51 - Colossians/Colossians 2#Colossians 2 . 11|Colossians 2:11-12]]
+
+**Greek Key Terms**:
+- [[Lexicon/G4001-4100#G4059|περιετμήθητε]] (*perietmēthēte*) - "you were circumcised" (aorist passive)
+- [[Lexicon/G4001-4100#G4061|περιτομῇ]] (*peritomē*) - "circumcision"
+- [[Lexicon/G0801-0900#G0886|ἀχειροποιήτῳ]] (*acheiropoiētō*) - "made without hands"
+- [[Lexicon/G0501-0600#G0555|ἀπεκδύσει]] (*apekdysei*) - "putting off, removal"
+- [[Lexicon/G4401-4500#G4430|πτῶμα]] (*ptōma*) - "corpse, body" (genitive σώματος)
+- [[Lexicon/G4701-4800#G4916|συνταφέντες]] (*syntaphentes*) - "having been buried with" (aorist passive participle)
+- [[Lexicon/G0901-1000#G0908|βαπτισμῷ]] (*baptismō*) - "baptism" (dative)
+- [[Lexicon/G4801-4900#G4862|συνηγέρθητε]] (*synēgerthēte*) - "you were raised together" (aorist passive)
+
+**Context**: Paul declares believers have received "a circumcision made without hands, by putting off the body of the flesh, by the circumcision of Christ, having been buried with him in baptism, in which you were also raised with him through faith." This passage connects three realities: circumcision's spiritual fulfillment, Christ's death and resurrection, and baptism as new covenant sign. Where physical circumcision removed foreskin, spiritual circumcision removes the entire sin principle—"the body of flesh." This occurs through union with Christ in His death (burial) and resurrection (raising).
+
+**Connections**:
+- **TO**: [[Readable Bible/01 - Genesis/Genesis 17#Genesis 17 . 10|Genesis 17:10-14]] (circumcision as covenant sign), [[Readable Bible/05 - Deuteronomy/Deuteronomy 30#Deuteronomy 30 . 6|Deuteronomy 30:6]] (God will circumcise your heart), [[Readable Bible/24 - Jeremiah/Jeremiah 4#Jeremiah 4 . 4|Jeremiah 4:4]] (circumcise yourselves to the LORD)
+- **FROM NT**: [[Readable Bible/45 - Romans/Romans 6#Romans 6 . 3|Romans 6:3-4]] (baptized into Christ's death), [[Readable Bible/48 - Galatians/Galatians 3#Galatians 3 . 27|Galatians 3:27]] (baptized into Christ have put on Christ), [[Readable Bible/50 - Philippians/Philippians 3#Philippians 3 . 3|Philippians 3:3]] (we are the circumcision who worship by Spirit)
+
+**Christological Connection**: [[Readable Bible/51 - Colossians/Colossians 2#Colossians 2 . 11|Colossians 2:11-12]] declares believers have received "circumcision made without hands... by the circumcision of Christ, having been buried with him in baptism." This fulfills what Genesis 17 symbolized and [[Readable Bible/05 - Deuteronomy/Deuteronomy 30#Deuteronomy 30 . 6|Deuteronomy 30:6]] promised. Physical circumcision cut away foreskin—a small piece of flesh. Christ's spiritual circumcision removes "the body of flesh"—the entire sin principle dominating unregenerate humanity. This occurs through union with Christ in His death and resurrection. [[Readable Bible/45 - Romans/Romans 6#Romans 6 . 6|Romans 6:6]] explains: "our old self was crucified with him in order that the body of sin might be brought to nothing." Baptism signifies this reality—burial with Christ (old identity death) and raising with Christ (new creation life). Where circumcision incorporated males into Israel on the eighth day, baptism incorporates all believers—male and female, Jew and Gentile—into Christ's body. The trajectory shows escalation: Abraham's circumcision (external sign pointing forward) → Christ's circumcision ([[Readable Bible/42 - Luke/Luke 2#Luke 2 . 21|Luke 2:21]], first blood shed, entering covenant obligations) → believers' circumcision (complete removal of sin's body through Christ's death). [[Readable Bible/48 - Galatians/Galatians 3#Galatians 3 . 27|Galatians 3:27]] declares, "as many of you as were baptized into Christ have put on Christ"—new identity replacing old. [[Readable Bible/50 - Philippians/Philippians 3#Philippians 3 . 3|Philippians 3:3]] identifies believers as "the circumcision, who worship by the Spirit of God and glory in Christ Jesus." What began as covenant sign in Abraham's flesh finds fulfillment in Christ's death and the Spirit's regenerating power, accomplishing what physical ritual could only symbolize—complete transformation enabling perfect love and obedience to God.
+
+**Trajectory Table**: [[Trajectory Tables/030 - Circumcision (Circumcision of the Heart)]]

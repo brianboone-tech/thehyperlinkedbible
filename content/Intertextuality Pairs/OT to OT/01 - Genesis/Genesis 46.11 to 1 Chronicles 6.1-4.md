@@ -1,0 +1,15 @@
+# Genesis 46:11 to 1 Chronicles 6:1-4
+
+**Text**: [[Readable Bible/01 - Genesis/Genesis 46#Genesis 46 . 11|Genesis 46:11]]
+
+**OT Text Referred to**: [[Readable Bible/13 - 1 Chronicles/1 Chronicles 6#1 Chronicles 6 . 1|1 Chronicles 6:1-4]]
+
+**Subject**: Line of Levi
+
+**Source**: Treasury of Scripture Knowledge
+
+**Significance**: This intertextual connection between Genesis 46 and 1 Chronicles 6 (line of levi) reveals the organic unity of Scripture. Later biblical writers interpreted earlier texts under divine inspiration, showing how themes develop progressively toward their fulfillment in Christ. What the OT anticipates in shadow, Christ fulfills in substance, demonstrating that all Scripture testifies to him (John 5:39; Luke 24:27).
+
+---
+
+## Related Trajectory Tables

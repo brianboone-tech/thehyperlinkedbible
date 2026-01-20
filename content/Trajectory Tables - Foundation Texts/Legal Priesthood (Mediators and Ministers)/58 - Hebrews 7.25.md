@@ -1,0 +1,21 @@
+### [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 25|Hebrews 7:25]]
+
+**Greek Key Terms**:
+- [[Lexicon/G4901-5000#G4982|σῴζειν]] (*sōzein*) - "save" (present active infinitive)
+- [[Lexicon/G1501-1600#G1519|εἰς τὸ παντελὲς]] (*eis to panteles*) - "to the uttermost, completely, forever"
+- [[Lexicon/G4301-4400#G4334|προσερχομένους]] (*proserchomenous*) - "who draw near, who approach"
+- [[Lexicon/G1401-1500#G1223|δι᾽ αὐτοῦ]] (*di' autou*) - "through him" (Christ as mediator)
+- [[Lexicon/G3801-3900#G3842|πάντοτε]] (*pantote*) - "always, at all times"
+- [[Lexicon/G2101-2200#G2198|ζῶν]] (*zōn*) - "living" (present active participle)
+- [[Lexicon/G1701-1800#G1793|ἐντυγχάνειν]] (*entynchanein*) - "to intercede, make petition"
+- [[Lexicon/G5201-5300#G5228|ὑπὲρ αὐτῶν]] (*hyper autōn*) - "on their behalf, for them"
+
+**Context**: Hebrews declares Christ's ability to save completely and eternally, grounded in His perpetual intercession. Because He "always lives," His saving power extends "to the uttermost"—comprehensively in scope, eternally in duration. Those who approach God through Christ have an ever-living advocate making intercession for them continuously in heaven's true sanctuary.
+
+**Connections**:
+- **TO**: [[Readable Bible/19 - Psalms/Psalm 110#Psalm 110 . 4|Psalm 110:4]] (priest forever)
+- **FROM NT**: [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 24|Hebrews 7:24]] (holds priesthood permanently), [[Readable Bible/45 - Romans/Romans 8#Romans 8 . 34|Romans 8:34]] (Christ Jesus... interceding for us), [[Readable Bible/62 - 1 John/1 John 2#1 John 2 . 1|1 John 2:1]] (advocate with the Father), [[Readable Bible/43 - John/John 17#John 17 . 9|John 17:9-26]] (Christ's high priestly prayer)
+
+**Christological Connection**: [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 25|Hebrews 7:25]] declares Christ's ability to save "to the uttermost" based on His perpetual intercession. The resurrection is foundational—"he always lives" guarantees uninterrupted priestly ministry. Where Levitical priests' intercession ended at death, requiring successors to continue the work, Christ's intercession never ceases because He never dies. Paul echoes this: "Who is to condemn? Christ Jesus is the one who died—more than that, who was raised—who is at the right hand of God, who indeed is interceding for us" ([[Readable Bible/45 - Romans/Romans 8#Romans 8 . 34|Romans 8:34]]). The progression—died, raised, seated, interceding—shows Christ's current high priestly activity. John similarly presents "Jesus Christ the righteous" as "our advocate with the Father" ([[Readable Bible/62 - 1 John/1 John 2#1 John 2 . 1|1 John 2:1]]), using legal terminology (paraklētos) for Christ's defense of believers. Christ's high priestly prayer in John 17 provides glimpse into this intercession: praying for believers' protection ([[Readable Bible/43 - John/John 17#John 17 . 11|John 17:11]]), sanctification ([[Readable Bible/43 - John/John 17#John 17 . 17|John 17:17]]), unity ([[Readable Bible/43 - John/John 17#John 17 . 21|John 17:21]]), and glorification ([[Readable Bible/43 - John/John 17#John 17 . 24|John 17:24]]). This prayer continues eternally in heaven's sanctuary. The phrase "to the uttermost" (eis to panteles) encompasses both comprehensive scope (salvation addresses every need—justification, sanctification, glorification) and eternal duration (salvation persists forever, never revoked). Believers' security rests not on their strength but Christ's intercession. When Satan accuses ([[Readable Bible/66 - Revelation/Revelation 12#Revelation 12 . 10|Revelation 12:10]]), Christ advocates; when believers falter, Christ intercedes; when trials assail, Christ prays. The Levitical high priest entered the Most Holy Place once yearly, appearing briefly before God on Israel's behalf. Christ entered heaven itself "now to appear in the presence of God on our behalf" ([[Readable Bible/58 - Hebrews/Hebrews 9#Hebrews 9 . 24|Hebrews 9:24]])—perpetually, not annually; actually, not symbolically. His intercession ensures that those who "draw near to God through him" reach their destination—no believer is lost en route because Christ's advocacy never fails. The eternal priesthood produces eternal salvation.
+
+**Trajectory Table**: [[Trajectory Tables/094 - Legal Priesthood (Mediators and Ministers)]]

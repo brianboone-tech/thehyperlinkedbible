@@ -1,0 +1,25 @@
+### [[Readable Bible/23 - Isaiah/Isaiah 1#Isaiah 1 . 11|Isaiah 1:11-17]]
+
+**Hebrew Key Terms**:
+- [[Lexicon/H7501-7600#H7230|רֹב]] (*rōb*) - "multitude, abundance"
+- [[Lexicon/H2001-2100#H2076|זִבְחֵיכֶם]] (*zibḥêkem*) - "your sacrifices"
+- [[Lexicon/H7601-7700#H7646|שָׂבַעְתִּי]] (*śābaʿtî*) - "I am sated, full" (Qal perfect)
+- [[Lexicon/H5701-5800#H5930|עֹלוֹת]] (*ʿōlôt*) - "burnt offerings"
+- [[Lexicon/H2601-2700#H2654|חָפַצְתִּי]] (*ḥāpaṣtî*) - "I delight in" (negated)
+- [[Lexicon/H1801-1900#H1818|דָּם]] (*dām*) - "blood"
+- [[Lexicon/H7301-7400#H7364|רַחֲצוּ]] (*raḥăṣû*) - "wash yourselves" (Qal imperative)
+- [[Lexicon/H2101-2200#H2135|הִזַּכּוּ]] (*hizzakkû*) - "make yourselves clean" (Hithpael imperative)
+- [[Lexicon/H5501-5600#H5493|הָסִירוּ]] (*hāsîrû*) - "remove" (Hiphil imperative)
+- [[Lexicon/H4801-4900#H4941|מִשְׁפָּט]] (*mišpāṭ*) - "justice"
+- [[Lexicon/H6601-6700#H6666|צֶדֶק]] (*ṣedeq*) - "righteousness"
+
+**Context**: Isaiah's opening oracle delivers devastating prophetic critique: God is "sated" with Israel's multiplied burnt offerings when offered from rebellious hearts. "What to me is the multitude of your sacrifices?... I do not delight in the blood of bulls, or of lambs, or of goats." The problem isn't burnt offerings per se but the disconnect between external ritual and internal rebellion. God commands instead: "Wash yourselves; make yourselves clean... cease to do evil, learn to do good; seek justice, correct oppression." The passage establishes that burnt offerings always pointed beyond themselves to the total life consecration they symbolized.
+
+**Connections**:
+- **TO**: [[Readable Bible/09 - 1 Samuel/1 Samuel 15#1 Samuel 15 . 22|1 Samuel 15:22]] (to obey is better than sacrifice), [[Readable Bible/19 - Psalms/Psalm 40#Psalm 40 . 6|Psalm 40:6]] (sacrifice and offering you did not desire), [[Readable Bible/19 - Psalms/Psalm 51#Psalm 51 . 16|Psalm 51:16-17]] (you delight not in burnt offering)
+- **FROM OT**: [[Readable Bible/24 - Jeremiah/Jeremiah 7#Jeremiah 7 . 21|Jeremiah 7:21-23]] (I did not command burnt offerings but obedience), [[Readable Bible/28 - Hosea/Hosea 6#Hosea 6 . 6|Hosea 6:6]] (I desire mercy, not sacrifice), [[Readable Bible/33 - Micah/Micah 6#Micah 6 . 6|Micah 6:6-8]] (will LORD be pleased with thousands of rams? He has shown you what is good)
+- **FROM NT**: [[Readable Bible/40 - Matthew/Matthew 9#Matthew 9 . 13|Matthew 9:13]] (go and learn what this means: I desire mercy not sacrifice), [[Readable Bible/40 - Matthew/Matthew 23#Matthew 23 . 23|Matthew 23:23]] (neglected weightier matters: justice, mercy, faithfulness), [[Readable Bible/59 - James/James 1#James 1 . 27|James 1:27]] (pure religion: visit orphans and widows, keep oneself unstained)
+
+**Christological Connection**: [[Readable Bible/23 - Isaiah/Isaiah 1#Isaiah 1 . 11|Isaiah 1:11-17]]'s prophetic critique finds resolution in Christ, who unites what Israel separated—ritual and righteousness, burnt offering and obedience, external worship and internal consecration. God declared Himself "sated" with Israel's multiplied burnt offerings offered from rebellious hearts. The problem wasn't the sacrificial system itself but the disconnect: Israel brought bulls and rams while oppressing widows and orphans. Christ fulfills both dimensions Isaiah demanded. First, He offers the perfect burnt offering—unreserved consecration to the Father's will. Unlike Israel's hypocritical offerings, Christ's self-sacrifice united perfect internal devotion with actual death. [[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 5|Hebrews 10:5-7]] shows Christ saying "I have come to do your will"—the heart obedience Isaiah sought. Second, Christ lives the righteousness Isaiah commanded: "learn to do good, seek justice, correct oppression, defend the orphan, plead for the widow." His ministry embodied these imperatives—healing the sick, defending the accused, welcoming the marginalized. Where Israel's burnt offerings failed because hearts remained unclean, Christ's burnt offering succeeds because His heart and life were perfectly clean. [[Readable Bible/40 - Matthew/Matthew 23#Matthew 23 . 23|Matthew 23:23]] shows Jesus valuing both ritual purity and "the weightier matters: justice, mercy, faithfulness"—not either/or but both/and. The burnt offering typology thus includes moral dimension: total consecration means devoting entire life—worship and work, ritual and relationships, altar and marketplace—to God's glory. Christ's burnt offering wasn't merely His death on the cross but His whole life of perfect obedience. Isaiah's critique becomes fulfilled in Christ's synthesis: the true burnt offering unites spotless sacrifice with righteous living, complete altar devotion with complete life consecration, God-ward worship with neighbor-directed justice. What Isaiah denounced (empty ritual), Christ abolished; what Isaiah demanded (heart-and-life consecration), Christ accomplished; what burnt offerings symbolized (total devotion), Christ embodied.
+
+**Trajectory Table**: [[Trajectory Tables/023 - Burnt Offering (Christ's Total Consecration)]]

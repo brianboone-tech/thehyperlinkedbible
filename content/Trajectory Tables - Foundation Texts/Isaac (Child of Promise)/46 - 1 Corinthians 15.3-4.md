@@ -1,0 +1,17 @@
+### [[Readable Bible/46 - 1 Corinthians/1 Corinthians 15#1 Corinthians 15 . 3|1 Corinthians 15:3-4]]
+
+**Greek Key Terms**:
+- **παρέδωκα** (paredōka) - "Delivered/handed over" - transmission of gospel tradition, echoes "delivered Him up" (Romans 8:32)
+- **ὑπὲρ τῶν ἁμαρτιῶν** (hyper tōn hamartiōn) - "For/instead of sins" - substitutionary atonement, in our place
+- **ἠγέρθη** (ēgerthē) - "He was raised" - divine passive, God raised Him, resurrection accomplished
+
+**Context**: Paul corrects the Corinthian church's denial of bodily resurrection. He begins by rehearsing the core gospel: Christ died for our sins according to the Scriptures, was buried, and was raised on the third day according to the Scriptures. This is the "gospel of first importance"—the foundation on which everything else stands.
+
+**Connections**:
+- **TO**: [[Readable Bible/01 - Genesis/Genesis 22#Genesis 22 . 4|Genesis 22:4]] (on the third day Abraham saw the place afar off), [[Readable Bible/28 - Hosea/Hosea 6#Hosea 6 . 2|Hosea 6:2]] (on the third day He will raise us up), [[Readable Bible/32 - Jonah/Jonah 1#Jonah 1 . 17|Jonah 1:17]] (Jonah in the fish three days)
+- **FROM OT**: [[Readable Bible/23 - Isaiah/Isaiah 53#Isaiah 53 . 5|Isaiah 53:5-6]] (wounded for our transgressions, the LORD laid on Him our iniquity), [[Readable Bible/19 - Psalms/Psalm 16#Psalm 16 . 10|Psalm 16:10]] (You will not abandon my soul to Sheol), [[Readable Bible/27 - Daniel/Daniel 9#Daniel 9 . 26|Daniel 9:26]] (Messiah shall be cut off)
+- **FROM NT**: [[Readable Bible/45 - Romans/Romans 8#Romans 8 . 32|Romans 8:32]] (delivered Him up for us all), [[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians 5 . 21|2 Corinthians 5:21]] (God made Him to be sin for us), [[Readable Bible/60 - 1 Peter/1 Peter 2#1 Peter 2 . 24|1 Peter 2:24]] (He bore our sins in His body on the tree)
+
+**Christological Connection**: Paul presents Christ's death and resurrection as the reality to which Isaac's near-death and deliverance pointed. The Akedah raised the question: Can God deliver from death? Abraham believed God could raise Isaac from the dead ([[Readable Bible/58 - Hebrews/Hebrews 11#Hebrews 11 . 19|Hebrews 11:19]]). Christ's resurrection answers definitively: Yes. God not only can raise the dead—He did, in Christ. The escalation: Isaac's "figurative" resurrection ([[Readable Bible/58 - Hebrews/Hebrews 11#Hebrews 11 . 19|Hebrews 11:19]]) → Christ's actual resurrection → believers' future resurrection ([[Readable Bible/46 - 1 Corinthians/1 Corinthians 15#1 Corinthians 15 . 20|1 Corinthians 15:20-23]]). Isaac's third-day deliverance ([[Readable Bible/01 - Genesis/Genesis 22#Genesis 22 . 4|Genesis 22:4]]) foreshadowed Christ's third-day resurrection ([[Readable Bible/46 - 1 Corinthians/1 Corinthians 15#1 Corinthians 15 . 4|1 Corinthians 15:4]]). The ram substituted for Isaac died; Christ as our substitute died and rose. Isaac lived because a ram died; we live because Christ died and rose. The pattern climaxes here: miraculous birth → willing sacrifice → third-day deliverance → life for many. What was rehearsed in Isaac is accomplished in Christ. We are "children of promise like Isaac" ([[Readable Bible/48 - Galatians/Galatians 4#Galatians 4 . 28|Galatians 4:28]]) because, like Isaac, we receive life through God's power over death—ultimately, through Christ's resurrection.
+
+**Trajectory Table**: [[Trajectory Tables/077 - Isaac (Child of Promise)]]

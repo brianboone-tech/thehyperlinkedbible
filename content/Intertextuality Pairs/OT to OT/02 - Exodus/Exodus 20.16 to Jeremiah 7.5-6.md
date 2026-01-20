@@ -1,0 +1,14 @@
+# Exodus 20:16 to Jeremiah 7:5-6
+
+**Text**: [[Readable Bible/02 - Exodus/Exodus 20#Exodus 20 . 16|Exodus 20:16]]
+
+**OT Text Referred to**: [[Readable Bible/24 - Jeremiah/Jeremiah 7#Jeremiah 7 . 5|Jeremiah 7:5-6]]
+
+**Subject**: Prophetic reference to foundational events
+
+**Source**: Unknown
+
+**Significance**: The prophetic theme connects Exodus 20 and Jeremiah 7, showing how God speaks through his messengers. The prophetic pattern points to Christ, the Prophet like Moses (Deut 18:15; Acts 3:22) who speaks God's final word (Heb 1:1-2) and embodies the message he proclaims.
+
+---
+

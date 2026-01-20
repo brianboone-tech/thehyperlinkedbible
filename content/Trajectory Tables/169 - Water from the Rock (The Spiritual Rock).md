@@ -1,0 +1,110 @@
+---
+cssclasses:
+  - trajectory-table
+---
+
+## WATER FROM THE ROCK (THE SPIRITUAL ROCK) TRAJECTORY TABLE
+
+When Israel thirsted in the wilderness and no water could be found, God commanded Moses to strike the rock (צוּר, ṣûr, "rock") at Horeb, and water gushed out to satisfy the thirsty multitude. Later, at Kadesh, God told Moses to speak to the rock, but Moses struck it instead—a failure that cost him entry into Canaan. Paul identifies this rock explicitly as Christ: 'they drank from the spiritual Rock that followed them, and the Rock was Christ' (1 Corinthians 10:4). The typology is profound: Christ, the Rock, was struck once (in His crucifixion) to provide the waters of life. To strike Him twice (as Moses did) would be to crucify Him repeatedly. From Christ's wounded side flowed blood and water (John 19:34), providing cleansing and life. The trajectory moves from physical water satisfying bodily thirst in the wilderness to spiritual water satisfying the soul's thirst for eternal life.
+
+**Type Classification**: **Providential Type** (sovereignly arranged event) and **Forward-Looking** (1 Corinthians 10:4 explicitly identifies the rock as Christ; John 7:37-39 applies the pattern).
+
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Type - The Rock Struck** | [[Readable Bible/02 - Exodus/Exodus 17#Exodus 17 . 5\|Exodus 17:5-7]] | At Rephidim, the people quarrel with Moses, demanding water. God commands Moses: 'Strike the rock, and water shall come out of it, that the people may drink' (v. 6). Moses strikes the rock before the elders of Israel, and water gushed out abundantly. This striking of the rock prefigures Christ's being struck in judgment, from whom flow the waters of eternal life. | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/02 - Exodus 17.5-7\|Exodus 17:5-7]] |
+| 2 | **OT Type - Speaking to the Rock** | [[Readable Bible/04 - Numbers/Numbers 20#Numbers 20 . 7\|Numbers 20:7-12]] | At Kadesh, Israel again lacks water and quarrels with Moses. God commands Moses to 'speak to the rock before their eyes, and it shall yield its water' (v. 8). Instead, Moses strikes the rock twice in anger. Water still flows, but God rebukes Moses: 'Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land' (v. 12). The rock was to be struck once, then spoken to—picturing Christ's once-for-all sacrifice. **CRITICAL:** [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 20.12 to Psalm 106.32-33\|Numbers 20:12 → Psalm 106:32-33]] | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/04 - Numbers 20.7-12\|Numbers 20:7-12]] |
+| 3 | **OT Type - The Rock Must Be Struck Once** | [[Readable Bible/38 - Zechariah/Zechariah 13#Zechariah 13 . 7\|Zechariah 13:7]] | Zechariah prophesies: 'Strike the shepherd, and the sheep will be scattered.' This divine command to strike God's shepherd-representative prefigures the once-for-all striking of Christ, the true Rock. Just as Moses was to strike the rock once at Horeb (not twice as at Kadesh), so God's Shepherd would be struck once in divine judgment to provide living water for the scattered flock. The striking comes from God himself, revealing that Christ's crucifixion was not merely human violence but divine purpose—the Rock struck in judgment that waters of life might flow. | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/38 - Zechariah 13.7\|Zechariah 13:7]] |
+| 4 | **Prophetic Anticipation** | [[Readable Bible/23 - Isaiah/Isaiah 48#Isaiah 48 . 21\|Isaiah 48:21]] | Isaiah recalls the wilderness provision: 'They did not thirst when he led them through the deserts; he made water flow for them from the rock; he split the rock and the water gushed out.' This history becomes promise—God will again provide miraculously for His people, ultimately through Messiah. | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/23 - Isaiah 48.21\|Isaiah 48:21]] |
+| 5 | **Prophetic Anticipation - Water from the Pierced One** | [[Readable Bible/38 - Zechariah/Zechariah 12#Zechariah 12 . 10\|Zechariah 12:10]]; [[Readable Bible/26 - Ezekiel/Ezekiel 47#Ezekiel 47 . 1\|Ezekiel 47:1-12]] | Zechariah envisions the day when Israel will 'look on me, on him whom they have pierced,' resulting in national mourning and cleansing. Ezekiel sees a river flowing from the temple, bringing life wherever it goes. These prophecies converge in Christ: the pierced One from whose side flows water (fulfilling Zechariah), and the true temple from whom rivers of living water flow (fulfilling Ezekiel). The Rock must not only be struck but pierced, and from that piercing comes the water that heals the nations. **CRITICAL:** [[Intertextuality Pairs/NT to OT/43 - John/John 19.37 to Zechariah 12.10\|John 19:37 → Zechariah 12:10]] | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/38 - Zechariah 12.10\|Zechariah 12:10]] |
+| 6 | **NT Identification** | [[Readable Bible/46 - 1 Corinthians/1 Corinthians 10#1 Corinthians 10 . 4\|1 Corinthians 10:4]] | Paul explicitly identifies the rock: 'For they drank from the spiritual Rock that followed them, and the Rock was Christ.' The wilderness rock was not merely a type but a manifestation of Christ's presence and provision. The water that sustained physical life pointed to the spiritual water that gives eternal life. **CRITICAL:** [[Intertextuality Pairs/NT to OT/46 - 1 Corinthians/1 Corinthians 10.1-4 to Exodus 13.21-22\|1 Corinthians 10:1-4 → Exodus 13:21-22]] | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/46 - 1 Corinthians 10.4\|1 Corinthians 10:4]] |
+| 7 | **NT Fulfillment - Jesus Offers Living Water** | [[Readable Bible/43 - John/John 4#John 4 . 10\|John 4:10-14]] | At Jacob's well, Jesus promises the Samaritan woman 'living water' that becomes 'a spring of water welling up to eternal life.' The irony is profound: the Rock who provides water sits thirsty at the well. Jesus fulfills Jeremiah's promise of God as 'the spring of living water' (Jeremiah 2:13) and Isaiah's invitation to 'draw water from the wells of salvation' (Isaiah 12:3). What the rock provided physically in the wilderness—water for bodily thirst—Jesus provides spiritually: water satisfying the soul's deepest thirst for eternal life. | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/43 - John 4.10-14\|John 4:10-14]] |
+| 8 | **NT Fulfillment - Blood and Water from the Struck Rock** | [[Readable Bible/43 - John/John 19#John 19 . 33\|John 19:33-37]] | When the soldier pierced Jesus' side, 'at once there came out blood and water' (John 19:34). John explicitly connects this to Zechariah 12:10 ('They will look on the one they have pierced') and implicitly to Exodus 17:6 ('Strike the rock, and water will come out'). The Rock was Christ (1 Corinthians 10:4), struck once at Calvary. From His wounded side flowed both blood (atonement) and water (cleansing and life). The physical water from Horeb's rock prefigured the spiritual water flowing from Christ's pierced side—providing forgiveness, cleansing, and eternal life to all who drink. **CRITICAL:** [[Intertextuality Pairs/NT to OT/43 - John/John 19.33-37 to Leviticus Rabbah 15.2\|John 19:33-37 → Exodus 17:6]] | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/43 - John 19.33-37\|John 19:33-37]] |
+| 9 | **NT Application - The Spirit as Rivers of Living Water** | [[Readable Bible/43 - John/John 7#John 7 . 37\|John 7:37-39]] | On the last day of the Feast of Tabernacles (which celebrated the wilderness water provision), Jesus cries out: 'If anyone thirsts, let him come to me and drink. Whoever believes in me, as the Scripture has said, "Out of his heart will flow rivers of living water"' (vv. 37-38). John explains: 'Now this he said about the Spirit, whom those who believed in him were to receive' (v. 39). From the Rock struck at Calvary flows the Spirit's life-giving water. Believers not only drink from Christ but become channels through whom rivers of living water flow to others—the Spirit transforming recipients into sources of life. **CRITICAL:** [[Intertextuality Pairs/NT to OT/43 - John/John 7.37-38 to Nehemiah 9.15\|John 7:37-38 → Nehemiah 9:15]] | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/43 - John 7.37-39\|John 7:37-39]] |
+| 10 | **NT Application - Christ the Cornerstone Foundation** | [[Readable Bible/60 - 1 Peter/1 Peter 2#1 Peter 2 . 4\|1 Peter 2:4-8]]; [[Readable Bible/49 - Ephesians/Ephesians 2#Ephesians 2 . 20\|Ephesians 2:20-22]] | Peter identifies Christ as 'a living stone' and 'cornerstone' (quoting Isaiah 28:16, Psalm 118:22, and Isaiah 8:14), showing the Rock's dual function: precious cornerstone for believers, stumbling stone for those who disobey. Paul declares that believers are 'built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone' (Ephesians 2:20). The wilderness Rock that provided water becomes the foundation Rock on which God builds His temple—the church. Believers are 'living stones' built into a spiritual house, deriving their life from union with Christ the living Rock. | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/60 - 1 Peter 2.4-8\|1 Peter 2:4-8]] |
+| 11 | **Eschatological Consummation - The River of Life** | [[Readable Bible/66 - Revelation/Revelation 22#Revelation 22 . 1\|Revelation 22:1-2, 17]] | John sees 'the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb' (Revelation 22:1), fulfilling Ezekiel's vision of the river from the temple (Ezekiel 47:1-12). The Rock struck at Calvary—Christ on His throne—eternally provides the water of life. The Spirit and the Bride say, 'Come... let the one who is thirsty come; let the one who desires take the water of life without price' (22:17). What began with water from the rock at Horeb reaches its consummation in the eternal river flowing from the Lamb's throne, satisfying the redeemed forever. The curse is removed, the tree of life restored, and the water that sustains eternal life flows perpetually from Christ the Rock. | [[Trajectory Tables - Foundation Texts/Water from the Rock (The Spiritual Rock)/66 - Revelation 22.1-2, 17\|Revelation 22:1-2, 17]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+
+**02 - Exodus**
+
+- [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 17.7 to Psalm 95.8-11\|Exodus 17.7 to Psalm 95.8-11]] - Direct connection: Exodus 17:7 names the location Massah and Meribah (מַסָּה/מְרִיבָה) where Israel tested (נָסָה) the LORD at the water-from-rock incident. Psalm 95:8-11 retrospectively warns against hardening hearts "as at Meribah, as on the day at Massah in the wilderness," explicitly citing the rock-water rebellion. Hebrews 3-4 extends this to NT believers' warning against unbelief. Core vocabulary match: Massah, Meribah, testing, wilderness.
+
+- [[Intertextuality Pairs/OT to OT/02 - Exodus/Exodus 17.7 to Psalm 95.8\|Exodus 17.7 to Psalm 95.8]] - Identical to previous pair but focusing specifically on Psalm 95:8 rather than 95:8-11. Same high relevance: direct OT-to-OT development of the Meribah rebellion theme, showing how later Scripture interprets the rock incident as paradigmatic warning against testing God. Essential to trajectory.
+
+**04 - Numbers**
+
+- [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 20.12 to Psalm 106.32-33\|Numbers 20.12 to Psalm 106.32-33]] - **CRITICAL:** Strong direct connection: Numbers 20:12 records Moses' sin at the waters of Meribah (מְרִי מֵי מְרִיבָה) where he struck the rock twice instead of speaking to it. Psalm 106:32-33 retrospectively interprets this: "They angered the LORD at the waters of Meribah, and it went ill with Moses on their account, for they made his spirit bitter." Core OT development of the rock typology's significance—Moses violated the type by striking twice. **Criterion 2: Key Typological Establishment** - establishes the once-struck vs. twice-struck pattern foundational to understanding Christ's once-for-all sacrifice.
+
+- [[Intertextuality Pairs/OT to OT/04 - Numbers/Numbers 20.12 to Psalm 106.32\|Numbers 20.12 to Psalm 106.32]] - Same as previous pair but narrower focus on Psalm 106:32. Identical high relevance: Moses' failure at Meribah interpreted as prophetic warning. Shows canonical trajectory of how Israel reflected on the rock-water incidents. Essential for understanding the once-struck vs. twice-struck distinction.
+
+**19 - Psalms**
+
+- [[Intertextuality Pairs/OT to OT/19 - Psalms/Psalms 95.8-11 to Exodus 17.7\|Psalms 95.8-11 to Exodus 17.7]] - Mirror image of the Exodus 17:7 to Psalm 95:8-11 pair analyzed above. Psalm looks back to the Exodus rebellion at Massah/Meribah, explicitly naming the rock-water incident. Establishes the exodus paradigm for understanding God's saving acts and Israel's failure to trust. High relevance to trajectory.
+---
+
+## Four-Step Application
+
+### 1. What You Must Do
+
+You must come to Christ and drink. This is Jesus' own invitation on the great day of the Feast of Tabernacles—the feast celebrating God's water provision in the wilderness: If anyone thirsts, let him come to me and drink (John 7:37). You must acknowledge your thirst and receive from the only Source who can satisfy it.
+
+### 2. Why You Can't Do It
+
+You keep trying to satisfy your thirst from other sources. You dig your own cisterns—relationships, achievements, pleasures, religious performance—but they are broken cisterns that can hold no water (Jeremiah 2:13). You're like Israel demanding Egypt's meat pots instead of heaven's manna. You want water you can control, sources you can access on your own terms. But your soul's thirst cannot be satisfied by anything you generate.
+
+### 3. How He Did It
+
+Christ is the Rock—struck once at Calvary. When the soldier's spear pierced His side, at once there came out blood and water (John 19:34). The blood for atonement. The water for cleansing and life. He endured the striking so that we could drink freely. He was smitten by divine judgment so that living water could flow to all who would receive it. And He was struck once—once for all (Hebrews 10:10)—so that we never need another sacrifice, only grateful reception of what His one sacrifice accomplished.
+
+### 4. How Through Him You Can
+
+Because Christ was struck once-for-all, you can now approach by speaking—through prayer, not through re-sacrificing. You don't need to generate your own spiritual life; you receive it daily from the smitten Rock. And here is the abundance: Whoever believes in me... out of his heart will flow rivers of living water (John 7:38). You become not merely a recipient but a channel. The water Christ gives doesn't just satisfy your thirst—it becomes a spring within you, overflowing to others. And this living water flows eternally: the water of life, bright as crystal, flowing from the throne of God and of the Lamb (Revelation 22:1). Come. Drink. And never thirst again.
+
+---
+
+## Lexicon Findings
+
+The trajectory's lexical network demonstrates precise verbal continuity from OT Hebrew through LXX Greek to NT fulfillment. The foundational Hebrew term **צוּר** (*tsur*, [[Lexicon/H6601-6700#H6697|H6697]]) meaning "rock, cliff, boulder" (Exodus 17:6; Numbers 20:8,10-11) translates in the LXX as **πέτρα** (*petra*, [[Lexicon/G4001-4100#G4073|G4073]]), which Paul explicitly identifies as Christ in 1 Corinthians 10:4 ("the Rock was Christ"). The verb **נָכָה** (*nakah*, [[Lexicon/H5201-5300#H5221|H5221]]) "to strike, smite" (Exodus 17:6) appears in LXX as **πατάσσω** (*patasso*, [[Lexicon/G3901-4000#G3960|G3960]]), connecting to John 19:34's **νύσσω** (*nysso*, [[Lexicon/G3501-3600#G3572|G3572]]) "to pierce"—the striking that releases water from Christ's side. The water imagery centers on **מַיִם** (*mayim*, [[Lexicon/H4301-4400#H4325|H4325]]) → **ὕδωρ** (*hydor*, [[Lexicon/G5201-5300#G5204|G5204]]), flowing from the struck rock to become **ποταμοί** (*potamoi*, [[Lexicon/G4201-4300#G4215|G4215]]) "rivers" of living water (John 7:38). The thirst motif traces **צָמֵא** (*tsame*, [[Lexicon/G6701-6800#G6770|H6770]]) → **διψάω** (*dipsao*, [[Lexicon/G1301-1400#G1372|G1372]]), linking wilderness thirst to spiritual longing. Most significantly, Paul qualifies the rock as **πνευματικός** (*pneumatikos*, [[Lexicon/G4101-4200#G4152|G4152]]) "spiritual" and connects drinking (**πίνω**, *pino*, [[Lexicon/G4001-4100#G4095|G4095]]) to Spirit reception (John 7:39). The testing motif—**נָסָה** (*nasah*, [[Lexicon/H5201-5300#H5254|H5254]]) → **πειράζω** (*peirazo*, [[Lexicon/G3901-4000#G3985|G3985]])—from Exodus 17:2,7 extends to NT warnings (1 Corinthians 10:9; Acts 5:9), while John's "living water" employs **πηγή** (*pege*, [[Lexicon/G4001-4100#G4077|G4077]]) "fountain, spring" (John 4:14; Revelation 22:1) to capture eternal life flowing from the once-struck Rock.
+
+**Key Lexical Threads:**
+
+- **Hebrew**: צוּר (*tsur*) - appears in Exodus 17:6, Numbers 20:8,10-11, Zechariah 13:7 (shepherd = rock imagery), Isaiah 48:21
+- **LXX**: πέτρα (*petra*) - standard translation of צוּר in LXX Exodus 17:6, Numbers 20:8
+- **NT**: πέτρα (*petra*) - NT continuation in 1 Corinthians 10:4 ("the Rock was Christ"), 1 Peter 2:4-8 (cornerstone)
+
+- **Hebrew**: מַיִם (*mayim*) - appears in all OT rock-water passages (Exodus 17:6, Numbers 20:8,11, Isaiah 48:21)
+- **LXX**: ὕδωρ (*hydor*) - standard translation in LXX Exodus 17:6, Numbers 20:8
+- **NT**: ὕδωρ (*hydor*) - NT continuation in John 4:10-14, John 7:37-38, John 19:34, Revelation 22:1
+
+- **Hebrew**: נָכָה (*nakah*) - "strike" in Exodus 17:6, Numbers 20:11
+- **LXX**: πατάσσω (*patasso*) - LXX rendering in Exodus 17:6, Numbers 20:11
+- **NT**: νύσσω (*nysso*) - "pierce" in John 19:34, fulfilling the once-struck pattern
+
+- **Hebrew**: צָמֵא (*tsame*) - "thirst" in Isaiah 48:21, Psalm 69:21
+- **LXX**: διψάω (*dipsao*) - LXX rendering
+- **NT**: διψάω (*dipsao*) - John 4:13-14, John 7:37, John 19:28, Revelation 22:17
+
+- **Hebrew**: נָסָה (*nasah*) - "test, tempt" in Exodus 17:2,7 (Massah)
+- **LXX**: πειράζω (*peirazo*) - LXX rendering
+- **NT**: πειράζω (*peirazo*) - 1 Corinthians 10:9, Acts 5:9 (testing the Spirit = Massah warning)
+
+**Lexicon References:**
+- [[Lexicon/H6601-6700#H6697|H6697]] - צוּר (*tsur*) - rock, cliff, boulder; metaphorically of God as refuge and strength
+- [[Lexicon/H4301-4400#H4325|H4325]] - מַיִם (*mayim*) - water, waters; figuratively of refreshment
+- [[Lexicon/H5201-5300#H5221|H5221]] - נָכָה (*nakah*) - to strike, smite, hit, beat, slay
+- [[Lexicon/H6701-6800#H6770|H6770]] - צָמֵא (*tsame*) - to thirst (literally or figuratively)
+- [[Lexicon/H5201-5300#H5254|H5254]] - נָסָה (*nasah*) - to test, try, prove, tempt
+- [[Lexicon/G4001-4100#G4073|G4073]] - πέτρα (*petra*) - rock, cliff; metaphorically of Christ
+- [[Lexicon/G5201-5300#G5204|G5204]] - ὕδωρ (*hydor*) - water; figuratively of spiritual life
+- [[Lexicon/G4001-4100#G4095|G4095]] - πίνω (*pino*) - to drink; figuratively to receive into the soul
+- [[Lexicon/G1301-1400#G1372|G1372]] - διψάω (*dipsao*) - to thirst; figuratively to eagerly long for spiritual things
+- [[Lexicon/G3901-4000#G3985|G3985]] - πειράζω (*peirazo*) - to test, tempt; to test God by distrust
+- [[Lexicon/G4101-4200#G4152|G4152]] - πνευματικός (*pneumatikos*) - spiritual, belonging to the Divine Spirit
+- [[Lexicon/G3501-3600#G3572|G3572]] - νύσσω (*nysso*) - to pierce, transfix
+- [[Lexicon/G4201-4300#G4215|G4215]] - ποταμός (*potamos*) - river, stream; of living water flowing from believers
+- [[Lexicon/G4001-4100#G4077|G4077]] - πηγή (*pege*) - fountain, spring; of eternal life's source

@@ -1,0 +1,22 @@
+### [[Readable Bible/38 - Zechariah/Zechariah 13#Zechariah 13 . 7|Zechariah 13:7]]
+
+**Hebrew Key Terms**:
+- [[Lexicon/H5201-5300#H5221|נָכָה]] (*nakah*) - "strike, smite, kill"
+- [[Lexicon/H7401-7500#H7462|רֹעֶה]] (*ro'eh*) - "shepherd, pastor"
+- [[Lexicon/H6601-6700#H6629|צֹאן]] (*tso'n*) - "flock, sheep"
+- [[Lexicon/H6301-6400#H6327|פּוּץ]] (*puts*) - "scatter, be dispersed"
+- [[Lexicon/H1301-1400#H1397|גֶּבֶר]] (*geber*) - "man, mighty man"
+- [[Lexicon/H5801-5900#H5997|עֲמִית]] (*amit*) - "companion, associate, fellow" (covenant partner)
+- [[Lexicon/H7601-7700#H7725|שׁוּב]] (*shuv*) - "turn, return"
+- [[Lexicon/H3001-3100#H3027|יָד]] (*yad*) - "hand, power"
+
+**Context**: In Zechariah's eschatological prophecy concerning the Day of the LORD and Israel's restoration, God suddenly commands: "Strike the shepherd, and the sheep will scatter." This shepherd is identified as "my shepherd" and "the man who stands next to me" (*amit*), indicating intimate covenant relationship with Yahweh. After the shepherd's striking and the flock's scattering, God promises to turn His hand upon "the little ones" in protective care. This prophecy finds explicit fulfillment when Jesus quotes it at Gethsemane, identifying Himself as the smitten shepherd.
+
+**Connections**:
+- **TO**: [[Readable Bible/02 - Exodus/Exodus 17#Exodus 17 . 6|Exodus 17:6]] (strike the rock), [[Readable Bible/23 - Isaiah/Isaiah 53#Isaiah 53 . 4|Isaiah 53:4]] (stricken by God), [[Readable Bible/23 - Isaiah/Isaiah 53#Isaiah 53 . 10|Isaiah 53:10]] (pleased to crush him)
+- **FROM OT**: [[Readable Bible/38 - Zechariah/Zechariah 12#Zechariah 12 . 10|Zechariah 12:10]] (pierced one), [[Readable Bible/38 - Zechariah/Zechariah 11#Zechariah 11 . 4|Zechariah 11:4-14]] (shepherd rejected)
+- **FROM NT**: [[Readable Bible/40 - Matthew/Matthew 26#Matthew 26 . 31|Matthew 26:31]] (Jesus quotes [[Readable Bible/38 - Zechariah/Zechariah 13#Zechariah 13 . 7|Zechariah 13:7]]), [[Readable Bible/41 - Mark/Mark 14#Mark 14 . 27|Mark 14:27]] (disciples scattered), [[Readable Bible/43 - John/John 16#John 16 . 32|John 16:32]] (scattered, each to his own)
+
+**Christological Connection**: [[Readable Bible/38 - Zechariah/Zechariah 13#Zechariah 13 . 7|Zechariah 13:7]] provides the clearest OT link between rock-striking typology and Messianic suffering. Jesus' explicit self-identification as the smitten shepherd establishes the connection: as God commanded Moses to "strike the rock" ([[Readable Bible/02 - Exodus/Exodus 17#Exodus 17 . 6|Exodus 17:6]]), now God commands "strike the shepherd." Both striking events are divinely ordained, not human accidents. The shepherd/rock parallel reveals Christ's identity—He is both the Rock struck for provision and the Shepherd struck for the flock's salvation. The term *amit* (associate, companion) indicates Christ's unique relationship to the Father—He is the one who "stands next to" God, sharing divine nature while taking human nature (*geber*, mighty man). This dual identity enables substitution: the divine-human shepherd can be struck in judgment, bearing what the flock deserves. The striking accomplishes what the rock-striking prefigured: from Christ's wounds flow rivers of living water ([[Readable Bible/43 - John/John 7#John 7 . 38|John 7:38]]). The disciples' scattering fulfills the type—when the shepherd is struck, sheep scatter ([[Readable Bible/40 - Matthew/Matthew 26#Matthew 26 . 56|Matthew 26:56]]: "Then all the disciples left him and fled"). But scattering isn't final; Jesus promises regathering: "after I am raised up, I will go before you to Galilee" ([[Readable Bible/40 - Matthew/Matthew 26#Matthew 26 . 32|Matthew 26:32]]). God's hand turns to protect the little ones—the remnant of Jewish believers and Gentile converts who form the new covenant community. The striking reveals God's sovereign plan: "this Jesus, delivered up according to the definite plan and foreknowledge of God, you crucified" ([[Readable Bible/44 - Acts/Acts 2#Acts 2 . 23|Acts 2:23]]). What looked like defeat—Messiah struck dead, followers scattered—was divine purpose. As water flowed from the struck rock at Horeb, so living water flows from the struck Shepherd at Calvary. The once-for-all striking provides eternal life: "I give them eternal life, and they will never perish" ([[Readable Bible/43 - John/John 10#John 10 . 28|John 10:28]]).
+
+**Trajectory Table**: [[Trajectory Tables/169 - Water from the Rock (The Spiritual Rock)]]

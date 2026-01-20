@@ -1,0 +1,22 @@
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/42 - Luke|← Luke]]**
+
+---
+
+- A. [[Readable Bible/42 - Luke/Luke 16#Luke 16 . 1|1]]-[[Readable Bible/42 - Luke/Luke 16#Luke 16 . 2|2]] There was a certain rich man, which had a <span style="color: #c0392b; font-weight: bold;">steward</span>; and the same was accused unto him that he had wasted his goods. And he called him, and said unto him, How is it that I hear this of thee? <span style="color: #c0392b; font-weight: bold;">give an account of thy stewardship</span>; for thou mayest be no longer steward.
+
+    - B. [[Readable Bible/42 - Luke/Luke 16#Luke 16 . 3|3]]-[[Readable Bible/42 - Luke/Luke 16#Luke 16 . 4|4]] Then the steward said within himself, What shall I do? for my lord taketh away from me the stewardship: I cannot dig; to beg I am ashamed. I am resolved what to do, that, when I am put out of the stewardship, they may receive me into their houses.
+
+        - C. [[Readable Bible/42 - Luke/Luke 16#Luke 16 . 5|5]]-[[Readable Bible/42 - Luke/Luke 16#Luke 16 . 8|8]] So he called every one of his lord's debtors unto him, and said unto the first, How much owest thou unto my lord? And he said, An hundred measures of oil. And he said unto him, Take thy bill, and sit down quickly, and write fifty. Then said he to another, And how much owest thou? And he said, An hundred measures of wheat. And he said unto him, Take thy bill, and write fourscore. And the lord commended the unjust steward, because he had done <span style="color: #2980b9; font-weight: bold;">wisely</span>: for the children of this world are in their generation <span style="color: #2980b9; font-weight: bold;">wiser</span> than the children of light.
+
+            - D. [[Readable Bible/42 - Luke/Luke 16#Luke 16 . 9|9]]-[[Readable Bible/42 - Luke/Luke 16#Luke 16 . 12|12]] And I say unto you, Make to yourselves friends of the <span style="color: #16a085; font-weight: bold;">mammon of unrighteousness</span>; that, when ye fail, they may receive you into everlasting habitations. He that is <span style="color: #16a085; font-weight: bold;">faithful</span> in that which is least is <span style="color: #16a085; font-weight: bold;">faithful</span> also in much: and he that is unjust in the least is unjust also in much. If therefore ye have not been <span style="color: #16a085; font-weight: bold;">faithful</span> in the unrighteous <span style="color: #16a085; font-weight: bold;">mammon</span>, who will commit to your trust the true riches? And if ye have not been <span style="color: #16a085; font-weight: bold;">faithful</span> in that which is another man's, who shall give you that which is your own?
+
+                - E. [[Readable Bible/42 - Luke/Luke 16#Luke 16 . 13|13]] <span style="color: #922b21; font-weight: bold;">No servant can serve two masters</span>: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot <span style="color: #922b21; font-weight: bold;">serve God and mammon</span>.
+
+            - D'. [[Readable Bible/42 - Luke/Luke 16#Luke 16 . 14|14]]-[[Readable Bible/42 - Luke/Luke 16#Luke 16 . 15|15]] And the Pharisees also, who were covetous, heard all these things: and they derided him. And he said unto them, Ye are they which <span style="color: #16a085; font-weight: bold;">justify yourselves before men</span>; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
+
+        - C'. [[Readable Bible/42 - Luke/Luke 16#Luke 16 . 16|16]]-[[Readable Bible/42 - Luke/Luke 16#Luke 16 . 17|17]] The law and the prophets were until John: since that time the <span style="color: #2980b9; font-weight: bold;">kingdom of God</span> is preached, and every man presseth into it. And it is easier for heaven and earth to pass, than one tittle of the law to fail.
+

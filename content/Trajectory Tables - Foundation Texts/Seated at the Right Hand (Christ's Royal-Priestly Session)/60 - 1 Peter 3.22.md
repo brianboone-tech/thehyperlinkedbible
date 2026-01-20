@@ -1,0 +1,34 @@
+### [[Readable Bible/60 - 1 Peter/1 Peter 3#1 Peter 3 . 22|1 Peter 3:22]]
+
+**Greek Key Terms**:
+- [[Lexicon/G3601-3700#G3739|ὅς ἐστιν]] (*hos estin*) - "who is" (present tense)
+- [[Lexicon/G1601-1700#G1722|ἐν δεξιᾷ θεοῦ]] (*en dexia theou*) - "at the right hand of God"
+- [[Lexicon/G4201-4300#G4198|πορευθεὶς εἰς οὐρανόν]] (*poreutheis eis ouranon*) - "having gone into heaven" (aorist participle)
+- [[Lexicon/G5201-5300#G5293|ὑποταγέντων αὐτῷ]] (*hypotagentōn autō*) - "having been subjected to him" (aorist passive participle)
+- [[Lexicon/G0001-0100#G0032|ἀγγέλων]] (*angelōn*) - "angels"
+- [[Lexicon/G1701-1800#G1849|ἐξουσιῶν]] (*exousiōn*) - "authorities"
+- [[Lexicon/G1401-1500#G1411|δυνάμεων]] (*dynameōn*) - "powers"
+
+**Context**: Concluding his discussion of Christ's suffering, death, resurrection, and proclamation (1 Peter 3:18-22), Peter declares that Christ "has gone into heaven and is at the right hand of God, with angels, authorities, and powers having been subjected to him." This affirms Christ's ascension, session at God's right hand, and universal sovereignty over all spiritual powers. Christ's exalted position provides assurance for suffering believers—their Lord reigns supreme over all creation.
+
+**Connections**:
+- **TO**: [[Readable Bible/19 - Psalms/Psalm 110#Psalm 110 . 1|Psalm 110:1]] (sit at my right hand until enemies footstool), [[Readable Bible/08 - Psalms/Psalm 8#Psalm 8 . 6|Psalm 8:6]] (all things under his feet)
+- **FROM NT**: [[Readable Bible/44 - Acts/Acts 1#Acts 1 . 9|Acts 1:9-11]] (taken up into heaven), [[Readable Bible/49 - Ephesians/Ephesians 1#Ephesians 1 . 20|Ephesians 1:20-21]] (seated far above all rule and authority), [[Readable Bible/50 - Philippians/Philippians 2#Philippians 2 . 9|Philippians 2:9-11]] (exalted, every knee bow), [[Readable Bible/51 - Colossians/Colossians 2#Colossians 2 . 15|Colossians 2:15]] (disarmed rulers and authorities)
+
+**Christological Connection**: First Peter 3:22 affirms Christ's ascension to heaven and session at God's right hand, with all spiritual powers subjected to Him. This comprehensive vision of Christ's exaltation provides assurance for Peter's audience of suffering believers—their Lord reigns supreme over all creation, guaranteeing their ultimate vindication.
+
+The phrase "who is at the right hand of God" locates Christ's current position. The present tense "is" (*estin*) emphasizes ongoing reality—not past event but present status. Christ currently occupies the supreme position of authority at God's right hand, fulfilling [[Readable Bible/19 - Psalms/Psalm 110#Psalm 110 . 1|Psalm 110:1]]'s divine invitation: "Sit at my right hand until I make your enemies your footstool." The right hand position signifies highest honor, supreme authority, and shared sovereignty with God.
+
+The participial phrase "having gone into heaven" describes how Christ reached this position. The aorist "having gone" (*poreutheis*) indicates completed action—at His ascension ([[Readable Bible/44 - Acts/Acts 1#Acts 1 . 9|Acts 1:9-11]]), Christ entered heaven, the divine realm where God's throne resides. This ascension wasn't temporary visit but permanent entrance—Christ has gone into heaven and remains there, seated at God's right hand. The sequence is: suffering and death (v. 18) → resurrection and proclamation (v. 18-20) → ascension into heaven (v. 22a) → session at God's right hand (v. 22b).
+
+The phrase "with angels, authorities, and powers having been subjected to him" establishes Christ's universal sovereignty. The aorist passive participle "having been subjected" (*hypotagentōn*) indicates these powers were subjected to Christ as result of His exaltation—God subjected them, placing all things under Christ's authority (cf. [[Readable Bible/49 - Ephesians/Ephesians 1#Ephesians 1 . 20|Ephesians 1:20-22]]; [[Readable Bible/50 - Philippians/Philippians 2#Philippians 2 . 9|Philippians 2:9-11]]). The comprehensive list—"angels (*angelōn*), authorities (*exousiōn*), powers (*dynameōn*)"—covers all spiritual beings, whether originally good or fallen. Christ's session at God's right hand establishes His supremacy over all created powers.
+
+This universal subjection fulfills [[Readable Bible/19 - Psalms/Psalm 8#Psalm 8 . 6|Psalm 8:6]]: "You have put all things under his feet." What was promised to humanity in creation (dominion over earth) and lost in fall is restored and surpassed in Christ, the true human who exercises dominion over all creation, including spiritual realms. The phrase "under his feet" appears in NT application of [[Readable Bible/19 - Psalms/Psalm 110#Psalm 110 . 1|Psalm 110:1]] ([[Readable Bible/46 - 1 Corinthians/1 Corinthians 15#1 Corinthians 15 . 25|1 Corinthians 15:25]]; [[Readable Bible/49 - Ephesians/Ephesians 1#Ephesians 1 . 22|Ephesians 1:22]]; [[Readable Bible/58 - Hebrews/Hebrews 2#Hebrews 2 . 8|Hebrews 2:8]]), combining Psalm 110's royal session with Psalm 8's universal dominion.
+
+The pastoral application is powerful: believers suffering for righteousness ([[Readable Bible/60 - 1 Peter/1 Peter 3#1 Peter 3 . 14|1 Peter 3:14]], 17) serve a Lord who reigns supreme over all powers that might threaten them. No angel, authority, or power can ultimately harm those under Christ's protection. The one who sits at God's right hand, with all spiritual powers subjected to Him, guarantees believers' security and vindicates their faithfulness. The trajectory from Christ's suffering (v. 18) to exaltation (v. 22) provides pattern and promise for believers: present suffering leads to future glory.
+
+The standing-sitting dynamic, though not explicit, undergirds Peter's pastoral purpose. Where Levitical priests stood in earthly sanctuary offering repeated sacrifices ([[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 11|Hebrews 10:11]]), Christ sits at God's right hand having accomplished eternal redemption. Where earthly priests ministered under threat of hostile powers, exalted Christ reigns over all powers, exercising absolute sovereignty. Believers' confidence rests not in earthly protection but in Christ's heavenly session—He who sits at God's right hand, with all angels, authorities, and powers subjected to Him, is able to save and vindicate His people.
+
+First Peter 3:22's declaration that Christ "is at the right hand of God, with angels, authorities, and powers subjected to him" provides suffering believers with supreme encouragement: their Lord reigns, their future is secure, and their vindication is certain. The seated Christ at God's right hand exercises universal sovereignty, guaranteeing that faithfulness through present suffering will lead to participation in coming glory, as Christ's path from cross to throne becomes believers' pattern from persecution to exaltation.
+
+**Trajectory Table**: [[Trajectory Tables/072 - High Priest Seated at the Right Hand (Christ's Royal-Priestly Session)]]

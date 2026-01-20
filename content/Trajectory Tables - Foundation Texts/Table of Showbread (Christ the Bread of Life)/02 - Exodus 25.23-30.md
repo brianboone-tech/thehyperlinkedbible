@@ -1,0 +1,24 @@
+### [[Readable Bible/02 - Exodus/Exodus 25#Exodus 25 . 23|Exodus 25:23-30]]
+
+**Hebrew Key Terms**:
+- [[Lexicon/H7979-7980#H7979|שֻׁלְחָן]] (*shulḥān*) - "table"
+- [[Lexicon/H7848-7849#H7848|שִׁטִּים]] (*shiṭṭîm*) - "acacia wood"
+- [[Lexicon/H2091-2092#H2091|זָהָב]] (*zāhāḇ*) - "gold"
+- [[Lexicon/H3899-3900#H3899|לֶחֶם]] (*leḥem*) - "bread"
+- [[Lexicon/H6440-6441#H6440|פָּנִים]] (*pānîm*) - "face, presence"
+- [[Lexicon/H8548-8549#H8548|תָּמִיד]] (*tāmîd*) - "continually, always, perpetually"
+- [[Lexicon/H7086-7087#H7086|קְעָרָה]] (*qᵉ'ārāh*) - "dish, platter"
+- [[Lexicon/H3709-3710#H3709|כַּף]] (*kap*) - "pan, spoon"
+- [[Lexicon/H4518-4519#H4518|מְנַקִּית]] (*mᵉnaqqîṯ*) - "bowl, libation vessel"
+- [[Lexicon/H7184-7185#H7184|קָשְׂוָה]] (*qāśwāh*) - "jug, pitcher"
+
+**Context**: Exodus 25:23-30 prescribes the table of showbread (literally "table of the Presence-bread," shulḥan leḥem happānîm), one of three sacred furnishings in the Holy Place. God commands Moses: "You shall make a table of acacia wood... You shall overlay it with pure gold... And you shall set the bread of the Presence on the table before me regularly" (vv. 23-24, 30). The table held twelve loaves representing the twelve tribes in perpetual communion with God. The bread, replaced weekly (Leviticus 24:5-9), signified God's provision and covenant fellowship. The "bread of the Presence" was always before the LORD—a visible symbol that Israel lived in God's sight and by His sustenance.
+
+**Connections**:
+- **TO**: [[Readable Bible/01 - Genesis/Genesis 3#Genesis 3 . 19|Genesis 3:19]] (by the sweat of your face you shall eat bread), [[Readable Bible/01 - Genesis/Genesis 14#Genesis 14 . 18|Genesis 14:18]] (Melchizedek brought out bread and wine), [[Readable Bible/02 - Exodus/Exodus 16#Exodus 16 . 4|Exodus 16:4-36]] (manna—bread from heaven)
+- **FROM OT**: [[Readable Bible/03 - Leviticus/Leviticus 24#Leviticus 24 . 5|Leviticus 24:5-9]] (regulations for the showbread), [[Readable Bible/04 - Numbers/Numbers 4#Numbers 4 . 7|Numbers 4:7]] (table of the bread of the Presence), [[Readable Bible/09 - 1 Samuel/1 Samuel 21#1 Samuel 21 . 6|1 Samuel 21:6]] (David eats the holy bread)
+- **FROM NT**: [[Readable Bible/43 - John/John 6#John 6 . 35|John 6:35]] (I am the bread of life), [[Readable Bible/46 - 1 Corinthians/1 Corinthians 10#1 Corinthians 10 . 16|1 Corinthians 10:16-17]] (the bread that we break), [[Readable Bible/58 - Hebrews/Hebrews 9#Hebrews 9 . 2|Hebrews 9:2]] (the holy place... having the... table with its bread of the Presence)
+
+**Christological Connection**: [[Readable Bible/02 - Exodus/Exodus 25#Exodus 25 . 23|Exodus 25:23-30]]'s table of showbread prefigures Christ as the bread of life who sustains God's people through perpetual communion. The table's **presence bread** (leḥem happānîm) embodies the principle Christ declares: "I am the bread of life; whoever comes to me shall not hunger" ([[Readable Bible/43 - John/John 6#John 6 . 35|John 6:35]]). The showbread stood "before me regularly (tāmîd)" (v. 30)—continuously in God's presence; Christ is eternally in the Father's presence, interceding for believers ([[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 25|Hebrews 7:25]]). The **twelve loaves** represented Israel's twelve tribes in covenant fellowship; Christ gathers believers from every nation into one body, one bread ([[Readable Bible/46 - 1 Corinthians/1 Corinthians 10#1 Corinthians 10 . 17|1 Corinthians 10:17]]). The showbread's **weekly replacement** revealed its temporal limitation—it grew stale, needed renewing. Christ is the bread that "never grows old," the living bread who gives eternal life ([[Readable Bible/43 - John/John 6#John 6 . 51|John 6:51]]). The **priestly consumption** ([[Readable Bible/03 - Leviticus/Leviticus 24#Leviticus 24 . 9|Leviticus 24:9]]) restricted showbread to Aaron's sons; Christ invites all believers to feast on Him by faith ([[Readable Bible/43 - John/John 6#John 6 . 53|John 6:53-56]]). The **golden table** holding the bread prefigures Christ as mediator—He holds believers in God's presence, presenting them acceptably. The showbread's **continual presence** anticipated Christ's promise: "I am with you always" ([[Readable Bible/40 - Matthew/Matthew 28#Matthew 28 . 20|Matthew 28:20]]). The trajectory moves from type to reality: bread symbolically before God → Christ literally before God; twelve loaves representing Israel → one loaf uniting all believers; weekly ritual → eternal communion; priests eating in Holy Place → all believers feasting with Christ in heavenly places ([[Readable Bible/49 - Ephesians/Ephesians 2#Ephesians 2 . 6|Ephesians 2:6]]). What the golden table and presence bread foreshadowed, Christ fulfills—perpetual provision, covenant fellowship, and life-sustaining communion with God.
+
+**Trajectory Table**: [[Trajectory Tables/157 - Table of Showbread (Christ the Bread of Life)]]

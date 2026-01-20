@@ -1,0 +1,22 @@
+### [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 27|Revelation 21:27]]
+
+**Greek Key Terms**:
+- [[Lexicon/G1501-1600#G1525|εἰσέλθῃ]] (*eiselthē*) - "shall enter" (aorist subjunctive)
+- [[Lexicon/G3901-4000#G3956|πᾶν κοινόν]] (*pan koinon*) - "anything common, unclean"
+- [[Lexicon/G4101-4200#G4160|ποιῶν]] (*poiōn*) - "one doing, practicing" (present participle)
+- [[Lexicon/G0901-1000#G0946|βδέλυγμα]] (*bdelygma*) - "abomination, detestable thing"
+- [[Lexicon/G5501-5600#G5579|ψεῦδος]] (*pseudos*) - "lie, falsehood"
+- [[Lexicon/G1101-1200#G1125|γεγραμμένοι]] (*gegrammenoi*) - "having been written" (perfect passive participle)
+- [[Lexicon/G0901-1000#G0975|βιβλίῳ]] (*bibliō*) - "book" (dative)
+- [[Lexicon/G2201-2300#G2222|ζωῆς]] (*zōēs*) - "of life" (genitive)
+- [[Lexicon/G0701-0800#G0721|ἀρνίου]] (*arniou*) - "of the Lamb" (genitive)
+
+**Context**: Revelation announces perfect purity in New Jerusalem: "nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb's book of life." The uncleanness laws' ultimate fulfillment arrives in the eternal state where all defilement is permanently excluded. The ceremonial distinction between clean and unclean prefigured moral distinction between redeemed and unredeemed, finding eternal realization in New Jerusalem's perfect holiness.
+
+**Connections**:
+- **TO**: [[Readable Bible/03 - Leviticus/Leviticus 11#Leviticus 11 . 44|Leviticus 11:44-45]] (you shall be holy for I am holy), [[Readable Bible/23 - Isaiah/Isaiah 35#Isaiah 35 . 8|Isaiah 35:8]] (it shall be called the Way of Holiness; unclean shall not pass over it), [[Readable Bible/23 - Isaiah/Isaiah 52#Isaiah 52 . 1|Isaiah 52:1]] (no more shall come into you the uncircumcised and the unclean)
+- **FROM NT**: [[Readable Bible/58 - Hebrews/Hebrews 12#Hebrews 12 . 14|Hebrews 12:14]] (without holiness no one will see the Lord), [[Readable Bible/66 - Revelation/Revelation 20#Revelation 20 . 15|Revelation 20:15]] (anyone not found in book of life thrown into lake of fire), [[Readable Bible/66 - Revelation/Revelation 22#Revelation 22 . 14|Revelation 22:14-15]] (blessed are those who wash their robes... outside are dogs, sorcerers, sexually immoral)
+
+**Christological Connection**: [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 27|Revelation 21:27]] announces the uncleanness laws' eschatological fulfillment—"nothing unclean will ever enter" New Jerusalem. Leviticus 13-15 excluded ceremonially unclean persons from Israel's camp where God's tabernacle dwelt—lepers, those with discharges, corpse-defiled persons remained outside until cleansed. The regulations taught that defilement and God's holy presence are incompatible. [[Readable Bible/04 - Numbers/Numbers 5#Numbers 5 . 3|Numbers 5:3]] explains: "that they may not defile their camp, in the midst of which I dwell." The ceremonial exclusion was temporary—purification rituals restored access. Revelation announces permanent reality: perfect holiness in God's eternal dwelling where "nothing unclean will ever enter it." The shift from ceremonial to moral categories shows the fulfillment. Levitical law excluded based on physical conditions (leprosy, discharge, corpse contact); New Jerusalem excludes based on moral character ("anyone who does what is detestable or false"). But entrance isn't achieved through moral perfection—"only those who are written in the Lamb's book of life." The Lamb's sacrifice (Christ crucified) cleanses those whose names are written, enabling entrance despite past defilement. [[Readable Bible/66 - Revelation/Revelation 7#Revelation 7 . 14|Revelation 7:14]] declares the great multitude "washed their robes and made them white in the blood of the Lamb"—cleansing through Christ's blood, not ceremonial ritual. The trajectory completes: Levitical exclusions (temporary, ceremonial, restorable through ritual) → Christ's cleansing (permanent, moral, accomplished through His blood) → New Jerusalem (eternal purity, perfect holiness, defilement forever excluded). What began as temporal separation from tabernacle culminates in eternal communion in God's presence. The ceremonial laws taught the principle; Christ's blood accomplished the cleansing; the new creation manifests the perfection—nothing unclean ever entering because all redeemed are perfectly cleansed through the Lamb.
+
+**Trajectory Table**: [[Trajectory Tables/027 - Ceremonial Uncleanness (Spiritual Defilement)]]

@@ -1,0 +1,79 @@
+---
+Folder: Reference Bible
+cssClasses: lexicon
+---
+
+# Colossians 2
+
+[[Colossians 1|←]] • [[Colossians 3|→]]
+
+---
+
+##### Colossians 2 - 1
+[[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G2301-2400#G2309|I want]] [[Lexicon/G4701-4800#G4771|you]] [[Lexicon/G1401-1500#G1492|to know]] [[Lexicon/G2201-2300#G2245|how much]] [[Lexicon/G1-100#G73|vvv]] [[Lexicon/G2101-2200#G2192|I am struggling]] [[Lexicon/G5201-5300#G5228|for]] [[Lexicon/G4701-4800#G4771|you]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|(for) those]] [[Lexicon/G1701-1800#G1722|at]] [[Lexicon/G2901-3000#G2993|Laodicea ,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3745|for all who]] [[Lexicon/G3701-3800#G3756|vvv]] [[Lexicon/G3701-3800#G3708|have not met]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4301-4400#G4383|face to face]] [[Lexicon/G1701-1800#G1722|...]] [[Lexicon/G4501-4600#G4561|... ,]]
+
+##### Colossians 2 - 2
+[[Lexicon/G2401-2500#G2443|that]] [[Lexicon/G3801-3900#G3870|they may be encouraged]] [[Lexicon/G801-900#G846|-]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2501-2600#G2588|in heart ,]] [[Lexicon/G4801-4900#G4822|knit together]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1-100#G26|love ,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1519|filled with]] [[Lexicon/G3901-4000#G3956|vvv]] [[Lexicon/G4101-4200#G4149|(the) full riches]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4101-4200#G4136|of complete]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4901-5000#G4907|understanding ,]] [[Lexicon/G1501-1600#G1519|so that]] [[Lexicon/G1901-2000#G1922|they may know]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3401-3500#G3466|mystery]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|of God ,]] [[Lexicon/G5501-5600#G5547|(namely) Christ ,]]
+
+##### Colossians 2 - 3
+[[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G601-700#G614|hidden]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2344|treasures]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4601-4700#G4678|of wisdom]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1101-1200#G1108|knowledge.]]
+
+##### Colossians 2 - 4
+[[Lexicon/G3001-3100#G3004|I say]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2401-2500#G2443|so that]] [[Lexicon/G3301-3400#G3367|no one]] [[Lexicon/G3801-3900#G3884|will deceive]] [[Lexicon/G4701-4800#G4771|you]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G4001-4100#G4086|smooth rhetoric.]]
+
+##### Colossians 2 - 5
+[[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G2501-2600#G2532|although]] [[Lexicon/G1401-1500#G1487|...]] [[Lexicon/G501-600#G548|I am absent from you]] [[Lexicon/G3501-3600#G3588|in]] [[Lexicon/G4501-4600#G4561|body ,]] [[Lexicon/G201-300#G235|-]] [[Lexicon/G1501-1600#G1510|I am present]] [[Lexicon/G4801-4900#G4862|with]] [[Lexicon/G4701-4800#G4771|you]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4101-4200#G4151|in spirit ,]] [[Lexicon/G5401-5500#G5463|(and) I delight]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G901-1000#G991|to see]] [[Lexicon/G4701-4800#G4771|your]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5001-5100#G5010|orderly condition]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4701-4800#G4771|-]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4701-4800#G4733|firm]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4101-4200#G4102|faith]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G5501-5600#G5547|Christ.]]
+
+##### Colossians 2 - 6
+[[Lexicon/G3701-3800#G3767|Therefore ,]] [[Lexicon/G5601-5624#G5613|just as]] [[Lexicon/G3801-3900#G3880|you have received]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5501-5600#G5547|Christ]] [[Lexicon/G2401-2500#G2424|Jesus]] [[Lexicon/G3501-3600#G3588|(as)]] [[Lexicon/G2901-3000#G2962|Lord ,]] [[Lexicon/G4001-4100#G4043|continue to walk]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G801-900#G846|Him ,]]
+
+##### Colossians 2 - 7
+[[Lexicon/G4401-4500#G4492|rooted]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2026|built up]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G801-900#G846|Him ,]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G901-1000#G950|established in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4102|faith]] [[Lexicon/G2501-2600#G2531|as]] [[Lexicon/G1301-1400#G1321|you were taught ,]] [[Lexicon/G4001-4100#G4052|(and) overflowing]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G2101-2200#G2169|thankfulness.]]
+
+##### Colossians 2 - 8
+[[Lexicon/G901-1000#G991|See to it]] [[Lexicon/G3301-3400#G3361|that no one]] [[Lexicon/G1501-1600#G1510|...]] [[Lexicon/G5001-5100#G5100|...]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4801-4900#G4812|takes you captive]] [[Lexicon/G4701-4800#G4771|...]] [[Lexicon/G1201-1300#G1223|through]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5301-5400#G5385|philosophy]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2756|empty]] [[Lexicon/G501-600#G539|deception ,]] [[Lexicon/G2501-2600#G2596|which are based on]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G3501-3600#G3588|vvv]] [[Lexicon/G401-500#G444|human]] [[Lexicon/G3801-3900#G3862|tradition]] [[Lexicon/G2501-2600#G2596|(and)]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4701-4800#G4747|spiritual forces]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2801-2900#G2889|world]] [[Lexicon/G2501-2600#G2532|vvv]] [[Lexicon/G3701-3800#G3756|rather than]] [[Lexicon/G2501-2600#G2596|on]] [[Lexicon/G5501-5600#G5547|Christ.]]
+
+##### Colossians 2 - 9
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G801-900#G846|(Christ)]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4138|fullness]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2301-2400#G2320|Deity]] [[Lexicon/G2701-2800#G2730|dwells]] [[Lexicon/G4901-5000#G4985|in bodily form.]]
+
+##### Colossians 2 - 10
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|you have been]] [[Lexicon/G4101-4200#G4137|made complete]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G801-900#G846|(Christ) ,]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G1501-1600#G1510|is]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2776|head]] [[Lexicon/G3901-4000#G3956|over every]] [[Lexicon/G701-800#G746|ruler]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1849|authority.]]
+
+##### Colossians 2 - 11
+[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3701-3800#G3739|Him]] [[Lexicon/G2501-2600#G2532|vvv]] [[Lexicon/G4001-4100#G4059|you were also circumcised ,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G501-600#G555|putting off]] [[Lexicon/G3501-3600#G3588|of (your)]] [[Lexicon/G3501-3600#G3588|vvv]] [[Lexicon/G4501-4600#G4561|sinful nature]] [[Lexicon/G4901-5000#G4983|... ,]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4001-4100#G4061|circumcision]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5501-5600#G5547|(performed) by Christ]] [[Lexicon/G4001-4100#G4061|(and)]] [[Lexicon/G801-900#G886|not by human hands.]]
+
+##### Colossians 2 - 12
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4901-5000#G4916|having been buried with]] [[Lexicon/G801-900#G846|Him]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G901-1000#G909|baptism ,]] [[Lexicon/G1701-1800#G1722|-]] [[Lexicon/G3701-3800#G3739|-]] [[Lexicon/G4801-4900#G4891|you were raised with (Him)]] [[Lexicon/G1201-1300#G1223|through]] [[Lexicon/G3501-3600#G3588|(your)]] [[Lexicon/G4101-4200#G4102|faith]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G1701-1800#G1753|power]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|of God ,]] [[Lexicon/G3501-3600#G3588|who]] [[Lexicon/G1401-1500#G1453|raised]] [[Lexicon/G801-900#G846|Him]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3401-3500#G3498|the dead.]]
+
+##### Colossians 2 - 13
+[[Lexicon/G2501-2600#G2532|(When)]] [[Lexicon/G4701-4800#G4771|you]] [[Lexicon/G1501-1600#G1510|were]] [[Lexicon/G3401-3500#G3498|dead]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|(your)]] [[Lexicon/G3801-3900#G3900|trespasses]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G201-300#G203|uncircumcision]] [[Lexicon/G4701-4800#G4771|of your]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4501-4600#G4561|sinful nature ,]] [[Lexicon/G4701-4800#G4771|vvv]] [[Lexicon/G4801-4900#G4806|God made you alive]] [[Lexicon/G4801-4900#G4862|with]] [[Lexicon/G801-900#G846|(Christ).]] [[Lexicon/G5401-5500#G5483|He forgave]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|(our)]] [[Lexicon/G3801-3900#G3900|trespasses ,]]
+
+##### Colossians 2 - 14
+[[Lexicon/G1801-1900#G1813|having canceled]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5498|debt ascribed]] [[Lexicon/G2501-2600#G2596|to]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G1301-1400#G1378|decrees]] [[Lexicon/G3701-3800#G3739|that]] [[Lexicon/G1501-1600#G1510|stood]] [[Lexicon/G5201-5300#G5227|against]] [[Lexicon/G1401-1500#G1473|us.]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G101-200#G142|He took]] [[Lexicon/G801-900#G846|it]] [[Lexicon/G1501-1600#G1537|away]] [[Lexicon/G3501-3600#G3588|...]] [[Lexicon/G3301-3400#G3319|... ,]] [[Lexicon/G4301-4400#G4338|nailing]] [[Lexicon/G801-900#G846|it]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G4701-4800#G4716|cross !]]
+
+##### Colossians 2 - 15
+[[Lexicon/G501-600#G554|(And) having disarmed]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G746|powers]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G1801-1900#G1849|authorities ,]] [[Lexicon/G1101-1200#G1165|He made a public spectacle (of them)]] [[Lexicon/G1701-1800#G1722|...]] [[Lexicon/G3901-4000#G3954|... ,]] [[Lexicon/G2301-2400#G2358|triumphing]] [[Lexicon/G801-900#G846|over them]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G801-900#G846|(the cross).]]
+
+##### Colossians 2 - 16
+[[Lexicon/G3701-3800#G3767|Therefore]] [[Lexicon/G3301-3400#G3361|{let} no]] [[Lexicon/G5001-5100#G5100|one]] [[Lexicon/G2901-3000#G2919|judge]] [[Lexicon/G4701-4800#G4771|you]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1001-1100#G1035|what you eat]] [[Lexicon/G2501-2600#G2532|or]] [[Lexicon/G1701-1800#G1722|-]] [[Lexicon/G4201-4300#G4213|drink ,]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G3301-3400#G3313|regard to]] [[Lexicon/G1801-1900#G1859|a feast ,]] [[Lexicon/G2201-2300#G2228|-]] [[Lexicon/G3501-3600#G3561|a New Moon ,]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G4501-4600#G4521|a Sabbath.]]
+
+##### Colossians 2 - 17
+[[Lexicon/G3701-3800#G3739|These]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G4601-4700#G4639|a shadow]] [[Lexicon/G3501-3600#G3588|of the things]] [[Lexicon/G3101-3200#G3195|to come ,]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4901-5000#G4983|body ( that casts it )]] [[Lexicon/G3501-3600#G3588|belongs to]] [[Lexicon/G5501-5600#G5547|Christ.]]
+
+##### Colossians 2 - 18
+[[Lexicon/G3301-3400#G3367|(Do not let anyone)]] [[Lexicon/G2301-2400#G2309|who delights]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5001-5100#G5012|(false) humility]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2356|(the) worship]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G1-100#G32|of angels]] [[Lexicon/G2601-2700#G2603|disqualify]] [[Lexicon/G4701-4800#G4771|you]] [[Lexicon/G1601-1700#G1687|with speculation about]] [[Lexicon/G3701-3800#G3739|what]] [[Lexicon/G3701-3800#G3708|he has seen.]] [[Lexicon/G5401-5500#G5448|(Such a person) is puffed up]] [[Lexicon/G1401-1500#G1500|without basis]] [[Lexicon/G5201-5300#G5259|by]] [[Lexicon/G801-900#G846|his]] [[Lexicon/G3501-3600#G3588|vvv]] [[Lexicon/G4501-4600#G4561|unspiritual]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G3501-3600#G3563|mind.]]
+
+##### Colossians 2 - 19
+[[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G3701-3800#G3756|vvv]] [[Lexicon/G2901-3000#G2902|He has lost connection]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2701-2800#G2776|head ,]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3956|whole]] [[Lexicon/G4901-5000#G4983|body ,]] [[Lexicon/G2001-2100#G2023|supported]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4801-4900#G4822|knit together]] [[Lexicon/G1201-1300#G1223|by]] [[Lexicon/G3501-3600#G3588|(its)]] [[Lexicon/G801-900#G860|joints]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4801-4900#G4886|ligaments ,]] [[Lexicon/G801-900#G837|grows]] [[Lexicon/G3501-3600#G3588|as]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G801-900#G838|causes it to grow.]]
+
+##### Colossians 2 - 20
+[[Lexicon/G1401-1500#G1487|If]] [[Lexicon/G501-600#G599|you have died]] [[Lexicon/G4801-4900#G4862|with]] [[Lexicon/G5501-5600#G5547|Christ]] [[Lexicon/G501-600#G575|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4701-4800#G4747|spiritual forces]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2801-2900#G2889|world ,]] [[Lexicon/G5101-5200#G5101|why ,]] [[Lexicon/G5601-5624#G5613|as though]] [[Lexicon/G2101-2200#G2198|you still belonged]] [[Lexicon/G1701-1800#G1722|to]] [[Lexicon/G2801-2900#G2889|(the) world ,]] [[Lexicon/G1301-1400#G1379|do you submit to (its) regulations :]]
+
+##### Colossians 2 - 21
+[[Lexicon/G3301-3400#G3361|“ {Do}]] [[Lexicon/G601-700#G680|not handle ,]] [[Lexicon/G3301-3400#G3366|{do}]] [[Lexicon/G1001-1100#G1089|not taste ,]] [[Lexicon/G3301-3400#G3366|{do}]] [[Lexicon/G2301-2400#G2345|not touch ! ”?]]
+
+##### Colossians 2 - 22
+[[Lexicon/G3701-3800#G3739|(These)]] [[Lexicon/G1501-1600#G1510|will]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1501-1600#G1519|-]] [[Lexicon/G5301-5400#G5356|perish]] [[Lexicon/G3501-3600#G3588|with]] [[Lexicon/G601-700#G671|use ,]] [[Lexicon/G2501-2600#G2596|because they are based on]] [[Lexicon/G3501-3600#G3588|vvv]] [[Lexicon/G401-500#G444|human]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G1701-1800#G1778|commands]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1319|teachings.]]
+
+##### Colossians 2 - 23
+[[Lexicon/G3701-3800#G3748|Such (restrictions)]] [[Lexicon/G3301-3400#G3303|indeed]] [[Lexicon/G2101-2200#G2192|have]] [[Lexicon/G3001-3100#G3056|an appearance]] [[Lexicon/G4601-4700#G4678|of wisdom ,]] [[Lexicon/G1701-1800#G1722|with (their)]] [[Lexicon/G1401-1500#G1479|self-prescribed worship ,]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G5001-5100#G5012|(their false) humility ,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G857|(their) harsh treatment]] [[Lexicon/G4901-5000#G4983|of (the) body ;]] [[Lexicon/G1501-1600#G1510|(but) they are]] [[Lexicon/G1701-1800#G1722|of]] [[Lexicon/G3701-3800#G3756|no]] [[Lexicon/G5001-5100#G5100|-]] [[Lexicon/G5001-5100#G5092|value]] [[Lexicon/G4301-4400#G4314|against]] [[Lexicon/G4101-4200#G4140|(the) indulgence]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4501-4600#G4561|flesh.]]

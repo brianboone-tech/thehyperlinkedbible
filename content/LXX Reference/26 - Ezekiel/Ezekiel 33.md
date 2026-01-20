@@ -1,0 +1,111 @@
+---
+cssClasses: lxx
+Book: Ezekiel
+Chapter: "33"
+Testament: Old
+---
+
+# Ezekiel 33
+
+[[LXX Reference/26 - Ezekiel/Ezekiel 32|←]] • [[LXX Reference/26 - Ezekiel/Ezekiel 34|→]]
+
+---
+
+#### Ezekiel 33 - 1
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|came]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G3001-3100#G3004|saying,]]
+
+#### Ezekiel 33 - 2
+[[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G2901-3000#G2980|speak]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G2901-3000#G2992|of your people,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2046|you shall say]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G1801-1900#G1863|I bring]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G2901-3000#G2983|should take]] [[Lexicon/G401-500#G0444|man]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|put]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1401-1500#G1438|for themselves]] [[Lexicon/G1501-1600#G1519|as]] [[Lexicon/G4601-4700#G4649|a watchman.]]
+
+#### Ezekiel 33 - 3
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4501|broadsword]] [[Lexicon/G2001-2100#G2064|coming]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4501-4600#G4537|he should trump]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4536|trumpet,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4501-4600#G4591|should signify]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G2901-3000#G2992|people,]]
+
+#### Ezekiel 33 - 4
+[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0191|shall hear]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5456|sound]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4501-4600#G4536|trumpet,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|should not]] [[Lexicon/G5401-5500#G5442|take guard,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1904|comes]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2601-2700#G2638|overtakes]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G101-200#G0129|his blood]] [[Lexicon/G1901-2000#G1909|upon]]
+
+#### Ezekiel 33 - 5
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3701-3800#G3756|he did not]] [[Lexicon/G5401-5500#G5442|take guard;]] [[Lexicon/G101-200#G0129|his blood]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2532|But]] [[Lexicon/G3701-3800#G3778|this one]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G5401-5500#G5442|guarded]] [[Lexicon/G5501-5600#G5590|his life]]
+
+#### Ezekiel 33 - 6
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4649|watchman,]] [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G1401-1500#G1492|he should behold]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4501|broadsword]] [[Lexicon/G2001-2100#G2064|coming,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|should not]] [[Lexicon/G4501-4600#G4591|signify]] [[Lexicon/G3501-3600#G3588|by the]] [[Lexicon/G4501-4600#G4536|trumpet,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2992|people]] [[Lexicon/G3301-3400#G3361|should not]] [[Lexicon/G5401-5500#G5442|take guard;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2064|coming,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4501|broadsword]] [[Lexicon/G2901-3000#G2983|should take]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G5501-5600#G5590|a soul,]] [[Lexicon/G3701-3800#G3778|this soul]] [[Lexicon/G1201-1300#G1223|on account]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0129|blood]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5495|hand]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4601-4700#G4649|watchman]] [[Lexicon/G1501-1600#G1567|I will require.]]
+
+#### Ezekiel 33 - 7
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G4601-4700#G4649|as watchman]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3601-3700#G3624|house]] of Israel, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0191|you shall hear]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G301-400#G0312|you shall announce]] [[Lexicon/G1401-1500#G1473|to them]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|me.]]
+
+#### Ezekiel 33 - 8
+[[Lexicon/G2001-2100#G2036|my saying]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G201-300#G0268|sinner,]] [[Lexicon/G2201-2300#G2288|To death]] [[Lexicon/G501-600#G0599|you shall die;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|you should not]] [[Lexicon/G2901-3000#G2980|speak]] [[Lexicon/G5401-5500#G5442|to guard]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0765|impious]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3598|his way,]] [[Lexicon/G1401-1500#G1473|he,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0459|lawless one,]] [[Lexicon/G401-500#G0458|of his lawlessness]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G101-200#G0129|his blood]] [[Lexicon/G1501-1600#G1537|of]]
+
+#### Ezekiel 33 - 9
+[[Lexicon/G1401-1500#G1473|But you,]] [[Lexicon/G1401-1500#G1437|if]] [[Lexicon/G4201-4300#G4258|you should forewarn]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G701-800#G0765|impious]] [[Lexicon/G3501-3600#G3598|of his way]] [[Lexicon/G601-700#G0654|to turn]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|it,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|he should not]] [[Lexicon/G601-700#G0654|turn]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3598|his way,]] [[Lexicon/G3701-3800#G3778|this one]] [[Lexicon/G3501-3600#G3588|in]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5501-5600#G5590|soul]]
+
+#### Ezekiel 33 - 10
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G2001-2100#G2036|say]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3601-3700#G3624|house]] of Israel! [[Lexicon/G3701-3800#G3779|Thus]] [[Lexicon/G2901-3000#G2980|you spoke,]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G4101-4200#G4106|Our delusions]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0458|our lawless deeds]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1401-1500#G1473|we]] [[Lexicon/G5001-5100#G5080|melt away,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4401-4500#G4459|how then]] [[Lexicon/G2101-2200#G2198|shall we live?]]
+
+#### Ezekiel 33 - 11
+[[Lexicon/G2001-2100#G2036|Say]] [[Lexicon/G1401-1500#G1473|to them!]] [[Lexicon/G2101-2200#G2198|As I live,]] [[Lexicon/G3001-3100#G3004|says]] Adonai [[Lexicon/G3701-3800#G3756|I do not]] [[Lexicon/G1001-1100#G1014|want]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2288|death]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G701-800#G0765|impious,]] [[Lexicon/G601-700#G0654|to turn]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3598|his way,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2101-2200#G2198|to live]] [[Lexicon/G601-700#G0654|By turning]] [[Lexicon/G601-700#G0654|you turn]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3598|way]] [[Lexicon/G2501-2600#G2532|For]] [[Lexicon/G2401-2500#G2444|why]] [[Lexicon/G501-600#G0599|do you die,]] [[Lexicon/G3601-3700#G3624|O house]] of Israel?
+
+#### Ezekiel 33 - 12
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G2001-2100#G2036|say]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G2901-3000#G2992|of your people!]] [[Lexicon/G1301-1400#G1342|of the just]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G1801-1900#G1807|should rescue]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G4101-4200#G4105|he should wander.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G701-800#G0765|of the impious]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G2501-2600#G2559|shall afflict]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G601-700#G0654|he should turn]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G401-500#G0458|his lawlessness.]] [[Lexicon/G2501-2600#G2532|But]] [[Lexicon/G3701-3800#G3766|no way]] [[Lexicon/G1401-1500#G1410|shall be able]] [[Lexicon/G4901-5000#G4982|to be delivered]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G201-300#G0266|of his sin.]]
+
+#### Ezekiel 33 - 13
+[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G2001-2100#G2036|my saying]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1301-1400#G1342|righteous that]] [[Lexicon/G2201-2300#G2222|to life]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3778|this one]] [[Lexicon/G3901-4000#G3982|has relied]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1301-1400#G1343|his righteousness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|should commit]] [[Lexicon/G401-500#G0458|lawlessness,]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G1301-1400#G1343|his righteousness]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G301-400#G0363|shall be called to mind;]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1-100#G0093|his iniquity]] [[Lexicon/G3701-3800#G3739|in which]] [[Lexicon/G4101-4200#G4160|he committed,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G501-600#G0599|he shall die.]]
+
+#### Ezekiel 33 - 14
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2001-2100#G2036|my saying]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G701-800#G0765|impious,]] [[Lexicon/G2201-2300#G2288|To death]] [[Lexicon/G2201-2300#G2289|you shall be put to death;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0654|he shall turn]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G201-300#G0266|his sin,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|shall execute]] [[Lexicon/G2901-3000#G2917|equity]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1343|righteousness,]]
+
+#### Ezekiel 33 - 15
+[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1757|collateral]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G701-800#G0724| for any seizures]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3301-3400#G3361|to not]] [[Lexicon/G4101-4200#G4160|do]] [[Lexicon/G1-100#G0094|unjustly;]] [[Lexicon/G2201-2300#G2222|to life]] [[Lexicon/G2101-2200#G2198|he shall live,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G501-600#G0599|shall he die.]]
+
+#### Ezekiel 33 - 16
+[[Lexicon/G3901-4000#G3956|All]] [[Lexicon/G201-300#G0266|his sins]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G201-300#G0264|he sinned]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G301-400#G0363|shall be called to mind,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G2901-3000#G2917|equity]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G2101-2200#G2198|he shall live.]]
+
+#### Ezekiel 33 - 17
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2046|shall say]] [[Lexicon/G3701-3800#G3756|is not]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G3501-3600#G3598|their way]] [[Lexicon/G3701-3800#G3756|is not]] [[Lexicon/G2101-2200#G2117|right.]]
+
+#### Ezekiel 33 - 18
+[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G601-700#G0654|turning]] [[Lexicon/G1301-1400#G1342|of the righteous]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1301-1400#G1343|his righteousness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|he should commit]] [[Lexicon/G401-500#G0458|lawless deeds,]] [[Lexicon/G501-600#G0599|he shall die]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|them.]]
+
+#### Ezekiel 33 - 19
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G601-700#G0654|turning]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G401-500#G0458|his lawlessness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|should observe]] [[Lexicon/G2901-3000#G2917|equity]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1343|righteousness;]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1401-1500#G1473|he]] [[Lexicon/G2101-2200#G2198|shall live.]]
+
+#### Ezekiel 33 - 20
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|you said,]] [[Lexicon/G3701-3800#G3756| is not]] [[Lexicon/G1501-1600#G1538|each]]
+
+#### Ezekiel 33 - 21
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1401-1500#G1428|twelfth]] [[Lexicon/G2001-2100#G2094|year,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1101-1200#G1181|tenth]] [[Lexicon/G3301-3400#G3376|month,]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3301-3400#G3376|month]] [[Lexicon/G101-200#G0161|of our captivity,]] [[Lexicon/G2001-2100#G2064|there came]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G301-400#G0391|one having escaped]] [[Lexicon/G501-600#G0575|from]] Jerusalem, [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G201-300#G0234|is captured]]
+
+#### Ezekiel 33 - 22
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2962|of the lord]] [[Lexicon/G1001-1100#G1096|came]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G2001-2100#G2073|at evening]] [[Lexicon/G4201-4300#G4250|before]] [[Lexicon/G2001-2100#G2064|he came;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0455|he opened]] [[Lexicon/G1401-1500#G1473|my]] [[Lexicon/G4701-4800#G4750|mouth]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G2001-2100#G2064|he came]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G4401-4500#G4404|in the morning;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G401-500#G0455|in opening]] [[Lexicon/G4701-4800#G4750|my mouth]] [[Lexicon/G3701-3800#G3756|it was not]] [[Lexicon/G4901-5000#G4912|held together]] [[Lexicon/G2001-2100#G2089|any longer.]]
+
+#### Ezekiel 33 - 23
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|came]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G3001-3100#G3004|saying,]]
+
+#### Ezekiel 33 - 24
+[[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2701-2800#G2730|inhabiting]] [[Lexicon/G3501-3600#G3588|the places]] [[Lexicon/G2001-2100#G2049|being made desolate]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] of Israel, [[Lexicon/G3001-3100#G3004|speaking]] [[Lexicon/G3001-3100#G3004|they say,]] [[Lexicon/G1501-1600#G1520|one]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2701-2800#G2722|he held down]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|we,]] [[Lexicon/G4101-4200#G4183|we are many;]] [[Lexicon/G1401-1500#G1473|to us]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2601-2700#G2697|a possession.]]
+
+#### Ezekiel 33 - 25
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2001-2100#G2036|say]] [[Lexicon/G1401-1500#G1473|to them!]] [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G1901-2000#G1909|upon food with]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3788|your eyes]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G901-1000#G0946|your abominations,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0129|blood]] [[Lexicon/G2501-2600#G2532|then]] [[Lexicon/G3501-3600#G3588|the]]
+
+#### Ezekiel 33 - 26
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2401-2500#G2476|you stood]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G4501-4600#G4501|your broadswords,]] [[Lexicon/G4101-4200#G4160|you did]] [[Lexicon/G4301-4400#G4360|loathsome things,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1538|each]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2532|then]] [[Lexicon/G3501-3600#G3588|the]]
+
+#### Ezekiel 33 - 27
+[[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G2001-2100#G2036|say]] [[Lexicon/G1401-1500#G1473|to them!]] [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2201-2300#G2229|assuredly]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2001-2100#G2049|places being made desolate]] [[Lexicon/G3101-3200#G3162|swords]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3901-4000#G3977|plain]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2601-2700#G2603|a thing to be devoured,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G1701-1800#G1722|behind]] [[Lexicon/G3501-3600#G3588|the places]] [[Lexicon/G5001-5100#G5037|being walled,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4693|caves]] [[Lexicon/G2201-2300#G2288|by plague]]
+
+#### Ezekiel 33 - 28
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1301-1400#G1325|I will make]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land]] [[Lexicon/G2001-2100#G2048|a wilderness;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0622|shall perish]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2049|shall be made desolate]] [[Lexicon/G1201-1300#G1223|on account of]] [[Lexicon/G3301-3400#G3361|not]] [[Lexicon/G1501-1600#G1510|being]] [[Lexicon/G1201-1300#G1279|anyone traveling through.]]
+
+#### Ezekiel 33 - 29
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1097|they shall know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1501-1600#G1510|am]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|I will make]] [[Lexicon/G1001-1100#G1093|their land]] [[Lexicon/G2001-2100#G2048|wilderness,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2049|it shall be made desolate]] [[Lexicon/G1201-1300#G1223|on account of]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G901-1000#G0946|their abominations]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4101-4200#G4160|they did.]]
+
+#### Ezekiel 33 - 30
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G5201-5300#G5207|O son]] [[Lexicon/G401-500#G0444|of man,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G2901-3000#G2992|of your people,]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2901-3000#G2980|speaking]] [[Lexicon/G4001-4100#G4012|concerning]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5001-5100#G5038|walls]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4401-4500#G4440|gatehouses]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3601-3700#G3614|houses,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2901-3000#G2980|speaks]] [[Lexicon/G1-100#G0080|his brother,]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G4901-5000#G4905|We should come together]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0191|should hear]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1601-1700#G1607|goings forth]] [[Lexicon/G3801-3900#G3844|from]]
+
+#### Ezekiel 33 - 31
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2064|they come]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4801-4900#G4848|going with one another]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2521|they sit down]] [[Lexicon/G1701-1800#G1726|before]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0191|they hear]] [[Lexicon/G4401-4500#G4487|your sayings,]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G4101-4200#G4160|will they do]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G4701-4800#G4750|their mouth,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3694|after]]
+
+#### Ezekiel 33 - 32
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|should you become]] [[Lexicon/G1401-1500#G1473|to them]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G5501-5600#G5568|psaltery]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0191|they shall hear]] [[Lexicon/G1401-1500#G1473|your]] [[Lexicon/G4401-4500#G4487|words,]] [[Lexicon/G2501-2600#G2532|but]] [[Lexicon/G3701-3800#G3766|no way]] [[Lexicon/G4101-4200#G4160|shall they do]] [[Lexicon/G1401-1500#G1473|them.]]
+
+#### Ezekiel 33 - 33
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2201-2300#G2259|when]] [[Lexicon/G1401-1500#G1437|ever]] [[Lexicon/G2001-2100#G2064|it should come to pass,]] [[Lexicon/G2001-2100#G2046|they shall say,]] [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G2201-2300#G2240|it is come;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1097|they shall know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G4301-4400#G4396|a prophet]] [[Lexicon/G1501-1600#G1510|was]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3301-3400#G3319|their midst.]]

@@ -1,0 +1,88 @@
+---
+Folder: Reference Bible
+cssClasses: lexicon
+---
+
+# Jeremiah 33
+
+[[Jeremiah 32|←]] • [[Jeremiah 34|→]]
+
+---
+
+##### Jeremiah 33 - 1
+[[Lexicon/H1901-2000#H1931|While (Jeremiah -)]] [[Lexicon/H5701-5800#H5750|was still]] [[Lexicon/H6101-6200#H6113|confined]] [[Lexicon/H2601-2700#H2691|in the courtyard]] [[Lexicon/H4301-4400#H4307|of the guard ,]] [[Lexicon/H1601-1700#H1697|the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1901-2000#H1961|came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3401-3500#H3414|(him)]] [[Lexicon/H8101-8200#H8145|a second time]] [[Lexicon/H501-600#H559|- :]]
+
+##### Jeremiah 33 - 2
+[[Lexicon/H3501-3600#H3541|“ Thus]] [[Lexicon/H501-600#H559|says]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6201-6300#H6213|who made the earth ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H3301-3400#H3335|who formed]] [[Lexicon/H801-900#H853|it]] [[Lexicon/H3501-3600#H3559|and established it ,]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H8001-8100#H8034|is His name :]]
+
+##### Jeremiah 33 - 3
+[[Lexicon/H7101-7200#H7121|Call]] [[Lexicon/H401-500#H413|to Me ,]] [[Lexicon/H6001-6100#H6030|and I will answer]] [[Lexicon/H5001-5100#H5046|and show]] [[Lexicon/H1401-1500#H1419|great]] [[Lexicon/H1201-1300#H1219|and unsearchable things]] [[Lexicon/H3801-3900#H3808|you do not]] [[Lexicon/H3001-3100#H3045|know.]]
+
+##### Jeremiah 33 - 4
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3501-3600#H3541|this is what]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H401-500#H430|the God]] [[Lexicon/H3401-3500#H3478|of Israel ,]] [[Lexicon/H501-600#H559|says]] [[Lexicon/H5901-6000#H5921|about]] [[Lexicon/H1001-1100#H1004|the houses]] [[Lexicon/H2001-2100#H2063|of this]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H5801-5900#H5892|city]] [[Lexicon/H1001-1100#H1004|and the palaces]] [[Lexicon/H4401-4500#H4428|of the kings]] [[Lexicon/H3001-3100#H3063|of Judah]] [[Lexicon/H5401-5500#H5422|that have been torn down]] [[Lexicon/H401-500#H413|for defense against]] [[Lexicon/H5501-5600#H5550|the siege ramps]] [[Lexicon/H401-500#H413|...]] [[Lexicon/H2701-2800#H2719|and the sword :]]
+
+##### Jeremiah 33 - 5
+[[Lexicon/H801-900#H854|-]] [[Lexicon/H3701-3800#H3778|The Chaldeans]] [[Lexicon/H901-1000#H935|are coming]] [[Lexicon/H3801-3900#H3898|to fight]] [[Lexicon/H4301-4400#H4390|and to fill (those places)]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H6201-6300#H6297|the corpses]] [[Lexicon/H101-200#H120|of the men]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5201-5300#H5221|I will strike down]] [[Lexicon/H601-700#H639|in My anger]] [[Lexicon/H2501-2600#H2534|and in My wrath.]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H5601-5700#H5641|I have hidden]] [[Lexicon/H6401-6500#H6440|My face]] [[Lexicon/H2001-2100#H2063|from this]] [[Lexicon/H5801-5900#H5892|city]] [[Lexicon/H5901-6000#H5921|because of]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H7401-7500#H7451|its wickedness.]]
+
+##### Jeremiah 33 - 6
+[[Lexicon/H2001-2100#H2005|Nevertheless ,]] [[Lexicon/H5901-6000#H5927|I will bring]] [[Lexicon/H701-800#H724|health]] [[Lexicon/H4801-4900#H4832|and healing ,]] [[Lexicon/H7401-7500#H7495|and I will heal (its people)]] [[Lexicon/H1501-1600#H1540|and reveal]] [[Lexicon/H6201-6300#H6283|the abundance]] [[Lexicon/H7901-8000#H7965|of peace]] [[Lexicon/H501-600#H571|and tRuth -.]]
+
+##### Jeremiah 33 - 7
+[[Lexicon/H7701-7800#H7725|I will restore]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7601-7700#H7622|and]] [[Lexicon/H3401-3500#H3478|Israel]] [[Lexicon/H7601-7700#H7622|from captivity]] [[Lexicon/H1101-1200#H1129|and will rebuild them]] [[Lexicon/H7201-7300#H7223|as in former times.]]
+
+##### Jeremiah 33 - 8
+[[Lexicon/H2801-2900#H2891|And I will cleanse them]] [[Lexicon/H3601-3700#H3605|from all]] [[Lexicon/H5701-5800#H5771|the iniquity]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2301-2400#H2398|they have committed]] [[Lexicon/H5501-5600#H5545|and will forgive]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H5701-5800#H5771|...]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H2301-2400#H2398|their sins]] [[Lexicon/H801-900#H834|]] [[Lexicon/H6501-6600#H6586|of rebellion]]
+
+##### Jeremiah 33 - 9
+[[Lexicon/H1901-2000#H1961|So (this city) will bring]] [[Lexicon/H8001-8100#H8034|renown ,]] [[Lexicon/H8301-8400#H8342|joy ,]] [[Lexicon/H8401-8500#H8416|praise ,]] [[Lexicon/H8501-8600#H8597|and glory]] [[Lexicon/H3601-3700#H3605|before all]] [[Lexicon/H1401-1500#H1471|the nations]] [[Lexicon/H701-800#H776|of the earth ,]] [[Lexicon/H801-900#H834|who]] [[Lexicon/H8001-8100#H8085|will hear]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3601-3700#H3605|of all]] [[Lexicon/H2801-2900#H2896|the good]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H6201-6300#H6213|do]] [[Lexicon/H801-900#H853|for it.]] [[Lexicon/H7201-7300#H7264|They will tremble]] [[Lexicon/H6301-6400#H6342|in awe]] [[Lexicon/H5901-6000#H5921|because of]] [[Lexicon/H3601-3700#H3605|all]] [[Lexicon/H2801-2900#H2896|the goodness]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H3601-3700#H3605|and]] [[Lexicon/H7901-8000#H7965|prosperity]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H501-600#H595|I]] [[Lexicon/H6201-6300#H6213|will provide]]
+
+##### Jeremiah 33 - 10
+[[Lexicon/H3501-3600#H3541|This is what]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H2001-2100#H2088|In this]] [[Lexicon/H4701-4800#H4725|place]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H801-900#H859|you]] [[Lexicon/H501-600#H559|say]] [[Lexicon/H2701-2800#H2720|is a wasteland]] [[Lexicon/H1901-2000#H1931|...]] [[Lexicon/H301-400#H369|without]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H301-400#H369|(or)]] [[Lexicon/H901-1000#H929|beast ,]] [[Lexicon/H5801-5900#H5892|in the cities]] [[Lexicon/H3001-3100#H3063|of Judah]] [[Lexicon/H2301-2400#H2351|and in the streets]] [[Lexicon/H3301-3400#H3389|of Jerusalem]] [[Lexicon/H8001-8100#H8074|that are deserted —]] [[Lexicon/H301-400#H369|]] [[Lexicon/H3401-3500#H3427|inhabited]] [[Lexicon/H301-400#H369|by neither]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H301-400#H369|nor]] [[Lexicon/H901-1000#H929|beast —]] [[Lexicon/H8001-8100#H8085|there will be heard]] [[Lexicon/H5701-5800#H5750|again]]
+
+##### Jeremiah 33 - 11
+[[Lexicon/H6901-7000#H6963|the sounds]] [[Lexicon/H8301-8400#H8342|of joy]] [[Lexicon/H6901-7000#H6963|(and)]] [[Lexicon/H8001-8100#H8057|gladness ,]] [[Lexicon/H6901-7000#H6963|the voices]] [[Lexicon/H3601-3700#H3618|of the bride]] [[Lexicon/H6901-7000#H6963|(and)]] [[Lexicon/H2801-2900#H2860|bridegroom ,]] [[Lexicon/H6901-7000#H6963|and the voices]] [[Lexicon/H901-1000#H935|of those bringing]] [[Lexicon/H8401-8500#H8426|thank offerings]] [[Lexicon/H1001-1100#H1004|into the house]] [[Lexicon/H3001-3100#H3068|of the LORD ,]] [[Lexicon/H501-600#H559|saying :]] [[Lexicon/H3001-3100#H3034|‘ Give thanks]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H3001-3100#H3068|to the LORD]] [[Lexicon/H6601-6700#H6635|of Hosts ,]] [[Lexicon/H3501-3600#H3588|for]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H2801-2900#H2896|is good ;]] [[Lexicon/H3501-3600#H3588|]] [[Lexicon/H2601-2700#H2617|His loving devotion]] [[Lexicon/H5701-5800#H5769|endures forever. ’]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H7701-7800#H7725|I will restore]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H701-800#H776|the land]] [[Lexicon/H7601-7700#H7622|from captivity]] [[Lexicon/H7201-7300#H7223|as in former times ,]] [[Lexicon/H501-600#H559|says]] [[Lexicon/H3001-3100#H3068|the LORD.]]
+
+##### Jeremiah 33 - 12
+[[Lexicon/H3501-3600#H3541|This is what]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H6601-6700#H6635|of Hosts]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H2001-2100#H2088|In this]] [[Lexicon/H2701-2800#H2720|desolate]] [[Lexicon/H4701-4800#H4725|place ,]] [[Lexicon/H301-400#H369|without]] [[Lexicon/H101-200#H120|man]] [[Lexicon/H5701-5800#H5704|...]] [[Lexicon/H901-1000#H929|or beast ,]] [[Lexicon/H3601-3700#H3605|and in all]] [[Lexicon/H5801-5900#H5892|its cities ,]] [[Lexicon/H5701-5800#H5750|there will once more]] [[Lexicon/H1901-2000#H1961|be]] [[Lexicon/H5101-5200#H5116|pastures]] [[Lexicon/H7401-7500#H7462|for shepherds]] [[Lexicon/H7201-7300#H7257|to rest]] [[Lexicon/H6601-6700#H6629|(their) flocks.]]
+
+##### Jeremiah 33 - 13
+[[Lexicon/H5801-5900#H5892|In the cities]] [[Lexicon/H2001-2100#H2022|of the hill country ,]] [[Lexicon/H5801-5900#H5892|-]] [[Lexicon/H8201-8300#H8219|the foothills ,]] [[Lexicon/H5801-5900#H5892|(and)]] [[Lexicon/H5001-5100#H5045|the Negev ,]] [[Lexicon/H701-800#H776|in the land]] [[Lexicon/H1101-1200#H1144|of Benjamin]] [[Lexicon/H5401-5500#H5439|and the cities surrounding]] [[Lexicon/H3301-3400#H3389|Jerusalem ,]] [[Lexicon/H5801-5900#H5892|and in the cities]] [[Lexicon/H3001-3100#H3063|of Judah ,]] [[Lexicon/H6601-6700#H6629|the flocks]] [[Lexicon/H5701-5800#H5750|will again]] [[Lexicon/H5601-5700#H5674|pass]] [[Lexicon/H5901-6000#H5921|under]] [[Lexicon/H3001-3100#H3027|the hands]] [[Lexicon/H4401-4500#H4487|of the one who counts them ,]] [[Lexicon/H501-600#H559|says]] [[Lexicon/H3001-3100#H3068|the LORD.]]
+
+##### Jeremiah 33 - 14
+[[Lexicon/H2001-2100#H2009|Behold ,]] [[Lexicon/H3101-3200#H3117|the days]] [[Lexicon/H901-1000#H935|are coming ,]] [[Lexicon/H5001-5100#H5002|declares]] [[Lexicon/H3001-3100#H3068|the LORD ,]] [[Lexicon/H6901-7000#H6965|when I will fulfill]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2801-2900#H2896|the gracious]] [[Lexicon/H1601-1700#H1697|promise]] [[Lexicon/H801-900#H834|that]] [[Lexicon/H1601-1700#H1696|I have spoken]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H1001-1100#H1004|the house]] [[Lexicon/H3401-3500#H3478|of Israel]] [[Lexicon/H5901-6000#H5921|...]] [[Lexicon/H1001-1100#H1004|and the house]] [[Lexicon/H3001-3100#H3063|of Judah.]]
+
+##### Jeremiah 33 - 15
+[[Lexicon/H1901-2000#H1992|In those]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H1901-2000#H1931|and at that]] [[Lexicon/H6201-6300#H6256|time]] [[Lexicon/H6701-6800#H6779|I will cause to sprout]] [[Lexicon/H1701-1800#H1732|for David]] [[Lexicon/H6601-6700#H6666|a righteous]] [[Lexicon/H6701-6800#H6780|Branch ,]] [[Lexicon/H6201-6300#H6213|and He will administer]] [[Lexicon/H4901-5000#H4941|justice]] [[Lexicon/H6601-6700#H6666|and righteousness]] [[Lexicon/H701-800#H776|in the land.]]
+
+##### Jeremiah 33 - 16
+[[Lexicon/H1901-2000#H1992|In those]] [[Lexicon/H3101-3200#H3117|days]] [[Lexicon/H3001-3100#H3063|Judah]] [[Lexicon/H3401-3500#H3467|will be saved ,]] [[Lexicon/H3301-3400#H3389|and Jerusalem]] [[Lexicon/H7901-8000#H7931|will dwell securely]] [[Lexicon/H901-1000#H983|... ,]] [[Lexicon/H2001-2100#H2088|and this]] [[Lexicon/H801-900#H834|is the name]] [[Lexicon/H7101-7200#H7121|by which it will be called]] [[Lexicon/H3001-3100#H3068|The LORD]] [[Lexicon/H6601-6700#H6664|Our Righteousness.]]
+
+##### Jeremiah 33 - 17
+[[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H3501-3600#H3541|this is what]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H1701-1800#H1732|David]] [[Lexicon/H3801-3900#H3808|will never]] [[Lexicon/H3701-3800#H3772|lack]] [[Lexicon/H301-400#H376|a man]] [[Lexicon/H3401-3500#H3427|to sit]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H3601-3700#H3678|the throne]] [[Lexicon/H1001-1100#H1004|of the house]] [[Lexicon/H3401-3500#H3478|of Israel ,]]
+
+##### Jeremiah 33 - 18
+[[Lexicon/H3801-3900#H3808|nor]] [[Lexicon/H3501-3600#H3548|will the priests]] [[Lexicon/H3801-3900#H3881|who are Levites]] [[Lexicon/H3601-3700#H3605|ever]] [[Lexicon/H3101-3200#H3117|...]] [[Lexicon/H3701-3800#H3772|fail]] [[Lexicon/H301-400#H376|to have a man]] [[Lexicon/H6401-6500#H6440|before Me]] [[Lexicon/H5901-6000#H5927|to offer]] [[Lexicon/H5901-6000#H5930|burnt offerings ,]] [[Lexicon/H6901-7000#H6999|to burn]] [[Lexicon/H4501-4600#H4503|grain offerings ,]] [[Lexicon/H6201-6300#H6213|and to present]] [[Lexicon/H2001-2100#H2077|sacrifices.”]]
+
+##### Jeremiah 33 - 19
+[[Lexicon/H1601-1700#H1697|And the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1901-2000#H1961|came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3401-3500#H3414|Jeremiah -]] [[Lexicon/H501-600#H559|... :]]
+
+##### Jeremiah 33 - 20
+[[Lexicon/H3501-3600#H3541|“ This is what]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H501-600#H518|If]] [[Lexicon/H6501-6600#H6565|you can break]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1285|My covenant]] [[Lexicon/H3101-3200#H3117|with the day]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1201-1300#H1285|and My covenant]] [[Lexicon/H3901-4000#H3915|with the night ,]] [[Lexicon/H3101-3200#H3119|so that day]] [[Lexicon/H3901-4000#H3915|and night]] [[Lexicon/H1101-1200#H1115|cease]] [[Lexicon/H1901-2000#H1961|to occupy]] [[Lexicon/H6201-6300#H6256|their appointed time ,]]
+
+##### Jeremiah 33 - 21
+[[Lexicon/H1201-1300#H1285|then My covenant]] [[Lexicon/H1501-1600#H1571|may also]] [[Lexicon/H6501-6600#H6565|be broken]] [[Lexicon/H801-900#H854|with]] [[Lexicon/H1701-1800#H1732|David]] [[Lexicon/H5601-5700#H5650|My servant]] [[Lexicon/H801-900#H854|and with]] [[Lexicon/H8301-8400#H8334|My ministers]] [[Lexicon/H3801-3900#H3881|the Levites]] [[Lexicon/H3501-3600#H3548|who are priests ,]] [[Lexicon/H1901-2000#H1961|so that (David) will not have]] [[Lexicon/H1101-1200#H1121|a son]] [[Lexicon/H4401-4500#H4427|to reign]] [[Lexicon/H5901-6000#H5921|on]] [[Lexicon/H3601-3700#H3678|his throne.]]
+
+##### Jeremiah 33 - 22
+[[Lexicon/H801-900#H834|As]] [[Lexicon/H6601-6700#H6635|the hosts]] [[Lexicon/H8001-8100#H8064|of heaven]] [[Lexicon/H3801-3900#H3808|cannot]] [[Lexicon/H5601-5700#H5608|be counted]] [[Lexicon/H2301-2400#H2344|(and as) the sand]] [[Lexicon/H3201-3300#H3220|on the seashore]] [[Lexicon/H3801-3900#H3808|cannot]] [[Lexicon/H4001-4100#H4058|be measured ,]] [[Lexicon/H3601-3700#H3651|so too]] [[Lexicon/H7201-7300#H7235|will I multiply]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H2201-2300#H2233|the descendants]] [[Lexicon/H5601-5700#H5650|of My servant]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H1701-1800#H1732|David]] [[Lexicon/H3801-3900#H3881|and the Levites]] [[Lexicon/H8301-8400#H8334|who minister]] [[Lexicon/H801-900#H853|before Me.”]]
+
+##### Jeremiah 33 - 23
+[[Lexicon/H1601-1700#H1697|Moreover, the word]] [[Lexicon/H3001-3100#H3068|of the LORD]] [[Lexicon/H1901-2000#H1961|came]] [[Lexicon/H401-500#H413|to]] [[Lexicon/H3401-3500#H3414|Jeremiah -]] [[Lexicon/H501-600#H559|... :]]
+
+##### Jeremiah 33 - 24
+[[Lexicon/H3801-3900#H3808|“ Have you not]] [[Lexicon/H7101-7200#H7200|noticed]] [[Lexicon/H4001-4100#H4100|what]] [[Lexicon/H2001-2100#H2088|these]] [[Lexicon/H5901-6000#H5971|people]] [[Lexicon/H1601-1700#H1696|are saying]] [[Lexicon/H501-600#H559|... :]] [[Lexicon/H3001-3100#H3068|‘ The LORD]] [[Lexicon/H3901-4000#H3988|has rejected]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H8101-8200#H8147|the two]] [[Lexicon/H4901-5000#H4940|families]] [[Lexicon/H801-900#H834|-]] [[Lexicon/H901-1000#H977|He had chosen ’ ?]] [[Lexicon/H5001-5100#H5006|So they despise]] [[Lexicon/H5901-6000#H5971|My people]] [[Lexicon/H5701-5800#H5750|and no longer]] [[Lexicon/H1901-2000#H1961|regard them]] [[Lexicon/H1401-1500#H1471|as a nation]] [[Lexicon/H6401-6500#H6440|-.]]
+
+##### Jeremiah 33 - 25
+[[Lexicon/H3501-3600#H3541|This is what]] [[Lexicon/H3001-3100#H3068|the LORD]] [[Lexicon/H501-600#H559|says :]] [[Lexicon/H501-600#H518|If]] [[Lexicon/H3801-3900#H3808|]] [[Lexicon/H3801-3900#H3808|I have not]] [[Lexicon/H7701-7800#H7760|established]] [[Lexicon/H1201-1300#H1285|My covenant]] [[Lexicon/H3101-3200#H3119|with the day]] [[Lexicon/H3901-4000#H3915|and the night]] [[Lexicon/H2701-2800#H2708|and the fixed order]] [[Lexicon/H8001-8100#H8064|of heaven]] [[Lexicon/H701-800#H776|and earth ,]]
+
+##### Jeremiah 33 - 26
+[[Lexicon/H1501-1600#H1571|then I would also]] [[Lexicon/H3901-4000#H3988|reject]] [[Lexicon/H2201-2300#H2233|the descendants]] [[Lexicon/H3201-3300#H3290|of Jacob]] [[Lexicon/H5601-5700#H5650|and of My servant]] [[Lexicon/H1701-1800#H1732|David ,]] [[Lexicon/H3901-4000#H3947|so as not to take]] [[Lexicon/H2201-2300#H2233|from his descendants]] [[Lexicon/H4901-5000#H4910|rulers]] [[Lexicon/H401-500#H413|over]] [[Lexicon/H2201-2300#H2233|the descendants]] [[Lexicon/H1-100#H85|of Abraham ,]] [[Lexicon/H3401-3500#H3446|Isaac ,]] [[Lexicon/H3201-3300#H3290|and Jacob.]] [[Lexicon/H3501-3600#H3588|For]] [[Lexicon/H7701-7800#H7725|I will restore them]] [[Lexicon/H801-900#H853|-]] [[Lexicon/H7601-7700#H7622|from captivity]] [[Lexicon/H7301-7400#H7355|and will have compassion on them.”]]

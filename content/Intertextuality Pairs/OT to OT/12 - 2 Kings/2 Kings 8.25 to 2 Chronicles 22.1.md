@@ -1,0 +1,15 @@
+# 2 Kings 8:25 to 2 Chronicles 22:1
+
+**Text**: [[Readable Bible/12 - 2 Kings/2 Kings 8#2 Kings 8 . 25|2 Kings 8:25]]
+
+**OT Text Referred to**: [[Readable Bible/14 - 2 Chronicles/2 Chronicles 22#2 Chronicles 22 . 1|2 Chronicles 22:1]]
+
+**Subject**: rule of Ahaziah of Judah
+
+**Source**: Treasury of Scripture Knowledge
+
+**Significance**: The royal theme connects 2 Kings 8 and 2 Chronicles 22, developing Israel's messianic hope. The kingship pattern points to Christ, the Son of David who reigns forever (Luke 1:32-33). Where human kings failed, Christ succeeds as the righteous King who rules with justice and brings shalom to his people.
+
+---
+
+## Related Trajectory Tables

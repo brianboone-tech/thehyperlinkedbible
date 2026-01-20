@@ -1,0 +1,96 @@
+---
+cssclasses:
+  - trajectory-table
+---
+
+## FIRE FROM HEAVEN (DIVINE ACCEPTANCE AND JUDGMENT) TRAJECTORY TABLE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRehnKGgxp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/KRehnKGgxp0)
+
+Fire from heaven in the Old Testament serves as the ultimate sign of divine acceptance of sacrifice and divine presence with His people. When God sends fire to consume an offering, He declares that the sacrifice is accepted and the worshiper is received. This same fire that accepts the righteous becomes judgment fire for the wicked. The trajectory culminates in the fire of Pentecost (the Spirit's descent) and the final consuming fire of eschatological judgment.
+
+**Type Classification**: Direct Type (divinely commanded sacrificial system) with both Forward-Looking (expectational prophetic elements) and Backward-Looking (NT reinterpretation) dimensions.
+
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Type - Tabernacle Fire** | [[Readable Bible/03 - Leviticus/Leviticus 9#Leviticus 9 . 24\|Leviticus 9:24]] | "Fire came out from before the LORD and consumed the burnt offering and the pieces of fat on the altar. And when all the people saw it, they shouted and fell on their faces." At the tabernacle's inauguration, fire from God's presence consumes the first sacrifice, establishing divine acceptance of the sacrificial system. The people's response—prostrate worship—shows appropriate human reaction to divine presence. **CRITICAL:** [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 9.24 to 1 Chronicles 21.26\|Lev 9:24→1 Chr 21:26]] **CRITICAL:** [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 9.24 to 2 Chronicles 7.1-3\|Lev 9:24→2 Chr 7:1-3]] **CRITICAL:** [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 9.24 to 2 Chronicles 7.1\|Lev 9:24→2 Chr 7:1]] | [[Trajectory Tables - Foundation Texts/Fire from Heaven/03 - Leviticus 9.24\|Leviticus 9:24]] |
+| 2 | **OT Type - Judgment Fire** | [[Readable Bible/03 - Leviticus/Leviticus 10#Leviticus 10 . 1\|Leviticus 10:1-2]] | "Fire came out from before the LORD and consumed them, and they died before the LORD." The same fire that accepted sacrifice now judges Nadab and Abihu for offering "unauthorized fire." This establishes the dual nature of divine fire: acceptance for proper worship, judgment for improper worship. God's holiness requires precise obedience. | [[Trajectory Tables - Foundation Texts/Fire from Heaven/03 - Leviticus 10.1-2\|Leviticus 10:1-2]] |
+| 3 | **OT Development - Temple Site Fire** | [[Readable Bible/13 - 1 Chronicles/1 Chronicles 21#1 Chronicles 21 . 26\|1 Chronicles 21:26]] | "Fire came down from heaven and consumed the burnt offering and the sacrifices." When David offers sacrifice at the threshing floor of Ornan (future temple site), fire from heaven confirms divine acceptance. This legitimizes the temple location and parallels Leviticus 9:24, extending the tabernacle pattern to the temple. **CRITICAL:** [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 21.1-30 to 2 Samuel 24.1-25\|1 Chr 21→2 Sam 24]] **CRITICAL:** [[Intertextuality Pairs/OT to OT/10 - 2 Samuel/2 Samuel 24.1-25 to 1 Chronicles 21.1-30\|2 Sam 24→1 Chr 21]] | [[Trajectory Tables - Foundation Texts/Fire from Heaven/13 - 1 Chronicles 21.26\|1 Chronicles 21:26]] |
+| 4 | **OT Development - Temple Dedication Fire** | [[Readable Bible/14 - 2 Chronicles/2 Chronicles 7#2 Chronicles 7 . 1\|2 Chronicles 7:1-3]] | "Fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple." At Solomon's temple dedication, fire descends as at tabernacle inauguration—divine acceptance of both temple and sacrifice. The people again fall prostrate in worship. The pattern: fire + glory = divine presence accepting His dwelling place. **CRITICAL:** [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.1-3 to 1 Kings 8.54\|2 Chr 7:1-3→1 Kgs 8:54]] | [[Trajectory Tables - Foundation Texts/Fire from Heaven/14 - 2 Chronicles 7.1-3\|2 Chronicles 7:1-3]] |
+| 5 | **OT Development - Elijah's Fire** | [[Readable Bible/11 - 1 Kings/1 Kings 18#1 Kings 18 . 38\|1 Kings 18:38-39]] | "Then the fire of the LORD fell and consumed the burnt offering and the wood and the stones and the dust, and licked up the water." On Mount Carmel, fire from heaven vindicates Yahweh against Baal. The people's response echoes Leviticus 9:24: "The LORD, he is God!" Fire demonstrates which deity is true and which worship is acceptable. | [[Trajectory Tables - Foundation Texts/Fire from Heaven/11 - 1 Kings 18.38-39\|1 Kings 18:38-39]] |
+| 6 | **OT Development - Elijah's Judgment Fire** | [[Readable Bible/12 - 2 Kings/2 Kings 1#2 Kings 1 . 10\|2 Kings 1:10-12]] | Elijah twice calls fire from heaven to consume the king's soldiers sent to arrest him. This demonstrates fire's judgment function against those who oppose God's prophet. The disciples later reference this (Luke 9:54), showing its paradigmatic status for divine judgment fire. **CRITICAL:** [[Intertextuality Pairs/NT to OT/42 - Luke/Luke 9.54 to 2 Kings 1.1\|Luke 9:54→2 Kgs 1]] | [[Trajectory Tables - Foundation Texts/Fire from Heaven/12 - 2 Kings 1.10-12\|2 Kings 1:10-12]] |
+| 7 | **Prophetic Anticipation - Consuming Fire** | [[Readable Bible/23 - Isaiah/Isaiah 66#Isaiah 66 . 15\|Isaiah 66:15-16]] | "For behold, the LORD will come in fire, and his chariots like the whirlwind, to render his anger in fury, and his rebuke with flames of fire." The eschatological Day of the LORD brings judgment fire against the wicked. What fell on specific sacrifices/individuals now extends to universal judgment. | [[Trajectory Tables - Foundation Texts/Fire from Heaven/23 - Isaiah 66.15-16\|Isaiah 66:15-16]] |
+| 8 | **NT Transformation - Rejection of Judgment Fire** | [[Readable Bible/42 - Luke/Luke 9#Luke 9 . 54\|Luke 9:54-56]] | James and John ask Jesus: "Lord, do you want us to tell fire to come down from heaven and consume them?" Jesus rebukes them. The OT pattern of judgment fire is transformed: in this gospel age, mercy triumphs. Fire that judged in OT gives way to gospel invitation. The shift prepares for Pentecost's different fire. | [[Trajectory Tables - Foundation Texts/Fire from Heaven/42 - Luke 9.54-56\|Luke 9:54-56]] |
+| 9 | **NT Fulfillment - Pentecost Fire** | [[Readable Bible/44 - Acts/Acts 2#Acts 2 . 3\|Acts 2:3-4]] | "Divided tongues as of fire appeared to them and rested on each one of them. And they were all filled with the Holy Spirit." The fire that consumed offerings now rests on believers—they are the living sacrifices. What descended on tabernacle/temple now descends on the church. Fire transforms from judgment/acceptance of sacrifice to empowerment for mission. **CRITICAL:** [[Intertextuality Pairs/NT to OT/44 - Acts/Acts 2.17-21 to Joel 2.28-32\|Acts 2:17-21→Joel 2:28-32]] | [[Trajectory Tables - Foundation Texts/Fire from Heaven/44 - Acts 2.3-4\|Acts 2:3-4]] |
+| 10 | **NT Superiority - Sinai vs. Zion** | [[Readable Bible/58 - Hebrews/Hebrews 12#Hebrews 12 . 18\|Hebrews 12:18-21, 29]] | "You have not come to a mountain that can be touched, to a blazing fire and darkness and gloom and tempest." Sinai's terrifying fire is contrasted with believers' confident approach to heavenly Zion through Christ. Yet "our God is a consuming fire" (v. 29)—fire's nature remains, but Christ mediates access. Fire purifies rather than destroys for those in Christ. **CRITICAL:** [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 12.18-21 to Exodus 19.16-22\|Heb 12:18-21→Exod 19:16-22]] | [[Trajectory Tables - Foundation Texts/Fire from Heaven/58 - Hebrews 12.18-29\|Hebrews 12:18-29]] |
+| 11 | **Eschatological Consummation - Final Fire** | [[Readable Bible/66 - Revelation/Revelation 20#Revelation 20 . 9\|Revelation 20:9]]; [[Readable Bible/61 - 2 Peter/2 Peter 3#2 Peter 3 . 7\|2 Peter 3:7]] | "Fire came down from heaven and consumed them." The eschatological fire that destroys Gog and Magog completes the trajectory. The heavens and earth are "reserved for fire" (2 Peter 3:7). What fell on Nadab, Abihu, and Elijah's enemies becomes universal judgment fire, followed by "new heavens and new earth in which righteousness dwells." | [[Trajectory Tables - Foundation Texts/Fire from Heaven/66 - Revelation 20.9\|Revelation 20:9]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+
+**Leviticus**
+- [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 9.24 to 1 Chronicles 21.26]] - **CRITICAL:** HIGH relevance: direct fire-from-heaven connection. Leviticus 9:24 is the foundational text where fire from YHWH's presence consumes the offering at tabernacle inauguration. 1 Chronicles 21:26 records fire consuming David's sacrifice at the threshing floor (future temple site). Both passages use אֵשׁ (fire) and אָכַל (consume) vocabulary, show divine acceptance of sacrifice, and establish legitimacy of worship location. Clear typological trajectory from tabernacle to temple.
+
+- [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 9.24 to 2 Chronicles 7.1-3]] - **CRITICAL:** HIGH relevance: primary fire trajectory text. Leviticus 9:24 (tabernacle fire) directly parallels 2 Chronicles 7:1-3 (temple fire). Both record fire descending from God's presence, consuming the offering, and eliciting prostrate worship from the people. Uses identical vocabulary: fire (אֵשׁ), consumed (אָכַל), fell on their faces (נָפַל). This is the core OT-to-OT development of fire-from-heaven acceptance theme.
+
+- [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 9.24 to 2 Chronicles 7.1]] - **CRITICAL:** HIGH relevance: same as previous pair, focusing specifically on the fire descent rather than extended narrative. Direct verbal and conceptual connection between the two primary fire-from-heaven texts in the tabernacle/temple trajectory. Essential to this trajectory table.
+
+**2 Samuel**
+- [[Intertextuality Pairs/OT to OT/10 - 2 Samuel/2 Samuel 24.1-25 to 1 Chronicles 21.1-30]] - **CRITICAL:** HIGH relevance: complete parallel narrative including fire from heaven. While 2 Samuel's account doesn't explicitly mention fire descending, the Chronicles parallel (21:26) adds this crucial detail: "Fire came down from heaven and consumed the burnt offering and the sacrifices." This pair traces how later Scripture interprets and expands earlier accounts, revealing the fire-from-heaven acceptance that established the temple site. Essential for showing OT-to-OT development of fire trajectory.
+
+**1 Chronicles**
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 21.1-30 to 2 Samuel 24.1-25]] - **CRITICAL:** HIGH relevance (reverse of earlier pair). Chronicles' account explicitly includes fire from heaven consuming David's sacrifice (1 Chr 21:26), while Samuel's parallel account omits this detail. Demonstrates how later inspired Scripture clarifies and expands earlier accounts. The fire-from-heaven event establishes the temple site and parallels Leviticus 9:24's tabernacle fire. Essential to fire trajectory.
+
+**2 Chronicles**
+- [[Intertextuality Pairs/OT to OT/14 - 2 Chronicles/2 Chronicles 7.1-3 to 1 Kings 8.54]] - **CRITICAL:** HIGH relevance: primary fire-from-heaven text. 2 Chronicles 7:1-3 explicitly records fire falling from heaven and consuming the offering at temple dedication. Subject is "Fire falls from heaven." 1 Kings 8:54 parallels this moment from different angle (Solomon's posture). Chronicles emphasizes the fire; Kings emphasizes Solomon's prayer. Essential text for fire trajectory showing temple parallel to Leviticus 9:24.
+
+## Four-Step Application
+
+### 1. What You Must Do
+
+You must be accepted by God--not just tolerated, not just overlooked, but genuinely accepted. Your sacrifice must be received; your worship must be validated; you must pass through the fire and not be consumed. You cannot avoid the question: Our God is a consuming fire (Hebrews 12:29). Either fire falls on your substitute, or fire falls on you.
+
+### 2. Why You Can't Do It
+
+You cannot generate fire from heaven through your religious performance. The fire that accepted the tabernacle sacrifice immediately consumed Nadab and Abihu for one misstep. Your worship is not pure enough; your heart is not clean enough; your devotion is not consistent enough. Every sacrifice you offer is tainted by the very sin it is meant to address. Even if you could perform perfectly, you have not performed perfectly--and one unauthorized fire brings death. You cannot dismiss the fire by denying it; eschatological judgment is coming whether you believe it or not. You stand before a consuming fire with nothing fireproof to offer.
+
+### 3. How He Did It
+
+Christ became the sacrifice that absorbed divine fire. On the cross, the fire that should have consumed us fell on Him. For our sake he made him to be sin who knew no sin (2 Corinthians 5:21). The wrath of God that burns against all ungodliness and unrighteousness (Romans 1:18) burned against Christ in our place. He endured the fire so that we don't have to. And then, having satisfied divine justice through His death, He sent fire again at Pentecost--but this time fire that rests and empowers rather than fire that consumes. The Spirit came as fire (Acts 2:3), transforming judgment into mission, wrath into witness.
+
+### 4. How Through Him You Can
+
+Through Christ, you can approach the consuming fire and not be destroyed. Let us then with confidence draw near to the throne of grace (Hebrews 4:16). You have not come to what may be touched, a blazing fire and darkness and gloom and tempest...But you have come to Mount Zion (Hebrews 12:18, 22). The same text that says our God is a consuming fire (12:29) invites us to worship with reverence and awe (12:28)--not terror, but confident reverence. Why? Because Christ has gone through the fire before us. The fire that fell at Pentecost now indwells every believer--the Holy Spirit who empowers, purifies, and assures. What once consumed the sacrifice now rests on the saints. And in the final judgment, when fire comes down from heaven (Revelation 20:9), you will be safe--not because of your performance but because you are hidden in Christ, who has already absorbed all the fire that divine justice required.
+
+---
+
+## Lexicon Findings
+
+The fire-from-heaven trajectory reveals a tightly interwoven lexical network connecting OT theophanic fire to NT Spirit-empowerment and eschatological judgment. The Hebrew אֵשׁ (ʼêsh, H784) meaning "fire, supernatural fire accompanying theophany" consistently pairs with אָכַל (ʼâkal, H398) "to devour, consume" across all major OT fire-descent passages (Leviticus 9:24; 1 Chronicles 21:26; 2 Chronicles 7:1-3; 1 Kings 18:38). The LXX translates אֵשׁ with πῦρ (pŷr, G4442), the same term used in NT contexts for both judgment fire (Luke 9:54; Revelation 20:9; 2 Peter 3:7) and the Pentecost "tongues of fire" (Acts 2:3). This lexical continuity establishes fire as the consistent marker of divine presence. The verb נָפַל (nâphal, H5307) "to fall, fall prostrate" describes both the fire's descent ("fire fell") and the worshipers' response ("fell on their faces"), showing fire as catalyst for prostrate worship. At Pentecost, πῦρ shifts from consuming sacrifices to resting on believers as living sacrifices, fulfilling the trajectory: what once consumed offerings now indwells saints through πνεῦμα (pneûma, G4151) "Spirit."
+
+**Key Lexical Threads:**
+- **Hebrew**: אֵשׁ (*ʼêsh*) - fire, supernatural fire - appears in Leviticus 9:24, Leviticus 10:1-2, 1 Chronicles 21:26, 2 Chronicles 7:1-3, 1 Kings 18:38, 2 Kings 1:10-12
+- **Hebrew**: אָכַל (*ʼâkal*) - to consume, devour (of fire) - consistently paired with אֵשׁ in fire-descent passages
+- **Hebrew**: נָפַל (*nâphal*) - to fall (of fire), to fall prostrate (of worshipers) - dual application shows response to theophany
+- **Hebrew**: שָׁמַיִם (*shâmayim*, H8064) - heaven, heavens - source of fire in all OT texts
+- **Hebrew**: כָּבוֹד (*kâbôwd*, H3519) - glory, splendor - accompanies fire at temple (2 Chronicles 7:1)
+- **LXX**: πῦρ (*pŷr*) - standard translation of אֵשׁ
+- **NT**: πῦρ (*pŷr*, G4442) - fire (literal/figurative) - used in Acts 2:3, Luke 9:54, Hebrews 12:18-29, Revelation 20:9, 2 Peter 3:7
+- **NT**: οὐρανός (*ouranós*, G3772) - heaven - Greek equivalent of שָׁמַיִם, source of NT eschatological fire
+- **NT**: πνεῦμα (*pneûma*, G4151) - Spirit, breath - the fire of Pentecost transformed into indwelling presence
+
+**Lexicon References:**
+- [[Lexicon/H701-800#H784|H784]] - אֵשׁ (ʼêsh) - fire, supernatural fire accompanying theophany
+- [[Lexicon/H301-400#H398|H398]] - אָכַל (ʼâkal) - to consume, devour (of fire)
+- [[Lexicon/H5301-5400#H5307|H5307]] - נָפַל (nâphal) - to fall, fall prostrate
+- [[Lexicon/H8001-8100#H8064|H8064]] - שָׁמַיִם (shâmayim) - heaven, heavens
+- [[Lexicon/H3501-3600#H3519|H3519]] - כָּבוֹד (kâbôwd) - glory, splendor
+- [[Lexicon/G4401-4500#G4442|G4442]] - πῦρ (pŷr) - fire
+- [[Lexicon/G3701-3800#G3772|G3772]] - οὐρανός (ouranós) - heaven
+- [[Lexicon/G4101-4200#G4151|G4151]] - πνεῦμα (pneûma) - Spirit

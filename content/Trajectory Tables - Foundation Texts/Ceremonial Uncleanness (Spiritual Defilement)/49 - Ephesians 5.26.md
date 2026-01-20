@@ -1,0 +1,18 @@
+### [[Readable Bible/49 - Ephesians/Ephesians 5#Ephesians 5 . 26|Ephesians 5:26]]
+
+**Greek Key Terms**:
+- [[Lexicon/G0001-0100#G0037|ἁγιάσῃ]] (*hagiasē*) - "He might sanctify" (aorist subjunctive)
+- [[Lexicon/G2501-2600#G2511|καθαρίσας]] (*katharisas*) - "having cleansed" (aorist participle)
+- [[Lexicon/G3001-3100#G3067|λουτρῷ]] (*loutrō*) - "washing" (dative)
+- [[Lexicon/G5201-5300#G5204|ὕδατος]] (*hydatos*) - "of water" (genitive)
+- [[Lexicon/G4401-4500#G4487|ῥήματι]] (*rhēmati*) - "word" (dative)
+
+**Context**: Paul describes Christ sanctifying the church "by the washing of water with the word." This combines cleansing imagery with God's word, showing progressive sanctification. Unlike Levitical washings (external water removing ceremonial defilement), Christ cleanses the church internally through the word applied by the Spirit. The context (marriage analogy) shows Christ's tender care for His bride, progressively purifying her "to present her to himself... without spot or wrinkle" (v. 27).
+
+**Connections**:
+- **TO**: [[Readable Bible/03 - Leviticus/Leviticus 15#Leviticus 15 . 13|Leviticus 15:13]] (wash body in running water), [[Readable Bible/19 - Psalms/Psalm 119#Psalm 119 . 9|Psalm 119:9]] (how can young man keep his way pure? By guarding according to your word)
+- **FROM NT**: [[Readable Bible/43 - John/John 15#John 15 . 3|John 15:3]] (already clean because of word I have spoken), [[Readable Bible/43 - John/John 17#John 17 . 17|John 17:17]] (sanctify them in truth, your word is truth), [[Readable Bible/56 - Titus/Titus 3#Titus 3 . 5|Titus 3:5]] (washing of regeneration)
+
+**Christological Connection**: [[Readable Bible/49 - Ephesians/Ephesians 5#Ephesians 5 . 26|Ephesians 5:26]] describes Christ sanctifying the church "by the washing of water with the word," showing progressive cleansing through word-application. The Levitical washings cleansed externally through literal water—priests bathed before serving, Israelites washed after touching unclean things. These rituals removed ceremonial defilement temporarily, requiring repetition when new contamination occurred. Paul uses washing imagery metaphorically for Christ's sanctifying work through His word. The "washing" (loutron) isn't literal bathing but spiritual cleansing. The "water" connects to baptism (initial cleansing) or to ongoing word-ministry (continuous cleansing). The "word" (rhēma) is gospel proclamation and Scripture application—God's truth applied by the Spirit to believers' consciences. Jesus declared "you are already clean because of the word which I have spoken to you" ([[Readable Bible/43 - John/John 15#John 15 . 3|John 15:3]])—the word produces cleansing. His prayer "sanctify them by Your truth; Your word is truth" ([[Readable Bible/43 - John/John 17#John 17 . 17|John 17:17]]) shows word-application as sanctification means. The process is progressive: Christ "cleansed" (aorist, completed action at conversion) and continues sanctifying (present tense) "to present her to himself in splendor, without spot or wrinkle or any such thing" (v. 27). The eschatological goal is perfect purity, achieved through ongoing word-washing. The trajectory shows transformation: Levitical washings (external water, temporary cleansing) → Christ's word (internal truth, progressive sanctification). What ceremonial ritual symbolized, spiritual reality accomplishes—the church progressively purified through word and Spirit, moving toward eschatological perfection when presented to Christ completely cleansed.
+
+**Trajectory Table**: [[Trajectory Tables/027 - Ceremonial Uncleanness (Spiritual Defilement)]]

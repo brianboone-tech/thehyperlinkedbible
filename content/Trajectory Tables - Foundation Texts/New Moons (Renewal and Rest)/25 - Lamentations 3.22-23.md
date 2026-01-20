@@ -1,0 +1,21 @@
+### [[Readable Bible/25 - Lamentations/Lamentations 3#Lamentations 3 . 22|Lamentations 3:22-23]]
+
+**Hebrew Key Terms**:
+- [[Lexicon/H2501-2600#H2617|חַסְדֵי יְהוָה]] (*ḥasdê YHWH*) - "steadfast loves of the LORD, covenant mercies"
+- [[Lexicon/H3501-3600#H3615|תָמְנוּ]] (*tāmənû*) - "have ended, ceased" (with negative particle)
+- [[Lexicon/H7301-7400#H7356|רַחֲמָיו]] (*raḥămāyw*) - "his compassions, mercies"
+- [[Lexicon/H2301-2400#H2319|חֲדָשִׁים]] (*ḥădāšîm*) - "new, fresh"
+- [[Lexicon/H1101-1200#H1242|לַבְּקָרִים]] (*labbəqārîm*) - "every morning, at daybreak"
+- [[Lexicon/H7301-7400#H7227|רַבָּה]] (*rabbāh*) - "great, abundant"
+- [[Lexicon/H0501-0600#H0530|אֱמוּנָתֶךָ]] (*ʾĕmûnātekā*) - "your faithfulness, reliability"
+
+**Context**: Amid Jerusalem's destruction, Jeremiah affirms God's covenant love never ceases and His mercies are new every morning, demonstrating great faithfulness. This confession of hope emerges from despair, showing God's reliability even when circumstances appear hopeless. The daily renewal of mercies sustains faith through catastrophe.
+
+**Connections**:
+- **TO**: [[Readable Bible/19 - Psalms/Psalm 30#Psalm 30 . 5|Psalm 30:5]] (weeping may tarry for night, joy comes in morning), [[Readable Bible/19 - Psalms/Psalm 90#Psalm 90 . 14|Psalm 90:14]] (satisfy us in morning with steadfast love)
+- **FROM OT**: [[Readable Bible/23 - Isaiah/Isaiah 33#Isaiah 33 . 2|Isaiah 33:2]] (be our arm every morning)
+- **FROM NT**: [[Readable Bible/47 - 2 Corinthians/2 Corinthians 4#2 Corinthians 4 . 16|2 Corinthians 4:16]] (renewed day by day), [[Readable Bible/55 - 2 Timothy/2 Timothy 2#2 Timothy 2 . 13|2 Timothy 2:13]] (he remains faithful), [[Readable Bible/58 - Hebrews/Hebrews 13#Hebrews 13 . 8|Hebrews 13:8]] (Jesus Christ same yesterday, today, forever)
+
+**Christological Connection**: [[Readable Bible/25 - Lamentations/Lamentations 3#Lamentations 3 . 22|Lamentations 3:22-23]]'s daily renewed mercies find ultimate fulfillment in Christ who provides perpetual grace. The morning renewal Jeremiah experienced (new mercies each dawn) believers experience continuously in Christ. Paul applies this: "Though our outer self is wasting away, our inner self is being renewed day by day" ([[Readable Bible/47 - 2 Corinthians/2 Corinthians 4#2 Corinthians 4 . 16|2 Corinthians 4:16]])—what occurred daily under old covenant occurs moment-by-moment under new covenant. Christ embodies God's steadfast love (ḥesed): "God shows his love for us in that while we were still sinners, Christ died for us" ([[Readable Bible/45 - Romans/Romans 5#Romans 5 . 8|Romans 5:8]]). His compassion never fails: "Jesus Christ is the same yesterday and today and forever" ([[Readable Bible/58 - Hebrews/Hebrews 13#Hebrews 13 . 8|Hebrews 13:8]]). The "great is your faithfulness" finds expression in Christ's faithful priesthood: "He is able to save to the uttermost those who draw near to God through him, since he always lives to make intercession for them" ([[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 25|Hebrews 7:25]]). The new moons marked monthly renewal; Jeremiah experienced daily renewal; Christ provides constant renewal. Believers access "the throne of grace, that we may receive mercy and find grace to help in time of need" ([[Readable Bible/58 - Hebrews/Hebrews 4#Hebrews 4 . 16|Hebrews 4:16]])—perpetual supply, not periodic. The steadfast love that never ceased through exile's darkness shines fully in Christ: "For God, who said, 'Let light shine out of darkness,' has shone in our hearts to give the light of the knowledge of the glory of God in the face of Jesus Christ" ([[Readable Bible/47 - 2 Corinthians/2 Corinthians 4#2 Corinthians 4 . 6|2 Corinthians 4:6]]). The mercies "new every morning" anticipate ultimate newness: "Behold, I am making all things new" ([[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 5|Revelation 21:5]]). New moons marked monthly fresh start; daily sunrises brought renewed mercies; Christ provides eternal newness where "his servants will worship him... and night will be no more" ([[Readable Bible/66 - Revelation/Revelation 22#Revelation 22 . 3|Revelation 22:3, 5]]), perpetual day without need for morning renewal because His presence is constant light.
+
+**Trajectory Table**: [[Trajectory Tables/110 - New Moons (Renewal and Rest)]]

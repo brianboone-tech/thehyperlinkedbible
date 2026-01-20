@@ -1,0 +1,81 @@
+---
+cssClasses: lxx
+Book: Jeremiah
+Chapter: "11"
+Testament: Old
+---
+
+# Jeremiah 11
+
+[[LXX Reference/24 - Jeremiah/Jeremiah 10|←]] • [[LXX Reference/24 - Jeremiah/Jeremiah 12|→]]
+
+---
+
+#### Jeremiah 11 - 1
+[[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G3001-3100#G3056|word]] [[Lexicon/G1001-1100#G1096|coming]] [[Lexicon/G3801-3900#G3844|from]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G4301-4400#G4314|to]] Jeremiah, [[Lexicon/G3001-3100#G3004|saying,]]
+
+#### Jeremiah 11 - 2
+[[Lexicon/G101-200#G0191|Hear]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3056|words]] [[Lexicon/G1201-1300#G1242|of this covenant!]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2980|you shall speak]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G401-500#G0435|the]] of Judah, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2701-2800#G2730|dwelling]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem.
+
+#### Jeremiah 11 - 3
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2046|you shall say]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G2301-2400#G2316|God]] of Israel, [[Lexicon/G1901-2000#G1944|Accursed is]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0444|man]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G3701-3800#G3756|shall not]] [[Lexicon/G101-200#G0191|hearken to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3056|words]] [[Lexicon/G1201-1300#G1242|of this covenant,]]
+
+#### Jeremiah 11 - 4
+[[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G1701-1800#G1781|I gave charge]] [[Lexicon/G3501-3600#G3588|to]] [[Lexicon/G3901-4000#G3962|your fathers]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|day]] [[Lexicon/G301-400#G0321|I led]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G1001-1100#G1093|the]] of Egypt, [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G2501-2600#G2575|the]] [[Lexicon/G4601-4700#G4603|of iron,]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G101-200#G0191|Hearken to]] [[Lexicon/G5401-5500#G5456|my voice,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|do]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3701-3800#G3745|as much]] [[Lexicon/G301-400#G0302|as]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1701-1800#G1781|give charge]] [[Lexicon/G1401-1500#G1473|to you!]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1501-1600#G1510|you will be]] [[Lexicon/G1401-1500#G1473|to me]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2901-3000#G2992|a people,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G2301-2400#G2316|God.]]
+
+#### Jeremiah 11 - 5
+[[Lexicon/G3701-3800#G3704|So that]] [[Lexicon/G2401-2500#G2476|I should establish]] [[Lexicon/G3701-3800#G3727|my oath]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3601-3700#G3660|I swore by an oath]] [[Lexicon/G3501-3600#G3588|to]] [[Lexicon/G3901-4000#G3962|your fathers,]] [[Lexicon/G1301-1400#G1325|to give]] [[Lexicon/G1401-1500#G1473|to them]] [[Lexicon/G1001-1100#G1093|a land]] [[Lexicon/G4401-4500#G4482|flowing]] [[Lexicon/G1001-1100#G1051|milk]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3101-3200#G3192|honey,]] [[Lexicon/G2501-2600#G2531|as]] [[Lexicon/G2201-2300#G2250|this day.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G601-700#G0611|I answered]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|said,]] [[Lexicon/G1001-1100#G1096|May it be,]] [[Lexicon/G2901-3000#G2962|O lord]]
+
+#### Jeremiah 11 - 6
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|the]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G301-400#G0314|Read]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3001-3100#G3056|these words]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4101-4200#G4172|the]] of Judah, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1855|outside]] of Jerusalem! [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G101-200#G0191|Hear]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3056|words]] [[Lexicon/G1201-1300#G1242|of this covenant,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|do]] [[Lexicon/G1401-1500#G1473|them!]]
+
+#### Jeremiah 11 - 7
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4801-4900#G4828|bearing witness together]] [[Lexicon/G4801-4900#G4828|I bore witness]] [[Lexicon/G3501-3600#G3588|to]] [[Lexicon/G3901-4000#G3962|your fathers]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2201-2300#G2250|the]] [[Lexicon/G3701-3800#G3739|in which]] [[Lexicon/G1801-1900#G1806|I led them out]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G1001-1100#G1093|the]] of Egypt [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G2201-2300#G2250|this day.]] [[Lexicon/G3701-3800#G3719|Rising early]] [[Lexicon/G4801-4900#G4828|I bore witness]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G101-200#G0191|Hear]] [[Lexicon/G5401-5500#G5456|my voice!]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|they did not hear,]] [[Lexicon/G3701-3800#G3756|and they inclined not]] [[Lexicon/G3701-3800#G3775|their ear;]] [[Lexicon/G201-300#G0235|but]] [[Lexicon/G4101-4200#G4198|they went]] [[Lexicon/G1501-1600#G1538|each]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4601-4700#G4646|the]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G1701-1800#G1781|I commanded]] [[Lexicon/G4101-4200#G4160|to be done.]]
+
+#### Jeremiah 11 - 8
+[[Lexicon/G2501-2600#G2532|But]] [[Lexicon/G3701-3800#G3756|they did not]] [[Lexicon/G4101-4200#G4160|do.]]
+
+#### Jeremiah 11 - 9
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2036|the]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G401-500#G0435|the]] of Judah, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2701-2800#G2730|dwelling]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem.
+
+#### Jeremiah 11 - 10
+[[Lexicon/G1901-2000#G1994|They returned]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G0093|iniquities]] [[Lexicon/G3901-4000#G3962|of their fathers,]] [[Lexicon/G3501-3600#G3588|of the ones]] [[Lexicon/G4301-4400#G4387|prior,]] [[Lexicon/G3701-3800#G3739|the ones]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G2301-2400#G2309|wanting]] [[Lexicon/G1501-1600#G1522|to listen to]] [[Lexicon/G3001-3100#G3056|my words.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G4101-4200#G4198|went]] [[Lexicon/G3601-3700#G3694|after]] [[Lexicon/G2301-2400#G2316|strange gods,]] [[Lexicon/G1301-1400#G1398|to serve]] [[Lexicon/G1401-1500#G1473|them;]] [[Lexicon/G2501-2600#G2532|and]] 3 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] of Judah, [[Lexicon/G1201-1300#G1242|my covenant]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1301-1400#G1303|I ordained]] [[Lexicon/G4301-4400#G4314|with]] [[Lexicon/G3901-4000#G3962|their fathers.]]
+
+#### Jeremiah 11 - 11
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G3501-3600#G3592|thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1801-1900#G1863|I bring]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G2501-2600#G2556|evils]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G3701-3800#G3756|they shall not]] [[Lexicon/G1401-1500#G1410|be able]] [[Lexicon/G1801-1900#G1831|to come forth]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G1401-1500#G1473|them.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2801-2900#G2896|they shall cry out]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3756|I will not]] [[Lexicon/G1501-1600#G1522|listen to]] [[Lexicon/G1401-1500#G1473|them.]]
+
+#### Jeremiah 11 - 12
+[[Lexicon/G2501-2600#G2532|And]] 2 6 [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2801-2900#G2896|they shall cry out]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G2301-2400#G2316|their gods]] [[Lexicon/G3701-3800#G3739|to whom]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G2301-2400#G2370|burn incense]] [[Lexicon/G1401-1500#G1473|to them;]] [[Lexicon/G3501-3600#G3588|the ones who]] [[Lexicon/G3301-3400#G3361|shall not]] [[Lexicon/G4901-5000#G4982|deliver]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2540|time]] [[Lexicon/G2501-2600#G2556|of their evils.]]
+
+#### Jeremiah 11 - 13
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G701-800#G0706|the]] [[Lexicon/G4101-4200#G4172|of your cities]] [[Lexicon/G1501-1600#G1510|were]] [[Lexicon/G2301-2400#G2316|your gods,]] O Judah. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G701-800#G0706|the]] [[Lexicon/G1801-1900#G1841|of the]] of Jerusalem [[Lexicon/G5001-5100#G5021|you arranged]] [[Lexicon/G1001-1100#G1041|shrines]] [[Lexicon/G2301-2400#G2370|to burn incense]] to Baal.
+
+#### Jeremiah 11 - 14
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G3301-3400#G3361|pray not]] [[Lexicon/G4001-4100#G4012|for]] [[Lexicon/G2901-3000#G2992|this people,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3301-3400#G3361|do not]] [[Lexicon/G501-600#G0515|petition]] [[Lexicon/G4001-4100#G4012|concerning]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G1101-1200#G1162|supplication]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4335|prayer!]] [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3701-3800#G3756|I will not]] [[Lexicon/G1501-1600#G1522|listen]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2540|time]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G1901-2000#G1941|they call upon]] [[Lexicon/G1401-1500#G1473|me,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2501-2600#G2540|the]] [[Lexicon/G2501-2600#G2561|of their affliction.]]
+
+#### Jeremiah 11 - 15
+[[Lexicon/G5001-5100#G5100|What]] [[Lexicon/G3301-3400#G3361|Shall]] [[Lexicon/G2101-2200#G2171|vows]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G801-900#G0851|remove]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2501-2600#G2549|your evils,]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G3701-3800#G3778|by these]] [[Lexicon/G1301-1400#G1309|will you evade?]]
+
+#### Jeremiah 11 - 16
+[[Lexicon/G1501-1600#G1519|In]] [[Lexicon/G5401-5500#G5456|the]] [[Lexicon/G4001-4100#G4061|of its being lopped]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G1401-1500#G1473|it;]]
+
+#### Jeremiah 11 - 17
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1411|forces,]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2701-2800#G2707|having planted]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G2901-3000#G2980|spoke]] [[Lexicon/G401-500#G0473|against]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2501-2600#G2549|evils]] [[Lexicon/G3601-3700#G3624|of the]] of Israel, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3624|the]] of Judah. [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4101-4200#G4160|they did it]] [[Lexicon/G1401-1500#G1438|to themselves,]] [[Lexicon/G3901-4000#G3949|provoking me to anger]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G2301-2400#G2370|their burning incense]] to Baal.
+
+#### Jeremiah 11 - 18
+[[Lexicon/G2901-3000#G2962|O lord]] [[Lexicon/G1101-1200#G1107|make it known]] [[Lexicon/G1401-1500#G1473|to me!]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1001-1100#G1097|I shall know.]] [[Lexicon/G5101-5200#G5119|Then]] [[Lexicon/G1401-1500#G1492|I knew]] [[Lexicon/G2001-2100#G2006|their practices.]]
+
+#### Jeremiah 11 - 19
+[[Lexicon/G1401-1500#G1473|But I am]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G701-800#G0721|a little lamb,]] [[Lexicon/G101-200#G0172|guileless,]] [[Lexicon/G1-100#G0071|being led]] [[Lexicon/G2301-2400#G2380|for a sacrifice,]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G1001-1100#G1097|knowing.]] [[Lexicon/G1901-2000#G1909|Against]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G3001-3100#G3049|they devised]] [[Lexicon/G3001-3100#G3053|a device,]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G1201-1300#G1205|Come,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1601-1700#G1685|we should put]] [[Lexicon/G3501-3600#G3586|wood]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G701-800#G0740|his bread,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1601-1700#G1625|we should obliterate]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1001-1100#G1093|the]] [[Lexicon/G2101-2200#G2198|of the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3601-3700#G3686|his name]] [[Lexicon/G3701-3800#G3766|in no way]] [[Lexicon/G3401-3500#G3403|shall be remembered]] [[Lexicon/G2001-2100#G2089|any longer.]]
+
+#### Jeremiah 11 - 20
+[[Lexicon/G2901-3000#G2962|O lord]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1411|forces,]] [[Lexicon/G2901-3000#G2919|judging]] [[Lexicon/G1301-1400#G1342|just things]] [[Lexicon/G1301-1400#G1381|trying]] [[Lexicon/G3501-3600#G3510|the]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2588|the]] [[Lexicon/G1401-1500#G1492|may I behold]] [[Lexicon/G1701-1800#G1722|on]] [[Lexicon/G1401-1500#G1473|them.]] [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G601-700#G0601|I revealed]] [[Lexicon/G1301-1400#G1345|my right action.]]
+
+#### Jeremiah 11 - 21
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0435|men]] of Anathoth, [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2201-2300#G2212|seeking]] [[Lexicon/G5501-5600#G5590|my life,]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G3001-3100#G3004|saying,]] [[Lexicon/G3701-3800#G3766|In no way]] [[Lexicon/G4301-4400#G4395|should you prophesy]] [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3686|name]] [[Lexicon/G2901-3000#G2962|of the]] [[Lexicon/G1401-1500#G1490|and if you do not agree]] [[Lexicon/G501-600#G0599|you shall die]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G5401-5500#G5495|our hands.]]
+
+#### Jeremiah 11 - 22
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this,]] [[Lexicon/G3501-3600#G3592|thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2901-3000#G2962|the]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1411|forces,]] [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1901-2000#G1980|will make a visit]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G1401-1500#G1473|them.]] [[Lexicon/G3401-3500#G3495|Their young men]] [[Lexicon/G5201-5300#G5207|their sons]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2301-2400#G2364|their daughters]] [[Lexicon/G5001-5100#G5053|shall come to an end]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3001-3100#G3042|famine.]]
+
+#### Jeremiah 11 - 23
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|of them.]] [[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G1801-1900#G1863|I will bring]] [[Lexicon/G2501-2600#G2556|evils]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the ones]] [[Lexicon/G2701-2800#G2730|dwelling]] [[Lexicon/G1701-1800#G1722|in]] Anathoth, [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1701-1800#G1763|the]] [[Lexicon/G1901-2000#G1980|of their visitation.]]

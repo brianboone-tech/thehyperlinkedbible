@@ -1,0 +1,78 @@
+# 1 Chronicles Intertextuality Pairs
+
+**[[Home/Indexes/Readable Bible/13 - 1 Chronicles|← 1 Chronicles]]** | **[[Home/Indexes/Intertextuality Pairs Index|IP Index]]**
+
+---
+
+## 64 Intertextual Connections
+
+### OT to OT (64 pairs)
+
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 1.1-27 to Genesis 5.13-18|1 Chronicles 1.1-27 to Genesis 5.13-18]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 1.1-27 to Genesis 5.22-29|1 Chronicles 1.1-27 to Genesis 5.22-29]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 1.1-27 to Genesis 5.3-32|1 Chronicles 1.1-27 to Genesis 5.3-32]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 1.1-27 to Genesis 5.6-8|1 Chronicles 1.1-27 to Genesis 5.6-8]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 1.28-33 to Genesis 25.12-18|1 Chronicles 1.28-33 to Genesis 25.12-18]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 1.34-54 to Genesis 36.1-43|1 Chronicles 1.34-54 to Genesis 36.1-43]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 11.1-3 to 2 Samuel 5.1-3|1 Chronicles 11.1-3 to 2 Samuel 5.1-3]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 11.18-19 to Deuteronomy 12.16|1 Chronicles 11.18-19 to Deuteronomy 12.16]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 11.18-19 to Deuteronomy 12.23-25|1 Chronicles 11.18-19 to Deuteronomy 12.23-25]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 13.1-4 to 2 Samuel 6.1-11|1 Chronicles 13.1-4 to 2 Samuel 6.1-11]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.1 to Deuteronomy 12.11|1 Chronicles 15.1 to Deuteronomy 12.11]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.1 to Deuteronomy 12.14|1 Chronicles 15.1 to Deuteronomy 12.14]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.1 to Deuteronomy 12.18|1 Chronicles 15.1 to Deuteronomy 12.18]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.1 to Deuteronomy 12.21|1 Chronicles 15.1 to Deuteronomy 12.21]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.1 to Deuteronomy 12.26|1 Chronicles 15.1 to Deuteronomy 12.26]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.1 to Deuteronomy 12.5|1 Chronicles 15.1 to Deuteronomy 12.5]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.13-15 to Numbers 4.4-15|1 Chronicles 15.13-15 to Numbers 4.4-15]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.3 to Deuteronomy 12.11|1 Chronicles 15.3 to Deuteronomy 12.11]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.3 to Deuteronomy 12.14|1 Chronicles 15.3 to Deuteronomy 12.14]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.3 to Deuteronomy 12.18|1 Chronicles 15.3 to Deuteronomy 12.18]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.3 to Deuteronomy 12.21|1 Chronicles 15.3 to Deuteronomy 12.21]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.3 to Deuteronomy 12.26|1 Chronicles 15.3 to Deuteronomy 12.26]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 15.3 to Deuteronomy 12.5|1 Chronicles 15.3 to Deuteronomy 12.5]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 16.7-36 to Psalms 105.1-15|1 Chronicles 16.7-36 to Psalms 105.1-15]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 16.7-36 to Psalms 105.11-13|1 Chronicles 16.7-36 to Psalms 105.11-13]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 16.7-36 to Psalms 105.47-48|1 Chronicles 16.7-36 to Psalms 105.47-48]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 17.1-15 to 2 Samuel 7.1-17|1 Chronicles 17.1-15 to 2 Samuel 7.1-17]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 17.1-15 to 2 Samuel 7.18-29|1 Chronicles 17.1-15 to 2 Samuel 7.18-29]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 17.16-27 to 2 Samuel 7.1-17|1 Chronicles 17.16-27 to 2 Samuel 7.1-17]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 17.16-27 to 2 Samuel 7.18-29|1 Chronicles 17.16-27 to 2 Samuel 7.18-29]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 2.1-2 to Genesis 35.22-26|1 Chronicles 2.1-2 to Genesis 35.22-26]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 2.3-17 to Genesis 38.1-7|1 Chronicles 2.3-17 to Genesis 38.1-7]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 2.3-17 to Genesis 38.29-30|1 Chronicles 2.3-17 to Genesis 38.29-30]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 2.3-17 to Ruth 4.18-22|1 Chronicles 2.3-17 to Ruth 4.18-22]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 21.1-30 to 2 Samuel 24.1-25|1 Chronicles 21.1-30 to 2 Samuel 24.1-25]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 3.1-9 to 2 Samuel 3.13-16|1 Chronicles 3.1-9 to 2 Samuel 3.13-16]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 3.1-9 to 2 Samuel 3.2-5|1 Chronicles 3.1-9 to 2 Samuel 3.2-5]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 4.17 to Exodus 2.7|1 Chronicles 4.17 to Exodus 2.7]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 4.24-31 to Genesis 46.10|1 Chronicles 4.24-31 to Genesis 46.10]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 5.1-2 to Genesis 49.3-4|1 Chronicles 5.1-2 to Genesis 49.3-4]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 6.1-4 to Genesis 46.11|1 Chronicles 6.1-4 to Genesis 46.11]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 6.16-19 to Numbers 3.17-20|1 Chronicles 6.16-19 to Numbers 3.17-20]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 6.27-28 to 1 Samuel 1.1|1 Chronicles 6.27-28 to 1 Samuel 1.1]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 6.54-60 to Joshua 21.1-4|1 Chronicles 6.54-60 to Joshua 21.1-4]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 6.54-60 to Joshua 21.10-19|1 Chronicles 6.54-60 to Joshua 21.10-19]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Chronicles/1 Chronicles 9.2-18 to Nehemiah 11.3-19|1 Chronicles 9.2-18 to Nehemiah 11.3-19]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Kings/1 Kings 1.32-40 to 1 Chronicles 23.1|1 Kings 1.32-40 to 1 Chronicles 23.1]]
+- [[Intertextuality Pairs/OT to OT/13 - 1 Samuel/1 Samuel 28.3-25 to 1 Chronicles 10.1-14|1 Samuel 28.3-25 to 1 Chronicles 10.1-14]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 2.18 to 1 Chronicles 2.3-17|2 Samuel 2.18 to 1 Chronicles 2.3-17]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 3.13-16 to 1 Chronicles 3.1-9|2 Samuel 3.13-16 to 1 Chronicles 3.1-9]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 3.2-5 to 1 Chronicles 3.1-9|2 Samuel 3.2-5 to 1 Chronicles 3.1-9]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 5.1-3 to 1 Chronicles 11.1-3|2 Samuel 5.1-3 to 1 Chronicles 11.1-3]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 5.11-12 to 1 Chronicles 14.1-2|2 Samuel 5.11-12 to 1 Chronicles 14.1-2]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 5.13-16 to 1 Chronicles 14.3-7|2 Samuel 5.13-16 to 1 Chronicles 14.3-7]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 5.17-25 to 1 Chronicles 14.8-17|2 Samuel 5.17-25 to 1 Chronicles 14.8-17]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 5.6-10 to 1 Chronicles 11.4-9|2 Samuel 5.6-10 to 1 Chronicles 11.4-9]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 6.1-11 to 1 Chronicles 13.5-14|2 Samuel 6.1-11 to 1 Chronicles 13.5-14]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 6.12-19 to 1 Chronicles 15.25-16|2 Samuel 6.12-19 to 1 Chronicles 15.25-16]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 6.19-20 to 1 Chronicles 16.43|2 Samuel 6.19-20 to 1 Chronicles 16.43]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 7.1-17 to 1 Chronicles 17.1-15|2 Samuel 7.1-17 to 1 Chronicles 17.1-15]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 7.1-17 to 1 Chronicles 17.16-27|2 Samuel 7.1-17 to 1 Chronicles 17.16-27]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 7.18-29 to 1 Chronicles 17.1-15|2 Samuel 7.18-29 to 1 Chronicles 17.1-15]]
+- [[Intertextuality Pairs/OT to OT/13 - 2 Samuel/2 Samuel 7.18-29 to 1 Chronicles 17.16-27|2 Samuel 7.18-29 to 1 Chronicles 17.16-27]]
+- [[Intertextuality Pairs/OT to OT/13 - Nehemiah/Nehemiah 11.3-19 to 1 Chronicles 9.2-18|Nehemiah 11.3-19 to 1 Chronicles 9.2-18]]
+
+---
+
+**[[Home/Indexes/Readable Bible/13 - 1 Chronicles|← Back to 1 Chronicles]]**

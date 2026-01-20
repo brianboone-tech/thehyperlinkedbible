@@ -1,0 +1,105 @@
+---
+cssClasses: lxx
+Book: 1 Kings
+Chapter: "14"
+Testament: Old
+---
+
+# 1 Kings 14
+
+[[LXX Reference/11 - 1 Kings/1 Kings 13|←]] • [[LXX Reference/11 - 1 Kings/1 Kings 15|→]]
+
+---
+
+#### 1 Kings 14 - 1
+[[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G2501-2600#G2540|that time]] [[Lexicon/G701-800#G0731|was ill]]
+
+#### 1 Kings 14 - 2
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588| to]] [[Lexicon/G401-500#G0450|Rise up]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G201-300#G0241|change]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G3701-3800#G3756|they shall not know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1401-1500#G1473|you are]] of Jeroboam, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4198|go]] [[Lexicon/G1501-1600#G1519|unto]] Shiloh! [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G1501-1600#G1563| is there]] [[Lexicon/G1401-1500#G1473|he]] [[Lexicon/G2901-3000#G2980|spoke]] [[Lexicon/G1901-2000#G1909|unto]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G901-1000#G0936|to reign]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G2901-3000#G2992|this people.]]
+
+#### 1 Kings 14 - 3
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2983|take]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G5401-5500#G5495|your hand]] [[Lexicon/G1101-1200#G1176|ten]] [[Lexicon/G701-800#G0740|bread loaves,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2801-2900#G2854|small cakes,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4701-4800#G4713|a jar]] [[Lexicon/G3101-3200#G3192|of honey,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2064|you shall go]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|him.]] [[Lexicon/G1401-1500#G1473|He]] [[Lexicon/G301-400#G0312|will announce]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G5001-5100#G5100|what]] [[Lexicon/G1501-1600#G1510|will be]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3801-3900#G3813|child.]]
+
+#### 1 Kings 14 - 4
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4160|did]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G401-500#G0450|she rose up,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4198|went]] [[Lexicon/G1501-1600#G1519|to]] Shiloh, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1525|she entered]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] of Ahijah. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0444|man]] [[Lexicon/G1401-1500#G1492|for seeing,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G201-300#G0270|were blunted]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G1001-1100#G1094|his old age.]]
+
+#### 1 Kings 14 - 5
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4314|to]] Ahijah, [[Lexicon/G2301-2400#G2400|Behold,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1101-1200#G1135|wife]] of Jeroboam [[Lexicon/G1501-1600#G1525|enters]] [[Lexicon/G1501-1600#G1567|to seek]] [[Lexicon/G4401-4500#G4487|an utterance]] [[Lexicon/G3801-3900#G3844|from]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G5201-5300#G5228|concerning]] [[Lexicon/G5201-5300#G5207|her son,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G701-800#G0732|he is ill.]] [[Lexicon/G2501-2600#G2596|According to]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G3701-3800#G3778|that]] [[Lexicon/G2901-3000#G2980|you shall speak]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|her.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1501-1600#G1525|her entering]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G601-700#G0633|she was as a stranger.]]
+
+#### 1 Kings 14 - 6
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G101-200#G0191|Ahijah heard]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5456|sound]] [[Lexicon/G4201-4300#G4228|of her feet]] [[Lexicon/G1501-1600#G1525|of her entering]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G401-500#G0454|passage,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G2001-2100#G2036|he said,]] [[Lexicon/G1501-1600#G1525|Enter,]] [[Lexicon/G1101-1200#G1135|O wife]] of Jeroboam! [[Lexicon/G2401-2500#G2444|why]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G601-700#G0633|are as a stranger,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1501-1600#G1510|am]] [[Lexicon/G601-700#G0652|envoy]]
+
+#### 1 Kings 14 - 7
+[[Lexicon/G4101-4200#G4198|In going,]] [[Lexicon/G2001-2100#G2036|say]] Jeroboam, [[Lexicon/G3501-3600#G3592|Thus]] [[Lexicon/G3001-3100#G3004|says]] [[Lexicon/G2301-2400#G2316|God]] of Israel, [[Lexicon/G401-500#G0438|Because]] [[Lexicon/G3701-3800#G3745|as much as]] [[Lexicon/G5301-5400#G5312|I exalted]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2901-3000#G2992|people,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|appointed]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G2201-2300#G2233|leading]] [[Lexicon/G1901-2000#G1909|over]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2992|people]] of Israel,
+
+#### 1 Kings 14 - 8
+[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4401-4500#G4486|tore]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0933|crown of state]] [[Lexicon/G501-600#G0575|from]] of David, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1301-1400#G1325|gave]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G1401-1500#G1473|to you;]] [[Lexicon/G2501-2600#G2532|and yet]] [[Lexicon/G3701-3800#G3756|you have not become]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1401-1500#G1401|my servant]] David, [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G5401-5500#G5442|kept]] [[Lexicon/G1701-1800#G1785|my commandments,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G4101-4200#G4198|went]] [[Lexicon/G3601-3700#G3694|after]] [[Lexicon/G1401-1500#G1473|me]] [[Lexicon/G1701-1800#G1722|with]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G2501-2600#G2588|his heart,]] [[Lexicon/G4101-4200#G4160|to do]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2101-2200#G2112|upright thing]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3788|my eyes.]]
+
+#### 1 Kings 14 - 9
+[[Lexicon/G2501-2600#G2532|But]] [[Lexicon/G4101-4200#G4188|you did wickedly]] [[Lexicon/G4101-4200#G4160|doing]] [[Lexicon/G3801-3900#G3844|more than]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3701-3800#G3745|as many as]] [[Lexicon/G1001-1100#G1096|were]] [[Lexicon/G1501-1600#G1519|in front]] [[Lexicon/G1401-1500#G1473|of you.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4198|you went]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|made]] [[Lexicon/G4501-4600#G4572|for yourself]] [[Lexicon/G2301-2400#G2316|other gods,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5501-5600#G5560|molten images,]] [[Lexicon/G3901-4000#G3949|to provoke me to anger,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1473|tossed me]] [[Lexicon/G3601-3700#G3694|behind]] [[Lexicon/G1401-1500#G1473|you.]]
+
+#### 1 Kings 14 - 10
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1-100#G0071|bring]] [[Lexicon/G2501-2600#G2549|evil]] [[Lexicon/G4301-4400#G4314|to]] of Jeroboam, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1801-1900#G1842|I will utterly destroy]] of Jeroboam [[Lexicon/G4301-4400#G4314|against]] [[Lexicon/G5101-5200#G5109|a wall,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1701-1800#G1722|in]] Israel. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1901-2000#G1951|I shall choose]] [[Lexicon/G1901-2000#G1909|over]] of Jeroboam [[Lexicon/G2501-2600#G2531|as]] [[Lexicon/G1901-2000#G1951|one chooses]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2801-2900#G2874|dung]] [[Lexicon/G2101-2200#G2193|unto]] [[Lexicon/G5001-5100#G5048|finishing]] [[Lexicon/G1401-1500#G1473|it.]]
+
+#### 1 Kings 14 - 11
+[[Lexicon/G3501-3600#G3588|The one]] [[Lexicon/G2301-2400#G2348|having died]] of Jeroboam [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4172|city]] [[Lexicon/G2701-2800#G2719|shall devour]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the one]] [[Lexicon/G2301-2400#G2348|having died]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G0068|field]] [[Lexicon/G2701-2800#G2719|shall devour]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G2901-3000#G2980|spoke.]]
+
+#### 1 Kings 14 - 12
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G401-500#G0450|rising up,]] [[Lexicon/G4101-4200#G4198|go]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G3601-3700#G3624|your house!]] [[Lexicon/G1701-1800#G1722|In]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1501-1600#G1525|entering]] [[Lexicon/G4201-4300#G4228|feet]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G4101-4200#G4172|city]] [[Lexicon/G501-600#G0599|shall die]]
+
+#### 1 Kings 14 - 13
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2801-2900#G2875|shall lament]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2201-2300#G2290|entomb]] [[Lexicon/G1401-1500#G1473|him,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G3701-3800#G3779|this one]] [[Lexicon/G3401-3500#G3441|only]] [[Lexicon/G1501-1600#G1525|shall enter]] of Jeroboam [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3701-3800#G3756|for]] [[Lexicon/G2101-2200#G2147|there shall be found]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|him]] [[Lexicon/G4401-4500#G4487|word]] [[Lexicon/G4001-4100#G4012|concerning]] [[Lexicon/G2301-2400#G2316|God]] of Israel [[Lexicon/G1701-1800#G1722|among]] of Jeroboam.
+
+#### 1 Kings 14 - 14
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1438|for himself]] [[Lexicon/G901-1000#G0935|a king]] [[Lexicon/G1901-2000#G1909|over]] Israel [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G4101-4200#G4141|shall strike]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3624|house]] of Jeroboam [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2201-2300#G2250|day,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2089|yet]] [[Lexicon/G2501-2600#G2532|also]] [[Lexicon/G1001-1100#G1065|indeed]] [[Lexicon/G3501-3600#G3568|now.]]
+
+#### 1 Kings 14 - 15
+[[Lexicon/G2501-2600#G2532|And]] Israel [[Lexicon/G2501-2600#G2505|as]] [[Lexicon/G2701-2800#G2795|shaken]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5204|water.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1601-1700#G1620|he shall pluck out]] Israel [[Lexicon/G501-600#G0575|upward]] [[Lexicon/G5501-5600#G5504|soil]] [[Lexicon/G3701-3800#G3739|of which]] [[Lexicon/G1301-1400#G1325|he gave]] [[Lexicon/G3901-4000#G3962|their fathers.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3001-3100#G3039|he shall winnow]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G501-600#G0575|on the other side]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4201-4300#G4215|river,]] [[Lexicon/G401-500#G0438|because of]] [[Lexicon/G3701-3800#G3745|as many]] [[Lexicon/G4101-4200#G4160|they made]] [[Lexicon/G3901-4000#G3949|provoking to anger]]
+
+#### 1 Kings 14 - 16
+[[Lexicon/G2501-2600#G2532|And]] Israel [[Lexicon/G5401-5500#G5484|favor]] of Jeroboam, [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G201-300#G0264|sinned]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G1801-1900#G1814|led Israel into sin.]]
+
+#### 1 Kings 14 - 17
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G401-500#G0450|rose up]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4198|went]] [[Lexicon/G1501-1600#G1519|unto]] Tizrah. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G1501-1600#G1525|she entered]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4201-4300#G4290|threshold]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3601-3700#G3624|house,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3801-3900#G3808|child]] [[Lexicon/G501-600#G0599|died.]]
+
+#### 1 Kings 14 - 18
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2201-2300#G2290|they entombed]] [[Lexicon/G1401-1500#G1473|it,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2801-2900#G2875|lamented]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4401-4500#G4487|word]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G3501-3600#G3588|the word]] [[Lexicon/G2901-3000#G2980|he spoke]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1401-1500#G1401|of his servant]] Ahijah [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4396|prophet.]]
+
+#### 1 Kings 14 - 19
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4401-4500#G4487|things]] of Jeroboam, [[Lexicon/G3701-3800#G3745|as much as]] [[Lexicon/G4101-4200#G4170|he waged war,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3745|as much as]] [[Lexicon/G901-1000#G0936|he reigned,]] [[Lexicon/G2301-2400#G2400|behold,]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G1101-1200#G1125|are written]] [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G4401-4500#G4487|of the words]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|kings]] of Israel.
+
+#### 1 Kings 14 - 20
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G901-1000#G0936|Jeroboam reigned]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1401-1500#G1417|two]] [[Lexicon/G2001-2100#G2094|years.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2801-2900#G2837|he slept]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3901-4000#G3962|his fathers,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G901-1000#G0936|reigned]] [[Lexicon/G401-500#G0473|instead of]] [[Lexicon/G1401-1500#G1473|him.]]
+
+#### 1 Kings 14 - 21
+[[Lexicon/G2501-2600#G2532|And]] Rehoboam [[Lexicon/G5201-5300#G5207|son]] of Solomon [[Lexicon/G901-1000#G0936|reigned]] [[Lexicon/G1901-2000#G1909|over]] Judah. [[Lexicon/G5201-5300#G5207|a son]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G901-1000#G0936|his being given reign.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2033|seventeen]] [[Lexicon/G2001-2100#G2094|years]] [[Lexicon/G901-1000#G0936|he reigned]] [[Lexicon/G1701-1800#G1722|in]] Jerusalem, [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G4101-4200#G4172|city]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G5001-5100#G5087|to put]] [[Lexicon/G3601-3700#G3686|his name]] [[Lexicon/G1501-1600#G1563|there]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G5401-5500#G5443|of the tribes]] of Israel. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3686|name]] [[Lexicon/G3301-3400#G3384|of his mother]] [[Lexicon/G3501-3600#G3588|the]] Ammonitess.
+
+#### 1 Kings 14 - 22
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4160|Judah acted]] [[Lexicon/G4101-4200#G4190|wickedly]] [[Lexicon/G1701-1800#G1799|before]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3801-3900#G3863|provoked him to jealousy]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3701-3800#G3739|the things which]] [[Lexicon/G4101-4200#G4160|did]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G201-300#G0266|their sins]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G201-300#G0264|they sinned.]]
+
+#### 1 Kings 14 - 23
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3601-3700#G3618|they built]] [[Lexicon/G1401-1500#G1438|for themselves]] [[Lexicon/G5301-5400#G5308|high places,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4701-4800#G4739|monuments,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G201-300#G0251|sacred groves]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G1001-1100#G1015|hill]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5201-5300#G5270|underneath]] [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G3501-3600#G3586|tree]]
+
+#### 1 Kings 14 - 24
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4801-4900#G4886|bonding together]] [[Lexicon/G1001-1100#G1096|took place]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1001-1100#G1093|land,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4101-4200#G4160|they did]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G901-1000#G0946|abominations]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G1401-1500#G1484|nations]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G501-600#G0575|in front]] of Israel.
+
+#### 1 Kings 14 - 25
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1701-1800#G1763|year]] [[Lexicon/G901-1000#G0936|of the reigning]] of Rehoboam, [[Lexicon/G301-400#G0305|ascended]] [[Lexicon/G1901-2000#G1909|against]] Jerusalem.
+
+#### 1 Kings 14 - 26
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2901-3000#G2983|he took]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2344|treasures]] [[Lexicon/G3601-3700#G3624|of the house]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2344|treasures]] [[Lexicon/G3601-3700#G3624|of the house]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|king,]] [[Lexicon/G2501-2600#G2532|even]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3956|whole]] [[Lexicon/G2901-3000#G2983|he took,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3601-3700#G3696|shields]] [[Lexicon/G5501-5600#G5552|of gold]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G4101-4200#G4160|Solomon made.]]
+
+#### 1 Kings 14 - 27
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4160|made]] [[Lexicon/G3601-3700#G3696|shields]] [[Lexicon/G5401-5500#G5470|of brass]] [[Lexicon/G401-500#G0473|instead of]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2007|were set in place]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5442|ones guarding]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4401-4500#G4440|vestibule]] [[Lexicon/G3601-3700#G3624|of the house]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|king.]]
+
+#### 1 Kings 14 - 28
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1001-1100#G1096|it came to pass]] [[Lexicon/G3701-3800#G3753|when]] [[Lexicon/G1501-1600#G1531|entered]] [[Lexicon/G1501-1600#G1519|into]] [[Lexicon/G2901-3000#G2962|of the lord,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G101-200#G0142|lifted]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0562|fastened]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2302|vestibule]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3901-4000#G3908|bodyguards.]]
+
+#### 1 Kings 14 - 29
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3001-3100#G3062|rest]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3001-3100#G3056|words]] of Rehoboam, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3701-3800#G3745|the things which]] [[Lexicon/G4101-4200#G4160|he did,]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G1701-1800#G1722|upon]] [[Lexicon/G3001-3100#G3056|of the words]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G2201-2300#G2250|days]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G901-1000#G0935|kings]] of Judah?
+
+#### 1 Kings 14 - 30
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4101-4200#G4171|there was war]] [[Lexicon/G301-400#G0303|between]] Rehoboam [[Lexicon/G2501-2600#G2532|and]] Jeroboam [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2201-2300#G2250|days.]]
+
+#### 1 Kings 14 - 31
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2801-2900#G2837|Rehoboam slept]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3901-4000#G3962|his fathers.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2201-2300#G2290|they entombed him]] [[Lexicon/G3301-3400#G3326|with]] [[Lexicon/G3901-4000#G3962|his fathers]] [[Lexicon/G1701-1800#G1722|in]] of David. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3301-3400#G3384|of his mother]] [[Lexicon/G3501-3600#G3588|the]] Ammonitess. [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G901-1000#G0936|reigned]] [[Lexicon/G401-500#G0473|instead of]] [[Lexicon/G1401-1500#G1473|him.]]

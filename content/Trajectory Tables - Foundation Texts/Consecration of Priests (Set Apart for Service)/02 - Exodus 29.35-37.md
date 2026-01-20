@@ -1,0 +1,26 @@
+### [[Readable Bible/02 - Exodus/Exodus 29#Exodus 29 . 35|Exodus 29:35-37]]
+
+**Hebrew Key Terms**:
+- [[Lexicon/H6213|וְעָשִׂיתָ]] (*wəʿāśîtā*) - "and you shall do, perform"
+- [[Lexicon/H0175|לְאַהֲרֹן]] (*ləʾahărōn*) - "for Aaron"
+- [[Lexicon/H1121|וּלְבָנָיו]] (*ûləbānāyw*) - "and for his sons"
+- [[Lexicon/H6680|צִוִּיתִיךָ]] (*ṣiwwîtîkā*) - "I have commanded you"
+- [[Lexicon/H7651|שִׁבְעַת]] (*šibʿat*) - "seven"
+- [[Lexicon/H3117|יָמִים]] (*yāmîm*) - "days"
+- [[Lexicon/H4390|תְּמַלֵּא]] (*təmallēʾ*) - "you shall ordain" (lit. "fill the hand")
+- [[Lexicon/H3027|יָדָם]] (*yādām*) - "their hand" (with suffix)
+- [[Lexicon/H6499|פַּר]] (*par*) - "bull, young bull"
+- [[Lexicon/H2403|חַטָּאת]] (*ḥaṭṭāʾt*) - "sin offering"
+- [[Lexicon/H3722|לְכַפֵּר]] (*ləkappēr*) - "to make atonement"
+- [[Lexicon/H4196|הַמִּזְבֵּחַ]] (*hammizbēaḥ*) - "the altar"
+- [[Lexicon/H6942|וְקִדַּשְׁתּוֹ]] (*wəqiddaštô*) - "and you shall consecrate it"
+
+**Context**: God commands: "Seven days you shall ordain them, and every day you shall offer a bull as a sin offering for atonement. Also you shall purify the altar, when you make atonement for it, and shall anoint it to consecrate it. Seven days you shall make atonement for the altar and consecrate it." The seven-day process demonstrated thoroughness, yet its very repetition revealed inadequacy—true consecration requires more than ritual. The daily sin offerings showed ongoing need for atonement. This prefigures Christ's perfect, once-for-all consecration replacing repeated insufficient rituals.
+
+**Connections**:
+- **TO**: [[Readable Bible/03 - Leviticus/Leviticus 8#Leviticus 8 . 33|Leviticus 8:33-35]] (seven days at tent entrance), [[Readable Bible/02 - Exodus/Exodus 40#Exodus 40 . 12|Exodus 40:12-15]] (anoint them that they may serve as priests)
+- **FROM NT**: [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 27|Hebrews 7:27]] (no need daily to offer sacrifices... did this once for all), [[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 11|Hebrews 10:11-14]] (every priest stands daily... but when Christ offered for all time a single sacrifice), [[Readable Bible/58 - Hebrews/Hebrews 9#Hebrews 9 . 12|Hebrews 9:12]] (he entered once for all into holy places)
+
+**Christological Connection**: [[Readable Bible/02 - Exodus/Exodus 29#Exodus 29 . 35|Exodus 29:35-37]] commands seven days of ordination with daily sin offerings for Aaron's consecration, demonstrating old covenant priesthood's inadequacy through very repetition. Each day required bull sacrifices "for atonement"—showing even during consecration, sin offerings remained necessary. [[Readable Bible/03 - Leviticus/Leviticus 8#Leviticus 8 . 33|Leviticus 8:33-35]] records Aaron and sons remaining at the tent entrance seven days: "you shall not go outside... for seven days, until the days of your ordination are completed." The thoroughness revealed limitation—if one ceremony sufficed, why repeat seven days? The daily offerings testified that human priesthood always required ongoing atonement. Hebrews contrasts this with Christ's perfect consecration. [[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 27|Hebrews 7:27]] declares Christ "has no need, like those high priests, to offer sacrifices daily, first for his own sins and then for those of the people, since he did this once for all when he offered up himself." Aaron needed seven days of sacrifices; Christ needed no purification—"holy, innocent, unstained, separated from sinners" ([[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 26|Hebrews 7:26]]). Aaron offered bulls for his own sins; Christ offered Himself for others' sins. Aaron's consecration required repeating; Christ's consecration accomplished eternal reality. [[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 11|Hebrews 10:11-14]] emphasizes: "every priest stands daily at his service, offering repeatedly the same sacrifices, which can never take away sins. But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God... For by a single offering he has perfected for all time those who are being sanctified." The sitting posture contrasts with standing—Aaron's work never finished, requiring daily repetition; Christ's work is complete, accomplished once-for-all. [[Readable Bible/58 - Hebrews/Hebrews 9#Hebrews 9 . 12|Hebrews 9:12]] declares Christ "entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption." The trajectory shows: Aaron consecrated over seven days with daily offerings (demonstrating inadequacy through repetition) → Christ consecrated through His own sacrifice (single offering accomplishing eternal redemption) → believers consecrated through Christ's blood (perfected for all time, [[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 14|Hebrews 10:14]]). What required seven days of ritual finds fulfillment in one act; what needed daily repetition achieves eternal efficacy; what symbolized consecration accomplishes actual sanctification—Christ's once-for-all self-offering perfectly consecrating Himself and His people forever.
+
+**Trajectory Table**: [[Trajectory Tables/034 - Consecration of Priests (Set Apart for Service)]]

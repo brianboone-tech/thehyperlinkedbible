@@ -1,0 +1,127 @@
+---
+Folder: Reference Bible
+cssClasses: lexicon
+---
+
+# Romans 8
+
+[[Romans 7|←]] • [[Romans 9|→]]
+
+---
+
+##### Romans 8 - 1
+[[Lexicon/G601-700#G686|Therefore ,]] [[Lexicon/G3501-3600#G3568|(there is) now]] [[Lexicon/G3701-3800#G3762|no]] [[Lexicon/G2601-2700#G2631|condemnation]] [[Lexicon/G3501-3600#G3588|for those who (are)]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5501-5600#G5547|Christ]] [[Lexicon/G2401-2500#G2424|Jesus.]]
+
+##### Romans 8 - 2
+[[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5501-5600#G5547|Christ]] [[Lexicon/G2401-2500#G2424|Jesus]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3551|law]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4101-4200#G4151|Spirit]] [[Lexicon/G3501-3600#G3588|of]] [[Lexicon/G2201-2300#G2222|life]] [[Lexicon/G4701-4800#G4771|{set} you]] [[Lexicon/G1601-1700#G1659|free]] [[Lexicon/G501-600#G575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3551|law]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G201-300#G266|of sin]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2201-2300#G2288|death.]]
+
+##### Romans 8 - 3
+[[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G3501-3600#G3588|what]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3551|law]] [[Lexicon/G101-200#G102|was powerless to do]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3701-3800#G3739|that]] [[Lexicon/G701-800#G770|it was weakened]] [[Lexicon/G1201-1300#G1223|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4561|flesh ,]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|God (did)]] [[Lexicon/G3901-4000#G3992|by sending]] [[Lexicon/G1401-1500#G1438|His]] [[Lexicon/G3501-3600#G3588|(own)]] [[Lexicon/G5201-5300#G5207|Son]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3601-3700#G3667|(the) likeness]] [[Lexicon/G201-300#G266|of sinful]] [[Lexicon/G4501-4600#G4561|man ,]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G4001-4100#G4012|( as an offering ) for]] [[Lexicon/G201-300#G266|sin.]] [[Lexicon/G2601-2700#G2632|He (thus) condemned]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G201-300#G266|sin]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4501-4600#G4561|flesh ,]]
+
+##### Romans 8 - 4
+[[Lexicon/G2401-2500#G2443|so that]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1301-1400#G1345|righteous standard]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3501-3600#G3551|law]] [[Lexicon/G4101-4200#G4137|might be fulfilled]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G1401-1500#G1473|us ,]] [[Lexicon/G3501-3600#G3588|who]] [[Lexicon/G3301-3400#G3361|{do} not]] [[Lexicon/G4001-4100#G4043|walk]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G4501-4600#G4561|(the) flesh]] [[Lexicon/G201-300#G235|but]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G4101-4200#G4151|(the) Spirit.]]
+
+##### Romans 8 - 5
+[[Lexicon/G1001-1100#G1063|-]] [[Lexicon/G3501-3600#G3588|Those]] [[Lexicon/G1501-1600#G1510|who live]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G4501-4600#G4561|(the) flesh]] [[Lexicon/G5401-5500#G5426|set their minds]] [[Lexicon/G3501-3600#G3588|on the things]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4501-4600#G4561|flesh ;]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G3501-3600#G3588|those (who live)]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G4101-4200#G4151|(the) Spirit]] [[Lexicon/G3501-3600#G3588|(set their minds on) the things]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4101-4200#G4151|Spirit.]]
+
+##### Romans 8 - 6
+[[Lexicon/G1001-1100#G1063|-]] [[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G5401-5500#G5427|mind]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4501-4600#G4561|flesh]] [[Lexicon/G2201-2300#G2288|(is) death ,]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5427|mind]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4101-4200#G4151|Spirit]] [[Lexicon/G2201-2300#G2222|(is) life]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1501-1600#G1515|peace ,]]
+
+##### Romans 8 - 7
+[[Lexicon/G1301-1400#G1360|because]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5427|mind]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4501-4600#G4561|flesh]] [[Lexicon/G2101-2200#G2189|(is) hostile]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G2301-2400#G2316|God :]] [[Lexicon/G1001-1100#G1063|-]] [[Lexicon/G3701-3800#G3756|vvv]] [[Lexicon/G5201-5300#G5293|It does not submit]] [[Lexicon/G3501-3600#G3588|to]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|God’s]] [[Lexicon/G3501-3600#G3551|law ,]] [[Lexicon/G1001-1100#G1063|vvv]] [[Lexicon/G3701-3800#G3761|nor]] [[Lexicon/G1401-1500#G1410|can it (do so).]]
+
+##### Romans 8 - 8
+[[Lexicon/G1101-1200#G1161|-]] [[Lexicon/G3501-3600#G3588|Those]] [[Lexicon/G1501-1600#G1510|-]] [[Lexicon/G1701-1800#G1722|controlled by]] [[Lexicon/G4501-4600#G4561|(the) flesh]] [[Lexicon/G3701-3800#G3756|vvv]] [[Lexicon/G1401-1500#G1410|cannot]] [[Lexicon/G601-700#G700|please]] [[Lexicon/G2301-2400#G2316|God.]]
+
+##### Romans 8 - 9
+[[Lexicon/G4701-4800#G4771|You ,]] [[Lexicon/G1101-1200#G1161|however ,]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G3701-3800#G3756|vvv]] [[Lexicon/G1701-1800#G1722|controlled not by]] [[Lexicon/G4501-4600#G4561|(the) flesh ,]] [[Lexicon/G201-300#G235|but]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G4101-4200#G4151|(the) Spirit ,]] [[Lexicon/G1501-1600#G1512|if]] [[Lexicon/G4101-4200#G4151|(the) Spirit]] [[Lexicon/G2301-2400#G2316|of God]] [[Lexicon/G3601-3700#G3611|lives]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4701-4800#G4771|you.]] [[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G1401-1500#G1487|if]] [[Lexicon/G5001-5100#G5100|anyone]] [[Lexicon/G3701-3800#G3756|{does} not]] [[Lexicon/G2101-2200#G2192|have]] [[Lexicon/G4101-4200#G4151|(the) Spirit]] [[Lexicon/G5501-5600#G5547|of Christ ,]] [[Lexicon/G3701-3800#G3778|he]] [[Lexicon/G3701-3800#G3756|{does} not]] [[Lexicon/G1501-1600#G1510|belong]] [[Lexicon/G801-900#G846|to (Christ).]]
+
+##### Romans 8 - 10
+[[Lexicon/G1101-1200#G1161|But]] [[Lexicon/G1401-1500#G1487|if]] [[Lexicon/G5501-5600#G5547|Christ]] [[Lexicon/G1701-1800#G1722|(is) in]] [[Lexicon/G4701-4800#G4771|you ,]] [[Lexicon/G3301-3400#G3303|-]] [[Lexicon/G3501-3600#G3588|(your)]] [[Lexicon/G4901-5000#G4983|body (is)]] [[Lexicon/G3401-3500#G3498|dead]] [[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G201-300#G266|sin ,]] [[Lexicon/G1101-1200#G1161|yet]] [[Lexicon/G3501-3600#G3588|(your)]] [[Lexicon/G4101-4200#G4151|spirit]] [[Lexicon/G2201-2300#G2222|(is) alive]] [[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G1301-1400#G1343|righteousness.]]
+
+##### Romans 8 - 11
+[[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G1401-1500#G1487|if]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4151|Spirit]] [[Lexicon/G3501-3600#G3588|of Him]] [[Lexicon/G1401-1500#G1453|who raised]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2401-2500#G2424|Jesus]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3401-3500#G3498|(the) dead]] [[Lexicon/G3601-3700#G3611|is living]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4701-4800#G4771|you ,]] [[Lexicon/G3501-3600#G3588|He who]] [[Lexicon/G1401-1500#G1453|raised]] [[Lexicon/G5501-5600#G5547|Christ]] [[Lexicon/G2401-2500#G2424|Jesus]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G3401-3500#G3498|(the) dead]] [[Lexicon/G2501-2600#G2532|vvv]] [[Lexicon/G2201-2300#G2227|will also give life]] [[Lexicon/G4701-4800#G4771|to your]] [[Lexicon/G2301-2400#G2349|mortal]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4901-5000#G4983|bodies]] [[Lexicon/G1201-1300#G1223|through]] [[Lexicon/G801-900#G846|His]] [[Lexicon/G4101-4200#G4151|Spirit ,]] [[Lexicon/G3501-3600#G3588|who]] [[Lexicon/G1701-1800#G1774|lives]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G4701-4800#G4771|you.]]
+
+##### Romans 8 - 12
+[[Lexicon/G601-700#G686|Therefore]] [[Lexicon/G3701-3800#G3767|... ,]] [[Lexicon/G1-100#G80|brothers ,]] [[Lexicon/G1501-1600#G1510|we have]] [[Lexicon/G3701-3800#G3781|(an) obligation ,]] [[Lexicon/G3701-3800#G3756|(but it is) not]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G4501-4600#G4561|flesh ,]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2101-2200#G2198|to live]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G4501-4600#G4561|(it).]]
+
+##### Romans 8 - 13
+[[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G1401-1500#G1487|if]] [[Lexicon/G2101-2200#G2198|you live]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G4501-4600#G4561|(the) flesh ,]] [[Lexicon/G3101-3200#G3195|you will]] [[Lexicon/G501-600#G599|die ;]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G1401-1500#G1487|if]] [[Lexicon/G4101-4200#G4151|by (the) Spirit]] [[Lexicon/G2201-2300#G2289|you put to death]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4201-4300#G4234|deeds]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4901-5000#G4983|body ,]] [[Lexicon/G2101-2200#G2198|you will live.]]
+
+##### Romans 8 - 14
+[[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G3701-3800#G3745|all who]] [[Lexicon/G1-100#G71|are led]] [[Lexicon/G4101-4200#G4151|by (the) Spirit]] [[Lexicon/G2301-2400#G2316|of God]] [[Lexicon/G3701-3800#G3778|-]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G2301-2400#G2316|of God.]]
+
+##### Romans 8 - 15
+[[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G3701-3800#G3756|vvv]] [[Lexicon/G2901-3000#G2983|you did not receive]] [[Lexicon/G4101-4200#G4151|a spirit]] [[Lexicon/G1301-1400#G1397|of slavery]] [[Lexicon/G3801-3900#G3825|that returns you]] [[Lexicon/G1501-1600#G1519|to]] [[Lexicon/G5401-5500#G5401|fear ,]] [[Lexicon/G201-300#G235|but]] [[Lexicon/G2901-3000#G2983|you received]] [[Lexicon/G4101-4200#G4151|(the) Spirit]] [[Lexicon/G5201-5300#G5206|of sonship ,]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G3701-3800#G3739|whom]] [[Lexicon/G2801-2900#G2896|we cry ,]] [[Lexicon/G1-100#G5|“ Abba !]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G3901-4000#G3962|Father ! ”]]
+
+##### Romans 8 - 16
+[[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G4101-4200#G4151|Spirit]] [[Lexicon/G801-900#G846|Himself]] [[Lexicon/G4801-4900#G4828|testifies with]] [[Lexicon/G1401-1500#G1473|our]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4101-4200#G4151|spirit]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G1501-1600#G1510|we are]] [[Lexicon/G2301-2400#G2316|God’s]] [[Lexicon/G5001-5100#G5043|children.]]
+
+##### Romans 8 - 17
+[[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G1401-1500#G1487|if]] [[Lexicon/G5001-5100#G5043|(we are) children ,]] [[Lexicon/G2501-2600#G2532|then (we are)]] [[Lexicon/G2801-2900#G2818|heirs :]] [[Lexicon/G2801-2900#G2818|heirs]] [[Lexicon/G3301-3400#G3303|-]] [[Lexicon/G2301-2400#G2316|of God]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G4701-4800#G4789|co-heirs]] [[Lexicon/G5501-5600#G5547|with Christ —]] [[Lexicon/G1501-1600#G1512|if indeed]] [[Lexicon/G4801-4900#G4841|we suffer with (Him) ,]] [[Lexicon/G2401-2500#G2443|so that]] [[Lexicon/G2501-2600#G2532|vvv]] [[Lexicon/G4801-4900#G4888|we may also be glorified with (Him).]]
+
+##### Romans 8 - 18
+[[Lexicon/G1001-1100#G1063|-]] [[Lexicon/G3001-3100#G3049|I consider]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G3501-3600#G3588|(our)]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G3501-3600#G3568|present]] [[Lexicon/G2501-2600#G2540|...]] [[Lexicon/G3801-3900#G3804|sufferings]] [[Lexicon/G3701-3800#G3756|(are) not]] [[Lexicon/G501-600#G514|comparable]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1301-1400#G1391|glory]] [[Lexicon/G3101-3200#G3195|that will be]] [[Lexicon/G601-700#G601|revealed]] [[Lexicon/G1501-1600#G1519|in]] [[Lexicon/G1401-1500#G1473|us.]]
+
+##### Romans 8 - 19
+[[Lexicon/G3501-3600#G3588|The]] [[Lexicon/G2901-3000#G2937|creation]] [[Lexicon/G501-600#G553|waits]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G1001-1100#G1063|-]] [[Lexicon/G601-700#G603|in eager expectation]] [[Lexicon/G3501-3600#G3588|for the]] [[Lexicon/G601-700#G602|Revelation -]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5201-5300#G5207|sons]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|of God.]]
+
+##### Romans 8 - 20
+[[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2937|creation]] [[Lexicon/G5201-5300#G5293|was subjected]] [[Lexicon/G3501-3600#G3588|to]] [[Lexicon/G3101-3200#G3153|futility ,]] [[Lexicon/G3701-3800#G3756|not]] [[Lexicon/G1601-1700#G1635|by its own will ,]] [[Lexicon/G201-300#G235|but]] [[Lexicon/G1201-1300#G1223|because of]] [[Lexicon/G3501-3600#G3588|the (One who)]] [[Lexicon/G5201-5300#G5293|subjected (it) ,]] [[Lexicon/G1901-2000#G1909|in]] [[Lexicon/G1601-1700#G1680|hope]]
+
+##### Romans 8 - 21
+[[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2901-3000#G2937|creation]] [[Lexicon/G801-900#G846|itself]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G1601-1700#G1659|will be set free]] [[Lexicon/G501-600#G575|from]] [[Lexicon/G3501-3600#G3588|(its)]] [[Lexicon/G1301-1400#G1397|bondage]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5301-5400#G5356|to decay]] [[Lexicon/G1501-1600#G1519|(and brought) into]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3501-3600#G3588|vvv]] [[Lexicon/G1301-1400#G1391|glorious]] [[Lexicon/G1601-1700#G1657|freedom]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5001-5100#G5043|children]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|of God.]]
+
+##### Romans 8 - 22
+[[Lexicon/G1001-1100#G1063|-]] [[Lexicon/G1401-1500#G1492|We know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3956|whole]] [[Lexicon/G2901-3000#G2937|creation]] [[Lexicon/G4901-5000#G4959|has been groaning together]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G4901-5000#G4944|in the pains of childbirth]] [[Lexicon/G801-900#G891|until]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G3501-3600#G3568|the present time.]]
+
+##### Romans 8 - 23
+[[Lexicon/G3701-3800#G3756|Not]] [[Lexicon/G3401-3500#G3440|only]] [[Lexicon/G1101-1200#G1161|that ,]] [[Lexicon/G201-300#G235|but]] [[Lexicon/G1401-1500#G1473|we]] [[Lexicon/G801-900#G846|ourselves ,]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G2101-2200#G2192|who have]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G501-600#G536|firstfruits]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4101-4200#G4151|Spirit ,]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G4701-4800#G4727|groan]] [[Lexicon/G801-900#G846|inwardly]] [[Lexicon/G1701-1800#G1722|...]] [[Lexicon/G1401-1500#G1438|...]] [[Lexicon/G501-600#G553|as we wait eagerly for]] [[Lexicon/G5201-5300#G5206|(our) adoption as sons ,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G601-700#G629|redemption]] [[Lexicon/G1401-1500#G1473|of our]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G4901-5000#G4983|bodies.]]
+
+##### Romans 8 - 24
+[[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G3501-3600#G3588|in this]] [[Lexicon/G1601-1700#G1680|hope]] [[Lexicon/G4901-5000#G4982|we were saved ;]] [[Lexicon/G1101-1200#G1161|but]] [[Lexicon/G1601-1700#G1680|hope]] [[Lexicon/G901-1000#G991|that is seen]] [[Lexicon/G1501-1600#G1510|is]] [[Lexicon/G3701-3800#G3756|no]] [[Lexicon/G1601-1700#G1680|hope (at all).]] [[Lexicon/G1001-1100#G1063|-]] [[Lexicon/G5101-5200#G5101|(Who)]] [[Lexicon/G5101-5200#G5101|...]] [[Lexicon/G1601-1700#G1679|hopes for]] [[Lexicon/G3701-3800#G3739|what]] [[Lexicon/G901-1000#G991|he can already see ?]]
+
+##### Romans 8 - 25
+[[Lexicon/G1101-1200#G1161|But]] [[Lexicon/G1401-1500#G1487|if]] [[Lexicon/G1601-1700#G1679|we hope for]] [[Lexicon/G3701-3800#G3739|what]] [[Lexicon/G3701-3800#G3756|vvv]] [[Lexicon/G901-1000#G991|we do not yet see ,]] [[Lexicon/G501-600#G553|we wait for (it)]] [[Lexicon/G1201-1300#G1223|vvv]] [[Lexicon/G5201-5300#G5281|patiently.]]
+
+##### Romans 8 - 26
+[[Lexicon/G1101-1200#G1161|-]] [[Lexicon/G5601-5624#G5615|In the same way]] [[Lexicon/G2501-2600#G2532|... ,]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4151|Spirit]] [[Lexicon/G4801-4900#G4878|helps us]] [[Lexicon/G1401-1500#G1473|in our]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G701-800#G769|weakness.]] [[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G3701-3800#G3756|vvv]] [[Lexicon/G1401-1500#G1492|we do not know]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5101-5200#G5101|how]] [[Lexicon/G2501-2600#G2526|vvv]] [[Lexicon/G1101-1200#G1163|we ought]] [[Lexicon/G4301-4400#G4336|to pray ,]] [[Lexicon/G201-300#G235|but]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4101-4200#G4151|Spirit]] [[Lexicon/G801-900#G846|Himself]] [[Lexicon/G5201-5300#G5241|intercedes (for us)]] [[Lexicon/G4701-4800#G4726|with groans]] [[Lexicon/G201-300#G215|too deep for words.]]
+
+##### Romans 8 - 27
+[[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G3501-3600#G3588|He who]] [[Lexicon/G2001-2100#G2045|searches]] [[Lexicon/G3501-3600#G3588|(our)]] [[Lexicon/G2501-2600#G2588|hearts]] [[Lexicon/G1401-1500#G1492|knows]] [[Lexicon/G5101-5200#G5101|-]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5401-5500#G5427|mind]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4101-4200#G4151|Spirit ,]] [[Lexicon/G3701-3800#G3754|because]] [[Lexicon/G1701-1800#G1793|(the Spirit) intercedes]] [[Lexicon/G5201-5300#G5228|for]] [[Lexicon/G1-100#G40|(the) saints]] [[Lexicon/G2501-2600#G2596|according to (the will)]] [[Lexicon/G2301-2400#G2316|(of) God.]]
+
+##### Romans 8 - 28
+[[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G1401-1500#G1492|we know]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|God]] [[Lexicon/G4901-5000#G4903|works all things together]] [[Lexicon/G3901-4000#G3956|...]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G1-100#G18|(the) good]] [[Lexicon/G3501-3600#G3588|of those who]] [[Lexicon/G1-100#G25|love]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|(Him) ,]] [[Lexicon/G3501-3600#G3588|who]] [[Lexicon/G1501-1600#G1510|are]] [[Lexicon/G2801-2900#G2822|called]] [[Lexicon/G2501-2600#G2596|according to]] [[Lexicon/G4201-4300#G4286|(His) purpose.]]
+
+##### Romans 8 - 29
+[[Lexicon/G3701-3800#G3754|For]] [[Lexicon/G3701-3800#G3739|those]] [[Lexicon/G4201-4300#G4267|(God) foreknew ,]] [[Lexicon/G2501-2600#G2532|vvv]] [[Lexicon/G4301-4400#G4309|He also predestined (to be)]] [[Lexicon/G4801-4900#G4832|conformed to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1501-1600#G1504|image]] [[Lexicon/G3501-3600#G3588|of]] [[Lexicon/G801-900#G846|His]] [[Lexicon/G5201-5300#G5207|Son ,]] [[Lexicon/G1501-1600#G1519|so that]] [[Lexicon/G801-900#G846|He]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G1501-1600#G1510|would be]] [[Lexicon/G4401-4500#G4416|(the) firstborn]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G4101-4200#G4183|many]] [[Lexicon/G1-100#G80|brothers.]]
+
+##### Romans 8 - 30
+[[Lexicon/G1101-1200#G1161|And]] [[Lexicon/G3701-3800#G3739|those]] [[Lexicon/G4301-4400#G4309|He predestined ,]] [[Lexicon/G3701-3800#G3778|-]] [[Lexicon/G2501-2600#G2532|vvv]] [[Lexicon/G2501-2600#G2564|He also called ;]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G3701-3800#G3739|(those)]] [[Lexicon/G2501-2600#G2564|He called ,]] [[Lexicon/G3701-3800#G3778|-]] [[Lexicon/G2501-2600#G2532|vvv]] [[Lexicon/G1301-1400#G1344|He (also) justified ;]] [[Lexicon/G1101-1200#G1161|-]] [[Lexicon/G3701-3800#G3739|(those)]] [[Lexicon/G1301-1400#G1344|He justified ,]] [[Lexicon/G3701-3800#G3778|-]] [[Lexicon/G2501-2600#G2532|vvv]] [[Lexicon/G1301-1400#G1392|He also glorified.]]
+
+##### Romans 8 - 31
+[[Lexicon/G5101-5200#G5101|What]] [[Lexicon/G3701-3800#G3767|then]] [[Lexicon/G2001-2100#G2046|shall we say]] [[Lexicon/G4301-4400#G4314|in response to]] [[Lexicon/G3701-3800#G3778|these things ?]] [[Lexicon/G1401-1500#G1487|If]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|God (is)]] [[Lexicon/G5201-5300#G5228|for]] [[Lexicon/G1401-1500#G1473|us ,]] [[Lexicon/G5101-5200#G5101|who (can be)]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G1401-1500#G1473|us ?]]
+
+##### Romans 8 - 32
+[[Lexicon/G1001-1100#G1065|-]] [[Lexicon/G3701-3800#G3739|He who]] [[Lexicon/G5301-5400#G5339|did not spare]] [[Lexicon/G3701-3800#G3756|...]] [[Lexicon/G3501-3600#G3588|(His)]] [[Lexicon/G2301-2400#G2398|own]] [[Lexicon/G5201-5300#G5207|Son]] [[Lexicon/G201-300#G235|but]] [[Lexicon/G3801-3900#G3860|gave]] [[Lexicon/G801-900#G846|Him up]] [[Lexicon/G5201-5300#G5228|for]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G3901-4000#G3956|all ,]] [[Lexicon/G4401-4500#G4459|how]] [[Lexicon/G3701-3800#G3780|{will He} not]] [[Lexicon/G2501-2600#G2532|also ,]] [[Lexicon/G4801-4900#G4862|along with]] [[Lexicon/G801-900#G846|Him ,]] [[Lexicon/G5401-5500#G5483|freely give]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|things ?]]
+
+##### Romans 8 - 33
+[[Lexicon/G5101-5200#G5101|Who]] [[Lexicon/G1401-1500#G1458|will bring any charge]] [[Lexicon/G2501-2600#G2596|against]] [[Lexicon/G2301-2400#G2316|God’s]] [[Lexicon/G1501-1600#G1588|elect ?]] [[Lexicon/G2301-2400#G2316|(It is) God]] [[Lexicon/G3501-3600#G3588|(who)]] [[Lexicon/G1301-1400#G1344|justifies.]]
+
+##### Romans 8 - 34
+[[Lexicon/G5101-5200#G5101|Who (is)]] [[Lexicon/G3501-3600#G3588|there]] [[Lexicon/G2601-2700#G2632|to condemn (us) ?]] [[Lexicon/G5501-5600#G5547|(For) Christ]] [[Lexicon/G2401-2500#G2424|Jesus ,]] [[Lexicon/G3501-3600#G3588|who]] [[Lexicon/G501-600#G599|died ,]] [[Lexicon/G1101-1200#G1161|and]] [[Lexicon/G3101-3200#G3123|more than that]] [[Lexicon/G1401-1500#G1453|was raised to life ,]] [[Lexicon/G3701-3800#G3739|-]] [[Lexicon/G1501-1600#G1510|is]] [[Lexicon/G1701-1800#G1722|at]] [[Lexicon/G1101-1200#G1188|(the) right hand]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|of God —]] [[Lexicon/G3701-3800#G3739|-]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2532|-]] [[Lexicon/G1701-1800#G1793|He is interceding]] [[Lexicon/G5201-5300#G5228|for]] [[Lexicon/G1401-1500#G1473|us.]]
+
+##### Romans 8 - 35
+[[Lexicon/G5101-5200#G5101|Who]] [[Lexicon/G5501-5600#G5563|shall separate]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G501-600#G575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G26|love]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G5501-5600#G5547|of Christ ?]] [[Lexicon/G2301-2400#G2347|{Shall} trouble]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G4701-4800#G4730|distress]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G1301-1400#G1375|persecution]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G3001-3100#G3042|famine]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G1101-1200#G1132|nakedness]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G2701-2800#G2794|danger]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G3101-3200#G3162|sword ?]]
+
+##### Romans 8 - 36
+[[Lexicon/G2501-2600#G2531|As]] [[Lexicon/G1101-1200#G1125|it is written :]] [[Lexicon/G3701-3800#G3754|“ -]] [[Lexicon/G1701-1800#G1752|For Your sake]] [[Lexicon/G4701-4800#G4771|...]] [[Lexicon/G2201-2300#G2289|we face death]] [[Lexicon/G3601-3700#G3650|all]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2201-2300#G2250|day long ;]] [[Lexicon/G3001-3100#G3049|we are considered]] [[Lexicon/G5601-5624#G5613|as]] [[Lexicon/G4201-4300#G4263|sheep]] [[Lexicon/G4901-5000#G4967|to be slaughtered.”]]
+
+##### Romans 8 - 37
+[[Lexicon/G201-300#G235|No ,]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3701-3800#G3778|these things]] [[Lexicon/G5201-5300#G5245|we are more than conquerors]] [[Lexicon/G1201-1300#G1223|through]] [[Lexicon/G3501-3600#G3588|Him who]] [[Lexicon/G1-100#G25|loved]] [[Lexicon/G1401-1500#G1473|us.]]
+
+##### Romans 8 - 38
+[[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G3901-4000#G3982|I am convinced]] [[Lexicon/G3701-3800#G3754|that]] [[Lexicon/G3701-3800#G3777|neither]] [[Lexicon/G2201-2300#G2288|death]] [[Lexicon/G3701-3800#G3777|nor]] [[Lexicon/G2201-2300#G2222|life ,]] [[Lexicon/G3701-3800#G3777|neither]] [[Lexicon/G1-100#G32|angels]] [[Lexicon/G3701-3800#G3777|nor]] [[Lexicon/G701-800#G746|principalities ,]] [[Lexicon/G3701-3800#G3777|neither]] [[Lexicon/G1701-1800#G1764|the present]] [[Lexicon/G3701-3800#G3777|nor]] [[Lexicon/G3101-3200#G3195|the future ,]] [[Lexicon/G3701-3800#G3777|nor]] [[Lexicon/G1401-1500#G1411|any powers ,]]
+
+##### Romans 8 - 39
+[[Lexicon/G3701-3800#G3777|neither]] [[Lexicon/G5301-5400#G5313|height]] [[Lexicon/G3701-3800#G3777|nor]] [[Lexicon/G801-900#G899|depth ,]] [[Lexicon/G3701-3800#G3777|nor]] [[Lexicon/G5001-5100#G5100|anything]] [[Lexicon/G2001-2100#G2087|else]] [[Lexicon/G2901-3000#G2937|in all creation ,]] [[Lexicon/G1401-1500#G1410|will be able]] [[Lexicon/G5501-5600#G5563|to separate]] [[Lexicon/G1401-1500#G1473|us]] [[Lexicon/G501-600#G575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G1-100#G26|love]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2301-2400#G2316|of God]] [[Lexicon/G3501-3600#G3588|that (is)]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G5501-5600#G5547|Christ]] [[Lexicon/G2401-2500#G2424|Jesus]] [[Lexicon/G1401-1500#G1473|our]] [[Lexicon/G3501-3600#G3588|-]] [[Lexicon/G2901-3000#G2962|Lord.]]

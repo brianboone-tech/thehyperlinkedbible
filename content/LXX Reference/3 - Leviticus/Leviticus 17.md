@@ -1,0 +1,60 @@
+---
+cssClasses: lxx
+Book: Leviticus
+Chapter: "17"
+Testament: Old
+---
+
+# Leviticus 17
+
+[[LXX Reference/03 - Leviticus/Leviticus 16|←]] • [[LXX Reference/03 - Leviticus/Leviticus 18|→]]
+
+---
+
+#### Leviticus 17 - 1
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4314|to]] Moses, [[Lexicon/G3001-3100#G3004|saying,]]
+
+#### Leviticus 17 - 2
+[[Lexicon/G2901-3000#G2980|Speak]] [[Lexicon/G4301-4400#G4314|to]] Aaron [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G5201-5300#G5207|his sons,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3901-4000#G3956|all]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel! [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2046|you shall say]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G4401-4500#G4487|saying]] [[Lexicon/G3701-3800#G3778|which]] [[Lexicon/G3001-3100#G3004|saying,]]
+
+#### Leviticus 17 - 3
+[[Lexicon/G401-500#G0444|a man]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel, [[Lexicon/G3701-3800#G3739|who ever]] [[Lexicon/G4901-5000#G4969|should slay]] [[Lexicon/G3401-3500#G3448|a calf]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G4201-4300#G4263|a sheep]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G101-200#G0137|a goat]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3925|camp,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G4901-5000#G4969|should slay]] [[Lexicon/G1801-1900#G1854|outside]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3925|camp,]]
+
+#### Leviticus 17 - 4
+[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|to]] [[Lexicon/G5601-5624#G5620|so as]] [[Lexicon/G4301-4400#G4374|to bring]] [[Lexicon/G1401-1500#G1435|a gift]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G501-600#G0561|before]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4601-4700#G4633|tent]] [[Lexicon/G101-200#G0129|blood]] [[Lexicon/G3001-3100#G3049|shall be imputed]] [[Lexicon/G401-500#G0444|to that man,]] [[Lexicon/G1601-1700#G1632|was poured out.]] [[Lexicon/G1801-1900#G1842|shall be utterly destroyed]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G2901-3000#G2992|its people,]]
+
+#### Leviticus 17 - 5
+[[Lexicon/G3701-3800#G3704|so]] [[Lexicon/G301-400#G0302|that]] [[Lexicon/G5301-5400#G5342|should bring]] [[Lexicon/G2301-2400#G2378|their sacrifices,]] [[Lexicon/G3701-3800#G3745|as many]] [[Lexicon/G301-400#G0302|as]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G4901-5000#G4969|should slay]] [[Lexicon/G1701-1800#G1722|in]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G3901-4000#G3977|plains,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G5301-5400#G5342|shall bring]] [[Lexicon/G1401-1500#G1473|them]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1901-2000#G1909|at]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2374|door]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4601-4700#G4633|tent]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3101-3200#G3142|testimony,]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2401-2500#G2409|priest.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2301-2400#G2380|they shall sacrifice]] [[Lexicon/G2301-2400#G2378|as a sacrifice]]
+
+#### Leviticus 17 - 6
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G4301-4400#G4377|shall pour]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0129|blood]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2379|altar,]] [[Lexicon/G501-600#G0561|before]] [[Lexicon/G3801-3900#G3844|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2374|door]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4601-4700#G4633|tent]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3101-3200#G3142|testimony.]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G301-400#G0399|he shall offer]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4701-4800#G4720|fat]] [[Lexicon/G1501-1600#G1519|for]] [[Lexicon/G3701-3800#G3744|a scent]] [[Lexicon/G2101-2200#G2175|of pleasant aroma]] [[Lexicon/G3501-3600#G3588|to the]]
+
+#### Leviticus 17 - 7
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3701-3800#G3756|they shall not]] [[Lexicon/G2301-2400#G2380|sacrifice]] [[Lexicon/G2001-2100#G2089|still]] [[Lexicon/G2301-2400#G2378|their sacrifices]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G3101-3200#G3152|vain gods]] [[Lexicon/G3701-3800#G3739|in which]] [[Lexicon/G1401-1500#G1473|they]] [[Lexicon/G1601-1700#G1608|fornicate]] [[Lexicon/G3601-3700#G3694|after]] [[Lexicon/G1401-1500#G1473|them;]] [[Lexicon/G3501-3600#G3544|law]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G1501-1600#G1519|unto]] [[Lexicon/G1001-1100#G1074|your generations.]]
+
+#### Leviticus 17 - 8
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G2001-2100#G2046|you shall say]] [[Lexicon/G4301-4400#G4314|to]] [[Lexicon/G1401-1500#G1473|them,]] [[Lexicon/G401-500#G0444|a man]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel, [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G501-600#G0575|from]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4339|foreigners]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4301-4400#G4343|ones lying nearby]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G4101-4200#G4160|should offer]] [[Lexicon/G3601-3700#G3646|a whole burnt-offering]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G2301-2400#G2378|sacrifice,]]
+
+#### Leviticus 17 - 9
+[[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G1901-2000#G1909|at]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2374|door]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4601-4700#G4633|tent]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G3101-3200#G3142|testimony]] [[Lexicon/G3301-3400#G3361|should not]] [[Lexicon/G5301-5400#G5342|bring anything]] [[Lexicon/G4101-4200#G4160|to offer]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G1801-1900#G1842|shall be utterly destroyed]] [[Lexicon/G1501-1600#G1537|from]] [[Lexicon/G2901-3000#G2992|his people.]]
+
+#### Leviticus 17 - 10
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G401-500#G0444|a man]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel, [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4301-4400#G4339|foreigners]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4301-4400#G4343|ones lying nearby]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2001-2100#G2068|should eat]] [[Lexicon/G3901-4000#G3956|any]] [[Lexicon/G101-200#G0129|blood,]] [[Lexicon/G2501-2600#G2532|that]] [[Lexicon/G2101-2200#G2186|I will set]] [[Lexicon/G4301-4400#G4383|my face]] [[Lexicon/G1901-2000#G1909|against]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G5501-5600#G5590|soul]] [[Lexicon/G2001-2100#G2068|eating]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G101-200#G0129|blood,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G601-700#G0622|I will destroy]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G1501-1600#G1537|from out of]] [[Lexicon/G2901-3000#G2992|its people.]]
+
+#### Leviticus 17 - 11
+[[Lexicon/G3501-3600#G3588|For the]] [[Lexicon/G5501-5600#G5590|life]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G4501-4600#G4561|flesh]] [[Lexicon/G101-200#G0129|its blood]] [[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G1401-1500#G1473|I]] [[Lexicon/G1301-1400#G1325|gave]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G1901-2000#G1909|upon]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G2301-2400#G2379|altar]] [[Lexicon/G1801-1900#G1837|to atone]] [[Lexicon/G4001-4100#G4012|for]] [[Lexicon/G5501-5600#G5590|your souls.]] [[Lexicon/G1001-1100#G1063|For]] [[Lexicon/G101-200#G0129|its blood]] [[Lexicon/G401-500#G0473|for]]
+
+#### Leviticus 17 - 12
+[[Lexicon/G1201-1300#G1223|On account of]] [[Lexicon/G3701-3800#G3778|this]] [[Lexicon/G2001-2100#G2046|I have said]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel, [[Lexicon/G3901-4000#G3956|Every]] [[Lexicon/G5501-5600#G5590|soul]] [[Lexicon/G1501-1600#G1537|of]] [[Lexicon/G1401-1500#G1473|you]] [[Lexicon/G3701-3800#G3756|shall not]] [[Lexicon/G2001-2100#G2068|eat]] [[Lexicon/G101-200#G0129|blood;]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4339|foreigner]] [[Lexicon/G4301-4400#G4343|lying near]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G1401-1500#G1473|to you]] [[Lexicon/G3701-3800#G3756|shall not]] [[Lexicon/G2001-2100#G2068|eat]] [[Lexicon/G101-200#G0129|blood.]]
+
+#### Leviticus 17 - 13
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G401-500#G0444|a man]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel, [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G3501-3600#G3588|of the]] [[Lexicon/G4301-4400#G4339|foreigners]] [[Lexicon/G4301-4400#G4343|lying near]] [[Lexicon/G1701-1800#G1722|to]] [[Lexicon/G1401-1500#G1473|you,]] [[Lexicon/G3701-3800#G3739|who]] [[Lexicon/G301-400#G0302|ever]] [[Lexicon/G2301-2400#G2340|shall hunt]] [[Lexicon/G2301-2400#G2339|a hunt]] [[Lexicon/G2301-2400#G2342|for a wild beast]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G4001-4100#G4071|birds,]] [[Lexicon/G3701-3800#G3739|which]] [[Lexicon/G2001-2100#G2068|is to be eaten,]] [[Lexicon/G1601-1700#G1632|he shall pour out]] [[Lexicon/G101-200#G0129|its blood,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2501-2600#G2572|cover]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G3501-3600#G3588|in the]] [[Lexicon/G1001-1100#G1093|ground.]]
+
+#### Leviticus 17 - 14
+[[Lexicon/G3501-3600#G3588|For the]] [[Lexicon/G5501-5600#G5590|life]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G4501-4600#G4561|flesh]] [[Lexicon/G101-200#G0129|its blood]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G2001-2100#G2036|I said]] [[Lexicon/G3501-3600#G3588|to the]] [[Lexicon/G5201-5300#G5207|sons]] of Israel, [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G4501-4600#G4561|flesh]] [[Lexicon/G3701-3800#G3756|you shall not]] [[Lexicon/G2001-2100#G2068|eat,]] [[Lexicon/G3701-3800#G3754|for]] [[Lexicon/G5501-5600#G5590|life]] [[Lexicon/G3901-4000#G3956|of all]] [[Lexicon/G4501-4600#G4561|flesh]] [[Lexicon/G101-200#G0129|its blood]] [[Lexicon/G3901-4000#G3956|Every one]] [[Lexicon/G2001-2100#G2068|eating]] [[Lexicon/G1401-1500#G1473|it]] [[Lexicon/G1801-1900#G1842|shall be utterly destroyed.]]
+
+#### Leviticus 17 - 15
+[[Lexicon/G2501-2600#G2532|And]] [[Lexicon/G3901-4000#G3956|every]] [[Lexicon/G5501-5600#G5590|soul]] [[Lexicon/G3701-3800#G3748|who]] [[Lexicon/G2001-2100#G2068|should eat]] [[Lexicon/G2301-2400#G2347|decaying flesh,]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G1701-1800#G1722|among]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G801-900#G0849|native born,]] [[Lexicon/G2201-2300#G2228|or]] [[Lexicon/G1701-1800#G1722|by]] [[Lexicon/G3501-3600#G3588|the]] [[Lexicon/G4301-4400#G4339|foreigners,]] [[Lexicon/G4101-4200#G4150|shall wash]] [[Lexicon/G2401-2500#G2440|his garments,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G3001-3100#G3068|shall bathe]] [[Lexicon/G5201-5300#G5204|in water,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G101-200#G0169|will be unclean]] [[Lexicon/G2101-2200#G2193|until]] [[Lexicon/G2001-2100#G2073|evening;]] [[Lexicon/G2501-2600#G2532|then]] [[Lexicon/G2501-2600#G2513|he will be clean.]]
+
+#### Leviticus 17 - 16
+[[Lexicon/G1401-1500#G1437|But if]] [[Lexicon/G3301-3400#G3361|he should not]] [[Lexicon/G4101-4200#G4150|wash]] [[Lexicon/G2401-2500#G2440|his garments,]] [[Lexicon/G2501-2600#G2532|and]] [[Lexicon/G4901-5000#G4983|his body]] [[Lexicon/G5201-5300#G5204|in water,]] [[Lexicon/G2501-2600#G2532|then]] [[Lexicon/G2901-3000#G2983|he shall take]] [[Lexicon/G1401-1500#G1473|himself.]]

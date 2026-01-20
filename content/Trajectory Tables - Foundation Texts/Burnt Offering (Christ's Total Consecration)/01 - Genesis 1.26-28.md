@@ -1,0 +1,22 @@
+### [[Readable Bible/01 - Genesis/Genesis 1#Genesis 1 . 26|Genesis 1:26-28]]
+
+**Hebrew Key Terms**:
+- [[Lexicon/H6201-6300#H6213|נַעֲשֶׂה]] (*naʿăśeh*) - "let us make" (cohortative, expressing divine resolve)
+- [[Lexicon/H0101-0200#H0120|אָדָם]] (*ʾādām*) - "man, humanity"
+- [[Lexicon/H6701-6800#H6754|בְּצַלְמֵנוּ]] (*bəṣalmēnû*) - "in our image"
+- [[Lexicon/H1801-1900#H1823|כִּדְמוּתֵנוּ]] (*kidmûtēnû*) - "according to our likeness"
+- [[Lexicon/H7201-7300#H7287|וְיִרְדּוּ]] (*wəyirdû*) - "and let them have dominion" (Qal jussive)
+- [[Lexicon/H1201-1300#H1288|וַיְבָרֶךְ]] (*wayəbārek*) - "and he blessed" (Piel)
+- [[Lexicon/H6501-6600#H6509|פְּרוּ]] (*pərû*) - "be fruitful" (Qal imperative)
+- [[Lexicon/H7501-7600#H7521|וּרְבוּ]] (*ûrəbû*) - "and multiply" (Qal imperative)
+- [[Lexicon/H3501-3600#H3533|וְכִבְשֻׁהָ]] (*wəkibšuhā*) - "and subdue it" (Qal imperative with suffix)
+
+**Context**: Before the Fall, humanity was created in God's image with total consecration to God's service as the creation mandate. The command to "have dominion" and "subdue" the earth established humanity's role as God's priestly representatives, charged with extending Eden's order throughout creation. This pattern of unreserved devotion to God's purposes—giving one's entire life to fulfill the Creator's will—prefigures the burnt offering principle: complete consecration of all one has and is to God's glory.
+
+**Connections**:
+- **FROM OT**: [[Readable Bible/01 - Genesis/Genesis 2#Genesis 2 . 15|Genesis 2:15]] (placed in Eden to work and keep), [[Readable Bible/19 - Psalms/Psalm 8#Psalm 8 . 4|Psalm 8:4-8]] (crowned with glory and honor, given dominion)
+- **FROM NT**: [[Readable Bible/45 - Romans/Romans 12#Romans 12 . 1|Romans 12:1]] (present bodies as living sacrifice), [[Readable Bible/46 - 1 Corinthians/1 Corinthians 10#1 Corinthians 10 . 31|1 Corinthians 10:31]] (whatever you do, do all to God's glory), [[Readable Bible/51 - Colossians/Colossians 3#Colossians 3 . 23|Colossians 3:23]] (work heartily as for the Lord), [[Readable Bible/58 - Hebrews/Hebrews 2#Hebrews 2 . 6|Hebrews 2:6-9]] (Christ fulfills Psalm 8's vision)
+
+**Christological Connection**: [[Readable Bible/01 - Genesis/Genesis 1#Genesis 1 . 26|Genesis 1:26-28]] establishes the creation pattern of total consecration that the burnt offering would later symbolize. Humanity was created to offer entire lives in service to God—exercising dominion not for self but for Creator's glory. The Fall disrupted this pattern, introducing sin and death. The Levitical burnt offering (Leviticus 1) became God's provision for restoring relationship, requiring complete consumption on the altar—every part offered to God, nothing held back. But these repeated offerings pointed beyond themselves to Christ, the true image of God ([[Readable Bible/51 - Colossians/Colossians 1#Colossians 1 . 15|Colossians 1:15]]), who fulfilled the creation mandate perfectly. Where Adam failed in total obedience, Christ succeeded. [[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 5|Hebrews 10:5-7]] places [[Readable Bible/19 - Psalms/Psalm 40#Psalm 40 . 6|Psalm 40:6-8]] in Christ's mouth: "a body you prepared for me... I have come to do your will, O God." Christ's entire life was burnt offering—unreserved consecration from incarnation through death. His death satisfied what [[Readable Bible/01 - Genesis/Genesis 1#Genesis 1 . 26|Genesis 1:26-28]] anticipated and the burnt offering symbolized: humanity wholly devoted to God's purposes. As the second Adam ([[Readable Bible/46 - 1 Corinthians/1 Corinthians 15#1 Corinthians 15 . 45|1 Corinthians 15:45-47]]), Christ restores the image marred by the first Adam, enabling believers to fulfill the creation mandate through Him. [[Readable Bible/45 - Romans/Romans 12#Romans 12 . 1|Romans 12:1]]'s call to present bodies as "living sacrifice" echoes [[Readable Bible/01 - Genesis/Genesis 1#Genesis 1 . 28|Genesis 1:28]]'s commission—believers now exercise Spirit-enabled dominion through total consecration. What began in Eden as humanity's intended purpose, disrupted by sin, symbolized in burnt offerings, was fulfilled in Christ's complete self-offering, and is being restored in the church as we offer our lives wholly to God. The trajectory culminates in [[Readable Bible/66 - Revelation/Revelation 22#Revelation 22 . 3|Revelation 22:3-5]] where glorified humanity serves God eternally—the creation mandate finally and forever realized.
+
+**Trajectory Table**: [[Trajectory Tables/023 - Burnt Offering (Christ's Total Consecration)]]

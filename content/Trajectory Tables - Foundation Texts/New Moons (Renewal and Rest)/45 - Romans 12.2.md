@@ -1,0 +1,21 @@
+### [[Readable Bible/45 - Romans/Romans 12#Romans 12 . 2|Romans 12:2]]
+
+**Greek Key Terms**:
+- [[Lexicon/G4701-4800#G4964|συσχηματίζεσθε]] (*syschēmatizesthe*) - "be conformed to" (present passive imperative with negative)
+- [[Lexicon/G0101-0200#G0165|τῷ αἰῶνι τούτῳ]] (*tō aiōni toutō*) - "this age, this world"
+- [[Lexicon/G3201-3300#G3339|μεταμορφοῦσθε]] (*metamorphousthe*) - "be transformed" (present passive imperative)
+- [[Lexicon/G0301-0400#G0342|ἀνακαινώσει]] (*anakainōsei*) - "by the renewal, renewing"
+- [[Lexicon/G3401-3500#G3563|τοῦ νοός]] (*tou noos*) - "of the mind, understanding"
+- [[Lexicon/G1301-1400#G1381|δοκιμάζειν]] (*dokimazein*) - "to test, discern, approve"
+- [[Lexicon/G2301-2400#G2307|τὸ θέλημα τοῦ θεοῦ]] (*to thelēma tou theou*) - "the will of God"
+- [[Lexicon/G0001-0100#G0018|ἀγαθὸν καὶ εὐάρεστον καὶ τέλειον]] (*agathon kai euareston kai teleion*) - "good and acceptable and perfect"
+
+**Context**: Paul exhorts believers not to conform to this world's pattern but to be transformed by mental renewal, enabling them to discern God's good, acceptable, and perfect will. This transformation isn't external conformity but internal renewal changing how believers think, discern, and live.
+
+**Connections**:
+- **TO**: [[Readable Bible/05 - Deuteronomy/Deuteronomy 10#Deuteronomy 10 . 16|Deuteronomy 10:16]] (circumcise your heart), [[Readable Bible/26 - Ezekiel/Ezekiel 36#Ezekiel 36 . 26|Ezekiel 36:26]] (new heart and spirit)
+- **FROM NT**: [[Readable Bible/49 - Ephesians/Ephesians 4#Ephesians 4 . 23|Ephesians 4:23-24]] (renewed in spirit of minds), [[Readable Bible/51 - Colossians/Colossians 3#Colossians 3 . 10|Colossians 3:10]] (renewed in knowledge), [[Readable Bible/50 - Philippians/Philippians 2#Philippians 2 . 5|Philippians 2:5]] (have this mind), [[Readable Bible/56 - Titus/Titus 3#Titus 3 . 5|Titus 3:5]] (renewal of Holy Spirit)
+
+**Christological Connection**: [[Readable Bible/45 - Romans/Romans 12#Romans 12 . 2|Romans 12:2]]'s mind renewal fulfills what new moons symbolized—monthly fresh start and renewed commitment. The new moon marked temporal renewal; Christ provides perpetual mental transformation. The command "be transformed" (metamorphousthe) is the same verb describing Jesus' transfiguration ([[Readable Bible/40 - Matthew/Matthew 17#Matthew 17 . 2|Matthew 17:2]])—Christ's glory revealed becomes believers' progressive transformation as they're conformed to His image ([[Readable Bible/45 - Romans/Romans 8#Romans 8 . 29|Romans 8:29]]). The "renewal of your mind" (anakainōsis tou noos) echoes new creation language: "Put on the new self, created after the likeness of God" ([[Readable Bible/49 - Ephesians/Ephesians 4#Ephesians 4 . 24|Ephesians 4:24]]). What occurred monthly under new moon observances (renewed covenant commitment) occurs continuously through Spirit's work. The Spirit progressively renews believers' thinking patterns, enabling them to "have the mind of Christ" ([[Readable Bible/46 - 1 Corinthians/1 Corinthians 2#1 Corinthians 2 . 16|1 Corinthians 2:16]]). The contrast between "this age" and God's will reflects eschatological tension—believers live in fallen age while belonging to coming kingdom. Mind renewal bridges this gap—thinking transformed from worldly to godly patterns. The goal—discerning God's "good and acceptable and perfect will"—reflects progressive sanctification where believers increasingly align with divine purposes. Paul describes this elsewhere: "We all, with unveiled face, beholding the glory of the Lord, are being transformed into the same image from one degree of glory to another" ([[Readable Bible/47 - 2 Corinthians/2 Corinthians 3#2 Corinthians 3 . 18|2 Corinthians 3:18]]). The new moon's visible monthly change prefigured invisible continuous transformation. The ultimate mind renewal occurs at resurrection when believers receive glorified bodies and perfected minds, knowing God fully ([[Readable Bible/46 - 1 Corinthians/1 Corinthians 13#1 Corinthians 13 . 12|1 Corinthians 13:12]]: "Then I shall know fully, even as I have been fully known"). New moons marked temporal renewal; Christ provides eternal transforming.
+
+**Trajectory Table**: [[Trajectory Tables/110 - New Moons (Renewal and Rest)]]

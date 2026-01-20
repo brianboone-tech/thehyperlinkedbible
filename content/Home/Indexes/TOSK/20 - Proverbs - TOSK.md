@@ -1,0 +1,50 @@
+# 💎 Proverbs - TOSK References
+
+<div style="text-align: center; margin-bottom: 1em;">
+
+**[[Home/Indexes/Readable Bible/20 - Proverbs|◀ Proverbs]]** · **[[Home/Indexes/TOSK Index|TOSK Index]]**
+
+</div>
+
+---
+
+## 📑 Chapter Navigation
+
+> [!tip] Treasury of Scripture Knowledge references for Proverbs
+
+| | | | | | | | | | |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 1 - TOSK\|1]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 2 - TOSK\|2]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 3 - TOSK\|3]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 4 - TOSK\|4]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 5 - TOSK\|5]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 6 - TOSK\|6]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 7 - TOSK\|7]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 8 - TOSK\|8]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 9 - TOSK\|9]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 10 - TOSK\|10]] |
+| [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 11 - TOSK\|11]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 12 - TOSK\|12]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 13 - TOSK\|13]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 14 - TOSK\|14]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 15 - TOSK\|15]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 16 - TOSK\|16]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 17 - TOSK\|17]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 18 - TOSK\|18]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 19 - TOSK\|19]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 20 - TOSK\|20]] |
+| [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 21 - TOSK\|21]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 22 - TOSK\|22]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 23 - TOSK\|23]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 24 - TOSK\|24]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 25 - TOSK\|25]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 26 - TOSK\|26]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 27 - TOSK\|27]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 28 - TOSK\|28]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 29 - TOSK\|29]] | [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 30 - TOSK\|30]] |
+| [[The Treasury of Scripture Knowledge/20. Proverbs TOSK/Proverbs - 31 - TOSK\|31]] |   |   |   |   |   |   |   |   |   |
+
+---
+
+## 📊 About This Resource
+
+> [!info] The Treasury of Scripture Knowledge
+
+The **Treasury of Scripture Knowledge** (TOSK) is a classic Bible reference work containing over 500,000 cross-references compiled by R.A. Torrey and others. Each chapter file contains verse-by-verse cross-references showing:
+
+- **Parallel passages** - Similar events or teachings
+- **Verbal connections** - Shared vocabulary or phrases
+- **Thematic links** - Related theological concepts
+- **Prophetic connections** - Prophecy and fulfillment
+
+---
+
+## 🔗 Quick Stats
+
+| Statistic | Value |
+|-----------|:-----:|
+| **Chapters** | 31 |
+| **Book** | Proverbs |
+
+---
+
+<div style="text-align: center; padding: 1em; background: linear-gradient(90deg, rgba(100,100,100,0) 0%, rgba(100,100,100,0.1) 50%, rgba(100,100,100,0) 100%); border-radius: 8px;">
+
+**[[Home/Indexes/Readable Bible/20 - Proverbs|◀ Proverbs]]** · **[[Home/Indexes/TOSK Index|TOSK Index]]**
+
+</div>

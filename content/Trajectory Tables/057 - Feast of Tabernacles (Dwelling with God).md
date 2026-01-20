@@ -1,0 +1,98 @@
+---
+cssclasses:
+  - trajectory-table
+---
+
+## FEAST OF TABERNACLES (DWELLING WITH GOD) TRAJECTORY TABLE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3jb3ZsS7wyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/3jb3ZsS7wyM)
+
+The Feast of Tabernacles (חַג הַסֻּכּוֹת, ḥag hassukkōt) commemorated Israel's wilderness wanderings when they dwelt in temporary shelters, depending entirely on God's provision. For seven days, Israel lived in booths, celebrating the harvest and remembering God's faithfulness. Mather writes: "The dwelling of the Israelites in booths was an eminent type of God's tabernacling among His people, first in the incarnation, then in the church by His Spirit, and ultimately in the new creation where God dwells with man forever." The feast pointed forward to God's ultimate tabernacling among His people in Christ, whose incarnation fulfilled the feast's significance. The trajectory moves from temporary dwelling in booths to the Word made flesh dwelling among us, and ultimately to the eternal dwelling of God with His people in the new creation.
+
+**Type Classification**: Direct Type (divinely instituted feast) and Forward-Looking (John 1:14 uses ἐσκήνωσεν/"tabernacled" to identify Christ's incarnation as fulfillment of the feast's dwelling theme).
+
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|-------------|
+| 1 | **OT Institution - Wilderness Remembrance** | [[Readable Bible/03 - Leviticus/Leviticus 23#Leviticus 23 . 33\|Leviticus 23:33-43]] | God commands Israel to observe the Feast of Tabernacles for seven days in the seventh month: 'You shall dwell in booths for seven days... that your generations may know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt' (vv. 42-43). The feast combines harvest celebration with wilderness remembrance, teaching dependence on God's provision. | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/03 - Leviticus 23.33-43\|Leviticus 23:33-43]] |
+| 2 | **OT Type - Tabernacle Dwelling** | [[Readable Bible/02 - Exodus/Exodus 25#Exodus 25 . 8\|Exodus 25:8-9]] | God commands: 'Let them make me a sanctuary, that I may dwell in their midst' (v. 8). The tabernacle fulfills God's desire to dwell among His people, providing the theological foundation for the Feast of Tabernacles. The portable tent-sanctuary accompanied Israel through the wilderness, making God's presence accessible and mobile. **CRITICAL:** [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 8.5 to Exodus 25.40\|Hebrews 8:5 → Exodus 25:40]] | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/02 - Exodus 25.8-9\|Exodus 25:8-9]] |
+| 3 | **OT Observance - Water and Light Ceremonies** | [[Readable Bible/16 - Nehemiah/Nehemiah 8#Nehemiah 8 . 14\|Nehemiah 8:14-18]] | Israel observes the feast with booths made from olive, myrtle, palm branches. Jewish tradition added water-pouring ceremonies (recalling water from the rock) and great lampstands illuminating the temple court (recalling the pillar of fire). These elements provide context for Jesus' proclamations in John 7-8. | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/16 - Nehemiah 8.14-18\|Nehemiah 8:14-18]] |
+| 4 | **Prophetic Anticipation - Future Dwelling** | [[Readable Bible/26 - Ezekiel/Ezekiel 37#Ezekiel 37 . 27\|Ezekiel 37:27-28]] | God promises: 'My dwelling place shall be with them, and I will be their God, and they shall be my people' (v. 27). Ezekiel prophesies the ultimate fulfillment of tabernacle theology—God dwelling permanently with a restored people, no longer in a tent but in eternal covenant relationship. **CRITICAL:** [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 37.24-28 to 2 Samuel 7.11-17\|Ezekiel 37:24-28 → 2 Samuel 7:11-17]] **CRITICAL:** [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 37.24-28 to Leviticus 26\|Ezekiel 37:24-28 → Leviticus 26]] | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/26 - Ezekiel 37.27-28\|Ezekiel 37:27-28]] |
+| 5 | **NT Fulfillment - Word Tabernacled** | [[Readable Bible/43 - John/John 1#John 1 . 14\|John 1:14]] | John announces: 'And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth' (v. 14). The verb 'dwelt' (skēnoō) means 'tabernacled'—Christ pitched His tent among us. The feast's temporary booths find fulfillment in Christ's incarnation, God dwelling bodily among His people, displaying the glory once manifest in the tabernacle. **CRITICAL:** [[Intertextuality Pairs/NT to OT/43 - John/John 1.14 to Exodus 25.8-9\|John 1:14 → Exodus 25:8-9]] | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/43 - John 1.14\|John 1:14]] |
+| 6 | **NT Fulfillment - Rivers of Living Water** | [[Readable Bible/43 - John/John 7#John 7 . 37\|John 7:37-39]] | On the last great day of the feast (when water-pouring climaxed), Jesus cries: 'If anyone thirsts, let him come to me and drink. Whoever believes in me, as the Scripture has said, Out of his heart will flow rivers of living water' (vv. 37-38). Christ fulfills the feast's water ceremony, providing the Spirit's living water that flows from His glorified presence. | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/43 - John 7.37-39\|John 7:37-39]] |
+| 7 | **NT Fulfillment - Light of the World** | [[Readable Bible/43 - John/John 8#John 8 . 12\|John 8:12]] | During or immediately after the Feast of Tabernacles, Jesus declares: 'I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life' (v. 12). Christ fulfills the feast's lampstand ceremony—He is the true light that illuminates God's dwelling place, guiding His people through the wilderness of this world. | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/43 - John 8.12\|John 8:12]] |
+| 8 | **NT Application - Christ Dwelling in Believers** | [[Readable Bible/43 - John/John 14#John 14 . 20\|John 14:20-23]] | Jesus promises: 'In that day you will know that I am in my Father, and you in me, and I in you... If anyone loves me, he will keep my word, and my Father will love him, and we will come to him and make our home with him' (vv. 20, 23). The tabernacling presence extends to individual believers—Father and Son dwelling within those who love Christ. | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/43 - John 14.20-23\|John 14:20-23]] |
+| 9 | **NT Application - Spirit Dwelling in the Church** | [[Readable Bible/46 - 1 Corinthians/1 Corinthians 3#1 Corinthians 3 . 16\|1 Corinthians 3:16-17]] | Paul announces: 'Do you not know that you are God's temple and that God's Spirit dwells in you?' (v. 16). The church corporately becomes God's dwelling place through the Spirit. What the tabernacle and temple prefigured, the Spirit-indwelt church now embodies—God dwelling among His covenant people. | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/46 - 1 Corinthians 3.16-17\|1 Corinthians 3:16-17]] |
+| 10 | **NT Application - Individual Temples** | [[Readable Bible/46 - 1 Corinthians/1 Corinthians 6#1 Corinthians 6 . 19\|1 Corinthians 6:19]] | Paul declares: 'Do you not know that your body is a temple of the Holy Spirit within you, whom you have from God?' (v. 19). Each believer's body becomes a sanctuary where God dwells by His Spirit. The feast's booths, Christ's incarnation, and the church's corporate identity all find individual expression in Spirit-filled believers. | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/46 - 1 Corinthians 6.19\|1 Corinthians 6:19]] |
+| 11 | **Eschatological Consummation - Eternal Dwelling** | [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 3\|Revelation 21:3]] | John sees the ultimate fulfillment: 'Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God' (v. 3). The feast's temporary booths, fulfilled initially in Christ's incarnation and presently in the Spirit-indwelt church, reach consummation in God's eternal tabernacling with His people in the new creation. No temple is needed, for 'the Lord God Almighty and the Lamb are its temple' (Rev 21:22). | [[Trajectory Tables - Foundation Texts/Feast of Tabernacles (Dwelling with God)/66 - Revelation 21.3\|Revelation 21:3]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+
+**03 - Leviticus**
+
+- [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 23.40 to Nehemiah 8.14-16\|Leviticus 23.40 to Nehemiah 8.14-16]] - Strong thematic connection! Leviticus 23:40 commands taking branches and dwelling in booths (סֻכֹּת, sukkōt), and Nehemiah 8:14-16 records post-exilic Israel discovering this command and faithfully observing it. Both texts use סֻכָּה vocabulary and address the concrete practice of dwelling in temporary shelters. Nehemiah's observance demonstrates renewed covenant faithfulness after exile, showing that the feast's commemorative dwelling remained authoritative. The pair directly develops the trajectory's dwelling theme.
+
+- [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 23.40 to Nehemiah 8.14\|Leviticus 23.40 to Nehemiah 8.14]] - Similar to the previous pair but focusing specifically on the command discovery. Nehemiah 8:14 records finding "written in the Law" that Israel should dwell in booths during the seventh month feast. The verbal connection is explicit (both use בַּסֻּכֹּת, bassukkōt), and the thematic connection is direct—observing Tabernacles as commanded. This demonstrates OT-internal development of the feast's continued relevance.
+
+**15 - Ezra**
+
+- [[Intertextuality Pairs/OT to OT/15 - Ezra/Ezra 3.3-7 to Leviticus 23.33-43\|Ezra 3.3-7 to Leviticus 23.33-43]] - Ezra 3:3-7 describes restored worship after exile, including observance of Tabernacles "as it is written" (3:4), directly referencing Leviticus 23:33-43. The pair connects the original feast command with its post-exilic restoration. This demonstrates covenantal continuity—even after exile, Israel returns to commemorating God's wilderness provision through booth-dwelling. The connection is direct and thematically strong, showing Tabernacles' enduring significance.
+
+**16 - Nehemiah**
+
+- [[Intertextuality Pairs/OT to OT/16 - Nehemiah/Nehemiah 8.14-16 to Leviticus 23.40\|Nehemiah 8.14-16 to Leviticus 23.40]] - Duplicate of earlier pair from 03 - Leviticus section (reversed direction). Strong direct connection: discovering the booth-dwelling command (סֻכֹּת vocabulary) and faithfully implementing it. This is core Tabernacles trajectory material.
+
+**26 - Ezekiel**
+
+- [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 34.23-31 to Ezekiel 37.24-28\|Ezekiel 34.23-31 to Ezekiel 37.24-28]] - Expanded version including Ezekiel 37:27-28's explicit dwelling promise. Ezekiel 34:23-31 and 37:24-28 both envision restored covenant with Davidic king and eternal dwelling. Ezekiel 37:27 contains primary vocabulary: מִשְׁכָּנִי (miškānî, "my dwelling place") and "I will be their God, they shall be my people" (covenant formula). This connects Davidic restoration with God's tabernacling promise, making it highly relevant to the trajectory.
+
+- [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 37.24-28 to 2 Samuel 7.11-17\|Ezekiel 37.24-28 to 2 Samuel 7.11-17]] - **CRITICAL:** This pair links Ezekiel's vision of Davidic king with eternal dwelling (37:27: מִשְׁכָּנִי, "my dwelling place") to the Davidic covenant foundation. 2 Samuel 7 promises David an eternal house/dynasty, and Ezekiel applies this to restoration context with added dwelling promise. The pair demonstrates how Davidic covenant theology integrates with God's desire to dwell among His people, showing that the Messianic king's reign enables permanent divine presence. Establishes key typological foundation and core prophetic development linking Davidic covenant to divine dwelling.
+
+- [[Intertextuality Pairs/OT to OT/26 - Ezekiel/Ezekiel 37.24-28 to Leviticus 26\|Ezekiel 37.24-28 to Leviticus 26]] - **CRITICAL:** Ezekiel 37:27 ("my dwelling place shall be with them... I will be their God, and they shall be my people") directly echoes Leviticus 26:11-12 ("I will make my dwelling among you... I will walk among you and will be your God, and you shall be my people"). Both use שָׁכַן/מִשְׁכָּן vocabulary and the covenant formula. This demonstrates canonical consistency—Ezekiel's prophetic promise of future dwelling fulfills the covenant blessing originally promised in Leviticus. Contains primary vocabulary and establishes key typological foundation.
+---
+
+## Four-Step Application
+
+### 1. What You Must Do
+
+You must find your security in God's presence, not your own structures. You must recognize that you are a sojourner, a pilgrim, a temporary dweller on your way to an eternal home.
+
+### 2. Why You Can't Do It
+
+You keep building booths and calling them castles. Every structure you trust for security eventually proves temporary—health fails, relationships strain, careers end, economies crash. You can't stop yourself from seeking permanence in things that pass away. Even your religious practices become structures you trust instead of the God they're supposed to point to.
+
+### 3. How He Did It
+
+Christ left the permanent glory of heaven and tabernacled in fragile human flesh. He became a sojourner, with "nowhere to lay his head" (Matthew 8:20). He was the portable sanctuary—God dwelling bodily among His people. On the Feast of Tabernacles, He declared Himself the living water and light the feast's ceremonies pointed to. And through His death and resurrection, He opened the way for God to dwell in us by the Spirit and for us to dwell with God eternally.
+
+### 4. How Through Him You Can
+
+Because Christ tabernacled among us, you don't need to construct your own security. Your body is now God's temple—He dwells in you. The church is now God's dwelling place—He dwells among us. And the new creation awaits—where God's dwelling place is with man forever. You can live as a pilgrim without anxiety because your destination is certain, your Guide is present, and your inheritance is secure. Live lightly in this world because your weight is carried by the God who never leaves.
+
+---
+
+## Lexicon Findings
+
+The Feast of Tabernacles trajectory traces a unified lexical network establishing God's progressive revelation of dwelling with His people. The Hebrew root **שָׁכַן** (shākan, [[Lexicon/H7901-8000#H7931|H7931]]) meaning "to dwell, tabernacle, reside" governs the entire trajectory. From this verb derives **מִשְׁכָּן** (mishkān, [[Lexicon/H4901-5000#H4908|H4908]]), the technical term for the wilderness tabernacle (Exodus 25:8). The feast commemorated Israel dwelling in **סֻכֹּת** (sukkōt, [[Lexicon/H5501-5600#H5521|H5521]]), "booths" or "temporary shelters" (Leviticus 23:42-43). Ezekiel's eschatological promise employs מִשְׁכָּן vocabulary: "My dwelling place shall be with them" (37:27). The LXX translates שָׁכַן consistently with **σκηνόω** (skēnoō, [[Lexicon/G4601-4700#G4637|G4637]]) and related terms. John 1:14's ἐσκήνωσεν ("he tabernacled") directly fulfills this lexical trajectory—Christ literally "pitched His tent" among us. The noun **σκηνή** (skēnē, [[Lexicon/G4601-4700#G4633|G4633]]) appears in Revelation 21:3: "the dwelling place (σκηνή) of God is with man," using the identical word family. Paul employs **ναός** (naos, [[Lexicon/G3401-3500#G3485|G3485]]) "temple/sanctuary" for believers' bodies (1 Corinthians 6:19), showing escalation from temporary סֻכָּה to permanent indwelling. The lexical chain—שָׁכַן → σκηνόω → σκηνή/ναός—demonstrates linguistic continuity from temporary wilderness booths to Christ's incarnation to the eschatological eternal dwelling.
+
+**Key Lexical Threads:**
+- **Hebrew**: שָׁכַן (*shākan*) - appears in Exodus 25:8, Ezekiel 37:27; root of מִשְׁכָּן (tabernacle)
+- **Hebrew**: סֻכָּה (*sukkāh*) - appears in Leviticus 23:42-43, Nehemiah 8:14-18 (feast booths)
+- **LXX**: σκηνόω (*skēnoō*) - standard translation of שָׁכַן
+- **NT**: σκηνόω (*skēnoō*) - John 1:14 (Christ tabernacled); ἐσκήνωσεν is aorist active indicative
+- **NT**: σκηνή (*skēnē*) - Revelation 21:3 (dwelling place of God)
+- **NT**: ναός (*naos*) - 1 Corinthians 3:16, 6:19 (temple/sanctuary - believers as God's dwelling)
+
+**Lexicon References:**
+- [[Lexicon/H7901-8000#H7931|H7931]] - שָׁכַן (shākan) - to dwell, tabernacle, reside
+- [[Lexicon/H4901-5000#H4908|H4908]] - מִשְׁכָּן (mishkān) - tabernacle, dwelling place
+- [[Lexicon/H5501-5600#H5521|H5521]] - סֻכָּה (sukkāh) - booth, temporary shelter
+- [[Lexicon/G4601-4700#G4637|G4637]] - σκηνόω (skēnoō) - to tent, tabernacle, dwell
+- [[Lexicon/G4601-4700#G4633|G4633]] - σκηνή (skēnē) - tent, tabernacle, dwelling place
+- [[Lexicon/G3401-3500#G3485|G3485]] - ναός (naos) - temple, sanctuary (inner dwelling)

@@ -1,0 +1,5 @@
+# Advertisement
+
+They who have a relish for the study of the Scriptures, and have access to peruse the following sheets, will, I am persuaded, deem themselves much indebted to the Reverend Mr. Edwards of New Haven for consenting to publish them. Though the acute philosopher and deep divine appears in them, yet they are in the general better calculated for the instruction and improvement of ordinary Christians, than those of President Edwards’ writings, where the abstruse nature of the subject, or the subtle objections of opposers of the truth, led him to more abstract and metaphysical reasonings. The manuscript being entrusted to my care, I have not presumed to make any change in the sentiments or composition. I have, however, taken the liberty to reduce it from the form of sermons, which it originally bore, to that of a continued treatise. And I have so altered and diversified the marks of the several divisions and subdivisions, that each class of heads might be easily distinguished.
+
+JOHN ERSKINE Edinburgh, April 29, 1774

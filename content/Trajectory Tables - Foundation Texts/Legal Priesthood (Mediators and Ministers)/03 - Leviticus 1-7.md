@@ -1,0 +1,20 @@
+### [[Readable Bible/03 - Leviticus/Leviticus 1#Leviticus 1 . 1|Leviticus 1-7]] (Priestly Daily Service)
+
+**Hebrew Key Terms**:
+- [[Lexicon/H3501-3600#H3548|הַכֹּהֵן]] (*hakkōhēn*) - "the priest"
+- [[Lexicon/H7101-7200#H7126|הִקְרִיב]] (*hiqrîb*) - "bring near, offer" (Hiphil)
+- [[Lexicon/H6901-7000#H6999|הִקְטִיר]] (*hiqṭîr*) - "burn on altar" (Hiphil, make smoke)
+- [[Lexicon/H2101-2200#H2236|זָרַק]] (*zāraq*) - "sprinkle, dash" (blood on altar)
+- [[Lexicon/H3501-3600#H3722|כִּפֶּר]] (*kipper*) - "make atonement"
+- [[Lexicon/H7401-7500#H7381|רֵיחַ נִיחוֹחַ]] (*rêaḥ nîḥôaḥ*) - "pleasing aroma"
+
+**Context**: Leviticus 1-7 details the five major sacrifices Israel offered: burnt offering (ʿōlāh), grain offering (minḥāh), peace offering (šəlāmîm), sin offering (ḥaṭṭāʾt), and guilt offering (ʾāšām). Priests mediate these offerings, applying blood, burning portions on the altar, and pronouncing atonement. Their daily service maintains Israel's covenant relationship with the holy God who dwells among them.
+
+**Connections**:
+- **TO**: [[Readable Bible/02 - Exodus/Exodus 29#Exodus 29 . 38|Exodus 29:38-42]] (continual burnt offering), [[Readable Bible/04 - Numbers/Numbers 28#Numbers 28 . 1|Numbers 28-29]] (daily and festival offerings)
+- **FROM OT**: [[Readable Bible/13 - 1 Chronicles/1 Chronicles 23#1 Chronicles 23 . 13|1 Chronicles 23:13]] (Aaron set apart to minister), [[Readable Bible/26 - Ezekiel/Ezekiel 44#Ezekiel 44 . 15|Ezekiel 44:15-16]] (Zadokite priests serve at altar)
+- **FROM NT**: [[Readable Bible/58 - Hebrews/Hebrews 5#Hebrews 5 . 1|Hebrews 5:1]] (appointed to offer gifts and sacrifices), [[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 11|Hebrews 10:11]] (every priest stands daily offering), [[Readable Bible/58 - Hebrews/Hebrews 9#Hebrews 9 . 6|Hebrews 9:6-7]] (priests enter regularly)
+
+**Christological Connection**: Leviticus 1-7's priestly sacrificial service prefigures Christ's perfect offering. Hebrews contrasts: Levitical priests "stand daily at their service, offering repeatedly the same sacrifices, which can never take away sins. But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God" ([[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 11|Hebrews 10:11-12]]). The standing/sitting contrast is decisive—standing indicates incomplete work, sitting signals finished work. Where priests offered "repeatedly," Christ offered "once for all" ([[Readable Bible/58 - Hebrews/Hebrews 7#Hebrews 7 . 27|Hebrews 7:27]]). Where their sacrifices "can never take away sins," Christ's sacrifice "perfected for all time those who are being sanctified" ([[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 14|Hebrews 10:14]]). Christ fulfills every sacrifice type: as burnt offering, He offered Himself completely to God ([[Readable Bible/49 - Ephesians/Ephesians 5#Ephesians 5 . 2|Ephesians 5:2]]); as sin offering, He bore our sins ([[Readable Bible/60 - 1 Peter/1 Peter 2#1 Peter 2 . 24|1 Peter 2:24]]); as peace offering, He reconciles us to God ([[Readable Bible/49 - Ephesians/Ephesians 2#Ephesians 2 . 16|Ephesians 2:16]]); as grain offering, His life was "pleasing aroma" to the Father. The daily sacrifices pointed to Christ who is "the Lamb of God, who takes away the sin of the world" ([[Readable Bible/43 - John/John 1#John 1 . 29|John 1:29]]). Levitical priests applied animal blood that merely covered sin; Christ shed His own blood that cleanses from all sin ([[Readable Bible/62 - 1 John/1 John 1#1 John 1 . 7|1 John 1:7]]). The perpetual altar fire symbolized Israel's continual need; Christ's single sacrifice meets that need eternally. Believers no longer require priestly mediation for access to God because Christ has opened "a new and living way" ([[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 20|Hebrews 10:20]]) through His flesh. The daily service was shadow; Christ is substance.
+
+**Trajectory Table**: [[Trajectory Tables/094 - Legal Priesthood (Mediators and Ministers)]]

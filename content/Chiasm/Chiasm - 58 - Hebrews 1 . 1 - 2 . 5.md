@@ -1,0 +1,18 @@
+---
+cssclasses: chiasm
+---
+
+**[[Home/Indexes/Readable Bible/58 - Hebrews|← Hebrews]]**
+
+---
+
+- A. [[Readable Bible/58 - Hebrews/Hebrews 1#Hebrews 1 . 1|1:1-4]] God, who at sundry times and in divers manners <span style="color: #c0392b; font-weight: bold;">spake</span> in time past unto the fathers by the prophets, Hath in these last days <span style="color: #c0392b; font-weight: bold;">spoken</span> unto us by his Son, whom he hath appointed heir of all things, by whom also he made the <span style="color: #c0392b; font-weight: bold;">worlds</span>; Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his <span style="color: #c0392b; font-weight: bold;">power</span>, when he had by himself purged our sins, sat down on the right hand of the Majesty on high: Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.
+
+    - B. [[Readable Bible/58 - Hebrews/Hebrews 1#Hebrews 1 . 5|1:5-7]] For unto which of the <span style="color: #2980b9; font-weight: bold;">angels</span> said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son? And again, when he bringeth in the firstbegotten into the world, he saith, And let all the <span style="color: #2980b9; font-weight: bold;">angels</span> of God worship him. And of the <span style="color: #2980b9; font-weight: bold;">angels</span> he saith, Who maketh his <span style="color: #2980b9; font-weight: bold;">angels</span> spirits, and his ministers a flame of fire.
+
+        - C. [[Readable Bible/58 - Hebrews/Hebrews 1#Hebrews 1 . 8|1:8-12]] But unto the Son he saith, <span style="color: #16a085; font-weight: bold;">Thy throne, O God, is for ever and ever</span>: a sceptre of righteousness is the sceptre of thy kingdom. Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows. And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands: They shall perish; but thou remainest; and they all shall wax old as doth a garment; And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.
+
+    - B'. [[Readable Bible/58 - Hebrews/Hebrews 1#Hebrews 1 . 13|1:13-14]] But to which of the <span style="color: #2980b9; font-weight: bold;">angels</span> said he at any time, Sit on my right hand, until I make thine enemies thy footstool? Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?
+
+- A'. [[Readable Bible/58 - Hebrews/Hebrews 2#Hebrews 2 . 1|2:1-5]] Therefore we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip. For if the word <span style="color: #c0392b; font-weight: bold;">spoken</span> by angels was stedfast, and every transgression and disobedience received a just recompence of reward; How shall we escape, if we neglect so great salvation; which at the first began to be <span style="color: #c0392b; font-weight: bold;">spoken</span> by the Lord, and was confirmed unto us by them that heard him; God also bearing them witness, both with signs and wonders, and with divers <span style="color: #c0392b; font-weight: bold;">miracles</span>, and gifts of the Holy Ghost, according to his own will? For unto the angels hath he not put in subjection the <span style="color: #c0392b; font-weight: bold;">world</span> to come, whereof we <span style="color: #c0392b; font-weight: bold;">speak</span>.
+

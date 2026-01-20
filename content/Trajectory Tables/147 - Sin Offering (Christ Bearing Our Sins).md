@@ -1,0 +1,116 @@
+---
+cssclasses:
+  - trajectory-table
+---
+
+## SIN OFFERING (CHRIST BEARING OUR SINS) TRAJECTORY TABLE
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/82s6QnfHKGA?si=7v8ORLrNnV1g4dXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+▶️ [Watch on YouTube](https://youtu.be/82s6QnfHKGA)
+
+The sin offering (Hebrew: חַטָּאת, chattat) was prescribed for unintentional sins that violated God's commands. Unlike burnt offerings that expressed devotion, sin offerings addressed specific transgressions requiring atonement. The offerer laid hands on the animal (imputation), it was slaughtered (substitutionary death), and the priest applied the blood at appropriate places (atonement). The progression of sin offerings (priest → congregation → ruler → common person) demonstrated that all levels of society needed atonement. This sacrifice points directly to Christ who "was made sin for us" (2 Corinthians 5:21) and whose blood cleanses from all sin.
+
+**Type Classification**: **Direct Type** (divinely commanded sacrifice) and **Forward-Looking** (Hebrews explicitly interprets Christ's work as the antitype).
+
+| # | Stage | Key Text(s) | Theological Development | Text Analysis |
+|---|-------|-------------|------------------------|---------------|
+| 1 | **OT Institution: Sin Offering Established** | [[Readable Bible/03 - Leviticus/Leviticus 4#Leviticus 4 . 2\|Leviticus 4:2-35]] | The sin offering (chattaah) was appointed for sins of ignorance and infirmity, with blood sprinkled before the veil and the body burned outside the camp, signifying removal of guilt. Different offerings were prescribed for different ranks: a young bullock for the anointed priest or whole congregation, a male kid for a ruler, a female kid or lamb for common people. The offerer laid hands on the sacrifice (transferring guilt), the priest sprinkled blood seven times before the veil and on the horns of the incense altar, and the remaining blood was poured at the altar's base. | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/01 - Leviticus 4.1-35\|Leviticus 4:1-35]] |
+| 2 | **OT Fulfillment: Day of Atonement Pattern** | [[Readable Bible/03 - Leviticus/Leviticus 16#Leviticus 16 . 27\|Leviticus 16:27]] | On the annual Day of Atonement, the high priest offered sin offerings for himself and the people, bringing blood into the Most Holy Place. The bodies of these animals were burned outside the camp—establishing the pattern of substitutionary sin-bearing taken outside the covenant community. Two goats revealed the dual aspect: one slain (propitiation), one sent away (removal of sin to Azazel). This annual ceremony testified that animal blood could not permanently remove sin but pointed to the perfect sacrifice to come. **CRITICAL:** [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 9.23 to Leviticus 16.16-19\|Hebrews 9:23 → Leviticus 16:16-19]] **CRITICAL:** [[Intertextuality Pairs/NT to OT/62 - 1 John/1 John 2.1-2 to Leviticus 16.11-16\|1 John 2:1-2 → Leviticus 16:11-16]] **CRITICAL:** [[Intertextuality Pairs/NT to OT/62 - 1 John/1 John 2.2 to Leviticus 16.15-16\|1 John 2:2 → Leviticus 16:15-16]] | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/02 - Leviticus 16.27\|Leviticus 16:27]] |
+| 3 | **OT Typology: Suffering Servant as Sin Offering** | [[Readable Bible/23 - Isaiah/Isaiah 53#Isaiah 53 . 10\|Isaiah 53:10-12]] | Isaiah foretells that Messiah's soul would be made 'an offering for sin' (asham), bearing the iniquity of many and making intercession for transgressors. The Suffering Servant is 'numbered with the transgressors' (v. 12), anticipating Christ's identification with sinners. God makes His soul a sin offering, yet He 'shall see His seed' and 'prolong His days'—pointing to resurrection beyond the sin-bearing. This prophetic revelation intensifies the OT pattern: a person, not an animal; willing submission, not unwilling sacrifice; bearing sin for many, not just covering temporarily. **CRITICAL:** [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 5.14 to Isaiah 53.10\|Leviticus 5:14 → Isaiah 53:10]] **CRITICAL:** [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 53.10 to Leviticus 5.14\|Isaiah 53:10 → Leviticus 5:14]] **CRITICAL:** [[Intertextuality Pairs/NT to OT/41 - Mark/Mark 10.45 to Isaiah 53.10-12\|Mark 10:45 → Isaiah 53:10-12]] | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/03 - Isaiah 53.10-12\|Isaiah 53:10-12]] |
+| 4 | **NT Anticipation: John's Proclamation** | [[Readable Bible/43 - John/John 1#John 1 . 29\|John 1:29]] | John the Baptist identifies Jesus as 'the Lamb of God who takes away the sin of the world,' merging Passover lamb and sin offering imagery. The language shifts from covering sin (kaphar) to removing/carrying away sin (airo). This declaration at Christ's public ministry's outset establishes His mission: He is both sacrifice and priest, bearing away the world's sin through His substitutionary death. Unlike endless animal offerings, this Lamb will accomplish complete removal of sin. | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/04 - John 1.29\|John 1:29]] |
+| 5 | **NT Fulfillment: Christ as Propitiation** | [[Readable Bible/45 - Romans/Romans 3#Romans 3 . 25\|Romans 3:25-26]] | God put forward Christ as a propitiation (hilasterion—mercy seat) by His blood, demonstrating divine righteousness in passing over former sins. Christ Himself becomes the mercy seat where God's justice and mercy meet. The sacrificial system's center—the blood-sprinkled cover of the ark where God's presence dwelt—now appears in flesh. God's forbearance with OT sin is vindicated through Christ's retroactive atonement, showing God both just (punishing sin) and justifier (forgiving the ungodly) simultaneously. | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/05 - Romans 3.25-26\|Romans 3:25-26]] |
+| 6 | **NT Fulfillment: Outside the Gate** | [[Readable Bible/58 - Hebrews/Hebrews 13#Hebrews 13 . 11\|Hebrews 13:11-13]] | Christ suffered outside the gate as the ultimate sin offering, His blood brought into the heavenly sanctuary while His body bore the reproach of the cross. Hebrews draws the explicit parallel: 'The bodies of those animals whose blood is brought into the holy place by the high priest as an offering for sin are burned outside the camp. So Jesus also suffered outside the gate to sanctify the people through His own blood.' Believers are called to 'go to Him outside the camp, bearing His reproach.' **CRITICAL:** [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 13.11 to Leviticus 16.27\|Hebrews 13:11 → Leviticus 16:27]] | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/06 - Hebrews 13.11-13\|Hebrews 13:11-13]] |
+| 7 | **NT Fulfillment: The Great Exchange** | [[Readable Bible/47 - 2 Corinthians/2 Corinthians 5#2 Corinthians 5 . 21\|2 Corinthians 5:21]] | God made Christ 'to be sin for us' (a sin offering), that we might become the righteousness of God in Him. The complete exchange is accomplished: our sins laid on Him (as hands were laid on the sin offering), His righteousness credited to us. Through His sin offering, we receive 'the righteousness of God'—perfect standing before the Father based not on our works but on His substitutionary sacrifice. This surpasses the OT pattern: temporary covering becomes permanent transformation. | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/07 - 2 Corinthians 5.21\|2 Corinthians 5:21]] |
+| 8 | **NT Fulfillment: Bearing Sins on the Tree** | [[Readable Bible/60 - 1 Peter/1 Peter 2#1 Peter 2 . 24\|1 Peter 2:24]] | Peter declares Christ 'bore our sins in His body on the tree,' merging Isaiah 53's sin-bearing with Deuteronomy 21's curse theology. The cross is both sin offering altar and place of curse-bearing. Christ absorbed divine wrath against sin in His physical body, accomplishing what animal sacrifices foreshadowed: actual removal of sin's guilt and power. 'By His wounds you have been healed'—the sin offering brings not just forgiveness but restoration, enabling believers to 'die to sin and live to righteousness.' | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/08 - 1 Peter 2.24\|1 Peter 2:24]] |
+| 9 | **NT Fulfillment: Once-for-All Offering** | [[Readable Bible/58 - Hebrews/Hebrews 9#Hebrews 9 . 28\|Hebrews 9:28]] | Christ was offered once to bear the sins of many (echoing Isaiah 53:12), and will appear a second time not to deal with sin but to save those eagerly waiting. Unlike the annual Day of Atonement requiring repetition, Christ's single offering accomplished eternal redemption. The contrast is absolute: many sacrifices vs. one; temporary covering vs. permanent removal; anticipation vs. consummation. His second appearing will not address sin (already finished) but bring final salvation to glorified believers. **CRITICAL:** [[Intertextuality Pairs/NT to OT/58 - Hebrews/Hebrews 9.28 to Isaiah 53.12\|Hebrews 9:28 → Isaiah 53:12]] | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/09 - Hebrews 9.28\|Hebrews 9:28]] |
+| 10 | **Believer's Response: Cleansing and Access** | [[Readable Bible/62 - 1 John/1 John 1#1 John 1 . 7\|1 John 1:7]]; [[Readable Bible/58 - Hebrews/Hebrews 10#Hebrews 10 . 19\|Hebrews 10:19-22]] | The blood of Jesus cleanses from all sin, and believers have confidence to enter the holy places by His blood—access the sin offering purchased. The veil (Christ's flesh) has been torn, granting immediate access to God's presence. What was restricted to the high priest once yearly is now the believer's perpetual privilege. Through Christ's sin offering, the conscience is purified to worship the living God, and continuous cleansing is applied as we walk in the light. | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/10 - 1 John 1.7 & Hebrews 10.19-22\|1 John 1:7 & Hebrews 10:19-22]] |
+| 11 | **Eschatological Consummation: Sin Removed Forever** | [[Readable Bible/66 - Revelation/Revelation 21#Revelation 21 . 27\|Revelation 21:27]]; [[Readable Bible/66 - Revelation/Revelation 22#Revelation 22 . 3\|Revelation 22:3]] | In the new creation, nothing unclean enters the city and 'no longer will there be any curse.' The sin offering's ultimate purpose is realized: sin permanently removed, curse fully reversed, immediate divine presence without mediation. The Lamb (who was the sin offering) is now the eternal temple and light of the city. What began with animal bodies burned outside the camp culminates in a redeemed humanity dwelling with God forever, sin's power and presence eradicated through Christ's completed sacrifice. | [[Trajectory Tables - Foundation Texts/Sin Offering (Christ Bearing Our Sins)/11 - Revelation 21.27 & 22.3\|Revelation 21:27 & 22:3]] |
+
+---
+
+## Canonical Intertextuality Pairs
+
+### OT to OT
+
+
+**03 - Leviticus**
+
+- [[Intertextuality Pairs/OT to OT/03 - Leviticus/Leviticus 5.14 to Isaiah 53.10\|Leviticus 5.14 to Isaiah 53.10]] - **CRITICAL:** Leviticus 5:14 establishes the אָשָׁם (asham, guilt offering) as divine provision for trespass against holy things, requiring ram sacrifice plus 20% restitution. Isaiah 53:10 prophetically applies this terminology to the Suffering Servant: "when his soul makes an offering for guilt" (asham). The verbal link connects Levitical substitution (animal for human) with messianic substitution (Servant for many). This OT-to-OT development shows prophetic interpretation of sacrificial types: what Leviticus enacted ritually, Isaiah envisioned personally in the coming Servant who would become the ultimate guilt offering, bearing sin's penalty and making full restitution to divine justice.
+
+**23 - Isaiah**
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 53.7 to Jeremiah 11.19\|Isaiah 53.7 to Jeremiah 11.19]] - Both passages employ the "lamb led to slaughter" imagery, creating powerful typological resonance. Isaiah 53:7 describes the Servant's silent submission: "like a lamb that is led to the slaughter, and like a sheep that before its shearers is silent." Jeremiah 11:19 personalizes this: "I was like a gentle lamb led to the slaughter; I did not know that they devised schemes against me." The prophetic intertext shows Jeremiah's suffering prefiguring the greater Servant's vicarious death. The lamb motif connects to Levitical sin offerings (lambs for common people, Leviticus 4:32-35) and anticipates John 1:29's "Lamb of God who takes away the sin of the world." This OT development traces innocent-victim typology from sacrificial system through prophetic experience to messianic fulfillment.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 53.10 to Leviticus 5.14\|Isaiah 53.10 to Leviticus 5.14]] - **CRITICAL:** This is the reciprocal link of the first entry. Isaiah 53:10's declaration that Yahweh will "make his soul an offering for guilt" (נֶפֶשׁ אָשָׁם, asham) directly alludes to Leviticus 5:14-6:7's guilt offering legislation. The prophetic innovation: not an animal but the Servant's nephesh (soul/life) becomes the asham. This represents escalation and personalization—the Levitical type pointed to a human fulfillment. The connection establishes that Isaiah consciously interpreted Levitical sacrificial categories messianically, envisioning One whose voluntary self-offering would accomplish what animal sacrifices could only symbolize. The bearing of sin (נָשָׂא חֵטְא, nasa chet, v. 12) connects guilt offering with sin bearing, core to this trajectory.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 57.14 to Isaiah 53.5\|Isaiah 57.14 to Isaiah 53.5]] - Similar to previous entry, Isaiah 57:14's restoration language connects to Isaiah 53:5: "he was pierced for our transgressions, crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed." The "peace" (שָׁלוֹם, shalom) in 53:5 fulfills 57:19's promise: "Peace, peace, to the far and the near." The Servant's wounds remove the obstructions (transgressions, iniquities) blocking covenant fellowship. The substitutionary bearing of punishment (מוּסַר שְׁלוֹמֵנוּ, musar shelomenu) directly relates to sin offering's purpose: transferring penalty from guilty to innocent substitute. Strong verbal and conceptual links to trajectory theme.
+
+- [[Intertextuality Pairs/OT to OT/23 - Isaiah/Isaiah 57.14-21 to Isaiah 53.5\|Isaiah 57.14-21 to Isaiah 53.5]] - This pair connects the same restoration passage (57:14-21) to the core substitutionary atonement verse (53:5: "pierced for our transgressions... by his wounds we are healed"). The verbal link is explicit: 57:18-19 speaks of healing and peace, which 53:5 attributes to the Servant's suffering. The chiasticstructure (53's suffering → 57's healing) shows progressive revelation within Isaiah: atonement accomplished, restoration applied. The connection reinforces that sin offering produces healing and peace, central outcomes in sin offering typology (forgiveness, reconciliation, fellowship restored).
+
+**24 - Jeremiah**
+
+- [[Intertextuality Pairs/OT to OT/24 - Jeremiah/Jeremiah 11.19 to Isaiah 53.7\|Jeremiah 11.19 to Isaiah 53.7]] - Reciprocal of earlier entry. "Lamb led to slaughter" creates powerful typological link between Jeremiah's prophetic suffering and Isaiah's Servant. Both figures experience innocent suffering that prefigures Christ's sacrificial death. The connection to sin offering is through lamb typology (Leviticus 4:32-35 prescribes female lamb for common person's sin offering), showing canonical development from ritual animal → prophetic type → messianic fulfillment. While not using explicit sin offering vocabulary, the sacrificial lamb imagery is foundational to the trajectory.
+---
+
+## Four-Step Application
+
+### 1. What You Must Do
+
+You must bring your sins to God through the appointed sacrifice. You cannot atone for yourself; you need a substitute. Your unintentional sins (violations you didn't even know about) require cleansing. Your conscious transgressions require covering. You need blood.
+
+### 2. Why You Can't Do It
+
+You have nothing sufficient to offer. Animals could only provide temporary, ceremonial cleansing. Your best efforts are filthy rags (Isaiah 64:6). You cannot lay your hand on your own head and transfer your guilt to yourself—you're already guilty. You cannot die in your own place—you deserve the death. The logic of substitution requires another.
+
+### 3. How He Did It
+
+Christ became the sin offering. God "made him to be sin who knew no sin" (2 Corinthians 5:21). The sinless One received imputed guilt—our hands, metaphorically, pressed on His head. He was slaughtered outside the camp, His blood applied not to earthly altars but to the heavenly mercy seat itself. What bulls and goats could only picture, Christ actually accomplished: real atonement, real propitiation, real removal of guilt. And He did it once—not annually, not repeatedly, but ἐφάπαξ, once for all.
+
+### 4. How Through Him You Can
+
+Your conscience can be clean. Not because you've stopped sinning (you haven't), but because Christ has been made sin for you. When guilt accuses, you point to His blood. When law condemns, you hide in His righteousness. "There is now no condemnation for those who are in Christ Jesus" (Romans 8:1). The sin offering system is over—not because you need to perform it yourself, but because Christ has fulfilled it entirely. Rest in His finished work. Your sins are remembered no more.
+
+---
+
+## Lexicon Findings
+
+The sin offering trajectory reveals precise lexical connections from Hebrew חַטָּאת (*chattat*, [[Lexicon/H2401-2500#H2403|H2403]]) through Greek ἁμαρτία (*hamartia*, [[Lexicon/G201-300#G266|G266]]) to New Testament fulfillment. The Hebrew term *chattat* derives from the root חָטָא (*chata*, [[Lexicon/H2301-2400#H2398|H2398]]) meaning "to miss, go wrong, sin." Remarkably, *chattat* means both "sin" (the transgression) and "sin offering" (the sacrifice)—the same word for disease and cure. This dual meaning is theologically profound: the sacrifice becomes what it removes. The Septuagint translators consistently rendered *chattat* as *hamartia*, maintaining this semantic range. Paul exploits this in 2 Corinthians 5:21: God made Christ "sin" (ἁμαρτίαν)—Christ became what the *chattat* offering represented. The hand-laying ritual employed סָמַךְ (*samak*, [[Lexicon/H5501-5600#H5564|H5564]]) "to lay, lean, support," signifying transference of guilt. The Levitical formula כִּפֶּר (*kipper*, [[Lexicon/H3701-3800#H3722|H3722]]) "to make atonement" appears consistently throughout the sin offering prescriptions, translated by LXX as ἐξιλάσκομαι (*exilaskomai*, [[Lexicon/G1801-1900#G1805|G1805]]). Hebrews applies this vocabulary to Christ's sacrifice: His blood accomplishes true καθαρισμός (*katharismos*, [[Lexicon/G2501-2600#G2512|G2512]]) "cleansing" that animal blood could only symbolize.
+
+**Key Lexical Threads:**
+- **Hebrew**: חַטָּאת (*chattat*) - sin/sin offering; appears throughout Leviticus 4
+- **Hebrew**: סָמַךְ (*samak*) - lay hands upon; imputation ritual
+- **Hebrew**: כִּפֶּר (*kipper*) - make atonement
+- **LXX**: ἁμαρτία (*hamartia*) - sin/sin offering; 2 Corinthians 5:21
+- **NT**: ἐφάπαξ (*ephapax*) - once for all; Hebrews 10:10
+
+**Lexicon References:**
+- [[Lexicon/H2401-2500#H2403|H2403]] - חַטָּאת (*chattat*) - sin, sin offering
+- [[Lexicon/H2301-2400#H2398|H2398]] - חָטָא (*chata*) - to miss, sin
+- [[Lexicon/H5501-5600#H5564|H5564]] - סָמַךְ (*samak*) - to lay, lean, support
+- [[Lexicon/H3701-3800#H3722|H3722]] - כִּפֶּר (*kipper*) - to cover, make atonement
+- [[Lexicon/G201-300#G266|G266]] - ἁμαρτία (*hamartia*) - sin, sin offering
+- [[Lexicon/G2501-2600#G2512|G2512]] - καθαρισμός (*katharismos*) - cleansing, purification
+- [[Lexicon/G2101-2200#G2178|G2178]] - ἐφάπαξ (*ephapax*) - once for all
+
+---
+
+## Additional Insights from Andrew Bonar
+
+*From Commentary on Leviticus (1851)*
+
+### The Four Cases of Sin (Priest, Congregation, Ruler, Common Person)
+
+Bonar emphasizes the deliberate structure of Leviticus 4: "Four cases are here stated. (1.) The anointed Priest; (2.) The whole Congregation; (3.) The Ruler; (4.) The common people." Each case required different offerings and different blood applications, teaching that all ranks of society—religious leaders, the nation, civil rulers, and ordinary people—need atonement equally.
+
+### Blood Application: On the Veil and at the Base
+
+Bonar traces the blood's journey: "The blood is taken into the holy place and sprinkled seven times before the veil... then put on the horns of the golden altar... and the rest poured at the bottom of the brazen altar." This three-fold application represented Christ's atonement reaching God's presence (veil), being applied in intercession (incense altar), and accomplishing satisfaction of justice (brazen altar base).
+
+### The Body Burned Outside the Camp
+
+"All this is to be done 'without the camp'—a distance, it is calculated, of four miles from the holy place." Bonar develops this into a distinct typological theme (see [[Trajectory Tables/178 - Burning Outside the Camp (Separation and Judgment)|Burning Outside the Camp TT]]): the sin-bearer, though accepted by blood within, must be rejected without—exactly as Christ's blood entered heaven while His body suffered outside Jerusalem's gates.
+
+### Sins of Ignorance and God's Compassion
+
+Bonar draws attention to the provision for unknowing sin: "The sin through ignorance (שְׁגָגָה) is the same that David prays against in Psalm 19:12... Jehovah, God of Israel, institutes sacrifice for sins of ignorance, and thereby discovers the same compassionate and considerate heart that appears in our High Priest, 'who can have compassion on the ignorant!'" (See [[Trajectory Tables/179 - Sins of Ignorance (Christ's Compassion for the Unknowing)|Sins of Ignorance TT]]).
