@@ -1,4 +1,0 @@
----
-Folder: Reference Bible
----
--
